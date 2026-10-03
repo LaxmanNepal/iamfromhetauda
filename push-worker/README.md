@@ -20,7 +20,7 @@ binding = "PUSH_KV"
 id = "YOUR_NAMESPACE_ID"
 ```
 
-Cloudflare KV is available on the Free plan; current free limits include 100,000 reads/day and 1,000 writes/day. citeturn3search0turn3search1
+Cloudflare KV is available on the Free plan; current free limits include 100,000 reads/day and 1,000 writes/day.
 
 ## 2. Generate VAPID keys
 
@@ -30,7 +30,7 @@ Run:
 npx web-push generate-vapid-keys
 ```
 
-Keep the private key secret. Web Push uses the VAPID public key in the browser subscription and the private key only on the server. citeturn1search1turn4search2
+Keep the private key secret. Web Push uses the VAPID public key in the browser subscription and the private key only on the server.
 
 Then set Worker secrets:
 
@@ -66,7 +66,7 @@ curl https://YOUR_WORKER_URL/config
 
 Set `PUSH_API_BASE` in `index.html` to the Worker URL, then redeploy the GitHub Pages site.
 
-The browser subscription must happen from the user's button click; this is required/best practice for PushManager subscription. citeturn4search2
+The browser subscription must happen from the user's button click; this is required/best practice for PushManager subscription.
 
 The Worker never receives or stores the newspaper's original URL as the notification target. Notification clicks always go to:
 
