@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T23:35:50.262778+00:00",
+  "updated_at": "2026-10-03T23:44:26.511734+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -27,15 +27,15 @@
         "Ratopati",
         "Thaha Khabar",
         "Gorkhapatra Online",
-        "Khabarhub",
         "OnlineKhabar",
         "Lokaantar"
       ],
-      "source_count": 6,
+      "id": "1336815c03ff3ce9",
+      "source_count": 5,
       "verified": true,
       "local": false,
-      "score": 140.6,
-      "story_size": 6
+      "score": 140.0,
+      "story_size": 5
     },
     {
       "title": "चर्को ध्वनिसहित मोटरसाइकल चलाउनेविरुद्ध कारबाही",
@@ -50,10 +50,11 @@
         "Ratopati",
         "Khabarhub"
       ],
+      "id": "bb7f1ee89334d496",
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 123.5,
+      "score": 123.0,
       "story_size": 3
     },
     {
@@ -68,10 +69,11 @@
         "Ratopati",
         "Gorkhapatra Online"
       ],
+      "id": "4b2a52029ec44f58",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 117.6,
+      "score": 117.0,
       "story_size": 2
     },
     {
@@ -86,10 +88,11 @@
         "Ratopati",
         "Gorkhapatra Online"
       ],
+      "id": "06199ea225b79b3a",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 116.3,
+      "score": 115.7,
       "story_size": 2
     },
     {
@@ -104,10 +107,11 @@
         "Gorkhapatra Online",
         "Ratopati"
       ],
+      "id": "c3d8e8a11c4ea200",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 115.6,
+      "score": 115.0,
       "story_size": 2
     },
     {
@@ -121,10 +125,11 @@
       "related_sources": [
         "Ratopati"
       ],
+      "id": "9ab8831701e1bded",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.6,
+      "score": 112.0,
       "story_size": 1
     },
     {
@@ -138,10 +143,11 @@
       "related_sources": [
         "Ratopati"
       ],
+      "id": "34387893fb367332",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.2,
+      "score": 111.6,
       "story_size": 1
     },
     {
@@ -156,10 +162,11 @@
         "Ratopati",
         "Khabarhub"
       ],
+      "id": "a18814fdcd6e597a",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 111.7,
+      "score": 111.1,
       "story_size": 2
     },
     {
@@ -173,10 +180,11 @@
       "related_sources": [
         "Ratopati"
       ],
+      "id": "80281d6ead486e9f",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.6,
+      "score": 111.0,
       "story_size": 1
     },
     {
@@ -190,10 +198,11 @@
       "related_sources": [
         "Ratopati"
       ],
+      "id": "93a9555809359d23",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.6,
+      "score": 110.0,
       "story_size": 1
     },
     {
@@ -207,10 +216,29 @@
       "related_sources": [
         "Ratopati"
       ],
+      "id": "12dec72974cf1c0b",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.4,
+      "score": 109.8,
+      "story_size": 1
+    },
+    {
+      "title": "आइतबारका लागि विदेशी मुद्राको विनिमयदर यस्तो छ",
+      "link": "https://khabarhub.com/2026/04/1032683/",
+      "description": "काठमाडौँ– नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५३ रुपैयाँ ८१ पैसा र बिक्रीदर १५४ रुपैयाँ ४१ पैसा निर्धारण गरिएको छ । युरोपियन युरो एकको खरिददर १७३ रुपैयाँ ०१ पैसा र बिक्रीदर १७३ रुपैयाँ ६९ पैसा, युके पाउन्ड स्ट्रलिङ एकको खरिददर २०३ रुपैयाँ [&#8230;]",
+      "published": "2026-10-03T23:36:06+00:00",
+      "source": "Khabarhub",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "c6cc9568530f715c",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.4,
       "story_size": 1
     },
     {
@@ -224,10 +252,11 @@
       "related_sources": [
         "Khabarhub"
       ],
+      "id": "8805df959b220f44",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.7,
+      "score": 109.2,
       "story_size": 1
     },
     {
@@ -241,10 +270,11 @@
       "related_sources": [
         "Khabarhub"
       ],
+      "id": "1d197c3090aa3d7e",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.2,
+      "score": 108.7,
       "story_size": 1
     },
     {
@@ -258,10 +288,11 @@
       "related_sources": [
         "Ratopati"
       ],
+      "id": "1219b719d3e1a607",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.1,
+      "score": 108.6,
       "story_size": 1
     },
     {
@@ -276,10 +307,11 @@
         "Thaha Khabar",
         "Khabarhub"
       ],
+      "id": "c0dfbbf7a85c0cd3",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 108.3,
+      "score": 107.7,
       "story_size": 2
     },
     {
@@ -294,10 +326,11 @@
         "Ratopati",
         "Lokaantar"
       ],
+      "id": "2ff9924210b71ccb",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 106.5,
+      "score": 106.0,
       "story_size": 2
     },
     {
@@ -312,10 +345,11 @@
         "Thaha Khabar",
         "Khabarhub"
       ],
+      "id": "e7c5d12467433cb9",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 105.9,
+      "score": 105.4,
       "story_size": 2
     },
     {
@@ -330,10 +364,11 @@
         "Khabarhub",
         "Setopati"
       ],
+      "id": "c4b45beb6aaf006b",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 101.6,
+      "score": 101.0,
       "story_size": 2
     },
     {
@@ -347,10 +382,11 @@
       "related_sources": [
         "Ratopati"
       ],
+      "id": "c756c02b4f9843fc",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.4,
+      "score": 98.8,
       "story_size": 1
     },
     {
@@ -365,10 +401,11 @@
         "Khabarhub",
         "Lokaantar"
       ],
+      "id": "613ee112cf8856e3",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 99.2,
+      "score": 98.6,
       "story_size": 2
     },
     {
@@ -382,10 +419,11 @@
       "related_sources": [
         "Ratopati"
       ],
+      "id": "49e9c863b7a7cdcd",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.6,
+      "score": 95.0,
       "story_size": 1
     },
     {
@@ -399,10 +437,11 @@
       "related_sources": [
         "Ratopati"
       ],
+      "id": "e9d6484bccb9161a",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.6,
+      "score": 94.0,
       "story_size": 1
     },
     {
@@ -416,10 +455,11 @@
       "related_sources": [
         "Ratopati"
       ],
+      "id": "02b410dcdea03f4b",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.2,
+      "score": 93.6,
       "story_size": 1
     },
     {
@@ -433,10 +473,11 @@
       "related_sources": [
         "Ratopati"
       ],
+      "id": "9cd9e3b6ff1111a2",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.6,
+      "score": 91.1,
       "story_size": 1
     },
     {
@@ -451,10 +492,11 @@
         "Kendrabindu",
         "Lokaantar"
       ],
+      "id": "578649b5051aca76",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 91.0,
+      "score": 90.4,
       "story_size": 2
     },
     {
@@ -468,10 +510,11 @@
       "related_sources": [
         "Ratopati"
       ],
+      "id": "995b2cedf40e7416",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.5,
+      "score": 89.9,
       "story_size": 1
     },
     {
@@ -485,10 +528,11 @@
       "related_sources": [
         "Ratopati"
       ],
+      "id": "60c8ac7904d2baf5",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.3,
+      "score": 88.8,
       "story_size": 1
     },
     {
@@ -502,10 +546,11 @@
       "related_sources": [
         "Ratopati"
       ],
+      "id": "46bc8676c66bbf06",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.0,
+      "score": 88.5,
       "story_size": 1
     },
     {
@@ -519,10 +564,11 @@
       "related_sources": [
         "Ratopati"
       ],
+      "id": "c34e1fb349ca4381",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.1,
+      "score": 87.5,
       "story_size": 1
     },
     {
@@ -536,10 +582,11 @@
       "related_sources": [
         "Setopati"
       ],
+      "id": "d6719138cb4a730d",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.5,
+      "score": 86.9,
       "story_size": 1
     },
     {
@@ -553,10 +600,11 @@
       "related_sources": [
         "Gorkhapatra Online"
       ],
+      "id": "4e3bc912e554b361",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.5,
+      "score": 86.9,
       "story_size": 1
     },
     {
@@ -571,10 +619,11 @@
         "Kendrabindu",
         "OnlineKhabar"
       ],
+      "id": "eeaa38a27bf5b78a",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 87.2,
+      "score": 86.6,
       "story_size": 2
     },
     {
@@ -588,10 +637,11 @@
       "related_sources": [
         "Ratopati"
       ],
+      "id": "bcb355d35f6ef38b",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.1,
+      "score": 85.5,
       "story_size": 1
     },
     {
@@ -605,10 +655,11 @@
       "related_sources": [
         "Ratopati"
       ],
+      "id": "2aec55937371d074",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.7,
+      "score": 85.2,
       "story_size": 1
     },
     {
@@ -622,10 +673,11 @@
       "related_sources": [
         "Ratopati"
       ],
+      "id": "2e9876812b334641",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.7,
+      "score": 85.1,
       "story_size": 1
     },
     {
@@ -639,10 +691,11 @@
       "related_sources": [
         "Gorkhapatra Online"
       ],
+      "id": "092487af6d037f24",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.4,
+      "score": 84.8,
       "story_size": 1
     },
     {
@@ -656,10 +709,11 @@
       "related_sources": [
         "Nepal Samaya"
       ],
+      "id": "a377b4cd1737ba48",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.2,
+      "score": 84.6,
       "story_size": 1
     },
     {
@@ -673,10 +727,11 @@
       "related_sources": [
         "Nepal Samaya"
       ],
+      "id": "7b190c29fe5a2cb1",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.1,
+      "score": 84.5,
       "story_size": 1
     },
     {
@@ -690,10 +745,11 @@
       "related_sources": [
         "Nepal Samaya"
       ],
+      "id": "1ed1eb2818b54f18",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.1,
+      "score": 84.5,
       "story_size": 1
     },
     {
@@ -707,10 +763,11 @@
       "related_sources": [
         "Nepal Samaya"
       ],
+      "id": "0ea8331ba04eb713",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.0,
+      "score": 84.4,
       "story_size": 1
     },
     {
@@ -724,27 +781,11 @@
       "related_sources": [
         "Nepal Samaya"
       ],
+      "id": "8e35790ac580d5ad",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.9,
-      "story_size": 1
-    },
-    {
-      "title": "जितिया पर्वमा नुहाउने क्रममा डुबेर दुई बालिकाको मृत्यु",
-      "link": "https://gorkhapatraonline.com/news/225310",
-      "description": "शिवशंकर मिश्रा बारा, असोज १७ गते । जितिया पर्वका अवसरमा पोखरीमा नुहाउने क्रममा बाराको देवताल गाउँपालिकामा दुई बालिकाको डुबेर मृत्यु भएको छ।देवताल गाउँपालिका–६ जबकास्थित राजेन्द्र क...",
-      "published": "2026-10-03T22:16:41+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/386310/conversions/dubeko-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 84.7,
+      "score": 84.4,
       "story_size": 1
     },
     {
@@ -758,10 +799,29 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "0e5f915692ee14e4",
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 84.7,
+      "score": 84.2,
+      "story_size": 1
+    },
+    {
+      "title": "जितिया पर्वमा नुहाउने क्रममा डुबेर दुई बालिकाको मृत्यु",
+      "link": "https://gorkhapatraonline.com/news/225310",
+      "description": "शिवशंकर मिश्रा बारा, असोज १७ गते । जितिया पर्वका अवसरमा पोखरीमा नुहाउने क्रममा बाराको देवताल गाउँपालिकामा दुई बालिकाको डुबेर मृत्यु भएको छ।देवताल गाउँपालिका–६ जबकास्थित राजेन्द्र क...",
+      "published": "2026-10-03T22:16:41+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/386310/conversions/dubeko-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "582fd694c8695939",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 84.1,
       "story_size": 1
     },
     {
@@ -775,10 +835,11 @@
       "related_sources": [
         "Gorkhapatra Online"
       ],
+      "id": "26636fc9b32943bc",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.3,
+      "score": 83.7,
       "story_size": 1
     },
     {
@@ -792,10 +853,11 @@
       "related_sources": [
         "Baahrakhari"
       ],
+      "id": "47b4cb09ccc3b518",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.8,
+      "score": 83.2,
       "story_size": 1
     },
     {
@@ -809,10 +871,11 @@
       "related_sources": [
         "Ratopati"
       ],
+      "id": "c050286706eec2a5",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.6,
+      "score": 83.0,
       "story_size": 1
     },
     {
@@ -826,10 +889,11 @@
       "related_sources": [
         "Gorkhapatra Online"
       ],
+      "id": "2e467c3e6a8e1ed5",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.4,
+      "score": 82.8,
       "story_size": 1
     },
     {
@@ -843,27 +907,11 @@
       "related_sources": [
         "Ratopati"
       ],
+      "id": "9453d9acd09ab763",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.3,
-      "story_size": 1
-    },
-    {
-      "title": "सडक दुर्घटना न्यूनीकरणका लागि राष्ट्रिय सडक सुरक्षा परिषद् प्रस्ताव",
-      "link": "https://baahrakhari.com/detail/503634",
-      "description": "",
-      "published": "2026-10-03T22:34:35+05:45",
-      "source": "Baahrakhari",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 82.9,
+      "score": 82.8,
       "story_size": 1
     },
     {
@@ -877,10 +925,29 @@
       "related_sources": [
         "Thaha Khabar"
       ],
+      "id": "ebb3be192e91dce1",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.9,
+      "score": 82.4,
+      "story_size": 1
+    },
+    {
+      "title": "सडक दुर्घटना न्यूनीकरणका लागि राष्ट्रिय सडक सुरक्षा परिषद् प्रस्ताव",
+      "link": "https://baahrakhari.com/detail/503634",
+      "description": "",
+      "published": "2026-10-03T22:34:35+05:45",
+      "source": "Baahrakhari",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "7295b959ad8e8d24",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 82.3,
       "story_size": 1
     },
     {
@@ -894,10 +961,11 @@
       "related_sources": [
         "Ratopati"
       ],
+      "id": "fd7bbefe5b2261d4",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.9,
+      "score": 82.3,
       "story_size": 1
     },
     {
@@ -911,10 +979,11 @@
       "related_sources": [
         "Ratopati"
       ],
+      "id": "22a68cbeb1853c64",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.5,
+      "score": 81.9,
       "story_size": 1
     },
     {
@@ -928,10 +997,11 @@
       "related_sources": [
         "Ratopati"
       ],
+      "id": "13d512e20326e2a3",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.4,
+      "score": 80.8,
       "story_size": 1
     },
     {
@@ -945,10 +1015,11 @@
       "related_sources": [
         "Khabarhub"
       ],
+      "id": "a8985bb9dd80ffef",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.8,
+      "score": 80.2,
       "story_size": 1
     },
     {
@@ -962,10 +1033,11 @@
       "related_sources": [
         "Baahrakhari"
       ],
+      "id": "5365568df7326cde",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.5,
+      "score": 80.0,
       "story_size": 1
     },
     {
@@ -979,10 +1051,11 @@
       "related_sources": [
         "Thaha Khabar"
       ],
+      "id": "27c5f530027cca9a",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.3,
+      "score": 79.8,
       "story_size": 1
     },
     {
@@ -996,10 +1069,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "56a3e9563311ae0c",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.1,
+      "score": 79.6,
       "story_size": 1
     },
     {
@@ -1013,10 +1087,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "5bfcce1dbff2c80d",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.1,
+      "score": 79.5,
       "story_size": 1
     },
     {
@@ -1030,10 +1105,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "1d175f020b40c6d2",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.0,
+      "score": 79.4,
       "story_size": 1
     },
     {
@@ -1047,10 +1123,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "21f372b0b2e61a58",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.0,
+      "score": 79.4,
       "story_size": 1
     },
     {
@@ -1064,10 +1141,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "b51f33dfe2b7ed60",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.0,
+      "score": 79.4,
       "story_size": 1
     },
     {
@@ -1081,10 +1159,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "4d703e08655302c1",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.9,
+      "score": 79.3,
       "story_size": 1
     },
     {
@@ -1098,10 +1177,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "ed62929c7084dfb5",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.9,
+      "score": 79.3,
       "story_size": 1
     },
     {
@@ -1115,10 +1195,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "9165fcaf8781677c",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.8,
+      "score": 79.3,
       "story_size": 1
     },
     {
@@ -1132,10 +1213,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "7986f9a4b30fb63f",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.8,
+      "score": 79.3,
       "story_size": 1
     },
     {
@@ -1149,10 +1231,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "f59a92385a688d72",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.8,
+      "score": 79.2,
       "story_size": 1
     },
     {
@@ -1166,10 +1249,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "0b27ed01b83bbd69",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.8,
+      "score": 79.2,
       "story_size": 1
     },
     {
@@ -1183,10 +1267,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "766b31c85abfb5d0",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.7,
+      "score": 79.2,
       "story_size": 1
     },
     {
@@ -1200,10 +1285,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "00cf5e1bf913837f",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.7,
+      "score": 79.1,
       "story_size": 1
     },
     {
@@ -1217,10 +1303,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "624312f36f31a507",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.6,
+      "score": 79.0,
       "story_size": 1
     },
     {
@@ -1234,10 +1321,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "478ef16a6a819fd4",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.6,
+      "score": 79.0,
       "story_size": 1
     },
     {
@@ -1251,10 +1339,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "e1edb2b1275cdf26",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.4,
+      "score": 78.9,
       "story_size": 1
     },
     {
@@ -1268,10 +1357,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "9a13704c16ad8490",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.0,
+      "score": 78.4,
       "story_size": 1
     },
     {
@@ -1285,10 +1375,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "c0b63354080b3e24",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.5,
+      "score": 78.0,
       "story_size": 1
     },
     {
@@ -1302,10 +1393,11 @@
       "related_sources": [
         "Baahrakhari"
       ],
+      "id": "fdfc03eea0f7b409",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.3,
+      "score": 77.7,
       "story_size": 1
     },
     {
@@ -1319,10 +1411,11 @@
       "related_sources": [
         "Setopati"
       ],
+      "id": "5dac58b63919d735",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.9,
+      "score": 77.3,
       "story_size": 1
     },
     {
@@ -1336,10 +1429,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "b5dccbe51a7f1500",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.6,
+      "score": 77.0,
       "story_size": 1
     },
     {
@@ -1353,10 +1447,11 @@
       "related_sources": [
         "Baahrakhari"
       ],
+      "id": "0b3f5299694f6604",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.7,
+      "score": 76.1,
       "story_size": 1
     },
     {
@@ -1370,10 +1465,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "f24278b68ea1b811",
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 75.9,
+      "score": 75.4,
       "story_size": 1
     },
     {
@@ -1387,10 +1483,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "e5057ff9aa4acdcb",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.1,
+      "score": 73.6,
       "story_size": 1
     },
     {
@@ -1404,10 +1501,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "c7bf8666c35965e2",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.6,
+      "score": 73.1,
       "story_size": 1
     },
     {
@@ -1421,10 +1519,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "27e7ed38b26bb643",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.9,
+      "score": 72.3,
       "story_size": 1
     },
     {
@@ -1438,10 +1537,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "5816b8daf890e115",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.5,
+      "score": 71.9,
       "story_size": 1
     },
     {
@@ -1455,10 +1555,11 @@
       "related_sources": [
         "Setopati"
       ],
+      "id": "bb32c254a75cf629",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.2,
+      "score": 71.6,
       "story_size": 1
     },
     {
@@ -1472,10 +1573,11 @@
       "related_sources": [
         "Kendrabindu"
       ],
+      "id": "48d731ab0574a56b",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.7,
+      "score": 71.1,
       "story_size": 1
     },
     {
@@ -1489,10 +1591,11 @@
       "related_sources": [
         "Kendrabindu"
       ],
+      "id": "eafb1ee04884aec7",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.3,
+      "score": 70.8,
       "story_size": 1
     },
     {
@@ -1506,10 +1609,11 @@
       "related_sources": [
         "Setopati"
       ],
+      "id": "9307369d464cf850",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.3,
+      "score": 70.7,
       "story_size": 1
     },
     {
@@ -1523,10 +1627,11 @@
       "related_sources": [
         "Kendrabindu"
       ],
+      "id": "41c651aab97c44da",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.8,
+      "score": 70.2,
       "story_size": 1
     },
     {
@@ -1540,10 +1645,11 @@
       "related_sources": [
         "Kendrabindu"
       ],
+      "id": "39e206a4ef75439c",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.6,
+      "score": 70.0,
       "story_size": 1
     },
     {
@@ -1557,10 +1663,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "47865fa1b4931151",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.5,
+      "score": 70.0,
       "story_size": 1
     },
     {
@@ -1574,10 +1681,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "5abcd0d7d4a11f51",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.9,
+      "score": 69.3,
       "story_size": 1
     },
     {
@@ -1591,10 +1699,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "8a3c458f666c65fe",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.8,
+      "score": 69.3,
       "story_size": 1
     },
     {
@@ -1608,10 +1717,11 @@
       "related_sources": [
         "Kendrabindu"
       ],
+      "id": "60b682a05863ace9",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.6,
+      "score": 69.1,
       "story_size": 1
     },
     {
@@ -1625,10 +1735,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "bbdd39edf532e58d",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.3,
+      "score": 68.7,
       "story_size": 1
     },
     {
@@ -1642,10 +1753,11 @@
       "related_sources": [
         "Kendrabindu"
       ],
+      "id": "b316d68f5d4f5935",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.4,
+      "score": 67.9,
       "story_size": 1
     },
     {
@@ -1659,10 +1771,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "63d3868a23894b69",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.0,
+      "score": 67.4,
       "story_size": 1
     },
     {
@@ -1676,10 +1789,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "aafe2d1e28179779",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.7,
+      "score": 67.1,
       "story_size": 1
     },
     {
@@ -1693,10 +1807,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "df467793125724df",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.7,
+      "score": 67.1,
       "story_size": 1
     },
     {
@@ -1710,10 +1825,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "372ccfb04909ddb4",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.6,
+      "score": 66.1,
       "story_size": 1
     },
     {
@@ -1727,10 +1843,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "459b9a8b635b4145",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.4,
+      "score": 65.9,
       "story_size": 1
     },
     {
@@ -1744,10 +1861,11 @@
       "related_sources": [
         "Kendrabindu"
       ],
+      "id": "5176dd66ea00522b",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 65.8,
+      "score": 65.2,
       "story_size": 1
     },
     {
@@ -1761,10 +1879,11 @@
       "related_sources": [
         "Kendrabindu"
       ],
+      "id": "d9d45779169d3d15",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 65.1,
+      "score": 64.5,
       "story_size": 1
     },
     {
@@ -1778,10 +1897,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "b41dc84f40df8c38",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 64.0,
+      "score": 63.4,
       "story_size": 1
     },
     {
@@ -1795,10 +1915,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "38306e5be6ba62b7",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 63.5,
+      "score": 62.9,
       "story_size": 1
     },
     {
@@ -1812,10 +1933,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "ef3d8633462d688d",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 63.3,
+      "score": 62.7,
       "story_size": 1
     },
     {
@@ -1829,10 +1951,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "9917f292e59188e4",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 62.6,
+      "score": 62.0,
       "story_size": 1
     },
     {
@@ -1846,10 +1969,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "d4df6d48c05137e4",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 61.9,
+      "score": 61.3,
       "story_size": 1
     },
     {
@@ -1863,10 +1987,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "cdb068abb22d6678",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 61.9,
+      "score": 61.3,
       "story_size": 1
     },
     {
@@ -1880,10 +2005,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "2de0dc18799a10db",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 61.5,
+      "score": 60.9,
       "story_size": 1
     },
     {
@@ -1897,10 +2023,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "6190b6a52bb328bd",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 61.1,
+      "score": 60.6,
       "story_size": 1
     },
     {
@@ -1914,10 +2041,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "a5ab3bc84b1c8f92",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 60.8,
+      "score": 60.3,
       "story_size": 1
     },
     {
@@ -1931,10 +2059,11 @@
       "related_sources": [
         "BBC Nepali"
       ],
+      "id": "41158a82648580b4",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 60.8,
+      "score": 60.2,
       "story_size": 1
     },
     {
@@ -1948,10 +2077,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "1225f742f3fca7f4",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 60.2,
+      "score": 59.6,
       "story_size": 1
     },
     {
@@ -1965,10 +2095,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "e211b662677ec64b",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 59.2,
+      "score": 58.6,
       "story_size": 1
     },
     {
@@ -1982,10 +2113,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "17a6ea4c021ba04a",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 59.0,
+      "score": 58.4,
       "story_size": 1
     },
     {
@@ -1999,10 +2131,11 @@
       "related_sources": [
         "BBC Nepali"
       ],
+      "id": "2c6417b1e171fd20",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 56.3,
+      "score": 55.7,
       "story_size": 1
     },
     {
@@ -2016,10 +2149,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "8d1c40811fcfe291",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 56.1,
+      "score": 55.5,
       "story_size": 1
     },
     {
@@ -2033,10 +2167,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "4a650e9c38aafc89",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 55.7,
+      "score": 55.1,
       "story_size": 1
     },
     {
@@ -2050,10 +2185,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "596b75671b59429d",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 55.2,
+      "score": 54.6,
       "story_size": 1
     },
     {
@@ -2067,10 +2203,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "357323f8cd26eb50",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 54.4,
+      "score": 53.8,
       "story_size": 1
     },
     {
@@ -2084,10 +2221,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "f7ce9bddc0a8780c",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 54.3,
+      "score": 53.7,
       "story_size": 1
     },
     {
@@ -2101,10 +2239,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "459bd59ee06bc4f4",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 54.1,
+      "score": 53.5,
       "story_size": 1
     },
     {
@@ -2118,10 +2257,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
+      "id": "4405bf6eaa59d219",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 52.8,
+      "score": 52.2,
       "story_size": 1
     },
     {
@@ -2135,10 +2275,11 @@
       "related_sources": [
         "BBC Nepali"
       ],
+      "id": "c277ce4a23178d33",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 45.0,
+      "score": 44.4,
       "story_size": 1
     },
     {
@@ -2152,10 +2293,11 @@
       "related_sources": [
         "BBC Nepali"
       ],
+      "id": "15b9853598a1cad8",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 37.4,
+      "score": 36.8,
       "story_size": 1
     },
     {
@@ -2169,10 +2311,11 @@
       "related_sources": [
         "BBC Nepali"
       ],
+      "id": "783be46de5c1cae2",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 32.7,
+      "score": 32.1,
       "story_size": 1
     },
     {
@@ -2186,10 +2329,11 @@
       "related_sources": [
         "BBC Nepali"
       ],
+      "id": "1ece3714097232b2",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 27.3,
+      "score": 26.7,
       "story_size": 1
     },
     {
@@ -2203,6 +2347,7 @@
       "related_sources": [
         "BBC Nepali"
       ],
+      "id": "16d6b40168fbb7cc",
       "source_count": 1,
       "verified": false,
       "local": false,
@@ -2220,6 +2365,7 @@
       "related_sources": [
         "BBC Nepali"
       ],
+      "id": "c72ceb88d76fe06b",
       "source_count": 1,
       "verified": false,
       "local": false,
@@ -2237,6 +2383,7 @@
       "related_sources": [
         "BBC Nepali"
       ],
+      "id": "36954e336393fb75",
       "source_count": 1,
       "verified": false,
       "local": false,
@@ -2254,6 +2401,7 @@
       "related_sources": [
         "BBC Nepali"
       ],
+      "id": "0024ec9b6f6b355e",
       "source_count": 1,
       "verified": false,
       "local": false,
@@ -2271,6 +2419,7 @@
       "related_sources": [
         "BBC Nepali"
       ],
+      "id": "5d59c9768be50151",
       "source_count": 1,
       "verified": false,
       "local": false,
@@ -2288,6 +2437,7 @@
       "related_sources": [
         "BBC Nepali"
       ],
+      "id": "1198b04a54710124",
       "source_count": 1,
       "verified": false,
       "local": false,
@@ -2305,6 +2455,7 @@
       "related_sources": [
         "BBC Nepali"
       ],
+      "id": "de14eb564539dbbe",
       "source_count": 1,
       "verified": false,
       "local": false,
@@ -2322,6 +2473,7 @@
       "related_sources": [
         "BBC Nepali"
       ],
+      "id": "45e22999c355c900",
       "source_count": 1,
       "verified": false,
       "local": false,
@@ -2339,6 +2491,7 @@
       "related_sources": [
         "BBC Nepali"
       ],
+      "id": "8109e420bfb766f4",
       "source_count": 1,
       "verified": false,
       "local": false,
@@ -2356,6 +2509,7 @@
       "related_sources": [
         "BBC Nepali"
       ],
+      "id": "ee9af17159533377",
       "source_count": 1,
       "verified": false,
       "local": false,
@@ -2373,6 +2527,7 @@
       "related_sources": [
         "BBC Nepali"
       ],
+      "id": "3425921378f13ada",
       "source_count": 1,
       "verified": false,
       "local": false,
@@ -2390,6 +2545,7 @@
       "related_sources": [
         "BBC Nepali"
       ],
+      "id": "ff7d02891c22490b",
       "source_count": 1,
       "verified": false,
       "local": false,
@@ -2407,6 +2563,7 @@
       "related_sources": [
         "BBC Nepali"
       ],
+      "id": "fa71dbc524cafea0",
       "source_count": 1,
       "verified": false,
       "local": false,
@@ -2424,6 +2581,7 @@
       "related_sources": [
         "BBC Nepali"
       ],
+      "id": "fd4913a8fa088139",
       "source_count": 1,
       "verified": false,
       "local": false,
@@ -2441,6 +2599,7 @@
       "related_sources": [
         "Lokaantar"
       ],
+      "id": "e70d3dce931508fd",
       "source_count": 1,
       "verified": false,
       "local": false,
@@ -2458,6 +2617,7 @@
       "related_sources": [
         "Lokaantar"
       ],
+      "id": "cbcca0a8851cdd8c",
       "source_count": 1,
       "verified": false,
       "local": false,
@@ -2475,6 +2635,7 @@
       "related_sources": [
         "Lokaantar"
       ],
+      "id": "2b15ee67a82a087f",
       "source_count": 1,
       "verified": false,
       "local": false,
@@ -2492,6 +2653,7 @@
       "related_sources": [
         "Lokaantar"
       ],
+      "id": "9fdb4331068464e2",
       "source_count": 1,
       "verified": false,
       "local": false,
@@ -2509,6 +2671,7 @@
       "related_sources": [
         "Lokaantar"
       ],
+      "id": "580cf82b9f638848",
       "source_count": 1,
       "verified": false,
       "local": false,
@@ -2526,6 +2689,7 @@
       "related_sources": [
         "Lokaantar"
       ],
+      "id": "79e47a41e74611e6",
       "source_count": 1,
       "verified": false,
       "local": false,
@@ -2543,6 +2707,7 @@
       "related_sources": [
         "Lokaantar"
       ],
+      "id": "d3172a7736ef956a",
       "source_count": 1,
       "verified": false,
       "local": false,
@@ -2560,23 +2725,7 @@
       "related_sources": [
         "Lokaantar"
       ],
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "प्रदेशको सहकार्यलाई निर्वाचनसम्म लैजानुपर्छ : प्रचण्ड",
-      "link": "http://lokaantar.com/story/330393/2026/10/3/prachanda-",
-      "description": "&nbsp;नेपाली कम्युनिष्ट पार्टी (नेकपा)का संयोजक पुष्पकमल दाहाल &lsquo;प्रचण्ड&rsquo;ले प्रदेश सरकारमा भइरहेको राजनीतिक सहकार्यलाई स्थानीय निर्वाचनसम्म विस्तार गर्नुपर्ने बताएका छन् ।धुलिखेलमा आज आयोजित एकता बैठक तथा शपथ ग्रहण समारोहमा उनले प्रदेश सरकारको सहकार्यलाई सरकार सञ्चालनमा मात्र सीमित नराखी राजनीतिक तथा वैचारिक रूपमा थप सुदृढ गर्नुपर्नेमा जोड दिए ।&ldquo;यो सहकार्यलाई प्रदेश सरकारमा मात्रै होइन, आउने दिनमा सदनभित्रको बहसमा र निर्वाचनसम्म सुदृढ गर्दै लैजानुपर्ने हुन्छ&rdquo;, उनले भने ।उन",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
+      "id": "ede7f2525f173840",
       "source_count": 1,
       "verified": false,
       "local": false,
