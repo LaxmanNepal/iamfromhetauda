@@ -53,7 +53,7 @@ function updateNotifyStatus(message){
 }
 function loadPushConfig(){
   return fetch("./data/push-config.json?"+Date.now()).then(function(r){return r.json()}).then(function(d){
-    pushApiBase=String(d.api_base||"").replace(/\\/$/,"");
+    pushApiBase=String(d.api_base||"").replace(/\/$/,"");
     if(!pushApiBase||pushApiBase.indexOf("REPLACE_WITH_YOUR_WORKER_URL")>=0)throw new Error("Push worker URL not configured");
     return pushApiBase;
   });
