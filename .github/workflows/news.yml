@@ -1,5 +1,9 @@
 name: Refresh Nepal News
 on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "data/news.json"
   schedule:
     - cron: "*/15 * * * *"
   workflow_dispatch:
