@@ -6,5 +6,5 @@ function pick(i){cur=items[i];$("title").value=cur.title;list();preview()}
 function shuffle(){items.sort(()=>Math.random()-.5);cur=items[0];if(cur)$("title").value=cur.title;list();preview()}
 function preview(){let s=$("title").value.trim()+"\n\n"+$("tags").value.trim();$("preview").textContent=s}
 async function copy(){await navigator.clipboard.writeText($("preview").textContent);alert("Headline copied ✓")}
-async function loadLive(){try{const r=await fetch("../../data/news.json?"+Date.now());const d=await r.json();allItems=d.items||[];const selected=items;items=allItems;if(selected.length){const links=new Set(selected.map(n=>n.link));cur=items.find(n=>links.has(n.link))||items[0]}else cur=items[0];if(cur)$("$1").value=cur.title;list();preview()}catch(e){console.error(e);list()}} loadLive();setInterval(loadLive,5*60*1000);
+async function loadLive(){try{const r=await fetch("../../data/news.json?"+Date.now());const d=await r.json();allItems=d.items||[];const selected=items;items=allItems;if(selected.length){const links=new Set(selected.map(n=>n.link));cur=items.find(n=>links.has(n.link))||items[0]}else cur=items[0];if(cur)$("title").value=cur.title;list();preview()}catch(e){console.error(e);list()}} loadLive();setInterval(loadLive,5*60*1000);
 </script></body></html>
