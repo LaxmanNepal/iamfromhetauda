@@ -47,11 +47,17 @@ def parse(src,xml):
   desc=node_text(n,"description") or node_text(n,atom+"summary") or node_text(n,atom+"content")
   pub=node_text(n,"pubDate") or node_text(n,"published") or node_text(n,"updated") or node_text(n,atom+"published") or node_text(n,atom+"updated")
   image=""
+  image_candidates=[]
   for x in list(n):
    tag=x.tag.split("}")[-1].lower()
-   if tag=="enclosure" and (x.get("type","").startswith("image") or x.get("url","").lower().split("?")[0].endswith((".jpg",".jpeg",".png",".webp"))): image=x.get("url","")
-   if x.tag.startswith(media+"content") and x.get("url") and ("image" in x.get("type","") or x.get("medium")=="image"): image=x.get("url")
-   if x.tag.startswith(media+"thumbnail") and x.get("url"): image=x.get("url")
+   if tag=="enclosure" and (x.get("type","").startswith("image") or x.get("url","").lower().split("?")[0].endswith((".jpg",".jpeg",".png",".webp"))):
+    image_candidates.append((int(x.get("width") or 0),x.get("url","")))
+   if x.tag.startswith(media+"content") and x.get("url") and ("image" in x.get("type","") or x.get("medium")=="image"):
+    image_candidates.append((int(x.get("width") or 0),x.get("url","")))
+   if x.tag.startswith(media+"thumbnail") and x.get("url"):
+    image_candidates.append((int(x.get("width") or 0),x.get("url","")))
+  if image_candidates:
+   image=max(image_candidates,key=lambda z:z[0])[1]
   if not image:
    m=re.search(r'<img[^>]+src=["\']([^"\']+)',desc or "",re.I); image=m.group(1) if m else ""
   if title and link: out.append({"title":title,"link":link,"description":desc[:1600],"published":parse_date(pub),"source":src,"category":cat(title),"image":image})
