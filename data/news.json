@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T23:03:56.749852+00:00",
+  "updated_at": "2026-10-03T23:05:13.002502+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -53,7 +53,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 125.7,
+      "score": 125.6,
       "story_size": 3
     },
     {
@@ -89,7 +89,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 118.4,
+      "score": 118.3,
       "story_size": 2
     },
     {
@@ -107,7 +107,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 117.7,
+      "score": 117.6,
       "story_size": 2
     },
     {
@@ -125,7 +125,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 113.8,
+      "score": 113.7,
       "story_size": 2
     },
     {
@@ -142,7 +142,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.7,
+      "score": 112.6,
       "story_size": 1
     },
     {
@@ -159,7 +159,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.5,
+      "score": 112.4,
       "story_size": 1
     },
     {
@@ -176,7 +176,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.3,
+      "score": 111.2,
       "story_size": 1
     },
     {
@@ -194,25 +194,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 110.4,
-      "story_size": 2
-    },
-    {
-      "title": "जनमत पार्टीको दोस्रो महाधिवेशन शुरु, अध्यक्षमा सीके राउतको मात्रै उम्मेदवारी",
-      "link": "https://www.thahakhabar.com/detail/309751",
-      "description": "",
-      "published": "2026-10-03T21:50:00+05:45",
-      "source": "Thaha Khabar",
-      "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/CK-Raut-1781349614.jpg",
-      "related_sources": [
-        "Thaha Khabar",
-        "OnlineKhabar"
-      ],
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 109.1,
+      "score": 110.3,
       "story_size": 2
     },
     {
@@ -230,7 +212,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 108.7,
+      "score": 108.6,
       "story_size": 2
     },
     {
@@ -248,43 +230,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 108.1,
-      "story_size": 2
-    },
-    {
-      "title": "विपिन आचार्यको नेतृत्वमा रास्वपाले बनायो स्थानीय निर्वाचनका उम्मेदवार छनोट समिति",
-      "link": "https://www.onlinekhabar.com/2026/10/2031508/rashtriya-swayamsevak-sangh-rss-has-formed-a-candidate-selection-committee-for-local-elections-under-the-leadership-of-bipin-acharya",
-      "description": "१७ असोज, काठमाडौं । राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) ले स्थानीय तहको निर्वाचनको उम्मेदवार छनोट गर्ने समिति गठन गरेको छ । पार्टीका महामन्त्री विपिन आचार्यको संयोजकत्वमा समिति गठन भएको पार्टी प्रवक्ता जगदीश खरेलले जानकारी दिए । उनका अनुसार, समितिमा मिलन लिम्बु, रहबर अन्सारी, तोसिमा कार्की, कविन्द्र बुर्लाकोटी, सुशान्त वैद्धिक, टासी ल्हाजोम र जनकसिंह धामी सदस्य रहेका [&#8230;]",
-      "published": "2026-10-03T16:01:48+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar",
-        "Lokaantar"
-      ],
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 105.9,
-      "story_size": 2
-    },
-    {
-      "title": "ऊर्जा संकट : रणनीतिक भण्डारबाट ३२ करोड ५० लाख ब्यारेल तेल निकालियो",
-      "link": "https://www.onlinekhabar.com/2026/10/2031464/energy-crisis-325-million-barrels-of-oil-released-from-strategic-reserves",
-      "description": "अन्तर्राष्ट्रिय ऊर्जा एजेन्सी आईईएका सदस्य राष्ट्रहरूले मार्चमा प्रतिबद्धता जनाएको ४० करोड ब्यारेलमध्ये हालसम्म ३२ करोड ५० लाख ब्यारेल कच्चा तेल तथा तेलजन्य पदार्थ रणनीतिक भण्डारबाट निकालिसकेका छन् ।",
-      "published": "2026-10-03T16:00:03+00:00",
-      "source": "OnlineKhabar",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar",
-        "Kendrabindu"
-      ],
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 105.7,
+      "score": 108.0,
       "story_size": 2
     },
     {
@@ -302,7 +248,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 103.7,
+      "score": 103.6,
       "story_size": 2
     },
     {
@@ -319,7 +265,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.5,
+      "score": 101.4,
       "story_size": 1
     },
     {
@@ -337,7 +283,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 101.3,
+      "score": 101.2,
       "story_size": 2
     },
     {
@@ -388,7 +334,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.3,
+      "score": 96.2,
       "story_size": 1
     },
     {
@@ -405,7 +351,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.8,
+      "score": 93.7,
       "story_size": 1
     },
     {
@@ -423,7 +369,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 93.1,
+      "score": 93.0,
       "story_size": 2
     },
     {
@@ -457,7 +403,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.5,
+      "score": 91.4,
       "story_size": 1
     },
     {
@@ -474,7 +420,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.2,
+      "score": 91.1,
       "story_size": 1
     },
     {
@@ -491,7 +437,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.2,
+      "score": 90.1,
       "story_size": 1
     },
     {
@@ -525,7 +471,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.6,
+      "score": 89.5,
       "story_size": 1
     },
     {
@@ -543,7 +489,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 89.3,
+      "score": 89.2,
       "story_size": 2
     },
     {
@@ -560,7 +506,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.2,
+      "score": 88.1,
       "story_size": 1
     },
     {
@@ -577,7 +523,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.9,
+      "score": 87.8,
       "story_size": 1
     },
     {
@@ -594,7 +540,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.8,
+      "score": 87.7,
       "story_size": 1
     },
     {
@@ -611,7 +557,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.5,
+      "score": 87.4,
       "story_size": 1
     },
     {
@@ -628,7 +574,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.3,
+      "score": 87.2,
       "story_size": 1
     },
     {
@@ -662,7 +608,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.2,
+      "score": 87.1,
       "story_size": 1
     },
     {
@@ -679,7 +625,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.1,
+      "score": 87.0,
       "story_size": 1
     },
     {
@@ -696,24 +642,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.1,
-      "story_size": 1
-    },
-    {
-      "title": "दुई महिनापछि सुल्झियो महिला हत्या घटनाको रहस्य, मृतक र आरोपी दुवै भारतीय",
-      "link": "https://www.onlinekhabar.com/2026/10/2031444/mystery-of-womans-murder-solved-after-two-months-both-deceased-and-accused-are-indians",
-      "description": "२२ साउनमा हेटौंडा-१५ स्थित सेल्फी रोड नजिकै सामुदायिक वनमा खातुनको शव फेला परेको थियो ।",
-      "published": "2026-10-03T12:46:50+00:00",
-      "source": "OnlineKhabar",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "source_count": 1,
-      "verified": false,
-      "local": true,
-      "score": 86.9,
+      "score": 87.0,
       "story_size": 1
     },
     {
@@ -734,6 +663,23 @@
       "story_size": 1
     },
     {
+      "title": "दुई महिनापछि सुल्झियो महिला हत्या घटनाको रहस्य, मृतक र आरोपी दुवै भारतीय",
+      "link": "https://www.onlinekhabar.com/2026/10/2031444/mystery-of-womans-murder-solved-after-two-months-both-deceased-and-accused-are-indians",
+      "description": "२२ साउनमा हेटौंडा-१५ स्थित सेल्फी रोड नजिकै सामुदायिक वनमा खातुनको शव फेला परेको थियो ।",
+      "published": "2026-10-03T12:46:50+00:00",
+      "source": "OnlineKhabar",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 86.8,
+      "story_size": 1
+    },
+    {
       "title": "राष्ट्रिय युवा संघ सल्यानले पायो नयाँ नेतृत्व, अध्यक्षमा प्रेम घर्ती",
       "link": "https://gorkhapatraonline.com/news/225309",
       "description": "शंकर केसीशारदा (सल्यान), असोज १७ गते । राष्ट्रिय युवा संघ नेपाल सल्यानको १२ औँ जिल्ला अधिवेशनले प्रेम घर्ती मगरको अध्यक्षतामा नयाँ जिल्ला कमिटी सर्वसम्मत चयन गरेको छ । शनिबार श्रीन...",
@@ -747,7 +693,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.4,
+      "score": 86.3,
       "story_size": 1
     },
     {
@@ -798,7 +744,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.5,
+      "score": 85.4,
       "story_size": 1
     },
     {
@@ -815,7 +761,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.5,
+      "score": 85.4,
       "story_size": 1
     },
     {
@@ -828,6 +774,23 @@
       "image": "",
       "related_sources": [
         "Baahrakhari"
+      ],
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 85.0,
+      "story_size": 1
+    },
+    {
+      "title": "जनमत पार्टीको दोस्रो महाधिवेशन शुरु, अध्यक्षमा सीके राउतको मात्रै उम्मेदवारी",
+      "link": "https://www.thahakhabar.com/detail/309751",
+      "description": "",
+      "published": "2026-10-03T21:50:00+05:45",
+      "source": "Thaha Khabar",
+      "category": "nepal",
+      "image": "https://www.thahakhabar.com/uploads/posts/CK-Raut-1781349614.jpg",
+      "related_sources": [
+        "Thaha Khabar"
       ],
       "source_count": 1,
       "verified": false,
@@ -849,7 +812,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.0,
+      "score": 84.9,
       "story_size": 1
     },
     {
@@ -883,7 +846,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.5,
+      "score": 83.4,
       "story_size": 1
     },
     {
@@ -900,7 +863,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.9,
+      "score": 82.8,
       "story_size": 1
     },
     {
@@ -917,7 +880,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.7,
+      "score": 82.6,
       "story_size": 1
     },
     {
@@ -934,7 +897,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.7,
+      "score": 82.6,
       "story_size": 1
     },
     {
@@ -951,7 +914,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.5,
+      "score": 82.4,
       "story_size": 1
     },
     {
@@ -968,7 +931,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.3,
+      "score": 82.2,
       "story_size": 1
     },
     {
@@ -985,7 +948,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.2,
+      "score": 82.1,
       "story_size": 1
     },
     {
@@ -1002,7 +965,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.1,
+      "score": 82.0,
       "story_size": 1
     },
     {
@@ -1019,7 +982,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.1,
+      "score": 82.0,
       "story_size": 1
     },
     {
@@ -1036,7 +999,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.1,
+      "score": 82.0,
       "story_size": 1
     },
     {
@@ -1070,7 +1033,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.0,
+      "score": 81.9,
       "story_size": 1
     },
     {
@@ -1087,7 +1050,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.0,
+      "score": 81.9,
       "story_size": 1
     },
     {
@@ -1104,7 +1067,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.0,
+      "score": 81.9,
       "story_size": 1
     },
     {
@@ -1121,7 +1084,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.0,
+      "score": 81.9,
       "story_size": 1
     },
     {
@@ -1138,7 +1101,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.9,
+      "score": 81.8,
       "story_size": 1
     },
     {
@@ -1155,7 +1118,24 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.9,
+      "score": 81.8,
+      "story_size": 1
+    },
+    {
+      "title": "विपिन आचार्यको नेतृत्वमा रास्वपाले बनायो स्थानीय निर्वाचनका उम्मेदवार छनोट समिति",
+      "link": "https://www.onlinekhabar.com/2026/10/2031508/rashtriya-swayamsevak-sangh-rss-has-formed-a-candidate-selection-committee-for-local-elections-under-the-leadership-of-bipin-acharya",
+      "description": "१७ असोज, काठमाडौं । राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) ले स्थानीय तहको निर्वाचनको उम्मेदवार छनोट गर्ने समिति गठन गरेको छ । पार्टीका महामन्त्री विपिन आचार्यको संयोजकत्वमा समिति गठन भएको पार्टी प्रवक्ता जगदीश खरेलले जानकारी दिए । उनका अनुसार, समितिमा मिलन लिम्बु, रहबर अन्सारी, तोसिमा कार्की, कविन्द्र बुर्लाकोटी, सुशान्त वैद्धिक, टासी ल्हाजोम र जनकसिंह धामी सदस्य रहेका [&#8230;]",
+      "published": "2026-10-03T16:01:48+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 81.8,
       "story_size": 1
     },
     {
@@ -1176,12 +1156,12 @@
       "story_size": 1
     },
     {
-      "title": "प्रसूति हिंसा गरे तीन महिनासम्म जेल, सेवा रोके छ महिनासम्म",
-      "link": "https://www.onlinekhabar.com/2026/10/2031359/three-months-in-prison-for-obstetric-violence-six-months-suspended-from-service",
-      "description": "गर्भावस्थादेखि सुत्केरी अवस्थासम्म महिलामाथि हुने शारीरिक, मानसिक वा यौन हिंसालाई कसुर मानिने, प्रसूति सेवा दिन इन्कार गरे ६ महिनासम्म कैद वा ५० हजार रुपैयाँसम्म जरिवाना गरिने प्रस्ताव विधेयकमा छ ।",
-      "published": "2026-10-03T15:59:49+00:00",
+      "title": "ऊर्जा संकट : रणनीतिक भण्डारबाट ३२ करोड ५० लाख ब्यारेल तेल निकालियो",
+      "link": "https://www.onlinekhabar.com/2026/10/2031464/energy-crisis-325-million-barrels-of-oil-released-from-strategic-reserves",
+      "description": "अन्तर्राष्ट्रिय ऊर्जा एजेन्सी आईईएका सदस्य राष्ट्रहरूले मार्चमा प्रतिबद्धता जनाएको ४० करोड ब्यारेलमध्ये हालसम्म ३२ करोड ५० लाख ब्यारेल कच्चा तेल तथा तेलजन्य पदार्थ रणनीतिक भण्डारबाट निकालिसकेका छन् ।",
+      "published": "2026-10-03T16:00:03+00:00",
       "source": "OnlineKhabar",
-      "category": "nepal",
+      "category": "business",
       "image": "",
       "related_sources": [
         "OnlineKhabar"
@@ -1210,6 +1190,23 @@
       "story_size": 1
     },
     {
+      "title": "प्रसूति हिंसा गरे तीन महिनासम्म जेल, सेवा रोके छ महिनासम्म",
+      "link": "https://www.onlinekhabar.com/2026/10/2031359/three-months-in-prison-for-obstetric-violence-six-months-suspended-from-service",
+      "description": "गर्भावस्थादेखि सुत्केरी अवस्थासम्म महिलामाथि हुने शारीरिक, मानसिक वा यौन हिंसालाई कसुर मानिने, प्रसूति सेवा दिन इन्कार गरे ६ महिनासम्म कैद वा ५० हजार रुपैयाँसम्म जरिवाना गरिने प्रस्ताव विधेयकमा छ ।",
+      "published": "2026-10-03T15:59:49+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 81.6,
+      "story_size": 1
+    },
+    {
       "title": "कांग्रेस महाधिवेशन आइतबारदेखि, इतिहासकै धेरै प्रतिनिधि सहभागी हुने",
       "link": "https://www.onlinekhabar.com/2026/10/2031440/congress-general-convention-to-begin-on-sunday-with-most-delegates-in-history-to-participate",
       "description": "महाधिवेशनको उद्घाटन समारोह आइतबार दिउँसो २ बजेदेखि खुल्ला मञ्चमा सुरु हुनेछ । महाधिवेशनको बन्दसत्र र अन्य कार्यक्रमहरू भने सोमबार र मंगलबार (१९–२० असोज) हुने बताएको छ ।",
@@ -1223,7 +1220,24 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.6,
+      "score": 81.5,
+      "story_size": 1
+    },
+    {
+      "title": "जनमत पार्टीको दोस्रो महाधिवेशन सुरु, अध्यक्षमा सीके राउतको एकल उम्मेदवारी",
+      "link": "https://www.onlinekhabar.com/2026/10/2031536/janmat-partys-second-general-convention-begins-ck-rauts-sole-candidacy-for-president",
+      "description": "अध्यक्ष पदमा डा. चन्द्रकान्त (सीके) राउतको मात्रै उम्मेदवारी परेको छ । तर, अन्य पदमा भने प्रतिस्पर्धा हुनेछ ।",
+      "published": "2026-10-03T15:50:42+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 81.0,
       "story_size": 1
     },
     {
@@ -1240,7 +1254,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.7,
+      "score": 80.6,
       "story_size": 1
     },
     {
@@ -1274,7 +1288,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.0,
+      "score": 79.9,
       "story_size": 1
     },
     {
@@ -1308,7 +1322,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.8,
+      "score": 78.7,
       "story_size": 1
     },
     {
@@ -1325,7 +1339,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 78.1,
+      "score": 78.0,
       "story_size": 1
     },
     {
@@ -1342,7 +1356,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.3,
+      "score": 76.2,
       "story_size": 1
     },
     {
@@ -1359,7 +1373,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.8,
+      "score": 75.7,
       "story_size": 1
     },
     {
@@ -1376,7 +1390,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.0,
+      "score": 74.9,
       "story_size": 1
     },
     {
@@ -1410,7 +1424,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.6,
+      "score": 74.5,
       "story_size": 1
     },
     {
@@ -1444,7 +1458,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.1,
+      "score": 74.0,
       "story_size": 1
     },
     {
@@ -1461,7 +1475,24 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.8,
+      "score": 73.7,
+      "story_size": 1
+    },
+    {
+      "title": "रणनीतिक भण्डारबाट ३२ करोड ५० लाख ब्यारेल तेल बजारमा",
+      "link": "https://kendrabindu.com/world/560947/",
+      "description": "पेरिस । अन्तर्राष्ट्रिय ऊर्जा निकाय (आइईए) का सदस्य देशहरूले अहिलेसम्म रणनीतिक भण्डारबाट ३२ करोड ५० लाख ब्यारेल तेल तथा तेलजन्य उत्पादनहरू बजारमा पठाइएको आइईएले जानकारी गराएको छ । यो अन्तर्राष्ट्रिय बजारमा इन्धनको कमी हुन नदिन मार्चमा प्रतिवद्धता गरिएको ४० करोड ब्यारेलमध्येको आपूर्ति हो । यो अद्यावधिक विश्वका प्रमुख सात शक्तिशाली अर्थतनत्र (जी–७) देशहरूले आइईएसँग समन्वय [&#8230;]",
+      "published": "2026-10-03T13:55:56+00:00",
+      "source": "Kendrabindu",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 73.4,
       "story_size": 1
     },
     {
@@ -1478,7 +1509,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.4,
+      "score": 73.3,
       "story_size": 1
     },
     {
@@ -1495,7 +1526,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.9,
+      "score": 72.8,
       "story_size": 1
     },
     {
@@ -1529,7 +1560,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.7,
+      "score": 72.6,
       "story_size": 1
     },
     {
@@ -1546,7 +1577,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.0,
+      "score": 71.9,
       "story_size": 1
     },
     {
@@ -1563,7 +1594,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.0,
+      "score": 71.9,
       "story_size": 1
     },
     {
@@ -1580,7 +1611,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.8,
+      "score": 71.7,
       "story_size": 1
     },
     {
@@ -1597,7 +1628,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.4,
+      "score": 71.3,
       "story_size": 1
     },
     {
@@ -1614,7 +1645,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.6,
+      "score": 70.5,
       "story_size": 1
     },
     {
@@ -1631,7 +1662,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.1,
+      "score": 70.0,
       "story_size": 1
     },
     {
@@ -1648,7 +1679,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.8,
+      "score": 69.7,
       "story_size": 1
     },
     {
@@ -1665,7 +1696,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.8,
+      "score": 69.7,
       "story_size": 1
     },
     {
@@ -1682,7 +1713,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.8,
+      "score": 68.7,
       "story_size": 1
     },
     {
@@ -1699,7 +1730,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.6,
+      "score": 68.5,
       "story_size": 1
     },
     {
@@ -1716,7 +1747,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.9,
+      "score": 67.8,
       "story_size": 1
     },
     {
@@ -1750,7 +1781,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.1,
+      "score": 66.0,
       "story_size": 1
     },
     {
@@ -1767,7 +1798,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 65.6,
+      "score": 65.5,
       "story_size": 1
     },
     {
@@ -1835,7 +1866,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 64.0,
+      "score": 63.9,
       "story_size": 1
     },
     {
@@ -1869,7 +1900,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 63.3,
+      "score": 63.2,
       "story_size": 1
     },
     {
@@ -1886,7 +1917,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 63.0,
+      "score": 62.9,
       "story_size": 1
     },
     {
@@ -1903,7 +1934,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 62.9,
+      "score": 62.8,
       "story_size": 1
     },
     {
@@ -1920,7 +1951,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 62.3,
+      "score": 62.2,
       "story_size": 1
     },
     {
@@ -1937,7 +1968,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 61.3,
+      "score": 61.2,
       "story_size": 1
     },
     {
@@ -1954,7 +1985,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 61.1,
+      "score": 61.0,
       "story_size": 1
     },
     {
@@ -1971,7 +2002,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 58.4,
+      "score": 58.3,
       "story_size": 1
     },
     {
@@ -1988,7 +2019,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 58.2,
+      "score": 58.1,
       "story_size": 1
     },
     {
@@ -2005,7 +2036,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 57.8,
+      "score": 57.7,
       "story_size": 1
     },
     {
@@ -2056,7 +2087,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 56.4,
+      "score": 56.3,
       "story_size": 1
     },
     {
@@ -2073,7 +2104,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 56.2,
+      "score": 56.1,
       "story_size": 1
     },
     {
@@ -2090,7 +2121,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 54.9,
+      "score": 54.8,
       "story_size": 1
     },
     {
@@ -2107,7 +2138,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 47.1,
+      "score": 47.0,
       "story_size": 1
     },
     {
@@ -2124,7 +2155,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 39.5,
+      "score": 39.4,
       "story_size": 1
     },
     {
@@ -2141,7 +2172,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 34.8,
+      "score": 34.7,
       "story_size": 1
     },
     {
@@ -2158,7 +2189,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 29.4,
+      "score": 29.3,
       "story_size": 1
     },
     {
@@ -2519,9 +2550,9 @@
       "story_size": 1
     },
     {
-      "title": "प्रदेशको सहकार्यलाई निर्वाचनसम्म लैजानुपर्छ : प्रचण्ड",
-      "link": "http://lokaantar.com/story/330393/2026/10/3/prachanda-",
-      "description": "&nbsp;नेपाली कम्युनिष्ट पार्टी (नेकपा)का संयोजक पुष्पकमल दाहाल &lsquo;प्रचण्ड&rsquo;ले प्रदेश सरकारमा भइरहेको राजनीतिक सहकार्यलाई स्थानीय निर्वाचनसम्म विस्तार गर्नुपर्ने बताएका छन् ।धुलिखेलमा आज आयोजित एकता बैठक तथा शपथ ग्रहण समारोहमा उनले प्रदेश सरकारको सहकार्यलाई सरकार सञ्चालनमा मात्र सीमित नराखी राजनीतिक तथा वैचारिक रूपमा थप सुदृढ गर्नुपर्नेमा जोड दिए ।&ldquo;यो सहकार्यलाई प्रदेश सरकारमा मात्रै होइन, आउने दिनमा सदनभित्रको बहसमा र निर्वाचनसम्म सुदृढ गर्दै लैजानुपर्ने हुन्छ&rdquo;, उनले भने ।उन",
+      "title": "स्थानीय निर्वाचनका लागि रास्वपाले बनायो उम्मेदवार छनोट समिति",
+      "link": "http://lokaantar.com/story/330394/2026/10/3/rsp-",
+      "description": "&nbsp;राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा)ले आगामी स्थानीय निर्वाचनका लागि केन्द्रीय उम्मेदवार छनोट समिति गठन गरेको छ ।पार्टी सभापति रवि लामिछानेको सभापतित्वमा शनिबार केन्द्रीय कार्यालय वनस्थलीमा बसेको केन्द्रीय समिति बैठकले महामन्त्री विपिन आचार्यको संयोजकत्वमा केन्द्रीय उम्मेदवार छनोट समिति गठन गर्ने निर्णय गरेको हो ।समितिमा मिलन लिम्बू, रहबर अन्सारी, तोसिमा कार्की, कविन्द्र बुर्लाकोटी, सुशान्त बैदिक, टासी ल्हाजोम र जनक सिंह धामी सदस्य मनोनित भएका छन् । पार्टीका सातै प्रदेशका सभापति समितिको पद",
       "published": "",
       "source": "Lokaantar",
       "category": "politics",
@@ -2536,46 +2567,12 @@
       "story_size": 1
     },
     {
-      "title": "सडक दुर्घटनामा नाइजेरियामा २० जनाको मृत्यु",
-      "link": "http://lokaantar.com/story/330392/2026/10/3/accident-",
-      "description": "उत्तर&ndash;मध्य नाइजेरियाको एक राज्यमा राजमार्गमा भएका सडक दुर्घटनामा कम्तीमा २० जनाको मृत्यु भएको अधिकारीहरूले बताएका छन् ।शुक्रबार दिउँसो हवान किबो&ndash;जोस सडकमा भएको दुर्घटनामा ट्रक, कार, बस र मोटरसाइकल गरी चार वटा सवारी साधन दुर्घटनाग्रस्त भएका थिए । दुर्घटनामा यात्रारत २० जनाको मृत्यु भएको नाइजेरियाको संघीय सडक सुरक्षा निकाय (एफआरएससी) ले जनाएको छ ।&ldquo;प्रारम्भिक अनुसन्धानले ब्रेक फेल हुनु र त्यसपछि नियन्त्रण गुमाउनु दुर्घटनाको सम्भावित कारण भएको देखाएको छ,&rdquo; एफआरएससीका प्रवक्ता",
+      "title": "प्रदेशको सहकार्यलाई निर्वाचनसम्म लैजानुपर्छ : प्रचण्ड",
+      "link": "http://lokaantar.com/story/330393/2026/10/3/prachanda-",
+      "description": "&nbsp;नेपाली कम्युनिष्ट पार्टी (नेकपा)का संयोजक पुष्पकमल दाहाल &lsquo;प्रचण्ड&rsquo;ले प्रदेश सरकारमा भइरहेको राजनीतिक सहकार्यलाई स्थानीय निर्वाचनसम्म विस्तार गर्नुपर्ने बताएका छन् ।धुलिखेलमा आज आयोजित एकता बैठक तथा शपथ ग्रहण समारोहमा उनले प्रदेश सरकारको सहकार्यलाई सरकार सञ्चालनमा मात्र सीमित नराखी राजनीतिक तथा वैचारिक रूपमा थप सुदृढ गर्नुपर्नेमा जोड दिए ।&ldquo;यो सहकार्यलाई प्रदेश सरकारमा मात्रै होइन, आउने दिनमा सदनभित्रको बहसमा र निर्वाचनसम्म सुदृढ गर्दै लैजानुपर्ने हुन्छ&rdquo;, उनले भने ।उन",
       "published": "",
       "source": "Lokaantar",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "फेवातालमा फसेका ७ जनाको सकुशल उद्धार, बेगनास तालमा डुबेका पुरुषको शव भेटियो",
-      "link": "http://lokaantar.com/story/330390/2026/10/3/news-",
-      "description": "पोखराको फेवातालमा फसेका सात जनाको सशस्त्र प्रहरीले सकुशल उद्धार गरेको छ भने बेगनास तालमा पौडी खेल्ने क्रममा डुबेर बेपत्ता भएका एक पुरुषको शव फेला पारेको छ ।पोखरा महानगरपालिका&ndash;६ लेकसाइडस्थित फेवातालमा शनिबार साँझ अचानक आएको हावाहुरी तथा पानीका कारण चितवनबाट घुम्न आएका सात जना आन्तरिक पर्यटक चढेको प्याडल बोट डुङ्गा बाँध्ने डोरीको जालोमा परेर तालमा अलपत्र परेका थिए ।घटनाबारे जानकारी पाएलगत्तै सशस्त्र प्रहरी बल, नेपाल फेवाताल वाच एण्ड रेस्क्यु टावरबाट टोली परिचालन भएको थियो । परिचालित टोलीले त",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "सडक अवरुद्ध भएसँगै मुस्ताङमा पेट्रोलियम पदार्थको अभाव",
-      "link": "http://lokaantar.com/story/330388/2026/10/3/fuel-",
-      "description": "&nbsp;राष्ट्रिय गौरवको बेनी&ndash;जोमसोम सडक अवरुद्ध भएसँगै मुस्ताङमा पेट्रोलियम पदार्थको अभाव हुन थालेको छ । जसका कारण राष्ट्रिय गौरवको बेनी&ndash;जोमसोम&ndash;कोरला सडक तथा सङ्घीय, प्रादेशिक र स्थानीय तहका विकास निर्माण योजनाका काम प्रभावित भएको छ ।मुस्ताङमा असोज ८ गतेखि ११ गतेसम्मको भारी वर्षा र त्यसबाट उत्पन्न बाढीपहिरो र नदी कटानका कारण कोरला नाकालाई जोड्ने राष्ट्रिय गौरवको (बेनी&ndash;जोमसोम) सडकमार्ग ६ दिनदेखि पूर्ण रूपमा अवरुद्ध छ । सडक अवरुद्धका मुस्ताङमा इन्धन ढुवानीमा बाधा पुगेसँगै सङ",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "nepal",
+      "category": "politics",
       "image": "",
       "related_sources": [
         "Lokaantar"
