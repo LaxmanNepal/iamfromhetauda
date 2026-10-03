@@ -29,15 +29,115 @@ function render(){var a=active==="all"?all:all.filter(function(n){return n.categ
 function openNews(i){var a=active==="all"?all:all.filter(function(n){return n.category===active});var n=a[i];if(!n)return;document.getElementById("mi").style.display=n.image?"block":"none";document.getElementById("mi").src=n.image||"";document.getElementById("mi").alt=n.title||"";document.getElementById("mm").textContent=n.source+" • "+ago(n.published)+(n.verified?" • "+n.source_count+" स्रोत":"");document.getElementById("mt").textContent=n.title;document.getElementById("md").textContent=n.description||"यस समाचारको थप विवरणका लागि मूल समाचार साइट खोल्नुहोस्।";document.getElementById("ml").href=n.link;document.getElementById("modal").classList.add("open");document.body.style.overflow="hidden"}
 function closeModal(){document.getElementById("modal").classList.remove("open");document.body.style.overflow=""}
 document.getElementById("modal").addEventListener("click",function(e){if(e.target===this)closeModal()});document.addEventListener("keydown",function(e){if(e.key==="Escape")closeModal()});
-var notificationRegistration=null;
-function notificationEnabled(){return localStorage.getItem("news_notifications")==="1" && ("Notification" in window) && Notification.permission==="granted"}
-function updateNotifyStatus(){var s=document.getElementById("notifyStatus");if(!s)return;if(!("Notification" in window)){s.textContent="यो browser ले सूचना support गर्दैन।";return}if(Notification.permission==="granted"&&localStorage.getItem("news_notifications")==="1"){s.textContent="सूचना चालु ✓";var b=document.getElementById("notifyBtn");if(b){b.textContent="🔔 सूचना चालु ✓";b.disabled=true;b.style.opacity=".75"}}else if(Notification.permission==="denied")s.textContent="Browser settings बाट सूचना अनुमति दिनुहोस्।";else s.textContent="नयाँ समाचार आउँदा browser notification पाउनुहोस्।"}
-function enableNotifications(){if(!("Notification" in window)){updateNotifyStatus();return}Notification.requestPermission().then(function(p){if(p==="granted"){localStorage.setItem("news_notifications","1");registerNotifications().then(function(){updateNotifyStatus()})}else updateNotifyStatus()})}
-function registerNotifications(){return navigator.serviceWorker.register("./sw.js").then(function(r){notificationRegistration=r;return r})}
-function showNewsNotification(n){if(!notificationEnabled()||!n||!n.id)return;var url="./?news="+encodeURIComponent(n.id);var options={body:n.title,icon:"./logo.jpg",image:n.image||"./logo.jpg",badge:"./logo.jpg",tag:"news-"+n.id,data:{url:url},requireInteraction:false};if(notificationRegistration&&notificationRegistration.showNotification)return notificationRegistration.showNotification("I Am From Hetauda",options);return new Notification("I Am From Hetauda",options)}
-function notifyNewStories(items){if(!notificationEnabled()||!items.length)return;var seen=JSON.parse(localStorage.getItem("notified_news_ids")||"[]"),fresh=items.filter(function(n){return n.id&&!seen.includes(n.id)}).sort(function(a,b){return new Date(a.published)-new Date(b.published)});if(!seen.length){localStorage.setItem("notified_news_ids",JSON.stringify(items.slice(0,30).map(function(n){return n.id}).filter(Boolean)));return}fresh.slice(0,3).forEach(function(n){showNewsNotification(n);seen.push(n.id)});seen=seen.slice(-50);localStorage.setItem("notified_news_ids",JSON.stringify(seen))}
+var notificationRegistration=null, pushApiBase="", pushSubscription=null;
+
+function notificationSupported(){
+  return "Notification" in window && "serviceWorker" in navigator && "PushManager" in window;
+}
+function notificationEnabled(){
+  return localStorage.getItem("news_notifications")==="1" && notificationSupported() && Notification.permission==="granted";
+}
+function updateNotifyStatus(message){
+  var s=document.getElementById("notifyStatus"),b=document.getElementById("notifyBtn");
+  if(!s)return;
+  if(message){s.textContent=message;return}
+  if(!notificationSupported()){s.textContent="यो browser ले background notification support गर्दैन।";return}
+  if(Notification.permission==="denied"){s.textContent="Browser settings बाट सूचना अनुमति दिनुहोस्।";return}
+  if(pushSubscription&&localStorage.getItem("news_notifications")==="1"){
+    s.textContent="Background सूचना चालु ✓ — website बन्द भए पनि नयाँ समाचार आउँदा सूचना आउँछ।";
+    if(b){b.textContent="🔕 सूचना बन्द";b.disabled=false;b.style.opacity="1"}
+  }else{
+    s.textContent="नयाँ समाचार आउँदा background browser notification पाउनुहोस्।";
+    if(b){b.textContent="🔔 नयाँ समाचार सूचना";b.disabled=false;b.style.opacity="1"}
+  }
+}
+function loadPushConfig(){
+  return fetch("./data/push-config.json?"+Date.now()).then(function(r){return r.json()}).then(function(d){
+    pushApiBase=String(d.api_base||"").replace(/\\/$/,"");
+    if(!pushApiBase||pushApiBase.indexOf("REPLACE_WITH_YOUR_WORKER_URL")>=0)throw new Error("Push worker URL not configured");
+    return pushApiBase;
+  });
+}
+function urlBase64ToUint8Array(base64String){
+  var padding="=".repeat((4-base64String.length%4)%4),base64=(base64String+padding).replace(/-/g,"+").replace(/_/g,"/");
+  var raw=atob(base64),out=new Uint8Array(raw.length);
+  for(var i=0;i<raw.length;i++)out[i]=raw.charCodeAt(i);
+  return out;
+}
+function registerNotifications(){
+  return navigator.serviceWorker.register("./sw.js").then(function(r){notificationRegistration=r;return r});
+}
+function savePushSubscription(){
+  if(!pushSubscription||!pushApiBase)return Promise.reject(new Error("Push subscription unavailable"));
+  var data=pushSubscription.toJSON();
+  return fetch(pushApiBase+"/subscribe",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(data)}).then(function(r){
+    if(!r.ok)return r.json().catch(function(){return {}}).then(function(d){throw new Error(d.error||"Subscription failed")});
+    return r.json();
+  });
+}
+function enableNotifications(){
+  if(!notificationSupported()){updateNotifyStatus();return}
+  if(pushSubscription&&notificationEnabled()){disableNotifications();return}
+  updateNotifyStatus("Browser अनुमति माग्दैछ…");
+  Notification.requestPermission().then(function(p){
+    if(p!=="granted"){updateNotifyStatus();return}
+    return loadPushConfig().then(function(){
+      return registerNotifications();
+    }).then(function(reg){
+      return reg.pushManager.getSubscription().then(function(existing){
+        if(existing)return existing;
+        return fetch(pushApiBase+"/config").then(function(r){return r.json()}).then(function(cfg){
+          if(!cfg.publicKey)throw new Error("VAPID public key unavailable");
+          return reg.pushManager.subscribe({userVisibleOnly:true,applicationServerKey:urlBase64ToUint8Array(cfg.publicKey)});
+        });
+      });
+    }).then(function(sub){
+      pushSubscription=sub;
+      return savePushSubscription();
+    }).then(function(){
+      localStorage.setItem("news_notifications","1");
+      updateNotifyStatus();
+    });
+  }).catch(function(e){
+    console.error(e);
+    updateNotifyStatus("सूचना चालु गर्न सकिएन। Push Worker URL/सेटअप जाँच गर्नुहोस्।");
+  });
+}
+function disableNotifications(){
+  var sub=pushSubscription;
+  var done=Promise.resolve();
+  if(sub&&pushApiBase)done=fetch(pushApiBase+"/subscribe",{method:"DELETE",headers:{"Content-Type":"application/json"},body:JSON.stringify({endpoint:sub.endpoint})}).catch(function(){});
+  done.then(function(){
+    if(sub)return sub.unsubscribe().catch(function(){});
+  }).then(function(){
+    pushSubscription=null;
+    localStorage.removeItem("news_notifications");
+    updateNotifyStatus("सूचना बन्द गरियो।");
+    setTimeout(updateNotifyStatus,1500);
+  });
+}
+function restorePushSubscription(){
+  if(!notificationSupported())return Promise.resolve();
+  return registerNotifications().then(function(reg){
+    return reg.pushManager.getSubscription();
+  }).then(function(sub){
+    pushSubscription=sub;
+    if(sub&&Notification.permission==="granted")localStorage.setItem("news_notifications","1");
+    updateNotifyStatus();
+  }).catch(function(){updateNotifyStatus()});
+}
+function showNewsNotification(n){
+  if(!notificationEnabled()||!n||!n.id)return;
+  var url="./?news="+encodeURIComponent(n.id);
+  var options={body:n.title,icon:"./logo.jpg",image:n.image||"./logo.jpg",badge:"./logo.jpg",tag:"news-"+n.id,data:{url:url},requireInteraction:false};
+  if(notificationRegistration&&notificationRegistration.showNotification)return notificationRegistration.showNotification("I Am From Hetauda",options);
+  return new Notification("I Am From Hetauda",options);
+}
+function notifyNewStories(items){
+  /* Background push is the source of truth. Avoid duplicate local notifications. */
+}
 function openNewsById(id){if(!id)return;var n=all.find(function(x){return x.id===id});if(!n)return;var a=active==="all"?all:all.filter(function(x){return x.category===active}),i=a.findIndex(function(x){return x.id===id});if(i<0){active="all";document.getElementById("heading").textContent="ताजा समाचार";render();a=all;i=a.findIndex(function(x){return x.id===id})}if(i>=0)openNews(i)}
 function handleDeepLink(){var id=new URLSearchParams(location.search).get("news");if(id)openNewsById(id)}
 function load(){fetch("./data/news.json?"+Date.now()).then(function(r){return r.json()}).then(function(d){all=d.items||[];document.getElementById("updated").textContent="अन्तिम अपडेट: "+new Date(d.updated_at).toLocaleString("ne-NP");document.getElementById("sources").textContent="स्रोतहरू: "+(d.sources||[]).join(" • ");render();notifyNewStories(all);handleDeepLink()}).catch(function(){document.getElementById("news").innerHTML='<div class="empty">समाचार डेटा अहिले उपलब्ध भएन।</div>'})}
-if("serviceWorker" in navigator){registerNotifications().catch(function(){});updateNotifyStatus()}load();setInterval(load,300000);
+if("serviceWorker" in navigator){restorePushSubscription()}else updateNotifyStatus();load();setInterval(load,300000);
 </script></body></html>
