@@ -17,7 +17,7 @@ function cors(origin) {
     "https://iamfromhetauda.com.np",
     "https://www.iamfromhetauda.com.np"
   ];
-  return allowed.includes(origin) ? origin : "https://iamfromheta.com.np";
+  return allowed.includes(origin) ? origin : "https://iamfromhetauda.com.np";
 }
 
 function withCors(response, origin) {
@@ -98,8 +98,8 @@ async function handle(request, env, ctx) {
       return json({ ok: false, error: "VAPID secrets are not configured" }, 503);
     }
 
-    const listed = await env.PUSH_KV.list({ prefix: "sub:", limit: 45 });
-    let delivered = 0, removed = 0, failed = 0;
+    let delivered = 0, removed = 0, failed = 0, checked = 0;
+    let cursor = undefined;
     const payload = {
       title: "I Am From Hetauda",
       body: String(news.title).slice(0, 240),
@@ -107,12 +107,16 @@ async function handle(request, env, ctx) {
       badge: new URL("/logo.jpg", env.SITE_URL || "https://iamfromhetauda.com.np/").href,
       image: news.image ? String(news.image) : new URL("/logo.jpg", env.SITE_URL || "https://iamfromhetauda.com.np/").href,
       tag: "news-" + String(news.id),
-      data: { url: siteUrl(env, String(news.id)) },
+      id: String(news.id),
+      url: siteUrl(env, String(news.id)),
       requireInteraction: false,
       timestamp: Date.now()
     };
 
-    for (const item of listed.keys) {
+    do {
+      const listed = await env.PUSH_KV.list({ prefix: "sub:", limit: 1000, ...(cursor ? { cursor } : {}) });
+      checked += listed.keys.length;
+      for (const item of listed.keys) {
       const raw = await env.PUSH_KV.get(item.name);
       if (!raw) continue;
       try {
@@ -133,17 +137,11 @@ async function handle(request, env, ctx) {
           console.error("push failed", item.name, e?.message || e);
         }
       }
-    }
+      }
+      cursor = listed.list_complete === false ? listed.cursor : undefined;
+    } while (cursor);
 
-    return json({
-      ok: true,
-      newsId: String(news.id),
-      delivered,
-      removed,
-      failed,
-      checked: listed.keys.length,
-      hasMore: listed.list_complete === false
-    });
+    return json({ ok: true, newsId: String(news.id), delivered, removed, failed, checked });
   }
 
   return json({ ok: false, error: "Not found" }, 404);
