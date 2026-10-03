@@ -143,8 +143,9 @@ function openNewsById(id){if(!id)return;var n=all.find(function(x){return x.id==
 function handleDeepLink(){var id=new URLSearchParams(location.search).get("news");if(id)openNewsById(id)}
 function showSkeleton(){document.getElementById("news").innerHTML=Array.from({length:6},function(){return "<div class=\"skeleton\"></div>"}).join("")}
 function closeInstall(){document.getElementById("installShade").classList.remove("open");localStorage.setItem("install_prompt_seen","1")}
-function isInstalled(){return window.matchMedia("(display-mode: standalone)").matches||window.navigator.standalone===true||localStorage.getItem("app_installed")==="1")}
-function maybeInstallPrompt(){if(isInstalled()||localStorage.getItem("install_prompt_seen")==="1"||!installPrompt)return;document.getElementById("installShade").classList.add("open")}
+function isInstalled(){return window.matchMedia("(display-mode: standalone)").matches||window.navigator.standalone===true||localStorage.getItem("app_installed")==="1"}
+function isPhone(){return /Android|iPhone|iPad|iPod/i.test(navigator.userAgent)}
+function maybeInstallPrompt(){if(!isPhone()||isInstalled()||localStorage.getItem("install_prompt_seen")==="1")return;if(installPrompt){document.getElementById("installShade").classList.add("open")}else if(/iPhone|iPad|iPod/i.test(navigator.userAgent)){document.getElementById("installShade").classList.add("open");document.querySelector(".installBox p").textContent="Share बटन थिचेर “Add to Home Screen” छान्नुहोस्। त्यसपछि यो app जस्तै खुल्छ र notification का लागि अनुमति दिन सक्नुहुन्छ।";document.querySelector(".installNow").textContent="बुझेँ"}}
 function installApp(){if(!installPrompt){closeInstall();return}installPrompt.prompt();installPrompt.userChoice.then(function(){closeInstall();installPrompt=null})}
 window.addEventListener("beforeinstallprompt",function(e){e.preventDefault();installPrompt=e;setTimeout(maybeInstallPrompt,1000)})
 window.addEventListener("appinstalled",function(){localStorage.setItem("app_installed","1");installPrompt=null;closeInstall()})
