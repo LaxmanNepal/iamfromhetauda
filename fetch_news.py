@@ -54,7 +54,7 @@ def parse(src,xml):
    if x.tag.startswith(media+"thumbnail") and x.get("url"): image=x.get("url")
   if not image:
    m=re.search(r'<img[^>]+src=["\']([^"\']+)',desc or "",re.I); image=m.group(1) if m else ""
-  if title and link: out.append({"title":title,"link":link,"description":desc[:260],"published":parse_date(pub),"source":src,"category":cat(title+" "+desc),"image":image})
+  if title and link: out.append({"title":title,"link":link,"description":desc[:1600],"published":parse_date(pub),"source":src,"category":cat(title),"image":image})
  return out
 items=[]
 for src,url in FEEDS:
