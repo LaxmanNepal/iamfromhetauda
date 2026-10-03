@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T22:58:35.877075+00:00",
+  "updated_at": "2026-10-03T23:02:18.885474+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -34,7 +34,7 @@
       "source_count": 6,
       "verified": true,
       "local": false,
-      "score": 143.1,
+      "score": 142.9,
       "story_size": 6
     },
     {
@@ -53,7 +53,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 126.0,
+      "score": 125.8,
       "story_size": 3
     },
     {
@@ -71,7 +71,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 120.1,
+      "score": 119.8,
       "story_size": 2
     },
     {
@@ -89,27 +89,8 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 118.8,
+      "score": 118.5,
       "story_size": 2
-    },
-    {
-      "title": "बेगनास तालमा डुबेर युवकको मृत्यु",
-      "link": "https://www.thahakhabar.com/detail/309748",
-      "description": "",
-      "published": "2026-10-03T21:35:00+05:45",
-      "source": "Thaha Khabar",
-      "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/death-1779520981.jpg",
-      "related_sources": [
-        "Thaha Khabar",
-        "Ratopati",
-        "Khabarhub"
-      ],
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 118.4,
-      "story_size": 3
     },
     {
       "title": "दसैँका लागि काठमाडौँ उपत्यकाबाट घर फर्किन थाले यात्रु",
@@ -126,7 +107,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 118.0,
+      "score": 117.8,
       "story_size": 2
     },
     {
@@ -144,8 +125,25 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 114.2,
+      "score": 113.9,
       "story_size": 2
+    },
+    {
+      "title": "मौलिक संस्कृति जोगाउन छिनामखुमा साकेवाथान निर्माण",
+      "link": "https://www.ratopati.com/story/596963/construction-of-a-sake-brewery-in-chinnamkhu-to-preserve-indigenous-culture",
+      "description": "भोजपुर । भोजपुरको टेम्केमैयुङ गाउँपालिका–२ छिनामखुमा किराँत समुदायको मौलिक संस्कृति र परम्परालाई पुस्तान्तरण गर्ने उद्देश्यले साकेवाथान (चोथोवा) निर्माण गरिएको छ । आधुनिक जीवनशैलीका कारण मौलिक संस्कृति र परम्परा ओझेलमा पर्दै गएसँगै संस्कृतिको संरक्षण गर्न यहाँ",
+      "published": "2026-10-03T22:59:30+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://rpcdn.ratopati.com/media/albums/BHOJPUR-ELECTION_5bvHxkxfFE_HWkELzsZJX.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.8,
+      "story_size": 1
     },
     {
       "title": "नारायणघाट–बुटवल सडकखण्डमा ‘ओभरहेड क्यानोपी ब्रिज’ थपिँदै",
@@ -161,7 +159,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.8,
+      "score": 112.6,
       "story_size": 1
     },
     {
@@ -178,7 +176,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.6,
+      "score": 111.4,
       "story_size": 1
     },
     {
@@ -196,7 +194,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 110.8,
+      "score": 110.5,
       "story_size": 2
     },
     {
@@ -214,7 +212,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 109.4,
+      "score": 109.2,
       "story_size": 2
     },
     {
@@ -232,7 +230,25 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 109.0,
+      "score": 108.8,
+      "story_size": 2
+    },
+    {
+      "title": "बेगनास तालमा डुबेर युवकको मृत्यु",
+      "link": "https://www.thahakhabar.com/detail/309748",
+      "description": "",
+      "published": "2026-10-03T21:35:00+05:45",
+      "source": "Thaha Khabar",
+      "category": "nepal",
+      "image": "https://www.thahakhabar.com/uploads/posts/death-1779520981.jpg",
+      "related_sources": [
+        "Thaha Khabar",
+        "Khabarhub"
+      ],
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 108.2,
       "story_size": 2
     },
     {
@@ -250,7 +266,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 106.2,
+      "score": 106.0,
       "story_size": 2
     },
     {
@@ -268,7 +284,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 106.1,
+      "score": 105.8,
       "story_size": 2
     },
     {
@@ -286,7 +302,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 104.1,
+      "score": 103.8,
       "story_size": 2
     },
     {
@@ -303,7 +319,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.9,
+      "score": 101.6,
       "story_size": 1
     },
     {
@@ -321,7 +337,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 101.7,
+      "score": 101.4,
       "story_size": 2
     },
     {
@@ -338,7 +354,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.1,
+      "score": 97.8,
       "story_size": 1
     },
     {
@@ -355,7 +371,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.1,
+      "score": 96.8,
       "story_size": 1
     },
     {
@@ -372,7 +388,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.6,
+      "score": 96.4,
       "story_size": 1
     },
     {
@@ -389,7 +405,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.1,
+      "score": 93.9,
       "story_size": 1
     },
     {
@@ -407,7 +423,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 93.5,
+      "score": 93.2,
       "story_size": 2
     },
     {
@@ -424,7 +440,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.0,
+      "score": 92.8,
       "story_size": 1
     },
     {
@@ -441,7 +457,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.8,
+      "score": 91.6,
       "story_size": 1
     },
     {
@@ -458,7 +474,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.5,
+      "score": 91.3,
       "story_size": 1
     },
     {
@@ -475,7 +491,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.6,
+      "score": 90.3,
       "story_size": 1
     },
     {
@@ -492,7 +508,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.0,
+      "score": 89.8,
       "story_size": 1
     },
     {
@@ -509,7 +525,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.0,
+      "score": 89.7,
       "story_size": 1
     },
     {
@@ -527,7 +543,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 89.7,
+      "score": 89.4,
       "story_size": 2
     },
     {
@@ -544,7 +560,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.5,
+      "score": 88.3,
       "story_size": 1
     },
     {
@@ -561,7 +577,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.2,
+      "score": 88.0,
       "story_size": 1
     },
     {
@@ -578,7 +594,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.2,
+      "score": 87.9,
       "story_size": 1
     },
     {
@@ -595,7 +611,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.9,
+      "score": 87.6,
       "story_size": 1
     },
     {
@@ -612,7 +628,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.6,
+      "score": 87.4,
       "story_size": 1
     },
     {
@@ -629,7 +645,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.6,
+      "score": 87.4,
       "story_size": 1
     },
     {
@@ -646,7 +662,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.5,
+      "score": 87.3,
       "story_size": 1
     },
     {
@@ -663,7 +679,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.5,
+      "score": 87.2,
       "story_size": 1
     },
     {
@@ -680,7 +696,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.4,
+      "score": 87.2,
       "story_size": 1
     },
     {
@@ -697,7 +713,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.2,
+      "score": 87.0,
       "story_size": 1
     },
     {
@@ -714,7 +730,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 87.2,
+      "score": 87.0,
       "story_size": 1
     },
     {
@@ -731,7 +747,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.7,
+      "score": 86.5,
       "story_size": 1
     },
     {
@@ -748,7 +764,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.3,
+      "score": 86.0,
       "story_size": 1
     },
     {
@@ -765,7 +781,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.1,
+      "score": 85.8,
       "story_size": 1
     },
     {
@@ -782,7 +798,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.9,
+      "score": 85.6,
       "story_size": 1
     },
     {
@@ -799,7 +815,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.8,
+      "score": 85.6,
       "story_size": 1
     },
     {
@@ -816,7 +832,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.4,
+      "score": 85.2,
       "story_size": 1
     },
     {
@@ -833,7 +849,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.4,
+      "score": 85.1,
       "story_size": 1
     },
     {
@@ -850,7 +866,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.0,
+      "score": 84.8,
       "story_size": 1
     },
     {
@@ -867,7 +883,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.9,
+      "score": 83.6,
       "story_size": 1
     },
     {
@@ -884,7 +900,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.2,
+      "score": 83.0,
       "story_size": 1
     },
     {
@@ -901,7 +917,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.0,
+      "score": 82.8,
       "story_size": 1
     },
     {
@@ -918,7 +934,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.0,
+      "score": 82.8,
       "story_size": 1
     },
     {
@@ -935,7 +951,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.8,
+      "score": 82.6,
       "story_size": 1
     },
     {
@@ -952,7 +968,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.6,
+      "score": 82.4,
       "story_size": 1
     },
     {
@@ -969,7 +985,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.5,
+      "score": 82.3,
       "story_size": 1
     },
     {
@@ -986,7 +1002,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.5,
+      "score": 82.2,
       "story_size": 1
     },
     {
@@ -1003,7 +1019,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.5,
+      "score": 82.2,
       "story_size": 1
     },
     {
@@ -1020,7 +1036,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.5,
+      "score": 82.2,
       "story_size": 1
     },
     {
@@ -1037,7 +1053,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.4,
+      "score": 82.1,
       "story_size": 1
     },
     {
@@ -1054,24 +1070,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.4,
-      "story_size": 1
-    },
-    {
-      "title": "तीन दशकपछि चीनलाई एसियाली खेलकुदमा फुटबल पदक",
-      "link": "https://www.ratopati.com/story/596934/china-wins-football-medal-at-asian-games-after-three-decades",
-      "description": "एजेन्सी । चीनले झन्डै तीन दशकपछि एसियाली खेलकुदको पुरुष फुटबलमा पहिलो पदक जितेको छ । शनिबार भएको प्रतिस्पर्धामा उज्वेकिस्तानलाई पराजित गर्दै चीनले कांस्य पदक जितेको हो । ऐतिहासिक जितपछि चिनियाँ यू–२३ टोलीका मुख्य प्रशिक्षक एन्टोनियो पुचेले चिनियाँ",
-      "published": "2026-10-03T15:18:55+00:00",
-      "source": "Ratopati",
-      "category": "sports",
-      "image": "https://npcdn.ratopati.com/media/news/asian-game2026-09-24-01-56-39_AppAbZu8G7.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 82.4,
+      "score": 82.1,
       "story_size": 1
     },
     {
@@ -1088,7 +1087,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.3,
+      "score": 82.1,
       "story_size": 1
     },
     {
@@ -1105,7 +1104,24 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.3,
+      "score": 82.1,
+      "story_size": 1
+    },
+    {
+      "title": "तीन दशकपछि चीनलाई एसियाली खेलकुदमा फुटबल पदक",
+      "link": "https://www.ratopati.com/story/596934/china-wins-football-medal-at-asian-games-after-three-decades",
+      "description": "एजेन्सी । चीनले झन्डै तीन दशकपछि एसियाली खेलकुदको पुरुष फुटबलमा पहिलो पदक जितेको छ । शनिबार भएको प्रतिस्पर्धामा उज्वेकिस्तानलाई पराजित गर्दै चीनले कांस्य पदक जितेको हो । ऐतिहासिक जितपछि चिनियाँ यू–२३ टोलीका मुख्य प्रशिक्षक एन्टोनियो पुचेले चिनियाँ",
+      "published": "2026-10-03T15:18:55+00:00",
+      "source": "Ratopati",
+      "category": "sports",
+      "image": "https://npcdn.ratopati.com/media/news/asian-game2026-09-24-01-56-39_AppAbZu8G7.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 82.1,
       "story_size": 1
     },
     {
@@ -1122,7 +1138,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.3,
+      "score": 82.0,
       "story_size": 1
     },
     {
@@ -1139,7 +1155,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.3,
+      "score": 82.0,
       "story_size": 1
     },
     {
@@ -1156,7 +1172,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.2,
+      "score": 81.9,
       "story_size": 1
     },
     {
@@ -1173,7 +1189,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.1,
+      "score": 81.8,
       "story_size": 1
     },
     {
@@ -1190,7 +1206,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.1,
+      "score": 81.8,
       "story_size": 1
     },
     {
@@ -1207,7 +1223,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.9,
+      "score": 81.7,
       "story_size": 1
     },
     {
@@ -1224,7 +1240,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.0,
+      "score": 80.8,
       "story_size": 1
     },
     {
@@ -1241,7 +1257,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.8,
+      "score": 80.5,
       "story_size": 1
     },
     {
@@ -1258,7 +1274,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.3,
+      "score": 80.1,
       "story_size": 1
     },
     {
@@ -1275,7 +1291,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.1,
+      "score": 79.8,
       "story_size": 1
     },
     {
@@ -1292,7 +1308,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.2,
+      "score": 78.9,
       "story_size": 1
     },
     {
@@ -1309,7 +1325,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 78.4,
+      "score": 78.2,
       "story_size": 1
     },
     {
@@ -1326,7 +1342,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.6,
+      "score": 76.4,
       "story_size": 1
     },
     {
@@ -1343,7 +1359,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.1,
+      "score": 75.9,
       "story_size": 1
     },
     {
@@ -1360,7 +1376,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.3,
+      "score": 75.1,
       "story_size": 1
     },
     {
@@ -1377,7 +1393,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.0,
+      "score": 74.7,
       "story_size": 1
     },
     {
@@ -1394,7 +1410,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.9,
+      "score": 74.7,
       "story_size": 1
     },
     {
@@ -1411,7 +1427,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.7,
+      "score": 74.4,
       "story_size": 1
     },
     {
@@ -1428,7 +1444,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.4,
+      "score": 74.2,
       "story_size": 1
     },
     {
@@ -1445,7 +1461,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.1,
+      "score": 73.9,
       "story_size": 1
     },
     {
@@ -1462,7 +1478,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.8,
+      "score": 73.5,
       "story_size": 1
     },
     {
@@ -1479,7 +1495,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.2,
+      "score": 73.0,
       "story_size": 1
     },
     {
@@ -1496,7 +1512,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.1,
+      "score": 72.9,
       "story_size": 1
     },
     {
@@ -1513,7 +1529,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.0,
+      "score": 72.8,
       "story_size": 1
     },
     {
@@ -1530,7 +1546,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.4,
+      "score": 72.1,
       "story_size": 1
     },
     {
@@ -1547,7 +1563,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.3,
+      "score": 72.1,
       "story_size": 1
     },
     {
@@ -1564,7 +1580,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.1,
+      "score": 71.9,
       "story_size": 1
     },
     {
@@ -1581,7 +1597,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.8,
+      "score": 71.5,
       "story_size": 1
     },
     {
@@ -1598,7 +1614,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.9,
+      "score": 70.7,
       "story_size": 1
     },
     {
@@ -1615,7 +1631,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.5,
+      "score": 70.2,
       "story_size": 1
     },
     {
@@ -1632,7 +1648,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.2,
+      "score": 69.9,
       "story_size": 1
     },
     {
@@ -1649,7 +1665,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.2,
+      "score": 69.9,
       "story_size": 1
     },
     {
@@ -1666,7 +1682,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.1,
+      "score": 68.9,
       "story_size": 1
     },
     {
@@ -1683,7 +1699,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.9,
+      "score": 68.7,
       "story_size": 1
     },
     {
@@ -1700,7 +1716,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.3,
+      "score": 68.0,
       "story_size": 1
     },
     {
@@ -1717,7 +1733,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.6,
+      "score": 67.4,
       "story_size": 1
     },
     {
@@ -1734,7 +1750,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.4,
+      "score": 66.2,
       "story_size": 1
     },
     {
@@ -1751,7 +1767,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.0,
+      "score": 65.7,
       "story_size": 1
     },
     {
@@ -1768,7 +1784,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 65.8,
+      "score": 65.5,
       "story_size": 1
     },
     {
@@ -1785,7 +1801,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 65.1,
+      "score": 64.9,
       "story_size": 1
     },
     {
@@ -1802,7 +1818,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 64.4,
+      "score": 64.1,
       "story_size": 1
     },
     {
@@ -1819,7 +1835,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 64.4,
+      "score": 64.1,
       "story_size": 1
     },
     {
@@ -1836,7 +1852,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 64.0,
+      "score": 63.7,
       "story_size": 1
     },
     {
@@ -1853,7 +1869,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 63.6,
+      "score": 63.4,
       "story_size": 1
     },
     {
@@ -1870,7 +1886,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 63.3,
+      "score": 63.1,
       "story_size": 1
     },
     {
@@ -1887,7 +1903,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 63.2,
+      "score": 63.0,
       "story_size": 1
     },
     {
@@ -1904,7 +1920,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 62.7,
+      "score": 62.4,
       "story_size": 1
     },
     {
@@ -1921,7 +1937,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 61.7,
+      "score": 61.4,
       "story_size": 1
     },
     {
@@ -1938,7 +1954,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 61.5,
+      "score": 61.2,
       "story_size": 1
     },
     {
@@ -1955,7 +1971,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 58.8,
+      "score": 58.5,
       "story_size": 1
     },
     {
@@ -1972,7 +1988,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 58.5,
+      "score": 58.3,
       "story_size": 1
     },
     {
@@ -1989,7 +2005,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 58.2,
+      "score": 57.9,
       "story_size": 1
     },
     {
@@ -2006,7 +2022,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 57.7,
+      "score": 57.5,
       "story_size": 1
     },
     {
@@ -2023,7 +2039,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 56.9,
+      "score": 56.7,
       "story_size": 1
     },
     {
@@ -2040,7 +2056,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 56.8,
+      "score": 56.5,
       "story_size": 1
     },
     {
@@ -2057,7 +2073,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 56.6,
+      "score": 56.3,
       "story_size": 1
     },
     {
@@ -2074,7 +2090,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 55.3,
+      "score": 55.0,
       "story_size": 1
     },
     {
@@ -2091,7 +2107,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 47.5,
+      "score": 47.2,
       "story_size": 1
     },
     {
@@ -2108,7 +2124,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 39.9,
+      "score": 39.6,
       "story_size": 1
     },
     {
@@ -2125,7 +2141,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 35.1,
+      "score": 34.9,
       "story_size": 1
     },
     {
@@ -2142,7 +2158,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 29.8,
+      "score": 29.5,
       "story_size": 1
     },
     {
@@ -2560,23 +2576,6 @@
       "published": "",
       "source": "Lokaantar",
       "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "मधेसमा दुई महिनामै विपद्बाट ९२ जनाको मृत्यु, करेन्ट लागेर मात्रै ३९ जनाले ज्यान गुमाए",
-      "link": "http://lokaantar.com/story/330387/2026/10/3/madhesh-",
-      "description": "मधेश प्रदेशमा चालु आर्थिक वर्ष २०८३/८४ को पहिलो दुई महिनामै विभिन्न विपद्का घटनामा ९२ जनाको मृत्यु भएको छ । मृत्यु हुनेमध्ये सबैभन्दा धेरै करेन्ट लागेका छन् ।मधेश प्रदेश प्रहरी कार्यालय जनकपुरधामका अनुसार साउन र भदौमा भएका ४५९ विपद्का घटनामा ४७ पुरुष, १९ महिला र २६ बालबालिकासहित ९२ जनाको मृत्यु भएको हो । ती घटनाबाट ५१० परिवार प्रभावित भएका छन् ।प्रहरीका अनुसार दुई महिनामा करेन्ट लागेर ३९ जनाको मृत्यु भएको छ । यस अवधिमा पानीमा डुबेर २९, जङ्गली जनावरको आक्रमणबाट पाँच, चट्याङबाट तीन र आगलागीबाट एक",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "business",
       "image": "",
       "related_sources": [
         "Lokaantar"
