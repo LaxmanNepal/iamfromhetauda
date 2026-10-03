@@ -75,12 +75,23 @@ def ts(n):
  try:return datetime.fromisoformat(n["published"].replace("Z","+00:00")).timestamp()
  except:return 0
 
-# Greedy story clustering: exact normalized title OR strong token overlap.
+# Story clustering: exact title, or strong overlap within the same category and time window.
+# Generic words such as "नेपाल", "सरकार", "आज" are ignored to reduce false merges.
+STOP={"नेपाल","आज","भयो","भए","गरे","गर्ने","बारे","का","को","मा","ले","बाट","एक","नयाँ","सरकार","प्रदेश","देश","the","and","for","with"}
+def meaningful_words(s):
+ return {w for w in words(s) if w not in STOP and len(w)>2}
+def strong_similarity(a,b):
+ A,B=meaningful_words(a),meaningful_words(b)
+ return len(A&B)/max(1,len(A|B))
 groups=[]
 for n in sorted(items,key=ts,reverse=True):
  placed=False
  for g in groups:
-  if re.sub(r"[^\w\u0900-\u097F]","",n["title"].lower())==re.sub(r"[^\w\u0900-\u097F]","",g[0]["title"].lower()) or similarity(n["title"],g[0]["title"])>=0.62:
+  base=g[0]
+  age_gap=abs(ts(n)-ts(base))/3600
+  same_cat=n.get("category")==base.get("category")
+  exact=re.sub(r"[^\w\u0900-\u097F]","",n["title"].lower())==re.sub(r"[^\w\u0900-\u097F]","",base["title"].lower())
+  if exact or (same_cat and age_gap<=36 and strong_similarity(n["title"],base["title"])>=0.68):
    g.append(n); placed=True; break
  if not placed: groups.append([n])
 
