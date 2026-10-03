@@ -106,7 +106,8 @@ now=datetime.now(timezone.utc).timestamp()
 for vals in groups:
  vals.sort(key=ts,reverse=True); n=vals[0].copy()
  n["related_sources"]=list(dict.fromkeys(x["source"] for x in vals))
- n["id"]=__import__("hashlib").sha1((n["title"]+"|"+n["link"]).encode("utf-8")).hexdigest()[:16]\n n["source_count"]=len(n["related_sources"])
+ n["id"]=__import__("hashlib").sha1((n["title"]+"|"+n["link"]).encode("utf-8")).hexdigest()[:16]
+ n["source_count"]=len(n["related_sources"])
  n["verified"]=n["source_count"]>=2; n["local"]=local_score(n)==1
  age=max(0,(now-ts(n))/3600); freshness=max(0,100-age*4)
  n["score"]=round(freshness + min(n["source_count"],5)*10 + (14 if n["verified"] else 0) + (18 if n["local"] else 0) + (3 if n["image"] else 0),1)
@@ -116,7 +117,15 @@ merged.sort(key=lambda n:(n["score"],ts(n)),reverse=True)
 merged=merged[:150]
 today=(datetime.now(timezone.utc)+timedelta(hours=5,minutes=45)).date().isoformat()
 top=[n for n in merged if ((datetime.fromtimestamp(ts(n),timezone.utc)+timedelta(hours=5,minutes=45)).date().isoformat()==today)][:8]
-whatsapp="🇳🇵 आजका प्रमुख समाचार\n\n" + "\n\n".join(f"{i+1}. {n['title']}\nस्रोत: {', '.join(n['related_sources'][:3])}\n{n['link']}" for i,n in enumerate(top)) + "\n\n— I Am From Hetauda"
+whatsapp="🇳🇵 आजका प्रमुख समाचार
+
+" + "
+
+".join(f"{i+1}. {n['title']}
+स्रोत: {', '.join(n['related_sources'][:3])}
+{n['link']}" for i,n in enumerate(top)) + "
+
+— I Am From Hetauda"
 with open("data/news.json","w",encoding="utf-8") as f: json.dump({"updated_at":datetime.now(timezone.utc).isoformat(),"sources":[x[0] for x in FEEDS],"items":merged},f,ensure_ascii=False,indent=2)
 with open("data/today-post.json","w",encoding="utf-8") as f: json.dump({"date_np":today,"generated_at":datetime.now(timezone.utc).isoformat(),"items":top,"whatsapp":whatsapp},f,ensure_ascii=False,indent=2)
 print("Saved",len(merged),"stories from",len(items),"feed entries; top today:",len(top))
