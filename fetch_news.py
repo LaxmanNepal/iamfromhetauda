@@ -1,6 +1,6 @@
 import json,re,urllib.request
 from xml.etree import ElementTree as ET
-from datetime import datetime,timezone
+from datetime import datetime,timezone,timedelta
 from email.utils import parsedate_to_datetime
 
 FEEDS=[
@@ -19,63 +19,86 @@ FEEDS=[
 ]
 def clean(s):
  return re.sub(r"\s+"," ",re.sub(r"<[^>]+>"," ",s or "")).strip()
-def text(node,name):
- x=node.find(name)
- return clean(x.text if x is not None else "")
+def node_text(n,name):
+ x=n.find(name)
+ return clean("".join(x.itertext()) if x is not None else "")
 def cat(t):
  t=t.lower()
- if any(x in t for x in ["खेल","फुटबल","क्रिकेट","sports"]): return "sports"
- if any(x in t for x in ["अर्थ","बैंक","सेयर","शेयर","बजार","व्यवसाय","आर्थिक"]): return "business"
- if any(x in t for x in ["प्रविधि","टेक","मोबाइल","इन्टरनेट","एआई","कम्प्युटर"]): return "tech"
- if any(x in t for x in ["विश्व","अमेरिका","भारत","चीन","अन्तर्राष्ट्रिय","विदेश"]): return "world"
- if any(x in t for x in ["सरकार","मन्त्री","संसद","राजनीति","दल","निर्वाचन","राष्ट्रपति","प्रधानमन्त्री"]): return "politics"
- if any(x in t for x in ["समाज","शिक्षा","स्वास्थ्य","दुर्घटना","अपराध","मौसम","बाढी","पहिरो"]): return "society"
+ if any(x in t for x in ["क्रिकेट","फुटबल","खेलकुद","खेलाडी","राष्ट्रिय खेलकुद","sports"]): return "sports"
+ if any(x in t for x in ["एआई","आर्टिफिसियल इन्टेलिजेन्स","प्रविधि","प्रविधिक","मोबाइल","स्मार्टफोन","एप","इन्टरनेट","साइबर","कम्प्युटर","टेक"]): return "tech"
+ if any(x in t for x in ["सेयर","शेयर","नेप्से","बैंक","बैंकिङ","बिमा","बीमा","अर्थतन्त्र","अर्थ","व्यवसाय","बजार","लगानी","राजस्व","कर","बजेट","मुद्रा"]): return "business"
+ if any(x in t for x in ["अमेरिका","भारत","चीन","रुस","रूस","युक्रेन","इजरायल","प्यालेस्टाइन","बेलायत","ब्रिटेन","अन्तर्राष्ट्रिय","विदेश","विश्व","संयुक्त राष्ट्र","ट्रम्प","ईरान","इरान"]): return "world"
+ if any(x in t for x in ["निर्वाचन","चुनाव","संसद","मन्त्री","मन्त्रिपरिषद्","प्रधानमन्त्री","राष्ट्रपति","कांग्रेस","एमाले","माओवादी","रास्वपा","राजनीति","दल","सरकार","विधेयक"]): return "politics"
+ if any(x in t for x in ["मौसम","बाढी","पहिरो","भूकम्प","दुर्घटना","अपराध","प्रहरी","हत्या","शिक्षा","विद्यालय","स्वास्थ्य","अस्पताल","समाज","उद्धार","विपद्"]): return "society"
  return "nepal"
 def parse_date(v):
  try:return parsedate_to_datetime(v).isoformat()
  except:
   try:return datetime.fromisoformat(v.replace("Z","+00:00")).isoformat()
-  except:return datetime.now(timezone.utc).isoformat()
+  except:return ""
 def parse(src,xml):
- root=ET.fromstring(xml); out=[]
- atom="{http://www.w3.org/2005/Atom}"
+ root=ET.fromstring(xml); out=[]; atom="{http://www.w3.org/2005/Atom}"; media="{http://search.yahoo.com/mrss/}"
  nodes=root.findall(".//item") or root.findall(".//"+atom+"entry")
  for n in nodes:
-  title=text(n,"title") or text(n,atom+"title")
-  link=text(n,"link")
+  title=node_text(n,"title") or node_text(n,atom+"title")
+  link=node_text(n,"link")
   if not link:
-   le=n.find(atom+"link")
-   link=le.get("href","") if le is not None else ""
-  desc=text(n,"description") or text(n,atom+"summary") or text(n,atom+"content")
-  pub=text(n,"pubDate") or text(n,"published") or text(n,"updated") or text(n,atom+"published") or text(n,atom+"updated")
-  if title and link:
-   out.append({"title":title,"link":link,"description":desc[:240],"published":parse_date(pub),"source":src,"category":cat(title+" "+desc)})
+   le=n.find(atom+"link"); link=le.get("href","") if le is not None else ""
+  desc=node_text(n,"description") or node_text(n,atom+"summary") or node_text(n,atom+"content")
+  pub=node_text(n,"pubDate") or node_text(n,"published") or node_text(n,"updated") or node_text(n,atom+"published") or node_text(n,atom+"updated")
+  image=""
+  for x in list(n):
+   tag=x.tag.split("}")[-1].lower()
+   if tag=="enclosure" and (x.get("type","").startswith("image") or x.get("url","").lower().split("?")[0].endswith((".jpg",".jpeg",".png",".webp"))): image=x.get("url","")
+   if x.tag.startswith(media+"content") and x.get("url") and ("image" in x.get("type","") or x.get("medium")=="image"): image=x.get("url")
+   if x.tag.startswith(media+"thumbnail") and x.get("url"): image=x.get("url")
+  if not image:
+   m=re.search(r'<img[^>]+src=["\']([^"\']+)',desc or "",re.I); image=m.group(1) if m else ""
+  if title and link: out.append({"title":title,"link":link,"description":desc[:260],"published":parse_date(pub),"source":src,"category":cat(title+" "+desc),"image":image})
  return out
 items=[]
 for src,url in FEEDS:
  try:
-  req=urllib.request.Request(url,headers={"User-Agent":"Mozilla/5.0 (compatible; IAmFromHetaudaNews/1.0)"})
-  with urllib.request.urlopen(req,timeout=20) as r: items+=parse(src,r.read())
+  req=urllib.request.Request(url,headers={"User-Agent":"Mozilla/5.0 (compatible; IAmFromHetaudaNews/2.0)"})
+  with urllib.request.urlopen(req,timeout=15) as r: items+=parse(src,r.read())
  except Exception as e: print("Feed failed:",src,e)
 
-def key(title):
- return re.sub(r"[^\w\u0900-\u097F]","",title.lower())
-groups={}
-for n in items:
- groups.setdefault(key(n["title"]),[]).append(n)
-merged=[]
-for vals in groups.values():
- vals.sort(key=lambda n:n["published"],reverse=True)
- n=vals[0].copy()
- n["related_sources"]=list(dict.fromkeys(x["source"] for x in vals))
- n["source_count"]=len(n["related_sources"])
- n["verified"]=len(n["related_sources"])>=2
- merged.append(n)
+def words(s):
+ return set(re.findall(r"[\u0900-\u097Fa-zA-Z0-9]{2,}",s.lower()))
+def similarity(a,b):
+ A,B=words(a),words(b)
+ return len(A&B)/max(1,len(A|B))
+def local_score(n):
+ t=(n["title"]+" "+n["description"]).lower()
+ return 1 if any(x in t for x in ["हेटौंडा","हेटौडा","मकवानपुर","बागमती प्रदेश","बागमती"]) else 0
 def ts(n):
  try:return datetime.fromisoformat(n["published"].replace("Z","+00:00")).timestamp()
  except:return 0
-merged.sort(key=lambda n:(n["source_count"]>=2,n["source_count"],ts(n)),reverse=True)
+
+# Greedy story clustering: exact normalized title OR strong token overlap.
+groups=[]
+for n in sorted(items,key=ts,reverse=True):
+ placed=False
+ for g in groups:
+  if re.sub(r"[^\w\u0900-\u097F]","",n["title"].lower())==re.sub(r"[^\w\u0900-\u097F]","",g[0]["title"].lower()) or similarity(n["title"],g[0]["title"])>=0.62:
+   g.append(n); placed=True; break
+ if not placed: groups.append([n])
+
+merged=[]
+now=datetime.now(timezone.utc).timestamp()
+for vals in groups:
+ vals.sort(key=ts,reverse=True); n=vals[0].copy()
+ n["related_sources"]=list(dict.fromkeys(x["source"] for x in vals)); n["source_count"]=len(n["related_sources"])
+ n["verified"]=n["source_count"]>=2; n["local"]=local_score(n)==1
+ age=max(0,(now-ts(n))/3600); freshness=max(0,100-age*4)
+ n["score"]=round(freshness + min(n["source_count"],5)*10 + (14 if n["verified"] else 0) + (18 if n["local"] else 0) + (3 if n["image"] else 0),1)
+ n["story_size"]=len(vals)
+ merged.append(n)
+merged.sort(key=lambda n:(n["score"],ts(n)),reverse=True)
 merged=merged[:150]
-with open("data/news.json","w",encoding="utf-8") as f:
- json.dump({"updated_at":datetime.now(timezone.utc).isoformat(),"sources":[x[0] for x in FEEDS],"items":merged},f,ensure_ascii=False,indent=2)
-print("Saved",len(merged),"items from",len(items),"feed entries")
+today=(datetime.now(timezone.utc)+timedelta(hours=5,minutes=45)).date().isoformat()
+top=[n for n in merged if ((datetime.fromtimestamp(ts(n),timezone.utc)+timedelta(hours=5,minutes=45)).date().isoformat()==today)][:8]
+whatsapp="🇳🇵 आजका प्रमुख समाचार\n\n" + "\n\n".join(f"{i+1}. {n['title']}\nस्रोत: {', '.join(n['related_sources'][:3])}\n{n['link']}" for i,n in enumerate(top)) + "\n\n— I Am From Hetauda"
+with open("data/news.json","w",encoding="utf-8") as f: json.dump({"updated_at":datetime.now(timezone.utc).isoformat(),"sources":[x[0] for x in FEEDS],"items":merged},f,ensure_ascii=False,indent=2)
+with open("data/today-post.json","w",encoding="utf-8") as f: json.dump({"date_np":today,"generated_at":datetime.now(timezone.utc).isoformat(),"items":top,"whatsapp":whatsapp},f,ensure_ascii=False,indent=2)
+print("Saved",len(merged),"stories from",len(items),"feed entries; top today:",len(top))
