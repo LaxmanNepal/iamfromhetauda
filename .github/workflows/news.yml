@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: python3 fetch_news.py
+      - run: |\n          if [ -f data/news.json ]; then cp data/news.json /tmp/news-before.json; fi\n          python3 fetch_news.py\n      - name: Notify push subscribers of new stories\n        env:\n          PUSH_API_BASE: ${{ secrets.PUSH_API_BASE }}\n          PUSH_ADMIN_KEY: ${{ secrets.PUSH_ADMIN_KEY }}\n        run: python3 scripts/push_new_news.py
       - run: |
           git config user.name "I Am From Hetauda News Bot"
           git config user.email "actions@users.noreply.github.com"
