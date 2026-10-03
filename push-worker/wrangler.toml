@@ -1,0 +1,10 @@
+name = "iamfromhetauda-push"
+main = "src/index.js"
+compatibility_date = "2026-10-04"
+
+[[kv_namespaces]]
+binding = "PUSH_KV"
+id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
+
+[vars]
+SITE_URL = "https://iamfromhetauda.com.np/"
