@@ -106,7 +106,7 @@ now=datetime.now(timezone.utc).timestamp()
 for vals in groups:
  vals.sort(key=ts,reverse=True); n=vals[0].copy()
  n["related_sources"]=list(dict.fromkeys(x["source"] for x in vals))
- n["id"]=__import__("hashlib").sha1((n["title"]+"|"+n["link"]).encode("utf-8")).hexdigest()[:16] n["source_count"]=len(n["related_sources"])
+ n["id"]=__import__("hashlib").sha1((n["title"]+"|"+n["link"]).encode("utf-8")).hexdigest()[:16]\n n["source_count"]=len(n["related_sources"])
  n["verified"]=n["source_count"]>=2; n["local"]=local_score(n)==1
  age=max(0,(now-ts(n))/3600); freshness=max(0,100-age*4)
  n["score"]=round(freshness + min(n["source_count"],5)*10 + (14 if n["verified"] else 0) + (18 if n["local"] else 0) + (3 if n["image"] else 0),1)
