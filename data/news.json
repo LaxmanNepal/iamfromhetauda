@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T23:44:26.511734+00:00",
+  "updated_at": "2026-10-03T23:48:23.857343+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -34,7 +34,7 @@
       "source_count": 5,
       "verified": true,
       "local": false,
-      "score": 140.0,
+      "score": 139.8,
       "story_size": 5
     },
     {
@@ -54,7 +54,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 123.0,
+      "score": 122.7,
       "story_size": 3
     },
     {
@@ -73,7 +73,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 117.0,
+      "score": 116.8,
       "story_size": 2
     },
     {
@@ -92,7 +92,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 115.7,
+      "score": 115.5,
       "story_size": 2
     },
     {
@@ -111,8 +111,26 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 115.0,
+      "score": 114.7,
       "story_size": 2
+    },
+    {
+      "title": "आइतबार यस्तो छ विदेशी मुद्राको विनिमय दर",
+      "link": "https://www.ratopati.com/story/596965/this-is-the-foreign-exchange-rate-on-sunday",
+      "description": "काठमाडौँ । नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमय दर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५३ रुपैयाँ ८१ पैसा र बिक्रीदर १५४ रुपैयाँ ४१ पैसा निर्धारण गरिएको छ",
+      "published": "2026-10-03T23:45:00+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://rpcdn.ratopati.com/media/albums/forex_3HNlavACP4.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "146be53c012041cd",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.8,
+      "story_size": 1
     },
     {
       "title": "दसैँको बिदामा घुमफिर गर्न लमजुङका १० उपयुक्त गन्तव्य",
@@ -129,7 +147,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.0,
+      "score": 111.8,
       "story_size": 1
     },
     {
@@ -147,7 +165,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.6,
+      "score": 111.3,
       "story_size": 1
     },
     {
@@ -166,7 +184,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 111.1,
+      "score": 110.9,
       "story_size": 2
     },
     {
@@ -184,7 +202,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.0,
+      "score": 110.8,
       "story_size": 1
     },
     {
@@ -202,7 +220,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.0,
+      "score": 109.7,
       "story_size": 1
     },
     {
@@ -220,7 +238,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.8,
+      "score": 109.5,
       "story_size": 1
     },
     {
@@ -238,7 +256,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.4,
+      "score": 109.2,
       "story_size": 1
     },
     {
@@ -256,7 +274,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.2,
+      "score": 108.9,
       "story_size": 1
     },
     {
@@ -274,7 +292,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.7,
+      "score": 108.4,
       "story_size": 1
     },
     {
@@ -292,7 +310,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.6,
+      "score": 108.3,
       "story_size": 1
     },
     {
@@ -311,7 +329,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 107.7,
+      "score": 107.4,
       "story_size": 2
     },
     {
@@ -330,7 +348,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 106.0,
+      "score": 105.7,
       "story_size": 2
     },
     {
@@ -349,7 +367,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 105.4,
+      "score": 105.1,
       "story_size": 2
     },
     {
@@ -368,7 +386,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 101.0,
+      "score": 100.8,
       "story_size": 2
     },
     {
@@ -386,7 +404,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.8,
+      "score": 98.5,
       "story_size": 1
     },
     {
@@ -405,7 +423,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 98.6,
+      "score": 98.4,
       "story_size": 2
     },
     {
@@ -423,7 +441,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.0,
+      "score": 94.8,
       "story_size": 1
     },
     {
@@ -441,7 +459,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.0,
+      "score": 93.8,
       "story_size": 1
     },
     {
@@ -459,7 +477,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.6,
+      "score": 93.3,
       "story_size": 1
     },
     {
@@ -477,7 +495,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.1,
+      "score": 90.8,
       "story_size": 1
     },
     {
@@ -496,7 +514,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 90.4,
+      "score": 90.2,
       "story_size": 2
     },
     {
@@ -514,7 +532,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.9,
+      "score": 89.7,
       "story_size": 1
     },
     {
@@ -532,7 +550,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.8,
+      "score": 88.5,
       "story_size": 1
     },
     {
@@ -550,7 +568,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.5,
+      "score": 88.2,
       "story_size": 1
     },
     {
@@ -568,7 +586,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.5,
+      "score": 87.2,
       "story_size": 1
     },
     {
@@ -586,7 +604,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.9,
+      "score": 86.7,
       "story_size": 1
     },
     {
@@ -604,7 +622,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.9,
+      "score": 86.6,
       "story_size": 1
     },
     {
@@ -623,7 +641,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 86.6,
+      "score": 86.4,
       "story_size": 2
     },
     {
@@ -641,7 +659,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.5,
+      "score": 85.2,
       "story_size": 1
     },
     {
@@ -659,7 +677,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.2,
+      "score": 84.9,
       "story_size": 1
     },
     {
@@ -677,7 +695,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.1,
+      "score": 84.9,
       "story_size": 1
     },
     {
@@ -695,7 +713,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.8,
+      "score": 84.6,
       "story_size": 1
     },
     {
@@ -713,7 +731,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.6,
+      "score": 84.3,
       "story_size": 1
     },
     {
@@ -731,7 +749,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.5,
+      "score": 84.3,
       "story_size": 1
     },
     {
@@ -749,7 +767,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.5,
+      "score": 84.2,
       "story_size": 1
     },
     {
@@ -767,7 +785,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.4,
+      "score": 84.2,
       "story_size": 1
     },
     {
@@ -785,25 +803,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.4,
-      "story_size": 1
-    },
-    {
-      "title": "दुई महिनापछि सुल्झियो महिला हत्या घटनाको रहस्य, मृतक र आरोपी दुवै भारतीय",
-      "link": "https://www.onlinekhabar.com/2026/10/2031444/mystery-of-womans-murder-solved-after-two-months-both-deceased-and-accused-are-indians",
-      "description": "२२ साउनमा हेटौंडा-१५ स्थित सेल्फी रोड नजिकै सामुदायिक वनमा खातुनको शव फेला परेको थियो ।",
-      "published": "2026-10-03T12:46:50+00:00",
-      "source": "OnlineKhabar",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "0e5f915692ee14e4",
-      "source_count": 1,
-      "verified": false,
-      "local": true,
-      "score": 84.2,
+      "score": 84.1,
       "story_size": 1
     },
     {
@@ -821,7 +821,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.1,
+      "score": 83.9,
+      "story_size": 1
+    },
+    {
+      "title": "दुई महिनापछि सुल्झियो महिला हत्या घटनाको रहस्य, मृतक र आरोपी दुवै भारतीय",
+      "link": "https://www.onlinekhabar.com/2026/10/2031444/mystery-of-womans-murder-solved-after-two-months-both-deceased-and-accused-are-indians",
+      "description": "२२ साउनमा हेटौंडा-१५ स्थित सेल्फी रोड नजिकै सामुदायिक वनमा खातुनको शव फेला परेको थियो ।",
+      "published": "2026-10-03T12:46:50+00:00",
+      "source": "OnlineKhabar",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "0e5f915692ee14e4",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 83.9,
       "story_size": 1
     },
     {
@@ -839,7 +857,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.7,
+      "score": 83.4,
       "story_size": 1
     },
     {
@@ -857,7 +875,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.2,
+      "score": 83.0,
       "story_size": 1
     },
     {
@@ -875,7 +893,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.0,
+      "score": 82.8,
       "story_size": 1
     },
     {
@@ -893,7 +911,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.8,
+      "score": 82.5,
       "story_size": 1
     },
     {
@@ -911,25 +929,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.8,
-      "story_size": 1
-    },
-    {
-      "title": "जनमत पार्टीको दोस्रो महाधिवेशन शुरु, अध्यक्षमा सीके राउतको मात्रै उम्मेदवारी",
-      "link": "https://www.thahakhabar.com/detail/309751",
-      "description": "",
-      "published": "2026-10-03T21:50:00+05:45",
-      "source": "Thaha Khabar",
-      "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/CK-Raut-1781349614.jpg",
-      "related_sources": [
-        "Thaha Khabar"
-      ],
-      "id": "ebb3be192e91dce1",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 82.4,
+      "score": 82.5,
       "story_size": 1
     },
     {
@@ -947,7 +947,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.3,
+      "score": 82.1,
+      "story_size": 1
+    },
+    {
+      "title": "जनमत पार्टीको दोस्रो महाधिवेशन शुरु, अध्यक्षमा सीके राउतको मात्रै उम्मेदवारी",
+      "link": "https://www.thahakhabar.com/detail/309751",
+      "description": "",
+      "published": "2026-10-03T21:50:00+05:45",
+      "source": "Thaha Khabar",
+      "category": "nepal",
+      "image": "https://www.thahakhabar.com/uploads/posts/CK-Raut-1781349614.jpg",
+      "related_sources": [
+        "Thaha Khabar"
+      ],
+      "id": "ebb3be192e91dce1",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 82.1,
       "story_size": 1
     },
     {
@@ -965,7 +983,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.3,
+      "score": 82.1,
       "story_size": 1
     },
     {
@@ -983,25 +1001,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.9,
-      "story_size": 1
-    },
-    {
-      "title": "रास्वपाको केन्द्रीय कार्यालय सार्ने तयारी, उपत्यकामा जग्गा वा घर खोज्न आग्रह",
-      "link": "https://www.ratopati.com/story/596936/preparations-to-relocate-the-central-office-of-the-rashtriya-swayamsevak-sangh-rss-urging-people-to-find-land-or-a-house-in-the-valley",
-      "description": "काठमाडौँ । राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) ले आफ्नो केन्द्रीय कार्यालय अन्यत्र सार्ने तयारी गरेको छ । शनिबार काठमाडौंको वनस्थलीस्थित केन्द्रीय कार्यालयमा बसेको केन्द्रीय समिति बैठकले काठमाडौं उपत्यकाको पायक पर्ने स्थानमा पार्टी कार्यालयका लागि जग्गा वा घर",
-      "published": "2026-10-03T15:41:46+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/rabi-rsp_iepxt6fnYW.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "13d512e20326e2a3",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 80.8,
+      "score": 81.7,
       "story_size": 1
     },
     {
@@ -1019,7 +1019,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.2,
+      "score": 79.9,
       "story_size": 1
     },
     {
@@ -1037,7 +1037,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.0,
+      "score": 79.7,
       "story_size": 1
     },
     {
@@ -1055,7 +1055,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.8,
+      "score": 79.5,
       "story_size": 1
     },
     {
@@ -1073,7 +1073,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.6,
+      "score": 79.3,
       "story_size": 1
     },
     {
@@ -1091,7 +1091,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.5,
+      "score": 79.2,
       "story_size": 1
     },
     {
@@ -1109,7 +1109,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.4,
+      "score": 79.2,
       "story_size": 1
     },
     {
@@ -1127,7 +1127,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.4,
+      "score": 79.1,
       "story_size": 1
     },
     {
@@ -1145,7 +1145,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.4,
+      "score": 79.1,
       "story_size": 1
     },
     {
@@ -1163,7 +1163,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.3,
+      "score": 79.1,
       "story_size": 1
     },
     {
@@ -1181,7 +1181,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.3,
+      "score": 79.0,
       "story_size": 1
     },
     {
@@ -1199,7 +1199,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.3,
+      "score": 79.0,
       "story_size": 1
     },
     {
@@ -1217,7 +1217,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.3,
+      "score": 79.0,
       "story_size": 1
     },
     {
@@ -1235,7 +1235,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.2,
+      "score": 79.0,
       "story_size": 1
     },
     {
@@ -1253,7 +1253,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.2,
+      "score": 79.0,
       "story_size": 1
     },
     {
@@ -1271,7 +1271,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.2,
+      "score": 78.9,
       "story_size": 1
     },
     {
@@ -1289,7 +1289,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.1,
+      "score": 78.9,
       "story_size": 1
     },
     {
@@ -1307,7 +1307,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.0,
+      "score": 78.8,
       "story_size": 1
     },
     {
@@ -1325,7 +1325,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.0,
+      "score": 78.8,
       "story_size": 1
     },
     {
@@ -1343,7 +1343,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.9,
+      "score": 78.6,
       "story_size": 1
     },
     {
@@ -1361,7 +1361,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.4,
+      "score": 78.2,
       "story_size": 1
     },
     {
@@ -1379,7 +1379,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.0,
+      "score": 77.7,
       "story_size": 1
     },
     {
@@ -1397,7 +1397,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.7,
+      "score": 77.5,
       "story_size": 1
     },
     {
@@ -1415,7 +1415,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.3,
+      "score": 77.0,
       "story_size": 1
     },
     {
@@ -1433,7 +1433,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.0,
+      "score": 76.8,
       "story_size": 1
     },
     {
@@ -1451,7 +1451,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.1,
+      "score": 75.9,
       "story_size": 1
     },
     {
@@ -1469,7 +1469,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 75.4,
+      "score": 75.1,
       "story_size": 1
     },
     {
@@ -1487,7 +1487,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.6,
+      "score": 73.3,
       "story_size": 1
     },
     {
@@ -1505,7 +1505,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.1,
+      "score": 72.8,
       "story_size": 1
     },
     {
@@ -1523,7 +1523,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.3,
+      "score": 72.0,
       "story_size": 1
     },
     {
@@ -1541,7 +1541,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.9,
+      "score": 71.7,
       "story_size": 1
     },
     {
@@ -1559,7 +1559,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.6,
+      "score": 71.4,
       "story_size": 1
     },
     {
@@ -1577,7 +1577,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.1,
+      "score": 70.8,
       "story_size": 1
     },
     {
@@ -1595,7 +1595,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.8,
+      "score": 70.5,
       "story_size": 1
     },
     {
@@ -1613,7 +1613,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.7,
+      "score": 70.4,
       "story_size": 1
     },
     {
@@ -1631,7 +1631,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.2,
+      "score": 69.9,
       "story_size": 1
     },
     {
@@ -1649,7 +1649,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.0,
+      "score": 69.8,
       "story_size": 1
     },
     {
@@ -1667,7 +1667,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.0,
+      "score": 69.7,
       "story_size": 1
     },
     {
@@ -1685,7 +1685,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.3,
+      "score": 69.0,
       "story_size": 1
     },
     {
@@ -1703,7 +1703,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.3,
+      "score": 69.0,
       "story_size": 1
     },
     {
@@ -1721,7 +1721,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.1,
+      "score": 68.8,
       "story_size": 1
     },
     {
@@ -1739,7 +1739,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.7,
+      "score": 68.5,
       "story_size": 1
     },
     {
@@ -1757,7 +1757,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.9,
+      "score": 67.6,
       "story_size": 1
     },
     {
@@ -1775,7 +1775,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.4,
+      "score": 67.1,
       "story_size": 1
     },
     {
@@ -1793,7 +1793,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.1,
+      "score": 66.8,
       "story_size": 1
     },
     {
@@ -1811,7 +1811,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.1,
+      "score": 66.8,
       "story_size": 1
     },
     {
@@ -1829,7 +1829,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.1,
+      "score": 65.8,
       "story_size": 1
     },
     {
@@ -1847,7 +1847,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 65.9,
+      "score": 65.6,
       "story_size": 1
     },
     {
@@ -1865,7 +1865,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 65.2,
+      "score": 64.9,
       "story_size": 1
     },
     {
@@ -1883,7 +1883,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 64.5,
+      "score": 64.3,
       "story_size": 1
     },
     {
@@ -1901,7 +1901,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 63.4,
+      "score": 63.1,
       "story_size": 1
     },
     {
@@ -1919,7 +1919,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 62.9,
+      "score": 62.7,
       "story_size": 1
     },
     {
@@ -1937,7 +1937,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 62.7,
+      "score": 62.5,
       "story_size": 1
     },
     {
@@ -1955,7 +1955,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 62.0,
+      "score": 61.8,
       "story_size": 1
     },
     {
@@ -1973,7 +1973,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 61.3,
+      "score": 61.1,
       "story_size": 1
     },
     {
@@ -1991,7 +1991,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 61.3,
+      "score": 61.0,
       "story_size": 1
     },
     {
@@ -2009,7 +2009,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 60.9,
+      "score": 60.7,
       "story_size": 1
     },
     {
@@ -2027,7 +2027,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 60.6,
+      "score": 60.3,
       "story_size": 1
     },
     {
@@ -2045,7 +2045,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 60.3,
+      "score": 60.0,
       "story_size": 1
     },
     {
@@ -2063,7 +2063,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 60.2,
+      "score": 59.9,
       "story_size": 1
     },
     {
@@ -2081,7 +2081,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 59.6,
+      "score": 59.3,
       "story_size": 1
     },
     {
@@ -2099,7 +2099,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 58.6,
+      "score": 58.4,
       "story_size": 1
     },
     {
@@ -2117,7 +2117,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 58.4,
+      "score": 58.1,
       "story_size": 1
     },
     {
@@ -2135,7 +2135,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 55.7,
+      "score": 55.5,
       "story_size": 1
     },
     {
@@ -2153,7 +2153,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 55.5,
+      "score": 55.2,
       "story_size": 1
     },
     {
@@ -2171,7 +2171,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 55.1,
+      "score": 54.8,
       "story_size": 1
     },
     {
@@ -2189,7 +2189,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 54.6,
+      "score": 54.4,
       "story_size": 1
     },
     {
@@ -2207,7 +2207,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 53.8,
+      "score": 53.6,
       "story_size": 1
     },
     {
@@ -2225,7 +2225,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 53.7,
+      "score": 53.4,
       "story_size": 1
     },
     {
@@ -2243,7 +2243,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 53.5,
+      "score": 53.3,
       "story_size": 1
     },
     {
@@ -2261,7 +2261,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 52.2,
+      "score": 52.0,
       "story_size": 1
     },
     {
@@ -2279,7 +2279,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 44.4,
+      "score": 44.2,
       "story_size": 1
     },
     {
@@ -2297,7 +2297,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 36.8,
+      "score": 36.6,
       "story_size": 1
     },
     {
@@ -2315,7 +2315,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 32.1,
+      "score": 31.8,
       "story_size": 1
     },
     {
@@ -2333,7 +2333,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 26.7,
+      "score": 26.5,
       "story_size": 1
     },
     {
