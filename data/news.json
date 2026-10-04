@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T00:12:00.439536+00:00",
+  "updated_at": "2026-10-04T00:13:00.211753+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -33,7 +33,7 @@
       "source_count": 4,
       "verified": true,
       "local": false,
-      "score": 128.2,
+      "score": 128.1,
       "story_size": 4
     },
     {
@@ -53,7 +53,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 121.1,
+      "score": 121.0,
       "story_size": 3
     },
     {
@@ -72,7 +72,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 115.2,
+      "score": 115.1,
       "story_size": 2
     },
     {
@@ -91,7 +91,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 113.9,
+      "score": 113.8,
       "story_size": 2
     },
     {
@@ -128,7 +128,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.9,
+      "score": 111.8,
       "story_size": 1
     },
     {
@@ -146,7 +146,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.6,
+      "score": 111.5,
       "story_size": 1
     },
     {
@@ -164,7 +164,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.2,
+      "score": 111.1,
       "story_size": 1
     },
     {
@@ -182,7 +182,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.2,
+      "score": 110.1,
+      "story_size": 1
+    },
+    {
+      "title": "पैसा कहिले पठाउने भन्दै घरबाट फोन आउँछ, यता तलब नआएको कसरी सुनाउनु?",
+      "link": "https://www.setopati.com/global/europe/399862",
+      "description": "परदेशमा बिरामी हुँदा होस् वा काममा समस्या पर्दा, नजिकै परिवार र आफन्त नहुँदा आफ्नै दुःख आफैले सम्हाल्नुपर्छ। घरमा पैसा पठाउनैपर्ने जिम्मेवारीले थाकेको शरीरलाई पनि फेरि काममा जान बाध्य बनाउँछ। रोमानियामा काम गरिरहेका नेपालीको दिनचर्या कति कठिन छ?",
+      "published": "2026-10-04T05:57:30+05:45",
+      "source": "Setopati",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "f8c7e45b0a72132a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.0,
       "story_size": 1
     },
     {
@@ -200,7 +218,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.8,
+      "score": 109.7,
       "story_size": 1
     },
     {
@@ -218,7 +236,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.4,
+      "score": 109.3,
       "story_size": 1
     },
     {
@@ -237,7 +255,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 109.3,
+      "score": 109.2,
       "story_size": 2
     },
     {
@@ -255,7 +273,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.2,
+      "score": 109.1,
       "story_size": 1
     },
     {
@@ -273,7 +291,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.2,
+      "score": 108.1,
       "story_size": 1
     },
     {
@@ -291,7 +309,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.0,
+      "score": 107.9,
       "story_size": 1
     },
     {
@@ -309,7 +327,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.0,
+      "score": 107.9,
       "story_size": 1
     },
     {
@@ -327,7 +345,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.6,
+      "score": 107.5,
       "story_size": 1
     },
     {
@@ -400,7 +418,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 105.9,
+      "score": 105.8,
       "story_size": 2
     },
     {
@@ -457,7 +475,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 99.2,
+      "score": 99.1,
       "story_size": 2
     },
     {
@@ -475,7 +493,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.0,
+      "score": 96.9,
       "story_size": 1
     },
     {
@@ -494,7 +512,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 96.8,
+      "score": 96.7,
       "story_size": 2
     },
     {
@@ -512,7 +530,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.2,
+      "score": 93.1,
       "story_size": 1
     },
     {
@@ -530,7 +548,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.2,
+      "score": 92.1,
       "story_size": 1
     },
     {
@@ -585,7 +603,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 88.6,
+      "score": 88.5,
       "story_size": 2
     },
     {
@@ -603,7 +621,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.1,
+      "score": 88.0,
       "story_size": 1
     },
     {
@@ -657,7 +675,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.7,
+      "score": 85.6,
       "story_size": 1
     },
     {
@@ -675,7 +693,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.1,
+      "score": 85.0,
       "story_size": 1
     },
     {
@@ -693,7 +711,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.1,
+      "score": 85.0,
       "story_size": 1
     },
     {
@@ -712,7 +730,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 84.8,
+      "score": 84.7,
       "story_size": 2
     },
     {
@@ -766,7 +784,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.3,
+      "score": 83.2,
       "story_size": 1
     },
     {
@@ -784,7 +802,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.0,
+      "score": 82.9,
       "story_size": 1
     },
     {
@@ -802,7 +820,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.8,
+      "score": 82.7,
       "story_size": 1
     },
     {
@@ -820,7 +838,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.7,
+      "score": 82.6,
       "story_size": 1
     },
     {
@@ -856,7 +874,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.6,
+      "score": 82.5,
       "story_size": 1
     },
     {
@@ -878,24 +896,6 @@
       "story_size": 1
     },
     {
-      "title": "जितिया पर्वमा नुहाउने क्रममा डुबेर दुई बालिकाको मृत्यु",
-      "link": "https://gorkhapatraonline.com/news/225310",
-      "description": "शिवशंकर मिश्रा बारा, असोज १७ गते । जितिया पर्वका अवसरमा पोखरीमा नुहाउने क्रममा बाराको देवताल गाउँपालिकामा दुई बालिकाको डुबेर मृत्यु भएको छ।देवताल गाउँपालिका–६ जबकास्थित राजेन्द्र क...",
-      "published": "2026-10-03T22:16:41+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/386310/conversions/dubeko-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "582fd694c8695939",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 82.3,
-      "story_size": 1
-    },
-    {
       "title": "दुई महिनापछि सुल्झियो महिला हत्या घटनाको रहस्य, मृतक र आरोपी दुवै भारतीय",
       "link": "https://www.onlinekhabar.com/2026/10/2031444/mystery-of-womans-murder-solved-after-two-months-both-deceased-and-accused-are-indians",
       "description": "२२ साउनमा हेटौंडा-१५ स्थित सेल्फी रोड नजिकै सामुदायिक वनमा खातुनको शव फेला परेको थियो ।",
@@ -911,6 +911,24 @@
       "verified": false,
       "local": true,
       "score": 82.3,
+      "story_size": 1
+    },
+    {
+      "title": "जितिया पर्वमा नुहाउने क्रममा डुबेर दुई बालिकाको मृत्यु",
+      "link": "https://gorkhapatraonline.com/news/225310",
+      "description": "शिवशंकर मिश्रा बारा, असोज १७ गते । जितिया पर्वका अवसरमा पोखरीमा नुहाउने क्रममा बाराको देवताल गाउँपालिकामा दुई बालिकाको डुबेर मृत्यु भएको छ।देवताल गाउँपालिका–६ जबकास्थित राजेन्द्र क...",
+      "published": "2026-10-03T22:16:41+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/386310/conversions/dubeko-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "582fd694c8695939",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 82.2,
       "story_size": 1
     },
     {
@@ -946,7 +964,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.4,
+      "score": 81.3,
       "story_size": 1
     },
     {
@@ -964,7 +982,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.2,
+      "score": 81.1,
       "story_size": 1
     },
     {
@@ -982,7 +1000,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.0,
+      "score": 80.9,
       "story_size": 1
     },
     {
@@ -1004,24 +1022,6 @@
       "story_size": 1
     },
     {
-      "title": "सडक दुर्घटना न्यूनीकरणका लागि राष्ट्रिय सडक सुरक्षा परिषद् प्रस्ताव",
-      "link": "https://baahrakhari.com/detail/503634",
-      "description": "",
-      "published": "2026-10-03T22:34:35+05:45",
-      "source": "Baahrakhari",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "7295b959ad8e8d24",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 80.5,
-      "story_size": 1
-    },
-    {
       "title": "जनमत पार्टीको दोस्रो महाधिवेशन शुरु, अध्यक्षमा सीके राउतको मात्रै उम्मेदवारी",
       "link": "https://www.thahakhabar.com/detail/309751",
       "description": "",
@@ -1040,6 +1040,24 @@
       "story_size": 1
     },
     {
+      "title": "सडक दुर्घटना न्यूनीकरणका लागि राष्ट्रिय सडक सुरक्षा परिषद् प्रस्ताव",
+      "link": "https://baahrakhari.com/detail/503634",
+      "description": "",
+      "published": "2026-10-03T22:34:35+05:45",
+      "source": "Baahrakhari",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "7295b959ad8e8d24",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 80.4,
+      "story_size": 1
+    },
+    {
       "title": "'जेनजीले चाहेको देश र समाजको बलियो जग अझै निर्माण हुन सकेको छैन'",
       "link": "https://www.ratopati.com/story/596940/the-strong-foundation-of-the-country-and-society-that-genji-desired-has-not-yet-been-built",
       "description": "काठमाडौँ । राष्ट्रिय जेनजी नागरिक अभियानले जेनजीले भ्रष्टाचारमुक्त, जवाफदेही राजनीति र पारदर्शी शासन भएको देश चाहेको बताएको छ । त्यसकै लागि गत वर्षको भदौमा जेनजी विद्रोह भएको अभियानको भनाइ छ । शनिबार राजधानीमा आयोजित पत्रकार सम्मेलनका",
@@ -1054,7 +1072,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.5,
+      "score": 80.4,
       "story_size": 1
     },
     {
@@ -1090,7 +1108,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.1,
+      "score": 78.0,
       "story_size": 1
     },
     {
@@ -1162,7 +1180,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.6,
+      "score": 77.5,
       "story_size": 1
     },
     {
@@ -1180,7 +1198,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.6,
+      "score": 77.5,
       "story_size": 1
     },
     {
@@ -1198,7 +1216,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.6,
+      "score": 77.5,
       "story_size": 1
     },
     {
@@ -1216,7 +1234,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.5,
+      "score": 77.4,
       "story_size": 1
     },
     {
@@ -1234,7 +1252,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.5,
+      "score": 77.4,
       "story_size": 1
     },
     {
@@ -1288,7 +1306,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.4,
+      "score": 77.3,
       "story_size": 1
     },
     {
@@ -1306,7 +1324,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.4,
+      "score": 77.3,
       "story_size": 1
     },
     {
@@ -1342,7 +1360,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.3,
+      "score": 77.2,
       "story_size": 1
     },
     {
@@ -1360,7 +1378,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.2,
+      "score": 77.1,
       "story_size": 1
     },
     {
@@ -1378,7 +1396,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.2,
+      "score": 77.1,
       "story_size": 1
     },
     {
@@ -1414,7 +1432,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.6,
+      "score": 76.5,
       "story_size": 1
     },
     {
@@ -1432,7 +1450,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.1,
+      "score": 76.0,
       "story_size": 1
     },
     {
@@ -1450,7 +1468,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.9,
+      "score": 75.8,
       "story_size": 1
     },
     {
@@ -1486,7 +1504,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.2,
+      "score": 75.1,
       "story_size": 1
     },
     {
@@ -1558,7 +1576,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.5,
+      "score": 70.4,
       "story_size": 1
     },
     {
@@ -1576,7 +1594,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.1,
+      "score": 70.0,
       "story_size": 1
     },
     {
@@ -1594,7 +1612,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.8,
+      "score": 69.7,
       "story_size": 1
     },
     {
@@ -1612,7 +1630,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.3,
+      "score": 69.2,
       "story_size": 1
     },
     {
@@ -1634,24 +1652,6 @@
       "story_size": 1
     },
     {
-      "title": "बिरूवाले जस्तै विचार गर न!",
-      "link": "https://www.setopati.com/opinion/399811",
-      "description": "म आफै छक्क परेँ, आफ्नै हातले एउटा आकृति बनेछ! त्यति सघन भावनाको उत्तेजनापूर्ण अभिव्यक्ति। पहिलो प्रेमपत्रको पहिलो हरफजस्तो— व्याकरण नमिलेको तर भावना मिलेको!",
-      "published": "2026-10-03T19:40:00+05:45",
-      "source": "Setopati",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Setopati"
-      ],
-      "id": "9307369d464cf850",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 68.9,
-      "story_size": 1
-    },
-    {
       "title": "डोटीमा खोलाले बगाउँदा एक महिलाको मृत्यु, एक बेपत्ता",
       "link": "https://kendrabindu.com/social-affairs/560941/",
       "description": "डोटी । डोटीमा सायली गाड खोलाले बगाउँदा एक महिलाको मृत्यु भएको छ भने एक जना बेपत्ता भएका छन् । आदर्श गाउँपालिका–५ तलारास्थित सायली गाडमा बगेर सोही गाउँपालिका–३ घर भई हाल तलारामा बस्दै आएकी ३१ वर्षीया लक्ष्मी ओझाको मृत्यु भएको हो । उनीसँगै खोलामा बगेका शिखर नगरपालिका–११ घर भई हाल तलारामै बस्दै आएका करिब ५० वर्षीय [&#8230;]",
@@ -1666,7 +1666,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.4,
+      "score": 68.3,
       "story_size": 1
     },
     {
@@ -1684,7 +1684,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.2,
+      "score": 68.1,
       "story_size": 1
     },
     {
@@ -1720,7 +1720,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.5,
+      "score": 67.4,
       "story_size": 1
     },
     {
@@ -1756,7 +1756,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.2,
+      "score": 67.1,
       "story_size": 1
     },
     {
@@ -1774,7 +1774,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.9,
+      "score": 66.8,
       "story_size": 1
     },
     {
@@ -1792,7 +1792,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.0,
+      "score": 65.9,
       "story_size": 1
     },
     {
@@ -1810,7 +1810,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 65.6,
+      "score": 65.5,
       "story_size": 1
     },
     {
@@ -1828,7 +1828,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 65.3,
+      "score": 65.2,
       "story_size": 1
     },
     {
@@ -1846,7 +1846,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 65.3,
+      "score": 65.2,
       "story_size": 1
     },
     {
@@ -1864,7 +1864,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 64.2,
+      "score": 64.1,
       "story_size": 1
     },
     {
@@ -1900,7 +1900,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 63.4,
+      "score": 63.3,
       "story_size": 1
     },
     {
@@ -1918,7 +1918,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 62.7,
+      "score": 62.6,
       "story_size": 1
     },
     {
@@ -1936,7 +1936,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 61.6,
+      "score": 61.5,
       "story_size": 1
     },
     {
@@ -1954,7 +1954,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 61.1,
+      "score": 61.0,
       "story_size": 1
     },
     {
@@ -1972,7 +1972,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 60.9,
+      "score": 60.8,
       "story_size": 1
     },
     {
@@ -1990,7 +1990,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 60.2,
+      "score": 60.1,
       "story_size": 1
     },
     {
@@ -2008,7 +2008,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 59.5,
+      "score": 59.4,
       "story_size": 1
     },
     {
@@ -2026,7 +2026,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 59.5,
+      "score": 59.4,
       "story_size": 1
     },
     {
@@ -2044,7 +2044,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 59.1,
+      "score": 59.0,
       "story_size": 1
     },
     {
@@ -2116,7 +2116,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 57.8,
+      "score": 57.7,
       "story_size": 1
     },
     {
@@ -2134,7 +2134,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 56.8,
+      "score": 56.7,
       "story_size": 1
     },
     {
@@ -2152,7 +2152,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 56.6,
+      "score": 56.5,
       "story_size": 1
     },
     {
@@ -2170,7 +2170,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 53.9,
+      "score": 53.8,
       "story_size": 1
     },
     {
@@ -2206,7 +2206,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 53.3,
+      "score": 53.2,
       "story_size": 1
     },
     {
@@ -2224,7 +2224,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 52.8,
+      "score": 52.7,
       "story_size": 1
     },
     {
@@ -2242,7 +2242,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 52.0,
+      "score": 51.9,
       "story_size": 1
     },
     {
@@ -2260,7 +2260,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 51.9,
+      "score": 51.8,
       "story_size": 1
     },
     {
@@ -2278,7 +2278,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 51.7,
+      "score": 51.6,
       "story_size": 1
     },
     {
@@ -2296,7 +2296,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 42.6,
+      "score": 42.5,
       "story_size": 1
     },
     {
@@ -2314,7 +2314,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 35.0,
+      "score": 34.9,
       "story_size": 1
     },
     {
@@ -2332,7 +2332,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 30.3,
+      "score": 30.2,
       "story_size": 1
     },
     {
@@ -2350,7 +2350,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 24.9,
+      "score": 24.8,
       "story_size": 1
     },
     {
