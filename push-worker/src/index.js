@@ -14,10 +14,10 @@ function json(data, status = 200, extra = {}) {
 
 function cors(origin) {
   const allowed = [
-    "https://iamfromhetauda.com.np",
-    "https://www.iamfromhetauda.com.np"
+    "https://laxmannepal.com.np",
+    "https://www.laxmannepal.com.np"
   ];
-  return allowed.includes(origin) ? origin : "https://iamfromhetauda.com.np";
+  return allowed.includes(origin) ? origin : "https://laxmannepal.com.np";
 }
 
 function withCors(response, origin) {
@@ -33,9 +33,16 @@ function keyFor(endpoint) {
   return "sub:" + endpoint;
 }
 
+function siteBase(env) {
+  return (env.SITE_URL || "https://laxmannepal.com.np/iamfromhetauda/").replace(/\/$/, "");
+}
+
 function siteUrl(env, id) {
-  const base = (env.SITE_URL || "https://iamfromhetauda.com.np/").replace(/\/$/, "");
-  return base + "/?news=" + encodeURIComponent(id);
+  return siteBase(env) + "/?news=" + encodeURIComponent(id);
+}
+
+function assetUrl(env, path) {
+  return new URL(path.replace(/^\//, ""), siteBase(env) + "/").href;
 }
 
 async function authorize(request, env) {
@@ -100,13 +107,13 @@ async function handle(request, env, ctx) {
 
     let delivered = 0, removed = 0, failed = 0, checked = 0;
     let cursor = undefined;
-    const siteBase = env.SITE_URL || "https://iamfromhetauda.com.np/";
-    const imageUrl = news.image ? new URL(String(news.image), siteBase).href : new URL("/logo.jpg", siteBase).href;
+    const base = siteBase(env);
+    const imageUrl = news.image ? new URL(String(news.image), base + "/").href : assetUrl(env, "logo.jpg");
     const payload = {
       title: "I Am From Hetauda",
       body: String(news.title).slice(0, 240),
-      icon: new URL("/logo.jpg", siteBase).href,
-      badge: new URL("/logo.jpg", siteBase).href,
+      icon: assetUrl(env, "logo.jpg"),
+      badge: assetUrl(env, "logo.jpg"),
       image: imageUrl,
       tag: "news-" + String(news.id),
       id: String(news.id),
@@ -119,26 +126,26 @@ async function handle(request, env, ctx) {
       const listed = await env.PUSH_KV.list({ prefix: "sub:", limit: 1000, ...(cursor ? { cursor } : {}) });
       checked += listed.keys.length;
       for (const item of listed.keys) {
-      const raw = await env.PUSH_KV.get(item.name);
-      if (!raw) continue;
-      try {
-        const subscription = JSON.parse(raw);
-        await sendPushNotification(subscription, payload, {
-          publicKey: env.VAPID_PUBLIC_KEY,
-          privateKey: env.VAPID_PRIVATE_KEY,
-          subject: env.VAPID_SUBJECT
-        }, { ttl: 86400 });
-        delivered++;
-      } catch (e) {
-        const status = Number(e?.status || e?.statusCode || 0);
-        if (status === 404 || status === 410) {
-          await env.PUSH_KV.delete(item.name);
-          removed++;
-        } else {
-          failed++;
-          console.error("push failed", item.name, e?.message || e);
+        const raw = await env.PUSH_KV.get(item.name);
+        if (!raw) continue;
+        try {
+          const subscription = JSON.parse(raw);
+          await sendPushNotification(subscription, payload, {
+            publicKey: env.VAPID_PUBLIC_KEY,
+            privateKey: env.VAPID_PRIVATE_KEY,
+            subject: env.VAPID_SUBJECT
+          }, { ttl: 86400 });
+          delivered++;
+        } catch (e) {
+          const status = Number(e?.status || e?.statusCode || 0);
+          if (status === 404 || status === 410) {
+            await env.PUSH_KV.delete(item.name);
+            removed++;
+          } else {
+            failed++;
+            console.error("push failed", item.name, e?.message || e);
+          }
         }
-      }
       }
       cursor = listed.list_complete === false ? listed.cursor : undefined;
     } while (cursor);
