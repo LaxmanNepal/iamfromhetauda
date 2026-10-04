@@ -100,12 +100,14 @@ async function handle(request, env, ctx) {
 
     let delivered = 0, removed = 0, failed = 0, checked = 0;
     let cursor = undefined;
+    const siteBase = env.SITE_URL || "https://iamfromhetauda.com.np/";
+    const imageUrl = news.image ? new URL(String(news.image), siteBase).href : new URL("/logo.jpg", siteBase).href;
     const payload = {
       title: "I Am From Hetauda",
       body: String(news.title).slice(0, 240),
-      icon: new URL("/logo.jpg", env.SITE_URL || "https://iamfromhetauda.com.np/").href,
-      badge: new URL("/logo.jpg", env.SITE_URL || "https://iamfromhetauda.com.np/").href,
-      image: news.image ? String(news.image) : new URL("/logo.jpg", env.SITE_URL || "https://iamfromhetauda.com.np/").href,
+      icon: new URL("/logo.jpg", siteBase).href,
+      badge: new URL("/logo.jpg", siteBase).href,
+      image: imageUrl,
       tag: "news-" + String(news.id),
       id: String(news.id),
       url: siteUrl(env, String(news.id)),
