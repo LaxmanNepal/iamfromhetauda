@@ -1,112 +1,133 @@
 {
   "date_np": "2026-10-05",
-  "generated_at": "2026-10-05T00:46:43.137843+00:00",
+  "generated_at": "2026-10-05T06:43:53.635832+00:00",
   "items": [
     {
-      "title": "कांग्रेस महाधिवेशन अन्तर्गत बन्दसत्र सुरु हुँदै",
-      "link": "https://www.thahakhabar.com/detail/309813",
-      "description": "",
-      "published": "2026-10-05T06:22:52+05:45",
-      "source": "Thaha Khabar",
-      "category": "politics",
-      "image": "https://www.thahakhabar.com/uploads/posts/Congress-1791160647.jpg",
-      "related_sources": [
-        "Thaha Khabar",
-        "Baahrakhari"
-      ],
-      "id": "8c62315048246d4d",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 136.4,
-      "story_size": 2
-    },
-    {
-      "title": "मोटरसाइकल दुर्घटनामा एकको मृत्यु",
-      "link": "https://baahrakhari.com/detail/503769",
-      "description": "",
-      "published": "2026-10-05T06:25:53+05:45",
-      "source": "Baahrakhari",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari",
-        "Ratopati"
-      ],
-      "id": "ca1709b379c7126b",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 133.6,
-      "story_size": 2
-    },
-    {
-      "title": "सीमा क्षेत्रमा सुरक्षा निगरानी बढाउँदै झापा प्रशासन",
-      "link": "https://khabarhub.com/2026/05/1033256/",
-      "description": "झापा– सीमावर्ती क्षेत्रमा हुनसक्ने अवैध चोरी–निकासी तथा पैठारी नियन्त्रण र सम्भावित राजस्व चुहावट न्यूनीकरण गर्न जिल्ला सुरक्षा समिति झापाले झापा–इलाम सीमावर्ती क्षेत्रमा सुरक्षा निगरानी बढाएको छ । सम्भावित अवैध गतिविधि नियन्त्रणका लागि प्रमुख जिल्ला अधिकारी श्रवणकुमार पोखरेलको नेतृत्वमा आइतबार झापा–इलाम सीमावर्ती क्षेत्रका विभिन्न स्थानको स्थलगत अनुगमन गरिएको हो । मेचीनगर, बुद्धशान्ति, अर्जुनधारालगायत पालिकासँग सीमा जोडिएका [&#8230;]",
-      "published": "2026-10-05T00:27:06+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
-        "Ratopati"
-      ],
-      "id": "cb20b7a112977e7e",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 132.7,
-      "story_size": 2
-    },
-    {
-      "title": "तराईमा आंशिक बादल, पहाड र हिमालमा वर्षा तथा हिमपातको सम्भावना",
-      "link": "https://www.ratopati.com/story/597199/partly-cloudy-in-the-terai-possibility-of-rain-and-snowfall-in-the-hills-and-mountains",
-      "description": "काठमाडौँ । मौसम पूर्वानुमान महाशाखाले हाल देशमा मनसुनी वायु र पश्चिमी वायुको दोहोरो प्रभाव परेको जनाएको छ । कर्णाली र सुदूरपश्चिम प्रदेशका साथै गण्डकी र लुम्बिनी प्रदेशको पश्चिमी भू-भागमा पश्चिमी वायुको असर छ । कोशी, मधेस र बागमती",
-      "published": "2026-10-04T23:58:06+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/kn_dang_rss_17_1000267002_t2g87IrN4I.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "fb4c9ffc8e931c9f",
-      "source_count": 1,
-      "verified": false,
-      "local": true,
-      "score": 127.8,
-      "story_size": 1
-    },
-    {
-      "title": "पश्चिममा नेपालमा पश्चिमी वायू र पूर्वमा मनसुनी वायुको प्रभाव कायमै",
-      "link": "https://kendrabindu.com/news/561272/",
-      "description": "काठमाडौं । कर्णाली र सुदूरपश्चिम प्रदेशको सबै भू-भाग, गण्डकी र लुम्बिनी प्रदेशको पश्चिमी भू-भागमा पश्चिमी वायु तथा कोशी, मधेश, बागमती प्रदेशको सबै भू -भाग र गण्डकी र लुम्बिनी प्रदेशको बाँकी भू-भागमा मनसुनी वायुको साथै पश्चिमी वायूको आंशिक प्रभाव समेत रहेको मौसम पूर्वानुमान महाशाखाले जनाएको छ । आज कोशी, बागमती, गण्डकी र लुम्बिनी प्रदेशका साथै कर्णाली [&#8230;]",
-      "published": "2026-10-05T00:15:39+00:00",
+      "title": "रेसुङ्गामा जिपलाइन र स्काई साइक्लिङको अन्तिम परीक्षण सफल",
+      "link": "https://kendrabindu.com/tourism/561385/",
+      "description": "गुल्मी । गुल्मी जिल्लाको प्रमुख पर्यटकीय स्थल रेसुङ्गाको गर्जुरामा साहसिक पर्यटन प्रवद्र्धनका लागि निर्माण गरिएको जिपलाइन र स्काई साइक्लिङको अन्तिम परीक्षण सफल भएको छ । परीक्षण सफल भएसँगै उक्त साहसिक पर्यटन पूर्वाधार सञ्चालनको तयारी पूरा भएको रेसुङ्गा नगरपालिकाले जनाएको छ । नगरपालिकाको आयोजनामा निर्माण गरिएको उक्त पूर्वाधारमा ५६८ मिटर लामो जिपलाइन र ११० मिटर लामो [&#8230;]",
+      "published": "2026-10-05T06:01:05+00:00",
       "source": "Kendrabindu",
       "category": "nepal",
       "image": "",
       "related_sources": [
-        "Kendrabindu"
+        "Kendrabindu",
+        "Khabarhub",
+        "Ratopati"
       ],
-      "id": "2d552c36301f81b4",
+      "id": "630e9051a5433fcc",
+      "source_count": 3,
+      "verified": true,
+      "local": false,
+      "score": 141.1,
+      "story_size": 3
+    },
+    {
+      "title": "प्रधानसेनापति सिग्देल बेलायत प्रस्थान",
+      "link": "https://gorkhapatraonline.com/news/225504",
+      "description": "काठमाडौँ, असोज १९ गते । प्रधानसेनापति अशोक राज सिग्देल औपचारिक भ्रमणका लागि मित्रराष्ट्र संयुक्त अधिराज्य (बेलायत) प्रस्थान गर्नुभएको छ । प्रधानसेनापति सिग्देल बेलायती सेनाका चिफ अ...",
+      "published": "2026-10-05T12:05:23+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "world",
+      "image": "https://gorkhapatraonline.com/storage/media/386570/conversions/WhatsApp-Image-2026-10-05-at-11.43.04-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online",
+        "OnlineKhabar"
+      ],
+      "id": "4bda001cf4061910",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 135.4,
+      "story_size": 2
+    },
+    {
+      "title": "परराष्ट्रमन्त्री खनाल ‘प्रि–कोप लिडर्स इभेन्ट’ मा सहभागी हुन फिजीमा",
+      "link": "https://kendrabindu.com/politics/561406/",
+      "description": "काठमाडौं । परराष्ट्रमन्त्री शिशिर खनाल जलवायु परिवर्तनसम्बन्धी ‘प्रि–कोप लिडर्स इभेन्ट’ मा सहभागी हुन फिजी पुगेका छन्। ‘फिजी’ र ‘टुभालु’मा यही असोज १९ र २० गते हुने कार्यक्रममा सहभागी हुनेक्रममा मन्त्री खनालको नेतृत्वमा नेपाली प्रतिनिधिमण्डल आज फिजी पुगेको मन्त्रालयले जनाएको छ। मन्त्री खनालले २० गतदेखि आयोजना हुने नेताहरूको पूर्ण सत्र (लिडर्स प्लेनरी) मा सम्बोधन गर्ने कार्यक्रम छ। [&#8230;]",
+      "published": "2026-10-05T06:43:14+00:00",
+      "source": "Kendrabindu",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu",
+        "Khabarhub"
+      ],
+      "id": "2d1ef0016e2d2d17",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 134.0,
+      "story_size": 2
+    },
+    {
+      "title": "मन्त्रिपरिषद्को बैठक बस्दै",
+      "link": "https://kendrabindu.com/politics/561396/",
+      "description": "काठमाडौं । मन्त्रिपरिषद्को बैठक आज दिउँसो बस्ने भएको छ। सिंहदरबारस्थित प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालयमा अपराह्न ३: ०० बजे बैठक आह्वान गरिएको छ।",
+      "published": "2026-10-05T06:14:34+00:00",
+      "source": "Kendrabindu",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu",
+        "Khabarhub"
+      ],
+      "id": "44e3a72112020de9",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 132.0,
+      "story_size": 2
+    },
+    {
+      "title": "जमिन फाटेपछि ८० घर जोखिममा, बस्ती स्थानान्तरणको पर्खाइमा",
+      "link": "https://gorkhapatraonline.com/news/225505",
+      "description": "हेटौँडा, असोज १९ गते । मकवानपुरको बकैया गाउँपालिका–६ ज्यामिरेमा जमिन फाट्ने र भासिने क्रम बढेपछि ८० भन्दा बढी घर जोखिममा परेका छन् । असोज ११ गतेदेखि जमिन चिरिन थालेपछि घर, गोठ, खेत...",
+      "published": "2026-10-05T12:11:16+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/386571/conversions/Gopini-Bishwakarma-(3)-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "a1dc84d537ac9f06",
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 125.9,
+      "score": 129.8,
       "story_size": 1
     },
     {
-      "title": "एउटा साधारण परिवारको असाधारण कथा : किन बारम्बार यसको जादुमा तानिन्छन् दर्शक?",
-      "link": "https://www.ratopati.com/story/597201/the-extraordinary-story-of-an-ordinary-family-why-do-audiences-repeatedly-fall-under-its-spell",
-      "description": "पप कल्चर र मिम्सको दुनियाँमा अक्टोबर २ तारिखको अर्को अर्थ हो- ‘दृश्यम’। २ अक्टोबरमा विजय सालगाउँकर आफ्नो परिवारसँग स्वामी चिन्मयानन्दजीको आश्रममा सत्संगमा गएका थिए, त्यहाँ पावभाजी खाएका थिए र ३ अक्टोबरमा फर्केका थिए भन्ने कुरा अहिलेसम्म",
-      "published": "2026-10-05T00:45:00+00:00",
+      "title": "मन्त्रिपरिषद् बैठक बस्दै",
+      "link": "https://www.onlinekhabar.com/2026/10/2032487/cabinet-meeting-underway-27",
+      "description": "१९ असोज, काठमाडौं । मन्त्रिपरिषद् बैठक आज बस्दै छ । सिंहदरबारस्थित प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालयमा सोमबार अपराह्न ३ बजे बैठक बस्न लागेको प्रधानमन्त्रीको सचिवालयले जनाएको छ । बैठकमा मन्त्रालयका विभिन्न एजेन्डाबारे छलफल हुने बताइएको छ ।",
+      "published": "2026-10-05T05:28:18+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar",
+        "Lokaantar"
+      ],
+      "id": "7df9086ea1d5fe6b",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 129.0,
+      "story_size": 2
+    },
+    {
+      "title": "कांग्रेसको पदाधिकारीमा थपियो वरिष्ठ उपसभापति पद",
+      "link": "https://www.ratopati.com/story/597284/senior-vice-president-post-added-to-congress-office-bearers",
+      "description": "काठमाडौँ । नेपाली कांग्रेसले १५औँ महाधिवेशनबाट पदाधिकारीमा वरिष्ठ उपसभापति पद सिर्जना गर्ने भएको छ । यसअघि कांग्रेसको पदाधिकारीमा सभापति, उपसभापति, महामन्त्री, सहमहामन्त्री र कोषाध्यक्षमात्र समावेश गरिएको थियो । १५औँ महाधिवेशनबाट कांग्रेसले पदाधिकारी संख्या बढाउनुका साथै वरिष्ठ",
+      "published": "2026-10-05T06:42:58+00:00",
       "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/drishyam-cover_aENHiFt2Mt.webp",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/khulamanch-ccm-3_T3W6k94PHn.webp",
       "related_sources": [
         "Ratopati"
       ],
-      "id": "afc3799c37ef8826",
+      "id": "f7c3cb92cb250024",
       "source_count": 1,
       "verified": false,
       "local": false,
@@ -114,41 +135,23 @@
       "story_size": 1
     },
     {
-      "title": "अनधिकृत पार्किङले दुर्घटना भए क्षतिपूर्ति",
-      "link": "https://gorkhapatraonline.com/news/225436",
-      "description": "काठमाडौँ, असोज १९ गते । निषेधित क्षेत्रको पार्किङ र अनधिकृत रूपमा सडकमा राखिएको मालसामानका कारण सडक दुर्घटना भएमा पार्किङ गर्ने र सामान राख्ने व्यक्तिबाट क्षतिपूर्ति भराउने गरी सरक...",
-      "published": "2026-10-05T06:23:17+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "society",
-      "image": "https://gorkhapatraonline.com/storage/media/386489/conversions/181287824_3862096600494510_4333471185210324284_n-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "be75d21b02ca7719",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 112.4,
-      "story_size": 1
-    },
-    {
-      "title": "नेपाली कांग्रेस केन्द्रीय कार्यसमितिको बैठक खुलामञ्चमा बस्दै",
-      "link": "https://www.ratopati.com/story/597205/nepali-congress-central-working-committee-meeting-held-in-open-forum",
-      "description": "काठमाडौँ । नेपाली कांग्रेस केन्द्रीय कार्यसमितिको बैठक सोमबार बस्ने भएको छ । बैठक बिहान १० बजे पार्टीको १५ औँ महाधिवेशन स्थल खुला मञ्चमा आयोजना गरिनेछ । कार्यवाहक मुख्य सचिव कृष्णप्रसाद दुलालले सूचना जारी गर्दै उक्त बैठकमा पार्टीका",
-      "published": "2026-10-05T00:37:11+00:00",
+      "title": "लगानी बढाउन कानुनको प्रभावकारी कार्यान्वयन हुनुपर्छ : चन्द्रप्रसाद ढकाल",
+      "link": "https://www.ratopati.com/story/597283/effective-implementation-of-laws-is-necessary-to-increase-investment-chandra-prasad-dhakal",
+      "description": "काठमाडौँ । नेपाल उद्योग वाणिज्य महासंघका निवर्तमान अध्यक्ष चन्द्रप्रसाद ढकालले लगानीको वातावरण सुधारका लागि कानुन संशोधन मात्र पर्याप्त नहुने र त्यसको प्रभावकारी कार्यान्वयन हुनुपर्ने बताएका छन् । राजधानीमा आयोजित ‘लगानी र विकासका लागि कानुन सुधार परामर्श’",
+      "published": "2026-10-05T06:42:12+00:00",
       "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/congress-mahadibeshan_uUJGJ24wht.webp",
+      "category": "business",
+      "image": "https://npcdn.ratopati.com/media/news/chandra-dhakal_vaHxq0RtKn.webp",
       "related_sources": [
         "Ratopati"
       ],
-      "id": "ac1a8ffd509a3296",
+      "id": "6cba21e3bb6ef951",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.4,
+      "score": 112.9,
       "story_size": 1
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. कांग्रेस महाधिवेशन अन्तर्गत बन्दसत्र सुरु हुँदै\nस्रोत: Thaha Khabar, Baahrakhari\nhttps://www.thahakhabar.com/detail/309813\n\n2. मोटरसाइकल दुर्घटनामा एकको मृत्यु\nस्रोत: Baahrakhari, Ratopati\nhttps://baahrakhari.com/detail/503769\n\n3. सीमा क्षेत्रमा सुरक्षा निगरानी बढाउँदै झापा प्रशासन\nस्रोत: Khabarhub, Ratopati\nhttps://khabarhub.com/2026/05/1033256/\n\n4. तराईमा आंशिक बादल, पहाड र हिमालमा वर्षा तथा हिमपातको सम्भावना\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/597199/partly-cloudy-in-the-terai-possibility-of-rain-and-snowfall-in-the-hills-and-mountains\n\n5. पश्चिममा नेपालमा पश्चिमी वायू र पूर्वमा मनसुनी वायुको प्रभाव कायमै\nस्रोत: Kendrabindu\nhttps://kendrabindu.com/news/561272/\n\n6. एउटा साधारण परिवारको असाधारण कथा : किन बारम्बार यसको जादुमा तानिन्छन् दर्शक?\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/597201/the-extraordinary-story-of-an-ordinary-family-why-do-audiences-repeatedly-fall-under-its-spell\n\n7. अनधिकृत पार्किङले दुर्घटना भए क्षतिपूर्ति\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/225436\n\n8. नेपाली कांग्रेस केन्द्रीय कार्यसमितिको बैठक खुलामञ्चमा बस्दै\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/597205/nepali-congress-central-working-committee-meeting-held-in-open-forum\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. रेसुङ्गामा जिपलाइन र स्काई साइक्लिङको अन्तिम परीक्षण सफल\nस्रोत: Kendrabindu, Khabarhub, Ratopati\nhttps://kendrabindu.com/tourism/561385/\n\n2. प्रधानसेनापति सिग्देल बेलायत प्रस्थान\nस्रोत: Gorkhapatra Online, OnlineKhabar\nhttps://gorkhapatraonline.com/news/225504\n\n3. परराष्ट्रमन्त्री खनाल ‘प्रि–कोप लिडर्स इभेन्ट’ मा सहभागी हुन फिजीमा\nस्रोत: Kendrabindu, Khabarhub\nhttps://kendrabindu.com/politics/561406/\n\n4. मन्त्रिपरिषद्को बैठक बस्दै\nस्रोत: Kendrabindu, Khabarhub\nhttps://kendrabindu.com/politics/561396/\n\n5. जमिन फाटेपछि ८० घर जोखिममा, बस्ती स्थानान्तरणको पर्खाइमा\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/225505\n\n6. मन्त्रिपरिषद् बैठक बस्दै\nस्रोत: OnlineKhabar, Lokaantar\nhttps://www.onlinekhabar.com/2026/10/2032487/cabinet-meeting-underway-27\n\n7. कांग्रेसको पदाधिकारीमा थपियो वरिष्ठ उपसभापति पद\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/597284/senior-vice-president-post-added-to-congress-office-bearers\n\n8. लगानी बढाउन कानुनको प्रभावकारी कार्यान्वयन हुनुपर्छ : चन्द्रप्रसाद ढकाल\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/597283/effective-implementation-of-laws-is-necessary-to-increase-investment-chandra-prasad-dhakal\n\n— I Am From Hetauda"
 }
