@@ -26,10 +26,10 @@
 </div></aside></div></main><div id="toast" class="toast"></div>
 <script>
 let items=[],cur=null,im=null,logo=new Image(),logoOn=true,logoSize=1,logoCorner=0,mode="clean",textBg=false,textShadow=true,drag=null;$=id=>document.getElementById(id);logo.src="../../logo.jpg";logo.onload=draw;
-function safe(s){return String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]))}
-function renderList(){let q=$("q").value.toLowerCase(),cat=$("cat").value,a=items.filter(n=>(!q||(n.title+" "+(n.source||"")).toLowerCase().includes(q))&&(!cat||n.category===cat));if($("sort").value==="new")a.sort((a,b)=>new Date(b.published||0)-new Date(a.published||0));else if($("sort").value==="local")a.sort((a,b)=>(b.local?1:0)-(a.local?1:0)||(b.score||0)-(a.score||0));else a.sort((a,b)=>(b.score||0)-(a.score||0));$("list").innerHTML=a.map(n=>'<div class="story '+(n===cur?"active":"")+'" onclick="pick('+items.indexOf(n)+')">'+(n.image?'<img src="'+safe(n.image)+'">':"")+'<div><b>'+safe(n.title)+'</b><div class="muted">'+safe(n.source||"")+'</div></div></div>').join("")}
+function imgSrc(n){return n?.image_local||n?.image||""}\nfunction safe(s){return String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]))}
+function renderList(){let q=$("q").value.toLowerCase(),cat=$("cat").value,a=items.filter(n=>(!q||(n.title+" "+(n.source||"")).toLowerCase().includes(q))&&(!cat||n.category===cat));if($("sort").value==="new")a.sort((a,b)=>new Date(b.published||0)-new Date(a.published||0));else if($("sort").value==="local")a.sort((a,b)=>(b.local?1:0)-(a.local?1:0)||(b.score||0)-(a.score||0));else a.sort((a,b)=>(b.score||0)-(a.score||0));$("list").innerHTML=a.map(n=>'<div class="story '+(n===cur?"active":"")+'" onclick="pick('+items.indexOf(n)+')">'+(imgSrc(n)?'<img src="'+safe(imgSrc(n))+'">':"")+'<div><b>'+safe(n.title)+'</b><div class="muted">'+safe(n.source||"")+'</div></div></div>').join("")}
 function pick(i){cur=items[i];$("txt").value=cur.title;loadImg();renderList()}
-function loadImg(){im=new Image();im.crossOrigin="anonymous";im.onload=draw;im.onerror=draw;im.src=cur?.image||""}
+function loadImg(){im=new Image();im.crossOrigin="anonymous";im.onload=draw;im.onerror=draw;im.src=imgSrc(cur)||""}
 function tpl(x){mode=x;draw()}
 function setSize(w,h){$("cv").width=w;$("cv").height=h;draw();toast(w+"×"+h)}
 function wrap(c,t,max){let a=[],l="";for(let w of t.trim().split(/\s+/)){let z=l?l+" "+w:w;if(c.measureText(z).width>max&&l){a.push(l);l=w}else l=z}if(l)a.push(l);return a}
