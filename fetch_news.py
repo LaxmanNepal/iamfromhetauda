@@ -1,4 +1,5 @@
-import json,re,urllib.request
+import json,re,urllib.request,os,hashlib
+from urllib.parse import urlparse
 from xml.etree import ElementTree as ET
 from datetime import datetime,timezone,timedelta
 from email.utils import parsedate_to_datetime
@@ -115,6 +116,42 @@ for vals in groups:
  merged.append(n)
 merged.sort(key=lambda n:(n["score"],ts(n)),reverse=True)
 merged=merged[:150]
+
+# Cache publisher images locally so the admin/editor can reliably copy and edit them
+# without depending on third-party CDN CORS rules. Keep the cache bounded to the
+# strongest 80 stories and skip files that are obviously too large.
+os.makedirs("images",exist_ok=True)
+def cache_image(n):
+    url=n.get("image","")
+    if not url.startswith(("http://","https://")): return ""
+    try:
+        ext=os.path.splitext(urlparse(url).path)[1].lower()
+        if ext not in (".jpg",".jpeg",".png",".webp"): ext=".jpg"
+        fn="news_"+hashlib.sha1(url.encode("utf-8")).hexdigest()[:20]+ext
+        path=os.path.join("images",fn)
+        if not os.path.exists(path):
+            req=urllib.request.Request(url,headers={"User-Agent":"Mozilla/5.0 (compatible; IAmFromHetaudaNews/2.0)","Accept":"image/avif,image/webp,image/apng,image/*,*/*;q=0.8"})
+            with urllib.request.urlopen(req,timeout=12) as r:
+                data=r.read(1024*1024+1)
+            if len(data)>1024*1024: return ""
+            with open(path,"wb") as f: f.write(data)
+        return "images/"+fn
+    except Exception as e:
+        print("Image cache failed:",url,e)
+        return ""
+
+for n in merged[:80]:
+    local=cache_image(n)
+    if local: n["image_local"]=local
+
+# Remove stale cached images, retaining only images referenced by current news.
+referenced={n.get("image_local") for n in merged if n.get("image_local")}
+for fn in os.listdir("images"):
+    rel="images/"+fn
+    if rel not in referenced:
+        try: os.remove(os.path.join("images",fn))
+        except OSError: pass
+
 today=(datetime.now(timezone.utc)+timedelta(hours=5,minutes=45)).date().isoformat()
 top=[n for n in merged if ((datetime.fromtimestamp(ts(n),timezone.utc)+timedelta(hours=5,minutes=45)).date().isoformat()==today)][:8]
 whatsapp="🇳🇵 आजका प्रमुख समाचार\n\n" + "\n\n".join(f"{i+1}. {n['title']}\nस्रोत: {', '.join(n['related_sources'][:3])}\n{n['link']}" for i,n in enumerate(top)) + "\n\n— I Am From Hetauda"
