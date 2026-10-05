@@ -1,6 +1,6 @@
-const DB_NAME="iamfromhetauda-notifications",DB_VERSION=1,STORE="items";
-self.addEventListener("install",()=>self.skipWaiting());
-self.addEventListener("activate",e=>e.waitUntil(self.clients.claim()));
+const DB_NAME="iamfromhetauda-notifications",DB_VERSION=1,STORE="items",CACHE="iamfromhetauda-v3";\nconst SHELL=["./","./index.html","./manifest.webmanifest","./logo.jpg","./data/news.json","./data/push-config.json"];
+self.addEventListener("install",e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(SHELL).catch(()=>{})).then(()=>self.skipWaiting())));
+self.addEventListener("activate",e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
 
 function dbOpen(){
   return new Promise((resolve,reject)=>{
@@ -41,4 +41,4 @@ self.addEventListener("notificationclick",e=>{
     for(const c of cs){if("focus" in c){c.navigate(url);return c.focus();}}
     return clients.openWindow(url);
   }));
-});
+});\nself.addEventListener("fetch",e=>{const u=new URL(e.request.url);if(e.request.method!=="GET"||u.origin!==self.location.origin)return;if(u.pathname.endsWith("/data/news.json")){e.respondWith(fetch(e.request).then(r=>{const c=r.clone();caches.open(CACHE).then(x=>x.put(e.request,c));return r}).catch(()=>caches.match(e.request)));return}e.respondWith(caches.match(e.request).then(c=>c||fetch(e.request).then(r=>{if(r.ok){const c=r.clone();caches.open(CACHE).then(x=>x.put(e.request,c))}return r}).catch(()=>caches.match("./index.html"))));});
