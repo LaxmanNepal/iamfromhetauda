@@ -23,7 +23,7 @@ async function copyHeadline(){await navigator.clipboard.writeText($("title").val
 async function copyImage(){try{let r=await fetch(imgSrc(cur),{mode:"cors"});let b=await r.blob();await navigator.clipboard.write([new ClipboardItem({[b.type||"image/jpeg"]:b})]);toast("Image copied ✓")}catch(e){toast("Source blocks direct image copy — use Original or Photo Editor")}}
 async function copyBoth(){await copyHeadline();setTimeout(copyImage,150)}
 function downloadOriginal(){if(cur?.image)window.open(imgSrc(cur),"_blank")}
-function refresh(){$("hero").src=cur?.image||"";renderText()}
+function refresh(){$("hero").src=imgSrc(cur);renderText()}
 async function loadLive(){try{let r=await fetch("../../data/news.json?"+Date.now()),d=await r.json();items=d.items||[];cur=cur?.link?items.find(x=>x.link===cur.link)||items[0]:items[0];if(cur){$("title").value=$("title").value||cur.title;$("meta").textContent=(cur.source||"")+" • "+age(cur.published)}renderList();refresh()}catch(e){toast("Live news load failed")}}
 loadLive();setInterval(loadLive,5*60*1000);
 </script></body></html>
