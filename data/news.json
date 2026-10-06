@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T11:02:49.579360+00:00",
+  "updated_at": "2026-10-06T11:03:55.523765+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -31,7 +31,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 136.6,
+      "score": 136.5,
       "story_size": 2,
       "image_local": "images/news_017eb658d1be1fbb0724.webp"
     },
@@ -51,7 +51,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.1,
+      "score": 133.0,
       "story_size": 2
     },
     {
@@ -70,7 +70,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 131.4,
+      "score": 131.3,
       "story_size": 2
     },
     {
@@ -89,8 +89,27 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 131.0,
+      "score": 130.9,
       "story_size": 2
+    },
+    {
+      "title": "थप स्वायत्त र अधिकार सम्पन्न बन्दै प्रेस काउन्सिल",
+      "link": "https://www.ratopati.com/story/597677/press-council-becoming-more-autonomous-and-empowered",
+      "description": "काठमाडौँ । प्रेस तथा अभिव्यक्ति स्वतन्त्रताको संरक्षण, पत्रकारिताको व्यावसायिक मर्यादा कायम तथा मिडिया क्षेत्रलाई स्वनियमनमार्फत थप विश्वसनीय, मर्यादित र जवाफदेही बनाउन ‘प्रेस काउन्सिलसम्बन्धी कानुनलाई संशोधन र एकीकरण गर्न बनेको विधेयक, २०८३’ रायका लागि कानुन, न्याय",
+      "published": "2026-10-06T11:02:54+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/press_council_nepal_ue9wcvowdh_Z8mSja5hTZ.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "c98d04c54fdbc98e",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.9,
+      "story_size": 1,
+      "image_local": "images/news_fa92f6bee27a7452b7cc.jpg"
     },
     {
       "title": "कांग्रेस उपसभापतिमा चालिसेको उम्मेदवारी",
@@ -107,7 +126,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 113.0,
+      "score": 112.9,
       "story_size": 1,
       "image_local": "images/news_edd3ee02225a6df226e2.jpg"
     },
@@ -126,7 +145,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.8,
+      "score": 112.7,
       "story_size": 1,
       "image_local": "images/news_83d57af75705eaf6dc53.webp"
     },
@@ -145,7 +164,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.8,
+      "score": 112.7,
       "story_size": 1,
       "image_local": "images/news_16a677d67c53b3e9b59f.webp"
     },
@@ -183,7 +202,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.6,
+      "score": 112.5,
       "story_size": 1,
       "image_local": "images/news_f9be3a926673f591fff2.jpg"
     },
@@ -221,7 +240,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.4,
+      "score": 112.3,
       "story_size": 1,
       "image_local": "images/news_ffebdfc64ee15703b54b.jpg"
     },
@@ -240,7 +259,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.3,
+      "score": 112.2,
       "story_size": 1,
       "image_local": "images/news_ab12969d46b33075dbf6.jpg"
     },
@@ -259,7 +278,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.3,
+      "score": 112.2,
       "story_size": 1,
       "image_local": "images/news_4dd876671f3eb9b6e649.jpg"
     },
@@ -297,7 +316,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.1,
+      "score": 112.0,
       "story_size": 1,
       "image_local": "images/news_b5d151556746d6a754c9.jpg"
     },
@@ -316,7 +335,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.1,
+      "score": 112.0,
       "story_size": 1,
       "image_local": "images/news_6c1c5c71d641594eb870.webp"
     },
@@ -373,7 +392,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.7,
+      "score": 111.6,
       "story_size": 1,
       "image_local": "images/news_67ebc350dc00530907dc.webp"
     },
@@ -392,7 +411,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.7,
+      "score": 111.6,
       "story_size": 1,
       "image_local": "images/news_e0cc7ab2b8f3d3dfb8a6.webp"
     },
@@ -411,7 +430,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.5,
+      "score": 111.4,
       "story_size": 1,
       "image_local": "images/news_cf95d3d6d60bbb56c366.webp"
     },
@@ -430,7 +449,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.4,
+      "score": 111.3,
       "story_size": 1,
       "image_local": "images/news_e7f1692d7cfb1ff1f290.jpg"
     },
@@ -449,7 +468,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.4,
+      "score": 111.3,
       "story_size": 1,
       "image_local": "images/news_998ca1341ee7884157e5.webp"
     },
@@ -487,7 +506,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.1,
+      "score": 111.0,
       "story_size": 1,
       "image_local": "images/news_5b755efe7934d2877176.webp"
     },
@@ -525,7 +544,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.9,
+      "score": 110.8,
       "story_size": 1,
       "image_local": "images/news_560aca08bb1537282433.webp"
     },
@@ -563,7 +582,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.6,
+      "score": 110.5,
       "story_size": 1,
       "image_local": "images/news_b0bde2fa07122a067e32.jpg"
     },
@@ -601,7 +620,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.5,
+      "score": 110.4,
       "story_size": 1,
       "image_local": "images/news_5584e5f92586d51c9205.webp"
     },
@@ -620,7 +639,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.3,
+      "score": 110.2,
       "story_size": 1,
       "image_local": "images/news_d201e27dcecffb34cdd8.jpg"
     },
@@ -639,7 +658,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.2,
+      "score": 110.1,
       "story_size": 1,
       "image_local": "images/news_572055342cb4a140de3c.webp"
     },
@@ -677,45 +696,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.1,
+      "score": 110.0,
       "story_size": 1,
       "image_local": "images/news_fe4d9db4271c66ec56a3.jpg"
-    },
-    {
-      "title": "जापानका लागि प्रस्तावित राजदूत थापाविरुद्ध परे दुइवटा उजुरी, विदेशी नागरिक भएको दाबी",
-      "link": "https://baahrakhari.com/detail/504019",
-      "description": "विगतमा लामो समयसम्म प्रस्तावित कार्यक्षेत्रकै मुलुकमा स्थायी आवासीय हैसियत कायम राखी, त्यहाँ घरजग्ग तथा सम्भावित आर्थिक/व्यावसायिक हित राखेको व्यक्तिले राजदूतको उम्मेदवारी प्राप्त गर्ने प्रयोजनका लागि मात्र अन्तिम समयमा पीआर त्यागेको हो कि होइन भन्ने विषयमा समेत समितिले स्पष्ट छानबिन गर्न आवश्यक छ,” उजुरीकर्ताको माग छ ।",
-      "published": "2026-10-06T16:46:01+05:45",
-      "source": "Baahrakhari",
-      "category": "world",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "501cc1710d74cd8b",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.9,
-      "story_size": 1
-    },
-    {
-      "title": "कांग्रेस केन्द्रीय सदस्यमा उमेशचन्द्र यादवको उम्मेदवारी",
-      "link": "https://kendrabindu.com/politics/561861/",
-      "description": "नवलपरासी । नेपाली कांग्रेसको १५औँ महाधिवेशनमा युवा नेता उमेशचन्द्र यादवले केन्द्रीय सदस्य (मधेसी कोटा)तर्फ उम्मेदवारी दर्ता गराएका छन् । प्रतापपुर गाउँपालिकाका अध्यक्षसमेत रहेका यादवले पार्टीमा युवाको सहभागिता बढाउँदै मधेसमा कांग्रेसको संगठनलाई थप सक्रिय बनाउने एजेन्डासहित उम्मेदवारी दिएका हुन् । यादव लामो समयदेखि किसानका मुद्दामा सक्रिय छन् । विशेषगरी उखु किसानका समस्या समाधानका लागि उनले निरन्तर [&#8230;]",
-      "published": "2026-10-06T11:00:57+00:00",
-      "source": "Kendrabindu",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Kendrabindu"
-      ],
-      "id": "cc41fec1e0311a75",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.9,
-      "story_size": 1
     },
     {
       "title": "जापानमा साइबर आक्रमण तीव्र, लाखौँ ग्राहक तथा विद्यार्थीको विवरण प्रभावित",
@@ -737,6 +720,42 @@
       "image_local": "images/news_7032860f01545daba2c9.jpg"
     },
     {
+      "title": "जापानका लागि प्रस्तावित राजदूत थापाविरुद्ध परे दुइवटा उजुरी, विदेशी नागरिक भएको दाबी",
+      "link": "https://baahrakhari.com/detail/504019",
+      "description": "विगतमा लामो समयसम्म प्रस्तावित कार्यक्षेत्रकै मुलुकमा स्थायी आवासीय हैसियत कायम राखी, त्यहाँ घरजग्ग तथा सम्भावित आर्थिक/व्यावसायिक हित राखेको व्यक्तिले राजदूतको उम्मेदवारी प्राप्त गर्ने प्रयोजनका लागि मात्र अन्तिम समयमा पीआर त्यागेको हो कि होइन भन्ने विषयमा समेत समितिले स्पष्ट छानबिन गर्न आवश्यक छ,” उजुरीकर्ताको माग छ ।",
+      "published": "2026-10-06T16:46:01+05:45",
+      "source": "Baahrakhari",
+      "category": "world",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "501cc1710d74cd8b",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.8,
+      "story_size": 1
+    },
+    {
+      "title": "कांग्रेस केन्द्रीय सदस्यमा उमेशचन्द्र यादवको उम्मेदवारी",
+      "link": "https://kendrabindu.com/politics/561861/",
+      "description": "नवलपरासी । नेपाली कांग्रेसको १५औँ महाधिवेशनमा युवा नेता उमेशचन्द्र यादवले केन्द्रीय सदस्य (मधेसी कोटा)तर्फ उम्मेदवारी दर्ता गराएका छन् । प्रतापपुर गाउँपालिकाका अध्यक्षसमेत रहेका यादवले पार्टीमा युवाको सहभागिता बढाउँदै मधेसमा कांग्रेसको संगठनलाई थप सक्रिय बनाउने एजेन्डासहित उम्मेदवारी दिएका हुन् । यादव लामो समयदेखि किसानका मुद्दामा सक्रिय छन् । विशेषगरी उखु किसानका समस्या समाधानका लागि उनले निरन्तर [&#8230;]",
+      "published": "2026-10-06T11:00:57+00:00",
+      "source": "Kendrabindu",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "cc41fec1e0311a75",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.8,
+      "story_size": 1
+    },
+    {
       "title": "कात्तिक १३ देखि हरर फिल्म फेस्टिभल, २१ देशका २६ फिल्म छनोट",
       "link": "https://www.ratopati.com/story/597650/horror-film-festival-from-kartik-13-26-films-from-21-countries-selected",
       "description": "काठमाडौँ। हरर फिल्म फेस्टिभलको दोस्रो संस्करण कात्तिक १३ देखि १५ (अक्टोबर ३० देखि नोभेम्बर १)सम्म काठमाडौँमा आयोजना हुने भएको छ। रसियन हाउसमा आयोजना हुने फेस्टिभलका २६ फिल्म छनोट भएका छन् । जसमा ८ वटा फिचर र",
@@ -751,7 +770,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.9,
+      "score": 109.8,
       "story_size": 1,
       "image_local": "images/news_7342ad99b2e59881c314.webp"
     },
@@ -770,47 +789,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.9,
+      "score": 109.8,
       "story_size": 1,
       "image_local": "images/news_d6e04d795cd5226db2a2.jpg"
-    },
-    {
-      "title": "LIVE UPDATES : राष्ट्रिय सभागृहमा यसरी हुँदैछ कांग्रेसको उम्मेदवारी दर्ता",
-      "link": "https://www.ratopati.com/story/597474/third-day-of-the-congress-general-convention-whats-happening-today",
-      "description": "नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत आज तेस्रो दिन । आइतबार उद्घाटन भएको महाधिवेशन सोमबार बन्दसत्र सुरु हुनुअघि बसेको केन्द्रीय समिति बैठकले विधान संशोधन गर्दै केन्द्रीय समितिको आकार बढाउने निर्णय गरेको छ ।",
-      "published": "2026-10-06T10:15:00+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/congress-election_sg40UavJTD.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "1bbf3a1ddc2d06ff",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.8,
-      "story_size": 1,
-      "image_local": "images/news_685f8411b031a4e022f8.webp"
-    },
-    {
-      "title": "भौतिकशास्त्रतर्फको नोबेल पुरस्कार फ्रान्सिस हेल्जेनलाई",
-      "link": "https://www.ratopati.com/story/597649/nobel-prize-in-physics-awarded-to-francis-helgen",
-      "description": "काठमाडौं । सन् २०२६ को भौतिकशास्त्रतर्फको नोबेल पुरस्कार डेनमार्कका वैज्ञानिक फ्रान्सिस हेल्जेनलाई प्रदान गरिएको छ । रोयल स्वीडिस एकेडेमी अफ साइन्सेसले हेल्जेनलाई ‘आइसक्युब न्यूट्रिनो अब्जर्भेटरी’मा महत्त्वपूर्ण योगदान पुर्‍याएको तथा अन्तरिक्षबाट पृथ्वीमा आइपुग्ने अत्यन्त ऊर्जावान न्यूट्रिनो कणको",
-      "published": "2026-10-06T10:14:20+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/francis-halzen_SlvwJbVID6.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "33f93f77b9dc11b4",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.8,
-      "story_size": 1,
-      "image_local": "images/news_65e5a63333f876b47b50.webp"
     },
     {
       "title": "एनसेल ग्राहकलाई ट्रान्क्विलिटी स्पामा विशेष छुट",
@@ -849,6 +830,44 @@
       "story_size": 1
     },
     {
+      "title": "LIVE UPDATES : राष्ट्रिय सभागृहमा यसरी हुँदैछ कांग्रेसको उम्मेदवारी दर्ता",
+      "link": "https://www.ratopati.com/story/597474/third-day-of-the-congress-general-convention-whats-happening-today",
+      "description": "नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत आज तेस्रो दिन । आइतबार उद्घाटन भएको महाधिवेशन सोमबार बन्दसत्र सुरु हुनुअघि बसेको केन्द्रीय समिति बैठकले विधान संशोधन गर्दै केन्द्रीय समितिको आकार बढाउने निर्णय गरेको छ ।",
+      "published": "2026-10-06T10:15:00+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/congress-election_sg40UavJTD.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "1bbf3a1ddc2d06ff",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.7,
+      "story_size": 1,
+      "image_local": "images/news_685f8411b031a4e022f8.webp"
+    },
+    {
+      "title": "भौतिकशास्त्रतर्फको नोबेल पुरस्कार फ्रान्सिस हेल्जेनलाई",
+      "link": "https://www.ratopati.com/story/597649/nobel-prize-in-physics-awarded-to-francis-helgen",
+      "description": "काठमाडौं । सन् २०२६ को भौतिकशास्त्रतर्फको नोबेल पुरस्कार डेनमार्कका वैज्ञानिक फ्रान्सिस हेल्जेनलाई प्रदान गरिएको छ । रोयल स्वीडिस एकेडेमी अफ साइन्सेसले हेल्जेनलाई ‘आइसक्युब न्यूट्रिनो अब्जर्भेटरी’मा महत्त्वपूर्ण योगदान पुर्‍याएको तथा अन्तरिक्षबाट पृथ्वीमा आइपुग्ने अत्यन्त ऊर्जावान न्यूट्रिनो कणको",
+      "published": "2026-10-06T10:14:20+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/francis-halzen_SlvwJbVID6.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "33f93f77b9dc11b4",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.7,
+      "story_size": 1,
+      "image_local": "images/news_65e5a63333f876b47b50.webp"
+    },
+    {
       "title": "साउदीका लागि प्रस्तावित राजदूतमाथि रास्वपा सांसद खगेन्द्र सुनारलाई जोडेर लाग्यो गम्भीर आरोप",
       "link": "https://baahrakhari.com/detail/504017",
       "description": "",
@@ -863,27 +882,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.7,
+      "score": 109.6,
       "story_size": 1
-    },
-    {
-      "title": "श्यामकृष्ण खड्गीले दिए कांग्रेस सभापतिमा उम्मेदवारी",
-      "link": "https://www.thahakhabar.com/detail/309917",
-      "description": "",
-      "published": "2026-10-06T15:57:46+05:45",
-      "source": "Thaha Khabar",
-      "category": "politics",
-      "image": "https://www.thahakhabar.com/uploads/posts/shyamkrishna-khadgi-1791281469.jpg",
-      "related_sources": [
-        "Thaha Khabar"
-      ],
-      "id": "34fc34b5c86bafd9",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.7,
-      "story_size": 1,
-      "image_local": "images/news_7756fa1fd00e1a518a4e.jpg"
     },
     {
       "title": "कांग्रेसको १५औँ महाधिवेशन : सहमहामन्त्री पदमा आङगेलु शेर्पाले दिए उम्मेदवारी",
@@ -904,23 +904,23 @@
       "story_size": 1
     },
     {
-      "title": "पूर्व भारतीय कप्तान सौरभ गांगुली दिल्ली क्यापिटल्सको मुख्य प्रशिक्षक नियुक्त",
-      "link": "https://www.ratopati.com/story/597648/former-indian-captain-sourav-ganguly-appointed-as-head-coach-of-delhi-capitals",
-      "description": "नयाँ दिल्ली । पूर्व भारतीय कप्तान सौरभ गांगुली दिल्ली क्यापिटल्सको मुख्य प्रशिक्षक नियुक्त भएका छन् । उनले इन्डियन प्रिमियर लिग (आईपीएल) को आगामी सिजनमा टोलीको जिम्मेवारी सम्हाल्ने भएका हुन् । गांगुलीले यसअघि दिल्ली क्यापिटल्समै ‘डायरेक्टर अफ क्रिकेट’",
-      "published": "2026-10-06T10:12:13+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/beogl9cs_ganguly-dc-ipl-afp_625x300_06_october_26_VnWZsqiyGC.webp",
+      "title": "श्यामकृष्ण खड्गीले दिए कांग्रेस सभापतिमा उम्मेदवारी",
+      "link": "https://www.thahakhabar.com/detail/309917",
+      "description": "",
+      "published": "2026-10-06T15:57:46+05:45",
+      "source": "Thaha Khabar",
+      "category": "politics",
+      "image": "https://www.thahakhabar.com/uploads/posts/shyamkrishna-khadgi-1791281469.jpg",
       "related_sources": [
-        "Ratopati"
+        "Thaha Khabar"
       ],
-      "id": "80805789b8f614de",
+      "id": "34fc34b5c86bafd9",
       "source_count": 1,
       "verified": false,
       "local": false,
       "score": 109.6,
       "story_size": 1,
-      "image_local": "images/news_38c1240f9b69a59158f8.webp"
+      "image_local": "images/news_7756fa1fd00e1a518a4e.jpg"
     },
     {
       "title": "फ्रान्सिस ह्याल्जेनलाई भौतिकशास्त्रतर्फको नोबेल पुरस्कार",
@@ -937,7 +937,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.5,
+      "score": 109.4,
       "story_size": 1
     },
     {
@@ -955,7 +955,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.5,
+      "score": 109.4,
       "story_size": 1
     },
     {
@@ -973,7 +973,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.5,
+      "score": 109.4,
       "story_size": 1
     },
     {
@@ -1009,7 +1009,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.4,
+      "score": 109.3,
       "story_size": 1
     },
     {
@@ -1027,7 +1027,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.3,
+      "score": 109.2,
       "story_size": 1
     },
     {
@@ -1063,7 +1063,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.2,
+      "score": 109.1,
       "story_size": 1
     },
     {
@@ -1081,7 +1081,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.2,
+      "score": 109.1,
       "story_size": 1
     },
     {
@@ -1117,7 +1117,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.0,
+      "score": 108.9,
       "story_size": 1
     },
     {
@@ -1135,7 +1135,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.0,
+      "score": 108.9,
       "story_size": 1
     },
     {
@@ -1171,7 +1171,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.9,
+      "score": 108.8,
       "story_size": 1
     },
     {
@@ -1189,7 +1189,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.9,
+      "score": 108.8,
       "story_size": 1,
       "image_local": "images/news_91aa42e3c1dc157b8b8f.jpg"
     },
@@ -1208,7 +1208,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.8,
+      "score": 108.7,
       "story_size": 1
     },
     {
@@ -1262,7 +1262,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.6,
+      "score": 108.5,
       "story_size": 1
     },
     {
@@ -1280,7 +1280,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.5,
+      "score": 108.4,
       "story_size": 1
     },
     {
@@ -1298,7 +1298,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.5,
+      "score": 108.4,
       "story_size": 1,
       "image_local": "images/news_d9302a184cbc16000894.jpg"
     },
@@ -1317,7 +1317,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.5,
+      "score": 108.4,
       "story_size": 1,
       "image_local": "images/news_b5e415fc221a20103edf.jpg"
     },
@@ -1336,7 +1336,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.1,
+      "score": 108.0,
       "story_size": 1
     },
     {
@@ -1372,7 +1372,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.0,
+      "score": 107.9,
       "story_size": 1
     },
     {
@@ -1390,7 +1390,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.9,
+      "score": 107.8,
       "story_size": 1
     },
     {
@@ -1408,7 +1408,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.9,
+      "score": 107.8,
       "story_size": 1
     },
     {
@@ -1426,7 +1426,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.6,
+      "score": 107.5,
       "story_size": 1
     },
     {
@@ -1462,25 +1462,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.5,
-      "story_size": 1
-    },
-    {
-      "title": "कांग्रेसको सभापतिमा श्यामकृष्ण खड्गीको उम्मेदवारी दर्ता",
-      "link": "https://nepalsamaya.com/detail/146750",
-      "description": "",
-      "published": "2026-10-06T16:06:39+05:45",
-      "source": "Nepal Samaya",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Nepal Samaya"
-      ],
-      "id": "cb74233f95ecad57",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 107.3,
+      "score": 107.4,
       "story_size": 1
     },
     {
@@ -1503,6 +1485,24 @@
       "image_local": "images/news_2575ea404ded6cbc0f88.jpg"
     },
     {
+      "title": "कांग्रेसको सभापतिमा श्यामकृष्ण खड्गीको उम्मेदवारी दर्ता",
+      "link": "https://nepalsamaya.com/detail/146750",
+      "description": "",
+      "published": "2026-10-06T16:06:39+05:45",
+      "source": "Nepal Samaya",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Nepal Samaya"
+      ],
+      "id": "cb74233f95ecad57",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 107.2,
+      "story_size": 1
+    },
+    {
       "title": "३ उपसभापतिका लागि अहिलेसम्म ७ जनाको उम्मेदवारी, क-कसले गरे मनोनयन दर्ता?",
       "link": "https://www.setopati.com/politics/400156",
       "description": "उनीहरूले मंगलबार राष्ट्रिय सभागृहस्थित निर्वाचन कार्यालय पुगेर उपसभापति पदमा उम्मेदवारी दर्ता गराएका हुन्।",
@@ -1517,7 +1517,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.1,
+      "score": 107.0,
       "story_size": 1
     },
     {
@@ -1535,7 +1535,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.1,
+      "score": 107.0,
       "story_size": 1
     },
     {
@@ -1553,7 +1553,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.1,
+      "score": 107.0,
       "story_size": 1
     },
     {
@@ -1589,7 +1589,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.8,
+      "score": 106.7,
       "story_size": 1
     },
     {
@@ -1607,7 +1607,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.8,
+      "score": 106.7,
       "story_size": 1
     },
     {
@@ -1625,7 +1625,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.2,
+      "score": 106.1,
       "story_size": 1
     },
     {
@@ -1643,7 +1643,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.2,
+      "score": 106.1,
       "story_size": 1
     },
     {
@@ -1661,7 +1661,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.0,
+      "score": 105.9,
       "story_size": 1
     },
     {
@@ -1697,7 +1697,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.6,
+      "score": 105.5,
       "story_size": 1
     },
     {
@@ -1751,7 +1751,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.1,
+      "score": 105.0,
       "story_size": 1
     },
     {
@@ -1769,7 +1769,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.0,
+      "score": 104.9,
       "story_size": 1
     },
     {
@@ -1787,7 +1787,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.5,
+      "score": 104.4,
       "story_size": 1
     },
     {
@@ -1805,7 +1805,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.1,
+      "score": 104.0,
       "story_size": 1
     },
     {
@@ -1823,7 +1823,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.0,
+      "score": 103.9,
       "story_size": 1
     },
     {
@@ -1841,7 +1841,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.9,
+      "score": 103.8,
       "story_size": 1
     },
     {
@@ -1859,7 +1859,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.8,
+      "score": 103.7,
       "story_size": 1
     },
     {
@@ -1877,7 +1877,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.7,
+      "score": 103.6,
       "story_size": 1
     },
     {
@@ -1895,7 +1895,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.4,
+      "score": 103.3,
       "story_size": 1
     },
     {
@@ -1913,7 +1913,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.2,
+      "score": 103.1,
       "story_size": 1
     },
     {
@@ -1931,7 +1931,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.3,
+      "score": 102.2,
       "story_size": 1
     },
     {
@@ -1967,7 +1967,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.5,
+      "score": 101.4,
       "story_size": 1
     },
     {
@@ -1985,7 +1985,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.5,
+      "score": 101.4,
       "story_size": 1
     },
     {
@@ -2003,7 +2003,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.0,
+      "score": 100.9,
       "story_size": 1
     },
     {
@@ -2021,7 +2021,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.1,
+      "score": 100.0,
       "story_size": 1
     },
     {
@@ -2057,7 +2057,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.5,
+      "score": 99.4,
       "story_size": 1
     },
     {
@@ -2075,7 +2075,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.4,
+      "score": 99.3,
       "story_size": 1
     },
     {
@@ -2111,7 +2111,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.6,
+      "score": 98.5,
       "story_size": 1
     },
     {
@@ -2129,7 +2129,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.5,
+      "score": 98.4,
       "story_size": 1
     },
     {
@@ -2183,7 +2183,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.6,
+      "score": 97.5,
       "story_size": 1
     },
     {
@@ -2201,7 +2201,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.2,
+      "score": 97.1,
       "story_size": 1
     },
     {
@@ -2219,7 +2219,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.7,
+      "score": 96.6,
       "story_size": 1
     },
     {
@@ -2237,7 +2237,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.4,
+      "score": 96.3,
       "story_size": 1
     },
     {
@@ -2309,7 +2309,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.4,
+      "score": 95.3,
       "story_size": 1
     },
     {
@@ -2327,7 +2327,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.4,
+      "score": 95.3,
       "story_size": 1
     },
     {
@@ -2363,7 +2363,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.3,
+      "score": 94.2,
       "story_size": 1
     },
     {
@@ -2381,7 +2381,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.0,
+      "score": 93.9,
       "story_size": 1
     },
     {
@@ -2417,7 +2417,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.7,
+      "score": 93.6,
       "story_size": 1
     },
     {
@@ -2453,7 +2453,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.7,
+      "score": 92.6,
       "story_size": 1
     },
     {
@@ -2471,7 +2471,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.2,
+      "score": 82.1,
       "story_size": 1
     },
     {
@@ -2489,7 +2489,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.4,
+      "score": 78.3,
       "story_size": 1
     },
     {
@@ -2525,7 +2525,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 17.6,
+      "score": 17.5,
       "story_size": 1
     },
     {
@@ -2543,7 +2543,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 15.8,
+      "score": 15.7,
       "story_size": 1
     },
     {
