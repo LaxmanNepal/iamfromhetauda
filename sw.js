@@ -1,5 +1,5 @@
-const DB_NAME="iamfromhetauda-notifications",DB_VERSION=1,STORE="items",CACHE="iamfromhetauda-v11";
-const SHELL=["./","./manifest.webmanifest","./logo.jpg","./data/news.json","./data/push-config.json","./story-intelligence.js","./personalization.js","./runtime-fix.js","./reading-history.js","./reader-v4.js","./live-feed.js","./smart-ranking.js","./breaking-mode.js"];
+const DB_NAME="iamfromhetauda-notifications",DB_VERSION=1,STORE="items",CACHE="iamfromhetauda-v12";
+const SHELL=["./","./manifest.webmanifest","./logo.jpg","./data/news.json","./data/push-config.json","./story-intelligence.js","./personalization.js","./runtime-fix.js","./reading-history.js","./reader-v4.js","./live-feed.js","./smart-ranking.js","./breaking-mode.js","./news-radar.js"];
 const MAX_NOTIFICATIONS=150;
 self.addEventListener("install",e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(SHELL).catch(()=>{})).then(()=>self.skipWaiting())));
 self.addEventListener("activate",e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)))).then(()=>dbOpen()).then(db=>new Promise(resolve=>{const tx=db.transaction(STORE,"readwrite"),s=tx.objectStore(STORE),r=s.openCursor(),keys=[];r.onsuccess=()=>{const cur=r.result;if(!cur){while(keys.length>MAX_NOTIFICATIONS){s.delete(keys.shift())}resolve();return}keys.push({key:cur.key,created:cur.value.created||0});keys.sort((a,b)=>a.created-b.created);if(keys.length>MAX_NOTIFICATIONS)keys.splice(0,keys.length-MAX_NOTIFICATIONS);r.continue()};r.onerror=()=>resolve()})).then(()=>self.clients.claim())));
