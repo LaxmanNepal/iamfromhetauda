@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T10:54:21.544921+00:00",
+  "updated_at": "2026-10-06T10:54:59.890500+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -88,7 +88,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 132.0,
+      "score": 131.9,
       "story_size": 2
     },
     {
@@ -107,8 +107,27 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 131.6,
+      "score": 131.5,
       "story_size": 2
+    },
+    {
+      "title": "ओभरटेक गर्ने क्रममा ट्रकमा ठोक्किएर मोटरसाइकल चालकको मृत्यु",
+      "link": "https://www.ratopati.com/story/597672/motorcyclist-dies-after-colliding-with-truck-while-overtaking",
+      "description": "चितवन । चितवनको रत्ननगर नगरपालिका–०३ बेल्सीपुलस्थित पूर्व–पश्चिम राजमार्गमा ट्रकलाई ओभरटेक गर्ने क्रममा मोटरसाइकल दुर्घटना हुँदा चालकको मृत्यु भएको छ । मंगलबार बिहान करिब १०:३० बजे शान्तिचोकबाट तरकारीचोकतर्फ जाँदै गरेको बा.प्र.०१–००३ क ८७२५ नम्बरको ट्रकलाई सोही दिशातर्फ जाँदै",
+      "published": "2026-10-06T10:54:26+00:00",
+      "source": "Ratopati",
+      "category": "tech",
+      "image": "https://rpcdn.ratopati.com/media/albums/bike-accident_bIiKUr8yFw.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "44ca4af104b093e6",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 113.0,
+      "story_size": 1,
+      "image_local": "images/news_e418f50023707824eefa.jpg"
     },
     {
       "title": "तातोपानी नाका खुलाउनेबारे छलफल भइरहेको छः मन्त्री लम्साल",
@@ -125,7 +144,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 113.0,
+      "score": 112.9,
       "story_size": 1,
       "image_local": "images/news_ffebdfc64ee15703b54b.jpg"
     },
@@ -258,7 +277,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.4,
+      "score": 112.3,
       "story_size": 1,
       "image_local": "images/news_e4aedf7b884756c83ce6.webp"
     },
@@ -277,7 +296,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.3,
+      "score": 112.2,
       "story_size": 1,
       "image_local": "images/news_67ebc350dc00530907dc.webp"
     },
@@ -296,7 +315,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.3,
+      "score": 112.2,
       "story_size": 1,
       "image_local": "images/news_e0cc7ab2b8f3d3dfb8a6.webp"
     },
@@ -334,7 +353,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.0,
+      "score": 111.9,
       "story_size": 1,
       "image_local": "images/news_e7f1692d7cfb1ff1f290.jpg"
     },
@@ -372,7 +391,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.7,
+      "score": 111.6,
       "story_size": 1,
       "image_local": "images/news_4d779f338745987c869c.jpg"
     },
@@ -391,7 +410,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.7,
+      "score": 111.6,
       "story_size": 1,
       "image_local": "images/news_5b755efe7934d2877176.webp"
     },
@@ -448,7 +467,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.4,
+      "score": 111.3,
       "story_size": 1,
       "image_local": "images/news_493cb50b00d5bfddc9b8.jpg"
     },
@@ -505,7 +524,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.1,
+      "score": 111.0,
       "story_size": 1,
       "image_local": "images/news_5584e5f92586d51c9205.webp"
     },
@@ -524,7 +543,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.9,
+      "score": 110.8,
       "story_size": 1,
       "image_local": "images/news_d201e27dcecffb34cdd8.jpg"
     },
@@ -543,7 +562,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.8,
+      "score": 110.7,
       "story_size": 1,
       "image_local": "images/news_572055342cb4a140de3c.webp"
     },
@@ -562,7 +581,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.7,
+      "score": 110.6,
       "story_size": 1,
       "image_local": "images/news_f80e169574de8ffbbe2b.webp"
     },
@@ -657,7 +676,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.4,
+      "score": 110.3,
       "story_size": 1,
       "image_local": "images/news_685f8411b031a4e022f8.webp"
     },
@@ -714,7 +733,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.2,
+      "score": 110.1,
       "story_size": 1,
       "image_local": "images/news_38c1240f9b69a59158f8.webp"
     },
@@ -752,7 +771,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.0,
+      "score": 109.9,
       "story_size": 1
     },
     {
@@ -770,7 +789,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.0,
+      "score": 109.9,
       "story_size": 1
     },
     {
@@ -916,7 +935,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.6,
+      "score": 109.5,
+      "story_size": 1
+    },
+    {
+      "title": "विद्युतीय मतदानको व्यवस्था गर्नेबारे छलफलमा निर्वाचन आयोग",
+      "link": "https://www.onlinekhabar.com/2026/10/2033559/election-commission-in-discussions-to-arrange-electronic-voting",
+      "description": "२० असोज, काठमाडौं । प्रमुख निर्वाचन आयुक्त मानवहादुर कार्कीले आगामी दिनमा इन्टरनेट (विद्युतीय) मतदानको दिशामा अघि बढ्ने बताएका छन् । निर्वाचन आयोगको मंगलबार ‘इन्टरनेट मतदान प्रविधि तथा निर्वाचन व्यवस्थापनमा सूचना तथा सञ्चार प्रविधिको प्रयोगसम्बन्धी प्रस्तुतीकरण, प्रविधि प्रदर्शन तथा अन्तरक्रिया कार्यक्रम गरेको थियो । जसलाई सम्बोधन गर्दै प्रमुख निर्वाचन आयुक्त मानवहादुर कार्कीले यस्तो प्रतिबद्धता जनाएका हुन् [&#8230;]",
+      "published": "2026-10-06T10:47:03+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "fd5799004dae2d90",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.5,
       "story_size": 1
     },
     {
@@ -952,7 +989,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.5,
+      "score": 109.4,
       "story_size": 1
     },
     {
@@ -970,7 +1007,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.5,
+      "score": 109.4,
       "story_size": 1,
       "image_local": "images/news_91aa42e3c1dc157b8b8f.jpg"
     },
@@ -1047,24 +1084,6 @@
       "story_size": 1
     },
     {
-      "title": "विश्वप्रकाश शर्माले दिए कांग्रेस वरिष्ठ उपसभापतिमा उम्मेदवारी",
-      "link": "https://kendrabindu.com/politics/561844/",
-      "description": "काठमाडौं । नेपाली कांग्रेसका महामन्त्री विश्वप्रकाश शर्माले पार्टीको १५औँ महाधिवेशनमा वरिष्ठ उपसभापति पदमा उम्मेदवारी दर्ता गराएका छन् । कांग्रेसले यसपटक पहिलोपटक वरिष्ठ उपसभापति पद सिर्जना गरेको हो । उक्त पदलाई सभापतिपछिको वरीयतामा राखिएको छ । यसअघि महामन्त्री रहेका शर्माले नयाँ सिर्जना गरिएको वरिष्ठ उपसभापति पदमा उम्मेदवारी दिएका हुन् ।",
-      "published": "2026-10-06T10:40:15+00:00",
-      "source": "Kendrabindu",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Kendrabindu"
-      ],
-      "id": "aa487d63058cc7af",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.1,
-      "story_size": 1
-    },
-    {
       "title": "दुर्गा प्रसाईंलाई धरौटीमा छाड्न आदेश",
       "link": "https://www.ratopati.com/story/597644/order-to-release-durga-prasai-on-bail",
       "description": "काठमाडौँ। जिल्ला अदालत काठमाडौँले मेडिकल व्यवसायी दुर्गा प्रसाईंलाई विद्युतीय (इलेक्ट्रोनिक) कारोबार सम्बन्धी कसुरमा धरौटीमा छाड्न आदेश दिएको छ । जिल्ला न्यायाधीश उमेशप्रसाद लुइँटेलको इजलासले मंगलबार प्रसाईंसँग २ लाख धरौटी लिएर छाड्न आदेश दिएको हो । प्रसाईंलाई असार",
@@ -1084,6 +1103,24 @@
       "image_local": "images/news_8acf734ed3383dad5374.webp"
     },
     {
+      "title": "विश्वप्रकाश शर्माले दिए कांग्रेस वरिष्ठ उपसभापतिमा उम्मेदवारी",
+      "link": "https://kendrabindu.com/politics/561844/",
+      "description": "काठमाडौं । नेपाली कांग्रेसका महामन्त्री विश्वप्रकाश शर्माले पार्टीको १५औँ महाधिवेशनमा वरिष्ठ उपसभापति पदमा उम्मेदवारी दर्ता गराएका छन् । कांग्रेसले यसपटक पहिलोपटक वरिष्ठ उपसभापति पद सिर्जना गरेको हो । उक्त पदलाई सभापतिपछिको वरीयतामा राखिएको छ । यसअघि महामन्त्री रहेका शर्माले नयाँ सिर्जना गरिएको वरिष्ठ उपसभापति पदमा उम्मेदवारी दिएका हुन् ।",
+      "published": "2026-10-06T10:40:15+00:00",
+      "source": "Kendrabindu",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "aa487d63058cc7af",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.0,
+      "story_size": 1
+    },
+    {
       "title": "कांग्रेस प्रवक्ता चालिसेले दिए उपसभापतिमा उम्मेदवारी",
       "link": "https://www.thahakhabar.com/detail/309916",
       "description": "",
@@ -1098,45 +1135,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.1,
+      "score": 109.0,
       "story_size": 1,
       "image_local": "images/news_d9302a184cbc16000894.jpg"
-    },
-    {
-      "title": "तीन पदका लागि कांग्रेस उपसभापतिमा ६ जनाको उम्मेदवारी",
-      "link": "https://khabarhub.com/2026/06/1034089/",
-      "description": "काठमाडौँ &#8211; नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत पदाधिकारी चयनका लागि मंगलबार राष्ट्रिय सभागृहस्थित निर्वाचन कार्यालयमा नेताको मनोनयन दर्ता तीव्र बनेको छ। पार्टीको उपसभापति पदका लागि डा. मिनेन्द्र रिजाल, पुष्पा भुषाल, गोविन्द भट्टराई, देवराज चालिसे, विनोद चौधरी र मधु आचार्य गरेर ६ जना नेताहरूले उम्मेदवारी दर्ता गराएका छन्। संशोधित विधानअनुसार यस पटक एक वरिष्ठ र एक महिलासहित [&#8230;]",
-      "published": "2026-10-06T10:39:12+00:00",
-      "source": "Khabarhub",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "af8546c17d2acdc3",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.0,
-      "story_size": 1
-    },
-    {
-      "title": "सशस्त्रका एआईजी वंशीराज दाहालविरुद्ध गम्भीर आरोप, यसरी तानिए अनुसन्धानको ‘राडार’ मा",
-      "link": "https://baahrakhari.com/detail/504011",
-      "description": "",
-      "published": "2026-10-06T16:24:00+05:45",
-      "source": "Baahrakhari",
-      "category": "tech",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "d44fcb6a2f6a6176",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.0,
-      "story_size": 1
     },
     {
       "title": "‘उच्च शिक्षा सुधारका लागि नीतिगत र संरचनागत सुधारको काम तीव्र गतिमा भइरहेको छ’ : शिक्षामन्त्री",
@@ -1158,6 +1159,42 @@
       "image_local": "images/news_b5e415fc221a20103edf.jpg"
     },
     {
+      "title": "तीन पदका लागि कांग्रेस उपसभापतिमा ६ जनाको उम्मेदवारी",
+      "link": "https://khabarhub.com/2026/06/1034089/",
+      "description": "काठमाडौँ &#8211; नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत पदाधिकारी चयनका लागि मंगलबार राष्ट्रिय सभागृहस्थित निर्वाचन कार्यालयमा नेताको मनोनयन दर्ता तीव्र बनेको छ। पार्टीको उपसभापति पदका लागि डा. मिनेन्द्र रिजाल, पुष्पा भुषाल, गोविन्द भट्टराई, देवराज चालिसे, विनोद चौधरी र मधु आचार्य गरेर ६ जना नेताहरूले उम्मेदवारी दर्ता गराएका छन्। संशोधित विधानअनुसार यस पटक एक वरिष्ठ र एक महिलासहित [&#8230;]",
+      "published": "2026-10-06T10:39:12+00:00",
+      "source": "Khabarhub",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "af8546c17d2acdc3",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.9,
+      "story_size": 1
+    },
+    {
+      "title": "सशस्त्रका एआईजी वंशीराज दाहालविरुद्ध गम्भीर आरोप, यसरी तानिए अनुसन्धानको ‘राडार’ मा",
+      "link": "https://baahrakhari.com/detail/504011",
+      "description": "",
+      "published": "2026-10-06T16:24:00+05:45",
+      "source": "Baahrakhari",
+      "category": "tech",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "d44fcb6a2f6a6176",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.9,
+      "story_size": 1
+    },
+    {
       "title": "देउवा पक्षले सोलु संयोजक तोकेका शुभरामको सहमहामन्त्रीमा उमेदवारी",
       "link": "https://baahrakhari.com/detail/504010",
       "description": "",
@@ -1172,27 +1209,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.9,
+      "score": 108.8,
       "story_size": 1
-    },
-    {
-      "title": "सेयर बजारमा दोहोरो अङ्कको सुधार, कारोबार ३ अर्ब माथि",
-      "link": "https://www.ratopati.com/story/597643/double-digit-improvement-in-the-stock-market-turnover-exceeds-3-billion",
-      "description": "काठमाडौँ । नेपाल स्टक एक्सचेञ्ज (नेप्से) परिसूचकमा आज सामान्य सुधार देखिएको छ। साताको अन्तिम कारोबार दिनसम्म आइपुग्दा नेप्से परिसूचक ११.९६ अङ्कले बढेर २५७८.७३ विन्दुमा बन्द भएको छ। आजको बजारमा सकारात्मक माहोल देखिएको छ। कुल १६९ वटा",
-      "published": "2026-10-06T09:53:01+00:00",
-      "source": "Ratopati",
-      "category": "business",
-      "image": "https://npcdn.ratopati.com/media/news/nepse_c7fc76ptpi_fVhqteWopX.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "da01f17ff8675f0d",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 108.9,
-      "story_size": 1,
-      "image_local": "images/news_f015411379beb583f686.jpg"
     },
     {
       "title": "सहमहामन्त्रीमा डिल्लीराम सुवेदीले दिए उम्मेदवारी",
@@ -1209,7 +1227,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.7,
+      "score": 108.6,
       "story_size": 1
     },
     {
@@ -1245,7 +1263,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.6,
+      "score": 108.5,
       "story_size": 1
     },
     {
@@ -1281,7 +1299,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.5,
+      "score": 108.4,
       "story_size": 1
     },
     {
@@ -1299,7 +1317,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.5,
+      "score": 108.4,
       "story_size": 1
     },
     {
@@ -1317,7 +1335,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.2,
+      "score": 108.1,
       "story_size": 1
     },
     {
@@ -1335,7 +1353,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.1,
+      "score": 108.0,
       "story_size": 1
     },
     {
@@ -1480,7 +1498,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.4,
+      "score": 107.3,
       "story_size": 1
     },
     {
@@ -1498,7 +1516,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.4,
+      "score": 107.3,
       "story_size": 1
     },
     {
@@ -1516,7 +1534,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.0,
+      "score": 106.9,
       "story_size": 1
     },
     {
@@ -1534,7 +1552,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.8,
+      "score": 106.7,
       "story_size": 1
     },
     {
@@ -1552,7 +1570,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.8,
+      "score": 106.7,
       "story_size": 1
     },
     {
@@ -1570,7 +1588,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.6,
+      "score": 106.5,
       "story_size": 1
     },
     {
@@ -1660,7 +1678,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.7,
+      "score": 105.6,
       "story_size": 1
     },
     {
@@ -1696,7 +1714,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.1,
+      "score": 105.0,
       "story_size": 1
     },
     {
@@ -1714,7 +1732,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.7,
+      "score": 104.6,
       "story_size": 1
     },
     {
@@ -1732,7 +1750,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.6,
+      "score": 104.5,
       "story_size": 1
     },
     {
@@ -1750,7 +1768,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.5,
+      "score": 104.4,
       "story_size": 1
     },
     {
@@ -1768,7 +1786,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.4,
+      "score": 104.3,
       "story_size": 1
     },
     {
@@ -1804,7 +1822,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.0,
+      "score": 103.9,
       "story_size": 1
     },
     {
@@ -1822,7 +1840,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.8,
+      "score": 103.7,
       "story_size": 1
     },
     {
@@ -1840,7 +1858,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.6,
+      "score": 103.5,
       "story_size": 1
     },
     {
@@ -1858,7 +1876,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.0,
+      "score": 102.9,
       "story_size": 1
     },
     {
@@ -1876,7 +1894,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.9,
+      "score": 102.8,
       "story_size": 1
     },
     {
@@ -1894,7 +1912,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.4,
+      "score": 102.3,
       "story_size": 1
     },
     {
@@ -1912,7 +1930,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.1,
+      "score": 102.0,
       "story_size": 1
     },
     {
@@ -2002,7 +2020,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.1,
+      "score": 100.0,
       "story_size": 1
     },
     {
@@ -2020,7 +2038,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.0,
+      "score": 99.9,
       "story_size": 1
     },
     {
@@ -2074,7 +2092,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.1,
+      "score": 99.0,
       "story_size": 1
     },
     {
@@ -2164,7 +2182,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.3,
+      "score": 97.2,
       "story_size": 1
     },
     {
@@ -2182,7 +2200,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.0,
+      "score": 96.9,
       "story_size": 1
     },
     {
@@ -2200,7 +2218,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.8,
+      "score": 96.7,
       "story_size": 1
     },
     {
@@ -2254,7 +2272,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.0,
+      "score": 95.9,
       "story_size": 1
     },
     {
@@ -2326,7 +2344,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.6,
+      "score": 94.5,
       "story_size": 1
     },
     {
@@ -2398,7 +2416,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.3,
+      "score": 93.2,
       "story_size": 1
     },
     {
@@ -2420,24 +2438,6 @@
       "story_size": 1
     },
     {
-      "title": "निगमलाई ग्यास विक्रेताको पत्र : उद्योगबाट खुद्रा बिक्री बन्द गर",
-      "link": "https://www.onlinekhabar.com/2026/10/2033285/gas-vendors-letter-to-corporation-stop-retail-sales-from-industry",
-      "description": "२० असोज काठमाडौं । नेपालमा खाना पकाउने ग्यासको अभाव चुलिदै गएको र उपभोक्ताले सास्ती खेप्नुपरेको भन्दै ग्यास विक्रेता महासंघ नेपालले आयल निगमको ध्यानाकर्षण गराएको छ । महासंघले निगमका कार्यकारी निर्देशक नागेन्द्र साहलाई ज्ञापनपत्र बुझाउँदै उद्योगहरूबाट भइरहेको ग्यासको खुद्रा बिक्री तत्काल बन्द गरी डिलर मार्फत मात्र बिक्री वितरणको व्यवस्था मिलाउन माग गरेको हो । महासंघका अध्यक्ष [&#8230;]",
-      "published": "2026-10-06T06:28:00+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "6fb64e62166219a7",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 92.2,
-      "story_size": 1
-    },
-    {
       "title": "'खतराका कारण' यूकेबाट अमेरिकी बमवर्षक विमानहरू फिर्ता गरेको ट्रम्पको स्पष्टोक्ति",
       "link": "https://www.bbc.com/nepali/articles/c6qxnwwv4eq9o?at_medium=RSS&at_campaign=rss",
       "description": "यूकेको सैन्य हवाई अखडाबाट अमेरिका फिर्ता लगिएका बमवर्षक विमानहरूमा करिब एक दर्जन 'बी-वन' रहेको बुझिएको छ।",
@@ -2452,7 +2452,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.8,
+      "score": 82.7,
       "story_size": 1
     },
     {
