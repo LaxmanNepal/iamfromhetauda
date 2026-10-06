@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T22:09:06.824184+00:00",
+  "updated_at": "2026-10-06T02:20:14.171331+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -16,121 +16,1555 @@
   ],
   "items": [
     {
-      "title": "देउखुरीमा बस र अटो एकापसमा ठोकिँदा दुई जनाको मृत्यु",
-      "link": "https://gorkhapatraonline.com/news/225557",
-      "description": "दाङ, असोज १९ गते । देउखुरीमा बस र अटो एकापसमा ठोकिँदा भएको दुर्घटनामा दुई जनाको मृत्यु छ भने तीन जना घाइते भएका छन् ।लमहीबाट भालुवाङतर्फ जाँदै गरेको लुप्र०२–००१ ह १५७१ नम्बरको अटो...",
-      "published": "2026-10-05T23:12:37+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/386641/conversions/Accident1-(1)-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online",
-        "Khabarhub",
-        "Lokaantar"
-      ],
-      "id": "5dfa3118eacded2e",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 128.3,
-      "story_size": 3,
-      "image_local": "images/news_fce85c808f0b31fa5b8c.jpg"
-    },
-    {
-      "title": "नारायणी नदीले बगाएको राइनो क्रुज अझै झिक्न सकिएन",
-      "link": "https://gorkhapatraonline.com/news/225559",
-      "description": "चितवन, असोज १९ गते । यही असोज ११ गते नारायणी नदीमा आएको बाढीले बगाएको राइनो क्रुज हालसम्म झिक्न सकिएको छैन । क्रुज नारायणी नदीले बगाएर तीन सय मिटर टाढा नारायणीको पुलमुनि पिलरमा ठोक...",
-      "published": "2026-10-06T00:01:17+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/386643/conversions/IMG_2878-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online",
-        "Ratopati"
-      ],
-      "id": "b8dbc5831051bc96",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 121.5,
-      "story_size": 2,
-      "image_local": "images/news_3c3f5207c83df9c221d6.jpg"
-    },
-    {
-      "title": "लागुऔषधसहित तीन जना पक्राउ",
-      "link": "https://gorkhapatraonline.com/news/225552",
-      "description": "काठमाडौँ, असोज १९ गते । रूपन्देहीको बुटवल उपमहानगरपालिका–४ हाटबजारबाट अवैध लागुऔषध ब्राउनसुगर जस्तो देखिने पदार्थ ३९० मिलिग्रामसहित बुटवल–११ देवीनगर डेरा गरी बस्ने गुल्मी घर भएका ३...",
-      "published": "2026-10-05T22:29:22+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/386635/conversions/handcuffs-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online",
-        "Ratopati"
-      ],
-      "id": "8488fd48183422c8",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 115.4,
-      "story_size": 2,
-      "image_local": "images/news_48206935e435478716b9.jpg"
-    },
-    {
-      "title": "भिरबाट खसेर एक जनाको मृत्यु",
-      "link": "https://khabarhub.com/2026/05/1033765/",
-      "description": "लमजुङ – लमजुङको मर्स्याङ्दी गाउँपालिका-६ नाइचेमा निर्माणाधीन ४० दशमलव २७ मेगावाटको सुपर ङादी जलविद्युत् आयोजनामा कार्यरत एक कामदारको भिरबाट खसेर आज मृत्यु भएको छ । सप्तरीको सप्तकोशी नगरपालिका-८ का ३७ वर्षीय राजकुमार चौधरीको भिरबाट लडेर आज मृत्यु भएको जिल्ला प्रहरी कार्यालय लमजुङले जनाएको छ । जिल्ला प्रहरी कार्यालयका सूचना अधिकारी ज्ञानेन्द्रबहादुर क्षेत्रीका अनुसार आज बिहान [&#8230;]",
-      "published": "2026-10-05T16:29:57+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
-        "Lokaantar"
-      ],
-      "id": "928b0d534d9fed87",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 111.4,
-      "story_size": 2
-    },
-    {
-      "title": "किरणकिशोर घिमिरेद्वारा कांग्रेस केन्द्रीय सदस्यमा उम्मेदवारी घोषणा",
-      "link": "https://khabarhub.com/2026/05/1033750/",
-      "description": "काठमाडौं । नेपाली कांग्रेसको खुला केन्द्रीय सदस्यमा नेता किरणकिशोर घिमिरेले उम्मेदवारी घोषणा गरेका छन् । काठमाडौंमा पत्रकार भेटघाट गर्दै उनले उम्मेदवारी घोषणा गरेका हुन् । उनी दाङ क्षेत्र नम्बर २ बाट महाधिवेशन प्रतिनिधि हुन् । तल्लो तहका नेताकार्यकर्ता र आमजनताको आवाज केन्द्रीय राजनीतिमा पुर्‍याउन आफूले उम्मेदवारी दिएको उनले बताए । नेता घिमिरेले आफू निर्वाचित भए [&#8230;]",
-      "published": "2026-10-05T16:08:49+00:00",
+      "title": "अर्थमन्त्री वाग्ले र विश्व बैंक समूहका अध्यक्ष बाङ्गाबीच भेटवार्ता",
+      "link": "https://khabarhub.com/2026/06/1033788/",
+      "description": "काठमाडौँ– अर्थमन्त्री डा. स्वर्णिम वाग्ले र विश्व बैंक समूहका अध्यक्ष अजय बाङ्गाबीच द्विपक्षीय भेटवार्ता भएको छ। विश्व बैंकका अध्यक्षको निमन्त्रणामा प्रतिनिधिमण्डलको नेतृत्व गर्दै अमेरिकामा रहेका अर्थमन्त्री वाग्ले र अध्यक्ष बाङ्गाबीच अमेरिकाको वासिङ्टन डीसी मा भेटवार्ता भएको हो। भेटघाटका क्रममा अर्थमन्त्री वाग्लेले हालै रसुवाको भोटेकोशी नदीमा आएको बाढीबाट क्षतिग्रस्त बनेका भौतिक तथा आर्थिक पूर्वाधारको पुनर्निर्माण, वृहत् [&#8230;]",
+      "published": "2026-10-06T01:27:20+00:00",
       "source": "Khabarhub",
       "category": "politics",
       "image": "",
       "related_sources": [
         "Khabarhub",
-        "OnlineKhabar"
+        "Nepal Samaya"
       ],
-      "id": "f8d22eb91318e35d",
+      "id": "4658463393ed0a11",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 110.0,
+      "score": 130.5,
       "story_size": 2
     },
     {
-      "title": "बजार नपाउँदा मुस्ताङका स्याउ किसान मर्कामा",
-      "link": "https://khabarhub.com/2026/05/1033748/",
-      "description": "मुस्ताङ – बेनी–जोमसोम सडक अवरुद्ध हुँदा मुस्ताङका स्याउ किसान मर्कामा परेका छन् । बाढी, पहिरो र नदी कटानका कारण एक सातादेखि सडक अवरुद्ध हुँदा स्याउ बोटमा कुहिन थालेका छन् । मुस्ताङका पाँचवटै स्थानीय तहमा स्याउ टिप्ने तथा बजार पठाउने काम चलिरहे पनि सडक अवरुद्ध भएपछि बोटमै पाकेका स्याउ झर्न र कुहिन थालेका पीडित किसानको गुनासो [&#8230;]",
-      "published": "2026-10-05T16:05:06+00:00",
+      "title": "कांग्रेसको नयाँ कार्यसमितिका लागि आज मनोनयन दर्ता",
+      "link": "https://nepalsamaya.com/detail/146708",
+      "description": "",
+      "published": "2026-10-06T06:54:13+05:45",
+      "source": "Nepal Samaya",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Nepal Samaya",
+        "OnlineKhabar"
+      ],
+      "id": "01617771a1ed7ca6",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 129.3,
+      "story_size": 2
+    },
+    {
+      "title": "अर्थमन्त्री वाग्ले र विश्व बैंकका अध्यक्ष बाङ्गाबीच वासिङ्टनमा भेटवार्ता",
+      "link": "https://kendrabindu.com/economy/561613/",
+      "description": "काठमाडौं । अर्थमन्त्री स्वर्णिम वाग्ले र विश्व बैंक समूहका अध्यक्ष अजय बाङ्गाबीच अमेरिकाको वासिङ्टन डीसीमा उच्चस्तरीय द्विपक्षीय भेटवार्ता भएको छ । विश्व बैंकका अध्यक्ष बाङ्गाको निमन्त्रणामा प्रतिनिधिमण्डलको नेतृत्व गर्दै अमेरिका पुगेका अर्थमन्त्री वाग्ले र अध्यक्ष बाङ्गाबीच नेपालको पुनर्निर्माण, आर्थिक सुधार तथा सामाजिक संरक्षणलगायत विषयमा छलफल भएको हो । भेटका क्रममा अर्थमन्त्री वाग्लेले हालै रसुवाको भोटेकोशी [&#8230;]",
+      "published": "2026-10-06T01:07:12+00:00",
+      "source": "Kendrabindu",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu",
+        "Thaha Khabar"
+      ],
+      "id": "16468a649603b0a6",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 129.2,
+      "story_size": 2
+    },
+    {
+      "title": "बाढीपहिरोका कारण सडक पूर्वाधारमा क्षति",
+      "link": "https://khabarhub.com/2026/06/1033777/",
+      "description": "बागलुङ– बागलुङमा बाढी, पहिरोका कारण ठूलो जनधनको क्षति भएको छ । विपद्का कारण जिल्लामा १३ जनाको ज्यान गएको छ भने मुख्य सडकमा मात्रै ५० करोड बराबरको क्षति भएको छ । सडक डिभिजन कार्यालयअन्तर्गतका राष्ट्रिय र सहायक राजमार्ग तथा पूर्वाधार विकास कार्यालयअन्तर्गतका प्रदेशस्तरीय सडक पूर्वाधारमा क्षति भएको आकलन गरिएको छ । ती सडकलाई दीर्घकालीन रुपमा निर्माण [&#8230;]",
+      "published": "2026-10-06T00:32:42+00:00",
       "source": "Khabarhub",
-      "category": "business",
+      "category": "society",
       "image": "",
       "related_sources": [
         "Khabarhub",
         "Ratopati"
       ],
-      "id": "8167a5fe464e28a6",
+      "id": "bf9b317ec899b08e",
       "source_count": 2,
       "verified": true,
       "local": false,
+      "score": 126.9,
+      "story_size": 2
+    },
+    {
+      "title": "बाढी पहिरोले देशका विभिन्न राजमार्ग प्रभावित, कुनको अवस्था के छ ? (सूचीसहित)",
+      "link": "https://www.ratopati.com/story/597494/floods-and-landslides-have-affected-various-highways-in-the-country-what-is-the-status-of-which-with-list",
+      "description": "काठमाडौँ। बाढी तथा पहिरोका कारण बागमती र गण्डकी प्रदेशका केही प्रमुख राजमार्गहरूमा सवारी आवागमन प्रभावित भएको छ। नेपाल प्रहरीका अनुसार बागमती प्रदेशको रसुवा जिल्लामा असोज १० गते बिहान १०:३० बजे आएको बाढीका कारण मुख्य राजमार्ग",
+      "published": "2026-10-06T01:16:24+00:00",
+      "source": "Ratopati",
+      "category": "society",
+      "image": "https://npcdn.ratopati.com/media/news/rasuwa-pahiro-photos-(2)_CC6tz1um6E.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "fbb81c5cd99c562e",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 126.8,
+      "story_size": 1,
+      "image_local": "images/news_69a2166e65f63c508b66.webp"
+    },
+    {
+      "title": "मनसुनी वायु र पश्चिमी वायुको प्रभाव कायमै, आज देशका यी भूभागमा वर्षाको सम्भावना",
+      "link": "https://www.ratopati.com/story/597490/the-influence-of-monsoon-winds-and-westerly-winds-continues-with-a-possibility-of-rain-in-these-parts-of-the-country-today",
+      "description": "काठमाडौँ । कर्णाली र सुदूरपश्चिम प्रदेशको सबै भूभाग, गण्डकी र लुम्बिनी प्रदेशको पश्चिमी भूभागमा पश्चिमी वायु तथा कोशी, मधेस, बागमती प्रदेशको सबै भूभाग तथा गण्डकी र लुम्बिनी प्रदेशको बाँकी भूभागमा मनसुनी वायुको साथै पश्चिमी वायुको",
+      "published": "2026-10-06T00:27:55+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/rain_3gUVbWNqzv.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "48c36830f40a009e",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 123.5,
+      "story_size": 1,
+      "image_local": "images/news_1cb10ff19adf9afc1e81.webp"
+    },
+    {
+      "title": "बाढीपहिरो प्रभावितलाई स्थानान्तरण गर्न नयाँ एकीकृत बस्ती विकास गर्ने बागमती सरकारको योजना",
+      "link": "https://www.onlinekhabar.com/2026/10/2033098/bagmati-government-plans-to-develop-new-integrated-settlements-to-relocate-flood-and-landslide-victims",
+      "description": "२० असाेज, हेटौंडा । बागमती प्रदेश सरकारले पछिल्लाे बाढीपहिरोबाट प्रभावित तथा जोखिमयुक्त बस्तीलाई सुरक्षित स्थानमा स्थानान्तरण गरी नयाँ एकीकृत बस्ती विकास गर्ने योजना अघि सारेको छ । प्रधानमन्त्रीको अध्यक्षतामा साेमबार बसेको केन्द्रीय विपद् परिषद्को बैठकमा बागमती प्रदेशका मुख्यमन्त्री किरण थापा मगरले प्रभावित बस्तीको पुनःस्थापना र पुनर्निर्माणसम्बन्धी योजना प्रस्तुत गरेका छन् । भोटेकोशी र त्रिशूली नदी आसपासका [&#8230;]",
+      "published": "2026-10-06T01:04:55+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "a52bfe4cad7c74e3",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 123.0,
+      "story_size": 1
+    },
+    {
+      "title": "विमान अपहरण प्रयास प्रकरण : इजरायलको बेन गुरियन विमानस्थल मुख्य निशानामा रहेको खुलासा",
+      "link": "https://www.ratopati.com/story/597502/plane-hijacking-attempt-israels-ben-gurion-airport-revealed-as-main-target",
+      "description": "काठमाडौँ । दुबईबाट तेलअविवतर्फ उडिरहेको फ्लाई दुबईको विमानमा भएको अपहरणको प्रयासका मुख्य योजनाकार भनिएका सह-पाइलट हमाम अल-हमामीले इजरायलको बेन गुरियन अन्तर्राष्ट्रिय विमानस्थललाई नै मुख्य निशाना बनाउन खोजेको आशङ्का गरिएको छ। सीएनएनका अनुसार इजरायली अधिकारीहरूले यो घटनाको",
+      "published": "2026-10-06T02:17:04+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://npcdn.ratopati.com/media/news/fly-dubai_KDb4END2bo.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "de7d3c7b9736a3d9",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.8,
+      "story_size": 1,
+      "image_local": "images/news_05c1e9c88b6991077086.webp"
+    },
+    {
+      "title": "फ्रान्स र इटालीको उत्कृष्ट पुनरागमन जित",
+      "link": "https://www.thahakhabar.com/detail/309879",
+      "description": "",
+      "published": "2026-10-06T07:57:01+05:45",
+      "source": "Thaha Khabar",
+      "category": "nepal",
+      "image": "https://www.thahakhabar.com/uploads/posts/France-1791252713.jpg",
+      "related_sources": [
+        "Thaha Khabar"
+      ],
+      "id": "cfc83cd2a134761e",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.5,
+      "story_size": 1,
+      "image_local": "images/news_bfbe562536d60ec6e3b6.jpg"
+    },
+    {
+      "title": "रत्नपार्क–भक्तपुर मेट्रो रेल चलाउने सरकारको तयारी, यस्तो छ सञ्चालनको विस्तृत खाका",
+      "link": "https://www.ratopati.com/story/597501/governments-preparations-to-operate-ratnapark-bhaktapur-metro-rail-here-is-the-detailed-operational-plan",
+      "description": "काठमाडौँ । काठमाडौँ उपत्यकावासीका लागि ‘मेट्रो रेल’ को सपना नौलो होइन । हरेक चुनावमा राजनीतिक दलका घोषणापत्रमा अट्ने तर कहिल्यै कार्यान्वयनको चरणमा नपुग्ने यो सपनाले अब भने प्राविधिक र रणनीतिक रूपमा मूर्तरूप लिने सम्भावना बढेको",
+      "published": "2026-10-06T02:11:08+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/rel-ratnapark_2VFjJKnq5N.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "efd1479ecda8ea44",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.4,
+      "story_size": 1,
+      "image_local": "images/news_fd990f44038778440a17.webp"
+    },
+    {
+      "title": "ऊर्जा मिश्रण रणनीति",
+      "link": "https://gorkhapatraonline.com/news/225579",
+      "description": "जलवायु परिवर्तनले हिमनदी छिटो पग्लिने र हिमताल फुट्ने खतरा झन् बढाइरहेको छ । साथै अनियमित तर तीव्र वर्षाले पहाडी नदीको प्रवाह ढाँचालाई अस्थिर बनाइरहेको छ । भौगोलिक जोखिमलाई व्यवस्थ...",
+      "published": "2026-10-06T07:55:41+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/386670/conversions/546-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "76657b37205948aa",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.4,
+      "story_size": 1,
+      "image_local": "images/news_8062ff44130233cbd188.jpg"
+    },
+    {
+      "title": "खनियाघाटको झोलुङ्गे पुलमा दुईपाङ्ग्रे सवारी चलाउन रोक",
+      "link": "https://gorkhapatraonline.com/news/225580",
+      "description": "बागलुङ, असोज २० गते । गत असोज ११ गते कालीगण्डकी नदीमा आएको भीषण बाढीले बागलुङ र पर्वत जोड्ने मालढुङ्गास्थित कालीगण्डकी पुलमा क्षति पुर्‍याएपछि वैकल्पिक मार्गका रूपमा प्रयोग हुँदै आ...",
+      "published": "2026-10-06T07:53:06+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/386666/conversions/%E0%A4%9D%E0%A5%8B%E0%A4%B2%E0%A5%81%E0%A4%99%E0%A5%8D%E0%A4%97%E0%A5%87-%E0%A4%AA%E0%A5%81%E0%A4%B2%E0%A4%AE%E0%A4%BE-%E0%A4%B8%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%AC%E0%A4%A8%E0%A5%8D%E0%A4%A7-%E0%A4%AB%E0%A5%8B%E0%A4%9F%E0%A5%8B-%E0%A4%AC%E0%A4%BE%E0%A4%97%E0%A4%B2%E0%A5%81%E0%A4%99-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "0e1f178210ea8d53",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.2,
+      "story_size": 1,
+      "image_local": "images/news_488bc22407501ee8a696.jpg"
+    },
+    {
+      "title": "अमेरिकी रक्षा मन्त्रालयले एन्थ्रोपिकका एआई उपकरण प्रयोग गर्न छाड्यो, यस्तो छ कारण",
+      "link": "https://www.ratopati.com/story/597500/the-us-department-of-defense-stopped-using-anthropics-ai-tools-heres-why",
+      "description": "काठमाडौँ । अमेरिकी रक्षा मन्त्रालय (पेन्टागन)ले एआई कम्पनी एन्थ्रोपिकका उपकरण प्रयोग गर्न पूर्ण रूपमा बन्द गरेको छ। पेन्टागनका एक अधिकारीले सोमबार एन्थ्रोपिकका उत्पादनको प्रयोग बन्द गरिएको पुष्टि गरेका हुन्। अमेरिकी रक्षामन्त्री पिट हेगसेथले गत फेब्रुअरीमा एन्थ्रोपिकलाई",
+      "published": "2026-10-06T02:02:13+00:00",
+      "source": "Ratopati",
+      "category": "tech",
+      "image": "https://npcdn.ratopati.com/media/news/trump_AVAPYjkDQM.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "05ef357cddc50e68",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.8,
+      "story_size": 1,
+      "image_local": "images/news_9521dbbe6bcf6bd9a0c5.webp"
+    },
+    {
+      "title": "युद्धको त्रासदीमा मानवीय कानुन",
+      "link": "https://gorkhapatraonline.com/news/225578",
+      "description": "महाभारत, बाइबल र कुरान जस्ता धेरै प्राचीन ग्रन्थमा शत्रुपक्षको सम्मानको वकालत गर्ने नियम छ । महाभारतमा धर्मयुद्धका नियमको वर्णन पाइन्छ । युद्धरत पक्षले सदैव नागरिक र लडाकु तथा नागर...",
+      "published": "2026-10-06T07:43:59+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/386665/conversions/Untitled-1-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "c814c9f31279eca1",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.6,
+      "story_size": 1,
+      "image_local": "images/news_37c9c19f33f85a30c1ce.jpg"
+    },
+    {
+      "title": "फेसबुकमा लेख्दा साउदी अरबमा मृत्युदण्डको सजाय",
+      "link": "https://www.ratopati.com/story/597499/death-penalty-in-saudi-arabia-for-writing-on-facebook",
+      "description": "साउदी अरब । साउदी अरबमा फेसबुकमा इस्लाम र पैगम्बर मोहम्मदबारे आपत्तिजनक टिप्पणी गरेको आरोपमा २४ वर्षीय श्रीलंकाली आप्रवासी कामदार अनुजन सिवारासालाई मृत्युदण्डको सजाय सुनाइएको छ। अपिल अदालतले शरिया कानुनअन्तर्गत मुद्दा अघि बढाउँदै मृत्युदण्डको फैसला गरेको हो।",
+      "published": "2026-10-06T01:58:07+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/cccb3130-c093-11f1-a4af-19dbf5352a59png_APtB00sVq2.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "113785ccbdc8c918",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.5,
+      "story_size": 1,
+      "image_local": "images/news_b9e11075fbf114c06f09.webp"
+    },
+    {
+      "title": "१४औँ मा भन्दा १५औँ महाधिवेशनमा २३७१ मतदाता बढी",
+      "link": "https://www.ratopati.com/story/597498/2371-more-voters-in-the-15th-general-convention-than-in-the-14th",
+      "description": "काठमाडौँ। नेपाली कांग्रेसको १५औँ महाधिवेशनमा ७,११४ मतदाता सङ्ख्या निर्धारण गरिएका छन् । केन्द्रीय निर्वाचन समितिले गएराति जारी गरेको विज्ञप्ति अनुसार यो सङ्ख्यामा मतदाता निर्धारण गरिएको हो। यो सङ्ख्या १४औँ महाधिवेशनको मतदाता सङ्ख्याभन्दा २३७१ ले बढी हो ।",
+      "published": "2026-10-06T01:49:23+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://rpcdn.ratopati.com/media/albums/deuba-gagan_qx7pqNlLih.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "9ed46ce9d5f3b209",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.0,
+      "story_size": 1,
+      "image_local": "images/news_303baaf3f3863aa03d77.jpg"
+    },
+    {
+      "title": "१०५ वर्ष अघिको गोर्खापत्र",
+      "link": "https://gorkhapatraonline.com/news/225577",
+      "description": "",
+      "published": "2026-10-06T07:29:08+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/386662/conversions/433-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "50a34fe05d3e0925",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.6,
+      "story_size": 1,
+      "image_local": "images/news_648d20dd0c074dfcb356.jpg"
+    },
+    {
+      "title": "आजको राशिफल",
+      "link": "https://gorkhapatraonline.com/news/225576",
+      "description": "",
+      "published": "2026-10-06T07:27:02+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/386661/conversions/rasiphal-(4)-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "998aed9c40ecc684",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.5,
+      "story_size": 1,
+      "image_local": "images/news_28858ef9c74ad067b12b.jpg"
+    },
+    {
+      "title": "कांग्रेस महाधिवेशन : साढे १२ बजेदेखि मनोनयन दर्ता सुरु",
+      "link": "https://www.ratopati.com/story/597497/congress-general-convention-nomination-registration-begins-at-1230-pm",
+      "description": "काठमाडौँ । नेपाली कांग्रेसको १५औँ केन्द्रीय महाधिवेशनअन्तर्गत नयाँ नेतृत्व चयनका लागि आज दिउँसो १२:३० बजेदेखि मनोनयन दर्ता सुरु हुने भएको छ। नेपाली कांग्रेस केन्द्रीय निर्वाचन समितिले असोज १९ गते प्रकाशित गरेको संशोधित कार्यतालिका अनुसार केन्द्रीय कार्यसमितिको",
+      "published": "2026-10-06T01:41:54+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/nepali-congress-banda-satra_gaganthapa_npl-13_YfQAxDQ5uc.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "06ded4dbae9ad159",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.5,
+      "story_size": 1,
+      "image_local": "images/news_681224223cec7f4cf4a2.webp"
+    },
+    {
+      "title": "‘अभियान चिबाखं’ सार्वजनिक",
+      "link": "https://gorkhapatraonline.com/news/225575",
+      "description": "काठमाडौँ, असोज २० गते । लघुकथा कृति ‘अभियान चिबाखं’ को सार्वजनिक तथा स्रष्टाका कविता वाचन कार्यक्रम सम्पन्न भएको छ । सिर्जना अभियान समाजद्वारा भक्तपुरमा आयोजित कार्यक्रममा कवि योगे...",
+      "published": "2026-10-06T07:21:08+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/386660/conversions/bhaktapur-book-bimochan-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "309d5749cabb98f8",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.1,
+      "story_size": 1,
+      "image_local": "images/news_008d382b45a5bc89a21b.jpg"
+    },
+    {
+      "title": "शक्तिपीठमा सराय नाचको तयारी",
+      "link": "https://gorkhapatraonline.com/news/225574",
+      "description": "अर्घाखाँची समाचारदाताअर्घाखाँची, असोज २० गते । अर्घाखाँचीको ऐतिहासिक अर्घा महाकाली भगवती मन्दिरमा यस वर्षको सराय नाचका लागि तयारी थालिएको छ । हिन्दुहरूको महान् पर्व बडादसैँको पूर्ण...",
+      "published": "2026-10-06T07:18:16+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/386659/conversions/shiti-pith-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "8b8e6d00c6c2cf13",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.9,
+      "story_size": 1,
+      "image_local": "images/news_f2773b55538f01116aad.jpg"
+    },
+    {
+      "title": "कांग्रेस महाधिवेशन : कुल मतदाता सङ्ख्या ७,११४",
+      "link": "https://www.ratopati.com/story/597496/congress-convention-total-number-of-voters-7114",
+      "description": "काठमाडौँ। नेपाली कांग्रेस केन्द्रीय निर्वाचन समितिले १५औँ केन्द्रीय महाधिवेशनका लागि मतदाताको नामावली प्रकाशित गरेको छ। जसमा कुल ७,११४ जना मतदाता रहेको उल्लेख छ । नयाँ केन्द्रीय कार्यसमिति निर्वाचनका लागि यो नामावली सार्वजनिक गरिएको हो। प्राविधिक वा प्रक्रियागत",
+      "published": "2026-10-06T01:32:57+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/congress-mahadhibesan-bandasatra-manch_npl-8_iJvLNsYUGe.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "a6d67e732b455ddc",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.9,
+      "story_size": 1,
+      "image_local": "images/news_d57005c5efe71e98a2d6.webp"
+    },
+    {
+      "title": "कैलालीमा घरको छतमा जन्मदिन मनाउँदै गर्दा चट्याङ लागेर ७ जना घाइते",
+      "link": "https://kendrabindu.com/social-affairs/561639/",
+      "description": "कैलाली । कैलालीमा चट्याङ लागेर ७ जना घाइते भएका छन्। धनगढी उपमहानगरपालिका–१७ धुर्जन्नामा घरको छतमा जन्मदिन मनाइरहेका बेला चट्याङको झिल्का लागेर उनीहरू घाइते भएका हुन्। प्रहरीका अनुसार स्थानीय खुशिलाल चौधरीको घरको छतमा राति करिब साढे ९ बजे जन्मदिन मनाइरहेका बेला घरनजिकै चट्याङ परेको थियो। चट्याङको झिल्का लागेर ३५ वर्षीया आरती चौधरी, १७ वर्षीया आयुसरा चौधरी, [&#8230;]",
+      "published": "2026-10-06T02:17:12+00:00",
+      "source": "Kendrabindu",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "5f8503c146f9d03b",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
       "score": 109.8,
+      "story_size": 1
+    },
+    {
+      "title": "तीन कृति लोकार्पण",
+      "link": "https://gorkhapatraonline.com/news/225573",
+      "description": "गोरखापत्र समाचारदाताकाठमाडौँ, असोज २० गते । न्युरोड पुस्तक पब्लिकेसनद्वारा प्रकाशित तीन वटा साहित्यिक कृति एकसाथ सार्वजनिक गरिएको छ । सोमबार आयोजित समारोहमा साहित्यकार श्रवण मुकारु...",
+      "published": "2026-10-06T07:13:42+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/386658/conversions/3-pustak-bimochan_sagar_SGR2059-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "0d010a6179da0650",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.6,
+      "story_size": 1,
+      "image_local": "images/news_f547004b8dcfc420f061.jpg"
+    },
+    {
+      "title": "टुभालुमा परराष्ट्रमन्त्री खनालले उठाए जलवायु परिवर्तनका मुद्दा",
+      "link": "https://baahrakhari.com/detail/503911",
+      "description": "",
+      "published": "2026-10-06T07:57:09+05:45",
+      "source": "Baahrakhari",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "3d8b044a68a14e14",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.5,
+      "story_size": 1
+    },
+    {
+      "title": "महिला स्वास्थ्य स्वयंसेविकाको सेवा सुविधामा एकरूपता ल्याउने तयारी",
+      "link": "https://gorkhapatraonline.com/news/225572",
+      "description": "सन्तोष दहितदाङ, असोज २० गते । लुम्बिनी प्रदेशका मुख्यमन्त्री चेतनारायण आचार्यले महिला स्वास्थ्य स्वयंसेविकाको सेवा सुविधा तथा निवृत्त हुने व्यवस्थामा एकरूपता कायम गर्न आवश्यक नीतिग...",
+      "published": "2026-10-06T07:12:50+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "business",
+      "image": "https://gorkhapatraonline.com/storage/media/386657/conversions/73402-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "c9723be5a9b270b1",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.5,
+      "story_size": 1,
+      "image_local": "images/news_08b9720a77ffd8f52607.jpg"
+    },
+    {
+      "title": "कांग्रेस महाधिवेशनः बिहान १० बजेदेखि उम्मेदवारी फारम वितरण, दर्ता समय अपरान्ह ४ बजेसम्म",
+      "link": "https://kendrabindu.com/politics/561636/",
+      "description": "काठमाडौं । नेपाली कांग्रेसको संशोधित विधान पारित भएपछि सोही अनुसार उम्मेदवारी मनोनयन तालिका सार्वजनिक भएको छ । तालिका अनुसार बिहान १० बजेदेखि उम्मेदवारी मनोनयन फारम वितरण सुरु हुने र मनोनयन दर्ता भने दिउँसो ४ बजेसम्म गर्न पाइने समय तोकिएको छ । पार्टी प्रवक्ता देवराज चालिसेका अनुसार मङ्गलबार बिहान १० बजेदेखि उम्मेदवारको मनोनयन फारम वितरण हुनेछ [&#8230;]",
+      "published": "2026-10-06T02:10:54+00:00",
+      "source": "Kendrabindu",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "fd7a05e6cecb394a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.4,
+      "story_size": 1
+    },
+    {
+      "title": "यी हुन् कांग्रेसका महाधिवेशन प्रतिनिधि (सूचीसहित)",
+      "link": "https://www.onlinekhabar.com/2026/10/2033115/these-are-the-congress-delegates-with-list",
+      "description": "सार्वजनिक नामावली अनुसार प्रतिनिधिहरूको संख्या ७ हजार ११४ रहेको छ ।",
+      "published": "2026-10-06T02:08:06+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "fb590d0495b4f8b8",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.2,
+      "story_size": 1
+    },
+    {
+      "title": "ट्रम्पका पूर्व प्रेस सेक्रेटरी लिभिट फक्स न्युजमा आबद्ध हुँदै",
+      "link": "https://www.setopati.com/politics/400096",
+      "description": "पूर्व ह्वाइट हाउस प्रेस सेक्रेटरी क्यारोलिन लिभिट आफ्नो नयाँ भूमिकाका रूपमा फक्स न्युजमा आबद्ध हुने भएकी छन्।",
+      "published": "2026-10-06T07:52:51+05:45",
+      "source": "Setopati",
+      "category": "world",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "9971c179c8712758",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.2,
+      "story_size": 1
+    },
+    {
+      "title": "यी हुन् कांग्रेसका महाधिवेशन प्रतिनिधि (नामावलीसहित )",
+      "link": "https://www.ratopati.com/story/597495/these-are-the-congress-delegates-with-names",
+      "description": "काठमाडौँ। नेपाली कांग्रेस केन्द्रीय निर्वाचन समितिले पार्टीको १५औँ केन्द्रीय महाधिवेशनका लागि मतदाताको नामावली प्रकाशित गरेको छ। समितिले एक सूचना जारी गर्दै प्रथम नामावली प्रकाशन गरिएको जानकारी गराएको हो। नेपाली कांग्रेसको विधान २०१७ (एघारौँ संशोधन सहित) तथा",
+      "published": "2026-10-06T01:22:59+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/band-satra-congress_mUdOxCwN1x.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "bc07e9bf72cebf0d",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.2,
+      "story_size": 1,
+      "image_local": "images/news_1a129da3786220ee9648.webp"
+    },
+    {
+      "title": "'राजनीतिक रूपमा' कांग्रेसको विभाजन, छुटेका नेता के गर्छन्?",
+      "link": "https://www.bbc.com/nepali/articles/cv5yn3jwz9k6o?at_medium=RSS&at_campaign=rss",
+      "description": "संस्थापन पक्षले महाधिवेशनमार्फत् नयाँ नेतृत्व चयन गर्ने प्रक्रिया अघि बढाएसँगै नेपाली कांग्रेस राजनीतिक रूपमा नै विभाजन भएको जानकारहरूले बताएका छन्।",
+      "published": "2026-10-06T01:21:23+00:00",
+      "source": "BBC Nepali",
+      "category": "politics",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/55be/live/781037f0-c0d2-11f1-a5b0-6f550c662e91.jpg",
+      "related_sources": [
+        "BBC Nepali"
+      ],
+      "id": "b22e0d7ba8fd4c43",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.1,
+      "story_size": 1,
+      "image_local": "images/news_f1262819931e2f38a04b.jpg"
+    },
+    {
+      "title": "सुदूरपश्चिम सरकार बजेटको अन्तिम तयारीमा, कार्यव्यवस्थाको बैठक बस्दै",
+      "link": "https://www.onlinekhabar.com/2026/10/2033114/far-western-government-in-final-preparations-for-budget-work-schedule-meeting-underway",
+      "description": "यसअघि तत्कालीन मुख्यमन्त्री कमलबहादुर शाह नेतृत्वको सरकारले ल्याएको चालु आर्थिक वर्षको बजेट प्रदेश सभाबाट पारित हुन नसकेपछि राजनीतिक समीकरण नै फेरिएर एमालेको समर्थनमा नेकपाका खगराज भट्ट मुख्यमन्त्री बनेका छन् ।",
+      "published": "2026-10-06T02:05:14+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "eccdfa94ac978068",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.0,
+      "story_size": 1
+    },
+    {
+      "title": "काठमाडौँ उपत्यकामा खसीबोका र च्याङ्ग्राको कारोबार घट्ने",
+      "link": "https://gorkhapatraonline.com/news/225571",
+      "description": "काठमाडौँ, असोज २० गते । यसपालि दसैँमा काठमाडौँ उपत्यकामा मात्र ४० हजार सङ्ख्यामा खसीबोका र च्याङ्ग्राको खपत हुने भएको छ । दसैँमा मासुको उपभोग अत्यधिक हुने हुँदा खसीबोकोको खपत धेरै...",
+      "published": "2026-10-06T07:05:09+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/386656/conversions/khasi-chyangra-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "c5aba454b62e6bdb",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.0,
+      "story_size": 1,
+      "image_local": "images/news_7d9e9ed216b567e6434c.jpg"
+    },
+    {
+      "title": "बस र अटो ठोकिँदा २ जनाको मृत्यु, ३ घाइते",
+      "link": "https://kendrabindu.com/news/561634/",
+      "description": "दाङ । दाङको देउखुरीमा बस र अटो एकापसमा ठोकिँदा भएको दुर्घटनामा दुई जनाको मृत्यु छ भने तीन जना घाइते भएका छन्। लमहीबाट भालुवाङतर्फ जाँदै गरेको लुप्र ०२-००१ ह १५७१ नम्बरको अटो र भालुवाङबाट लमहीतर्फ आउँदै गरेको लुप्र ०२-००१ ख ०१११ नम्बरको बस लमही नगरपालिका-३ मजगाउँमा आपसमा ठोकिँदा भएको दुर्घटनामा दुई जनाको मृत्यु भएको जिल्ला प्रहरी [&#8230;]",
+      "published": "2026-10-06T02:02:50+00:00",
+      "source": "Kendrabindu",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "d3141ae0d47b3105",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.9,
+      "story_size": 1
+    },
+    {
+      "title": "कांग्रेस महाधिवेशनमा ७ हजार ११४ मतदाता (नामावलीसहित)",
+      "link": "https://khabarhub.com/2026/06/1033794/",
+      "description": "काठमाडौँ– नेपाली कांग्रेसको १५औँ महाधिवेशन काठमाडौँको खुलामञ्चमा जारी रहेको छ । असोज १८ गते उद्घाटन भएको महाधिवेशनमा हिजोदेखि बन्दसत्र जारी रहेको छ । यस्तै आजदेखि निर्वाचन प्रया सुरु हुँदैछ । नेपाली कांग्रेस केन्द्रीय निर्वाचन समितिले महाधिवेशनका लागि पहिलो चरणको मतदाता नामावली प्रकाशित गरेको छ । समितिका अनुसार कुल मतदाता संख्या ७ हजार ११४ जना रहेको [&#8230;]",
+      "published": "2026-10-06T01:59:36+00:00",
+      "source": "Khabarhub",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "0325a98097614ec7",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.6,
+      "story_size": 1
+    },
+    {
+      "title": "रुसी ड्रोन आक्रमणबाट पानीजहाज डुबेको युक्रेनको दाबी",
+      "link": "https://baahrakhari.com/detail/503910",
+      "description": "",
+      "published": "2026-10-06T07:43:00+05:45",
+      "source": "Baahrakhari",
+      "category": "world",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "b8816a613279b424",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.5,
+      "story_size": 1
+    },
+    {
+      "title": "यी तीन जनाले पाए यस वर्ष नोबेल चिकित्सा पुरस्कार",
+      "link": "https://kendrabindu.com/world/561631/",
+      "description": "काठमाडौं । यस वर्षको नोबेल चिकित्सा पुरस्कार सोमबार घोषणा गरिएको छ। अमेरिकी मनोचिकित्सक तथा स्नायुविज्ञ कार्ल डाइसरोथ, उनका जर्मन सहकर्मी पिटर हेगेमान र जर्ज नागेललाई अप्टोजेनेटिक्स क्षेत्रमा गरेको कामका लागि यो पुरस्कार प्रदान गरिएको चिकित्सातर्फको नोबेल पुरस्कार छनोट समितिले जनाएको छ। जीवित मस्तिष्कमा स्नायु कोषहरूले कसरी स्मृति, भावना र व्यवहार निर्माण गर्छन् भन्ने देखाउन सम्भव [&#8230;]",
+      "published": "2026-10-06T01:56:08+00:00",
+      "source": "Kendrabindu",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "2f7ce495f980154c",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.4,
+      "story_size": 1
+    },
+    {
+      "title": "पश्‍चिम एशिया युद्धमा तीन वर्षमा इजरायलका १ हजार ३१८ सैनिकको मृत्यु",
+      "link": "https://kendrabindu.com/world/561628/",
+      "description": "तेल अभिभ । पश्‍चिम एशियामा जारी द्वन्द्वका क्रममा तीन वर्षे अवधिमा आफ्ना १ हजार ३ सय १८ सुरक्षाकर्मीको मृत्यु भएको इजरायलले जनाएको छ । इजरायलको रक्षा मन्त्रालयले सार्वजनिक गरेको तथ्याङ्कमा सुरक्षाकर्मी, सैनिक, अग्रमोर्चामा रहेका उद्धारकर्मी, जलसेवाका कर्मचारी,दमकलकर्मी, स्थानीय सुरक्षा संयोजकलगायतको नाम समावेश छ । यो तथ्यांकमा विगत तीन वर्षमा गाजा, वेस्ट बैंक, लेबनान, सिरिया र [&#8230;]",
+      "published": "2026-10-06T01:50:42+00:00",
+      "source": "Kendrabindu",
+      "category": "world",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "a3cad997f573090e",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.1,
+      "story_size": 1
+    },
+    {
+      "title": "कांग्रेस महाधिवेशन : केन्द्रीय कार्यसमितिको निर्वाचन हुने पद, समूह र संख्या [सूचीसहित]",
+      "link": "https://nepalsamaya.com/detail/146713",
+      "description": "",
+      "published": "2026-10-06T07:35:00+05:45",
+      "source": "Nepal Samaya",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Nepal Samaya"
+      ],
+      "id": "b20b1391095d58b1",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.0,
+      "story_size": 1
+    },
+    {
+      "title": "बेनी–जोमसोम–कोरला सडक : मर्मत जारी",
+      "link": "https://www.ratopati.com/story/597493/beni-jomsom-korla-road-repairs-underway",
+      "description": "म्याग्दी । पछिल्लो मनसुनजन्य विपद्पछि बाढी पहिरोका कारण क्षतविक्षत बनेको चीन र भारत जोड्ने कालीगण्डकी कोरिडोरको बेनी–जोमसोम–कोरला अन्र्तगत म्याग्दी खण्डको मर्मत धमाधम भइरहेको छ । पर्वतको कुश्मा नगरपालिका–१ पाङदेखि म्याग्दीको बेनी हुँदै चीनको सिमानामा रहेको कोरला",
+      "published": "2026-10-06T01:03:44+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/LU3YAK2P4s.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "8a9bfebe242c6d66",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 107.9,
+      "story_size": 1,
+      "image_local": "images/news_a73168552cbfd33c2e9e.jpg"
+    },
+    {
+      "title": "घरको छतमा जन्मदिन मनाइरहेका बेला चट्याङ पर्दा ७ जना घाइते",
+      "link": "https://www.onlinekhabar.com/2026/10/2033111/7-injured-after-lightning-strikes-while-celebrating-birthday-on-rooftop",
+      "description": "२० असोज, धनगढी । कैलालीमा चट्याङ लागेर ७ जना घाइते भएका छन् । धनगढी उपमहानगरपालिका–१७ धुर्जन्नामा चट्याङ लागेर लागेर घरको छतमा जन्मदिन मनाइरहेका ७ जना घाइते भएको प्रहरीले जनाएको छ । स्थानीय खुशीलाल चौधरीको घरको छतमा जन्मदिन मनाइरहेका बेला राति करिब साढे ९ बजेतिर घर नजिकै चट्याङ परेको थियो । चट्याङको झिल्काले ३५ वर्षीया आरती [&#8230;]",
+      "published": "2026-10-06T01:47:34+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "0c949353abbf7d09",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 107.8,
+      "story_size": 1
+    },
+    {
+      "title": "वीरगन्जमा १० लाखभन्दा बढीका भन्सार छलीका सामान बरामद",
+      "link": "https://kendrabindu.com/economy/561625/",
+      "description": "पर्सा । पर्सा प्रहरीले वीरगन्जका विभिन्न स्थानबाट भन्सार छली चोरीपैठारी गरी ल्याइएका १० लाख ६ हजार ७ सय ६० रुपैयाँ बराबरका मोबाइल, कस्मेटिक सामान तथा स्याउ बरामद गरेको छ । वीरगन्ज महानगरपालिका-१४ गण्डक चोकबाट भारतबाट भन्सार छली ल्याइएका एप्पल कम्पनीका आईफोन-१७ का तीन थान र आईफोन-१५ को एक थान गरी चारवटा मोबाइल बरामद गरिएको हो [&#8230;]",
+      "published": "2026-10-06T01:42:34+00:00",
+      "source": "Kendrabindu",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "80890a8fcfd60479",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 107.5,
+      "story_size": 1
+    },
+    {
+      "title": "जाजरकोटमा स्क्रब टाइफसको जोखिम बढ्दो, ३ महिनामा १२२ संक्रमित",
+      "link": "https://www.onlinekhabar.com/2026/10/2033097/scrub-typhus-risk-increasing-in-jajarkot-122-infected-in-3-months",
+      "description": "२० असोज, सुर्खेत । छिमेकी सल्यानमा ९ जनाको मृत्यु हुँदै गर्दा जाजरकोटमा स्क्रब टाइफस संक्रमण बढ्दै गएको पाइएको छ। साउनदेखि असोजसम्म तीन महिनाको अवधिमा जिल्लाका विभिन्न स्वास्थ्य संस्थामा चार सय चार जना शङ्कास्पद बिरामीको परीक्षण गर्दा एक सय २२ जनामा संक्रमण पुष्टि भएको हो। जिल्ला स्वास्थ्य सेवा कार्यालय जाजरकोटको तथ्याङ्कअनुसार साउनको तुलनामा भदौ र असोजमा [&#8230;]",
+      "published": "2026-10-06T01:40:23+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "20076c39244b9c52",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 107.4,
+      "story_size": 1
+    },
+    {
+      "title": "लाओसमा चीनले बनायो नयाँ एयरबेस, अझै २० वटा देशमा सैन्य उपस्थिति हुन सक्ने अमेरिकी रिपोर्ट",
+      "link": "https://kendrabindu.com/world/561622/",
+      "description": "नयाँ दिल्ली । जिबुटी (अफ्रिकाको हर्न) मा सन् २०१७ मा पहिलो विदेशी सैन्य अखडा स्थापना गरेको चीनले अब दक्षिणपूर्वी एसियामा पनि दुई वटा सैन्य अखडा बिस्तार गरेको छ । कम्बोडियामा जलसेनाको पूर्वाधार निर्माणमा लगानी गरेको चीनले भर्खरै छिमेकी राष्ट्र लाओसमा नयाँ एयरबेस बनाएको हो । लाओसमा चिनियाँ एयरबेसको यो खबरले सबैलाई चकित बनाएको छ । [&#8230;]",
+      "published": "2026-10-06T01:35:40+00:00",
+      "source": "Kendrabindu",
+      "category": "world",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "a8a98613b349936c",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 107.1,
+      "story_size": 1
+    },
+    {
+      "title": "अमलेखगन्ज–लोथर पेट्रोलियम पाइपलाइनः ‘ल्याण्ड फिलिङ’का काम धमाधम, इआइए अन्तिम चरणमा",
+      "link": "https://www.ratopati.com/story/597492/amlekhgunj-lothar-petroleum-pipeline-landfilling-work-in-full-swing-eia-in-final-stages",
+      "description": "चितवन । राष्ट्रिय प्राथमिकता प्राप्त अमलेखगन्ज–लोथर पेट्रोलियम पाइपलाइन परियोजनाअन्तर्गत चितवनको राप्ती नगरपालिका–१ लोथरमा अहिले ‘ल्याण्ड फिलिङ’ र बाहिरी पर्खाल लगाउने काम धमाधम भइरहेको छ । जग्गा व्यवस्थापनसँगै सो परियोजनाको वातावरणीय प्रभाव मूल्याङ्कन (इआइए)को काम पनि अन्तिम",
+      "published": "2026-10-06T00:46:45+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/eukPiEbrlF.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "a83bf690187fd213",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 106.8,
+      "story_size": 1,
+      "image_local": "images/news_823488b90794013e7d09.jpg"
+    },
+    {
+      "title": "कांग्रेस १५औं महाधिवेशन: प्रथम मतदाता नामावली प्रकाशन",
+      "link": "https://www.setopati.com/politics/400095",
+      "description": "नेपाली कांग्रेसको १५औं महाधिवेशनको लागि मतदाता नामावली प्रकाशन भएको छ।",
+      "published": "2026-10-06T07:12:00+05:45",
+      "source": "Setopati",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "8ab4c983fb466d39",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 106.5,
+      "story_size": 1
+    },
+    {
+      "title": "भोटेकोशी-त्रिशूली विपद्‍सम्बन्धी संसदीय विशेष समितिको बैठक आज बस्दै",
+      "link": "https://www.onlinekhabar.com/2026/10/2033105/meeting-of-parliamentary-special-committee-on-bhotekoshi-trishuli-disaster-to-be-held-today",
+      "description": "२० असोज, काठमाडौं । &#8216;हिमालमा जलवायु परिवर्तनको प्रभाव, जलवायु न्याय तथा भोटेकोशी-त्रिशूली विपद्‍&#8217; सम्बन्धी संसदीय विशेष समितिको बैठक आज बस्दै छ । संसद् सचिवालयका अनुसार बैठक मंगलबार बिहान ९ सिंहदरबारस्थित सार्वजनिक लेखा समितिको सभा कक्षमा बस्ने छ । बैठकमा &#8216;जलवायु परिवर्तनको प्रभाव, जलवायु न्याय र भोटेकोशी-त्रिशूली विपद्&#8217; सम्बन्धमा गृह मन्त्रालय, पूर्वाधार विकास मन्त्रालय र कानुन [&#8230;]",
+      "published": "2026-10-06T01:26:02+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "0d5e98e91382bd57",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 106.4,
+      "story_size": 1
+    },
+    {
+      "title": "शुक्ला हिलेटारलाई धार्मिक पर्यटकीय स्थल बनाउन पहल",
+      "link": "https://www.ratopati.com/story/597491/initiative-to-make-shukla-hilletar-a-religious-tourist-destination",
+      "description": "तनहुँ । तनहुँको शुक्लागण्डकी नगरपालिका–८ पुल्चोकस्थित शुक्ला हिलेटार शिवालय क्षेत्रलाई धार्मिक पर्यटकीयस्थलका रूपमा विकास गर्न आवश्यक पहल थालिएको छ । धार्मिक आस्थासँग जोडिएको यस क्षेत्रको संरक्षण, पूर्वाधार विकास र प्रचारप्रसारमार्फत आन्तरिक पर्यटक तथा भक्तजनलाई आकर्षित",
+      "published": "2026-10-06T00:41:31+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/hiletar_72Gpj1yms8.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "0c4e47a04b01b13a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 106.4,
+      "story_size": 1,
+      "image_local": "images/news_51298d5076c4448bfe36.webp"
+    },
+    {
+      "title": "सुशील पण्डितद्वारा कांग्रेस केन्द्रीय सदस्यमा उमेदवारी घोषणा",
+      "link": "https://baahrakhari.com/detail/503909",
+      "description": "",
+      "published": "2026-10-06T07:10:00+05:45",
+      "source": "Baahrakhari",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "565ef2f66a825619",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 106.3,
+      "story_size": 1
+    },
+    {
+      "title": "कांग्रेसको नेतृत्वको लागि चुनावी प्रतिस्पर्धामा उत्रिए उद्यमी व्यवसायी",
+      "link": "https://kendrabindu.com/politics/561619/",
+      "description": "काठमाडौं । नेपाली कांग्रेस १५औं महाधिवेशनमा विभिन्न उद्योगी र व्यवसायीहरु पनि नेतृत्वका लागि प्रतिस्पर्धामा उत्रिने भएका छ । फरक–फरक पदमा विभिन्न उद्योगी व्यवसायीले उम्मेदवारीको घोषणा गरेका छन् । उद्योग, कृषि, पर्यटन, निर्माणलगायत क्षेत्रमा लामो समयदेखि काम गरिरहेकाहरू चुनावी प्रतिस्पर्धामा छन् । त्यसैमध्येका एक हुन्, पूर्वसांसद एवं उद्योगी विनोद चौधरी । चौधरीले केन्द्रीय उपसभापति पदमा उम्मेदवारी [&#8230;]",
+      "published": "2026-10-06T01:24:51+00:00",
+      "source": "Kendrabindu",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "d7981cd04e8f6a98",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 106.3,
+      "story_size": 1
+    },
+    {
+      "title": "जलवायुसम्बन्धि संसदीय विशेष समितिको बैठक बस्दै",
+      "link": "https://nepalsamaya.com/detail/146712",
+      "description": "",
+      "published": "2026-10-06T07:06:19+05:45",
+      "source": "Nepal Samaya",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Nepal Samaya"
+      ],
+      "id": "fa2f3f8890153f78",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 106.1,
+      "story_size": 1
+    },
+    {
+      "title": "डिजेलको मूल्य घटाउन ट्रम्पले गरे नयाँ कार्यकारी आदेशमा हस्ताक्षर",
+      "link": "https://www.onlinekhabar.com/2026/10/2033100/trump-signs-new-executive-order-to-lower-diesel-prices",
+      "description": "ट्रम्पको कार्यकारी आदेशअनुसार ‘अफ–रोड’ प्रयोगका लागि कर छुट दिइएको र रातो रङ लगाइएको डिजेललाई अस्थायी रूपमा राजमार्गमा चल्ने सवारीसाधनमा समेत प्रयोग गर्न सकिनेछ ।",
+      "published": "2026-10-06T01:21:12+00:00",
+      "source": "OnlineKhabar",
+      "category": "world",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "8b113f546e5acbf1",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 106.1,
+      "story_size": 1
+    },
+    {
+      "title": "मस्तिष्कको गतिविधिबारे अनुसन्धानका लागि तीन वैज्ञानिकलाई नोबेल चिकित्सा पुरस्कार",
+      "link": "https://www.thahakhabar.com/detail/309877",
+      "description": "",
+      "published": "2026-10-06T06:19:20+05:45",
+      "source": "Thaha Khabar",
+      "category": "nepal",
+      "image": "https://www.thahakhabar.com/uploads/posts/Nobe-1791246832.jpeg",
+      "related_sources": [
+        "Thaha Khabar"
+      ],
+      "id": "40c913dfdbad23ed",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 106.0,
+      "story_size": 1,
+      "image_local": "images/news_e882eb489ee8ea9cc283.jpeg"
+    },
+    {
+      "title": "प्रकाशबाट मस्तिष्कका स्नायु कोषिका नियन्त्रण गर्ने प्रविधिका लागि तीन वैज्ञानिकलाई नोबेल पुरस्कार",
+      "link": "https://www.setopati.com/social/400094",
+      "description": "उनीहरूले प्रकाशको प्रयोग गरी मस्तिष्कका स्नायु कोषिकालाई नियन्त्रण गर्न सकिने प्रविधि ‘अप्टोजेनेटिक्स’ विकास गरेका थिए।",
+      "published": "2026-10-06T07:02:00+05:45",
+      "source": "Setopati",
+      "category": "tech",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "770f4968f11a6c39",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 105.8,
+      "story_size": 1
+    },
+    {
+      "title": "बिपीको विचार र १५औँ महाधिवेशन : कांग्रेस नेतृत्वको फेरबदलमाथि जगत नेपालको विश्लेषण",
+      "link": "https://khabarhub.com/2026/06/1033698/",
+      "description": "काठमाडौँ – आइतबारदेखि नेपाली कांग्रेसको १५ औँ महाधिवेशन सुरु भएको छ। महाधिवेशनमार्फत गत वर्षको भदौ महिनामा भएको जेनजी आन्दोलनपश्चात फेरिएको राजनीतिक शक्ति सन्तुलनमा पुस महिनामा विशेष महाधिवेशन गरेर नेतृत्व लिएको गगन थापा नेतृत्वले औपचारिक महाधिवेशनमार्फत नयाँ नेतृत्व र नीति तय गर्दैछ। यही महाधिवेशनसँगै नेपाली कांग्रेसमा लामो समयदेखि राजनीति गर्दै आएको पूर्वसभापति शेरबहादुर देउवासहित ठूलो समूह [&#8230;]",
+      "published": "2026-10-06T01:13:19+00:00",
+      "source": "Khabarhub",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "204dba5566bc9a03",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 105.6,
+      "story_size": 1
+    },
+    {
+      "title": "विद्युत् व्यापारमा निजी क्षेत्रको सहभागिता व्यवस्थित गर्ने तयारीमा सरकार",
+      "link": "https://kendrabindu.com/economy/561616/",
+      "description": "काठमाडौं । विद्युत् व्यापारमा निजी क्षेत्रको सहभागितालाई व्यवस्थित गर्दै लैजाने तयारी सरकारले अघि बढाइएको छ। विद्युत् उत्पादन क्षमता विस्तार हुँदै गएको र आगामी वर्षहरूमा आन्तरिक खपतसँगै अतिरिक्त विद्युत्का लागि नयाँ बजार आवश्यक हुने भन्दै यस्तो योजना अघि बढाएको हो। ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्रालयले विद्युत् उत्पादन र आन्तरिक मागबीच सन्तुलन कायम गर्नुका साथै सम्भावित अन्तरदेशीय [&#8230;]",
+      "published": "2026-10-06T01:10:34+00:00",
+      "source": "Kendrabindu",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "88ec45bc71c2e8dc",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 105.4,
+      "story_size": 1
+    },
+    {
+      "title": "यूईएफए नेसन्स लिग : बेल्जियममाथि फ्रान्सको सानदार जित",
+      "link": "https://khabarhub.com/2026/06/1033784/",
+      "description": "काठमाडौँ– यूईएफए नेसन्स लिगमा बेल्जियममाथि फ्रान्सले सानदर जित निकालेको छ । गएराति भएको समूह ‘ए’ अन्तर्गतको खेलमा फ्रान्सले बेल्जियमलाई ४–१ गोलले हराएको हो । बेल्जियमका लागि माइकल ओलिसेले दुई तथा डेजिरे डुए र रायन चर्कीले एक–एक गोल गरेका । बेल्जियमका डोडी लुकेबाकियोले एक गोल गरेका थिए । खेलमा पहिलो गोल बेल्जियमले गरेको भए पनि अग्रता [&#8230;]",
+      "published": "2026-10-06T01:09:27+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "6f6fc91f12a18d59",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 105.3,
+      "story_size": 1
+    },
+    {
+      "title": "साउदीमा सेना तैनाथ गर्न टर्की र पाकिस्तान सहमत",
+      "link": "https://baahrakhari.com/detail/503908",
+      "description": "",
+      "published": "2026-10-06T06:49:00+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "1710e6673ebd167d",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 104.9,
+      "story_size": 1
+    },
+    {
+      "title": "न्याय परिषद्को बैठक बस्दै",
+      "link": "https://www.thahakhabar.com/detail/309875",
+      "description": "",
+      "published": "2026-10-06T06:03:14+05:45",
+      "source": "Thaha Khabar",
+      "category": "nepal",
+      "image": "https://www.thahakhabar.com/uploads/posts/supreme-court-1787380948.jpg",
+      "related_sources": [
+        "Thaha Khabar"
+      ],
+      "id": "6169d294dfe84fca",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 104.9,
+      "story_size": 1,
+      "image_local": "images/news_3f52977255712a7e9387.jpg"
+    },
+    {
+      "title": "कांग्रेसको बन्दसत्र आज पनि जारी रहने, निर्वाचन प्रक्रिया सुरु हुँदै",
+      "link": "https://www.thahakhabar.com/detail/309876",
+      "description": "",
+      "published": "2026-10-06T06:03:00+05:45",
+      "source": "Thaha Khabar",
+      "category": "politics",
+      "image": "https://www.thahakhabar.com/uploads/posts/congress-banda-satra-(7)-1791187845.jpg",
+      "related_sources": [
+        "Thaha Khabar"
+      ],
+      "id": "39c21a674a5419f4",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 104.9,
+      "story_size": 1,
+      "image_local": "images/news_befcf2d588296b2f3cae.jpg"
+    },
+    {
+      "title": "भन्सार छली ल्याइएका १० लाखभन्दा बढीका सामान बरामद",
+      "link": "https://www.onlinekhabar.com/2026/10/2033090/goods-worth-over-1-million-rupees-smuggled-in-through-customs-seized",
+      "description": "२० असोज, काठमाडौं । पर्साको वीरगञ्जबाट भन्सार छली भारतबाट ल्याइएका १० लाख ६ हजार ७ सय ६० रुपैयाँ बराबरका मोबाइल, कस्मेटिक सामान र स्याउ बरामद गरिएको छ। वीरगञ्ज महानगरपालिका–१४ गण्डक चोकबाट भारतबाट भन्सार छली ल्याइएका एप्पल कम्पनीका आइफोन–१७ तीन थान र आइफोन–१५ एक थान बरामद गरिएको हो। बरामद मोबाइलको मूल्य पाँच लाख ५२ हजार २१० [&#8230;]",
+      "published": "2026-10-06T00:55:13+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "7a49c3d2754be63e",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 104.4,
+      "story_size": 1
+    },
+    {
+      "title": "कांग्रेस महाधिवेशन : आज उम्मेदवारको मनोनयन दर्ता",
+      "link": "https://khabarhub.com/2026/06/1033780/",
+      "description": "काठमाडौँ– काठमाडौँको खुलामञ्चमा जारी नेपाली कांग्रेसको १५औँ महाधिवेशन अन्तर्गत आज नयाँ कार्यसमितिका लागि उम्मेदवारको मनोनयन दर्ताको कार्यक्रम रहेको छ । केन्द्रीय निर्वाचन समितिका सदस्यसचिव राजु कटुवालका अनुसार आज बिहान १० बजेदेखि दिउँसो ३ बजेसम्म विभिन्न पदका लागि उम्मेदवारको दरखास्त तथा मनोनयनपत्र दर्ता गर्ने समय निर्धारण गरिएको छ । यस्तै, आज अपराह्न साढे ४ बजे उम्मेदवारको [&#8230;]",
+      "published": "2026-10-06T00:48:44+00:00",
+      "source": "Khabarhub",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "c3c2d98a77ef0975",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 103.9,
+      "story_size": 1
+    },
+    {
+      "title": "नेपाललाई पुनर्निर्माणमा उल्लेख्य सहयोग गर्ने विश्व बैंकको प्रतिबद्धता",
+      "link": "https://baahrakhari.com/detail/503907",
+      "description": "",
+      "published": "2026-10-06T06:33:24+05:45",
+      "source": "Baahrakhari",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "a1d61dd97e4bb046",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 103.9,
+      "story_size": 1
+    },
+    {
+      "title": "कैलाली, बर्दिया र दाङमा भारी वर्षा, आज र भोलि पनि पानी पर्ने",
+      "link": "https://www.onlinekhabar.com/2026/10/2033088/heavy-rain-in-kailali-bardiya-and-dang-rain-expected-today-and-tomorrow",
+      "description": "गत १२ घण्टाको अवधिमा कैलाली, बर्दिया र दाङमा भारी वर्षा भएको छ । मौसमविद्का अनुसार आज पहाडी भूभागका केही स्थान तथा तराईका थोरै स्थानमा मेघगर्जन/चट्याङ्ग सहित मध्यम वर्षाको सम्भावना छ ।",
+      "published": "2026-10-06T00:48:03+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "59a930ffa23d2da4",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 103.9,
+      "story_size": 1
+    },
+    {
+      "title": "नेपाली उत्पादनलाई युरोपेली बजारमा पुर्‍याउने लक्ष्यसहित लक्जेम्बर्गमा लगानी सम्मेलन",
+      "link": "https://www.onlinekhabar.com/2026/10/2033082/investment-summit-in-luxembourg-aims-to-bring-nepali-products-to-european-market",
+      "description": "२० असोज, बार्सिलोना। नेपाली व्यवसायी संघ युरोप (नेबा युरोप) ले आगामी २९ र ३० नोभेम्बरमा लक्जेम्बर्गमा ‘नेपाल-युरोप प्रविधि, व्यापार तथा लगानी सम्मेलन-२०२६’ आयोजना गर्ने भएको छ। सम्मेलनबारे जानकारी दिन सोमबार आयोजित पत्रकार सम्मेलनमा आयोजकले युरोपमा रहेका नेपाली व्यवसायी, लगानीकर्ता तथा दोस्रो पुस्ताका युवालाई नेपालसँग जोड्दै युरोपेली लगानी र प्रविधि नेपाल भित्र्याउने सम्मेलनको मुख्य उद्देश्य रहेको [&#8230;]",
+      "published": "2026-10-06T00:46:05+00:00",
+      "source": "OnlineKhabar",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "e55b8a9c19e61625",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 103.7,
+      "story_size": 1
+    },
+    {
+      "title": "कस्तो छ आजको विदेशी मुद्राको विनिमयदर ?",
+      "link": "https://nepalsamaya.com/detail/146710",
+      "description": "",
+      "published": "2026-10-06T06:29:00+05:45",
+      "source": "Nepal Samaya",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Nepal Samaya"
+      ],
+      "id": "1886a8ad95b01850",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 103.6,
+      "story_size": 1
+    },
+    {
+      "title": "न्याय परिषद् बैठक आज बस्दै",
+      "link": "https://www.onlinekhabar.com/2026/10/2033085/judicial-council-meeting-to-be-held-today",
+      "description": "२० असोज, काठमाडौं । प्रधानन्यायाधीश मनोजकुमार शर्माले न्याय परिषद् बैठक बोलाएका छन् । बैठक आज मंगलबार दिउँसो १ बजेका लागि बोलाइएको हो । सर्वोच्च अदालतमा रिक्त न्यायाधीश पदपूर्तिका लागि सिफारिस लगायतका विषयमा छलफल गर्न परिषद् बैठक बस्न लागेको स्रोतले बतायो । सर्वोच्च अदालतमा हाल चार न्यायाधीश पद रिक्त छन् । प्रधानन्यायाधीश मनोजकुमार शर्मा अध्यक्ष रहेको [&#8230;]",
+      "published": "2026-10-06T00:41:47+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "3d2dd6e2a09591d7",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 103.5,
+      "story_size": 1
+    },
+    {
+      "title": "दशैं अग्रिम टिकट बुकिङबारे आज छलफल",
+      "link": "https://www.onlinekhabar.com/2026/10/2033081/discussion-today-on-dashain-advance-ticket-booking",
+      "description": "२० असोज, काठमाडौं । दशैंलाई अग्रिम टिकट बुकिङका सम्बन्धमा यातायात व्यवस्था विभागले आज यातायात व्यवसायीसँग छलफल गर्ने भएको छ । यातायात व्यवस्था विभागको सभा हलमा आज बिहान ११ बजे अग्रिम टिकट बुकिङबारे छलफल हुनेछ । विभागले छलफलका लागि प्रहरी प्रधान कार्यालय राजमार्ग तथा सुरक्षा महाशाखा, काठमाडौं उपत्यका ट्राफिक प्रहरी कार्यालय, नेपाल यातायात व्यवसायी राष्ट्रिय महासंघ, [&#8230;]",
+      "published": "2026-10-06T00:39:04+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "a9bd2ffbc64113b1",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 103.3,
+      "story_size": 1
+    },
+    {
+      "title": "मंगलबार यस्तो छ विदेशी मुद्राको विनिमय दर",
+      "link": "https://www.ratopati.com/story/597486/this-is-the-foreign-exchange-rate-on-tuesday",
+      "description": "काठमाडौँ । नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमय दर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५३ रुपैयाँ ७८ पैसा र बिक्रीदर १५४ रुपैयाँ ३८ पैसा निर्धारण गरिएको छ",
+      "published": "2026-10-05T23:45:00+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://rpcdn.ratopati.com/media/albums/forex_3HNlavACP4.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "55bfe499dfd217ce",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 102.7,
+      "story_size": 1,
+      "image_local": "images/news_172e31f280004e3751b5.jpg"
+    },
+    {
+      "title": "नेपाल–ब्राजिल सहकार्य र साझेदारीलाई थप उचाइमा पुर्‍याउँछौंः परराष्ट्रमन्त्री खनाल",
+      "link": "https://www.setopati.com/politics/400093",
+      "description": "नेपाल र ब्राजिलबीच कूटनीतिक सम्बन्ध स्थापना भएको ५० वर्ष पूरा भएको अवसरमा दुवै देशका परराष्ट्रमन्त्रीले एक–अर्कालाई बधाई सन्देश आदानप्रदान गरेका छन्।",
+      "published": "2026-10-06T06:14:00+05:45",
+      "source": "Setopati",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "193a824eaeb05730",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 102.6,
+      "story_size": 1
+    },
+    {
+      "title": "जमुनाहा नाकामा यात्रु सहायता कक्ष",
+      "link": "https://www.ratopati.com/story/597488/passenger-assistance-desk-at-jamunaha-checkpoint",
+      "description": "बाँके । भारतबाट दसैँ मनाउन स्वदेश फर्किने नेपालीको सहज र सुरक्षित यात्राका लागि नेपाल–भारत जमुनाहा नाकामा यात्रु सहायता कक्ष स्थापना गरिएको छ । बाँकेका प्रमुख जिल्ला अधिकारी दिलकुमार तामाङले भारतबाट चाडपर्व मनाउन घर फर्किने नेपालीलाई सीमावर्ती",
+      "published": "2026-10-05T23:39:59+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/uZaryaXxpy.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "1745c28df9a11c33",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 102.3,
+      "story_size": 1,
+      "image_local": "images/news_3d7da0ed7eca76f95697.jpg"
+    },
+    {
+      "title": "चाडपर्वलाई सुरक्षित र मर्यादित बनाउन खोटाङमा सात बुँदे प्रतिबद्धता पत्र जारी",
+      "link": "https://www.ratopati.com/story/597487/seven-point-commitment-letter-issued-in-khotang-to-make-festivals-safe-and-dignified",
+      "description": "खोटाङ । दसैँ/तिहार तथा छठ पर्वलाई सुरक्षित र मर्यादित बनाउने उद्देश्यका साथ खोटाङमा सात बुँदे प्रतिबद्धता पत्र जारी गरिएको छ । जिल्ला सुरक्षा समिति खोटाङले सोमबार दिक्तेलस्थित जिल्ला प्रशासन कार्यालयमा आयोजना गरेको सर्वदलीय/सर्वपक्षीय भेलामा सहभागी सरोकारवाला",
+      "published": "2026-10-05T23:38:39+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://rpcdn.ratopati.com/media/albums/khotang_deMYPrhSWV.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "5771d0a2f82a125c",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 102.3,
+      "story_size": 1,
+      "image_local": "images/news_e8169790cdef3fbb0397.jpg"
+    },
+    {
+      "title": "बेलायती विश्वविद्यालयको लाइसेन्स निलम्बन, नेपाली विद्यार्थी समेत प्रभावित",
+      "link": "https://www.onlinekhabar.com/2026/10/2033062/british-universitys-license-suspended-nepali-students-also-affected",
+      "description": "यदि सरकारले विद्यार्थीको भिसा रद्द गरिदियो भने बेलायतमै बसेर अध्ययन गर्न चाहनेले नयाँ प्रायोजक (स्पोन्सर) खोजेर नयाँ भिजाका लागि आवेदन दिनुपर्छ । भिजा रद्द भएको मितिदेखि ६० दिनको समयभित्र नयाँ प्रायोजक नखोजे र नयाँ भिजाका लागि आवेदन नदिए विद्यार्थीले बेलायत छोड्नुपर्ने हुन्छ ।",
+      "published": "2026-10-06T00:20:10+00:00",
+      "source": "OnlineKhabar",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "e3f93d98f79c9c90",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 102.0,
+      "story_size": 1
+    },
+    {
+      "title": "वासस्थान मासिँदै जाँदा दुर्लभ बन्दै कछुवा",
+      "link": "https://www.ratopati.com/story/597485/turtles-are-becoming-rare-as-their-habitats-are-destroyed",
+      "description": "सुनसरी । नदी, पोखरी, तालतलैया, सिमसार तथा चुरे क्षेत्रका खोल्सामा सहजै देखिने कछुवा पछिल्लो समय प्राकृतिक वासस्थान मासिँदै जाँदा दुर्लभ बन्दै गएको छ । पानीका स्रोत तथा सिमसार अतिक्रमण, अवैध सिकार तथा जल प्रदूषणका कारण",
+      "published": "2026-10-05T23:32:29+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/turtle-kachuwa_rboTVG7qn9.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "adb40054d91bb770",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 101.8,
+      "story_size": 1,
+      "image_local": "images/news_3a8db73c72ab79f578d3.jpg"
+    },
+    {
+      "title": "जो बेल्जियममा ६०० भन्दा बढी रेस्टुरेन्टलाई बेच्छन् सामान",
+      "link": "https://www.setopati.com/global/europe/399962",
+      "description": "उनी बेल्जियम पुग्दा रेस्टुरेन्टमा भाँडा माझ्ने र किचन हेल्परको काम गर्थे। आज उनी ६ सयभन्दा बढी रेस्टुरेन्टको आपूर्तिकर्ता बनेका छन्। यो यात्रा कसरी तय भयो?",
+      "published": "2026-10-06T05:58:00+05:45",
+      "source": "Setopati",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "a5a75608266ecaa3",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 101.5,
+      "story_size": 1
+    },
+    {
+      "title": "सुन्तलामा रोग लागेपछि किसान चिन्तामा",
+      "link": "https://www.ratopati.com/story/597484/farmers-worried-after-orange-disease",
+      "description": "भोजपुर । सुन्तलाको बगानमा फल झर्ने र विभिन्न रोगको प्रकोप देखिएपछि भोजपुरका किसान चिन्तित भएका छन् । सुन्तलाका दाना परिपक्व नहुँदै भेट्नो कुहिएर खस्न थालेपछि वर्षभरिको मेहनत र लगानी खेर जाने भन्दै किसान पिरोलिएका हुन्",
+      "published": "2026-10-05T23:24:44+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/h2TBAAzcI8.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "885373a9d38380ad",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 101.3,
+      "story_size": 1,
+      "image_local": "images/news_73318749b3da4d0c587d.jpg"
+    },
+    {
+      "title": "महोत्तरीमा ओल किसानको व्यस्तता बढ्यो",
+      "link": "https://www.ratopati.com/story/597483/the-busyness-of-oil-farmers-in-mahottari-has-increased",
+      "description": "महोत्तरी । चाडपर्व सुरु हुनै लागेपछि महोत्तरीका ओल (माटोमुनि फल्ने मधेसको खास तरकारीबाली) किसानको व्यस्तता थप बढेको छ । दसैँ, तिहार र छठलगायत चाडबाड नजिकिँदै गर्दा अहिलेदेखि नै ओल खन्न र भण्डारण गर्न स्थानीय किसान लागेका",
+      "published": "2026-10-05T23:21:32+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/dmghGHpmnM.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "33315dfc35e0df01",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 101.1,
+      "story_size": 1,
+      "image_local": "images/news_e5dc9ca9c7b09eb3fc3c.jpg"
+    },
+    {
+      "title": "आजको राशिफल : कुन राशिलाई शुभ, कुनलाई मध्यम ?",
+      "link": "https://www.ratopati.com/story/597482/todays-horoscope-which-zodiac-sign-is-auspicious-which-is-average",
+      "description": "आजको पञ्चाङ्ग वि.सं.२०८३ साल असोज २० गते । मंगलबार । इस्वी सन् २०२६ अक्टोबर ६ तारिख । नेपाल संवत् ११४६ । रौद्र संवत्सर । दक्षिणायन । शरद ऋतु । श्रीशाके १९४८ । आश्विन कृष्णपक्ष । तिथि–",
+      "published": "2026-10-05T23:16:10+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/horoscope_jI7SXu6xgn.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "c77825ef80eee605",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 100.8,
+      "story_size": 1,
+      "image_local": "images/news_6911ca8cbc2f7c49bda9.jpg"
+    },
+    {
+      "title": "अमलेखगन्ज-लोथर पेट्रोलियम पाइपलाइन : ‘ल्याण्ड फिलिङ’को काम धमाधम",
+      "link": "https://www.onlinekhabar.com/2026/10/2033052/amlekhgunj-lothar-petroleum-pipeline-landfilling-work-in-full-swing",
+      "description": "परियोजनअन्तर्गत राप्ती नगरपालिका–१ लोथरस्थित करिब २३ बिघा १२ कट्ठामा अत्याधुनिक सुविधासहितको ग्रीन फिल्ड टर्मिनल निर्माण हुनेछ ।",
+      "published": "2026-10-05T23:45:24+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "c187a5a06bf0ce90",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 99.7,
+      "story_size": 1
+    },
+    {
+      "title": "मंगलबारका लागि विदेशी मुद्राको विनिमयदर यस्तो छ",
+      "link": "https://khabarhub.com/2026/06/1033775/",
+      "description": "काठमाडौँ– नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५३ रुपैयाँ ७८ पैसा र बिक्रीदर १५४ रुपैयाँ ३८ पैसा निर्धारण गरिएको छ । युरोपियन युरो एकको खरिददर १७२ रुपैयाँ ३२ पैसा र बिक्रीदर १७२ रुपैयाँ ९९ पैसा, युके पाउन्ड स्ट्रलिङ एकको खरिददर २०३ रुपैयाँ [&#8230;]",
+      "published": "2026-10-05T23:45:13+00:00",
+      "source": "Khabarhub",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "a021bde9f8b297dd",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 99.7,
+      "story_size": 1
+    },
+    {
+      "title": "आज मंगलबार, भगवान गणेशको पूजा गर्नुहोस्",
+      "link": "https://khabarhub.com/2026/06/1033772/",
+      "description": "आज २०८३ साल असोज २० गते मंगलबार सन् २०२६ अक्टोबर ६ तारिख । असोज कृष्ण पक्षको एकादशी तिथि । मंगलबार गणेशको पूजा, अर्चना र व्रत बस्दा राम्रो फल प्राप्त हुने हिन्दू धर्म शास्त्रमा उल्लेख गरिएको छ। कुनै पनि शुभ कार्यको सुरुवात गर्दा सबैभन्दा पहिले भगवान गणेशको पूजा गर्ने प्रचलन छ। मंगलबार भगवान श्री गणेशको सबैभन्दा [&#8230;]",
+      "published": "2026-10-05T23:40:42+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "0afde0dbe8dceddc",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 99.4,
+      "story_size": 1
+    },
+    {
+      "title": "आज २०८३ साल असोज २० गते मंगलबारको राशिफल",
+      "link": "https://khabarhub.com/2026/06/1033724/",
+      "description": "काठमाडौँ – २०८३ साल असोज २० गते मंगलबार सन् २०२६ अक्टोबर ६ तारिख। असोज कृष्ण पक्षको एकादशी तिथि, । नक्षत्र अनुसार १२ वटा राशि हुन्छन्। चन्द्रमा अनुसार राशि र नक्षत्रका पद अनुसार नाम राखिन्छ। त्यही आधारमा व्यक्तिको दैनिकीको विषयमा भविष्यवाणी हुन्छ। खबरहबका लागि ज्योतिष पण्डित सूर्यनाथ लुइटेलले तयार पार्नुभएको आजको फलादेशः मेष : दिन राम्रो [&#8230;]",
+      "published": "2026-10-05T23:34:49+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "65d14f60764b602c",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 99.0,
+      "story_size": 1
+    },
+    {
+      "title": "घट्यो अमेरिकी डलरको भाउ, अष्ट्रेलियन र क्यानेडियन डलरको बढ्यो",
+      "link": "https://www.onlinekhabar.com/2026/10/2033036/us-dollar-falls-australian-and-canadian-dollars-rise",
+      "description": "आज अमेरिकी डलर, युरो, पाउन्ड स्टर्लिङ र स्वीस फ्र्यांकको भाउ घटेको छ । अष्ट्रेलियन र क्यानेडियन डलर भाउ भने बढेको छ ।",
+      "published": "2026-10-05T23:15:29+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "1bae8b66a6658a51",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 97.7,
+      "story_size": 1
+    },
+    {
+      "title": "देउखुरीमा बस र अटो एकापसमा ठोकिँदा दुई जनाको मृत्यु",
+      "link": "https://khabarhub.com/2026/05/1033768/",
+      "description": "दाङ – देउखुरीमा बस र अटो एकापसमा ठोकिँदा भएको दुर्घटनामा दुई जनाको मृत्यु छ भने तीन जना घाइते भएका छन् । लमहीबाट भालुवाङतर्फ जाँदै गरेको लुप्र०२–००१ ह १५७१ नम्बरको अटो र भालुवाङबाट लमहीतर्फ आउँदै गरेको लुप्र ०२–००१ ख ०१११ नम्बरको यात्रुवाहक बस लमही नगरपालिका-३ मजगाउँमा एकापसमा ठोक्किदा भएको दुर्घटनामा दुई जनाको मृत्यु भएको जिल्ला प्रहरी [&#8230;]",
+      "published": "2026-10-05T16:47:50+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub",
+        "Lokaantar"
+      ],
+      "id": "8e9317fe333af4fb",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 95.9,
       "story_size": 2
     },
     {
@@ -148,9 +1582,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.7,
-      "story_size": 1,
-      "image_local": "images/news_6d87f0d7bfa04a32b31c.webp"
+      "score": 90.9,
+      "story_size": 1
     },
     {
       "title": "नेसन्स लिगमा फ्रान्सको सानदार पुनरागमन जित, बेल्जियम ४–१ ले पराजित",
@@ -167,28 +1600,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.3,
-      "story_size": 1,
-      "image_local": "images/news_e0dec372aae4ca2e1c3d.webp"
-    },
-    {
-      "title": "कांग्रेस उपसभापतिमा उम्मेदवारी दिने देवराज चालिसेको घोषणा",
-      "link": "https://khabarhub.com/2026/05/1033739/",
-      "description": "काठमाडाैं &#8211; नेपाली कांग्रेसका प्रवक्ता देवराज चालिसेले पार्टीको १५औँ महाधिवेशनमा उपसभापति पदमा उम्मेदवारी दिने घोषणा गरेका छन् । विशेष महाधिवेशनपछि पार्टी प्रवक्ताको जिम्मेवारी सम्हाल्दै आएका चालिसेले कांग्रेसलाई समयानुकूल रूपान्तरण गर्दै संगठनलाई थप सुदृढ र प्रभावकारी बनाउने उद्देश्यसहित उपसभापतिमा उम्मेदवारी दिन लागेको बताएका छन्। चालिसेले मंगलबार उम्मेदवारी दर्ता गर्ने कार्यक्रम रहेको जानकारी दिएका छन्। उनले आफू [&#8230;]",
-      "published": "2026-10-05T15:28:48+00:00",
-      "source": "Khabarhub",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
-        "Setopati"
-      ],
-      "id": "592c8f92f417ad6f",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 107.3,
-      "story_size": 2
+      "score": 90.6,
+      "story_size": 1
     },
     {
       "title": "दाङमा यात्रु सहायता कक्ष",
@@ -205,9 +1618,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.4,
-      "story_size": 1,
-      "image_local": "images/news_d7d8d893ad169da67014.jpg"
+      "score": 89.7,
+      "story_size": 1
     },
     {
       "title": "पहिरोले खोसेको जलेश्वरवासीको सपना",
@@ -224,28 +1636,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.8,
-      "story_size": 1,
-      "image_local": "images/news_47e1ecba6183b65ba4e0.jpg"
-    },
-    {
-      "title": "संवेदनशील सूचना चुहावटको आरोपमा सशस्त्रका एआईजी वंशीराज दाहाल निलम्बित",
-      "link": "https://kendrabindu.com/nigrani/561593/",
-      "description": "काठमाडौं । सशस्त्र प्रहरी बलका प्रहरी अतिरिक्त महानिरीक्षक (एआईजी) वंशीराज दाहाललाई सरकारले सुरक्षासँग सम्बन्धित संवेदनशील सूचना चुहावट गरेको आरोपमा निलम्बन गरेको छ। गृह मन्त्रालयका प्रवक्ता आनन्दराज काफ्लेले विज्ञप्ति जारी गर्दै दाहालले निजामती तथा प्रहरी कर्मचारीले पालना गर्नुपर्ने पदीय आचरणविपरीत काम गरेको भन्दै निलम्बन गरिएको जानकारी दिएका छन्। सशस्त्र प्रहरी बलबाट कारबाहीका लागि सिफारिस प्राप्त भएपछि [&#8230;]",
-      "published": "2026-10-05T14:07:10+00:00",
-      "source": "Kendrabindu",
-      "category": "tech",
-      "image": "",
-      "related_sources": [
-        "Kendrabindu",
-        "OnlineKhabar"
-      ],
-      "id": "d1deab74db6ce5ea",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 101.9,
-      "story_size": 2
+      "score": 88.0,
+      "story_size": 1
     },
     {
       "title": "भन्सार छलीका सामान बरामद",
@@ -262,9 +1654,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.4,
-      "story_size": 1,
-      "image_local": "images/news_106d400740d78f6b9960.jpg"
+      "score": 84.7,
+      "story_size": 1
     },
     {
       "title": "दसैँ लक्षित ‘सिद्धार्थ सडक खाना महोत्सव’",
@@ -281,9 +1672,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.0,
-      "story_size": 1,
-      "image_local": "images/news_8e459b17401ec0ce6e4c.webp"
+      "score": 84.2,
+      "story_size": 1
     },
     {
       "title": "कांग्रेस महाधिवेशन : आज उम्मेदवारी दर्तादेखि दोस्रो नामावली प्रकाशनसम्मको कार्यसूची",
@@ -300,12 +1690,11 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.6,
-      "story_size": 1,
-      "image_local": "images/news_ad57f2cd2a3ef32c0401.webp"
+      "score": 83.8,
+      "story_size": 1
     },
     {
-      "title": "कांग्रेस महाधिवेशनको तेस्रो दिन : आज के–के हुँदैछ ?",
+      "title": "LIVE UPDATES : कांग्रेसको मतदाता नामावली प्रकाशित, साढे १२ देखि मनोनयन दर्ता",
       "link": "https://www.ratopati.com/story/597474/third-day-of-the-congress-general-convention-whats-happening-today",
       "description": "नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत आज तेस्रो दिन । आइतबार उद्घाटन भएको महाधिवेशन सोमबार बन्दसत्र सुरु हुनुअघि बसेको केन्द्रीय समिति बैठकले विधान संशोधन गर्दै केन्द्रीय समितिको आकार बढाउने निर्णय गरेको छ ।",
       "published": "2026-10-05T18:56:52+00:00",
@@ -315,13 +1704,12 @@
       "related_sources": [
         "Ratopati"
       ],
-      "id": "fd7d94a80f154420",
+      "id": "b5482a0b5d639ade",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.2,
-      "story_size": 1,
-      "image_local": "images/news_1a129da3786220ee9648.webp"
+      "score": 83.5,
+      "story_size": 1
     },
     {
       "title": "बैङ्किङ कसुरमा फरार रहेका एक पक्राउ",
@@ -338,577 +1726,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.2,
-      "story_size": 1,
-      "image_local": "images/news_7193babaa33fdeee40dc.jpg"
-    },
-    {
-      "title": "मुग्लिन–मलेखु सडक स्तरोन्नतिले पायो तीव्रता (फोटोफिचर)",
-      "link": "https://www.ratopati.com/story/597472/muglin-malekhu-road-upgrade-gains-momentum-photo-feature",
-      "description": "काठमाडौँ । मुग्लिन–नागढुंगा सडक आयोजनाअन्तर्गत पश्चिम खण्ड (मुग्लिन–मलेखु) स्तरोन्नतिको कामले तीव्रता पाएको छ । मौसममा सुधार आएसँगै रोकिएका तथा सुस्त बनेका निर्माण कार्यहरू पुनः धमाधम अघि बढेका हुन् । कुल ३८.८६ किलोमिटर लम्बाइ रहेको यो रणनीतिक",
-      "published": "2026-10-05T18:38:20+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/mugling-malekhu-road_npl-5_Y2mlwtnCm4.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "60f0039e4f6a4c03",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 99.0,
-      "story_size": 1,
-      "image_local": "images/news_ccac276ba50c469c710a.webp"
-    },
-    {
-      "title": "सरकार सुकुम्बासी समस्यामुक्त जिल्ला घोषणा गर्ने दिशातर्फ अघि बढेको छ : प्रधानमन्त्री शाह",
-      "link": "https://gorkhapatraonline.com/news/225561",
-      "description": "गोरखापत्र अनलाइन काठमाडौँ, असोज १९ गते । प्रधानमन्त्री वालेन्द्र शाहले सरकार सुकुम्बासी समस्यामुक्त जिल्ला घोषणा गर्ने दिशातर्फ अघि बढेको बताउनुभएको छ । प्रधानमन्त्री शाहले सोमबार...",
-      "published": "2026-10-06T00:05:21+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "politics",
-      "image": "https://gorkhapatraonline.com/storage/media/386646/conversions/PM-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "5976e813f47d4cbd",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 97.8,
-      "story_size": 1,
-      "image_local": "images/news_5825e318e254f507dfc7.jpg"
-    },
-    {
-      "title": "१२ बजे १२ समाचार : ऋणको चर्को ब्याजले थलिँदै नेपाल वायुसेवा निगम, बाढी पीडितलाई राहतका लागि अनेक सर्त",
-      "link": "https://www.ratopati.com/story/597471/12-oclock-12-news-nepal-airlines-corporation-is-struggling-with-high-interest-on-loans-many-conditions-for-relief-to-flood-victims",
-      "description": "काठमाडौँ । आज दिनभरका मुख्य १२ घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति ‘१२ बजे १२ समाचार’मा प्रस्तुत गरेका छौँ– १. सशस्त्र प्रहरीका एआईजी दाहाल निलम्बित सशस्त्र प्रहरी बलका अतिरिक्त महानिरीक्षक (एआईजी) वंशीराज दाहाललाई गृह मन्त्रालयले निलम्बन गरेको छ",
-      "published": "2026-10-05T18:18:39+00:00",
-      "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/cover12_Sf7m8zFnqz.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "21c4b175edd24434",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 97.7,
-      "story_size": 1,
-      "image_local": "images/news_868727b229293196e497.webp"
-    },
-    {
-      "title": "४० दिनसम्म सञ्चालन गरिएको उद्धारको काम स्थगन",
-      "link": "https://gorkhapatraonline.com/news/225560",
-      "description": "गोरखापत्र समाचारदाताकाठमाडौँ, असोज १९ गते । गएको भदौ १० गते भोटेकोशी नदीमा आएको विनाशकारी हिमबाढीपछि ४० दिनसम्म सञ्चालन गरिएको खोज तथा उद्धारको काम सरकारले स्थगित गरेको छ। जीवित उद...",
-      "published": "2026-10-05T23:52:12+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "society",
-      "image": "https://gorkhapatraonline.com/storage/media/386644/conversions/uddhar-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "8078e98eb2822d3f",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 96.9,
-      "story_size": 1,
-      "image_local": "images/news_39023c53c1a8f52c8e89.jpg"
-    },
-    {
-      "title": "जाजरकोटमा पछिल्लो ६ घण्टामा धेरै भारी वर्षा, सतर्कता अपनाउन आग्रह",
-      "link": "https://www.ratopati.com/story/597470/very-heavy-rain-in-jajarkot-in-the-last-6-hours-urges-caution",
-      "description": "काठमाडौँ । जाजरकोट जिल्लामा पछिल्लो ६ घण्टाको अवधिमा १०२.६ मिलिमिटर वर्षा मापन भएको छ । जाजरकोटस्थित मौसम मापन केन्द्रका अनुसार उक्त अवधिमा परेको यो पानी ‘धेरै भारी वर्षा’ हो, जुन पछिल्लो ६ घण्टामा देशभरमै मापन",
-      "published": "2026-10-05T18:06:09+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://rpcdn.ratopati.com/media/albums/mausam-bibhag_ZDEjuogvpX.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "1a7ed858486ad420",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 96.8,
-      "story_size": 1,
-      "image_local": "images/news_860d739ca1979b0dbac1.jpg"
-    },
-    {
-      "title": "स्रोतको टुङ्गो नलाग्दा सुदूरपश्चिममा बजेट अन्योल : सोमबार ल्याउने भनेका मुख्यमन्त्री बिरामी",
-      "link": "https://www.ratopati.com/story/597469/budget-uncertainty-in-the-far-west-as-sources-are-not-finalized-chief-minister-who-said-he-would-bring-it-on-monday-is-ill",
-      "description": "धनगढी । चालु आर्थिक वर्ष सुरु भएको झन्डै तीन महिना पुग्न लाग्दासमेत सुदूरपश्चिम प्रदेश सरकारले बजेट ल्याउन सकेको छैन । प्रदेशसभामा बजेट प्रस्तुत हुन नसक्दा सरकारका दैनिक प्रशासनिक कामदेखि विकास निर्माणका समग्र गतिविधि ठप्प बनेका",
-      "published": "2026-10-05T17:59:51+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/sudurpaschim-gov_wR24MOjjQh.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "2ed3b0ef58571a64",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 96.4,
-      "story_size": 1,
-      "image_local": "images/news_f9ff31a4ec345ec0334c.webp"
-    },
-    {
-      "title": "घुस लिएको आरोपमा मुद्दा दायर",
-      "link": "https://gorkhapatraonline.com/news/225558",
-      "description": "काठमाडौँ, असोज १९ गते । अख्तियार दुरुपयोग अनुसन्धान आयोगले नेपाल विद्युत् प्राधिकरण, इटहरी वितरण केन्द्रमा कार्यरत इञ्जिनियर कृष्णनारायण यादवविरुद्ध विशेष अदालतमा मुद्दा दायर गरेको...",
-      "published": "2026-10-05T23:41:08+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/386642/conversions/CIAA-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "dc6e169f7b98019a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 96.2,
-      "story_size": 1,
-      "image_local": "images/news_08ff69fcc64d8cbf10f3.jpg"
-    },
-    {
-      "title": "यस्तो छ कांग्रेस केन्द्रीय कार्यसमितिको निर्वाचन हुने पद, समूह र सङ्ख्या (सूचीसहित)",
-      "link": "https://www.ratopati.com/story/597468/here-are-the-positions-groups-and-numbers-to-be-elected-to-the-congress-central-working-committee-with-list",
-      "description": "काठमाडौँ । नेपाली कांग्रेसको १५औँ महाधिवेशनमा केन्द्रीय कार्यसमितिका विभिन्न पदका लागि निर्वाचन हुने भएको छ । कांग्रेसको विधान, निर्वाचन निर्देशिका २०८३ तथा महाधिवेशनको बन्दसत्रबाट स्वीकृत पदअनुसार केन्द्रीय कार्यसमितिका पद, समूह र सङ्ख्या निर्धारण गरिएको निर्वाचन समितिले",
-      "published": "2026-10-05T17:36:33+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/nepali-congress-banda-satra_gaganthapa_npl-2_NHxvgYtOOr.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "5bf7a99e309cf47c",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 94.8,
-      "story_size": 1,
-      "image_local": "images/news_70555862ab858fad8b2b.webp"
-    },
-    {
-      "title": "महाधिवेशनले मिलाउला कांग्रेसलाई ? (भिडियो)",
-      "link": "https://www.ratopati.com/story/597467/will-the-general-convention-unite-the-congress-video",
-      "description": "काठमाडौँ । नेपाली कांग्रेसको राजधानीमा आइतबारदेखि जारी १५औँ महाधिवेशनको चहलपहलसँगै पार्टीभित्र देखिएको विवाद समाधान हुने र पार्टी फेरि एकताबद्ध हुने अपेक्षा गरिएको छ । महाधिवेशनको प्रक्रियामा पार्टीका शीर्ष नेतादेखि कार्यकर्तासम्मले पार्टीलाई कसरी सुदृढ र एकताबद्ध बनाउने",
-      "published": "2026-10-05T17:26:51+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/congress-banner-news_OJcKjuBQiw.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "c70f37c4ea199a6b",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 94.2,
-      "story_size": 1,
-      "image_local": "images/news_39a5691ca5891d882e2b.webp"
-    },
-    {
-      "title": "सल्यानमा एकैदिन थप ५५ जनामा स्क्रब टाइफस पुष्टि",
-      "link": "https://gorkhapatraonline.com/news/225556",
-      "description": "शंकर केसीशारदा (सल्यान), असोज १९ गते । सल्यानमा एकै दिन थप ५५ जनामा स्क्रब टाइफस रोगको सङ्क्रमण पुष्टि भएको छ । स्वास्थ्य सेवा कार्यालय सल्यानका अनुसार सोमबार जिल्लाको दार्मा गाउँप...",
-      "published": "2026-10-05T23:07:28+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/386640/conversions/01-Photo-Salyan-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "763f851e7c0439e4",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 93.9,
-      "story_size": 1,
-      "image_local": "images/news_252b70649dcb514f1d47.jpg"
-    },
-    {
-      "title": "देवेन्द्रराज कण्डेलले कांग्रेस सहमहामन्त्रीमा उम्मेदवारी दिने",
-      "link": "https://www.ratopati.com/story/597466/devendra-raj-kandel-to-file-candidacy-for-nepali-congress-joint-general-secretary-post",
-      "description": "बुटवल । नेपाली कांग्रेसका नेता देवेन्द्रराज कण्डेलले पार्टीको १५औँ महाधिवेशनमा खुलातर्फ केन्द्रीय सहमहामन्त्री पदमा उम्मेदवारी दिने घोषणा गरेका छन् । सोमबार साँझ सामाजिक सञ्जालमार्फत उम्मेदवारी घोषणा गर्दै कण्डेलले महाधिवेशन प्रतिनिधि, पार्टीका विभिन्न तहका नेता तथा सभापति,",
-      "published": "2026-10-05T17:21:41+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/devraj_f6n8mlAJF3.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "cac72ab812282e09",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 93.9,
-      "story_size": 1,
-      "image_local": "images/news_e8551b41498686f7a2df.webp"
-    },
-    {
-      "title": "ताप्लेजुङमा चार दिनमा ९५ क्विन्टल चिनी बिक्री",
-      "link": "https://gorkhapatraonline.com/news/225555",
-      "description": "साहारा लिम्बू फुङलिङ, असोज १९ गते । ताप्लेजुङमा चार दिनको अवधिमा खाद्य व्यवस्था तथा व्यापार कम्पनी लिमिटेडले ९५ क्विन्टल चिनी बिक्री गरेको छ । स्थापना भएको ४८ वर्षपछि ताप्लेजुङमा ब...",
-      "published": "2026-10-05T23:00:43+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/386639/conversions/IMG_2847-(1)-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "1af474e0ba68ad5d",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 93.5,
-      "story_size": 1,
-      "image_local": "images/news_18eeca436c9d1662832b.jpg"
-    },
-    {
-      "title": "पाथीभरामा भेडाको बथानको पूजा",
-      "link": "https://gorkhapatraonline.com/news/225554",
-      "description": "चन्द्र पन्दाकताप्लेजुङ, असोज १९ गते । ताप्लेजुङस्थित प्रसिद्ध तीर्थस्थल पाथीभरामा भेडाको बथानको पूजा गरिएको छ । पाथीभरा उत्पतिको किम्बदन्तीसँग जोडिएको भेडाको बथानको सोमबार पूजा गरि...",
-      "published": "2026-10-05T22:51:53+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/386638/conversions/Veda_pathivara-Taplejung_50-(1)-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "f6834748eeeb454e",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 92.9,
-      "story_size": 1,
-      "image_local": "images/news_261f93044d6ea5482f22.jpg"
-    },
-    {
-      "title": "दैलेख, दाङ, कास्कीसहितका जिल्लामा मध्यमदेखि भारी वर्षा : सतर्कता अपनाउन आग्रह",
-      "link": "https://www.ratopati.com/story/597465/moderate-to-heavy-rain-in-districts-including-dailekh-dang-kaski-caution-urged",
-      "description": "काठमाडौँ । दैलेख, जाजरकोट, दाङ, प्युठान, कपिलवस्तु र कास्की तथा आसपासका क्षेत्रमा पछिल्लो ६ घण्टामा मध्यमदेखि भारी वर्षा मापन गरिएको छ । सोमबार राती ९ः ५० बजे प्राप्त पछिल्लो विवरणअनुसार यी जिल्लाहरू र आसपासका क्षेत्रहरूमा लगातार",
-      "published": "2026-10-05T16:58:28+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/mausam-bivag_61btcy1gq1_egxpRdrl0U.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "78bedb40078efaf6",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 92.3,
-      "story_size": 1,
-      "image_local": "images/news_4381c1831520f519f16e.jpg"
-    },
-    {
-      "title": "सशस्त्र एआईजी बंशीप्रसाद दाहाल निलम्बित",
-      "link": "https://gorkhapatraonline.com/news/225553",
-      "description": "गोरखापत्र समाचारदाताकाठमाडौँ, असोज १९ गते । गृह मन्त्रालयले सशस्त्र प्रहरी बल, नेपालका अतिरिक्त महानिरीक्षक (एआईजी) बंशीप्रसाद दाहाल निलम्बन गरेको छ । सुरक्षासँग सम्बन्धित संवेदनशी...",
-      "published": "2026-10-05T22:39:59+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "tech",
-      "image": "https://gorkhapatraonline.com/storage/media/386637/conversions/home-ministry-Nepal-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "fbb4296f529ca4b2",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 92.1,
-      "story_size": 1,
-      "image_local": "images/news_a7501e43376156b50a91.jpg"
-    },
-    {
-      "title": "कांग्रेस महाधिवेशनको मतदाता नामावली प्रकाशित हुँदै, प्रतिनिधि ७ हजार नाघ्ने",
-      "link": "https://www.ratopati.com/story/597463/voter-list-for-congress-general-convention-being-published-number-of-delegates-to-exceed-7000",
-      "description": "काठमाडौँ । नेपाली कांग्रेसको १५औँ महाधिवेशनको मतदाता नामावली सोमबार राति अबेर प्रकाशनको तयारी भएको छ । निर्वाचन समितिका सदस्यसचिव राजु कटुवालले सोमबार राति १० बजे दिएको जानकारीअनुसार अहिलेसम्म करिब ६ हजार ४४० जना मतदाता दर्ता",
-      "published": "2026-10-05T16:48:39+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/nepali-congress-banda-satra_gaganthapa_npl-10_aL72z1Fk4z.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "84a111f321f79c7a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 91.7,
-      "story_size": 1,
-      "image_local": "images/news_7815dac0ab72b61a221f.webp"
-    },
-    {
-      "title": "सशस्त्रका एआइजी दाहाल निलम्बित",
-      "link": "https://www.thahakhabar.com/detail/309874",
-      "description": "",
-      "published": "2026-10-05T22:30:00+05:45",
-      "source": "Thaha Khabar",
-      "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/Bamshiraj-Dahal-1791218598.jpg",
-      "related_sources": [
-        "Thaha Khabar"
-      ],
-      "id": "9a0c5997ff8bd5a6",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 91.4,
-      "story_size": 1,
-      "image_local": "images/news_e2f1516a94022f92b12d.jpg"
-    },
-    {
-      "title": "नेपाल–ब्राजिल सहकार्य र साझेदारीलाई थप उचाइमा पुर्‍याउँछौँ : परराष्ट्रमन्त्री खनाल",
-      "link": "https://www.ratopati.com/story/597462/we-will-take-nepal-brazil-cooperation-and-partnership-to-further-heights-foreign-minister-khanal",
-      "description": "काठमाडौँ । नेपाल र ब्राजिलबिच कूटनीतिक सम्बन्ध स्थापना भएको ५० वर्ष पूरा भएको अवसरमा दुवै देशका परराष्ट्रमन्त्रीले एक–अर्कालाई बधाई सन्देश आदानप्रदान गरेका छन् । नेपालका परराष्ट्रमन्त्री शिशिर खनाल र ब्राजिलका विदेशमन्त्री माउरो भिएराले कूटनीतिक सम्बन्ध स्थापनाको",
-      "published": "2026-10-05T16:44:17+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/sishir-khanal_26czMS9mEW.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "bfcaa6b9373600c6",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 91.4,
-      "story_size": 1,
-      "image_local": "images/news_b771e2f3a2c78c295320.jpg"
-    },
-    {
-      "title": "मनकामना केबलकार मंगलबार बन्द रहने",
-      "link": "https://baahrakhari.com/detail/503903",
-      "description": "",
-      "published": "2026-10-05T23:12:09+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "af7263cb20fca9d9",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 91.2,
+      "score": 82.5,
       "story_size": 1
-    },
-    {
-      "title": "कांग्रेस महाधिवेशनका उम्मेदवारहरूलाई प्रश्न : तपाईंको उम्मेदवारी किन ?",
-      "link": "https://www.ratopati.com/story/597461/question-to-congress-general-convention-candidates-why-your-candidacy",
-      "description": "काठमाडौँ । नेपाली कांग्रेसको १५औँ महाधिवेशनको माहोलमा केन्द्रीय सदस्य रामहरि खतिवडा केही हतारमा देखिन्थे । पूर्वसांसद खतिवडालाई एकैछिन रोकेर सोधियो, ‘सहमहामन्त्रीमा तपाईंको उम्मेदवारी किन ?’ ‘कांग्रेसलाई दरो बनाउन र सबैलाई समेट्न,’ उनले छोटो जवाफ दिए । महामन्त्री",
-      "published": "2026-10-05T16:35:21+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/congress-candidate_fHR2xgZj2x.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "d10fd0f8eafc023d",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 90.8,
-      "story_size": 1,
-      "image_local": "images/news_802e28a946383e301b7d.webp"
-    },
-    {
-      "title": "बियरको बोतल प्रहारबाट वृद्धकाे मृत्यु",
-      "link": "https://www.ratopati.com/story/597460/elderly-man-dies-after-being-hit-with-beer-bottle",
-      "description": "कास्की। कास्कीको पोखरा महानगरपालिका–२४, कार्कीको तगरामा सामान्य विवादका क्रममा भएको कुटपिटमा एक वृद्धको मृत्यु भएको छ। कास्की प्रहरीले दिएको जानकारीअनुसार सोमबार साँझ करिब ५:४५ बजे स्थानीय ७२ वर्षीय पूर्णभद्र त्रिपाठीमाथि सोही स्थानका करिब ३२/३३ वर्षीय जगत",
-      "published": "2026-10-05T16:32:28+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/jail-arrest_DZZQaXCTyj.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "52ca4fee5258c317",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 90.6,
-      "story_size": 1,
-      "image_local": "images/news_7193babaa33fdeee40dc.jpg"
-    },
-    {
-      "title": "देउखुरीमा बस र अटो ठोकिदा दुईजनाको मृत्यु",
-      "link": "https://www.thahakhabar.com/detail/309873",
-      "description": "",
-      "published": "2026-10-05T22:09:00+05:45",
-      "source": "Thaha Khabar",
-      "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/accident-1791217462.jpg",
-      "related_sources": [
-        "Thaha Khabar"
-      ],
-      "id": "7c36cebad37b0b02",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 90.0,
-      "story_size": 1,
-      "image_local": "images/news_83db746d7dcaebc349b3.jpg"
-    },
-    {
-      "title": "कोरला नाका जोड्ने सडक खुलाउन ड्रोनबाट इन्धन ढुवानी गरिँदै",
-      "link": "https://www.ratopati.com/story/597459/fuel-being-transported-by-drone-to-open-the-road-connecting-korala-border",
-      "description": "म्याग्दी । पछिल्लो एक सातादेखि अवरुद्ध कोरला नाका जोड्ने बेनी-जोमसोम-कोरला सडक मर्मतका लागि ड्रोनबाट इन्धन ढुवानी गरिएको छ । हाल चीनसँग सञ्चालनमा रहेको एक मात्र व्यापारिक नाका पनि वर्षाका कारण बेनी-जोमसोम-कोरला क्षतिग्रस्त भएपछि स्तरोन्नतिका लागि",
-      "published": "2026-10-05T16:21:45+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/6JWzKklhV4.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "45fa35fa94762659",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 89.9,
-      "story_size": 1,
-      "image_local": "images/news_0509eb70b849ce8fe4fa.jpg"
-    },
-    {
-      "title": "कांग्रेस केन्द्रीय सदस्यमा जानुका पन्तले उम्मेदवारी दिने",
-      "link": "https://www.ratopati.com/story/597458/januka-panta-to-file-candidacy-for-congress-central-committee-member",
-      "description": "काठमाडौँ। नेपाली कांग्रेसकी नेतृ जानुका पन्तले पार्टीको १५औँ महाधिवेशनमा केन्द्रीय सदस्य पदमा उम्मेदवारी दिने भएकी छन्। खस आर्य महिला समूहबाट केन्द्रीय सदस्यमा उम्मेदवारी दिन लागेको उनले बताइन् । पन्तले ‘जहाँ कांग्रेस, त्यहाँ सुशासन र विकास’लाई आफ्नो",
-      "published": "2026-10-05T16:20:50+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/januka-pant_4yi4Una3o8.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "21b64d8a0642b285",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 89.8,
-      "story_size": 1,
-      "image_local": "images/news_9ff82832b5b3d051d545.webp"
-    },
-    {
-      "title": "१० बजे १० समाचार : कांग्रेसको १५औँ महाधिवेशन : थपियो पदाधिकारी, धमाधम उम्मेदवारी घोषणा",
-      "link": "https://www.ratopati.com/story/597453/10-news-at-10-15th-congress-of-the-nepali-congress-new-office-bearers-candidacies-announced-in-a-flurry",
-      "description": "आज २०८३ असोज १९ गते सोमबार । आज दिनभरका मुख्य १० घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति ‘१० बजे १० समाचार’मा प्रस्तुत गरेका छौँ– आजका मुख्य समाचारमा कांग्रेसको १५औँ महाधिवेशनले थप्यो पदाधिकारी, धमाधम उम्मेदवारी घोषणा, सशस्त्र प्रहरीका",
-      "published": "2026-10-05T16:15:00+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/brief-c_zHT9AEOQ82.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "67a7cc2d1ad44366",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 89.4,
-      "story_size": 1,
-      "image_local": "images/news_87bda275947e910b78b2.webp"
-    },
-    {
-      "title": "कांग्रेस महाधिवेशन : नीति बनाउनभन्दा नेता चुन्न हतार",
-      "link": "https://www.ratopati.com/story/597456/congress-general-convention-haste-to-elect-leaders-rather-than-formulate-policies",
-      "description": "काठमाडौँ । नेपाली कांग्रेसको आइतबारबाट सुरु भएको १५औँ महाधिवेशनमा सोमबारबाट बन्दसत्र सुरु भएको छ । बन्दसत्रमा ५ प्रतिवेदन पेस भए । सभापति गगन थापाको राजनीतिक प्रतिवेदना, उपसभापति विश्वप्रकाश शर्माको समसामयिक प्रतिवेदन, महामन्त्री गुरुराज घिमिरेले सांगठनिक प्रतिवेदन,",
-      "published": "2026-10-05T16:07:21+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/congress-bandasatra_ot6a62YTyi.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "0f329c7c37bf7426",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 88.9,
-      "story_size": 1,
-      "image_local": "images/news_9e7c11c360a7deab182b.webp"
-    },
-    {
-      "title": "मुस्ताङका कृषक मर्कामा : बोटमा स्याउ अडिँदैन, ढुवानीका लागि बाटो छैन",
-      "link": "https://baahrakhari.com/detail/503902",
-      "description": "",
-      "published": "2026-10-05T22:34:02+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "e6046511cba8094b",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 88.7,
-      "story_size": 1
-    },
-    {
-      "title": "सेवा विस्तारसँगै प्रदेश अस्पतालमा सेवाग्राही बढ्दै",
-      "link": "https://www.ratopati.com/story/597454/service-recipients-increasing-in-provincial-hospitals-with-service-expansion",
-      "description": "लमजुङ। उपचारका नयाँ तथा विशिष्टीकृत सेवा थपिँदै गएपछि लमजुङको बेँसीसहर नगरपालिका-८ स्थित प्रदेश अस्पतालमा सेवाग्राहीको चाप बढ्दै गएको छ। जटिल उपचार तथा शल्यक्रिया हुन थालेपछि लमजुङसँगै तनहुँ, मनाङलगायत जिल्लाबाट पनि उपचारका लागि सेवाग्राही आउन थालेका",
-      "published": "2026-10-05T16:02:34+00:00",
-      "source": "Ratopati",
-      "category": "society",
-      "image": "https://rpcdn.ratopati.com/media/albums/lamjung_mofbZez6N7.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "5ca3749c960880ac",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 88.6,
-      "story_size": 1,
-      "image_local": "images/news_5bf98dadea9688c216db.jpg"
-    },
-    {
-      "title": "थाइल्याण्डमा थप वर्षाको चेतावनी, बाढीबाट मृत्यु हुनेको सङ्ख्या ३१ पुग्यो",
-      "link": "https://www.ratopati.com/story/597450/thailand-warns-of-more-rain-flood-death-toll-rises-to-31",
-      "description": "काठमाडाैँ । सेप्टेम्बरको मध्यदेखि देशभर आएको बाढीबाट मृत्यु हुनेको सङ्ख्या ३१ पुगेपछि थाइल्याण्डका अधिकारीले थप वर्षा र आकस्मिक बाढीको जोखिमबारे चेतावनी दिएका छन् । थाइल्याण्डको मौसम विज्ञान विभागका अनुसार सोमबारदेखि बुधबारसम्म देशको माथिल्लो भेगका अधिकांश क्षेत्रमा",
-      "published": "2026-10-05T15:48:39+00:00",
-      "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/rain_5mquIqrDHn.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "1e9246634b5539a7",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 87.7,
-      "story_size": 1,
-      "image_local": "images/news_81889530196b3ca1d629.webp"
-    },
-    {
-      "title": "अब चुनावमा पार्टीको उम्मेदवार काठमाडौँले छान्दैन‚ स्थानीय सदस्यले छान्छ : गगन थापा",
-      "link": "https://www.thahakhabar.com/detail/309872",
-      "description": "",
-      "published": "2026-10-05T21:29:00+05:45",
-      "source": "Thaha Khabar",
-      "category": "politics",
-      "image": "https://www.thahakhabar.com/uploads/posts/Gagan-Thapa-1791215064.jpg",
-      "related_sources": [
-        "Thaha Khabar"
-      ],
-      "id": "aed8e503c0704ea3",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 87.3,
-      "story_size": 1,
-      "image_local": "images/news_c5edbb0c8fd1b812e5da.jpg"
     },
     {
       "title": "नेपाल जेसिसकी पूर्व राष्ट्रिय अध्यक्ष रजनी थापा कांग्रेस केन्द्रीय सदस्य उम्मेदवार बन्ने",
@@ -925,25 +1744,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.2,
-      "story_size": 1
-    },
-    {
-      "title": "रास्वपाले सबै जिल्लामा खटायो केन्द्रीय सदस्य र सांसद, को कहाँ ? (सूचीसहित)",
-      "link": "https://khabarhub.com/2026/05/1033757/",
-      "description": "काठमाडौँ । राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) देशका ७७ वटै जिल्लामा केन्द्रीय सदस्य र सांसदलाई खटाएको छ। रास्वपाले सबै जिल्लामा नागरिकका समस्या बुझ्न ‘हामी आउँदै छौं’ अभियान सञ्चालन गर्न लागेको छ। त्यही अभियानका लागि सबै जिल्लामा केन्द्रीय सदस्य र सांसदलाई खटाएको हो। रास्वपाले कोसीमा असोज २० देखि २७ गतेसम्म अभियान सञ्चालन गर्नेछ। अभियानका दौरान केन्द्रीय सदस्य [&#8230;]",
-      "published": "2026-10-05T16:26:05+00:00",
-      "source": "Khabarhub",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "26866161b0abb6bc",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 87.2,
+      "score": 70.5,
       "story_size": 1
     },
     {
@@ -961,7 +1762,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.0,
+      "score": 70.3,
       "story_size": 1
     },
     {
@@ -979,7 +1780,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.7,
+      "score": 70.0,
       "story_size": 1
     },
     {
@@ -997,25 +1798,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.6,
-      "story_size": 1
-    },
-    {
-      "title": "चितवन राष्ट्रिय निकुञ्जमा जिप सफारी दसैँअघि नै सञ्चालनमा आउने",
-      "link": "https://baahrakhari.com/detail/503901",
-      "description": "",
-      "published": "2026-10-05T22:01:00+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "c64a8ca6ae8f8775",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 86.5,
+      "score": 69.8,
       "story_size": 1
     },
     {
@@ -1033,25 +1816,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.5,
-      "story_size": 1
-    },
-    {
-      "title": "सशस्त्रका एआईजी दाहाल निलम्बित",
-      "link": "https://khabarhub.com/2026/05/1033753/",
-      "description": "काठमाडौँ । सशस्त्र प्रहरी बलका अतिरिक्त प्रहरी महानिरीक्षक (एआईजी) वंशीराज दाहाल निलम्बित भएका छन्। सरकारले एआईजी दाहाललाई गम्भीर सूचना चुहाएको आरोपमा निलम्बित गरेको हो। सशस्त्र प्रहरी बलले गरेको सिफारिशका आधारमा सोमबार गृह मन्त्रालयले दाहाललाई निलम्ब गरेको प्रवक्ता आनन्द काफ्लेले जनाएका छन्। एआईजी दाहालमाथि छानबिन गर्न गृह मन्त्रालयले समिति गठन गरेको छ। छानबिन समितिलाई तीन दिनभित्र [&#8230;]",
-      "published": "2026-10-05T16:15:10+00:00",
-      "source": "Khabarhub",
-      "category": "tech",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "f290dc464001a320",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 86.4,
+      "score": 69.7,
       "story_size": 1
     },
     {
@@ -1069,7 +1834,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.4,
+      "score": 69.6,
       "story_size": 1
     },
     {
@@ -1087,7 +1852,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.3,
+      "score": 69.6,
       "story_size": 1
     },
     {
@@ -1105,25 +1870,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.2,
-      "story_size": 1
-    },
-    {
-      "title": "अनुपम रोशीको ‘भगः एक मौन ब्रह्माण्ड’ विमोचन",
-      "link": "https://nepalsamaya.com/detail/146707",
-      "description": "",
-      "published": "2026-10-05T21:56:12+05:45",
-      "source": "Nepal Samaya",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Nepal Samaya"
-      ],
-      "id": "1803082971a8277e",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 86.2,
+      "score": 69.5,
       "story_size": 1
     },
     {
@@ -1141,7 +1888,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.1,
+      "score": 69.4,
       "story_size": 1
     },
     {
@@ -1159,7 +1906,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.0,
+      "score": 69.3,
       "story_size": 1
     },
     {
@@ -1177,80 +1924,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.9,
-      "story_size": 1
-    },
-    {
-      "title": "बाढीपछि त्रिशूलीको र्‍याफ्टिङ रुट निरीक्षण, व्यवसाय सञ्चालन गर्न सकिने निष्कर्ष",
-      "link": "https://nepalsamaya.com/detail/146706",
-      "description": "",
-      "published": "2026-10-05T21:45:10+05:45",
-      "source": "Nepal Samaya",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "Nepal Samaya"
-      ],
-      "id": "97da77694dc8ed5c",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 85.4,
-      "story_size": 1
-    },
-    {
-      "title": "फौजदारी मुद्दामा मिलापत्र दण्डनीय : मन्त्री गौतम",
-      "link": "https://www.thahakhabar.com/detail/309871",
-      "description": "",
-      "published": "2026-10-05T20:58:00+05:45",
-      "source": "Thaha Khabar",
-      "category": "politics",
-      "image": "https://www.thahakhabar.com/uploads/posts/Sovita-Gautam-1791213213.jpg",
-      "related_sources": [
-        "Thaha Khabar"
-      ],
-      "id": "ad0a7acf73fc36d8",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 85.3,
-      "story_size": 1,
-      "image_local": "images/news_9851d7318392523bb2e7.jpg"
-    },
-    {
-      "title": "डा. डीआर उपाध्यायलाई दशौँ मानार्थ विद्यावारिधि",
-      "link": "https://khabarhub.com/2026/05/1033744/",
-      "description": "काठमाडाैं &#8211; विश्व कीर्तिमानी गीतकार तथा उपन्यासकार डा. डीआर उपाध्यायलाई मानार्थ विद्यावारिधि प्रदान गरिएको छ । साहित्य तथा संगीत क्षेत्रमा पुर्‍याएको योगदानको कदर गर्दै किर्गिस्तानस्थित आईएलपीएमएस विश्वविद्यालयले उनलाई मानार्थ ‘डाक्टर अफ ह्युमन लेटर्स (डीएचएल)’ उपाधिबाट सम्मान गरेको हो । भारतको राजस्थानस्थित इन्टरनेसनल सेन्टर, जयपुरमा आयोजित विशेष समारोहमा विश्वविद्यालयका प्रतिनिधि तथा अन्य प्रतिष्ठित अतिथिले डा। उपाध्यायलाई [&#8230;]",
-      "published": "2026-10-05T15:51:20+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "f14f68606f522aa2",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 84.8,
-      "story_size": 1
-    },
-    {
-      "title": "नेपाल–ब्राजिल सहकार्य र साझेदारीलाई थप सुदृढ बनाउने परराष्ट्रमन्त्रीको प्रतिबद्धता",
-      "link": "https://baahrakhari.com/detail/503900",
-      "description": "",
-      "published": "2026-10-05T21:32:00+05:45",
-      "source": "Baahrakhari",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "3893a5baae40ef33",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 84.5,
+      "score": 69.1,
       "story_size": 1
     },
     {
@@ -1268,25 +1942,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.9,
-      "story_size": 1
-    },
-    {
-      "title": "कांग्रेस केन्द्रीय सदस्यमा राजीव चौधरीको उम्मेदवारी घोषणा",
-      "link": "https://khabarhub.com/2026/05/1033741/",
-      "description": "काठमाडाैं &#8211; नेपाली कांग्रेसको १५औँ राष्ट्रिय महाधिवेशनमा युवा नेता राजीव चौधरीले खुला केन्द्रीय सदस्य पदमा उम्मेदवारी घोषणा गरेका छन् । बारा क्षेत्र नम्बर १ बाट महाधिवेशन प्रतिनिधिमा सर्वसम्मत निर्वाचित चौधरीले कांग्रेसको केन्द्रीय नेतृत्वमा युवाको अर्थपूर्ण र समावेशी सहभागिता सुनिश्चित गर्न आफूले उम्मेदवारी दिन लागेको बताएका छन् । नेपाल थारू संघ काठमाडौंका अध्यक्षसमेत रहेका चौधरी लामो [&#8230;]",
-      "published": "2026-10-05T15:36:57+00:00",
-      "source": "Khabarhub",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "b60c1e584471b104",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 83.9,
+      "score": 67.2,
       "story_size": 1
     },
     {
@@ -1304,44 +1960,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.4,
-      "story_size": 1
-    },
-    {
-      "title": "काँग्रेसको विधान संशोधन : केन्द्रीय समिति २९७ सदस्यीय, समावेशी प्रतिनिधित्वसहित कार्यक्षेत्र विस्तार",
-      "link": "https://www.thahakhabar.com/detail/309870",
-      "description": "",
-      "published": "2026-10-05T20:25:00+05:45",
-      "source": "Thaha Khabar",
-      "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/congresh-nc-1766850531.jpg",
-      "related_sources": [
-        "Thaha Khabar"
-      ],
-      "id": "ff8925de4ca0b3c8",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 83.1,
-      "story_size": 1,
-      "image_local": "images/news_cc74c20b677700526399.jpg"
-    },
-    {
-      "title": "नार्क र बिग एग्रोबीच पोषिलो गहुँ उत्पादन सम्झौता",
-      "link": "https://baahrakhari.com/detail/503899",
-      "description": "",
-      "published": "2026-10-05T21:03:04+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "cfddc943cdcff25b",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 82.6,
+      "score": 66.7,
       "story_size": 1
     },
     {
@@ -1359,7 +1978,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.5,
+      "score": 65.8,
       "story_size": 1
     },
     {
@@ -1377,25 +1996,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.4,
-      "story_size": 1
-    },
-    {
-      "title": "चन्द्र भण्डारीले गरे कांग्रेस उपसभापतिमा उम्मेदवारी घोषणा",
-      "link": "https://khabarhub.com/2026/05/1033736/",
-      "description": "काठमाडौं – नेपाली कांग्रेसका प्रभावशाली नेता डा. चन्द्रकान्त (चन्द्र) भण्डारीले पार्टीको उपसभापति पदमा उम्मेदवारी घोषणा गरेका छन् । भण्डारीले सामाजिक सञ्जालमार्फत ‘रूपान्तरित कांग्रेस’ निर्माणको एजेन्डासहित उपसभापतिमा आफ्नो उम्मेदवारी प्रस्तुत गरेका हुन् । उनले ‘समृद्ध मुलुक, खुसी नेपाली’ लाई आफ्नो मुख्य लक्ष्य र ‘समयअनुकूल विचार बोकेर हिँड्ने पार्टी निर्माण’ लाई त्यसको साधनका रूपमा अघि सारेका छन् [&#8230;]",
-      "published": "2026-10-05T15:06:15+00:00",
-      "source": "Khabarhub",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "7a3604af39f4b193",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 81.8,
+      "score": 65.6,
       "story_size": 1
     },
     {
@@ -1413,7 +2014,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.8,
+      "score": 65.1,
+      "story_size": 1
+    },
+    {
+      "title": "किरणकिशोर घिमिरेद्वारा कांग्रेस केन्द्रीय सदस्यमा उम्मेदवारी घोषणा",
+      "link": "https://www.onlinekhabar.com/2026/10/2033004/kiran-kishor-ghimire-announces-candidacy-for-nc-central-committee-member",
+      "description": "नेता घिमिरेले आफू निर्वाचित भए पार्टी एकताका लागि पनि पहल गर्ने बताए ।",
+      "published": "2026-10-05T15:01:31+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "90cc98f83d2287b2",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 64.8,
       "story_size": 1
     },
     {
@@ -1431,7 +2050,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.1,
+      "score": 64.4,
       "story_size": 1
     },
     {
@@ -1449,7 +2068,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.0,
+      "score": 64.3,
       "story_size": 1
     },
     {
@@ -1467,43 +2086,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.9,
-      "story_size": 1
-    },
-    {
-      "title": "कांग्रेस उपसभापतिमा उम्मेदवारी दिने चन्द्र भण्डारीको घोषणा",
-      "link": "https://www.setopati.com/politics/400090",
-      "description": "",
-      "published": "2026-10-05T20:33:00+05:45",
-      "source": "Setopati",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Setopati"
-      ],
-      "id": "0faaa98e5b7caa1c",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 80.6,
-      "story_size": 1
-    },
-    {
-      "title": "कांग्रेस केन्द्रीय सदस्यमा पुष्कर गुरुङको उम्मेदवारी",
-      "link": "https://www.setopati.com/politics/400088",
-      "description": "",
-      "published": "2026-10-05T20:22:00+05:45",
-      "source": "Setopati",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Setopati"
-      ],
-      "id": "e77cc340bd15f3d0",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 79.9,
+      "score": 64.2,
       "story_size": 1
     },
     {
@@ -1521,61 +2104,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.3,
+      "score": 62.5,
       "story_size": 1
     },
     {
-      "title": "पहिलो आवासीय घर बनाउँदै हुनुहुन्छ? विधेयक पास भए नि:शुल्क पाइने छन् यी सुविधा",
-      "link": "https://www.setopati.com/politics/400076",
-      "description": "सरकारले नेपालभित्र कतै पनि घर नभएको परिवारलाई पहिलो आवासीय घर निर्माणमा सहयोग गर्ने गरी कानुन बनाउने प्रक्रिया अघि बढाएको छ।",
-      "published": "2026-10-05T19:53:00+05:45",
-      "source": "Setopati",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Setopati"
-      ],
-      "id": "193bea13a1ae34ae",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 77.9,
-      "story_size": 1
-    },
-    {
-      "title": "नयाँ प्रमुख प्रशासकीय अधिकृतलाई हाजिर नगराएपछि पिपरा गाउँपालिकाको आर्थिक अधिकार रद्द",
-      "link": "https://kendrabindu.com/social-affairs/561588/",
-      "description": "महोत्तरी । नयाँ जिम्मेवारीमा खटाइएका प्रमुख प्रशासकीय अधिकृतलाई हाजिर नगराएपछि पिपरा गाउँपालिकाको आर्थिक तथा प्रशासनिक अधिकार रद्द गरिएको छ। भूमि व्यवस्था, सहकारी तथा गरिबी निवारण मन्त्रालय र संघीय मामिला तथा सामान्य प्रशासन मन्त्रालयले गाउँपालिकाको आर्थिक तथा प्रशासनिक जिम्मेवारी नयाँ प्रमुख प्रशासकीय अधिकृतलाई दिने निर्णय गरेकाे हाे। मन्त्रालयका अनुसार पिपरा गाउँपालिकामा कार्यरत तत्कालीन प्रमुख प्रशासकीय अधिकृतको [&#8230;]",
-      "published": "2026-10-05T14:04:33+00:00",
-      "source": "Kendrabindu",
+      "title": "संवेदनशील सूचना चुहाएको आरोपमा सशस्त्रका एआईजी वंशीराज दाहाल निलम्बित",
+      "link": "https://www.onlinekhabar.com/2026/10/2032976/armed-forces-aig-banshiraj-dahal-suspended-on-charges-of-leaking-sensitive-information",
+      "description": "१९ असोज, काठमाडौं । सशस्त्र प्रहरीका एआईजी वंशीराज दाहाललाई सरकारले संवेदनशील सूचना चुहावट गरेको भन्दै पदबाट निलम्बन गरेको छ । गृह मन्त्रालयका प्रवक्ता आनन्द काफ्लेले विज्ञप्ति जारी गर्दै निजामती तथा प्रहरी कर्मचारीहरूले पालना गर्नुपर्ने पदीय आचरण प्रचलित काम नगरेको भनी निलम्बन गरिएको उल्लेख गरेका छन् । दाहालले सुरक्षासँग सम्बन्धित संवेदनशील सूचना चुहावट गरी आचरण विपरीत [&#8230;]",
+      "published": "2026-10-05T14:03:31+00:00",
+      "source": "OnlineKhabar",
       "category": "tech",
       "image": "",
       "related_sources": [
-        "Kendrabindu"
+        "OnlineKhabar"
       ],
-      "id": "75ae82bf5a00293d",
+      "id": "f8ff86467cdcf6f7",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.7,
-      "story_size": 1
-    },
-    {
-      "title": "कांग्रेसको उपसभापतिमा विनोद चौधरीको उम्मेदवारी घोषणा, ‘अब आर्थिक समुन्नतिका लागि राजनीति’",
-      "link": "https://kendrabindu.com/politics/561587/",
-      "description": "काठमाडौं । नेपाली कांग्रेसको १५औँ महाधिवेशनमा उद्योगपति तथा कांग्रेस नेता विनोद चौधरीले उपसभापति पदमा उम्मेदवारी घोषणा गरेका छन् । उनले आफ्नो उम्मेदवारी कुनै पद प्राप्तिका लागि नभई आर्थिक रूपान्तरणको स्पष्ट एजेन्डा अघि बढाउन भएको बताएका छन् । महाधिवेशन प्रतिनिधिलाई सम्बोधन गर्दै चौधरीले देशले अहिले युवा नेतृत्व खोजिरहेको भन्दै कांग्रेसले युवालाई नेतृत्वमा स्थापित गर्नुपर्ने बताए । [&#8230;]",
-      "published": "2026-10-05T14:02:08+00:00",
-      "source": "Kendrabindu",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Kendrabindu"
-      ],
-      "id": "152c33946d51474a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 77.6,
+      "score": 60.9,
       "story_size": 1
     },
     {
@@ -1593,61 +2140,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.5,
-      "story_size": 1
-    },
-    {
-      "title": "विश्वव्यापी तेल आपूर्तिमा दबाब बढ्दै, मौज्दात न्यून रहेको चेतावनी",
-      "link": "https://kendrabindu.com/world/561581/",
-      "description": "लन्डन । जी–७का राष्ट्रले आफ्नो मौज्दातबाट थप तेल बजारमा ल्याउने सहमति जनाएको केही दिनपछि साउदी आरामकोका प्रमुख कार्यकारी अमिन नासेरले विश्वव्यापी तेल मौज्दात ‘डरलाग्दो हदसम्म न्यून’ रहेको बताए । आपूर्ति अभावको जोखिम अझै कायम रहेको उनको भनाइ छ । साउदी सरकारको बहुमत स्वामित्व रहेको प्रमुख तेल उत्पादक कम्पनीका प्रमुख नासेरले सोमबार लन्डनमा आयोजित ‘इनर्जी इन्टेलिजेन्स [&#8230;]",
-      "published": "2026-10-05T13:56:47+00:00",
-      "source": "Kendrabindu",
-      "category": "world",
-      "image": "",
-      "related_sources": [
-        "Kendrabindu"
-      ],
-      "id": "948852b910dd5b5c",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 77.2,
-      "story_size": 1
-    },
-    {
-      "title": "प्रकाशले मस्तिष्कका कोष चलाउने प्रविधिका लागि तीन वैज्ञानिकलाई यस वर्षको नोबेल",
-      "link": "https://www.setopati.com/social/400086",
-      "description": "अमेरिकी वैज्ञानिक कार्ल डाइसेरोथ तथा जर्मनीका पिटर हेगेम्यान र जर्ज नागेललाई यस वर्षको नोबेल पुरस्कार दिने घोषणा सोमबार गरिएको हो।",
-      "published": "2026-10-05T19:38:00+05:45",
-      "source": "Setopati",
-      "category": "tech",
-      "image": "",
-      "related_sources": [
-        "Setopati"
-      ],
-      "id": "06bb70134da79818",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 76.9,
-      "story_size": 1
-    },
-    {
-      "title": "भारतीय प्रधानमन्त्री मोदीको सार्वजनिक जीवनमा २५ वर्ष पूरा",
-      "link": "https://kendrabindu.com/world/561583/",
-      "description": "नयाँ दिल्ली । भारतीय जनता पार्टी (भाजपा) को दिल्ली इकाईले प्रधानमन्त्री नरेन्द्र मोदीको सार्वजनिक जीवनमा २५ वर्ष पूरा भएको अवसरमा सेवा सङ्कल्प अभियानअन्तर्गत राष्ट्रिय राजधानीमा विभिन्न कार्यक्रमहरूको तयारी गरिरहेको छ । यसको सुरुवात इन्दिरा गान्धी इनडोर स्टेडियममा ठूलो ‘सेवा ज्योति’ कार्यक्रमबाट हुनेछ । एक शीर्ष भाजपा स्रोतले प्रधानमन्त्री नरेन्द्र मोदी अक्टोबर ७ मा ‘इन्दिरा गान्धी [&#8230;]",
-      "published": "2026-10-05T13:51:34+00:00",
-      "source": "Kendrabindu",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Kendrabindu"
-      ],
-      "id": "5e837202120f68b9",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 76.9,
+      "score": 60.7,
       "story_size": 1
     },
     {
@@ -1665,25 +2158,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.6,
-      "story_size": 1
-    },
-    {
-      "title": "२७ जलविद्युत आयोजनाको आरसीओडी थपियो, ५४० मेगावाटको बाटो खुल्यो",
-      "link": "https://nepalsamaya.com/detail/146705",
-      "description": "",
-      "published": "2026-10-05T19:32:48+05:45",
-      "source": "Nepal Samaya",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Nepal Samaya"
-      ],
-      "id": "7bb91ce6b4760cd6",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 76.6,
+      "score": 59.9,
       "story_size": 1
     },
     {
@@ -1701,7 +2176,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.4,
+      "score": 59.7,
       "story_size": 1
     },
     {
@@ -1719,25 +2194,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.1,
-      "story_size": 1
-    },
-    {
-      "title": "मलेसिया रोजगारीमा सीमित संस्थाको एकाधिकार रोक्न व्यवसायी सङ्घको माग",
-      "link": "https://kendrabindu.com/social-affairs/561578/",
-      "description": "काठमाडौं । नेपाल वैदेशिक रोजगार व्यवसायी सङ्घले मलेसियामा नेपाली श्रमिक पठाउने प्रक्रियालाई निश्चित वैदेशिक रोजगार व्यवसायी संस्थामा सीमित गरी एकाधिकार कायम गर्न खोजिएको भन्दै त्यसलाई रोक्न सरकारको ध्यानाकर्षण गराएको छ । सङ्घले आज पत्रकार सम्मेलन गरी मलेसियाको फरेन वर्कर्स सेन्ट्रलाइज्ड म्यानेजमेन्ट सिस्टम (एफडब्ल्युसिएमएस) अन्तर्गत नेपालका सीमित वैदेशिक रोजगार व्यवसायी संस्थालाई मात्र सूचीकृत गरिएको विषयमा प्रश्न [&#8230;]",
-      "published": "2026-10-05T13:36:57+00:00",
-      "source": "Kendrabindu",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "Kendrabindu"
-      ],
-      "id": "3e5e892a0343807a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 75.9,
+      "score": 59.4,
       "story_size": 1
     },
     {
@@ -1755,7 +2212,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.7,
+      "score": 58.9,
       "story_size": 1
     },
     {
@@ -1773,61 +2230,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.4,
-      "story_size": 1
-    },
-    {
-      "title": "सुकुम्बासी समस्या एक हजार दिनमा समाधान गर्नेगरी काम गरिरहेका छौं : प्रधानमन्त्री शाह",
-      "link": "https://nepalsamaya.com/detail/146704",
-      "description": "",
-      "published": "2026-10-05T19:14:55+05:45",
-      "source": "Nepal Samaya",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Nepal Samaya"
-      ],
-      "id": "9ecf8f4da4ec13ce",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 75.4,
-      "story_size": 1
-    },
-    {
-      "title": "अनमोल-प्रिन्सीकाे ‘बाटुलो जून’ टिजर रिलिजसँगै चर्चामा",
-      "link": "https://kendrabindu.com/entertainment-world/561575/",
-      "description": "काठमाडौं। सनराइज पिक्चर्स प्रालीको ब्यानरमा निर्माण भएको चलचित्र &#8216;बाटुलो जून्&#8217;को टिजर रिलिजसँगै चर्चाको केन्द्रमा छ । अभिनेता अनमोल केसी स्टारर चलचित्रको टिजर सामाजिक सञ्जालमा लोकप्रिय बनिरहँदा युट्यूव ट्रेण्डिङको शीर्ष स्थानमा आउन सफल भएको छ । शुक्रबार सार्वजनिक भएको &#8216;बाटुलो जून&#8217; टिजर रिलिजको पहिलो तीन दिनमै युट्यूवको फिल्म चार्टतर्फ नेपालमा पहिलो नम्बरमा आएको हो । नेपालसँगै [&#8230;]",
-      "published": "2026-10-05T13:27:51+00:00",
-      "source": "Kendrabindu",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Kendrabindu"
-      ],
-      "id": "a6f8892967062d45",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 75.3,
-      "story_size": 1
-    },
-    {
-      "title": "एफबीआई प्रमुख पटेलले १९ वर्ष कान्छी गायिकासँग गरे इन्गेजमेन्ट",
-      "link": "https://kendrabindu.com/world/561570/",
-      "description": "एजेन्सी । अमेरिकी फेडरल ब्युरो अफ इन्भेस्टिगेसन (एफबीआई) का प्रमुख काश पटेलले आफ्नी प्रेमिका तथा कन्ट्री म्युजिक गायिका एलेक्सिस विल्किन्ससँग इन्गेजमेन्ट गरेका छन्। ४६ वर्षीय पटेल र २७ वर्षीया विल्किन्सले आइतबार सामाजिक सञ्जालमार्फत आफ्नो सम्बन्धको नयाँ चरणबारे जानकारी दिएका हुन्। विल्किन्सले पटेलसँगको तस्बिर सार्वजनिक गर्दै औँलामा इन्गेजमेन्टको औँठी देखाएकी छन्। तस्बिरसँगै विल्किन्सले रमाइलो शैलीमा ‘वेन्ट [&#8230;]",
-      "published": "2026-10-05T13:24:48+00:00",
-      "source": "Kendrabindu",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Kendrabindu"
-      ],
-      "id": "1cd6a5653a8155a5",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 75.1,
+      "score": 58.7,
       "story_size": 1
     },
     {
@@ -1845,25 +2248,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.7,
-      "story_size": 1
-    },
-    {
-      "title": "‘खुलामञ्च’ कसले बनायो, कसरी रह्यो नाम ?",
-      "link": "https://kendrabindu.com/politics/561569/",
-      "description": "काठमाडौं । रत्नपार्क र सैनिक मञ्चको बीचमा रहेको खुलामञ्च नेपालको राजनीतिक इतिहासमा परिचित नाम हो । पञ्चायतविरोधी आन्दोलनदेखि २०४६ सालको जनआन्दोलन, २०६२/६३ को दोस्रो जनआन्दोलन हुँदै गणतन्त्रपछिका राजनीतिक शक्ति प्रदर्शनसम्म यो स्थल सार्वजनिक आवाज र राजनीतिक गतिविधिको साझा थलोका रूपमा स्थापित भयो । तर खुलामञ्च सुरुदेखि नै राजनीतिक गतिविधिका लागि बनेको स्थल भने होइन । [&#8230;]",
-      "published": "2026-10-05T13:17:23+00:00",
-      "source": "Kendrabindu",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Kendrabindu"
-      ],
-      "id": "ecfd02714d121e04",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 74.6,
+      "score": 57.9,
       "story_size": 1
     },
     {
@@ -1881,25 +2266,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.5,
-      "story_size": 1
-    },
-    {
-      "title": "व्यवसायीको सुझावमा सार्वजनिक खरिद ऐनको दोस्रो संशोधन : मन्त्री लम्साल",
-      "link": "https://kendrabindu.com/economy/561565/",
-      "description": "काठमाडौं । पूर्वाधार विकासमन्त्री सुनिल लम्सालले नेपाल निर्माण व्यवसायी महासङ्घको सुझाव अनुरुप नै सार्वजनिक खरिद ऐनको दोस्रो संशोधन गरिएको बताएका छन् । सार्वजनिक खरिद ऐनको दोस्रो संशोधनका क्रममा महासङ्घको वर्तमान कार्य समितिबाट महत्वपूर्ण सुझावहरू आएकोमा सोका लागि मन्त्री लम्सालले धन्यवाद ज्ञापन गरे । लगानी र विकासका लागि कानुन सुधार परामर्श कार्यशाला समापनका अवसरमा उनले वर्तमान [&#8230;]",
-      "published": "2026-10-05T13:13:26+00:00",
-      "source": "Kendrabindu",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Kendrabindu"
-      ],
-      "id": "6e8d5804803807a4",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 74.3,
+      "score": 57.8,
       "story_size": 1
     },
     {
@@ -1917,7 +2284,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.0,
+      "score": 57.3,
       "story_size": 1
     },
     {
@@ -1935,7 +2302,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.7,
+      "score": 57.0,
       "story_size": 1
     },
     {
@@ -1953,7 +2320,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.5,
+      "score": 56.8,
       "story_size": 1
     },
     {
@@ -1971,7 +2338,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.2,
+      "score": 56.5,
       "story_size": 1
     },
     {
@@ -1989,7 +2356,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.9,
+      "score": 56.2,
       "story_size": 1
     },
     {
@@ -2007,7 +2374,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.0,
+      "score": 55.3,
       "story_size": 1
     },
     {
@@ -2025,7 +2392,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.6,
+      "score": 54.8,
       "story_size": 1
     },
     {
@@ -2043,7 +2410,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.1,
+      "score": 54.4,
       "story_size": 1
     },
     {
@@ -2061,25 +2428,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.1,
-      "story_size": 1
-    },
-    {
-      "title": "कांग्रेसको केन्द्रीय समिति २९७ सदस्यीय बनाउने प्रस्ताव",
-      "link": "https://nepalsamaya.com/detail/146703",
-      "description": "",
-      "published": "2026-10-05T18:09:04+05:45",
-      "source": "Nepal Samaya",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Nepal Samaya"
-      ],
-      "id": "79407e101a430493",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 71.0,
+      "score": 54.3,
       "story_size": 1
     },
     {
@@ -2097,151 +2446,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.8,
-      "story_size": 1
-    },
-    {
-      "title": "म्यानपावर व्यवसायीको आक्रोश : मलेसिया चाहिन्छ, सिन्डिकेट चाहिँदैन",
-      "link": "https://www.onlinekhabar.com/2026/10/2032855/manpower-businessmens-anger-we-need-malaysia-not-syndicates",
-      "description": "संघ अध्यक्ष डिकबहादुर (कुमार) खत्रीले पत्रकार सम्मेलन गर्दै भने, ‘मलेसिया चाहिन्छ, तर सिन्डिकेट चाहिँदैन, खुला श्रम बजार चाहिन्छ, तर एकाधिकार चाहिँदैन ।’",
-      "published": "2026-10-05T12:20:36+00:00",
-      "source": "OnlineKhabar",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "165af71431110aac",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 70.8,
-      "story_size": 1
-    },
-    {
-      "title": "जेनजी आन्दोलनमा ध्वस्त कांग्रेस कार्यालय पुनर्निर्माणमा ४ करोड ५९ लाख खर्च",
-      "link": "https://www.onlinekhabar.com/2026/10/2032852/45-9-million-spent-on-reconstruction-of-congress-office-destroyed-in-genji-movement",
-      "description": "कांग्रेसका कोषाध्यक्ष उमेश श्रेष्ठले १५ औं महाधिवेशनको बन्दसत्रमा पेश गरेको आर्थिक प्रतिवेदनमा केन्द्रीय कार्यालय पुनर्निर्माणमा चार करोड ५९ लाख ३९ हजार ४१ रुपैयाँ खर्च भएको उल्लेख छ ।",
-      "published": "2026-10-05T12:17:32+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "248d088e0bf3543f",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 70.6,
-      "story_size": 1
-    },
-    {
-      "title": "मौसम विज्ञान विभागको वर्तमान सेवा र भावी दिशा",
-      "link": "https://www.onlinekhabar.com/2026/10/2032609/current-services-and-future-directions-of-the-meteorological-department",
-      "description": "जलवायु जोखिम बढ्दै गएको नेपालमा मौसम पूर्वानुमानको सफलता सूचना दिनुमा होइन, त्यो सूचनाबाट समयमै क्षति रोक्न सक्नुमा मापन हुनुपर्छ।",
-      "published": "2026-10-05T12:16:28+00:00",
-      "source": "OnlineKhabar",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "7070f3ea597329c8",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 70.5,
-      "story_size": 1
-    },
-    {
-      "title": "भोटेकोशी बाढीपीडितका लागि कांग्रेसले उठायो पौने तीन करोड",
-      "link": "https://www.onlinekhabar.com/2026/10/2032850/nepali-congress-raises-rs-3-5-crore-for-bhotekoshi-flood-victims",
-      "description": "‘बाँकी रकमसमेत सम्बन्धित निर्णय तथा आवश्यकताअनुसार राहत तथा पुनःस्थापनाका कार्यमा परिचालन गरिने छ,’ प्रतिवेदनमा भनिएको छ ।",
-      "published": "2026-10-05T12:09:04+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "4f0e1acfb0686ad5",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 70.0,
-      "story_size": 1
-    },
-    {
-      "title": "एआईमा आत्मा र चेतना समाहित गर्ने प्रयासप्रति असन्तुष्टि",
-      "link": "https://www.onlinekhabar.com/2026/10/2032847/dissatisfaction-with-efforts-to-incorporate-soul-and-consciousness-into-ai",
-      "description": "एआईमा आत्मा र चेतना समाहित गर्ने यस्ता प्रयासप्रति अन्य शीर्ष एआई वैज्ञानिकहरूले पनि आपत्ति जनाउन थालेका छन् ।",
-      "published": "2026-10-05T12:04:56+00:00",
-      "source": "OnlineKhabar",
-      "category": "tech",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "c2452bf4ef7a5fdc",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 69.7,
-      "story_size": 1
-    },
-    {
-      "title": "करदाता प्रोत्साहन कार्यक्रमका विजेताको नाम सार्वजनिक",
-      "link": "https://www.onlinekhabar.com/2026/10/2032839/names-of-winners-of-the-taxpayer-incentive-program-announced",
-      "description": "यस पटक १० लाख नगद विजेता लालबाबु साह कानु रहेका छन् । उनले २१ हजारको सामान किन्दा उक्त पुरस्कार जितेका हुन् ।",
-      "published": "2026-10-05T12:01:10+00:00",
-      "source": "OnlineKhabar",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "c0291f00c0b44f3a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 69.5,
-      "story_size": 1
-    },
-    {
-      "title": "चिरिच्याट्ट परेर मास्क लगाएकी को हुन् उनी ?",
-      "link": "https://www.onlinekhabar.com/2026/10/2032837/who-is-she-wearing-a-mask-wearing-a-mask",
-      "description": "आँखा हेरेर उनको पहिचान गर्न सक्नुहुन्छ ? यदि तपाईं खाँटी प्रशंसक हुनुहुन्छ भने सहजै भनिदिनुहुन्छ, ‘रचना रिमाल ।’ भिडभाडमा उनले आफूलाई लुकाउन हो वा सहरको धूवाँधुलोबाट जोगिन, मास्क लगाएकी छिन् । त्यसो त मास्क लगाउनु कुनै अनौठो कुरा होइन । यो सहरी जीवनमा अनिवार्यजस्तै भइसकेको छ । त्यो काठमाडौंजस्तो ठूलो सहरमा । अर्को कुरा, सेलिब्रेटी [&#8230;]",
-      "published": "2026-10-05T11:58:48+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "459fc666649670ca",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 69.3,
-      "story_size": 1
-    },
-    {
-      "title": "कांग्रेसमा लेबी बढाउने प्रस्ताव, प्रदेश कार्यसमितिलाई वार्षिक ५ लाख",
-      "link": "https://www.onlinekhabar.com/2026/10/2032835/proposal-to-increase-levy-in-congress-5-lakh-rupees-annually-to-provincial-working-committee",
-      "description": "जारी १५औं महाधिवेशनको बन्दसत्रमा कोषाध्यक्ष उमेश श्रेष्ठले पार्टीको आर्थिक अवस्था सुधारका लागि लेबीसम्बन्धी नयाँ प्रस्ताव पेस गरेका हुन्।",
-      "published": "2026-10-05T11:57:13+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "506e4e01da910a12",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 69.2,
+      "score": 54.1,
       "story_size": 1
     },
     {
@@ -2259,115 +2464,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.2,
-      "story_size": 1
-    },
-    {
-      "title": "वायुसेवा निगमको ऋण व्यवस्थापन गर्न ब्याजदर पुनरावलोकनको गृहकार्य हुँदैछ : पर्यटनमन्त्री पौडेल",
-      "link": "https://www.onlinekhabar.com/2026/10/2032834/homework-is-being-done-to-review-interest-rates-to-manage-the-airlines-debt-tourism-minister-poudel",
-      "description": "१९ असोज, काठमाडौं । संस्कृति, पर्यटन तथा नागरिक उड्डयनमन्त्री खडकराज पौडेलले नेपाल वायुसेवा निगमको वित्तीय दायित्व व्यवस्थापनका लागि ऋणको ब्याजदर पुनरावलोकन गर्ने विषयमा सरकारले आवश्यक परामर्श गरिरहेको बताएका छन् । सोमबार प्रतिनिधि सभाअन्तर्गतको अन्तर्राष्ट्रिय सम्बन्ध र पर्यटन समितिको बैठकमा बोल्दै मन्त्री पौडेलले निगमले दुई ठूला वित्तीय संस्थाबाट लिएको ऋणलाई धान्नै नसकिने भन्न नमिल्ने उल्लेख गरेका [&#8230;]",
-      "published": "2026-10-05T11:51:08+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "3429e706efad3fce",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 68.8,
-      "story_size": 1
-    },
-    {
-      "title": "भारतमा मतदाता सूची विवाद : निर्वाचन आयोगसँग सर्वोच्चले माग्यो जवाफ",
-      "link": "https://www.onlinekhabar.com/2026/10/2032832/voter-list-controversy-in-india-supreme-court-seeks-response-from-election-commission",
-      "description": "भारतको सर्वोच्च अदालतले मतदाता नामावलीको व्यापक पुनरावलोकनसम्बन्धी निर्णयबारे सरकार र निर्वाचन आयोगसँग स्पष्टीकरण माग गरेको छ ।",
-      "published": "2026-10-05T11:48:47+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "81a70d0e533663a2",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 68.7,
-      "story_size": 1
-    },
-    {
-      "title": "सुरुङमार्गदेखि पोडवेसम्मको सम्भाव्यता अध्ययन गर्दै कर्णाली सरकार",
-      "link": "https://www.onlinekhabar.com/2026/10/2032828/karnali-government-studying-feasibility-of-tunnel-to-podway",
-      "description": "कर्णाली प्रदेश सरकारको भौतिक पूर्वाधार तथा सहरी विकास मन्त्रालयले यस वर्ष सुरुङमार्गदेखि पोडवेसम्मका सम्भाव्यता अध्ययन गर्ने भएको छ ।",
-      "published": "2026-10-05T11:43:12+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "32b00530051e3aa7",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 68.3,
-      "story_size": 1
-    },
-    {
-      "title": "सार्वजनिक निर्माणका ठेक्काको मूल्य समायोजन गर्ने सरकारको निर्णय",
-      "link": "https://www.onlinekhabar.com/2026/10/2032819/governments-decision-to-adjust-the-price-of-public-construction-contracts",
-      "description": "निर्माण व्यवसायीले लामो समयदेखि मूल्य समायोजन माग गर्दै आएका थिए ।",
-      "published": "2026-10-05T11:35:14+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "6aa027c02b691733",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 67.8,
-      "story_size": 1
-    },
-    {
-      "title": "हार्मोनले हाम्रो मुड र व्यवहारलाई कसरी नियन्त्रण गर्छन् ‍?",
-      "link": "https://www.onlinekhabar.com/2026/10/2032494/how-do-hormones-control-our-mood-and-behavior",
-      "description": "हाम्रो वरिपरि रहेका मानिसहरूको व्यक्तित्वमा कुनै न कुनै विशेषता हुन्छ, जसले उनीहरूलाई अरूभन्दा फरक बनाउँछ । कसैलाई धेरै उत्साही देखिन्छ, कोही शान्त र धैर्यवान हुन्छन् भने कोही सानो कुरामै तनाव वा रिसमा आउँछन् । आखिर मानिसको मुड र व्यवहारमा यस्ता फरक किन देखिन्छन् ? मानिसको मुड, व्यवहार र भावनामा न्युरोट्रान्समिटर तथा हार्मोनको महत्वपूर्ण भूमिका हुन्छ [&#8230;]",
-      "published": "2026-10-05T11:34:01+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "4c3c03a3d17d2608",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 67.7,
-      "story_size": 1
-    },
-    {
-      "title": "इजरायलमा तीन वर्षमा एक हजार ३१८ सुरक्षाकर्मीले गुमाए ज्यान",
-      "link": "https://www.onlinekhabar.com/2026/10/2032812/1318-security-personnel-lost-their-lives-in-israel-in-three-years",
-      "description": "इजरायलको रक्षा मन्त्रालयले सन् २०२३ अक्टोबर ७ मा सुरु भएको द्वन्द्वयता तीन वर्षको अवधिमा सैनिक, सुरक्षाकर्मी तथा उद्धार कार्यमा संलग्न गरी एक हजार ३१८ जनाको मृत्यु भएको जनाएको छ ।",
-      "published": "2026-10-05T11:31:13+00:00",
-      "source": "OnlineKhabar",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "3650f1154b58b045",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 67.5,
+      "score": 52.4,
       "story_size": 1
     },
     {
@@ -2385,43 +2482,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.4,
-      "story_size": 1
-    },
-    {
-      "title": "वायुसेवाको विश्वसनीयता बढाउन तीन वर्षे रणनीतिक कार्ययोजना आवश्यक : सांसद रेग्मी",
-      "link": "https://www.onlinekhabar.com/2026/10/2032816/three-year-strategic-action-plan-needed-to-increase-airline-reliability-mp-regmi",
-      "description": "१९ असोज, काठमाडौं । राष्ट्रिय स्वतन्त्र पार्टीका सांसद डा. धनञ्जय रेग्मीले नेपाल वायुसेवा निगम (नेपाल एयरलाइन्स) को आर्थिक अवस्था सुधार गर्न र वायुसेवाको विश्वसनीयता बढाउन तीन वर्षे रणनीतिक कार्ययोजना आवश्यक रहेको बताएका छन् । सोमबार बसेको प्रतिनिधि सभा अन्तर्गतको अन्तर्राष्ट्रिय सम्बन्ध र पर्यटन समितिको बैठकमा उनले निगमको व्यवस्थापकीय सुधार, डिजिटल सेल्स र रुट व्यवस्थापनमा तत्काल [&#8230;]",
-      "published": "2026-10-05T11:28:52+00:00",
-      "source": "OnlineKhabar",
-      "category": "world",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "888923384f9f5af8",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 67.3,
-      "story_size": 1
-    },
-    {
-      "title": "युवा व्यवसायी थापाले गरे कांग्रेस केन्द्रीय सदस्यमा उम्मेदवारी घोषणा",
-      "link": "https://www.onlinekhabar.com/2026/10/2032813/young-businessman-thapa-announces-candidacy-for-congress-central-committee-member",
-      "description": "१९ असोज, काठमाडौं । युवा व्यवसायी सौगात थापाले नेपाली कांग्रेसको केन्द्रीय सदस्य आफ्नो उम्मेदवारी घोषणा गरेका छन् । नेपाली कांग्रेसको १५ औं महाधिवेशन काठमाडौंको भृकुटीमण्डपमा जारी छ । जारी महाधिवेशन अन्तर्गत ३५ वर्षमुनिका केन्द्रीय सदस्यमा उनले उम्मेदवारी घोषणा गरेका हुन् । थापा कास्की–२ बाट महाधिवेशन प्रतिनिधि भएका हुन् । नेतृत्व तहमा युवाको प्रवेशले कांग्रेस आधुनिक [&#8230;]",
-      "published": "2026-10-05T11:25:41+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "74c2e7a6842ee3b6",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 67.1,
+      "score": 50.6,
       "story_size": 1
     },
     {
@@ -2439,7 +2500,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 60.8,
+      "score": 44.0,
       "story_size": 1
     },
     {
@@ -2457,7 +2518,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 48.0,
+      "score": 31.2,
       "story_size": 1
     },
     {
@@ -2475,7 +2536,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 38.2,
+      "score": 21.4,
       "story_size": 1
     },
     {
@@ -2493,25 +2554,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 28.8,
-      "story_size": 1
-    },
-    {
-      "title": "तीन दिनसम्म वर्षाको सम्भावना, लगातार झरी नपर्ने",
-      "link": "http://lokaantar.com/story/330557/2026/10/5/weather-",
-      "description": "मनसुन बाहिरिएको ठानेर दङ्ग परेका राजधानीका बासिन्दा अचानक वर्षा भए पछि चिन्तित भएका छन् । जल तथा मौसम विज्ञान विभागले तीन दिनसम्म वर्षाको सम्भावना भए पनि लगातार झरी नपर्ने बताएको छ ।आगामी तीन दिनसम्म देशका केही स्थानमा वर्षा हुने सम्भावना रहेको तर लामो समयसम्म लगातार झरी नपर्ने मौसमविद् विनु महर्जनले राससलाई बताइन् ।&nbsp;कर्णाली र सुदूरपश्चिम प्रदेशका सबै भाग तथा गण्डकी र लुम्बिनी प्रदेशका पश्चिमी भागमा पश्चिमी वायुको प्रभाव कायम छ । कोशी, मधेस र बागमती प्रदेशका सबै भू&ndash;भाग तथा गण्डकी र लु",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "d5b1cce56560dbbe",
-      "source_count": 1,
-      "verified": false,
-      "local": true,
-      "score": 28,
+      "score": 13,
       "story_size": 1
     },
     {
@@ -2623,24 +2666,6 @@
       "story_size": 1
     },
     {
-      "title": "बाङ्ग्लादेशको परमाणु ऊर्जा केन्द्रका लागि रुसबाट पठाइएको युरेनिअम पुग्नमा ढिलाइ हुँदा निम्तिएको बहस",
-      "link": "https://www.bbc.com/nepali/articles/c6x2w8xnq5nro?at_medium=RSS&at_campaign=rss",
-      "description": "बाङ्ग्लादेशले विद्युत्‌ आपूर्ति र मागमा व्यापक खाडल झेलिरहेका बेला उसको परमाणु ऊर्जा केन्द्रका लागि युरेनिअम उपलब्धतामा हुन ढिलाइ भएको छ।",
-      "published": "2026-10-03T06:35:51+00:00",
-      "source": "BBC Nepali",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b3c5/live/8b6de6a0-bef0-11f1-bc2e-018d645d8d21.jpg",
-      "related_sources": [
-        "BBC Nepali"
-      ],
-      "id": "c277ce4a23178d33",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 13,
-      "story_size": 1
-    },
-    {
       "title": "ट्रम्पको धम्कीबीच जी सेभेनले '१० करोड ब्यारल डिजल निकासा गर्ने'",
       "link": "https://www.bbc.com/nepali/articles/cq369nje1zxwo?at_medium=RSS&at_campaign=rss",
       "description": "उक्त कदमले आउँदा दिनहरूमा डिजलको \"पर्याप्त आपूर्ति\" सुनिश्चित गर्ने संयुक्त राज्य अमेरिकासहित ठूलो अर्थतन्त्र भएका राष्ट्रहरूको समूहले जनाएको छ।",
@@ -2728,42 +2753,6 @@
       "verified": false,
       "local": false,
       "score": 13,
-      "story_size": 1
-    },
-    {
-      "title": "खानेकुरा कसरी सुरक्षित भण्डारण गर्ने",
-      "link": "https://www.bbc.com/nepali/articles/cwm2rpdmyr3eo?at_medium=RSS&at_campaign=rss",
-      "description": "खाद्यसामग्री कसरी सुरक्षित राख्न सकिन्छ भन्ने व्यावहारिक ज्ञान दिने भिडिओ।",
-      "published": "2026-09-22T05:52:33+00:00",
-      "source": "BBC Nepali",
-      "category": "nepal",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/988e/live/1d43e100-b58d-11f1-bc1f-3f186ca4140c.jpg",
-      "related_sources": [
-        "BBC Nepali"
-      ],
-      "id": "fd4913a8fa088139",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 13,
-      "story_size": 1
-    },
-    {
-      "title": "कांग्रेस केन्द्रीय कार्यसमितिमा यी पदमा हुँदैछ निर्वाचन (विवरणसहित)",
-      "link": "http://lokaantar.com/story/330573/2026/10/5/congress-",
-      "description": "&nbsp;नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत केन्द्रीय कार्यसमितिका विभिन्न पदमा निर्वाचन हुने भएको छ।नेपाली कांग्रेसको विधान, २०१७ (एघारौँ संशोधनसहित), निर्वाचन निर्देशिका २०८३ तथा १५औँ महाधिवेशनको बन्दसत्रबाट स्वीकृत पदसमेत समायोजन गरी कायम भएको व्यवस्थाअनुसार केन्द्रीय कार्यसमितिका पदमा निर्वाचन हुने भएको हो।केन्द्रीय निर्वाचन समितिले महाधिवेशन प्रतिनिधि, मतदाता तथा सम्बन्धित सरोकारवालालाई निर्वाचन हुने पद, समूह र संख्याबारे जानकारी गराएको छ।&nbsp;",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "cb8fd03af0feb167",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
       "story_size": 1
     }
   ]
