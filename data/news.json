@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T11:42:30.424230+00:00",
+  "updated_at": "2026-10-06T11:43:28.828913+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -32,7 +32,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 145.0,
+      "score": 144.9,
       "story_size": 3,
       "image_local": "images/news_e22b3df9b0e25662eecb.webp"
     },
@@ -72,7 +72,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.3,
+      "score": 133.2,
       "story_size": 2
     },
     {
@@ -91,7 +91,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.2,
+      "score": 133.1,
       "story_size": 2
     },
     {
@@ -146,7 +146,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.9,
+      "score": 112.8,
       "story_size": 1,
       "image_local": "images/news_08deac07531c23b328e1.jpg"
     },
@@ -165,7 +165,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.7,
+      "score": 112.6,
       "story_size": 1,
       "image_local": "images/news_26debdf1e1b0378f2ea8.jpg"
     },
@@ -184,7 +184,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.6,
+      "score": 112.5,
       "story_size": 1,
       "image_local": "images/news_2bbbe4a27fe2358e432e.jpg"
     },
@@ -241,7 +241,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.2,
+      "score": 112.1,
       "story_size": 1,
       "image_local": "images/news_083e66378f4431672959.jpg"
     },
@@ -279,7 +279,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.0,
+      "score": 111.9,
       "story_size": 1,
       "image_local": "images/news_92e0c6b6331045e8758e.jpg"
     },
@@ -298,7 +298,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.9,
+      "score": 111.8,
       "story_size": 1,
       "image_local": "images/news_841ec5dcfaa1a9180a20.jpg"
     },
@@ -317,7 +317,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.8,
+      "score": 111.7,
       "story_size": 1,
       "image_local": "images/news_ee6cc94210dc72bd3651.webp"
     },
@@ -355,7 +355,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.3,
+      "score": 111.2,
       "story_size": 3,
       "image_local": "images/news_6cf9be5f22cabaa924ca.webp"
     },
@@ -374,7 +374,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.1,
+      "score": 111.0,
       "story_size": 1,
       "image_local": "images/news_1a88598d63d0ff4cee5e.jpg"
     },
@@ -412,7 +412,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.0,
+      "score": 110.9,
       "story_size": 1,
       "image_local": "images/news_728258aca5452395352f.jpg"
     },
@@ -431,7 +431,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.9,
+      "score": 110.8,
       "story_size": 1,
       "image_local": "images/news_115837e2e1344f4257c7.jpg"
     },
@@ -450,7 +450,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.5,
+      "score": 110.4,
       "story_size": 1,
       "image_local": "images/news_fb69ae0601791955716a.webp"
     },
@@ -469,7 +469,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.4,
+      "score": 110.3,
       "story_size": 1
     },
     {
@@ -487,7 +487,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.4,
+      "score": 110.3,
       "story_size": 1,
       "image_local": "images/news_fa92f6bee27a7452b7cc.jpg"
     },
@@ -506,7 +506,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.3,
+      "score": 110.2,
       "story_size": 1,
       "image_local": "images/news_a767eae3988d73e794b1.jpg"
     },
@@ -525,7 +525,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.2,
+      "score": 110.1,
       "story_size": 1,
       "image_local": "images/news_83d57af75705eaf6dc53.webp"
     },
@@ -549,6 +549,24 @@
       "image_local": "images/news_16a677d67c53b3e9b59f.webp"
     },
     {
+      "title": "रजनीकान्त फेरि ‘टाइगर’ अवतारमा, ‘जेलर-२’ को ट्रेलर सार्वजनिक",
+      "link": "https://khabarhub.com/2026/06/1034176/",
+      "description": "काठमाडौं- दक्षिण भारतीय सुपरस्टार रजनीकान्त फेरि एकपटक आफ्नो चर्चित पात्र ‘टाइगर’ मुथुवेल पाण्डियनको भूमिकामा फर्किएका छन् । उनको बहुप्रतीक्षित फिल्म ‘जेलर-२’को ट्रेलर सार्वजनिक भएसँगै फिल्ममा रजनीकान्तको पात्रले भोग्ने नयाँ संकट र भव्य एक्सनको झलक देखाइएको छ। ट्रेलरमा मुथुवेल पाण्डियनलाई एकातिर सामान्य जीवन बिताइरहेका व्यक्तिका रूपमा प्रस्तुत गरिएको छ भने अर्कोतिर उनको विगत आपराधिक संसारसँग जोडिएको [&#8230;]",
+      "published": "2026-10-06T11:43:12+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "dad93f7d550d1c74",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.0,
+      "story_size": 1
+    },
+    {
       "title": "भोलिदेखि जसपा नेपालको केन्द्रीय समिति बैठक, यस्ता छन् एजेन्डा",
       "link": "https://www.ratopati.com/story/597674/jsp-nepal-central-committee-meeting-from-tomorrow-here-is-the-agenda",
       "description": "काठमाडौँ । जनता समाजवादी पार्टी नेपालको भोलिदेखि केन्द्रीय समितिको बैठक सुरु हुने भएको छ । महन्थ ठाकुर नेतृत्वको लोकतान्त्रिक समाजवादी पार्टी र उपेन्द्र यादव नेतृत्वको जनता समाजवादी पार्टी नेपालबिच एकता भएपछिको यो पहिलो बैठक हो ।",
@@ -563,9 +581,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.1,
+      "score": 110.0,
       "story_size": 1,
       "image_local": "images/news_4ea8c839ced921f8f6be.jpg"
+    },
+    {
+      "title": "सीता गुरुङले दिइन् समावेशी उपसभापतिमा उमेदवारी",
+      "link": "https://baahrakhari.com/detail/504029",
+      "description": "",
+      "published": "2026-10-06T17:27:00+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "170fb3a0b6dc2816",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.9,
+      "story_size": 1
     },
     {
       "title": "सहमहामन्त्रीमा सुवेदी, खतिवडा र शिवाकोटीको उम्मेदवारी",
@@ -601,7 +637,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.8,
+      "score": 109.7,
       "story_size": 1
     },
     {
@@ -619,7 +655,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.8,
+      "score": 109.7,
       "story_size": 1,
       "image_local": "images/news_e418f50023707824eefa.jpg"
     },
@@ -638,7 +674,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.8,
+      "score": 109.7,
       "story_size": 1,
       "image_local": "images/news_ffebdfc64ee15703b54b.jpg"
     },
@@ -654,42 +690,6 @@
         "Kendrabindu"
       ],
       "id": "63ae76afa6947980",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.7,
-      "story_size": 1
-    },
-    {
-      "title": "गोविन्द भट्टराईले दिए उपसभापतिमा उम्मेदवारी",
-      "link": "https://www.setopati.com/politics/400177",
-      "description": "नेपाली कांग्रेसका केन्द्रीय सदस्य गोविन्द भट्टराईले उपसभापति पदमा उम्मेदवारी दिएका छन्।",
-      "published": "2026-10-06T17:21:00+05:45",
-      "source": "Setopati",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Setopati"
-      ],
-      "id": "9288c0a88d3c730c",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.6,
-      "story_size": 1
-    },
-    {
-      "title": "‘हिम्मत हारेको छैन, फेरि उठ्नेछु’",
-      "link": "https://khabarhub.com/2026/06/1034170/",
-      "description": "गण्डकी– बाढीले उजाड पारेको ‘दरमखोला रेम्बो ट्राउट तथा एग्रो रिसोर्ट’ को भग्नावशेषछेउ बसेर रिसोर्टका सञ्चालक हुम थापाले गत बिहीबार सामाजिक सञ्जाल फेसबुकमा तस्बिरसहित ‘पोस्ट’ साझा गरे, ‘परिस्थिति जस्तो भए पनि सुखदुःखमा साथ दिने प्यारो जङ्गे’ । उक्त तस्बिर लिँदा थापाको साथमा थियो उहाँको प्यारो ‘कुकुर’ अर्थात् जङ्गे । जुन रिसोर्टको रेखदेख र सुरक्षामा सहयोगी बन्दै [&#8230;]",
-      "published": "2026-10-06T11:35:50+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "4e12adca1babe34e",
       "source_count": 1,
       "verified": false,
       "local": false,
@@ -735,23 +735,40 @@
       "image_local": "images/news_4dd876671f3eb9b6e649.jpg"
     },
     {
-      "title": "कोप–३१ को तयारी तीव्र, यस्तो छ नेपालको एजेन्डा",
-      "link": "https://www.ratopati.com/story/597669/preparations-for-cop-31-are-in-full-swing-this-is-nepals-agenda",
-      "description": "काठमाडौँ । संयुक्त राष्ट्रसंघीय जलवायु परिवर्तनसम्बन्धी महासन्धि (यूएनएफसीसीसी)का पक्ष राष्ट्रको ३१औँ सम्मेलन (कोप–३१) को तयारीमा नेपाल जुटेको छ । सम्मेलन आगामी कात्तिक २३ देखि मंसिर ४ गतेसम्म टर्किएको अन्ताल्यास्थित अन्ताल्या एक्स्पो सेन्टरमा हुनेछ । कोप–३१ को",
-      "published": "2026-10-06T10:51:17+00:00",
-      "source": "Ratopati",
+      "title": "गोविन्द भट्टराईले दिए उपसभापतिमा उम्मेदवारी",
+      "link": "https://www.setopati.com/politics/400177",
+      "description": "नेपाली कांग्रेसका केन्द्रीय सदस्य गोविन्द भट्टराईले उपसभापति पदमा उम्मेदवारी दिएका छन्।",
+      "published": "2026-10-06T17:21:00+05:45",
+      "source": "Setopati",
       "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/cope-31-sishir_JxwzbLhDHR.webp",
+      "image": "",
       "related_sources": [
-        "Ratopati"
+        "Setopati"
       ],
-      "id": "9be628f16332b2fd",
+      "id": "9288c0a88d3c730c",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.6,
-      "story_size": 1,
-      "image_local": "images/news_78f98b3a9b441018db81.webp"
+      "score": 109.5,
+      "story_size": 1
+    },
+    {
+      "title": "‘हिम्मत हारेको छैन, फेरि उठ्नेछु’",
+      "link": "https://khabarhub.com/2026/06/1034170/",
+      "description": "गण्डकी– बाढीले उजाड पारेको ‘दरमखोला रेम्बो ट्राउट तथा एग्रो रिसोर्ट’ को भग्नावशेषछेउ बसेर रिसोर्टका सञ्चालक हुम थापाले गत बिहीबार सामाजिक सञ्जाल फेसबुकमा तस्बिरसहित ‘पोस्ट’ साझा गरे, ‘परिस्थिति जस्तो भए पनि सुखदुःखमा साथ दिने प्यारो जङ्गे’ । उक्त तस्बिर लिँदा थापाको साथमा थियो उहाँको प्यारो ‘कुकुर’ अर्थात् जङ्गे । जुन रिसोर्टको रेखदेख र सुरक्षामा सहयोगी बन्दै [&#8230;]",
+      "published": "2026-10-06T11:35:50+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "4e12adca1babe34e",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.5,
+      "story_size": 1
     },
     {
       "title": "नेपाली क्रिकेट अब खेलरोमा, खेल हेर्नेसँगै अनुमान गर्ने र लिडरबोर्डमा प्रतिस्पर्धा गर्ने अवसर",
@@ -772,6 +789,25 @@
       "story_size": 1
     },
     {
+      "title": "कोप–३१ को तयारी तीव्र, यस्तो छ नेपालको एजेन्डा",
+      "link": "https://www.ratopati.com/story/597669/preparations-for-cop-31-are-in-full-swing-this-is-nepals-agenda",
+      "description": "काठमाडौँ । संयुक्त राष्ट्रसंघीय जलवायु परिवर्तनसम्बन्धी महासन्धि (यूएनएफसीसीसी)का पक्ष राष्ट्रको ३१औँ सम्मेलन (कोप–३१) को तयारीमा नेपाल जुटेको छ । सम्मेलन आगामी कात्तिक २३ देखि मंसिर ४ गतेसम्म टर्किएको अन्ताल्यास्थित अन्ताल्या एक्स्पो सेन्टरमा हुनेछ । कोप–३१ को",
+      "published": "2026-10-06T10:51:17+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/cope-31-sishir_JxwzbLhDHR.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "9be628f16332b2fd",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.5,
+      "story_size": 1,
+      "image_local": "images/news_78f98b3a9b441018db81.webp"
+    },
+    {
       "title": "कांग्रेस सहमहामन्त्रीमा डिल्लीराम सुवेदीको उम्मेदवारी दर्ता",
       "link": "https://www.setopati.com/politics/400175",
       "description": "नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत डिल्लीराम सुवेदीले सहमहामन्त्री पदमा उम्मेदवारी दर्ता गराएका छन्।",
@@ -783,60 +819,6 @@
         "Setopati"
       ],
       "id": "38466e38fdc9517a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.4,
-      "story_size": 1
-    },
-    {
-      "title": "कांग्रेस महाधिवेशनमा सीता गुरुङ उपसभापति उम्मेदवार*",
-      "link": "https://khabarhub.com/2026/06/1034171/",
-      "description": "काठमाडौं- नेपाली कांग्रेसको १५ औँ महाधिवेशनमा सीता गुरुङले उपसभापति पदमा उम्मेदवारी दर्ता गराएकी छन् । मंगलबार समावेशी समूहबाट उपसभापति पदमा गुरुङले उम्मेदवारी दर्ता गराएकी हुन् । १५औँ महाधिवेशनबाट २९७ सदस्यीय केन्द्रीय समिति बन्नेछ । पदाधिकारीको संख्या पनि २५ पुर्‍याइएको छ । &#8211;शीर्षकमा उपसभापति हुनुपर्नेमा अन्यथा भएकाले सच्याइएको । -सं",
-      "published": "2026-10-06T11:33:36+00:00",
-      "source": "Khabarhub",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "2871c5e7dada8780",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.4,
-      "story_size": 1
-    },
-    {
-      "title": "पर्यटन बोर्डले दसैँमा देशभर लिंगेपिङ बनाउने",
-      "link": "https://baahrakhari.com/detail/504026",
-      "description": "",
-      "published": "2026-10-06T17:18:10+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "d7386491e36b21ad",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.4,
-      "story_size": 1
-    },
-    {
-      "title": "घनेन्द्र बस्नेतको परिवारलाई समेदना दिन पुगिन् पूर्वराष्ट्रपति भण्डारी",
-      "link": "https://www.onlinekhabar.com/2026/10/2033602/former-president-bhandari-reaches-out-to-offer-condolences-to-ghanendra-basnets-family",
-      "description": "२० असोज, काठमाडौं । पूर्वराष्ट्रपति विद्यादेवी भण्डारीले वामपन्थी नेता घनेन्द्र बस्नेतको परिवारलाई भेटेकी छन् । पञ्चायत विरुद्धको आन्दोलनमा १७ वर्ष जेलजीवन बिताएका बस्नेतको १४ असोजमा निधन भएको थियो । झापा आन्दोलनका अगुवा नेताको परिवारलाई समवेदना दिन पूर्वराष्ट्रपति भण्डारी पुगेकी हुन् ।",
-      "published": "2026-10-06T11:32:50+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "f70894465ae2ed8f",
       "source_count": 1,
       "verified": false,
       "local": false,
@@ -863,6 +845,60 @@
       "image_local": "images/news_b5d151556746d6a754c9.jpg"
     },
     {
+      "title": "कांग्रेस महाधिवेशनमा सीता गुरुङ उपसभापति उम्मेदवार*",
+      "link": "https://khabarhub.com/2026/06/1034171/",
+      "description": "काठमाडौं- नेपाली कांग्रेसको १५ औँ महाधिवेशनमा सीता गुरुङले उपसभापति पदमा उम्मेदवारी दर्ता गराएकी छन् । मंगलबार समावेशी समूहबाट उपसभापति पदमा गुरुङले उम्मेदवारी दर्ता गराएकी हुन् । १५औँ महाधिवेशनबाट २९७ सदस्यीय केन्द्रीय समिति बन्नेछ । पदाधिकारीको संख्या पनि २५ पुर्‍याइएको छ । &#8211;शीर्षकमा उपसभापति हुनुपर्नेमा अन्यथा भएकाले सच्याइएको । -सं",
+      "published": "2026-10-06T11:33:36+00:00",
+      "source": "Khabarhub",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "2871c5e7dada8780",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.3,
+      "story_size": 1
+    },
+    {
+      "title": "पर्यटन बोर्डले दसैँमा देशभर लिंगेपिङ बनाउने",
+      "link": "https://baahrakhari.com/detail/504026",
+      "description": "",
+      "published": "2026-10-06T17:18:10+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "d7386491e36b21ad",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.3,
+      "story_size": 1
+    },
+    {
+      "title": "घनेन्द्र बस्नेतको परिवारलाई समेदना दिन पुगिन् पूर्वराष्ट्रपति भण्डारी",
+      "link": "https://www.onlinekhabar.com/2026/10/2033602/former-president-bhandari-reaches-out-to-offer-condolences-to-ghanendra-basnets-family",
+      "description": "२० असोज, काठमाडौं । पूर्वराष्ट्रपति विद्यादेवी भण्डारीले वामपन्थी नेता घनेन्द्र बस्नेतको परिवारलाई भेटेकी छन् । पञ्चायत विरुद्धको आन्दोलनमा १७ वर्ष जेलजीवन बिताएका बस्नेतको १४ असोजमा निधन भएको थियो । झापा आन्दोलनका अगुवा नेताको परिवारलाई समवेदना दिन पूर्वराष्ट्रपति भण्डारी पुगेकी हुन् ।",
+      "published": "2026-10-06T11:32:50+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "f70894465ae2ed8f",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.3,
+      "story_size": 1
+    },
+    {
       "title": "इजरायली खेलाडीद्वारा आयरल्यान्डका प्रशिक्षकमाथि थुकेको आरोप, यूईएफएले थाल्यो अनुसन्धान",
       "link": "https://www.ratopati.com/story/597668/uefa-launches-investigation-into-israeli-players-alleged-spitting-at-ireland-coach",
       "description": "सर्बिया । युरोपेली फुटबलको प्रशासकीय निकाय (यूईएफए) ले इजरायली खेलाडीविरुद्ध अनुशासनसम्बन्धी अनुसन्धान सुरु गर्ने भएको छ । गत आइतबार सम्पन्न नेसन्स लिगको तनावपूर्ण खेलका क्रममा इजरायली खेलाडीले आयरल्यान्डका कोचिङ स्टाफका सदस्यमाथि थुकेको आरोप लागेपछि यूईएफएले अनुसन्धान थालेको",
@@ -877,7 +913,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.4,
+      "score": 109.3,
       "story_size": 1,
       "image_local": "images/news_c582ad9729eb9bccb11a.webp"
     },
@@ -932,7 +968,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.2,
+      "score": 109.1,
       "story_size": 1,
       "image_local": "images/news_e4aedf7b884756c83ce6.webp"
     },
@@ -951,7 +987,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.1,
+      "score": 109.0,
       "story_size": 1,
       "image_local": "images/news_67ebc350dc00530907dc.webp"
     },
@@ -988,7 +1024,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.9,
+      "score": 108.8,
       "story_size": 1
     },
     {
@@ -1006,27 +1042,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.8,
+      "score": 108.7,
       "story_size": 1
-    },
-    {
-      "title": "इरानविरुद्ध अमेरिका र नौ देश एकजुट",
-      "link": "https://www.thahakhabar.com/detail/309920",
-      "description": "",
-      "published": "2026-10-06T16:23:51+05:45",
-      "source": "Thaha Khabar",
-      "category": "world",
-      "image": "https://www.thahakhabar.com/uploads/posts/iran-america-1779694818.jpg",
-      "related_sources": [
-        "Thaha Khabar"
-      ],
-      "id": "cd1ce05feb2e1aa3",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 108.8,
-      "story_size": 1,
-      "image_local": "images/news_e7f1692d7cfb1ff1f290.jpg"
     },
     {
       "title": "सर्वोच्चमा ४ न्यायाधीशको नाम सिफारिस",
@@ -1047,22 +1064,23 @@
       "story_size": 1
     },
     {
-      "title": "डा. सन्तोष उपाध्यायले दिए महामन्त्रीमा उमेदवारी",
-      "link": "https://baahrakhari.com/detail/504024",
+      "title": "इरानविरुद्ध अमेरिका र नौ देश एकजुट",
+      "link": "https://www.thahakhabar.com/detail/309920",
       "description": "",
-      "published": "2026-10-06T17:06:00+05:45",
-      "source": "Baahrakhari",
-      "category": "politics",
-      "image": "",
+      "published": "2026-10-06T16:23:51+05:45",
+      "source": "Thaha Khabar",
+      "category": "world",
+      "image": "https://www.thahakhabar.com/uploads/posts/iran-america-1779694818.jpg",
       "related_sources": [
-        "Baahrakhari"
+        "Thaha Khabar"
       ],
-      "id": "e15ced39453ccfa0",
+      "id": "cd1ce05feb2e1aa3",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.6,
-      "story_size": 1
+      "score": 108.7,
+      "story_size": 1,
+      "image_local": "images/news_e7f1692d7cfb1ff1f290.jpg"
     },
     {
       "title": "द्रौपदी बनिन् इभा गिरी, कुन फिल्ममा हो यस्तो लुक्स ?",
@@ -1097,7 +1115,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.5,
+      "score": 108.4,
       "story_size": 1,
       "image_local": "images/news_4d779f338745987c869c.jpg"
     },
@@ -1116,7 +1134,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.4,
+      "score": 108.3,
       "story_size": 1
     },
     {
@@ -1134,7 +1152,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.4,
+      "score": 108.3,
       "story_size": 1
     },
     {
@@ -1152,7 +1170,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.1,
+      "score": 108.0,
       "story_size": 1
     },
     {
@@ -1170,7 +1188,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.9,
+      "score": 107.8,
       "story_size": 1
     },
     {
@@ -1188,7 +1206,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.9,
+      "score": 107.8,
       "story_size": 1,
       "image_local": "images/news_b0bde2fa07122a067e32.jpg"
     },
@@ -1207,7 +1225,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.8,
+      "score": 107.7,
       "story_size": 1
     },
     {
@@ -1225,7 +1243,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.7,
+      "score": 107.6,
       "story_size": 1
     },
     {
@@ -1243,7 +1261,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.6,
+      "score": 107.5,
       "story_size": 1
     },
     {
@@ -1261,7 +1279,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.6,
+      "score": 107.5,
       "story_size": 1
     },
     {
@@ -1279,7 +1297,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.6,
+      "score": 107.5,
       "story_size": 1
     },
     {
@@ -1334,7 +1352,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.4,
+      "score": 107.3,
       "story_size": 1
     },
     {
@@ -1352,7 +1370,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.4,
+      "score": 107.3,
       "story_size": 1
     },
     {
@@ -1411,24 +1429,6 @@
       "story_size": 1
     },
     {
-      "title": "कांग्रेसको १५औँ महाधिवेशन : सहमहामन्त्री पदमा आङगेलु शेर्पाले दिए उम्मेदवारी",
-      "link": "https://khabarhub.com/2026/06/1034135/",
-      "description": "काठमाडौं- नेपाली कांग्रेसको १५औँ महाधिवेशनमा सहमहामन्त्री पदमा आङगेलु शेर्पाले उम्मेदवारी दिएका छन् । उनले अल्पसङ्ख्यक कलस्टरबाट सहमहामन्त्री पदमा उम्मेदवारी दिएका हुन् । कांग्रेसको १५ औँ महाधिवेशनबाट विभिन्न कलस्टरबाट १५ जना सहमहामन्त्री चुनिनेछन् । यस महाधिवेशनले २९७ सदस्यीय केन्द्रीय समितिका साथै २५ जना पदाधिकारी चुन्नेछ ।",
-      "published": "2026-10-06T10:57:18+00:00",
-      "source": "Khabarhub",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "a6191ab18d4028db",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 107.0,
-      "story_size": 1
-    },
-    {
       "title": "श्यामकृष्ण खड्गीले दिए कांग्रेस सभापतिमा उम्मेदवारी",
       "link": "https://www.thahakhabar.com/detail/309917",
       "description": "",
@@ -1448,21 +1448,21 @@
       "image_local": "images/news_7756fa1fd00e1a518a4e.jpg"
     },
     {
-      "title": "ग्लोबल आइएमई बैंकको नायब प्रमुख कार्यकारी अधिकृतमा रेग्मी",
-      "link": "https://khabarhub.com/2026/06/1034136/",
-      "description": "काठमाडौं&#8211; ग्लोबल आइएमई बैंक लिमिटेडको नायब प्रमुख कार्यकारी अधिकृत (डीसीईओ) पदमा दीपचन्द्र रेग्मी बढुवा भएका छन् । मंगलबार बसेको बैंक सञ्चालक समितिको बैठकको निर्णयानुसार उनलाई उक्त पदमा बढुवा गरिएको हो । नवनियुक्त नायब प्रमुख कार्यकारी अधिकृत रेग्मी बैंकको सहायक प्रमुख कार्यकारी अधिकृतका रूपमा कार्यरत थिए ।&#160; सन् २००७ मा स्ट्यान्डर्ड चार्टर्ड बैंक नेपालबाट बैंकिङ करिअर [&#8230;]",
-      "published": "2026-10-06T10:55:07+00:00",
+      "title": "कांग्रेसको १५औँ महाधिवेशन : सहमहामन्त्री पदमा आङगेलु शेर्पाले दिए उम्मेदवारी",
+      "link": "https://khabarhub.com/2026/06/1034135/",
+      "description": "काठमाडौं- नेपाली कांग्रेसको १५औँ महाधिवेशनमा सहमहामन्त्री पदमा आङगेलु शेर्पाले उम्मेदवारी दिएका छन् । उनले अल्पसङ्ख्यक कलस्टरबाट सहमहामन्त्री पदमा उम्मेदवारी दिएका हुन् । कांग्रेसको १५ औँ महाधिवेशनबाट विभिन्न कलस्टरबाट १५ जना सहमहामन्त्री चुनिनेछन् । यस महाधिवेशनले २९७ सदस्यीय केन्द्रीय समितिका साथै २५ जना पदाधिकारी चुन्नेछ ।",
+      "published": "2026-10-06T10:57:18+00:00",
       "source": "Khabarhub",
-      "category": "business",
+      "category": "politics",
       "image": "",
       "related_sources": [
         "Khabarhub"
       ],
-      "id": "ba6a4b81ab956207",
+      "id": "a6191ab18d4028db",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.8,
+      "score": 106.9,
       "story_size": 1
     },
     {
@@ -1480,7 +1480,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.8,
+      "score": 106.7,
       "story_size": 1
     },
     {
@@ -1498,7 +1498,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.6,
+      "score": 106.5,
       "story_size": 1
     },
     {
@@ -1516,7 +1516,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.3,
+      "score": 106.2,
       "story_size": 1
     },
     {
@@ -1534,7 +1534,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.3,
+      "score": 106.2,
       "story_size": 1
     },
     {
@@ -1570,7 +1570,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.1,
+      "score": 106.0,
       "story_size": 1
     },
     {
@@ -1588,7 +1588,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.0,
+      "score": 105.9,
       "story_size": 1
     },
     {
@@ -1642,7 +1642,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.3,
+      "score": 105.2,
       "story_size": 1
     },
     {
@@ -1660,7 +1660,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.3,
+      "score": 105.2,
       "story_size": 1
     },
     {
@@ -1678,7 +1678,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.0,
+      "score": 104.9,
       "story_size": 1
     },
     {
@@ -1696,7 +1696,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.9,
+      "score": 104.8,
       "story_size": 1
     },
     {
@@ -1714,7 +1714,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.6,
+      "score": 104.5,
       "story_size": 1
     },
     {
@@ -1750,7 +1750,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.4,
+      "score": 104.3,
       "story_size": 1
     },
     {
@@ -1786,7 +1786,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.6,
+      "score": 103.5,
       "story_size": 1
     },
     {
@@ -1804,7 +1804,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.6,
+      "score": 103.5,
       "story_size": 1
     },
     {
@@ -1840,7 +1840,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.3,
+      "score": 103.2,
       "story_size": 1
     },
     {
@@ -1858,7 +1858,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.9,
+      "score": 102.8,
       "story_size": 1
     },
     {
@@ -1876,7 +1876,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.9,
+      "score": 102.8,
       "story_size": 1
     },
     {
@@ -1894,7 +1894,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.6,
+      "score": 102.5,
       "story_size": 1
     },
     {
@@ -1948,7 +1948,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.9,
+      "score": 101.8,
       "story_size": 1
     },
     {
@@ -1966,7 +1966,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.5,
+      "score": 101.4,
       "story_size": 1
     },
     {
@@ -1984,7 +1984,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.4,
+      "score": 101.3,
       "story_size": 1
     },
     {
@@ -2002,7 +2002,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.2,
+      "score": 101.1,
       "story_size": 1
     },
     {
@@ -2038,7 +2038,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.6,
+      "score": 100.5,
       "story_size": 1
     },
     {
@@ -2056,7 +2056,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.2,
+      "score": 99.1,
       "story_size": 1
     },
     {
@@ -2074,7 +2074,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.9,
+      "score": 98.8,
       "story_size": 1
     },
     {
@@ -2128,7 +2128,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.4,
+      "score": 97.3,
       "story_size": 1
     },
     {
@@ -2146,7 +2146,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.9,
+      "score": 96.8,
       "story_size": 1
     },
     {
@@ -2164,7 +2164,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.9,
+      "score": 96.8,
       "story_size": 1
     },
     {
@@ -2182,7 +2182,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.8,
+      "score": 96.7,
       "story_size": 1
     },
     {
@@ -2200,7 +2200,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.0,
+      "score": 95.9,
       "story_size": 1
     },
     {
@@ -2218,7 +2218,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.9,
+      "score": 95.8,
       "story_size": 1
     },
     {
@@ -2236,7 +2236,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.9,
+      "score": 95.8,
       "story_size": 1
     },
     {
@@ -2254,7 +2254,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.5,
+      "score": 95.4,
       "story_size": 1
     },
     {
@@ -2272,7 +2272,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.4,
+      "score": 95.3,
       "story_size": 1
     },
     {
@@ -2326,7 +2326,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.1,
+      "score": 94.0,
       "story_size": 1
     },
     {
@@ -2344,7 +2344,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.8,
+      "score": 93.7,
       "story_size": 1
     },
     {
@@ -2362,7 +2362,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.6,
+      "score": 93.5,
       "story_size": 1
     },
     {
@@ -2380,7 +2380,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.6,
+      "score": 79.5,
       "story_size": 1
     },
     {
@@ -2416,7 +2416,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.6,
+      "score": 71.5,
       "story_size": 1
     },
     {
@@ -2434,7 +2434,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 14.9,
+      "score": 14.8,
       "story_size": 1
     },
     {
@@ -2672,6 +2672,24 @@
       "story_size": 1
     },
     {
+      "title": "पल्सर आरपीएम बुटवलमा युवाको ऊर्जा र स्थानीय प्रतिभाको उत्साहपूर्ण प्रदर्शन",
+      "link": "http://lokaantar.com/story/330636/2026/10/6/pulsar-rpm-butwal-",
+      "description": "युवापुस्ताको ऊर्जा, सृजनशीलता र सडक संस्कृतिलाई एउटै मञ्चमा जोड्दै आयोजना गरिएको पल्सर आरपीएम सम्पन्न भएको छ ।बुटवलस्थित ढुंगा स्केट&ndash;एड स्केट पार्कमा आयोजना गरिएको कार्यक्रममा करिब २&nbsp; हजार ५०० जनाको उत्साहपूर्ण सहभागिता रहेको थियो ।पल्सर आरपीएम बुटवलमा बाइक स्टन्ट, बीएमएक्स, स्केटबोर्डिङ, बिबोइङ, ग्राफिटी तथा डिजे प्रस्तुतिसहित सडक संस्कृतिसँग सम्बन्धित विभिन्न गतिविधि र प्रस्तुति रहेका थिए ।पल्सर एन१६० मार्फत प्रस्तुत गरिएको स्टन्ट प्रदर्शनले कार्यक्रमको ऊर्जा थप बढाएको थियो भने स्था",
+      "published": "",
+      "source": "Lokaantar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Lokaantar"
+      ],
+      "id": "4ea00b2e17fe4a13",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 10,
+      "story_size": 1
+    },
+    {
       "title": "सर्वोच्चमा चार न्यायाधीश सिफारिस, बागचन्ददेखि डाँगीसम्म",
       "link": "http://lokaantar.com/story/330635/2026/10/6/nyaya-parisad-",
       "description": "न्याय परिषद्ले सर्वोच्च अदालतमा ४ जना न्यायाधीश नियुक्तिका लागि सिफारिस गर्ने निर्णय गरेको छ ।मंगलबार प्रधानन्यायाधीश डा. मनोजकुमार शर्माको अध्यक्षतामा बसेको बैठकले उक्त निर्णय गरेको हो ।न्याय परिषद् सचिवालय स्रोतका अनुसार उच्च अदालतका न्यायाधीशहरू रत्नबहादुर बागचन्द, चन्द्रबहादुर&nbsp;सारू, जनक पाण्डे र गोकर्ण डाँगीलाई सर्वोच्चको न्यायाधीशका लागि सिफारिस गर्ने निर्णय गरेको हो ।बागचन्द उच्च अदालत पोखराका मुख्य न्यायाधीश हुन् ।बाँकी तीनै जना उच्च अदालतका न्यायाधीश हुन् ।",
@@ -2737,24 +2755,6 @@
         "Lokaantar"
       ],
       "id": "82769c3a6cc505fc",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "ग्लोबल आईएमई बैंकको नायब प्रमुख कार्यकारी अधिकृतमा दीपचन्द्र रेग्मी",
-      "link": "http://lokaantar.com/story/330631/2026/10/6/deepchand-regmi-",
-      "description": "ग्लोबल आईएमई बैंक लिमिटेडको नायब प्रमुख कार्यकारी अधिकृत (डीसीईओ) पदमा दीपचन्द्र रेग्मी बढुवा भएका छन्।&nbsp;मंगलबार बसेको बैंक सञ्चालक समितिको बैठकको निर्णयानुसार उनलाई उक्त पदमा बढुवा गरिएको हो ।नवनियुक्त नायब प्रमुख कार्यकारी अधिकृत रेग्मी बैंकको सहायक प्रमुख कार्यकारी अधिकृतका रूपमा कार्यरत थिए ।&nbsp;सन् २००७ मा स्ट्यान्डर्ड चार्टर्ड बैंक नेपालबाट बैंकिङ करिअर शुरू गरेका रेग्मी सन् २००९ देखि ग्लोबल आईएमई बैंकमा आबद्ध छन् ।उनले बैंकको प्रमुख वित्तीय अधिकृत (सीएफओ), प्रमुख मानव संसाधन अधिकृत",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "226acb995cec0121",
       "source_count": 1,
       "verified": false,
       "local": false,

@@ -1,6 +1,6 @@
 {
   "date_np": "2026-10-06",
-  "generated_at": "2026-10-06T11:42:30.426518+00:00",
+  "generated_at": "2026-10-06T11:43:28.831888+00:00",
   "items": [
     {
       "title": "एनसेल ग्राहकलाई ट्रान्क्विलिटी स्पामा विशेष छुट",
@@ -19,7 +19,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 145.0,
+      "score": 144.9,
       "story_size": 3,
       "image_local": "images/news_e22b3df9b0e25662eecb.webp"
     },
@@ -59,7 +59,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.3,
+      "score": 133.2,
       "story_size": 2
     },
     {
@@ -78,7 +78,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.2,
+      "score": 133.1,
       "story_size": 2
     },
     {
@@ -133,7 +133,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.9,
+      "score": 112.8,
       "story_size": 1,
       "image_local": "images/news_08deac07531c23b328e1.jpg"
     },
@@ -152,7 +152,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.7,
+      "score": 112.6,
       "story_size": 1,
       "image_local": "images/news_26debdf1e1b0378f2ea8.jpg"
     }
