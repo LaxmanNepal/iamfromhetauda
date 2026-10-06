@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T10:56:15.725442+00:00",
+  "updated_at": "2026-10-06T11:00:52.017546+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -16,23 +16,24 @@
   ],
   "items": [
     {
-      "title": "दुबईमा सम्पन्न टिभिएस मोटरको आफ्टर – सेल्स सम्मेलनमा जगदम्बा मोटर्सलाई दुई अन्तर्राष्ट्रिय सम्मान",
-      "link": "https://kendrabindu.com/economy/561850/",
-      "description": "काठमाडाैं । नेपालका लागि टिभिएस मोटर कम्पनीको आधिकारिक वितरक जगदम्बा मोटर्सले दुबईमा सम्पन्न टिभिएस मोटरको अन्तर्राष्ट्रिय आफ्टर–सेल्स सम्मेलनमा दुईवटा प्रतिष्ठित सम्मान प्राप्त गरेको छ।यूएईको दुबईस्थित ताज रिसोर्ट, पाम जुमेराहमा आयोजित सम्मेलनमा विभिन्न देशका टिभिएस वितरकहरूको सहभागिता थियो। सोही सम्मेलनमा आफ्टर–सेल्स सेवामा उत्कृष्ट प्रदर्शन गरेबापत जगदम्बा मोटर्सलाई दुई विधामा सम्मान गरिएको कम्पनीले जनाएको छ। जगदम्बा मोटर्सले [&#8230;]",
-      "published": "2026-10-06T10:49:49+00:00",
-      "source": "Kendrabindu",
-      "category": "world",
-      "image": "",
+      "title": "कांग्रेस उपसभापतिमा चन्द्र भण्डारीको उम्मेदवारी दर्ता",
+      "link": "https://www.ratopati.com/story/597673/chandra-bhandari-files-candidacy-for-nepali-congress-vice-president",
+      "description": "काठमाडौँ। नेपाली कांग्रेसका नेता चन्द्र भण्डारीले उपसभापति पदमा उम्मेदवारी दर्ता गराएका छन्। १५औँ महाशवेशनअन्तर्गत राजधानीको राष्ट्रिय सभागृहस्थित मनोनयन दर्ता स्थलमा पुगेर उनले मङ्गलबार खुलातर्फ उपसभापति पदमा उम्मेदवारी दर्ता गराएका हुन्।",
+      "published": "2026-10-06T10:56:32+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/chandra-bhandari_Xl8Mmzhsq8.webp",
       "related_sources": [
-        "Kendrabindu",
+        "Ratopati",
         "Khabarhub"
       ],
-      "id": "c3d6714317effd0b",
+      "id": "09b94f1edc94deb5",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.6,
-      "story_size": 2
+      "score": 136.7,
+      "story_size": 2,
+      "image_local": "images/news_017eb658d1be1fbb0724.webp"
     },
     {
       "title": "हालजेनलाई भौतिकशास्त्रको नोबेल पुरस्कार",
@@ -50,26 +51,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.5,
-      "story_size": 2
-    },
-    {
-      "title": "रामहरि खतिवडाद्वारा कांग्रेस सहमहामन्त्रीमा उम्मेदवारी दर्ता",
-      "link": "https://khabarhub.com/2026/06/1034106/",
-      "description": "काठमाडौँ &#8211; नेपाली कांग्रेसका नेता एवं पूर्वकेन्द्रीय सदस्य रामहरि खतिवडाले पार्टीको १५औँ महाधिवेशनअन्तर्गत सहमहामन्त्री पदमा उम्मेदवारी दर्ता गराएका छन् । मंगलबार राष्ट्रिय सभागृहस्थित केन्द्रीय निर्वाचन कार्यालय पुगेर उनले सहमहामन्त्रीको खुला समूहबाट मनोनयन पत्र दर्ता गराएका हुन् । ओखलढुंगाबाट प्रतिनिधिसभा सदस्य भइसकेका नेता खतिवडाले प्रतिनिधिसभाअन्तर्गतको राज्य व्यवस्था तथा सुशासन समितिको सभापतिको जिम्मेवारी सम्हालिसकेका छन्। पार्टीको सांगठनिक [&#8230;]",
-      "published": "2026-10-06T10:45:21+00:00",
-      "source": "Khabarhub",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
-        "OnlineKhabar"
-      ],
-      "id": "bf5efafc4883020b",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 133.3,
+      "score": 133.2,
       "story_size": 2
     },
     {
@@ -88,7 +70,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 131.8,
+      "score": 131.5,
       "story_size": 2
     },
     {
@@ -107,8 +89,84 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 131.4,
+      "score": 131.1,
       "story_size": 2
+    },
+    {
+      "title": "कोहलपुरको थापा पोलिक्लिनिक घटना : पेसागत संघसंस्थाहरूद्वारा निष्पक्ष छानबिनको माग",
+      "link": "https://www.ratopati.com/story/597676/kohalpurs-thapa-polyclinic-incident-professional-organizations-demand-impartial-investigation",
+      "description": "बाँके । बाँकेको कोहलपुर नगरपालिका वडा नं. ११ स्थित थापा पोलिक्लिनिकमा गत असोज १७ गते अपरान्ह घटेको घटनाप्रति स्वास्थ्य सेवामा आबद्ध विभिन्न पेसागत संघसंस्थाहरूले गम्भीर ध्यानाकर्षण भएको जनाएका छन्। शनिबार स्वास्थ्यकर्मीलाई महिलाले झापड हानेको भिडियो यतिबेला",
+      "published": "2026-10-06T10:59:59+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/thapa-medical_5uHkz1CHrW.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "4c3fb0e6a1856993",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.9,
+      "story_size": 1,
+      "image_local": "images/news_83d57af75705eaf6dc53.webp"
+    },
+    {
+      "title": "उदय शमशेर राणाले महामन्त्रीमा दर्ता गराए उम्मेदवारी",
+      "link": "https://www.ratopati.com/story/597675/uday-shamsher-rana-registers-candidacy-for-general-secretary",
+      "description": "काठमाडौँ। नेपाली कांग्रेसका नेता उदय शमशेर राणाले महामन्त्री पदमा उम्मेदवारी दर्ता गराएका छन्। १५औँ महाधिवेशनअन्तर्गत राजधानीको राष्ट्रिय सभागृहस्थित मनोनयन दर्ता स्थलमा पुगेर उनले मङ्गलबार खुलातर्फ महामन्त्री पदमा उम्मेदवारी दर्ता गराएका हुन्।",
+      "published": "2026-10-06T10:59:40+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/udaya-rana_D5il9qVVyJ.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "68eaa90a06e5f0ff",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.9,
+      "story_size": 1,
+      "image_local": "images/news_16a677d67c53b3e9b59f.webp"
+    },
+    {
+      "title": "भोलिदेखि जसपा नेपालको केन्द्रीय समिति बैठक, यस्ता छन् एजेन्डा",
+      "link": "https://www.ratopati.com/story/597674/jsp-nepal-central-committee-meeting-from-tomorrow-here-is-the-agenda",
+      "description": "काठमाडौँ । जनता समाजवादी पार्टी नेपालको भोलिदेखि केन्द्रीय समितिको बैठक सुरु हुने भएको छ । महन्थ ठाकुर नेतृत्वको लोकतान्त्रिक समाजवादी पार्टी र उपेन्द्र यादव नेतृत्वको जनता समाजवादी पार्टी नेपालबिच एकता भएपछिको यो पहिलो बैठक हो ।",
+      "published": "2026-10-06T10:58:44+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/mahantha-upendra_xbqx0LNuaf.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "e3d6bf97b259b8f9",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.9,
+      "story_size": 1,
+      "image_local": "images/news_4ea8c839ced921f8f6be.jpg"
+    },
+    {
+      "title": "सहमहामन्त्रीमा सुवेदी, खतिवडा र शिवाकोटीको उम्मेदवारी",
+      "link": "https://gorkhapatraonline.com/news/225641",
+      "description": "काठमाडौँ, असोज २० गते । नेपाली कांग्रेसको नयाँ नेतृत्व चयनका लागि मंगलबारदेखि सुरु भएको मनोनयन दर्ता प्रक्रियाअन्तर्गत डिल्लीराम सुवेदीले सहमहामन्त्री पदमा उम्मेदवारी दर्ता गराउनु...",
+      "published": "2026-10-06T16:41:22+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "politics",
+      "image": "https://gorkhapatraonline.com/storage/media/386747/conversions/congress-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "55d545a8dacbb1a6",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.7,
+      "story_size": 1,
+      "image_local": "images/news_f9be3a926673f591fff2.jpg"
     },
     {
       "title": "ओभरटेक गर्ने क्रममा ट्रकमा ठोक्किएर मोटरसाइकल चालकको मृत्यु",
@@ -125,7 +183,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.9,
+      "score": 112.6,
       "story_size": 1,
       "image_local": "images/news_e418f50023707824eefa.jpg"
     },
@@ -144,7 +202,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.8,
+      "score": 112.5,
       "story_size": 1,
       "image_local": "images/news_ffebdfc64ee15703b54b.jpg"
     },
@@ -163,7 +221,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.7,
+      "score": 112.4,
       "story_size": 1,
       "image_local": "images/news_ab12969d46b33075dbf6.jpg"
     },
@@ -182,7 +240,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.7,
+      "score": 112.4,
       "story_size": 1,
       "image_local": "images/news_4dd876671f3eb9b6e649.jpg"
     },
@@ -201,7 +259,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.7,
+      "score": 112.4,
       "story_size": 1,
       "image_local": "images/news_78f98b3a9b441018db81.webp"
     },
@@ -220,7 +278,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.5,
+      "score": 112.2,
       "story_size": 1,
       "image_local": "images/news_b5d151556746d6a754c9.jpg"
     },
@@ -239,7 +297,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.5,
+      "score": 112.2,
       "story_size": 1,
       "image_local": "images/news_6c1c5c71d641594eb870.webp"
     },
@@ -258,7 +316,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.5,
+      "score": 112.2,
       "story_size": 1,
       "image_local": "images/news_c582ad9729eb9bccb11a.webp"
     },
@@ -277,7 +335,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.3,
+      "score": 112.0,
       "story_size": 1,
       "image_local": "images/news_e4aedf7b884756c83ce6.webp"
     },
@@ -296,7 +354,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.2,
+      "score": 111.8,
       "story_size": 1,
       "image_local": "images/news_67ebc350dc00530907dc.webp"
     },
@@ -315,7 +373,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.1,
+      "score": 111.8,
       "story_size": 1,
       "image_local": "images/news_e0cc7ab2b8f3d3dfb8a6.webp"
     },
@@ -334,7 +392,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.9,
+      "score": 111.6,
       "story_size": 1,
       "image_local": "images/news_cf95d3d6d60bbb56c366.webp"
     },
@@ -353,7 +411,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.8,
+      "score": 111.5,
       "story_size": 1,
       "image_local": "images/news_e7f1692d7cfb1ff1f290.jpg"
     },
@@ -372,7 +430,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.8,
+      "score": 111.5,
       "story_size": 1,
       "image_local": "images/news_998ca1341ee7884157e5.webp"
     },
@@ -391,7 +449,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.6,
+      "score": 111.3,
       "story_size": 1,
       "image_local": "images/news_4d779f338745987c869c.jpg"
     },
@@ -410,7 +468,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.5,
+      "score": 111.2,
       "story_size": 1,
       "image_local": "images/news_5b755efe7934d2877176.webp"
     },
@@ -429,7 +487,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.5,
+      "score": 111.2,
       "story_size": 1,
       "image_local": "images/news_e32aa7fd2073eaa8a2ec.webp"
     },
@@ -448,7 +506,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.3,
+      "score": 111.0,
       "story_size": 1,
       "image_local": "images/news_560aca08bb1537282433.webp"
     },
@@ -467,7 +525,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.3,
+      "score": 111.0,
       "story_size": 1,
       "image_local": "images/news_493cb50b00d5bfddc9b8.jpg"
     },
@@ -486,7 +544,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.0,
+      "score": 110.7,
       "story_size": 1,
       "image_local": "images/news_b0bde2fa07122a067e32.jpg"
     },
@@ -505,7 +563,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.0,
+      "score": 110.7,
       "story_size": 1,
       "image_local": "images/news_0fd8a46ad28993f9e07b.webp"
     },
@@ -524,7 +582,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.9,
+      "score": 110.6,
       "story_size": 1,
       "image_local": "images/news_5584e5f92586d51c9205.webp"
     },
@@ -543,7 +601,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.8,
+      "score": 110.5,
       "story_size": 1,
       "image_local": "images/news_d201e27dcecffb34cdd8.jpg"
     },
@@ -562,7 +620,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.7,
+      "score": 110.4,
       "story_size": 1,
       "image_local": "images/news_572055342cb4a140de3c.webp"
     },
@@ -581,7 +639,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.6,
+      "score": 110.3,
       "story_size": 1,
       "image_local": "images/news_f80e169574de8ffbbe2b.webp"
     },
@@ -600,7 +658,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.5,
+      "score": 110.2,
       "story_size": 1,
       "image_local": "images/news_fe4d9db4271c66ec56a3.jpg"
     },
@@ -619,7 +677,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.4,
+      "score": 110.1,
       "story_size": 1,
       "image_local": "images/news_7032860f01545daba2c9.jpg"
     },
@@ -638,7 +696,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.3,
+      "score": 110.0,
       "story_size": 1,
       "image_local": "images/news_7342ad99b2e59881c314.webp"
     },
@@ -657,9 +715,45 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.3,
+      "score": 110.0,
       "story_size": 1,
       "image_local": "images/news_d6e04d795cd5226db2a2.jpg"
+    },
+    {
+      "title": "एनसेल ग्राहकलाई ट्रान्क्विलिटी स्पामा विशेष छुट",
+      "link": "https://khabarhub.com/2026/06/1027242/",
+      "description": "काठमाडौं&#8211; एनसेलका ग्राहकहरूले अब ट्रान्क्विलिटी स्पामा स्पा तथा सौन्दर्य सेवाहरूमा बाइ वान गेट वान अफर र विशेष छुटहरूको लाभ लिन सक्ने भएका छन् । एनसेल र ट्रान्क्विलिटी स्पाबीचको यो साझेदारीसँगै यी योजनाहरू सार्वजनिक गरिएका हुन्। साझेदारी अन्तर्गत, ४९९ वा सोभन्दा बढी मूल्यको प्रिपेड प्याक वा पोस्टपेड प्लान खरिद गर्ने ग्राहकहरूले सिग्नेचर मसाज, बडी स्क्रब, शिरोधारा र [&#8230;]",
+      "published": "2026-10-06T10:58:59+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "d3979ac2dca0c21d",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.9,
+      "story_size": 1
+    },
+    {
+      "title": "उदयशमशेरले दिए महामन्त्रीमा उमेदवारी",
+      "link": "https://baahrakhari.com/detail/504018",
+      "description": "",
+      "published": "2026-10-06T16:43:57+05:45",
+      "source": "Baahrakhari",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "ee8dfd69bbe2b3cc",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.9,
+      "story_size": 1
     },
     {
       "title": "LIVE UPDATES : राष्ट्रिय सभागृहमा यसरी हुँदैछ कांग्रेसको उम्मेदवारी दर्ता",
@@ -676,7 +770,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.2,
+      "score": 109.9,
       "story_size": 1,
       "image_local": "images/news_685f8411b031a4e022f8.webp"
     },
@@ -695,9 +789,45 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.2,
+      "score": 109.9,
       "story_size": 1,
       "image_local": "images/news_65e5a63333f876b47b50.webp"
+    },
+    {
+      "title": "साउदीका लागि प्रस्तावित राजदूतमाथि रास्वपा सांसद खगेन्द्र सुनारलाई जोडेर लाग्यो गम्भीर आरोप",
+      "link": "https://baahrakhari.com/detail/504017",
+      "description": "",
+      "published": "2026-10-06T16:43:03+05:45",
+      "source": "Baahrakhari",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "471a8656c21a88b5",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.8,
+      "story_size": 1
+    },
+    {
+      "title": "कांग्रेसको १५औँ महाधिवेशन : सहमहामन्त्री पदमा आङगेलु शेर्पाले दिए उम्मेदवारी",
+      "link": "https://khabarhub.com/2026/06/1034135/",
+      "description": "काठमाडौं- नेपाली कांग्रेसको १५औँ महाधिवेशनमा सहमहामन्त्री पदमा आङगेलु शेर्पाले उम्मेदवारी दिएका छन् । उनले अल्पसङ्ख्यक कलस्टरबाट सहमहामन्त्री पदमा उम्मेदवारी दिएका हुन् । कांग्रेसको १५ औँ महाधिवेशनबाट विभिन्न कलस्टरबाट १५ जना सहमहामन्त्री चुनिनेछन् । यस महाधिवेशनले २९७ सदस्यीय केन्द्रीय समितिका साथै २५ जना पदाधिकारी चुन्नेछ ।",
+      "published": "2026-10-06T10:57:18+00:00",
+      "source": "Khabarhub",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "a6191ab18d4028db",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.8,
+      "story_size": 1
     },
     {
       "title": "श्यामकृष्ण खड्गीले दिए कांग्रेस सभापतिमा उम्मेदवारी",
@@ -714,7 +844,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.1,
+      "score": 109.8,
       "story_size": 1,
       "image_local": "images/news_7756fa1fd00e1a518a4e.jpg"
     },
@@ -733,28 +863,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.1,
+      "score": 109.8,
       "story_size": 1,
       "image_local": "images/news_38c1240f9b69a59158f8.webp"
-    },
-    {
-      "title": "कांग्रेस केन्द्रीय सदस्यमा गायिका रीता थापा मगरको उम्मेदवारी दर्ता",
-      "link": "https://www.ratopati.com/story/597647/singer-rita-thapa-magar-files-candidacy-for-nepali-congress-central-member",
-      "description": "काठमाडौँ। गायिका तथा लोक तथा दोहोरी गीत प्रतिष्ठानकी अध्यक्ष रीता थापा मगरले नेपाली कांग्रेस केन्द्रीय सदस्य पदमा उम्मेदवारी दर्ता गराएकी छन् । उनले १५औँ महाधिवेशनअन्तर्गत राजधानीको राष्ट्रिय सभागृहस्थित मनोनयन दर्ता स्थलमा पुगेर मंगलबार उम्मेदवारी दर्ता गराएकी",
-      "published": "2026-10-06T10:11:14+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/rita-thapa-magar_ocEqupzeoH.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "f529eaef97026e52",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 110.0,
-      "story_size": 1,
-      "image_local": "images/news_b790bd06da5a33600bbb.jpg"
     },
     {
       "title": "फ्रान्सिस ह्याल्जेनलाई भौतिकशास्त्रतर्फको नोबेल पुरस्कार",
@@ -771,7 +882,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.9,
+      "score": 109.6,
       "story_size": 1
     },
     {
@@ -789,7 +900,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.9,
+      "score": 109.6,
       "story_size": 1
     },
     {
@@ -807,25 +918,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.9,
+      "score": 109.6,
       "story_size": 1
     },
     {
-      "title": "चन्द्र भण्डारीले गरे कांग्रेस उपसभापतिमा उम्मेदवारी दर्ता",
-      "link": "https://khabarhub.com/2026/06/1034116/",
-      "description": "काठमाडौँ &#8211; नेपाली कांग्रेसका नेता डा. चन्द्रकान्त भण्डारीले पार्टीको १५औँ महाधिवेशनअन्तर्गत खुला समूहबाट उपसभापति पदमा उम्मेदवारी दर्ता गराएका छन् । मंगलबार राष्ट्रिय सभागृहस्थित केन्द्रीय निर्वाचन कार्यालय पुगेर उनले आफ्नो मनोनयन पत्र दर्ता गराएका हुन् । यसअघि नै उपसभापतिमा उठ्ने घोषणा गरेका डा. भण्डारीले &#8216;रूपान्तरित कांग्रेस&#8217; निर्माणलाई आफ्नो उम्मेदवारीको मुख्य एजेन्डा बनाएका छन् । उनले &#8216;समृद्ध [&#8230;]",
-      "published": "2026-10-06T10:53:51+00:00",
-      "source": "Khabarhub",
+      "title": "डा. चन्द्र भण्डारीले दिए कांग्रेस उपसभापतिमा उम्मेदवारी",
+      "link": "https://www.onlinekhabar.com/2026/10/2033567/dr-chandra-bhandari-files-candidacy-for-the-post-of-nepali-congress-vice-president",
+      "description": "नेपाली कांग्रेसका नेता डा. चन्द्र भण्डारीले उपसभापतिमा मनोनयन दर्ता गरेका छन् ।",
+      "published": "2026-10-06T10:54:12+00:00",
+      "source": "OnlineKhabar",
       "category": "politics",
       "image": "",
       "related_sources": [
-        "Khabarhub"
+        "OnlineKhabar"
       ],
-      "id": "ddc6c9963b72f69a",
+      "id": "aa24dbe45b0eca07",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.8,
+      "score": 109.6,
       "story_size": 1
     },
     {
@@ -843,27 +954,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.8,
+      "score": 109.5,
       "story_size": 1
-    },
-    {
-      "title": "सर्वोच्च अदालतमा न्यायाधीश सिफारिस गर्न न्याय परिषद् बैठक जारी",
-      "link": "https://www.ratopati.com/story/597646/judicial-council-meeting-continues-to-recommend-judges-to-the-supreme-court",
-      "description": "काठमाडौँ। सर्वोच्च अदालतको रिक्त न्यायाधीश नियुक्तिका लागि न्याय परिषद् बैठक जारी छ। प्रधान न्यायाधीश डा. मनोजकुमार शर्माको अध्यक्षतामा मंगलबार बैठक बसिरहेको छ। परिषद्का एक सदस्यले दिएको जानकारी अनुसार परिषद् बैठक दिउँसो २ बजेदेखि जारी छ। सर्वोच्च",
-      "published": "2026-10-06T10:08:32+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/supreme-court_KO9WPWYDRm.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "dafaa2cd1c235b0a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.8,
-      "story_size": 1,
-      "image_local": "images/news_b663c971e709f316aebb.jpg"
     },
     {
       "title": "अन्तर्राष्ट्रिय कृषि यान्त्रीकरण प्रदर्शनी २०२६ को प्लेटिनम प्रायोजक बन्यो जी–सेभेन एग्रिकल्चर",
@@ -880,11 +972,11 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.7,
+      "score": 109.4,
       "story_size": 1
     },
     {
-      "title": "कांग्रेस १५ महाधिवेशन : भोट माग्ने रोबोट भन्छ- जय नेपाल",
+      "title": "कांग्रेस महाधिवेशन : भोट माग्ने रोबोट भन्छ- जय नेपाल",
       "link": "https://khabarhub.com/2026/06/1034100/",
       "description": "काठमाडौं&#8211; नेपाली कांग्रेसको जारी १५ औँ महाधिवेशनमा केन्द्रीय सदस्य उम्मेदवार रहेका नवराज त्रिपाठीले भोट माग्न रोबोटको प्रयोग गरेका छन् । इन्जिनियरसमेत रहेका त्रिपाठीले रोबोटसँगै पछिपछि हिँड्दै राष्ट्रिय सभागृहमा प्रतिनिधिसँग भेटघाट र मत मागिरहेका छन् ।&#160; अघिअघि हिँडिरहेको रोबोटले उनका लागि मत माग्छ । मत मागेपछि रोबोटले अन्तिममा भन्छ – जय नेपाल !",
       "published": "2026-10-06T10:51:30+00:00",
@@ -894,11 +986,11 @@
       "related_sources": [
         "Khabarhub"
       ],
-      "id": "44fb995e8075aea1",
+      "id": "f128d63bac38e18d",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.7,
+      "score": 109.4,
       "story_size": 1
     },
     {
@@ -916,7 +1008,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.6,
+      "score": 109.3,
       "story_size": 1
     },
     {
@@ -934,27 +1026,26 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.6,
+      "score": 109.3,
       "story_size": 1
     },
     {
-      "title": "कांग्रेस उपसभापतिमा मधु आचार्यको उम्मेदवारी दर्ता",
-      "link": "https://www.ratopati.com/story/597645/madhu-acharya-files-candidacy-for-nepali-congress-vice-president",
-      "description": "काठमाडौँ। नेपाली कांग्रेसका नेता मधु आचार्यले उपसभापति पदमा उम्मेदवारी दर्ता गराएका छन्। १५औँ महाधिवेशनअन्तर्गत राजधानीको राष्ट्रिय सभागृहस्थित मनोनयन दर्ता स्थलमा पुगेर उनले मंगलबार उपसभापति पदमा उम्मेदवारी दर्ता गराएका हुन्।",
-      "published": "2026-10-06T10:04:51+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/madhu_mJYPPbrkrC.webp",
+      "title": "दुबईमा सम्पन्न टिभिएस मोटरको आफ्टर – सेल्स सम्मेलनमा जगदम्बा मोटर्सलाई दुई अन्तर्राष्ट्रिय सम्मान",
+      "link": "https://kendrabindu.com/economy/561850/",
+      "description": "काठमाडाैं । नेपालका लागि टिभिएस मोटर कम्पनीको आधिकारिक वितरक जगदम्बा मोटर्सले दुबईमा सम्पन्न टिभिएस मोटरको अन्तर्राष्ट्रिय आफ्टर–सेल्स सम्मेलनमा दुईवटा प्रतिष्ठित सम्मान प्राप्त गरेको छ।यूएईको दुबईस्थित ताज रिसोर्ट, पाम जुमेराहमा आयोजित सम्मेलनमा विभिन्न देशका टिभिएस वितरकहरूको सहभागिता थियो। सोही सम्मेलनमा आफ्टर–सेल्स सेवामा उत्कृष्ट प्रदर्शन गरेबापत जगदम्बा मोटर्सलाई दुई विधामा सम्मान गरिएको कम्पनीले जनाएको छ। जगदम्बा मोटर्सले [&#8230;]",
+      "published": "2026-10-06T10:49:49+00:00",
+      "source": "Kendrabindu",
+      "category": "world",
+      "image": "",
       "related_sources": [
-        "Ratopati"
+        "Kendrabindu"
       ],
-      "id": "3d80ced56a17187f",
+      "id": "c3d6714317effd0b",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.6,
-      "story_size": 1,
-      "image_local": "images/news_939c8edc6ed81bbdd1e2.webp"
+      "score": 109.3,
+      "story_size": 1
     },
     {
       "title": "धनराज गुरुङले दिए उपसभापतिमा उमेदवारी",
@@ -971,7 +1062,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.5,
+      "score": 109.2,
       "story_size": 1
     },
     {
@@ -989,7 +1080,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.4,
+      "score": 109.1,
       "story_size": 1
     },
     {
@@ -1007,7 +1098,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.4,
+      "score": 109.1,
       "story_size": 1
     },
     {
@@ -1025,7 +1116,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.4,
+      "score": 109.1,
       "story_size": 1
     },
     {
@@ -1043,7 +1134,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.3,
+      "score": 109.0,
       "story_size": 1
     },
     {
@@ -1061,7 +1152,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.3,
+      "score": 109.0,
       "story_size": 1,
       "image_local": "images/news_91aa42e3c1dc157b8b8f.jpg"
     },
@@ -1080,11 +1171,29 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.2,
+      "score": 108.9,
       "story_size": 1
     },
     {
-      "title": "खुलामञ्चतिर किन दौडदैछन् चर्चित फिल्मकर्मी मीन भाम ?",
+      "title": "कांग्रेस सहमहामन्त्रीमा रामहरि खतिवडाको उम्मेदवारी दर्ता",
+      "link": "https://www.onlinekhabar.com/2026/10/2033552/ramhari-khatiwada-files-candidacy-for-congress-joint-general-secretary",
+      "description": "२० असोज, काठमाडौं । कांग्रेस नेता रामहरि खतिवडाले सहमहामन्त्रीमा उम्मेदवारी दिएका छन् । खतिवडाले कांग्रेसको १५औं महाधिवेशनअन्तर्गत खुला सहमहामन्त्री पदमा उम्मेदवारी दिएका हुन् । मंगलबार राष्ट्रिय सभागृहमा पुगेर उनले खुला सहमहामन्त्री पदमा उम्मेदवारी दर्ता गराइसकेका छन् । खतिवडा यसअघि कांग्रेस केन्द्रीय सदस्य थिए । उनी ओखलढुंगाबाट प्रतिनिधिसभा सदस्यसमेत भइसकेका छन् भने राज्य व्यवस्था तथा सुशासन [&#8230;]",
+      "published": "2026-10-06T10:43:53+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "74d35c57d1d13a90",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.9,
+      "story_size": 1
+    },
+    {
+      "title": "खुलामञ्चतिर किन दौडँदैछन् चर्चित फिल्मकर्मी मीन भाम ?",
       "link": "https://www.onlinekhabar.com/2026/10/2033518/why-is-famous-filmmaker-meen-bham-running-towards-the-open-stage",
       "description": "मीनबहादुर भाम नेपाली सिनेमाका लागि गतिलो नाम हो । तर, राजनीतिमा यो नामको तौल कति छ ? नापजाँच हुन बाँकी छ ।",
       "published": "2026-10-06T10:42:26+00:00",
@@ -1094,29 +1203,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
-      "id": "54ce76cdd6927f65",
+      "id": "74978ca518d048e7",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.1,
-      "story_size": 1
-    },
-    {
-      "title": "सरकारलाई उजुरीकर्ताको प्रश्न– निर्देशिकाविपरीत राजदूत सिफारिस किन गरेको ?",
-      "link": "https://baahrakhari.com/detail/504013",
-      "description": "",
-      "published": "2026-10-06T16:27:19+05:45",
-      "source": "Baahrakhari",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "77b224e3213cad9a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.1,
+      "score": 108.8,
       "story_size": 1
     },
     {
@@ -1134,27 +1225,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.0,
+      "score": 108.7,
       "story_size": 1
-    },
-    {
-      "title": "दुर्गा प्रसाईंलाई धरौटीमा छाड्न आदेश",
-      "link": "https://www.ratopati.com/story/597644/order-to-release-durga-prasai-on-bail",
-      "description": "काठमाडौँ। जिल्ला अदालत काठमाडौँले मेडिकल व्यवसायी दुर्गा प्रसाईंलाई विद्युतीय (इलेक्ट्रोनिक) कारोबार सम्बन्धी कसुरमा धरौटीमा छाड्न आदेश दिएको छ । जिल्ला न्यायाधीश उमेशप्रसाद लुइँटेलको इजलासले मंगलबार प्रसाईंसँग २ लाख धरौटी लिएर छाड्न आदेश दिएको हो । प्रसाईंलाई असार",
-      "published": "2026-10-06T09:56:27+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/durga-prasai_npl-(9)_76RVE2YkUt.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "8ed2700f5c08f508",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.0,
-      "story_size": 1,
-      "image_local": "images/news_8acf734ed3383dad5374.webp"
     },
     {
       "title": "विश्वप्रकाश शर्माले दिए कांग्रेस वरिष्ठ उपसभापतिमा उम्मेदवारी",
@@ -1171,7 +1243,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.9,
+      "score": 108.6,
       "story_size": 1
     },
     {
@@ -1189,7 +1261,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.9,
+      "score": 108.6,
       "story_size": 1,
       "image_local": "images/news_d9302a184cbc16000894.jpg"
     },
@@ -1208,27 +1280,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.9,
+      "score": 108.6,
       "story_size": 1,
       "image_local": "images/news_b5e415fc221a20103edf.jpg"
-    },
-    {
-      "title": "सशस्त्रका एआईजी वंशीराज दाहालविरुद्ध गम्भीर आरोप, यसरी तानिए अनुसन्धानको ‘राडार’ मा",
-      "link": "https://baahrakhari.com/detail/504011",
-      "description": "",
-      "published": "2026-10-06T16:24:00+05:45",
-      "source": "Baahrakhari",
-      "category": "tech",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "d44fcb6a2f6a6176",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 108.8,
-      "story_size": 1
     },
     {
       "title": "सहमहामन्त्रीमा डिल्लीराम सुवेदीले दिए उम्मेदवारी",
@@ -1245,7 +1299,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.6,
+      "score": 108.3,
       "story_size": 1
     },
     {
@@ -1263,7 +1317,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.5,
+      "score": 108.2,
       "story_size": 1
     },
     {
@@ -1281,7 +1335,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.4,
+      "score": 108.1,
       "story_size": 1
     },
     {
@@ -1299,7 +1353,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.4,
+      "score": 108.1,
       "story_size": 1
     },
     {
@@ -1317,7 +1371,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.4,
+      "score": 108.0,
       "story_size": 1
     },
     {
@@ -1335,7 +1389,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.0,
+      "score": 107.7,
       "story_size": 1
     },
     {
@@ -1353,7 +1407,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.0,
+      "score": 107.7,
       "story_size": 1
     },
     {
@@ -1371,7 +1425,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.9,
+      "score": 107.6,
       "story_size": 1
     },
     {
@@ -1389,7 +1443,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.8,
+      "score": 107.5,
       "story_size": 1,
       "image_local": "images/news_2575ea404ded6cbc0f88.jpg"
     },
@@ -1408,7 +1462,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.7,
+      "score": 107.4,
       "story_size": 1
     },
     {
@@ -1426,7 +1480,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.5,
+      "score": 107.2,
       "story_size": 1
     },
     {
@@ -1444,7 +1498,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.5,
+      "score": 107.2,
       "story_size": 1
     },
     {
@@ -1462,7 +1516,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.5,
+      "score": 107.2,
       "story_size": 1
     },
     {
@@ -1480,7 +1534,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.3,
+      "score": 107.0,
       "story_size": 1
     },
     {
@@ -1498,7 +1552,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.2,
+      "score": 106.9,
       "story_size": 1
     },
     {
@@ -1516,7 +1570,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.2,
+      "score": 106.9,
       "story_size": 1
     },
     {
@@ -1534,13 +1588,13 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.8,
+      "score": 106.5,
       "story_size": 1
     },
     {
-      "title": "एकल महिलाले अर्को विहे गरेमा सम्पत्ति फिर्ता गर्नुपर्ने व्यवस्था कसरी खारेज भयो ?",
+      "title": "एकल महिलाले अर्को बिहे गरेमा सम्पत्ति फिर्ता गर्नुपर्ने व्यवस्था कसरी खारेज भयो ?",
       "link": "https://www.onlinekhabar.com/2026/10/2033509/how-was-the-provision-that-a-single-woman-must-return-her-property-if-she-remarries-abolished",
-      "description": "२० असोज, काठमाडौं । एक महिलाले दोस्रो विवाह गरेमा सम्पत्ति फिर्ता गर्नुपर्ने कानुनी व्यवस्था सर्वोच्च अदालतले खारेज गरेको छ । एकल महिलाले दोस्रो विहे गरेमा पहिलेको पतिको सम्पत्तिबाट पाएको अंश फिर्ता गर्नुपर्ने मुलुकी देवानी संहिता, २०७४ को दफा २१४(२)को व्यवस्था खारेज भएको हो । महिला कानून तथा विकास मञ्चसहित तीनवटा संस्थाबाट दायर गरेको रिट निवेदनको [&#8230;]",
+      "description": "२० असोज, काठमाडौं । एकल महिलाले दोस्रो विवाह गरेमा सम्पत्ति फिर्ता गर्नुपर्ने कानुनी व्यवस्था सर्वोच्च अदालतले खारेज गरेको छ । एकल महिलाले दोस्रो बिहे गरेमा पहिलेको पतिको सम्पत्तिबाट पाएको अंश फिर्ता गर्नुपर्ने मुलुकी देवानी संहिता, २०७४ को दफा २१४(२)को व्यवस्था खारेज भएको हो । महिला कानून तथा विकास मञ्च सहित तीनवटा संस्थाबाट दायर गरेको रिट [&#8230;]",
       "published": "2026-10-06T10:05:51+00:00",
       "source": "OnlineKhabar",
       "category": "nepal",
@@ -1548,11 +1602,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
-      "id": "b4f690aad269107d",
+      "id": "c73d784b64114017",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.6,
+      "score": 106.3,
       "story_size": 1
     },
     {
@@ -1570,7 +1624,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.6,
+      "score": 106.3,
       "story_size": 1
     },
     {
@@ -1588,7 +1642,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.4,
+      "score": 106.1,
       "story_size": 1
     },
     {
@@ -1606,7 +1660,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.4,
+      "score": 106.1,
       "story_size": 1
     },
     {
@@ -1624,7 +1678,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.0,
+      "score": 105.7,
       "story_size": 1
     },
     {
@@ -1642,7 +1696,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.0,
+      "score": 105.7,
       "story_size": 1
     },
     {
@@ -1660,7 +1714,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.7,
+      "score": 105.4,
       "story_size": 1
     },
     {
@@ -1678,7 +1732,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.5,
+      "score": 105.2,
       "story_size": 1
     },
     {
@@ -1696,7 +1750,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.4,
+      "score": 105.1,
       "story_size": 1
     },
     {
@@ -1714,7 +1768,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.9,
+      "score": 104.6,
       "story_size": 1
     },
     {
@@ -1732,7 +1786,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.5,
+      "score": 104.2,
       "story_size": 1
     },
     {
@@ -1750,7 +1804,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.4,
+      "score": 104.1,
       "story_size": 1
     },
     {
@@ -1768,7 +1822,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.3,
+      "score": 104.0,
       "story_size": 1
     },
     {
@@ -1786,7 +1840,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.3,
+      "score": 104.0,
       "story_size": 1
     },
     {
@@ -1804,7 +1858,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.1,
+      "score": 103.8,
       "story_size": 1
     },
     {
@@ -1822,7 +1876,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.8,
+      "score": 103.5,
       "story_size": 1
     },
     {
@@ -1840,7 +1894,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.7,
+      "score": 103.3,
       "story_size": 1
     },
     {
@@ -1858,25 +1912,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.5,
-      "story_size": 1
-    },
-    {
-      "title": "साइक्लिङको गन्तव्य बन्दै धरान, स्वास्थ्यदेखि पर्यटनसम्म युवाको आकर्षण",
-      "link": "https://gorkhapatraonline.com/news/225631",
-      "description": "सुनसरी, असोज २० गते । धरान ‘लाहुरेको सहर’का रूपमा परिचित छ । आधुनिक जीवनशैली र फेसनेबल सहरका रूपमा समेत चिनिएको धरान पछिल्लो समय साइक्लिङका लागि पनि परिचित हुँदै गएको छ । धरानका सड...",
-      "published": "2026-10-06T14:09:13+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "business",
-      "image": "https://gorkhapatraonline.com/storage/media/386727/conversions/Cycle-story-photo-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "6ce396379fcad0e5",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 102.9,
+      "score": 103.1,
       "story_size": 1
     },
     {
@@ -1894,7 +1930,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.8,
+      "score": 102.4,
       "story_size": 1
     },
     {
@@ -1912,7 +1948,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.3,
+      "score": 102.0,
       "story_size": 1
     },
     {
@@ -1930,7 +1966,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.9,
+      "score": 101.6,
       "story_size": 1
     },
     {
@@ -1948,7 +1984,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.9,
+      "score": 101.6,
       "story_size": 1
     },
     {
@@ -1966,7 +2002,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.4,
+      "score": 101.1,
       "story_size": 1
     },
     {
@@ -1984,7 +2020,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.5,
+      "score": 100.2,
       "story_size": 1
     },
     {
@@ -2002,7 +2038,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.0,
+      "score": 99.7,
       "story_size": 1
     },
     {
@@ -2020,7 +2056,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.0,
+      "score": 99.6,
       "story_size": 1
     },
     {
@@ -2038,7 +2074,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.9,
+      "score": 99.5,
       "story_size": 1
     },
     {
@@ -2056,7 +2092,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.1,
+      "score": 98.8,
       "story_size": 1
     },
     {
@@ -2074,7 +2110,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.0,
+      "score": 98.7,
       "story_size": 1
     },
     {
@@ -2092,7 +2128,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.9,
+      "score": 98.6,
       "story_size": 1
     },
     {
@@ -2110,7 +2146,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.6,
+      "score": 98.3,
       "story_size": 1
     },
     {
@@ -2128,7 +2164,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.5,
+      "score": 98.2,
       "story_size": 1
     },
     {
@@ -2146,7 +2182,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.0,
+      "score": 97.7,
       "story_size": 1
     },
     {
@@ -2164,7 +2200,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.6,
+      "score": 97.3,
       "story_size": 1
     },
     {
@@ -2182,7 +2218,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.2,
+      "score": 96.8,
       "story_size": 1
     },
     {
@@ -2200,7 +2236,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.8,
+      "score": 96.5,
       "story_size": 1
     },
     {
@@ -2218,7 +2254,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.7,
+      "score": 96.4,
       "story_size": 1
     },
     {
@@ -2236,7 +2272,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.0,
+      "score": 95.7,
       "story_size": 1
     },
     {
@@ -2254,7 +2290,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.9,
+      "score": 95.6,
       "story_size": 1
     },
     {
@@ -2272,7 +2308,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.8,
+      "score": 95.5,
       "story_size": 1
     },
     {
@@ -2290,7 +2326,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.8,
+      "score": 95.5,
       "story_size": 1
     },
     {
@@ -2308,7 +2344,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.8,
+      "score": 95.5,
       "story_size": 1
     },
     {
@@ -2326,7 +2362,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.7,
+      "score": 94.4,
       "story_size": 1
     },
     {
@@ -2344,7 +2380,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.4,
+      "score": 94.1,
       "story_size": 1
     },
     {
@@ -2362,7 +2398,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.2,
+      "score": 93.9,
       "story_size": 1
     },
     {
@@ -2380,7 +2416,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.1,
+      "score": 93.8,
       "story_size": 1
     },
     {
@@ -2398,7 +2434,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.2,
+      "score": 92.9,
       "story_size": 1
     },
     {
@@ -2416,25 +2452,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.1,
-      "story_size": 1
-    },
-    {
-      "title": "डोटीमा ट्याक्टर दुर्घटना, ९ जना घाइते",
-      "link": "https://www.onlinekhabar.com/2026/10/2033302/tractor-accident-in-doti-9-injured",
-      "description": "२० असोज, काठमाडौं । डोटीको जोरायल गाउँपालिका–१ गैरा बजारस्थित भीमदत्त राजमार्गमा कामदार बोकेको ट्र्याक्टर दुर्घटना हुँदा ९ जना घाइते भएका छन् । मंगलबार बिहान पौने ९ बजे गैरा बजारबाट मेलखर्कतर्फ जाँदै गरेको सु.प.प्र.०१००२ त ४९१० नम्बरको ट्र्याक्टर अनियन्त्रित भई सडकबाट करिब १२० मिटर तल खसेर दुर्घटना भएको हो । उक्त ट्र्याक्टर डडेल्धुराको भागेश्वर गाउँपालिका–५ बस्ने [&#8230;]",
-      "published": "2026-10-06T06:36:28+00:00",
-      "source": "OnlineKhabar",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "30dd6acb563c384c",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 92.7,
+      "score": 92.8,
       "story_size": 1
     },
     {
@@ -2452,7 +2470,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.6,
+      "score": 82.3,
       "story_size": 1
     },
     {
@@ -2470,7 +2488,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.8,
+      "score": 78.5,
       "story_size": 1
     },
     {
@@ -2488,7 +2506,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.7,
+      "score": 74.4,
       "story_size": 1
     },
     {
@@ -2506,7 +2524,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 18.0,
+      "score": 17.7,
       "story_size": 1
     },
     {
@@ -2524,7 +2542,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 16.2,
+      "score": 15.9,
       "story_size": 1
     },
     {
@@ -2737,24 +2755,6 @@
         "BBC Nepali"
       ],
       "id": "3425921378f13ada",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 13,
-      "story_size": 1
-    },
-    {
-      "title": "बाढीले नागरिकता वा अन्य कागजपत्र हराएको छ भने के गर्ने",
-      "link": "https://www.bbc.com/nepali/articles/c63reg8d78v0o?at_medium=RSS&at_campaign=rss",
-      "description": "मानिसहरूको पहिचान जनाउने कागजपत्रहरू समेत बगे वा हिलोमा कामै नलाग्ने गरी पुरिए। धेरै जनाका नागरिकता, पासपोर्ट र जग्गाको लालपुर्जासहितका महत्त्वपूर्ण दस्तावेजहरू हराए। अब उनीहरूले के गर्नुपर्छ?",
-      "published": "2026-09-29T12:22:52+00:00",
-      "source": "BBC Nepali",
-      "category": "society",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4d4f/live/56755cf0-bc00-11f1-bc1f-3f186ca4140c.jpg",
-      "related_sources": [
-        "BBC Nepali"
-      ],
-      "id": "ff7d02891c22490b",
       "source_count": 1,
       "verified": false,
       "local": false,
