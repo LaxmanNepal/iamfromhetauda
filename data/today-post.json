@@ -1,6 +1,6 @@
 {
   "date_np": "2026-10-06",
-  "generated_at": "2026-10-06T11:00:52.020463+00:00",
+  "generated_at": "2026-10-06T11:02:49.582658+00:00",
   "items": [
     {
       "title": "कांग्रेस उपसभापतिमा चन्द्र भण्डारीको उम्मेदवारी दर्ता",
@@ -18,7 +18,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 136.7,
+      "score": 136.6,
       "story_size": 2,
       "image_local": "images/news_017eb658d1be1fbb0724.webp"
     },
@@ -38,7 +38,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.2,
+      "score": 133.1,
       "story_size": 2
     },
     {
@@ -57,7 +57,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 131.5,
+      "score": 131.4,
       "story_size": 2
     },
     {
@@ -76,11 +76,30 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 131.1,
+      "score": 131.0,
       "story_size": 2
     },
     {
-      "title": "कोहलपुरको थापा पोलिक्लिनिक घटना : पेसागत संघसंस्थाहरूद्वारा निष्पक्ष छानबिनको माग",
+      "title": "कांग्रेस उपसभापतिमा चालिसेको उम्मेदवारी",
+      "link": "https://gorkhapatraonline.com/news/225642",
+      "description": "काठमाडौँ, असोज २० गते । नेपाली कांग्रेसका प्रवक्ता देवराज चालिसेले पार्टीको १५औँ महाधिवेशनमा उपसभापति पदका लागि उम्मेदवारी दर्ता गराउनुभएको छ । चालिसेले मंगलबार कांग्रेसको नयाँ नेत...",
+      "published": "2026-10-06T16:47:13+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "politics",
+      "image": "https://gorkhapatraonline.com/storage/media/386748/conversions/WhatsApp-Image-2026-10-06-at-16.37.12-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "52c60cd5a45b0fc5",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 113.0,
+      "story_size": 1,
+      "image_local": "images/news_edd3ee02225a6df226e2.jpg"
+    },
+    {
+      "title": "थापा पोलिक्लिनिक घटना : पेसागत संघसंस्थाहरूद्वारा निष्पक्ष छानबिनको माग",
       "link": "https://www.ratopati.com/story/597676/kohalpurs-thapa-polyclinic-incident-professional-organizations-demand-impartial-investigation",
       "description": "बाँके । बाँकेको कोहलपुर नगरपालिका वडा नं. ११ स्थित थापा पोलिक्लिनिकमा गत असोज १७ गते अपरान्ह घटेको घटनाप्रति स्वास्थ्य सेवामा आबद्ध विभिन्न पेसागत संघसंस्थाहरूले गम्भीर ध्यानाकर्षण भएको जनाएका छन्। शनिबार स्वास्थ्यकर्मीलाई महिलाले झापड हानेको भिडियो यतिबेला",
       "published": "2026-10-06T10:59:59+00:00",
@@ -90,11 +109,11 @@
       "related_sources": [
         "Ratopati"
       ],
-      "id": "4c3fb0e6a1856993",
+      "id": "83db1b7cb921aae9",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.9,
+      "score": 112.8,
       "story_size": 1,
       "image_local": "images/news_83d57af75705eaf6dc53.webp"
     },
@@ -113,7 +132,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.9,
+      "score": 112.8,
       "story_size": 1,
       "image_local": "images/news_16a677d67c53b3e9b59f.webp"
     },
@@ -132,29 +151,10 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.9,
-      "story_size": 1,
-      "image_local": "images/news_4ea8c839ced921f8f6be.jpg"
-    },
-    {
-      "title": "सहमहामन्त्रीमा सुवेदी, खतिवडा र शिवाकोटीको उम्मेदवारी",
-      "link": "https://gorkhapatraonline.com/news/225641",
-      "description": "काठमाडौँ, असोज २० गते । नेपाली कांग्रेसको नयाँ नेतृत्व चयनका लागि मंगलबारदेखि सुरु भएको मनोनयन दर्ता प्रक्रियाअन्तर्गत डिल्लीराम सुवेदीले सहमहामन्त्री पदमा उम्मेदवारी दर्ता गराउनु...",
-      "published": "2026-10-06T16:41:22+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "politics",
-      "image": "https://gorkhapatraonline.com/storage/media/386747/conversions/congress-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "55d545a8dacbb1a6",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
       "score": 112.7,
       "story_size": 1,
-      "image_local": "images/news_f9be3a926673f591fff2.jpg"
+      "image_local": "images/news_4ea8c839ced921f8f6be.jpg"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. कांग्रेस उपसभापतिमा चन्द्र भण्डारीको उम्मेदवारी दर्ता\nस्रोत: Ratopati, Khabarhub\nhttps://www.ratopati.com/story/597673/chandra-bhandari-files-candidacy-for-nepali-congress-vice-president\n\n2. हालजेनलाई भौतिकशास्त्रको नोबेल पुरस्कार\nस्रोत: Khabarhub, Kendrabindu\nhttps://khabarhub.com/2026/06/1034109/\n\n3. वरिष्ठ उपसभापतिमा विश्वप्रकाश शर्माको मनोनयन\nस्रोत: Setopati, Gorkhapatra Online\nhttps://www.setopati.com/politics/400157\n\n4. दुर्गा प्रसाईंलाई दुई लाख धरौटीमा छाड्न अदालतको आदेश\nस्रोत: OnlineKhabar, Setopati\nhttps://www.onlinekhabar.com/2026/10/2033525/court-orders-release-of-durga-prasai-on-bail-of-rs-200000\n\n5. कोहलपुरको थापा पोलिक्लिनिक घटना : पेसागत संघसंस्थाहरूद्वारा निष्पक्ष छानबिनको माग\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/597676/kohalpurs-thapa-polyclinic-incident-professional-organizations-demand-impartial-investigation\n\n6. उदय शमशेर राणाले महामन्त्रीमा दर्ता गराए उम्मेदवारी\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/597675/uday-shamsher-rana-registers-candidacy-for-general-secretary\n\n7. भोलिदेखि जसपा नेपालको केन्द्रीय समिति बैठक, यस्ता छन् एजेन्डा\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/597674/jsp-nepal-central-committee-meeting-from-tomorrow-here-is-the-agenda\n\n8. सहमहामन्त्रीमा सुवेदी, खतिवडा र शिवाकोटीको उम्मेदवारी\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/225641\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. कांग्रेस उपसभापतिमा चन्द्र भण्डारीको उम्मेदवारी दर्ता\nस्रोत: Ratopati, Khabarhub\nhttps://www.ratopati.com/story/597673/chandra-bhandari-files-candidacy-for-nepali-congress-vice-president\n\n2. हालजेनलाई भौतिकशास्त्रको नोबेल पुरस्कार\nस्रोत: Khabarhub, Kendrabindu\nhttps://khabarhub.com/2026/06/1034109/\n\n3. वरिष्ठ उपसभापतिमा विश्वप्रकाश शर्माको मनोनयन\nस्रोत: Setopati, Gorkhapatra Online\nhttps://www.setopati.com/politics/400157\n\n4. दुर्गा प्रसाईंलाई दुई लाख धरौटीमा छाड्न अदालतको आदेश\nस्रोत: OnlineKhabar, Setopati\nhttps://www.onlinekhabar.com/2026/10/2033525/court-orders-release-of-durga-prasai-on-bail-of-rs-200000\n\n5. कांग्रेस उपसभापतिमा चालिसेको उम्मेदवारी\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/225642\n\n6. थापा पोलिक्लिनिक घटना : पेसागत संघसंस्थाहरूद्वारा निष्पक्ष छानबिनको माग\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/597676/kohalpurs-thapa-polyclinic-incident-professional-organizations-demand-impartial-investigation\n\n7. उदय शमशेर राणाले महामन्त्रीमा दर्ता गराए उम्मेदवारी\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/597675/uday-shamsher-rana-registers-candidacy-for-general-secretary\n\n8. भोलिदेखि जसपा नेपालको केन्द्रीय समिति बैठक, यस्ता छन् एजेन्डा\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/597674/jsp-nepal-central-committee-meeting-from-tomorrow-here-is-the-agenda\n\n— I Am From Hetauda"
 }
