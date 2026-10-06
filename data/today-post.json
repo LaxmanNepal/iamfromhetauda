@@ -1,6 +1,6 @@
 {
   "date_np": "2026-10-06",
-  "generated_at": "2026-10-06T11:33:31.380014+00:00",
+  "generated_at": "2026-10-06T11:35:45.221451+00:00",
   "items": [
     {
       "title": "एनसेल ग्राहकलाई ट्रान्क्विलिटी स्पामा विशेष छुट",
@@ -19,7 +19,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 145.6,
+      "score": 145.5,
       "story_size": 3,
       "image_local": "images/news_e22b3df9b0e25662eecb.webp"
     },
@@ -40,7 +40,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 143.3,
+      "score": 143.2,
       "story_size": 3
     },
     {
@@ -60,7 +60,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 142.1,
+      "score": 142.0,
       "story_size": 3
     },
     {
@@ -79,7 +79,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.9,
+      "score": 133.7,
       "story_size": 2
     },
     {
@@ -98,26 +98,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.8,
-      "story_size": 2
-    },
-    {
-      "title": "कांग्रेस उपसभापतिमा धनराज गुरूङको उम्मेदवारी दर्ता",
-      "link": "https://www.setopati.com/politics/400170",
-      "description": "नेपाली कांग्रेसको उपसभापति पदमा धनराज गुरूङले उम्मेदवारी दिएका छन्।",
-      "published": "2026-10-06T17:06:00+05:45",
-      "source": "Setopati",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Setopati",
-        "Ratopati"
-      ],
-      "id": "1d8524bf8f07d2c1",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 133.2,
+      "score": 133.6,
       "story_size": 2
     },
     {
@@ -135,7 +116,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.9,
+      "score": 112.7,
       "story_size": 1,
       "image_local": "images/news_9f2d446d0ad0d1c0cea8.webp"
     },
@@ -154,10 +135,29 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.8,
+      "score": 112.7,
       "story_size": 1,
       "image_local": "images/news_083e66378f4431672959.jpg"
+    },
+    {
+      "title": "कांग्रेस सहमहामन्त्रीमा दिनेश कोइरालाको उम्मेदवारी दर्ता",
+      "link": "https://www.ratopati.com/story/597690/dinesh-koirala-files-candidacy-for-nepali-congress-joint-general-secretary",
+      "description": "काठमाडौँ। नेपाली कांग्रेसका नेता दिनेश कोइरालाले सहमहामन्त्री पदमा उम्मेदवारी दर्ता गराएका छन्। १५औँ महाधिवेशनअन्तर्गत राजधानीको राष्ट्रिय सभागृहस्थित मनोनयन दर्ता स्थलमा पुगेर उनले मंगलबार खसआर्यतर्फ सहमहामन्त्री पदमा उम्मेदवारी दर्ता गराएकी हुन्।",
+      "published": "2026-10-06T11:29:45+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/dinesh-koirala_7CeMVyOOB8.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "7dd2b40ef84485d4",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.6,
+      "story_size": 1,
+      "image_local": "images/news_5879ad0b822e4e3092a1.webp"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. एनसेल ग्राहकलाई ट्रान्क्विलिटी स्पामा विशेष छुट\nस्रोत: Ratopati, Kendrabindu, Khabarhub\nhttps://www.ratopati.com/story/597682/special-discount-for-ncell-customers-at-tranquility-spa\n\n2. कमला नदीको पुल निर्माण अन्तिम चरणमा, मङ्सिरदेखि सञ्चालनमा ल्याइने\nस्रोत: Kendrabindu, Khabarhub, Ratopati\nhttps://kendrabindu.com/economy/561879/\n\n3. कांग्रेस उपसभापतिमा चन्द्र भण्डारीकाे उम्मेदवारी दर्ता\nस्रोत: Kendrabindu, Ratopati, Khabarhub\nhttps://kendrabindu.com/politics/561864/\n\n4. किसानलाई छिट्टै परिचयपत्र वितरण गरिने\nस्रोत: Kendrabindu, Ratopati\nhttps://kendrabindu.com/economy/561881/\n\n5. कांग्रेस उपसभापतिमा मीनेन्द्र रिजालको उम्मेदवारी दर्ता\nस्रोत: Setopati, OnlineKhabar\nhttps://www.setopati.com/politics/400173\n\n6. कांग्रेस उपसभापतिमा धनराज गुरूङको उम्मेदवारी दर्ता\nस्रोत: Setopati, Ratopati\nhttps://www.setopati.com/politics/400170\n\n7. घटस्थापनादेखि पूर्णिमासम्म नारायणगढ–काठमाडौं सडकमा ठूला गाडी चलाउन रोक\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/597691/large-vehicles-banned-from-operating-on-narayangadh-kathmandu-road-from-ghatasthapana-to-purnima\n\n8. सहमहामन्त्रीमा बाँस्तोलाको उम्मेदवारी दर्ता\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/225645\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. एनसेल ग्राहकलाई ट्रान्क्विलिटी स्पामा विशेष छुट\nस्रोत: Ratopati, Kendrabindu, Khabarhub\nhttps://www.ratopati.com/story/597682/special-discount-for-ncell-customers-at-tranquility-spa\n\n2. कमला नदीको पुल निर्माण अन्तिम चरणमा, मङ्सिरदेखि सञ्चालनमा ल्याइने\nस्रोत: Kendrabindu, Khabarhub, Ratopati\nhttps://kendrabindu.com/economy/561879/\n\n3. कांग्रेस उपसभापतिमा चन्द्र भण्डारीकाे उम्मेदवारी दर्ता\nस्रोत: Kendrabindu, Ratopati, Khabarhub\nhttps://kendrabindu.com/politics/561864/\n\n4. किसानलाई छिट्टै परिचयपत्र वितरण गरिने\nस्रोत: Kendrabindu, Ratopati\nhttps://kendrabindu.com/economy/561881/\n\n5. कांग्रेस उपसभापतिमा मीनेन्द्र रिजालको उम्मेदवारी दर्ता\nस्रोत: Setopati, OnlineKhabar\nhttps://www.setopati.com/politics/400173\n\n6. घटस्थापनादेखि पूर्णिमासम्म नारायणगढ–काठमाडौं सडकमा ठूला गाडी चलाउन रोक\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/597691/large-vehicles-banned-from-operating-on-narayangadh-kathmandu-road-from-ghatasthapana-to-purnima\n\n7. सहमहामन्त्रीमा बाँस्तोलाको उम्मेदवारी दर्ता\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/225645\n\n8. कांग्रेस सहमहामन्त्रीमा दिनेश कोइरालाको उम्मेदवारी दर्ता\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/597690/dinesh-koirala-files-candidacy-for-nepali-congress-joint-general-secretary\n\n— I Am From Hetauda"
 }
