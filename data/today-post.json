@@ -1,6 +1,6 @@
 {
   "date_np": "2026-10-06",
-  "generated_at": "2026-10-06T10:29:23.185473+00:00",
+  "generated_at": "2026-10-06T10:39:28.199828+00:00",
   "items": [
     {
       "title": "दुर्गा प्रसाईंलाई दुई लाख धरौटीमा छाड्न अदालतको आदेश",
@@ -19,7 +19,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 143.2,
+      "score": 142.6,
       "story_size": 3
     },
     {
@@ -38,7 +38,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.9,
+      "score": 133.2,
       "story_size": 2,
       "image_local": "images/news_c021b9401b31f26d5a23.webp"
     },
@@ -58,7 +58,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.7,
+      "score": 133.0,
       "story_size": 2
     },
     {
@@ -77,7 +77,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.5,
+      "score": 132.8,
       "story_size": 2
     },
     {
@@ -96,7 +96,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 132.8,
+      "score": 132.2,
       "story_size": 2
     },
     {
@@ -115,47 +115,47 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 132.2,
+      "score": 131.5,
       "story_size": 2
     },
     {
-      "title": "वरिष्ठ उपसभापतिमा विश्वप्रकाश शर्माको उम्मेदवारी दर्ता",
-      "link": "https://khabarhub.com/2026/06/1034030/",
-      "description": "काठमाडौँ &#8211; नेपाली कांग्रेसका नेता विश्वप्रकाश शर्माले पार्टीको वरिष्ठ उपसभापति पदमा उम्मेदवारी दर्ता गराएका छन्। कांग्रेसको १५औँ महाधिवेशनअन्तर्गत शर्माले मंगलबार वरिष्ठ उपसभापति पदमा उम्मेदवारी दर्ता गराएका हुन्। उनी विशेष महाधिवेशनबाट कांग्रेसको उपसभापति बनेका थिए। शर्माको उम्मेदवारी वरिष्ठ उपसभापति पदमै रहेको झापाका नेता उद्धव थापाले जानकारी दिए। शर्माले आफ्नो उम्मेदवारीका लागि प्रस्तावक र समर्थकसमेत पूर्वेली नेताहरूलाई [&#8230;]",
-      "published": "2026-10-06T09:44:26+00:00",
-      "source": "Khabarhub",
-      "category": "world",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
-        "Ratopati"
-      ],
-      "id": "2f2765e9e99f6c37",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 131.0,
-      "story_size": 2
-    },
-    {
-      "title": "नेप्से परिसूचक ११ दशमलव ९६ अंकले बढ्यो",
-      "link": "https://www.thahakhabar.com/detail/309918",
+      "title": "इरानविरुद्ध अमेरिका र नौ देश एकजुट",
+      "link": "https://www.thahakhabar.com/detail/309920",
       "description": "",
-      "published": "2026-10-06T16:11:13+05:45",
+      "published": "2026-10-06T16:23:51+05:45",
       "source": "Thaha Khabar",
-      "category": "business",
-      "image": "https://www.thahakhabar.com/uploads/posts/nepse-1766569743.jpg",
+      "category": "world",
+      "image": "https://www.thahakhabar.com/uploads/posts/iran-america-1779694818.jpg",
       "related_sources": [
         "Thaha Khabar"
       ],
-      "id": "c176c2377f7b70f6",
+      "id": "cd1ce05feb2e1aa3",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.8,
+      "score": 113.0,
       "story_size": 1,
-      "image_local": "images/news_b0bde2fa07122a067e32.jpg"
+      "image_local": "images/news_e7f1692d7cfb1ff1f290.jpg"
+    },
+    {
+      "title": "नेपालको आर्थिक वृद्धि ३.७ प्रतिशतमा सीमित हुने विश्व बैंकको प्रक्षेपण",
+      "link": "https://gorkhapatraonline.com/news/225639",
+      "description": "काठमाडौँ, असोज २० गते । भदौ १० गते आएको विनाशकारी रसुवा बाढीका कारण उद्योग तथा सेवा क्षेत्रमा परेको अवरोधले नेपालको आर्थिक वृद्धिदर आर्थिक वर्ष २०८३/८४ मा सुस्त भई तीन दशमलव सात प्...",
+      "published": "2026-10-06T16:19:43+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "business",
+      "image": "https://gorkhapatraonline.com/storage/media/386742/conversions/badhi_betrawati-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "98055ed898808fea",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.7,
+      "story_size": 1,
+      "image_local": "images/news_4d779f338745987c869c.jpg"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. दुर्गा प्रसाईंलाई दुई लाख धरौटीमा छाड्न अदालतको आदेश\nस्रोत: OnlineKhabar, Baahrakhari, Setopati\nhttps://www.onlinekhabar.com/2026/10/2033525/court-orders-release-of-durga-prasai-on-bail-of-rs-200000\n\n2. कांग्रेस उपसभापतिमा गोविन्द भट्टराईको उम्मेदवारी दर्ता\nस्रोत: Ratopati, OnlineKhabar\nhttps://www.ratopati.com/story/597638/govinda-bhattarai-files-candidacy-for-nepali-congress-vice-president\n\n3. वरिष्ठ उपसभापतिमा विश्वप्रकाश शर्माको मनोनयन\nस्रोत: Setopati, Gorkhapatra Online\nhttps://www.setopati.com/politics/400157\n\n4. कांग्रेसको सभापतिमा श्यामकृष्ण खड्गीको उम्मेदवारी दर्ता\nस्रोत: Nepal Samaya, Ratopati\nhttps://nepalsamaya.com/detail/146750\n\n5. दुर्गा प्रसाईंलाई धरौटीमा छाड्न आदेश\nस्रोत: Khabarhub, Ratopati\nhttps://khabarhub.com/2026/06/1034076/\n\n6. देवराज चालिसेद्वारा कांग्रेस उपसभापतिमा उम्मेदवारी दर्ता\nस्रोत: OnlineKhabar, Ratopati\nhttps://www.onlinekhabar.com/2026/10/2033505/devraj-chalise-files-candidacy-for-nepali-congress-vice-president-post\n\n7. वरिष्ठ उपसभापतिमा विश्वप्रकाश शर्माको उम्मेदवारी दर्ता\nस्रोत: Khabarhub, Ratopati\nhttps://khabarhub.com/2026/06/1034030/\n\n8. नेप्से परिसूचक ११ दशमलव ९६ अंकले बढ्यो\nस्रोत: Thaha Khabar\nhttps://www.thahakhabar.com/detail/309918\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. दुर्गा प्रसाईंलाई दुई लाख धरौटीमा छाड्न अदालतको आदेश\nस्रोत: OnlineKhabar, Baahrakhari, Setopati\nhttps://www.onlinekhabar.com/2026/10/2033525/court-orders-release-of-durga-prasai-on-bail-of-rs-200000\n\n2. कांग्रेस उपसभापतिमा गोविन्द भट्टराईको उम्मेदवारी दर्ता\nस्रोत: Ratopati, OnlineKhabar\nhttps://www.ratopati.com/story/597638/govinda-bhattarai-files-candidacy-for-nepali-congress-vice-president\n\n3. वरिष्ठ उपसभापतिमा विश्वप्रकाश शर्माको मनोनयन\nस्रोत: Setopati, Gorkhapatra Online\nhttps://www.setopati.com/politics/400157\n\n4. कांग्रेसको सभापतिमा श्यामकृष्ण खड्गीको उम्मेदवारी दर्ता\nस्रोत: Nepal Samaya, Ratopati\nhttps://nepalsamaya.com/detail/146750\n\n5. दुर्गा प्रसाईंलाई धरौटीमा छाड्न आदेश\nस्रोत: Khabarhub, Ratopati\nhttps://khabarhub.com/2026/06/1034076/\n\n6. देवराज चालिसेद्वारा कांग्रेस उपसभापतिमा उम्मेदवारी दर्ता\nस्रोत: OnlineKhabar, Ratopati\nhttps://www.onlinekhabar.com/2026/10/2033505/devraj-chalise-files-candidacy-for-nepali-congress-vice-president-post\n\n7. इरानविरुद्ध अमेरिका र नौ देश एकजुट\nस्रोत: Thaha Khabar\nhttps://www.thahakhabar.com/detail/309920\n\n8. नेपालको आर्थिक वृद्धि ३.७ प्रतिशतमा सीमित हुने विश्व बैंकको प्रक्षेपण\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/225639\n\n— I Am From Hetauda"
 }

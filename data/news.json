@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T10:29:23.182494+00:00",
+  "updated_at": "2026-10-06T10:39:28.197887+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -32,7 +32,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 143.2,
+      "score": 142.6,
       "story_size": 3
     },
     {
@@ -51,7 +51,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.9,
+      "score": 133.2,
       "story_size": 2,
       "image_local": "images/news_c021b9401b31f26d5a23.webp"
     },
@@ -71,7 +71,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.7,
+      "score": 133.0,
       "story_size": 2
     },
     {
@@ -90,7 +90,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.5,
+      "score": 132.8,
       "story_size": 2
     },
     {
@@ -109,7 +109,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 132.8,
+      "score": 132.2,
       "story_size": 2
     },
     {
@@ -128,27 +128,122 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 132.2,
+      "score": 131.5,
       "story_size": 2
     },
     {
-      "title": "वरिष्ठ उपसभापतिमा विश्वप्रकाश शर्माको उम्मेदवारी दर्ता",
-      "link": "https://khabarhub.com/2026/06/1034030/",
-      "description": "काठमाडौँ &#8211; नेपाली कांग्रेसका नेता विश्वप्रकाश शर्माले पार्टीको वरिष्ठ उपसभापति पदमा उम्मेदवारी दर्ता गराएका छन्। कांग्रेसको १५औँ महाधिवेशनअन्तर्गत शर्माले मंगलबार वरिष्ठ उपसभापति पदमा उम्मेदवारी दर्ता गराएका हुन्। उनी विशेष महाधिवेशनबाट कांग्रेसको उपसभापति बनेका थिए। शर्माको उम्मेदवारी वरिष्ठ उपसभापति पदमै रहेको झापाका नेता उद्धव थापाले जानकारी दिए। शर्माले आफ्नो उम्मेदवारीका लागि प्रस्तावक र समर्थकसमेत पूर्वेली नेताहरूलाई [&#8230;]",
-      "published": "2026-10-06T09:44:26+00:00",
-      "source": "Khabarhub",
+      "title": "इरानविरुद्ध अमेरिका र नौ देश एकजुट",
+      "link": "https://www.thahakhabar.com/detail/309920",
+      "description": "",
+      "published": "2026-10-06T16:23:51+05:45",
+      "source": "Thaha Khabar",
       "category": "world",
-      "image": "",
+      "image": "https://www.thahakhabar.com/uploads/posts/iran-america-1779694818.jpg",
       "related_sources": [
-        "Khabarhub",
+        "Thaha Khabar"
+      ],
+      "id": "cd1ce05feb2e1aa3",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 113.0,
+      "story_size": 1,
+      "image_local": "images/news_e7f1692d7cfb1ff1f290.jpg"
+    },
+    {
+      "title": "नेपालको आर्थिक वृद्धि ३.७ प्रतिशतमा सीमित हुने विश्व बैंकको प्रक्षेपण",
+      "link": "https://gorkhapatraonline.com/news/225639",
+      "description": "काठमाडौँ, असोज २० गते । भदौ १० गते आएको विनाशकारी रसुवा बाढीका कारण उद्योग तथा सेवा क्षेत्रमा परेको अवरोधले नेपालको आर्थिक वृद्धिदर आर्थिक वर्ष २०८३/८४ मा सुस्त भई तीन दशमलव सात प्...",
+      "published": "2026-10-06T16:19:43+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "business",
+      "image": "https://gorkhapatraonline.com/storage/media/386742/conversions/badhi_betrawati-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "98055ed898808fea",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.7,
+      "story_size": 1,
+      "image_local": "images/news_4d779f338745987c869c.jpg"
+    },
+    {
+      "title": "कांग्रेस सभापतिमा उम्मेदवारी दिएका श्यामकृष्ण खड्गीले के भने ?",
+      "link": "https://www.ratopati.com/story/597661/what-did-shyam-krishna-khadgi-who-has-filed-his-candidacy-for-the-post-of-congress-president-say",
+      "description": "काठमाडौँ। नेपाली कांग्रेसका नेता श्यामकृष्ण खड्गीले देश र पार्टीभित्रको आन्तरिक लोकतन्त्रलाई मजबुत बनाउन आफूले सभापतिमा उम्मेदवारी दिएको बताएका छन्। जारी १५औँ महाधिवेशनका क्रममा मंगलबार भएको मनोनयन दर्ताका क्रममा सभापतिमा उम्मेदवारी दिएपछि सञ्चारकर्मीहरूसँग कुराकानी गर्दै उनले देशमा",
+      "published": "2026-10-06T10:34:13+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/shyamkrishna-khadki_XBfS8NhYZI.webp",
+      "related_sources": [
         "Ratopati"
       ],
-      "id": "2f2765e9e99f6c37",
-      "source_count": 2,
-      "verified": true,
+      "id": "9bb5cabb9a317892",
+      "source_count": 1,
+      "verified": false,
       "local": false,
-      "score": 131.0,
-      "story_size": 2
+      "score": 112.7,
+      "story_size": 1,
+      "image_local": "images/news_5b755efe7934d2877176.webp"
+    },
+    {
+      "title": "महिलाको अर्थपूर्ण सहभागिताका लागि महामन्त्रीमा उम्मेदवारी: महालक्ष्मी उपाध्याय ‘डिना’",
+      "link": "https://www.ratopati.com/story/597660/mahalaxmi-upadhyay-dina-to-run-for-general-secretary-for-meaningful-participation-of-women",
+      "description": "काठमाडौँ । नेपाली कांग्रेसकी नेतृ महालक्ष्मी उपाध्याय ‘डिना’ ले पार्टीभित्र अझै पनि महिलाहरूको अर्थपूर्ण सहभागिता हुन नसकेको बताएकी छन् । कांग्रेसको १५ औँ महाधिवेशनमा महिलातर्फबाट महामन्त्री पदमा उम्मेदवारी दिएपछि सञ्चारकर्मीहरूसँग कुरा गर्दै उनले यस्तो बताएकी हुन् । पार्टीको",
+      "published": "2026-10-06T10:33:30+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/dina-upadhyaya_zGYlETFIpe.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "cbd0227339ceff62",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.6,
+      "story_size": 1,
+      "image_local": "images/news_e32aa7fd2073eaa8a2ec.webp"
+    },
+    {
+      "title": "ललितपुरका मेयर चिरिबाबु महर्जन केन्द्रीय सदस्यमा उम्मेदवार",
+      "link": "https://www.ratopati.com/story/597659/lalitpur-mayor-chiribabu-maharjan-is-a-candidate-for-central-member",
+      "description": "काठमाडौँ । ललितपुर महानगरपालिकाका मेयर चिरिबाबु महर्जनले नेपाली कांग्रेसको १५ औँ महाधिवेशनमा केन्द्रीय सदस्यमा उम्मेद्वारी दर्ता गराएका छन् । मंगलबार राष्ट्रिय सभागृह पुगेर उनले खुलातर्फ कांग्रेस केन्द्रीय सदस्य पदमा मनोनयन दर्ता गराएका हुन् । मनोनयन दर्तापछि सञ्चारकर्मीहरूसँग",
+      "published": "2026-10-06T10:30:55+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/chiribabu_hAHHGQNBCN.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "326e331b9146fa7c",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.4,
+      "story_size": 1,
+      "image_local": "images/news_560aca08bb1537282433.webp"
+    },
+    {
+      "title": "हिम पर्वत हाइड्रोपावरलाई ५९ लाख कित्ता सेयर निष्कासन गर्न स्वीकृति",
+      "link": "https://www.ratopati.com/story/597658/him-parbat-hydropower-gets-approval-to-issue-59-million-shares",
+      "description": "काठमाडौँ। नेपाल धितोपत्र बोर्डले करिब ६ महिना लामो अन्तरालपछि प्राथमिक सेयर (आईपीओ) निष्कासनको स्वीकृति दिएको छ । बोर्डले मंगलबार हिम पर्वत हाइड्रोपावर लिमिटेडलाई सर्वसाधारणका लागि आईपीओ जारी गर्न अनुमति दिएको हो। गत वैशाख २ गतेपछि धितोपत्र",
+      "published": "2026-10-06T10:30:13+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://npcdn.ratopati.com/media/news/sebon_0jdj01eogY.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "9d0c296f57a4536a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.4,
+      "story_size": 1,
+      "image_local": "images/news_493cb50b00d5bfddc9b8.jpg"
     },
     {
       "title": "नेप्से परिसूचक ११ दशमलव ९६ अंकले बढ्यो",
@@ -165,7 +260,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.8,
+      "score": 112.1,
       "story_size": 1,
       "image_local": "images/news_b0bde2fa07122a067e32.jpg"
     },
@@ -184,7 +279,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.8,
+      "score": 112.1,
       "story_size": 1,
       "image_local": "images/news_0fd8a46ad28993f9e07b.webp"
     },
@@ -203,7 +298,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.7,
+      "score": 112.1,
       "story_size": 1,
       "image_local": "images/news_5584e5f92586d51c9205.webp"
     },
@@ -222,7 +317,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.6,
+      "score": 111.9,
       "story_size": 1,
       "image_local": "images/news_d201e27dcecffb34cdd8.jpg"
     },
@@ -241,7 +336,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.5,
+      "score": 111.8,
       "story_size": 1,
       "image_local": "images/news_572055342cb4a140de3c.webp"
     },
@@ -260,7 +355,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.4,
+      "score": 111.7,
       "story_size": 1,
       "image_local": "images/news_f80e169574de8ffbbe2b.webp"
     },
@@ -279,7 +374,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.3,
+      "score": 111.6,
       "story_size": 1,
       "image_local": "images/news_fe4d9db4271c66ec56a3.jpg"
     },
@@ -298,7 +393,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.2,
+      "score": 111.5,
       "story_size": 1,
       "image_local": "images/news_7032860f01545daba2c9.jpg"
     },
@@ -317,7 +412,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.1,
+      "score": 111.4,
       "story_size": 1,
       "image_local": "images/news_7342ad99b2e59881c314.webp"
     },
@@ -336,9 +431,28 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.1,
+      "score": 111.4,
       "story_size": 1,
       "image_local": "images/news_d6e04d795cd5226db2a2.jpg"
+    },
+    {
+      "title": "LIVE UPDATES : राष्ट्रिय सभागृहमा यसरी हुँदैछ कांग्रेसको उम्मेदवारी दर्ता",
+      "link": "https://www.ratopati.com/story/597474/third-day-of-the-congress-general-convention-whats-happening-today",
+      "description": "नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत आज तेस्रो दिन । आइतबार उद्घाटन भएको महाधिवेशन सोमबार बन्दसत्र सुरु हुनुअघि बसेको केन्द्रीय समिति बैठकले विधान संशोधन गर्दै केन्द्रीय समितिको आकार बढाउने निर्णय गरेको छ ।",
+      "published": "2026-10-06T10:15:00+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/congress-election_sg40UavJTD.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "1bbf3a1ddc2d06ff",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.4,
+      "story_size": 1,
+      "image_local": "images/news_685f8411b031a4e022f8.webp"
     },
     {
       "title": "भौतिकशास्त्रतर्फको नोबेल पुरस्कार फ्रान्सिस हेल्जेनलाई",
@@ -355,7 +469,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.0,
+      "score": 111.3,
       "story_size": 1,
       "image_local": "images/news_65e5a63333f876b47b50.webp"
     },
@@ -374,7 +488,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.9,
+      "score": 111.2,
       "story_size": 1,
       "image_local": "images/news_7756fa1fd00e1a518a4e.jpg"
     },
@@ -393,7 +507,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.9,
+      "score": 111.2,
       "story_size": 1,
       "image_local": "images/news_38c1240f9b69a59158f8.webp"
     },
@@ -412,7 +526,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.8,
+      "score": 111.1,
       "story_size": 1,
       "image_local": "images/news_b790bd06da5a33600bbb.jpg"
     },
@@ -431,7 +545,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.6,
+      "score": 110.9,
       "story_size": 1,
       "image_local": "images/news_b663c971e709f316aebb.jpg"
     },
@@ -450,7 +564,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.4,
+      "score": 110.7,
       "story_size": 1,
       "image_local": "images/news_939c8edc6ed81bbdd1e2.webp"
     },
@@ -469,7 +583,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.1,
+      "score": 110.5,
       "story_size": 1,
       "image_local": "images/news_f928dadf9bc1f1263dc3.jpg"
     },
@@ -488,7 +602,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.7,
+      "score": 110.1,
       "story_size": 1,
       "image_local": "images/news_d9302a184cbc16000894.jpg"
     },
@@ -507,7 +621,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.7,
+      "score": 110.0,
       "story_size": 1,
       "image_local": "images/news_b5e415fc221a20103edf.jpg"
     },
@@ -526,9 +640,63 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.6,
+      "score": 109.9,
       "story_size": 1,
       "image_local": "images/news_f015411379beb583f686.jpg"
+    },
+    {
+      "title": "देउवा पक्षले सोलु संयोजक तोकेका शुभरामको सहमहामन्त्रीमा उमेदवारी",
+      "link": "https://baahrakhari.com/detail/504010",
+      "description": "",
+      "published": "2026-10-06T16:22:06+05:45",
+      "source": "Baahrakhari",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "7fc824e2333cd284",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.8,
+      "story_size": 1
+    },
+    {
+      "title": "‘मेरो उम्मेदवारी केवल एउटा पदका लागि होइन’",
+      "link": "https://khabarhub.com/2026/06/1034098/",
+      "description": "देशले अहिले युवा नेतृत्वको खोजी गरिरहेको छ । यस महाधिवेशनबाट नेपाली कांग्रेसले युवाहरूलाई नेतृत्वमा स्थापित गर्नुपर्छ । साथै, आर्थिक समुन्नतीको स्पष्ट भिजन भएका नेताहरूलाई नेतृत्व तहमा पुर्‍याइ आर्थिक रूपान्तरणमा नयाँ अध्याय शुरू गर्नुपर्नेछ । यस्तो नेतृत्वबाट आगामी दिनमा देशको आर्थिक रूपान्तरण गर्न सम्भव हुनेछ भन्ने मलाई विश्वास छ । नेपाली कांग्रेसको दोस्रो विशेष महाधिवेशनमा मेरो [&#8230;]",
+      "published": "2026-10-06T10:34:51+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "a2233bf4ada44c8b",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.7,
+      "story_size": 1
+    },
+    {
+      "title": "सहमहामन्त्रीमा डिल्लीराम सुवेदीले दिए उम्मेदवारी",
+      "link": "https://kendrabindu.com/politics/561840/",
+      "description": "काठमाडौं । नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत डिल्लीराम सुवेदीले सहमहामन्त्री पदमा उम्मेदवारी दर्ता गराएका छन्। कांग्रेसको नयाँ नेतृत्व चयनका लागि मंगलबारदेखि सुरु भएको मनोनयन दर्ता प्रक्रियाअन्तर्गत सुवेदीले सहमहामन्त्री पदका लागि उम्मेदवारी दिएका हुन्। सुवेदी कांग्रेसको राजनीतिमा लामो समयदेखि सक्रिय छन्। पार्टीको संगठन निर्माण र राजनीतिक गतिविधिमा सक्रिय रहँदै आएका उनले यसपटक केन्द्रीय पदाधिकारीतर्फ सहमहामन्त्रीमा दाबी प्रस्तुत [&#8230;]",
+      "published": "2026-10-06T10:34:37+00:00",
+      "source": "Kendrabindu",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "5977c674fe247262",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.7,
+      "story_size": 1
     },
     {
       "title": "सशस्त्रका एआईजी वंशीराज दाहालको घटना छानबिन गर्न अर्का एआईजी अन्जनीलाई जिम्मा",
@@ -545,9 +713,135 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.4,
+      "score": 109.7,
       "story_size": 1,
       "image_local": "images/news_f19c80af04d19016ca11.webp"
+    },
+    {
+      "title": "सहमहामन्त्रीमा डिल्लीराम सुवेदीले दिए उमेदवारी",
+      "link": "https://baahrakhari.com/detail/504009",
+      "description": "",
+      "published": "2026-10-06T16:18:37+05:45",
+      "source": "Baahrakhari",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "5d7b9785ae272af3",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.6,
+      "story_size": 1
+    },
+    {
+      "title": "कुनै पदमा उमेदवारी नदिने अर्जुन नरसिंह केसीको घोषणा",
+      "link": "https://baahrakhari.com/detail/504008",
+      "description": "",
+      "published": "2026-10-06T16:18:14+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "2e1457f33cc6a781",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.6,
+      "story_size": 1
+    },
+    {
+      "title": "स्वास्थ्यकर्मीलाई महिलाले झापड हानेको भिडियो खिच्ने युट्युबर पक्राउ",
+      "link": "https://kendrabindu.com/nigrani/561837/",
+      "description": "रूपन्देही । बाँकेको कोहलपुरस्थित थापा मेडिकलमा स्वास्थ्यकर्मीमाथि महिलाले हातपात गरेको घटनाको भिडियो खिचेर सामाजिक सञ्जालमा प्रसारण गरेको आरोपमा एक युट्युबर पक्राउ परेका छन्। सहारा एचडी टिभी नामक युट्युब च्यानल सञ्चालन गर्दै आएका हिमान्सु शाहीलाई प्रहरीले नियन्त्रणमा लिएको हो। स्वास्थ्य जाँचका लागि मेडिकल पुगेकी एक युवतीमाथि स्वास्थ्यकर्मीले दुर्व्यवहार गरेको आरोप लगाउँदै महिलाले स्वास्थ्यकर्मीमाथि झापड हानेको भिडियो [&#8230;]",
+      "published": "2026-10-06T10:33:11+00:00",
+      "source": "Kendrabindu",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "b61173f43b943088",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.6,
+      "story_size": 1
+    },
+    {
+      "title": "विश्वप्रकाश शर्माको वरिष्ठ उपसभापतिमा उम्मेदवारी दर्ता",
+      "link": "https://nepalsamaya.com/detail/146752",
+      "description": "",
+      "published": "2026-10-06T16:17:25+05:45",
+      "source": "Nepal Samaya",
+      "category": "world",
+      "image": "",
+      "related_sources": [
+        "Nepal Samaya"
+      ],
+      "id": "3ac9a7b83ff1089b",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.5,
+      "story_size": 1
+    },
+    {
+      "title": "कांग्रेस महाधिवेशन : धमाधम उम्मेदवारी, हालसम्म पदाधिकारीमा क–कसको दर्ता ?",
+      "link": "https://www.onlinekhabar.com/2026/10/2033537/congress-general-convention-candidates-in-full-swing-who-has-registered-for-office-so-far",
+      "description": "२० असोज, काठमाडौं । नेपाली कांग्रेसको १५ औं महाधिवेशन अन्तर्गत आज नयाँ कार्यसमिति निर्वाचनका लागि मनोनयन दर्ताको काम भइरहेको छ । राष्ट्रिय सभागृहमा निर्वाचन समितिले मनोनयन दर्ता गराइरहेको छ । हालसम्मको मनोनयन दर्ताका क्रममा पदाधिकारीमै उल्लेख्य संख्या देखिएको छ । उपसभापति, महामन्त्री र सहमहामन्त्रीमा ठूलै संख्यामा मनोनयन पर्ने क्रम देखिएको छ । हालसम्म सभापतिमा श्यामकृष्ण [&#8230;]",
+      "published": "2026-10-06T10:31:38+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "f8ec53980ddb1b9c",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.5,
+      "story_size": 1
+    },
+    {
+      "title": "समावेशीतर्फको उपसभापति पदमा विनोद चौधरीको उम्मेदवारी दर्ता",
+      "link": "https://nepalsamaya.com/detail/146751",
+      "description": "",
+      "published": "2026-10-06T16:16:32+05:45",
+      "source": "Nepal Samaya",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Nepal Samaya"
+      ],
+      "id": "979254afbdf0c0cb",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.5,
+      "story_size": 1
+    },
+    {
+      "title": "कांग्रेस बन्दसत्रको छलफल बुधबार फेरि हुने",
+      "link": "https://khabarhub.com/2026/06/1034096/",
+      "description": "काठमाडौँ-&#160;नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत आज तेस्रो दिनको बन्दसत्रको छलफल सकिएको छ। बन्दसत्रको बाँकी छलफल बुधबार बिहान पुनः हुने भएको छ। बन्दसत्रमा महाधिवेशन प्रतिनिधिहरूले सभापति गगनकुमार थापाले प्रस्तुत गरेको ‘राष्ट्रिय पुनर्जागरण र समुन्नति’सम्बन्धी राजनीतिक प्रस्ताव, उपसभापति विश्वप्रकाश शर्माको ‘राजनीतिक संस्कृतिको क्षय र युगानुकूल रूपान्तरणको अभिभारा’सम्बन्धी समसामयिक प्रस्ताव, महामन्त्री गुरुराज घिमिरेको संगठनसम्बन्धी प्रतिवेदन तथा कोषाध्यक्ष उमेश श्रेष्ठको [&#8230;]",
+      "published": "2026-10-06T10:29:57+00:00",
+      "source": "Khabarhub",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "1e04aff6551ad719",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.4,
+      "story_size": 1
     },
     {
       "title": "कांग्रेसको वरिष्ठ उपसभापतिमा विश्वप्रकाशको उम्मेदवारी",
@@ -564,7 +858,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.1,
+      "score": 109.4,
       "story_size": 1,
       "image_local": "images/news_0b21684cfd9d73f867ea.jpg"
     },
@@ -583,7 +877,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.1,
+      "score": 109.4,
       "story_size": 1,
       "image_local": "images/news_f84f6756d6ead821dc50.webp"
     },
@@ -602,28 +896,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.1,
+      "score": 109.4,
       "story_size": 1,
       "image_local": "images/news_d1b8f6d1d29fccb92721.webp"
     },
     {
-      "title": "कांग्रेसको बन्दसत्र : बन्दसत्रमा आजको छलफल सकियो, भोलि सभापति थापाले सम्बोधन गर्ने",
-      "link": "https://www.thahakhabar.com/detail/309914",
-      "description": "",
-      "published": "2026-10-06T15:27:52+05:45",
-      "source": "Thaha Khabar",
-      "category": "politics",
-      "image": "https://www.thahakhabar.com/uploads/posts/congress-banda-satra-(8)-1791187845.jpg",
+      "title": "गगनलाई प्रश्न- जम्बो कार्यसमिति किन ? (अन्तर्वार्ता)",
+      "link": "https://www.onlinekhabar.com/2026/10/2033467/question-to-gagan-why-the-jumbo-working-committee-interview",
+      "description": "व्यवस्थापन गर्नका लागि यो पद संख्या बढाएको होइन। पार्टीभित्र एकताको वातावरण बनोस् भनेर अवसरको दायरा थोरै खुला बनाइएको हो। दोस्रो, माथिल्लो नेतृत्व तहमा सबै क्षेत्र र वर्गका मानिसहरू पुग्न सकून् भन्ने हो।",
+      "published": "2026-10-06T10:26:56+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
       "related_sources": [
-        "Thaha Khabar"
+        "OnlineKhabar"
       ],
-      "id": "7a0e0447b8127b6e",
+      "id": "4471e01a58cf2e7e",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.9,
-      "story_size": 1,
-      "image_local": "images/news_9935210486c4340a406b.jpg"
+      "score": 109.2,
+      "story_size": 1
     },
     {
       "title": "हालजेनलाई भौतिकशास्त्रको नोबेल पुरस्कार",
@@ -640,7 +933,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.8,
+      "score": 109.1,
       "story_size": 1
     },
     {
@@ -658,7 +951,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.8,
+      "score": 109.1,
       "story_size": 1
     },
     {
@@ -676,27 +969,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.8,
+      "score": 109.1,
       "story_size": 1,
       "image_local": "images/news_8efe2dd9be8046510ad6.webp"
-    },
-    {
-      "title": "शर्मिला, पार्वती र सिर्जनाले काठमाडौंमै राहत बुझे, धादिङका युवकले पाएनन् : किन?",
-      "link": "https://www.setopati.com/social/400153",
-      "description": "घरजग्गामा क्षति पुगेका तर काठमाडौंमा डेरा, आफन्त वा अन्यत्र अस्थायी रूपमा बसिरहेका प्रभावितलाई स्थलगत निरीक्षणपछि राहत उपलब्ध गराउने गरिएको हो।",
-      "published": "2026-10-06T16:10:27+05:45",
-      "source": "Setopati",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Setopati"
-      ],
-      "id": "0253e22889fd54cf",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.7,
-      "story_size": 1
     },
     {
       "title": "अलविदा बुवा : एक अटल धरोहरको अन्त्य",
@@ -713,9 +988,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.7,
+      "score": 109.1,
       "story_size": 1,
       "image_local": "images/news_4c6380a7ee594fd4f359.webp"
+    },
+    {
+      "title": "शर्मिला, पार्वती र सिर्जनाले काठमाडौंमै राहत बुझे, धादिङका शिव सापकोटाले पाएनन् : किन?",
+      "link": "https://www.setopati.com/social/400153",
+      "description": "घरजग्गामा क्षति पुगेका तर काठमाडौंमा डेरा, आफन्त वा अन्यत्र अस्थायी रूपमा बसिरहेका प्रभावितलाई स्थलगत निरीक्षणपछि राहत उपलब्ध गराउने गरिएको हो।",
+      "published": "2026-10-06T16:10:00+05:45",
+      "source": "Setopati",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "decbb45714cd78f3",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.0,
+      "story_size": 1
     },
     {
       "title": "वैदेशिक रोजगार व्यवसायी संघको भूमिकामाथि प्रश्न, गलत ब्रिफिङको आरोप",
@@ -732,7 +1025,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.7,
+      "score": 109.0,
       "story_size": 1,
       "image_local": "images/news_a556322e2c41afb35db4.webp"
     },
@@ -751,7 +1044,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.6,
+      "score": 108.9,
       "story_size": 1,
       "image_local": "images/news_2575ea404ded6cbc0f88.jpg"
     },
@@ -770,7 +1063,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.6,
+      "score": 108.9,
       "story_size": 1,
       "image_local": "images/news_b83807eb39056ef1eeac.webp"
     },
@@ -789,7 +1082,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.4,
+      "score": 108.7,
       "story_size": 1
     },
     {
@@ -807,7 +1100,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.4,
+      "score": 108.7,
       "story_size": 1
     },
     {
@@ -825,27 +1118,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.4,
+      "score": 108.7,
       "story_size": 1
-    },
-    {
-      "title": "एनपीएलका दुई फ्रेन्चाइजको स्वामित्वमाथि प्रश्न उठाइएका विषय राखेप पुग्यो",
-      "link": "https://www.ratopati.com/story/597631/the-issue-of-ownership-of-two-npl-franchises-has-reached-the-national-security-council-demanding-an-investigation",
-      "description": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपीएल) का दुई फ्रेन्चाइज टोली जनकपुर बोल्ट्स र सुदूरपश्चिम रोयल्सको स्वामित्व, सेयर संरचना, वास्तविक लाभग्राही तथा फ्रेन्चाइज छनोट प्रक्रियाको पारदर्शितामाथि प्रश्न उठाउँदै राष्ट्रिय खेलकुद परिषद् (राखेप)मा छुट्टाछुट्टै निवेदन परेको छ",
-      "published": "2026-10-06T09:34:41+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/janakpur-vs-sudur_MqIDxHS2wy.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "6dc85dd986275351",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.4,
-      "story_size": 1,
-      "image_local": "images/news_248a93d0419dcdfd0333.webp"
     },
     {
       "title": "राजदूत सुनुवाइमा प्रश्न गर्नुअघि अध्ययनका लागि समय चाहिन्छ : सभापति श्रेष्ठ",
@@ -862,7 +1136,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.3,
+      "score": 108.6,
       "story_size": 1
     },
     {
@@ -880,27 +1154,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.3,
+      "score": 108.6,
       "story_size": 1
-    },
-    {
-      "title": "कांग्रेस उपसभापतिमा प्राडा. चन्द्रमोहन यादवको उम्मेदवारी दर्ता",
-      "link": "https://www.ratopati.com/story/597630/prof-dr-chandramohan-yadav-files-candidacy-for-the-post-of-nepali-congress-vice-president",
-      "description": "काठमाडौं । नेपाली कांग्रेसका नेता प्राडा. चन्द्रमोहन यादवले उपसभापति पदमा उम्मेदवारी दर्ता गराएका छन्। १५औँ महाधिवेशनअन्तर्गत राजधानीको राष्ट्रिय सभागृहस्थित मनोनयन दर्ता स्थलमा पुगेर उनले मंगलबार खुला समूहबाट उपसभापति पदमा उम्मेदवारी दर्ता गराएका हुन्।",
-      "published": "2026-10-06T09:33:49+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/chandra-mohan_xTm4hW0FqD.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "df3a0c4e2b6cf724",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.3,
-      "story_size": 1,
-      "image_local": "images/news_d157af5e3fb5ef5481e6.webp"
     },
     {
       "title": "झरी र असिनापानीले कांग्रेस महाधिवेशन प्रभावित",
@@ -917,27 +1172,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.2,
+      "score": 108.5,
       "story_size": 1
-    },
-    {
-      "title": "कांग्रेसको बन्दसत्रको छलफल भोलि बिहान पुनः सञ्चालन हुने, सभापति थापाले सम्बोधन गर्ने",
-      "link": "https://www.ratopati.com/story/597629/the-closed-session-of-the-nepali-congress-will-resume-tomorrow-morning-with-president-thapa-to-address-the-gathering",
-      "description": "काठमाडौँ। नेपाली कांग्रेसको १५औँ महाधिवेशन अन्तर्गत मंगलबार तेस्रो दिन बन्दसत्रको छलफल सकिएको छ । बन्दसत्रमा सहभागी महाधिवेशन प्रतिनिधिहरूका अनुसार सभापति गगनकुमार थापाले प्रस्तुत गरेको राष्ट्रिय पुनर्जागरण र समुन्नतिको राजनीतिक प्रस्ताव, उपसभापति विश्वप्रकाश शर्माको राजनीतिक संस्कृतिको क्षय",
-      "published": "2026-10-06T09:32:02+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/congress-mahadhibesan-bandasatra-manch_npl-8_iJvLNsYUGe.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "e8a0be46eb8bdf17",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.2,
-      "story_size": 1,
-      "image_local": "images/news_d57005c5efe71e98a2d6.webp"
     },
     {
       "title": "नेप्सेमा ११.९६ अंकको वृद्धि, ३ अर्ब १३ करोडको कारोबार",
@@ -954,7 +1190,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.1,
+      "score": 108.4,
       "story_size": 1
     },
     {
@@ -972,27 +1208,26 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.1,
+      "score": 108.4,
       "story_size": 1
     },
     {
-      "title": "विश्वकप विजेता कप्तान हरमनप्रीत कौरले छाडिन् तीनवटै ढाँचाको कप्तानी",
-      "link": "https://www.ratopati.com/story/597628/world-cup-winning-captain-harmanpreet-kaur-steps-down-from-captaincy-in-all-three-formats",
-      "description": "नयाँ दिल्ली । भारतीय महिला क्रिकेट टोलीकी ब्याटर हरमनप्रीत कौरले अन्तर्राष्ट्रिय क्रिकेटका तीनवटै ढाँचाबाट कप्तानी छाडेकी छन् । हरमनप्रीतले भारतको ५ वटा टेस्ट, ५१ एकदिवसीय र १५५ टी–२० अन्तर्राष्ट्रिय खेलमा कप्तानी गरेकी थिइन् । उनकै कप्तानीमा गत",
-      "published": "2026-10-06T09:31:09+00:00",
-      "source": "Ratopati",
-      "category": "world",
-      "image": "https://npcdn.ratopati.com/media/news/harmanpreet-kaur_4vokm5gLji.webp",
+      "title": "महाधिवेशनको मुखमा पदाधिकारी बढाउन हुन्न भन्थे गगन, अहिले आफैले बढाए",
+      "link": "https://www.setopati.com/politics/400105",
+      "description": "तर, अहिले परिस्थिति फेरिएको छ र देउवाले भनेजस्तै थापा पनि कम्प्रमाइज गर्न बाध्य भएका छन्।",
+      "published": "2026-10-06T16:00:00+05:45",
+      "source": "Setopati",
+      "category": "nepal",
+      "image": "",
       "related_sources": [
-        "Ratopati"
+        "Setopati"
       ],
-      "id": "1e132ccfb12b29cb",
+      "id": "72be7f027c6cfb89",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.1,
-      "story_size": 1,
-      "image_local": "images/news_588a6b8b4b7e2fd9441f.webp"
+      "score": 108.4,
+      "story_size": 1
     },
     {
       "title": "पूर्व गृह राज्यमन्त्री कँडेलद्वारा खुला सहमहामन्त्रीमा उम्मेदवारी",
@@ -1009,25 +1244,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.0,
-      "story_size": 1
-    },
-    {
-      "title": "एन्फाका पूर्वअध्यक्ष कर्माछिरिङले दिए कांग्रेस केन्द्रीय सदस्यमा उमेदवारी",
-      "link": "https://baahrakhari.com/detail/504005",
-      "description": "",
-      "published": "2026-10-06T15:59:34+05:45",
-      "source": "Baahrakhari",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "f01e26a1f19a8dad",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.0,
+      "score": 108.4,
       "story_size": 1
     },
     {
@@ -1045,7 +1262,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.6,
+      "score": 108.0,
       "story_size": 1
     },
     {
@@ -1063,7 +1280,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.4,
+      "score": 107.8,
       "story_size": 1
     },
     {
@@ -1081,7 +1298,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.4,
+      "score": 107.8,
       "story_size": 1
     },
     {
@@ -1099,25 +1316,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.3,
-      "story_size": 1
-    },
-    {
-      "title": "उपसभापतिमा मिनेन्द्र रिजालले दिए उमेदवारी",
-      "link": "https://baahrakhari.com/detail/504004",
-      "description": "",
-      "published": "2026-10-06T15:48:55+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "5ecb0dde6f38a56a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 108.3,
+      "score": 107.7,
       "story_size": 1
     },
     {
@@ -1135,7 +1334,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.3,
+      "score": 107.6,
       "story_size": 1
     },
     {
@@ -1153,7 +1352,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.2,
+      "score": 107.6,
       "story_size": 1
     },
     {
@@ -1171,7 +1370,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.2,
+      "score": 107.5,
       "story_size": 1
     },
     {
@@ -1189,43 +1388,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.2,
-      "story_size": 1
-    },
-    {
-      "title": "दुबईमा टीभीएसको दुई अन्तर्राष्ट्रिय अवार्ड जित्यो जगदम्बा मोटर्सले",
-      "link": "https://baahrakhari.com/detail/504003",
-      "description": "",
-      "published": "2026-10-06T15:47:23+05:45",
-      "source": "Baahrakhari",
-      "category": "world",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "a4490409fa2b29f6",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 108.2,
-      "story_size": 1
-    },
-    {
-      "title": "खुलामञ्चमा उम्मेदवारी दर्ताको चहलपहल (तस्बिरहरू)",
-      "link": "https://www.setopati.com/politics/400154",
-      "description": "नेपाली कांग्रेसको १५ औँ महाधिवेशनअन्तर्गत नयाँ केन्द्रीय कार्यसमिति चयनका लागि मंगलबार उम्मेदवारी दर्ता भइरहेको छ।",
-      "published": "2026-10-06T15:47:00+05:45",
-      "source": "Setopati",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Setopati"
-      ],
-      "id": "411b99a0b286d0fa",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 108.2,
+      "score": 107.5,
       "story_size": 1
     },
     {
@@ -1243,7 +1406,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.2,
+      "score": 107.5,
       "story_size": 1
     },
     {
@@ -1261,7 +1424,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.9,
+      "score": 107.2,
       "story_size": 1
     },
     {
@@ -1279,7 +1442,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.8,
+      "score": 107.1,
       "story_size": 1
     },
     {
@@ -1297,7 +1460,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.8,
+      "score": 107.1,
       "story_size": 1
     },
     {
@@ -1315,7 +1478,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.5,
+      "score": 106.8,
       "story_size": 1
     },
     {
@@ -1333,7 +1496,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.5,
+      "score": 106.8,
       "story_size": 1
     },
     {
@@ -1351,7 +1514,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.3,
+      "score": 106.6,
       "story_size": 1
     },
     {
@@ -1369,7 +1532,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.3,
+      "score": 106.6,
       "story_size": 1
     },
     {
@@ -1387,7 +1550,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.2,
+      "score": 106.5,
       "story_size": 1
     },
     {
@@ -1405,25 +1568,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.1,
-      "story_size": 1
-    },
-    {
-      "title": "कांग्रेस १५औँ महाधिवेशन : मधु आचार्यले दिए उपसभापतिमा उम्मेदवारी",
-      "link": "https://khabarhub.com/2026/06/1034007/",
-      "description": "काठमाडौं&#8211; नेपाली कांग्रेसको १५औँ महाधिवेशनमा मधु आचार्यले उपसभापति पदमा उम्मेदवारी दिएका छन् । आचार्यले मंगलबार उपसभापति पदका लागि उम्मेदवारी दर्ता गराएका हुन् । कांग्रेसको महाधिवेशनमा विभिन्न पदका लागि नेताहरूले उम्मेदवारी दर्ता गराइरहेका छन् । उम्मेदवारी दर्ताका लागि मंगलबार दिउँसो ६ बजेसम्मको समय तोकिएको छ। तस्बिर : नेपाल फोटो लाइब्रेरी",
-      "published": "2026-10-06T09:44:34+00:00",
-      "source": "Khabarhub",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "90a6edef2bbc5f30",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 107.0,
+      "score": 106.4,
       "story_size": 1
     },
     {
@@ -1441,43 +1586,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.8,
-      "story_size": 1
-    },
-    {
-      "title": "रसुवा भोटेकोशी बाढीपछि नेपालको आर्थिक वृद्धि ३.७ प्रतिशतमा सीमित हुने विश्व बैंकको प्रक्षेपण",
-      "link": "https://kendrabindu.com/economy/561807/",
-      "description": "काठमाडौं । भदौ १० गते आएको विनाशकारी रसुवा बाढीका कारण उद्योग तथा सेवा क्षेत्रमा परेको अवरोधले नेपालको आर्थिक वृद्धिदर आर्थिक वर्ष २०८३/८४ मा सुस्त भई तीन दशमलव सात प्रतिशतमा सीमित हुने विश्व बैंकले प्रक्षेपण गरेको छ । विश्व बैंकले आज सार्वजनिक गरेको नेपालको विकाससम्बन्धी अद्यावधिक प्रतिवेदन ‘भविष्यका लागि फरक ढङ्गले पुनर्निर्माण’ (बिल्डिङ ब्याक डिफरेन्ट्ली फर [&#8230;]",
-      "published": "2026-10-06T09:37:18+00:00",
-      "source": "Kendrabindu",
-      "category": "tech",
-      "image": "",
-      "related_sources": [
-        "Kendrabindu"
-      ],
-      "id": "c3f68efae87d007c",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 106.5,
-      "story_size": 1
-    },
-    {
-      "title": "कांग्रेसको बन्द सत्रको छलफल भोलि पुनः हुने, सभापति थापाले सम्बोधन गर्ने",
-      "link": "https://kendrabindu.com/politics/561803/",
-      "description": "काठमाडौँ । नेपाली कांग्रेसको १५ औँ महाधिवेशन अन्तर्गत आज तेस्रो दिन बन्द सत्रको छलफल सकिएको छ । बन्द सत्रमा सहभागी महाधिवेशन प्रतिनिधिहरूले सभापति गगनकुमार थापाले प्रस्तुत गरेको राष्ट्रिय पुनर्जागरण र समुन्नतिको राजनीतिक प्रस्ताव, उपसभापति विश्वप्रकाश शर्माको राजनीतिक संस्कृतिको क्षय र युगानुकूल रूपान्तरणको अभिभारा सम्बन्धी समसामयिक प्रस्ताव, महामन्त्री गुरुराज घिमिरेको संगठन सम्बन्धी प्रतिवेदन र कोषाध्यक्ष उमेश [&#8230;]",
-      "published": "2026-10-06T09:34:49+00:00",
-      "source": "Kendrabindu",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Kendrabindu"
-      ],
-      "id": "6d2752482672ea8c",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 106.4,
+      "score": 106.1,
       "story_size": 1
     },
     {
@@ -1495,7 +1604,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.3,
+      "score": 105.7,
       "story_size": 1
     },
     {
@@ -1513,7 +1622,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.2,
+      "score": 105.6,
       "story_size": 1
     },
     {
@@ -1531,7 +1640,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.1,
+      "score": 105.5,
       "story_size": 1
     },
     {
@@ -1549,7 +1658,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.1,
+      "score": 105.4,
       "story_size": 1
     },
     {
@@ -1567,7 +1676,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.9,
+      "score": 105.2,
       "story_size": 1
     },
     {
@@ -1585,7 +1694,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.6,
+      "score": 104.9,
       "story_size": 1
     },
     {
@@ -1603,7 +1712,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.5,
+      "score": 104.8,
       "story_size": 1
     },
     {
@@ -1621,7 +1730,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.3,
+      "score": 104.6,
       "story_size": 1
     },
     {
@@ -1639,7 +1748,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.7,
+      "score": 104.0,
       "story_size": 1
     },
     {
@@ -1657,7 +1766,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.6,
+      "score": 103.9,
       "story_size": 1
     },
     {
@@ -1675,7 +1784,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.2,
+      "score": 103.5,
       "story_size": 1
     },
     {
@@ -1693,7 +1802,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.1,
+      "score": 103.4,
       "story_size": 1
     },
     {
@@ -1711,7 +1820,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.7,
+      "score": 103.1,
       "story_size": 1
     },
     {
@@ -1729,7 +1838,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.7,
+      "score": 103.0,
       "story_size": 1
     },
     {
@@ -1747,7 +1856,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.2,
+      "score": 102.5,
       "story_size": 1
     },
     {
@@ -1765,7 +1874,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.3,
+      "score": 101.6,
       "story_size": 1
     },
     {
@@ -1783,7 +1892,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.8,
+      "score": 101.1,
       "story_size": 1
     },
     {
@@ -1801,7 +1910,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.8,
+      "score": 101.1,
       "story_size": 1
     },
     {
@@ -1819,25 +1928,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.7,
-      "story_size": 1
-    },
-    {
-      "title": "सञ्चार मन्त्रालय मातहतका निकायसँग कार्यसम्पादन सम्झौता",
-      "link": "https://gorkhapatraonline.com/news/225629",
-      "description": "काठमाडौँ, असोज २० गते । सूचना तथा सञ्चारमन्त्री डा. विक्रम तिमिल्सिना र सञ्चार सचिव राजेन्द्रकुमार पौडेलबीच आर्थिक वर्ष २०८३/८४ का लागि कार्यसम्पादन सम्झौता सम्पन्न भएको छ । सोही अ...",
-      "published": "2026-10-06T13:23:40+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/386733/conversions/1-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "47f5c6bd4b470abd",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 101.6,
+      "score": 101.0,
       "story_size": 1
     },
     {
@@ -1855,7 +1946,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.9,
+      "score": 100.2,
       "story_size": 1
     },
     {
@@ -1873,7 +1964,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.8,
+      "score": 100.1,
       "story_size": 1
     },
     {
@@ -1891,7 +1982,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.7,
+      "score": 100.1,
       "story_size": 1
     },
     {
@@ -1909,25 +2000,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.4,
-      "story_size": 1
-    },
-    {
-      "title": "कांग्रेस महामन्त्रीमा को-को बन्दैछन् उम्मेदवार ?",
-      "link": "https://nepalsamaya.com/detail/146747",
-      "description": "",
-      "published": "2026-10-06T13:48:32+05:45",
-      "source": "Nepal Samaya",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Nepal Samaya"
-      ],
-      "id": "ca9dbd3502f943f3",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 100.3,
+      "score": 99.7,
       "story_size": 1
     },
     {
@@ -1945,25 +2018,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.3,
-      "story_size": 1
-    },
-    {
-      "title": "डा.मिनेन्द्र रिजालले उपसभापतिमा उम्मेदवारी दिने",
-      "link": "https://nepalsamaya.com/detail/146746",
-      "description": "",
-      "published": "2026-10-06T13:44:02+05:45",
-      "source": "Nepal Samaya",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Nepal Samaya"
-      ],
-      "id": "228a49a58f835de1",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 100.0,
+      "score": 99.6,
       "story_size": 1
     },
     {
@@ -1981,7 +2036,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.8,
+      "score": 99.1,
       "story_size": 1
     },
     {
@@ -1999,7 +2054,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.4,
+      "score": 98.7,
       "story_size": 1
     },
     {
@@ -2017,7 +2072,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.0,
+      "score": 98.3,
       "story_size": 1
     },
     {
@@ -2035,7 +2090,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.6,
+      "score": 98.0,
       "story_size": 1
     },
     {
@@ -2053,7 +2108,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.5,
+      "score": 97.8,
       "story_size": 1
     },
     {
@@ -2071,7 +2126,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.8,
+      "score": 97.1,
       "story_size": 1
     },
     {
@@ -2089,7 +2144,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.7,
+      "score": 97.0,
       "story_size": 1
     },
     {
@@ -2107,7 +2162,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.6,
+      "score": 97.0,
       "story_size": 1
     },
     {
@@ -2125,7 +2180,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.6,
+      "score": 96.9,
       "story_size": 1
     },
     {
@@ -2143,7 +2198,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.6,
+      "score": 96.9,
       "story_size": 1
     },
     {
@@ -2161,7 +2216,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.5,
+      "score": 95.8,
       "story_size": 1
     },
     {
@@ -2179,7 +2234,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.2,
+      "score": 95.6,
       "story_size": 1
     },
     {
@@ -2197,7 +2252,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.0,
+      "score": 95.3,
       "story_size": 1
     },
     {
@@ -2215,7 +2270,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.9,
+      "score": 95.2,
       "story_size": 1
     },
     {
@@ -2233,7 +2288,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.0,
+      "score": 94.3,
       "story_size": 1
     },
     {
@@ -2251,7 +2306,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.9,
+      "score": 94.3,
       "story_size": 1
     },
     {
@@ -2269,7 +2324,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.5,
+      "score": 93.8,
       "story_size": 1
     },
     {
@@ -2287,7 +2342,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.9,
+      "score": 93.2,
       "story_size": 1
     },
     {
@@ -2305,7 +2360,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.5,
+      "score": 92.8,
       "story_size": 1
     },
     {
@@ -2323,7 +2378,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.4,
+      "score": 92.8,
       "story_size": 1
     },
     {
@@ -2341,43 +2396,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.2,
-      "story_size": 1
-    },
-    {
-      "title": "डिज्नीका लियोनेल मेस्सी : सोचेभन्दा बिल्कुलै फरक",
-      "link": "https://www.onlinekhabar.com/2026/10/2033275/disneys-lionel-messi-completely-different-from-what-you-expected",
-      "description": "सर्वकालीन सर्वोत्कृष्ट फुटबलरबाट प्रेरित भएर कला सिर्जना हुनु स्वाभाविक नै हो । विश्वभर मेस्सीको आफ्नै फन्ट, चित्र र विभिन्न कलात्मक शैलीका सालिकहरू उपलब्ध छन् । अब डिज्नीले लियोनेल मेस्सीमा आधारित कार्टुन सार्वजनिक गर्ने भएको छ । यो कार्टुनले अर्जेन्टिनी फुटबलरलाई पूर्णरूपमा काल्पनिक दुनियाँमा पुर्‍याउने बताइएको छ । नामबाटै अनुमान लगाउन सकिएजस्तै मेस्सी एन्ड द जायन्ट्स [&#8230;]",
-      "published": "2026-10-06T06:14:40+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "8486962a07bcf07f",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 93.0,
-      "story_size": 1
-    },
-    {
-      "title": "पूर्वाधारमा विपद्को क्षति २ खर्ब २७ अर्ब, पुनर्निर्माणका लागि तत्काल ६३ अर्ब माग",
-      "link": "https://www.onlinekhabar.com/2026/10/2033270/disaster-damage-to-infrastructure-rs-227-billion-immediate-demand-for-reconstruction-rs-63-billion",
-      "description": "२० असोज, काठमाडौं । पछिल्लो बाढी, पहिरो तथा जलवायुजन्य विपद्का कारण मुलुकका पूर्वाधार संरचनामा २ खर्ब २७ अर्ब रुपैयाँ बराबरको प्रारम्भिक क्षति पुगेको छ । पूर्वाधार विकास मन्त्रालयका सचिव पद्मकुमार मैनालीले सिंहदरबारमा आयोजित हिमालमा जलवायु परिवर्तनको प्रभाव, जलवायु न्याय तथा भोटेकोशी–त्रिशूली विपद्सम्बन्धी संसदीय विशेष समितिको बैठकमा उक्त जानकारी गराउँदै तत्काल पुनर्निर्माणका लागि ६३ अर्ब रुपैयाँ [&#8230;]",
-      "published": "2026-10-06T06:11:06+00:00",
-      "source": "OnlineKhabar",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "ec666cab7f698413",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 92.8,
+      "score": 92.5,
       "story_size": 1
     },
     {
@@ -2395,7 +2414,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.4,
+      "score": 83.8,
       "story_size": 1
     },
     {
@@ -2413,7 +2432,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.6,
+      "score": 79.9,
       "story_size": 1
     },
     {
@@ -2431,7 +2450,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.5,
+      "score": 75.8,
       "story_size": 1
     },
     {
@@ -2449,7 +2468,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 19.8,
+      "score": 19.1,
       "story_size": 1
     },
     {
@@ -2467,7 +2486,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 18.0,
+      "score": 17.3,
       "story_size": 1
     },
     {
@@ -2705,6 +2724,24 @@
       "story_size": 1
     },
     {
+      "title": "दुर्गा प्रसाईंलाई २ लाख धरौटीमा छाड्न काठमाडौं जिल्ला अदालतको आदेश",
+      "link": "http://lokaantar.com/story/330624/2026/10/6/durga-prasai-",
+      "description": "सामाजिक सञ्जालमार्फत चरित्रहत्या र अपमानजनक अभिव्यक्ति दिएको अभियोगमा पक्राउ परेका मेडिकल व्यवसायी दुर्गा प्रसाईंलाई काठमाडौं जिल्ला अदालतले धरौटीमा छाड्न आदेश दिएको छ।काठमाडौं जिल्ला अदालतका न्यायाधीश उमेशप्रसाद लुइँटेलको इजलासले मंगलबार थुनछेक बहसपछि प्रसाईंलाई&nbsp;दुई लाख रुपैयाँ धरौटीमा रिहा गर्ने आदेश जारी गरेको हो ।प्रसाईंलाई&nbsp;दुई लाख रुपैयाँ धरौटी तारेखमा छाड्न आदेश भएको&nbsp;अदालतका सूचना अधिकारी शिव खतिवडाले जानकारी दिए ।जेन्जी आन्दोलनका क्रममा शहीद भएका युवाकी आमा एवं प्रतिनिधि सभ",
+      "published": "",
+      "source": "Lokaantar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Lokaantar"
+      ],
+      "id": "96a616fb02e9c6ad",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 10,
+      "story_size": 1
+    },
+    {
       "title": "११ दशमलव ९६ अङ्कले बढ्यो नेप्से, ३ अर्ब १३ करोडको कारोबार",
       "link": "http://lokaantar.com/story/330623/2026/10/6/nepse-",
       "description": "धितोपत्र बजारमा शेयर कारोबार मापक नेप्से परिसूचक आज दोहोरो अङ्कले बढेको छ ।नेपाल स्टक एक्सचेन्जका अनुसार नेप्से परिसूचक ११ दशमलव ९६ अङ्कले बढेर दुई हजार ५७८ दशमलव ७३ मा पुगेको छ । ठूला कम्पनीको कारोबार मापन गर्ने सेन्सेटिभ परिसूचक दुई अङ्कले बढेर ४६१ दशमलव ८६ मा पुगेको छ ।त्यसैगरी फ्लोट सूचक शून्य दशमलव ८२ अङ्कले बढेर १७७ दशमलव ७१ मा पुगेको छ ।यसैगरी सेन्सेटिभ फ्लोट सूचक शून्य दशमलव ७५ अङ्कले बढेर १५५ दशमलव ८४ मा पुगेको छ । आज विभिन्न कम्पनीका ८९ लाख ५५ हजार २३० कित्ता शेयर तीन अर्ब १३ करोड ८१ ल",
@@ -2716,42 +2753,6 @@
         "Lokaantar"
       ],
       "id": "352228de04ee9992",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "बुटवलका मेयर पाण्डेयले दिए कांग्रेस केन्द्रीय सदस्यमा उम्मेदवारी",
-      "link": "http://lokaantar.com/story/330622/2026/10/6/khelraj-pandeya-",
-      "description": "नेपाली कांग्रेसको १५ औं महाधिवेशनमा रूपन्देहीको बुटवल उपमहानगरपालिकाका प्रमुख (मेयर) खेलराज पाण्डेयले केन्द्रीय सदस्यमा उम्मेदवारी दिएका छन् ।कांग्रेसको केन्द्रीय सदस्य खुला ४५ मध्ये उनले मंगलबार उम्मेदवारी दर्ता गराएका हुन् ।&nbsp;उनी यसअघि कांग्रेस बुटवल उपमहानगरपालिकाका सभापति पनि थिए ।&nbsp;नेता कार्यकर्ताबाट आफूलाई साथ आवश्यक रहेको भन्दै सहयोग गर्न पाण्डेयले आग्रह गरेका छन् ।&nbsp;",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "071e41880790b4a1",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "विश्वप्रकाश शर्माले दिए वरिष्ठ उपाध्यक्षमा उम्मेदवारी",
-      "link": "http://lokaantar.com/story/330621/2026/10/6/bishwa-prakash-sharma-",
-      "description": "नेपाली कांग्रेसका उपसभापति विश्वप्रकाश शर्माले वरिष्ठ उपाध्यक्षमा उम्मेदवारी दर्ता छन् ।जारी&nbsp;१५औँ महाधिवेशनअन्तर्गत&nbsp;उपसभापति शर्माले आज दिउँसो वरिष्ठ उपाध्यक्षमा उम्मेदवारी दर्ता गराएका हुन् ।उनले वारेसमार्फत आफ्नो उम्मेदवारी दर्ता गराएका निर्वाचन समितिले जनाएको छ । पुष्पराज पौडेलले वारेसमार्फत शर्माको उम्मेदवारी दर्ता गराएका हुन् ।कांग्रेसको विधानमा पहिलोपटक वरिष्ठ उपसभापतिको व्यवस्था गरिएको छ ।&nbsp;यसैगरी, महामन्त्रीमा&nbsp;प्रदीप पौडेल, गुरूराज&nbsp;घिमिरे,&nbsp;शंकर तिवारी,&nbsp;स",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "world",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "795a75b035fa97f7",
       "source_count": 1,
       "verified": false,
       "local": false,
