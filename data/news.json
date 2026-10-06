@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T10:54:59.890500+00:00",
+  "updated_at": "2026-10-06T10:56:15.725442+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -31,7 +31,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.7,
+      "score": 133.6,
       "story_size": 2
     },
     {
@@ -50,7 +50,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.6,
+      "score": 133.5,
       "story_size": 2
     },
     {
@@ -69,7 +69,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.4,
+      "score": 133.3,
       "story_size": 2
     },
     {
@@ -88,7 +88,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 131.9,
+      "score": 131.8,
       "story_size": 2
     },
     {
@@ -107,7 +107,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 131.5,
+      "score": 131.4,
       "story_size": 2
     },
     {
@@ -125,7 +125,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 113.0,
+      "score": 112.9,
       "story_size": 1,
       "image_local": "images/news_e418f50023707824eefa.jpg"
     },
@@ -144,7 +144,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.9,
+      "score": 112.8,
       "story_size": 1,
       "image_local": "images/news_ffebdfc64ee15703b54b.jpg"
     },
@@ -163,7 +163,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.8,
+      "score": 112.7,
       "story_size": 1,
       "image_local": "images/news_ab12969d46b33075dbf6.jpg"
     },
@@ -182,7 +182,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.8,
+      "score": 112.7,
       "story_size": 1,
       "image_local": "images/news_4dd876671f3eb9b6e649.jpg"
     },
@@ -201,7 +201,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.8,
+      "score": 112.7,
       "story_size": 1,
       "image_local": "images/news_78f98b3a9b441018db81.webp"
     },
@@ -220,7 +220,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.6,
+      "score": 112.5,
       "story_size": 1,
       "image_local": "images/news_b5d151556746d6a754c9.jpg"
     },
@@ -239,7 +239,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.6,
+      "score": 112.5,
       "story_size": 1,
       "image_local": "images/news_6c1c5c71d641594eb870.webp"
     },
@@ -258,7 +258,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.6,
+      "score": 112.5,
       "story_size": 1,
       "image_local": "images/news_c582ad9729eb9bccb11a.webp"
     },
@@ -315,7 +315,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.2,
+      "score": 112.1,
       "story_size": 1,
       "image_local": "images/news_e0cc7ab2b8f3d3dfb8a6.webp"
     },
@@ -334,7 +334,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.0,
+      "score": 111.9,
       "story_size": 1,
       "image_local": "images/news_cf95d3d6d60bbb56c366.webp"
     },
@@ -353,7 +353,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.9,
+      "score": 111.8,
       "story_size": 1,
       "image_local": "images/news_e7f1692d7cfb1ff1f290.jpg"
     },
@@ -372,7 +372,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.9,
+      "score": 111.8,
       "story_size": 1,
       "image_local": "images/news_998ca1341ee7884157e5.webp"
     },
@@ -410,7 +410,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.6,
+      "score": 111.5,
       "story_size": 1,
       "image_local": "images/news_5b755efe7934d2877176.webp"
     },
@@ -429,7 +429,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.6,
+      "score": 111.5,
       "story_size": 1,
       "image_local": "images/news_e32aa7fd2073eaa8a2ec.webp"
     },
@@ -448,7 +448,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.4,
+      "score": 111.3,
       "story_size": 1,
       "image_local": "images/news_560aca08bb1537282433.webp"
     },
@@ -486,7 +486,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.1,
+      "score": 111.0,
       "story_size": 1,
       "image_local": "images/news_b0bde2fa07122a067e32.jpg"
     },
@@ -505,7 +505,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.1,
+      "score": 111.0,
       "story_size": 1,
       "image_local": "images/news_0fd8a46ad28993f9e07b.webp"
     },
@@ -524,7 +524,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.0,
+      "score": 110.9,
       "story_size": 1,
       "image_local": "images/news_5584e5f92586d51c9205.webp"
     },
@@ -600,7 +600,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.6,
+      "score": 110.5,
       "story_size": 1,
       "image_local": "images/news_fe4d9db4271c66ec56a3.jpg"
     },
@@ -619,7 +619,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.5,
+      "score": 110.4,
       "story_size": 1,
       "image_local": "images/news_7032860f01545daba2c9.jpg"
     },
@@ -638,7 +638,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.4,
+      "score": 110.3,
       "story_size": 1,
       "image_local": "images/news_7342ad99b2e59881c314.webp"
     },
@@ -657,7 +657,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.4,
+      "score": 110.3,
       "story_size": 1,
       "image_local": "images/news_d6e04d795cd5226db2a2.jpg"
     },
@@ -676,7 +676,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.3,
+      "score": 110.2,
       "story_size": 1,
       "image_local": "images/news_685f8411b031a4e022f8.webp"
     },
@@ -695,7 +695,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.3,
+      "score": 110.2,
       "story_size": 1,
       "image_local": "images/news_65e5a63333f876b47b50.webp"
     },
@@ -714,7 +714,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.2,
+      "score": 110.1,
       "story_size": 1,
       "image_local": "images/news_7756fa1fd00e1a518a4e.jpg"
     },
@@ -752,9 +752,63 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.1,
+      "score": 110.0,
       "story_size": 1,
       "image_local": "images/news_b790bd06da5a33600bbb.jpg"
+    },
+    {
+      "title": "फ्रान्सिस ह्याल्जेनलाई भौतिकशास्त्रतर्फको नोबेल पुरस्कार",
+      "link": "https://baahrakhari.com/detail/504016",
+      "description": "",
+      "published": "2026-10-06T16:40:22+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "c326b3ab48f8788a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.9,
+      "story_size": 1
+    },
+    {
+      "title": "ग्लोबल आइएमई बैंकको नायब प्रमुख कार्यकारी अधिकृतमा रेग्मी",
+      "link": "https://khabarhub.com/2026/06/1034136/",
+      "description": "काठमाडौं&#8211; ग्लोबल आइएमई बैंक लिमिटेडको नायब प्रमुख कार्यकारी अधिकृत (डीसीईओ) पदमा दीपचन्द्र रेग्मी बढुवा भएका छन् । मंगलबार बसेको बैंक सञ्चालक समितिको बैठकको निर्णयानुसार उनलाई उक्त पदमा बढुवा गरिएको हो । नवनियुक्त नायब प्रमुख कार्यकारी अधिकृत रेग्मी बैंकको सहायक प्रमुख कार्यकारी अधिकृतका रूपमा कार्यरत थिए ।&#160; सन् २००७ मा स्ट्यान्डर्ड चार्टर्ड बैंक नेपालबाट बैंकिङ करिअर [&#8230;]",
+      "published": "2026-10-06T10:55:07+00:00",
+      "source": "Khabarhub",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "ba6a4b81ab956207",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.9,
+      "story_size": 1
+    },
+    {
+      "title": "उपसभापतिमा चन्द्र भण्डारीको उमेदवारी दर्ता",
+      "link": "https://baahrakhari.com/detail/504015",
+      "description": "",
+      "published": "2026-10-06T16:39:57+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "bc37f0c975e3e0f8",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.9,
+      "story_size": 1
     },
     {
       "title": "चन्द्र भण्डारीले गरे कांग्रेस उपसभापतिमा उम्मेदवारी दर्ता",
@@ -771,7 +825,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.9,
+      "score": 109.8,
       "story_size": 1
     },
     {
@@ -789,7 +843,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.9,
+      "score": 109.8,
       "story_size": 1
     },
     {
@@ -807,7 +861,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.9,
+      "score": 109.8,
       "story_size": 1,
       "image_local": "images/news_b663c971e709f316aebb.jpg"
     },
@@ -826,11 +880,11 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.8,
+      "score": 109.7,
       "story_size": 1
     },
     {
-      "title": "कांग्रेस १५ औँ महाधिवेशन : भोट माग्ने रोबोट भन्छ- जय नेपाल",
+      "title": "कांग्रेस १५ महाधिवेशन : भोट माग्ने रोबोट भन्छ- जय नेपाल",
       "link": "https://khabarhub.com/2026/06/1034100/",
       "description": "काठमाडौं&#8211; नेपाली कांग्रेसको जारी १५ औँ महाधिवेशनमा केन्द्रीय सदस्य उम्मेदवार रहेका नवराज त्रिपाठीले भोट माग्न रोबोटको प्रयोग गरेका छन् । इन्जिनियरसमेत रहेका त्रिपाठीले रोबोटसँगै पछिपछि हिँड्दै राष्ट्रिय सभागृहमा प्रतिनिधिसँग भेटघाट र मत मागिरहेका छन् ।&#160; अघिअघि हिँडिरहेको रोबोटले उनका लागि मत माग्छ । मत मागेपछि रोबोटले अन्तिममा भन्छ – जय नेपाल !",
       "published": "2026-10-06T10:51:30+00:00",
@@ -840,11 +894,11 @@
       "related_sources": [
         "Khabarhub"
       ],
-      "id": "b7a4c2b213db7689",
+      "id": "44fb995e8075aea1",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.8,
+      "score": 109.7,
       "story_size": 1
     },
     {
@@ -862,7 +916,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.7,
+      "score": 109.6,
       "story_size": 1
     },
     {
@@ -880,7 +934,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.7,
+      "score": 109.6,
       "story_size": 1
     },
     {
@@ -898,7 +952,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.7,
+      "score": 109.6,
       "story_size": 1,
       "image_local": "images/news_939c8edc6ed81bbdd1e2.webp"
     },
@@ -917,7 +971,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.6,
+      "score": 109.5,
       "story_size": 1
     },
     {
@@ -935,7 +989,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.5,
+      "score": 109.4,
       "story_size": 1
     },
     {
@@ -953,7 +1007,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.5,
+      "score": 109.4,
       "story_size": 1
     },
     {
@@ -971,7 +1025,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.5,
+      "score": 109.4,
       "story_size": 1
     },
     {
@@ -989,7 +1043,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.4,
+      "score": 109.3,
       "story_size": 1
     },
     {
@@ -1007,7 +1061,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.4,
+      "score": 109.3,
       "story_size": 1,
       "image_local": "images/news_91aa42e3c1dc157b8b8f.jpg"
     },
@@ -1026,7 +1080,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.3,
+      "score": 109.2,
       "story_size": 1
     },
     {
@@ -1044,7 +1098,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.2,
+      "score": 109.1,
       "story_size": 1
     },
     {
@@ -1062,7 +1116,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.2,
+      "score": 109.1,
       "story_size": 1
     },
     {
@@ -1080,7 +1134,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.1,
+      "score": 109.0,
       "story_size": 1
     },
     {
@@ -1098,7 +1152,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.1,
+      "score": 109.0,
       "story_size": 1,
       "image_local": "images/news_8acf734ed3383dad5374.webp"
     },
@@ -1117,7 +1171,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.0,
+      "score": 108.9,
       "story_size": 1
     },
     {
@@ -1135,7 +1189,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.0,
+      "score": 108.9,
       "story_size": 1,
       "image_local": "images/news_d9302a184cbc16000894.jpg"
     },
@@ -1154,27 +1208,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.0,
+      "score": 108.9,
       "story_size": 1,
       "image_local": "images/news_b5e415fc221a20103edf.jpg"
-    },
-    {
-      "title": "तीन पदका लागि कांग्रेस उपसभापतिमा ६ जनाको उम्मेदवारी",
-      "link": "https://khabarhub.com/2026/06/1034089/",
-      "description": "काठमाडौँ &#8211; नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत पदाधिकारी चयनका लागि मंगलबार राष्ट्रिय सभागृहस्थित निर्वाचन कार्यालयमा नेताको मनोनयन दर्ता तीव्र बनेको छ। पार्टीको उपसभापति पदका लागि डा. मिनेन्द्र रिजाल, पुष्पा भुषाल, गोविन्द भट्टराई, देवराज चालिसे, विनोद चौधरी र मधु आचार्य गरेर ६ जना नेताहरूले उम्मेदवारी दर्ता गराएका छन्। संशोधित विधानअनुसार यस पटक एक वरिष्ठ र एक महिलासहित [&#8230;]",
-      "published": "2026-10-06T10:39:12+00:00",
-      "source": "Khabarhub",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "af8546c17d2acdc3",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 108.9,
-      "story_size": 1
     },
     {
       "title": "सशस्त्रका एआईजी वंशीराज दाहालविरुद्ध गम्भीर आरोप, यसरी तानिए अनुसन्धानको ‘राडार’ मा",
@@ -1188,24 +1224,6 @@
         "Baahrakhari"
       ],
       "id": "d44fcb6a2f6a6176",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 108.9,
-      "story_size": 1
-    },
-    {
-      "title": "देउवा पक्षले सोलु संयोजक तोकेका शुभरामको सहमहामन्त्रीमा उमेदवारी",
-      "link": "https://baahrakhari.com/detail/504010",
-      "description": "",
-      "published": "2026-10-06T16:22:06+05:45",
-      "source": "Baahrakhari",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "7fc824e2333cd284",
       "source_count": 1,
       "verified": false,
       "local": false,
@@ -1224,24 +1242,6 @@
         "Kendrabindu"
       ],
       "id": "5977c674fe247262",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 108.6,
-      "story_size": 1
-    },
-    {
-      "title": "सहमहामन्त्रीमा डिल्लीराम सुवेदीले दिए उमेदवारी",
-      "link": "https://baahrakhari.com/detail/504009",
-      "description": "",
-      "published": "2026-10-06T16:18:37+05:45",
-      "source": "Baahrakhari",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "5d7b9785ae272af3",
       "source_count": 1,
       "verified": false,
       "local": false,
@@ -1281,7 +1281,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.5,
+      "score": 108.4,
       "story_size": 1
     },
     {
@@ -1335,7 +1335,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.1,
+      "score": 108.0,
       "story_size": 1
     },
     {
@@ -1371,7 +1371,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.0,
+      "score": 107.9,
       "story_size": 1
     },
     {
@@ -1389,7 +1389,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.9,
+      "score": 107.8,
       "story_size": 1,
       "image_local": "images/news_2575ea404ded6cbc0f88.jpg"
     },
@@ -1408,7 +1408,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.8,
+      "score": 107.7,
       "story_size": 1
     },
     {
@@ -1426,7 +1426,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.6,
+      "score": 107.5,
       "story_size": 1
     },
     {
@@ -1444,7 +1444,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.6,
+      "score": 107.5,
       "story_size": 1
     },
     {
@@ -1462,7 +1462,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.6,
+      "score": 107.5,
       "story_size": 1
     },
     {
@@ -1480,7 +1480,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.4,
+      "score": 107.3,
       "story_size": 1
     },
     {
@@ -1498,7 +1498,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.3,
+      "score": 107.2,
       "story_size": 1
     },
     {
@@ -1516,7 +1516,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.3,
+      "score": 107.2,
       "story_size": 1
     },
     {
@@ -1534,7 +1534,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.9,
+      "score": 106.8,
       "story_size": 1
     },
     {
@@ -1552,7 +1552,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.7,
+      "score": 106.6,
       "story_size": 1
     },
     {
@@ -1570,7 +1570,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.7,
+      "score": 106.6,
       "story_size": 1
     },
     {
@@ -1588,7 +1588,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.5,
+      "score": 106.4,
       "story_size": 1
     },
     {
@@ -1606,7 +1606,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.5,
+      "score": 106.4,
       "story_size": 1
     },
     {
@@ -1624,7 +1624,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.1,
+      "score": 106.0,
       "story_size": 1
     },
     {
@@ -1642,7 +1642,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.1,
+      "score": 106.0,
       "story_size": 1
     },
     {
@@ -1660,7 +1660,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.8,
+      "score": 105.7,
       "story_size": 1
     },
     {
@@ -1678,7 +1678,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.6,
+      "score": 105.5,
       "story_size": 1
     },
     {
@@ -1696,7 +1696,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.5,
+      "score": 105.4,
       "story_size": 1
     },
     {
@@ -1714,7 +1714,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.0,
+      "score": 104.9,
       "story_size": 1
     },
     {
@@ -1732,7 +1732,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.6,
+      "score": 104.5,
       "story_size": 1
     },
     {
@@ -1750,7 +1750,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.5,
+      "score": 104.4,
       "story_size": 1
     },
     {
@@ -1768,7 +1768,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.4,
+      "score": 104.3,
       "story_size": 1
     },
     {
@@ -1804,7 +1804,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.2,
+      "score": 104.1,
       "story_size": 1
     },
     {
@@ -1822,7 +1822,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.9,
+      "score": 103.8,
       "story_size": 1
     },
     {
@@ -1930,7 +1930,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.0,
+      "score": 101.9,
       "story_size": 1
     },
     {
@@ -1948,7 +1948,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.0,
+      "score": 101.9,
       "story_size": 1
     },
     {
@@ -1966,7 +1966,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.5,
+      "score": 101.4,
       "story_size": 1
     },
     {
@@ -1984,7 +1984,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.6,
+      "score": 100.5,
       "story_size": 1
     },
     {
@@ -2002,7 +2002,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.1,
+      "score": 100.0,
       "story_size": 1
     },
     {
@@ -2056,7 +2056,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.2,
+      "score": 99.1,
       "story_size": 1
     },
     {
@@ -2074,7 +2074,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.1,
+      "score": 99.0,
       "story_size": 1
     },
     {
@@ -2092,7 +2092,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.0,
+      "score": 98.9,
       "story_size": 1
     },
     {
@@ -2110,7 +2110,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.7,
+      "score": 98.6,
       "story_size": 1
     },
     {
@@ -2128,7 +2128,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.6,
+      "score": 98.5,
       "story_size": 1
     },
     {
@@ -2146,7 +2146,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.1,
+      "score": 98.0,
       "story_size": 1
     },
     {
@@ -2164,7 +2164,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.7,
+      "score": 97.6,
       "story_size": 1
     },
     {
@@ -2200,7 +2200,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.9,
+      "score": 96.8,
       "story_size": 1
     },
     {
@@ -2236,7 +2236,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.1,
+      "score": 96.0,
       "story_size": 1
     },
     {
@@ -2254,7 +2254,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.0,
+      "score": 95.9,
       "story_size": 1
     },
     {
@@ -2272,7 +2272,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.9,
+      "score": 95.8,
       "story_size": 1
     },
     {
@@ -2290,7 +2290,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.9,
+      "score": 95.8,
       "story_size": 1
     },
     {
@@ -2308,7 +2308,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.9,
+      "score": 95.8,
       "story_size": 1
     },
     {
@@ -2326,7 +2326,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.8,
+      "score": 94.7,
       "story_size": 1
     },
     {
@@ -2344,7 +2344,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.5,
+      "score": 94.4,
       "story_size": 1
     },
     {
@@ -2362,7 +2362,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.3,
+      "score": 94.2,
       "story_size": 1
     },
     {
@@ -2380,7 +2380,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.2,
+      "score": 94.1,
       "story_size": 1
     },
     {
@@ -2398,7 +2398,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.3,
+      "score": 93.2,
       "story_size": 1
     },
     {
@@ -2416,7 +2416,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.2,
+      "score": 93.1,
       "story_size": 1
     },
     {
@@ -2434,7 +2434,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.8,
+      "score": 92.7,
       "story_size": 1
     },
     {
@@ -2452,7 +2452,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.7,
+      "score": 82.6,
       "story_size": 1
     },
     {
@@ -2470,7 +2470,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.9,
+      "score": 78.8,
       "story_size": 1
     },
     {
@@ -2488,7 +2488,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.8,
+      "score": 74.7,
       "story_size": 1
     },
     {
@@ -2506,7 +2506,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 18.1,
+      "score": 18.0,
       "story_size": 1
     },
     {
@@ -2524,7 +2524,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 16.3,
+      "score": 16.2,
       "story_size": 1
     },
     {
