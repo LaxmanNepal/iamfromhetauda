@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T23:01:42.939873+00:00",
+  "updated_at": "2026-10-07T23:23:52.996976+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -27,15 +27,14 @@
         "Baahrakhari",
         "Gorkhapatra Online",
         "Ratopati",
-        "Khabarhub",
         "Lokaantar"
       ],
       "id": "5f58ef42315e1b89",
-      "source_count": 5,
+      "source_count": 4,
       "verified": true,
       "local": false,
-      "score": 144.0,
-      "story_size": 5
+      "score": 132.5,
+      "story_size": 4
     },
     {
       "title": "भारतीय प्रधानमन्त्री मोदीलाई प्रधानमन्त्री शाह र सभापति लामिछानेको बधाई",
@@ -55,7 +54,7 @@
       "source_count": 4,
       "verified": true,
       "local": false,
-      "score": 132.4,
+      "score": 130.9,
       "story_size": 4,
       "image_local": "images/news_ab797d6b1c559c2b8fff.jpg"
     },
@@ -76,8 +75,46 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 122.1,
+      "score": 120.6,
       "story_size": 3
+    },
+    {
+      "title": "कास्कीका सात स्थानमा यात्रु सहायता कक्ष स्थापना",
+      "link": "https://www.ratopati.com/story/598052/passenger-help-desks-established-at-seven-locations-in-kaski",
+      "description": "कास्की । जिल्ला ट्राफिक प्रहरी कार्यालय कास्कीले नजिकिँदो दसैँ, तिहार तथा छठ पर्वलाई लक्षित गरी जिल्लाका विभिन्न सात स्थानमा नागरिक/यात्रु सहायता कक्ष स्थापना गरेको छ । चाडपर्वका समयमा सार्वजनिक यातायातमा यात्रुको चाप बढ्ने तथा बढी भाडा",
+      "published": "2026-10-07T23:22:54+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://rpcdn.ratopati.com/media/albums/Help-desk_ZsExlK7IhA.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "8e560a43e8eed706",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.9,
+      "story_size": 1,
+      "image_local": "images/news_d7d8d893ad169da67014.jpg"
+    },
+    {
+      "title": "वर्षाले धानबालीमा क्षति",
+      "link": "https://www.ratopati.com/story/598051/rain-damages-rice-crops",
+      "description": "बाँके । बुधबार परेको वर्षाका कारण बाँकेमा धानबालीमा ठुलो क्षति पुगेको छ । धेरै ठाउँमा धानबाली ढलेर किसानलाई समस्या भएको छ । हावाहुरीसहितको वर्षाले पाकेको बीउ धानमा ठुलो क्षति पुर्‍याएको राप्ती सोनारीको साकार कृषि सहकारी संस्थाका",
+      "published": "2026-10-07T23:18:59+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/dhan-bali-ktm-(4)_iMl2Fo16sc.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "47f4c06a1e04a23a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.7,
+      "story_size": 1,
+      "image_local": "images/news_70e74c9949fa6995bb0c.jpg"
     },
     {
       "title": "बिहीबार बागमती र गण्डकीमा भारी वर्षाको सम्भावना",
@@ -94,7 +131,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 111.5,
+      "score": 110.0,
       "story_size": 1,
       "image_local": "images/news_b5d38251ebdc5ce3d697.jpg"
     },
@@ -114,9 +151,27 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 111.2,
+      "score": 109.8,
       "story_size": 2,
       "image_local": "images/news_58cc5b797487e8213b6d.jpg"
+    },
+    {
+      "title": "आज २०८३ साल असोज २२ गते बिहीबारको राशिफल",
+      "link": "https://khabarhub.com/2026/08/1034725/",
+      "description": "काठमाडौँ – आज २०८३ साल असोज २२ गते बिहीबार सन् २०२६ अक्टोबर ८ तारिख। असोज कृष्ण पक्षको त्रयोदशी तिथि । विश्व दृष्टि दिवस । नक्षत्र अनुसार १२ वटा राशि हुन्छन्। चन्द्रमा अनुसार राशि र नक्षत्रका पद अनुसार नाम राखिन्छ। त्यही आधारमा व्यक्तिको दैनिकीको विषयमा भविष्यवाणी हुन्छ। खबरहबका लागि ज्योतिष पण्डित सूर्यनाथ लुइटेलले तयार पार्नुभएको आजको [&#8230;]",
+      "published": "2026-10-07T23:19:44+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "aa8fca807543e28e",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.7,
+      "story_size": 1
     },
     {
       "title": "लागुऔषधसहित ९ जना पक्राउ",
@@ -134,7 +189,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 110.7,
+      "score": 109.2,
       "story_size": 2,
       "image_local": "images/news_84ba9500b824b217d196.jpg"
     },
@@ -154,7 +209,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 109.9,
+      "score": 108.5,
       "story_size": 2,
       "image_local": "images/news_003771ecfbbee6528fc3.webp"
     },
@@ -173,7 +228,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 100.0,
+      "score": 98.5,
       "story_size": 1
     },
     {
@@ -191,7 +246,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.9,
+      "score": 98.4,
       "story_size": 1,
       "image_local": "images/news_be9446abaedeb8dbffcc.jpg"
     },
@@ -210,7 +265,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.6,
+      "score": 97.1,
       "story_size": 1,
       "image_local": "images/news_20fcc11c88800e491153.webp"
     },
@@ -229,7 +284,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.3,
+      "score": 95.8,
       "story_size": 1,
       "image_local": "images/news_17606a6f6387be215ab5.jpg"
     },
@@ -248,7 +303,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.9,
+      "score": 92.5,
       "story_size": 1,
       "image_local": "images/news_e6051b04792cc7059ae6.jpg"
     },
@@ -268,7 +323,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 93.8,
+      "score": 92.4,
       "story_size": 2
     },
     {
@@ -286,7 +341,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.9,
+      "score": 91.4,
       "story_size": 1,
       "image_local": "images/news_03b365ad2baca438bd7d.webp"
     },
@@ -305,7 +360,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.9,
+      "score": 91.4,
       "story_size": 1,
       "image_local": "images/news_50694ba3f199eaaca9b7.jpg"
     },
@@ -324,7 +379,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.4,
+      "score": 90.9,
       "story_size": 1,
       "image_local": "images/news_9f5101036c143d7a2fd8.jpg"
     },
@@ -343,7 +398,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.7,
+      "score": 90.2,
       "story_size": 1,
       "image_local": "images/news_58ff17d72843b359ac3c.webp"
     },
@@ -362,7 +417,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.4,
+      "score": 89.9,
       "story_size": 1,
       "image_local": "images/news_bdbe81683e83b86821b2.webp"
     },
@@ -381,7 +436,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.2,
+      "score": 89.7,
       "story_size": 1,
       "image_local": "images/news_142fa8d2b0c7b5c03cbe.jpg"
     },
@@ -400,7 +455,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.7,
+      "score": 89.2,
       "story_size": 1
     },
     {
@@ -418,7 +473,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.1,
+      "score": 88.6,
       "story_size": 1,
       "image_local": "images/news_bc51f68e149d26d636c6.jpg"
     },
@@ -437,7 +492,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.5,
+      "score": 88.1,
       "story_size": 1,
       "image_local": "images/news_c61627e727c116a4e480.webp"
     },
@@ -456,7 +511,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.0,
+      "score": 87.5,
       "story_size": 1
     },
     {
@@ -474,28 +529,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.9,
+      "score": 87.4,
       "story_size": 1,
       "image_local": "images/news_685f8411b031a4e022f8.webp"
-    },
-    {
-      "title": "कांग्रेसको १५औँ महाधिवेशनः उपसभापति शर्मा र महामन्त्री घिमिरेको प्रतिवेदन पारित",
-      "link": "https://gorkhapatraonline.com/news/225822",
-      "description": "काठमाडौँ, असोज २१ गते । नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत बन्द सत्रमा उपसभापति विश्वप्रकाश शर्मा र महामन्त्री गुरुराज घिमिरेले प्रस्तुत गर्नुभएको प्रतिवेदन पारित भएको छ । ...",
-      "published": "2026-10-07T22:43:52+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "politics",
-      "image": "https://gorkhapatraonline.com/storage/media/386990/conversions/KRB_KTM_U3A6950-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "0bc615a619673010",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 88.8,
-      "story_size": 1,
-      "image_local": "images/news_64176b510fbaaa317fad.jpg"
     },
     {
       "title": "कांग्रेसभित्रको गुटबन्दी अन्त्य भएको घोषणा गर्दै गगन थापाले भने– ‘अब पार्टीको रेल अगाडि बढ्यो’ [भिडियो]",
@@ -512,8 +548,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.7,
+      "score": 87.3,
       "story_size": 1
+    },
+    {
+      "title": "कांग्रेसको १५औँ महाधिवेशनः उपसभापति शर्मा र महामन्त्री घिमिरेको प्रतिवेदन पारित",
+      "link": "https://gorkhapatraonline.com/news/225822",
+      "description": "काठमाडौँ, असोज २१ गते । नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत बन्द सत्रमा उपसभापति विश्वप्रकाश शर्मा र महामन्त्री गुरुराज घिमिरेले प्रस्तुत गर्नुभएको प्रतिवेदन पारित भएको छ । ...",
+      "published": "2026-10-07T22:43:52+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "politics",
+      "image": "https://gorkhapatraonline.com/storage/media/386990/conversions/KRB_KTM_U3A6950-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "0bc615a619673010",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 87.3,
+      "story_size": 1,
+      "image_local": "images/news_64176b510fbaaa317fad.jpg"
     },
     {
       "title": "उपसभापति विश्वप्रकाश शर्माले पेश गरेको समसामयिक विषयक प्रतिवेदन पारित [भिडियो]",
@@ -530,7 +585,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.6,
+      "score": 87.1,
       "story_size": 1
     },
     {
@@ -548,7 +603,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.5,
+      "score": 87.0,
       "story_size": 1
     },
     {
@@ -566,7 +621,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.4,
+      "score": 86.9,
       "story_size": 1
     },
     {
@@ -584,7 +639,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.8,
+      "score": 86.3,
       "story_size": 1,
       "image_local": "images/news_cb4f64f25965bcaf09e4.webp"
     },
@@ -603,7 +658,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.7,
+      "score": 86.2,
       "story_size": 1,
       "image_local": "images/news_b37f7628a8c0ab7193f7.webp"
     },
@@ -622,7 +677,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.5,
+      "score": 86.0,
       "story_size": 1
     },
     {
@@ -640,7 +695,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.4,
+      "score": 85.9,
       "story_size": 1,
       "image_local": "images/news_4fe0c4d91443cb5aff55.webp"
     },
@@ -659,7 +714,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.1,
+      "score": 85.6,
       "story_size": 1
     },
     {
@@ -677,7 +732,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.0,
+      "score": 85.5,
       "story_size": 1
     },
     {
@@ -695,7 +750,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.7,
+      "score": 85.2,
       "story_size": 1
     },
     {
@@ -713,7 +768,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.7,
+      "score": 85.2,
       "story_size": 1
     },
     {
@@ -731,7 +786,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.6,
+      "score": 85.1,
+      "story_size": 1
+    },
+    {
+      "title": "बाजुरा केन्द्र भएर गयो भूकम्प",
+      "link": "https://khabarhub.com/2026/07/1034738/",
+      "description": "काठमाडौं । बुधबार राति बाजुरा जिल्लालाई केन्द्रबिन्दु बनाएर भूकम्प गएको छ । राष्ट्रिय भूकम्प मापन तथा अनुसन्धान केन्द्रले दिएको जानकारीअनुसार, बाजुराको बाह्रबिसे आसपासलाई केन्द्रबिन्दु बनाएर भूकम्प गएको हो । केन्द्रका अनुसार बुधबार राति ९:३७ मा ४.१ म्याग्निच्युडको भूकम्प गएको केन्द्रले जानकारी दिएको छ ।",
+      "published": "2026-10-07T17:05:15+00:00",
+      "source": "Khabarhub",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "031645f522f27eb4",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 84.8,
       "story_size": 1
     },
     {
@@ -749,27 +822,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.3,
+      "score": 84.8,
       "story_size": 1,
       "image_local": "images/news_d57005c5efe71e98a2d6.webp"
-    },
-    {
-      "title": "बाजुरा केन्द्र भएर गयो भूकम्प",
-      "link": "https://khabarhub.com/2026/07/1034738/",
-      "description": "काठमाडौं । बुधबार राति बाजुरा जिल्लालाई केन्द्रबिन्दु बनाएर भूकम्प गएको छ । राष्ट्रिय भूकम्प मापन तथा अनुसन्धान केन्द्रले दिएको जानकारीअनुसार, बाजुराको बाह्रबिसे आसपासलाई केन्द्रबिन्दु बनाएर भूकम्प गएको हो । केन्द्रका अनुसार बुधबार राति ९:३७ मा ४.१ म्याग्निच्युडको भूकम्प गएको केन्द्रले जानकारी दिएको छ ।",
-      "published": "2026-10-07T17:05:15+00:00",
-      "source": "Khabarhub",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "031645f522f27eb4",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 86.2,
-      "story_size": 1
     },
     {
       "title": "काँडाघारीमा प्रहरीले गोली चलाएर पक्रियो तीन लुटेरा, एक जना घाइते",
@@ -786,7 +841,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.2,
+      "score": 84.7,
       "story_size": 1
     },
     {
@@ -804,7 +859,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.2,
+      "score": 84.7,
       "story_size": 1,
       "image_local": "images/news_a216bad5696de62d69c8.jpg"
     },
@@ -823,7 +878,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.2,
+      "score": 84.7,
       "story_size": 1,
       "image_local": "images/news_96707f9e10648855a2d9.webp"
     },
@@ -842,7 +897,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.9,
+      "score": 84.4,
       "story_size": 1,
       "image_local": "images/news_c3d2283ad0152daf109d.webp"
     },
@@ -861,7 +916,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.8,
+      "score": 84.3,
       "story_size": 1,
       "image_local": "images/news_eafc09ebbb4fd07272d3.webp"
     },
@@ -880,7 +935,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.7,
+      "score": 84.2,
       "story_size": 1
     },
     {
@@ -898,7 +953,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.4,
+      "score": 83.9,
       "story_size": 1,
       "image_local": "images/news_70a7590d7d452715b213.webp"
     },
@@ -917,7 +972,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.1,
+      "score": 83.6,
       "story_size": 1,
       "image_local": "images/news_4abd3a42ebd0120f2cc0.jpg"
     },
@@ -936,7 +991,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.0,
+      "score": 83.6,
       "story_size": 1,
       "image_local": "images/news_15c2809ca6b0d2f0f5fd.png"
     },
@@ -955,7 +1010,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.8,
+      "score": 83.3,
       "story_size": 1,
       "image_local": "images/news_b9721379dad6d454e8ed.webp"
     },
@@ -974,7 +1029,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.8,
+      "score": 83.3,
       "story_size": 1,
       "image_local": "images/news_108330875bb046a94e70.webp"
     },
@@ -993,7 +1048,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.6,
+      "score": 83.1,
       "story_size": 1
     },
     {
@@ -1011,7 +1066,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.3,
+      "score": 82.8,
       "story_size": 1,
       "image_local": "images/news_6c2e2579e68982d013c1.webp"
     },
@@ -1030,7 +1085,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.3,
+      "score": 82.8,
       "story_size": 1,
       "image_local": "images/news_2ce5179596f2ff4988f4.jpg"
     },
@@ -1049,7 +1104,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.2,
+      "score": 82.7,
       "story_size": 1,
       "image_local": "images/news_68a2222bb998f16573b3.webp"
     },
@@ -1068,7 +1123,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.1,
+      "score": 82.6,
       "story_size": 1
     },
     {
@@ -1086,7 +1141,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.7,
+      "score": 82.2,
       "story_size": 1,
       "image_local": "images/news_d86f44749dcc6c006f56.webp"
     },
@@ -1105,7 +1160,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.5,
+      "score": 82.0,
       "story_size": 1
     },
     {
@@ -1123,46 +1178,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.3,
+      "score": 81.8,
       "story_size": 1
-    },
-    {
-      "title": "ललितपुरको अपार्टमेन्टबाट विदेशी मुद्रासहित तीन बंगलादेशी नागरिक पक्राउ",
-      "link": "https://www.ratopati.com/story/598023/three-bangladeshi-nationals-arrested-with-foreign-currency-from-lalitpur-apartment",
-      "description": "ललितपुर । अवैध रूपमा नेपाली तथा विदेशी मुद्रा सञ्चित गरी लुकाई छिपाई राखेको अवस्थामा प्रहरीले तीन जना विदेशी नागरिकलाई पक्राउ गरेको छ। ललितपुर महानगरपालिका–१४ जुपिटर मार्गस्थित कमलरग अपार्टमेन्टको दोस्रो तल्लामा शंकास्पद गतिविधि गरिरहेको अवस्थामा गत असोज",
-      "published": "2026-10-07T15:36:14+00:00",
-      "source": "Ratopati",
-      "category": "business",
-      "image": "https://npcdn.ratopati.com/media/news/rupaiya_zx79ov2q5a.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "e3cecf096a11209f",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 83.3,
-      "story_size": 1,
-      "image_local": "images/news_fd1e9eb4fa88d8492755.webp"
-    },
-    {
-      "title": "टेलिमेडिसिन सेवामा सुधार ल्याउन विषयमा छलफल",
-      "link": "https://www.ratopati.com/story/598022/discussion-on-improving-telemedicine-services",
-      "description": "काठमाडौँ। स्वास्थ्य तथा खाद्य स्वच्छता मन्त्री निशा मेहताको नेतृत्वमा टेलिमेडिसिन सेवालाई थप प्रभावकारी, व्यवस्थित र दिगो बनाउने विषयमा मन्त्रालयमा बुधबार छलफल भएको छ। स्वास्थ्य तथा खाद्य स्वच्छता मन्त्रालयमा भएको उक्त छलफलमा स्वास्थ्य सचिव डा. विकास देवकोटा,",
-      "published": "2026-10-07T15:35:21+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/telidision_zCJmv6tlmf.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "8d1048be385e9b6a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 83.2,
-      "story_size": 1,
-      "image_local": "images/news_697debd32718208cfbcd.webp"
     },
     {
       "title": "कांग्रेस महाधिवेशनमा ४० जनाले लिए उम्मेदवारी फिर्ता",
@@ -1179,7 +1196,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.0,
+      "score": 81.5,
       "story_size": 1,
       "image_local": "images/news_7d0cb8be59709872a70e.jpg"
     },
@@ -1198,7 +1215,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.4,
+      "score": 80.9,
       "story_size": 1
     },
     {
@@ -1216,7 +1233,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.3,
+      "score": 80.8,
       "story_size": 1
     },
     {
@@ -1234,7 +1251,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.3,
+      "score": 80.8,
       "story_size": 1
     },
     {
@@ -1252,7 +1269,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.2,
+      "score": 80.7,
       "story_size": 1
     },
     {
@@ -1270,7 +1287,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.1,
+      "score": 80.6,
       "story_size": 1
     },
     {
@@ -1288,7 +1305,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.1,
+      "score": 80.6,
       "story_size": 1
     },
     {
@@ -1306,7 +1323,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.1,
+      "score": 80.6,
       "story_size": 1
     },
     {
@@ -1324,7 +1341,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.9,
+      "score": 80.4,
       "story_size": 1
     },
     {
@@ -1342,7 +1359,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.8,
+      "score": 80.3,
       "story_size": 1
     },
     {
@@ -1360,7 +1377,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.8,
+      "score": 80.3,
       "story_size": 1
     },
     {
@@ -1378,7 +1395,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.7,
+      "score": 80.2,
       "story_size": 1
     },
     {
@@ -1396,7 +1413,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.5,
+      "score": 80.1,
       "story_size": 1
     },
     {
@@ -1414,7 +1431,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.5,
+      "score": 80.0,
       "story_size": 1
     },
     {
@@ -1432,7 +1449,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.4,
+      "score": 79.9,
       "story_size": 1,
       "image_local": "images/news_410c842b7f49d4800723.jpg"
     },
@@ -1451,7 +1468,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.1,
+      "score": 79.6,
       "story_size": 1
     },
     {
@@ -1469,7 +1486,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.6,
+      "score": 79.1,
       "story_size": 1
     },
     {
@@ -1487,7 +1504,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.5,
+      "score": 79.0,
       "story_size": 1
     },
     {
@@ -1505,7 +1522,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.6,
+      "score": 78.1,
       "story_size": 1
     },
     {
@@ -1523,7 +1540,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.9,
+      "score": 77.5,
       "story_size": 1
     },
     {
@@ -1541,7 +1558,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.7,
+      "score": 77.2,
       "story_size": 1
     },
     {
@@ -1559,7 +1576,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.6,
+      "score": 77.1,
       "story_size": 1
     },
     {
@@ -1577,7 +1594,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.9,
+      "score": 74.5,
       "story_size": 1
     },
     {
@@ -1595,7 +1612,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.4,
+      "score": 74.0,
       "story_size": 1
     },
     {
@@ -1613,7 +1630,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.3,
+      "score": 73.8,
       "story_size": 1
     },
     {
@@ -1631,7 +1648,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.1,
+      "score": 73.6,
       "story_size": 1
     },
     {
@@ -1649,7 +1666,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.9,
+      "score": 73.4,
       "story_size": 1
     },
     {
@@ -1667,7 +1684,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.3,
+      "score": 72.9,
       "story_size": 1
     },
     {
@@ -1685,7 +1702,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.1,
+      "score": 72.6,
       "story_size": 1
     },
     {
@@ -1703,7 +1720,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.1,
+      "score": 72.6,
       "story_size": 1
     },
     {
@@ -1721,7 +1738,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.8,
+      "score": 72.3,
       "story_size": 1
     },
     {
@@ -1739,7 +1756,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.6,
+      "score": 72.1,
       "story_size": 1
     },
     {
@@ -1757,7 +1774,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.3,
+      "score": 71.8,
       "story_size": 1
     },
     {
@@ -1775,7 +1792,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.8,
+      "score": 71.3,
       "story_size": 1
     },
     {
@@ -1793,7 +1810,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.7,
+      "score": 71.2,
       "story_size": 1
     },
     {
@@ -1811,7 +1828,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.3,
+      "score": 70.8,
       "story_size": 1
     },
     {
@@ -1829,7 +1846,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.1,
+      "score": 70.7,
       "story_size": 1
     },
     {
@@ -1847,7 +1864,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.9,
+      "score": 70.5,
       "story_size": 1
     },
     {
@@ -1865,7 +1882,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.9,
+      "score": 70.4,
       "story_size": 1
     },
     {
@@ -1883,7 +1900,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.8,
+      "score": 70.3,
       "story_size": 1
     },
     {
@@ -1901,7 +1918,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.3,
+      "score": 69.8,
       "story_size": 1
     },
     {
@@ -1919,7 +1936,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.2,
+      "score": 69.7,
       "story_size": 1
     },
     {
@@ -1937,7 +1954,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.1,
+      "score": 69.6,
       "story_size": 1
     },
     {
@@ -1955,7 +1972,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.4,
+      "score": 68.9,
       "story_size": 1
     },
     {
@@ -1973,7 +1990,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.3,
+      "score": 68.9,
       "story_size": 1
     },
     {
@@ -1991,7 +2008,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.2,
+      "score": 68.7,
       "story_size": 1
     },
     {
@@ -2009,7 +2026,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.0,
+      "score": 68.5,
       "story_size": 1
     },
     {
@@ -2027,7 +2044,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.9,
+      "score": 68.4,
       "story_size": 1
     },
     {
@@ -2045,7 +2062,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.6,
+      "score": 68.1,
       "story_size": 1
     },
     {
@@ -2063,7 +2080,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.6,
+      "score": 68.1,
       "story_size": 1
     },
     {
@@ -2081,7 +2098,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.4,
+      "score": 67.9,
       "story_size": 1
     },
     {
@@ -2099,7 +2116,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.3,
+      "score": 67.9,
       "story_size": 1
     },
     {
@@ -2117,7 +2134,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.2,
+      "score": 67.7,
       "story_size": 1
     },
     {
@@ -2135,7 +2152,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.2,
+      "score": 67.7,
       "story_size": 1
     },
     {
@@ -2153,7 +2170,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.9,
+      "score": 67.4,
       "story_size": 1
     },
     {
@@ -2171,7 +2188,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.8,
+      "score": 67.4,
       "story_size": 1
     },
     {
@@ -2189,7 +2206,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.7,
+      "score": 67.2,
       "story_size": 1
     },
     {
@@ -2207,7 +2224,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.9,
+      "score": 66.4,
       "story_size": 1
     },
     {
@@ -2225,7 +2242,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.6,
+      "score": 66.1,
       "story_size": 1
     },
     {
@@ -2243,7 +2260,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.6,
+      "score": 66.1,
       "story_size": 1
     },
     {
@@ -2261,7 +2278,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.5,
+      "score": 66.1,
       "story_size": 1
     },
     {
@@ -2279,7 +2296,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.5,
+      "score": 66.0,
       "story_size": 1
     },
     {
@@ -2297,7 +2314,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.0,
+      "score": 65.6,
       "story_size": 1
     },
     {
@@ -2315,7 +2332,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.9,
+      "score": 65.5,
       "story_size": 1
     },
     {
@@ -2333,7 +2350,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.9,
+      "score": 65.4,
       "story_size": 1
     },
     {
@@ -2351,7 +2368,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.6,
+      "score": 65.1,
       "story_size": 1
     },
     {
@@ -2369,7 +2386,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.6,
+      "score": 65.1,
       "story_size": 1
     },
     {
@@ -2387,7 +2404,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.5,
+      "score": 65.0,
       "story_size": 1
     },
     {
@@ -2405,7 +2422,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 65.8,
+      "score": 64.3,
       "story_size": 1
     },
     {
@@ -2423,7 +2440,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 64.5,
+      "score": 63.1,
       "story_size": 1
     },
     {
@@ -2441,7 +2458,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 62.0,
+      "score": 60.5,
       "story_size": 1
     },
     {
@@ -2459,7 +2476,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 33.4,
+      "score": 31.9,
       "story_size": 1
     },
     {
@@ -2477,7 +2494,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 28.4,
+      "score": 27.0,
       "story_size": 1
     },
     {
@@ -2495,7 +2512,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 25.8,
+      "score": 24.4,
       "story_size": 1
     },
     {
@@ -2744,24 +2761,6 @@
         "Lokaantar"
       ],
       "id": "899f7946f933d73f",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "बाजुरामा आसपास ४.१ म्याग्निच्युडको भूकम्प",
-      "link": "http://lokaantar.com/story/330750/2026/10/7/earthquake-",
-      "description": "बाजुरा जिल्लाको बाह्रबिसे आसपास केन्द्रबिन्दु बनाएर ४.१ म्याग्निच्युडको भूकम्प गएको छ ।राष्ट्रिय भूकम्प मापन तथा अनुसन्धान केन्द्रका अनुसार बुधबार राति ९ बजेर ३७ मिनेटमा स्थानीय म्याग्निच्युड ४.१ को भूकम्प गएको हो ।भूकम्पको धक्का आसपासका क्षेत्रमा महसुस भएको बताइएको छ ।&nbsp;",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "5bb0774e46f61ea8",
       "source_count": 1,
       "verified": false,
       "local": false,
