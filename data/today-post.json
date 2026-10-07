@@ -1,7 +1,63 @@
 {
   "date_np": "2026-10-07",
-  "generated_at": "2026-10-06T21:01:31.571048+00:00",
+  "generated_at": "2026-10-07T00:45:01.446041+00:00",
   "items": [
+    {
+      "title": "नेपाल–रुस परामर्श संयन्त्रको तेस्रो बैठक आज",
+      "link": "https://www.onlinekhabar.com/2026/10/2033879/third-meeting-of-nepal-russia-consultative-mechanism-today",
+      "description": "२१ असोज, काठमाडौं । नेपाल र रुसबीचको द्विपक्षीय परामर्श संयन्त्रको तेस्रो बैठक आज हुँदैछ । नेपाल र रुसले कूटनीतिक सम्बन्ध स्थापना भएको ७० औँ वर्ष मनाइरहेका बेला हुन लागेको बैठकमा नेपाली प्रतिनिधिमण्डलको नेतृत्व परराष्ट्र सचिव अमृतबहादुर राईले र रुसी प्रतिनिधिमण्डलको नेतृत्व नेपाल भ्रमणमा रहेका रुसी उपविदेशमन्त्री आन्द्रेई रुडेन्कोले गर्नेछन् । नेपाल र रुसबीच नियमित परामर्श [&#8230;]",
+      "published": "2026-10-07T00:34:49+00:00",
+      "source": "OnlineKhabar",
+      "category": "world",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar",
+        "Ratopati"
+      ],
+      "id": "695a84fb9e4d9616",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 133.3,
+      "story_size": 3
+    },
+    {
+      "title": "आज केही स्थानमा भारी वर्षा, हावाहुरी र असिना पर्ने",
+      "link": "https://kendrabindu.com/news/561954/",
+      "description": "काठमाडौं । हाल देशमा पश्चिमी न्यून चापीय प्रणालीका साथै मनसुनी वायुको प्रभाव समेत रहेको छ। जस्को कारण लुम्बिनी र सुदुरपश्चिम प्रदेशको पहाडी र तराई भू-भाग तथा बागमती, गण्डकी र कर्णाली प्रदेशको पहाडी भू-भागका एक-दुई स्थानमा भारी वर्षाको सम्भावना रहेको मौसम पूर्वानुमान महाशाखाले जनाएको छ । आज देशको हिमाली र पहाडी भ-भागमा साधारणतया बादल लाग्नेछ। बागमती, [&#8230;]",
+      "published": "2026-10-07T00:19:03+00:00",
+      "source": "Kendrabindu",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "8523715ed6eb460e",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 126.3,
+      "story_size": 1
+    },
+    {
+      "title": "दसैँ, तिहार बिदामा घुम्न जाने हैन त हेटौँडा ?",
+      "link": "https://www.ratopati.com/story/597791/arent-you-going-to-visit-hetauda-during-dashain-and-tihar-holidays",
+      "description": "बागमती । पर्यटकीय सम्भावना भएर पनि अपेक्षित रूपमा उपयोग हुन नसकेको गन्तव्यमध्ये एक हो हेटौँडा । सहर प्राकृतिक रूपमा उत्तिकै सुन्दर छ । यहाँको सुन्दरतालाई पर्यटकीय दृष्टिले खासै उपयोग गर्न सकिएको छैन । चुरे शृङ्खलामा समेटिएको",
+      "published": "2026-10-06T23:20:56+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/hetauda-sahit-smarak_PWhodm39lZ.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "4428901df1b1dfa0",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 125.4,
+      "story_size": 1,
+      "image_local": "images/news_0fab785a83f9e50b57da.jpg"
+    },
     {
       "title": "जुम्लामा मार्सी धान पाक्न थाल्यो",
       "link": "https://www.ratopati.com/story/597780/marsi-rice-begins-to-ripen-in-jumla",
@@ -19,105 +75,86 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 136.3,
+      "score": 121.4,
       "story_size": 3,
       "image_local": "images/news_008ec5c586d9dc8b22e8.jpg"
     },
     {
-      "title": "चेकियामाथि इङ्गल्यान्डको ३-० को सहज जित",
-      "link": "https://www.ratopati.com/story/597784/englands-comfortable-3-0-win-over-czech-republic",
-      "description": "काठमाडौँ । युइएफए नेसन्स लिग फुटबलअन्तर्गत समूह चरणको खेलमा इङ्गल्यान्डले चेकियामाथि ३–० गोलअन्तरको सहज जित निकालेको छ । समूह ‘सी’ अन्तर्गत बुधबार भएको खेलमा इङ्गल्यान्डलाई जित दिलाउन कप्तान ह्यारी केनले दुई गोल गरे भने एक",
-      "published": "2026-10-06T20:49:43+00:00",
+      "title": "रास्वपाद्वारा स्थानीय निर्वाचनको तयारी",
+      "link": "https://gorkhapatraonline.com/news/225684",
+      "description": "गोरखापत्र समाचारदाताकाठमाडौँ, असोज २१ गते । सत्तारूढ राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) ले आगामी स्थानीय तहको निर्वाचनलक्षित पालिकास्तरमा ‘हामी आउँदै छौँ’ अभियान सुरु गरेको छ । म...",
+      "published": "2026-10-07T06:25:00+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "politics",
+      "image": "https://gorkhapatraonline.com/storage/media/386816/conversions/Rastra-Swatantra-party-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "a3f211abe4b445f5",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.7,
+      "story_size": 1,
+      "image_local": "images/news_d74e2da7fde755646a9c.jpg"
+    },
+    {
+      "title": "कांग्रेस सहमहामन्त्रीमा क-कसको उम्मेदवारी ?",
+      "link": "https://www.ratopati.com/story/597797/who-is-running-for-the-position-of-congress-joint-general-secretary",
+      "description": "काठमाडौं । नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत सहमहामन्त्री पदका विभिन्न क्लस्टरमा उम्मेदवारी दर्ता गर्नेहरूको नामावली सार्वजनिक भएको छ। निर्वाचन समितिका अनुसार महिला सहमहामन्त्रीमा नानु मैया बास्तोला र प्रतिभा गौतमले उम्मेदवारी दिएका छन्। खस-आर्यतर्फ जगदीश नरसिंह केसी, केशव मणिका",
+      "published": "2026-10-07T00:39:17+00:00",
       "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/england_niZKmkBvGV.webp",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/cover-congress-bandasatra_uJRo6FobRF.webp",
       "related_sources": [
         "Ratopati"
       ],
-      "id": "c81b85d127db0ee6",
+      "id": "d91b202af5ef5b93",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.6,
+      "story_size": 1,
+      "image_local": "images/news_02f6f031c907313126ea.webp"
+    },
+    {
+      "title": "दशैँमा देशैभर लिङ्गे पिङ हाल्दै सरकार",
+      "link": "https://www.thahakhabar.com/detail/309936",
+      "description": "",
+      "published": "2026-10-07T06:20:47+05:45",
+      "source": "Thaha Khabar",
+      "category": "politics",
+      "image": "https://www.thahakhabar.com/uploads/posts/Ping-1791333179.jpg",
+      "related_sources": [
+        "Thaha Khabar"
+      ],
+      "id": "29927c1b0613fcd8",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.4,
+      "story_size": 1,
+      "image_local": "images/news_bdc9dbd218ba3c2b7b10.jpg"
+    },
+    {
+      "title": "कांग्रेस महाधिवेशन : केन्द्रीय कार्यसमितिका उम्मेदवारहरूको नामावली सार्वजनिक (सूचीसहित)",
+      "link": "https://www.ratopati.com/story/597796/congress-general-convention-list-of-candidates-for-the-central-working-committee-made-public",
+      "description": "काठमाडौँ । नेपाली कांग्रेस केन्द्रीय निर्वाचन समितिले १५ औँ महाधिवेशन अन्तर्गत हुने केन्द्रीय कार्यसमितिको निर्वाचनका लागि उम्मेदवारहरूको प्रथम नामावली प्रकाशित गरेको छ। जारी महाधिवेशनका लागि तोकिएको कार्यतालिका अनुसार विभिन्न पदहरूमा दर्ता भएका उम्मेदवारीहरूको सूची सार्वजनिक गरिएको",
+      "published": "2026-10-07T00:33:05+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/congress-election_sg40UavJTD.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "7777f5531243cf06",
       "source_count": 1,
       "verified": false,
       "local": false,
       "score": 112.2,
       "story_size": 1,
-      "image_local": "images/news_b42d7e10e6ad07e9d318.webp"
-    },
-    {
-      "title": "क्रोएसियामाथि स्पेनको २-१ को पुनरागमन जित",
-      "link": "https://www.ratopati.com/story/597783/spains-2-1-comeback-win-over-croatia",
-      "description": "काठमाडौँ । युइएफए नेसन्स लिगअन्तर्गत समूह चरणको खेलमा स्पेनले क्रोएसियामाथि २–१ गोलअन्तरको पुनरागमन जित निकालेको छ। समूह ‘सी’ अन्तर्गतको प्रतिस्पर्धामा स्पेनलाई जित दिलाउन मिकेल मेरिनोले दुई गोल गरे । खेलको सुरुवाती अग्रता भने क्रोएसियाले लिएको थियो",
-      "published": "2026-10-06T20:44:09+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/spain_cIV3fjAQxG.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "5428048d0e2c1139",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 111.9,
-      "story_size": 1,
-      "image_local": "images/news_39af88e3c4b52724f5de.webp"
-    },
-    {
-      "title": "एनपिएलको तयारी अन्तिम चरणमा",
-      "link": "https://www.ratopati.com/story/597782/preparations-for-npl-in-final-stages",
-      "description": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपिएल) को तेस्रो संस्करण नजिकिँदै गर्दा कीर्तिपुरस्थित त्रिभुवन विश्वविद्यालय अन्तर्राष्ट्रिय क्रिकेट मैदानको स्तरोन्नति तथा व्यवस्थापनको काम अन्तिम चरणमा पुगेको छ । नेपाल क्रिकेट सङ्घ (क्यान) का सचिव पारस खड्काका अनुसार प्रतियोगिता",
-      "published": "2026-10-06T20:28:14+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/tu-cricket-ground11_Fz41XTihTh.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "007bae260eed67d3",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 110.8,
-      "story_size": 1,
-      "image_local": "images/news_33f148537042192b5c84.jpg"
-    },
-    {
-      "title": "म्याग्दीमा बाढी पहिरोबाट अर्बौँको क्षति",
-      "link": "https://www.ratopati.com/story/597781/floods-and-landslides-cause-billions-in-damage-in-myagdi",
-      "description": "म्याग्दी । अविरल वर्षापछि आएको बाढीपहिरोले म्याग्दीमा पुर्‍याएको क्षतिको प्रारम्भिक विवरण मङ्गलबार सार्वजनिक गरिएको छ । जिल्ला प्रशासन कार्यालयले सात जनाको मृत्यु र दुई वेपत्ता भएको विपद्का कारण सडक, खानेपानी, नदी नियन्त्रण, विद्युत्, सञ्चार, सिँचाइ पूर्वाधार",
-      "published": "2026-10-06T19:31:44+00:00",
-      "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/myagdi-pahiro_xTbtMf41Bi.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "4da1caade6082e91",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 107.0,
-      "story_size": 1,
-      "image_local": "images/news_963f0e550ab2c6cfadb9.jpg"
-    },
-    {
-      "title": "१२ बजे १२ समाचार : न्यायाधीश नियुक्तिमा दोहोरियो पुरानै विकृति, प्रत्येक विपद्सँगै थला पर्छ कृषि क्षेत्र",
-      "link": "https://www.ratopati.com/story/597779/12-oclock-12-news-old-irregularities-repeated-in-the-appointment-of-judges-the-agricultural-sector-suffers-with-every-disaster",
-      "description": "काठमाडौँ । आज दिनभरका मुख्य १२ घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति ‘१२ बजे १२ समाचार’मा प्रस्तुत गरेका छौँ– १. न्यायाधीश नियुक्तिमा दोहोरियो पुरानै विकृति सर्वोच्च अदालतमा रिक्त न्यायाधीश पदपूर्तिका लागि न्यायपरिषद्ले गरेको पछिल्लो सिफारिसमा संविधानको मर्म, समावेशी",
-      "published": "2026-10-06T18:15:56+00:00",
-      "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/cover12-news_4iBljQ7A7p.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "690b8a2fdc06b6f8",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 102.0,
-      "story_size": 1,
-      "image_local": "images/news_3fa47e8e791e42ef90e2.webp"
+      "image_local": "images/news_685f8411b031a4e022f8.webp"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. जुम्लामा मार्सी धान पाक्न थाल्यो\nस्रोत: Ratopati, Gorkhapatra Online, Khabarhub\nhttps://www.ratopati.com/story/597780/marsi-rice-begins-to-ripen-in-jumla\n\n2. चेकियामाथि इङ्गल्यान्डको ३-० को सहज जित\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/597784/englands-comfortable-3-0-win-over-czech-republic\n\n3. क्रोएसियामाथि स्पेनको २-१ को पुनरागमन जित\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/597783/spains-2-1-comeback-win-over-croatia\n\n4. एनपिएलको तयारी अन्तिम चरणमा\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/597782/preparations-for-npl-in-final-stages\n\n5. म्याग्दीमा बाढी पहिरोबाट अर्बौँको क्षति\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/597781/floods-and-landslides-cause-billions-in-damage-in-myagdi\n\n6. १२ बजे १२ समाचार : न्यायाधीश नियुक्तिमा दोहोरियो पुरानै विकृति, प्रत्येक विपद्सँगै थला पर्छ कृषि क्षेत्र\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/597779/12-oclock-12-news-old-irregularities-repeated-in-the-appointment-of-judges-the-agricultural-sector-suffers-with-every-disaster\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. नेपाल–रुस परामर्श संयन्त्रको तेस्रो बैठक आज\nस्रोत: OnlineKhabar, Ratopati\nhttps://www.onlinekhabar.com/2026/10/2033879/third-meeting-of-nepal-russia-consultative-mechanism-today\n\n2. आज केही स्थानमा भारी वर्षा, हावाहुरी र असिना पर्ने\nस्रोत: Kendrabindu\nhttps://kendrabindu.com/news/561954/\n\n3. दसैँ, तिहार बिदामा घुम्न जाने हैन त हेटौँडा ?\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/597791/arent-you-going-to-visit-hetauda-during-dashain-and-tihar-holidays\n\n4. जुम्लामा मार्सी धान पाक्न थाल्यो\nस्रोत: Ratopati, Gorkhapatra Online, Khabarhub\nhttps://www.ratopati.com/story/597780/marsi-rice-begins-to-ripen-in-jumla\n\n5. रास्वपाद्वारा स्थानीय निर्वाचनको तयारी\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/225684\n\n6. कांग्रेस सहमहामन्त्रीमा क-कसको उम्मेदवारी ?\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/597797/who-is-running-for-the-position-of-congress-joint-general-secretary\n\n7. दशैँमा देशैभर लिङ्गे पिङ हाल्दै सरकार\nस्रोत: Thaha Khabar\nhttps://www.thahakhabar.com/detail/309936\n\n8. कांग्रेस महाधिवेशन : केन्द्रीय कार्यसमितिका उम्मेदवारहरूको नामावली सार्वजनिक (सूचीसहित)\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/597796/congress-general-convention-list-of-candidates-for-the-central-working-committee-made-public\n\n— I Am From Hetauda"
 }
