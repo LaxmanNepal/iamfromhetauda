@@ -1,35 +1,31 @@
-/* I Am From Hetauda — News Feed 14.0 vertical 24H News Reels autoplay */
+/* I Am From Hetauda — News Feed 16.0 vertical 24H News Reels */
 (function(){
 'use strict';
 if(window.__IFH_VERTICAL_REELS__)return;window.__IFH_VERTICAL_REELS__=true;
-var $=function(s){return document.querySelector(s)},items=[],active=0,timer=null,paused=false,duration=6500,observer=null,lastFeed=null,refreshTimer=null;
+var $=function(s){return document.querySelector(s)},items=[],active=0,timer=null,paused=false,duration=6500,observer=null,lastFeed=null,refreshTimer=null,mode='for-you',touchStartY=0,touchStartX=0,touchMoved=false,lastTap=0;
 
 function esc(s){return String(s||'').replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
 function age(n){var d=new Date(n.published||'');if(isNaN(d))return 999999;return Math.max(0,(Date.now()-d.getTime())/60000)}
 function ago(n){var m=age(n);return m<60?Math.floor(m)+' मिनेट अघि':Math.floor(m/60)+' घण्टा अघि'}
-function saved(id){try{return JSON.parse(localStorage.getItem('saved_news')||'[]').indexOf(id)>=0}catch(e){return false}}\nfunction seen(id){try{return JSON.parse(localStorage.getItem('ifh_reel_seen')||'[]').indexOf(id)>=0}catch(e){return false}}\nfunction markSeen(id){if(!id)return;try{var a=JSON.parse(localStorage.getItem('ifh_reel_seen')||'[]').filter(function(x){return x!==id});a.unshift(id);localStorage.setItem('ifh_reel_seen',JSON.stringify(a.slice(0,100)))}catch(e){}}
+function saved(id){try{return JSON.parse(localStorage.getItem('saved_news')||'[]').indexOf(id)>=0}catch(e){return false}}\nfunction seen(id){try{return JSON.parse(localStorage.getItem('ifh_reel_seen')||'[]').indexOf(id)>=0}catch(e){return false}}\nfunction markSeen(id){if(!id)return;try{var a=JSON.parse(localStorage.getItem('ifh_reel_seen')||'[]').filter(function(x){return x!==id});a.unshift(id);localStorage.setItem('ifh_reel_seen',JSON.stringify(a.slice(0,100)))}catch(e){}}\nfunction local(n){return !!(n&&((n.local===true)||/हेटौंडा|मकवानपुर|बागमती/.test(String(n.title||'')+' '+String(n.description||'')+' '+String(n.source||''))))}\nfunction getMode(){try{var m=localStorage.getItem('ifh_reels_mode');if(m==='latest'||m==='hetauda')return m}catch(e){}return 'for-you'}\nfunction setMode(m){mode=m;try{localStorage.setItem('ifh_reels_mode',m)}catch(e){}active=0;render(items);}\nfunction like(id){if(!id)return;try{var a=JSON.parse(localStorage.getItem('ifh_reel_likes')||'[]'),i=a.indexOf(id);if(i>=0)a.splice(i,1);else a.unshift(id);localStorage.setItem('ifh_reel_likes',JSON.stringify(a.slice(0,300)))}catch(e){}}\nfunction liked(id){try{return JSON.parse(localStorage.getItem('ifh_reel_likes')||'[]').indexOf(id)>=0}catch(e){return false}}
 function mount(){
  if($('#ifhReels13'))return true;
  var host=$('#ifhReels')||$('#ifhDashboard')||$('.status');if(!host)return false;
  var el=document.createElement('section');el.id='ifhReels13';el.className='ifhReels13';
- el.innerHTML='<div class="ifhR13Head"><div><b>NEWS REELS • 24H</b><h2>🎬 समाचार Reels</h2><span>तपाईंका लागि • पछिल्लो २४ घण्टा</span></div><div class="ifhR13Tools"><button id="ifhR13Play" aria-label="Auto play रोक्नुहोस्">❚❚</button><button id="ifhR13Close" aria-label="Reels बन्द">×</button></div></div><div class="ifhR13Feed" id="ifhR13Feed"></div>';
+ mode=getMode(); el.innerHTML='<div class="ifhR13Head"><div><b>NEWS REELS • 24H</b><h2>🎬 समाचार Reels</h2><div class="ifhR13Modes"><button data-mode="for-you">तपाईंका लागि</button><button data-mode="latest">ताजा</button><button data-mode="hetauda">📍 हेटौंडा</button></div></div><div class="ifhR13Tools"><button id="ifhR13Play" aria-label="Auto play रोक्नुहोस्">❚❚</button><button id="ifhR13Close" aria-label="Reels बन्द">×</button></div></div><div class="ifhR13Feed" id="ifhR13Feed"></div>';
  host.parentNode.insertBefore(el,host.nextSibling);
  $('#ifhR13Close').onclick=function(){el.classList.toggle('collapsed');localStorage.setItem('ifh_reels_collapsed',el.classList.contains('collapsed')?'1':'0');stopTimer()};
- $('#ifhR13Play').onclick=function(){paused=!paused;updatePlay();if(paused)stopTimer();else startTimer()};
+ $('#ifhR13Play').onclick=function(){paused=!paused;updatePlay();if(paused)stopTimer();else startTimer()};\n el.querySelectorAll('[data-mode]').forEach(function(b){b.onclick=function(e){e.stopPropagation();setMode(b.dataset.mode)}});
  if(localStorage.getItem('ifh_reels_collapsed')==='1')el.classList.add('collapsed');
  injectCss();
  return true;
 }
 function injectCss(){
- if($('#ifh-r14-style'))return;
- var s=document.createElement('style');s.id='ifh-r14-style';s.textContent='.ifhR13Tools{display:flex;gap:6px}.ifhR13Tools button{border:0;border-radius:999px;width:38px;height:38px;background:rgba(0,0,0,.42);color:#fff;font-size:15px;cursor:pointer}.ifhR13Card{position:relative;overflow:hidden}.ifhR13Progress i{display:block;width:0;height:100%;transition:none}.ifhR13Card.ifhR13Active .ifhR13Progress i{width:0}.ifhR13Card.ifhR13Seen .ifhR13Progress i{width:100%}.ifhR13Text{z-index:3}.ifhR13Head{position:relative;z-index:5}';
+ if($('#ifh-r16-style'))return;
+ var s=document.createElement('style');s.id='ifh-r16-style';s.textContent='.ifhR13Modes{display:flex;gap:5px;margin-top:7px;overflow:auto;scrollbar-width:none}.ifhR13Modes button{border:1px solid rgba(255,255,255,.35);background:rgba(0,0,0,.3);color:#fff;border-radius:999px;padding:6px 10px;font-size:12px;white-space:nowrap;cursor:pointer}.ifhR13Modes button.active{background:#fff;color:#111}.ifhR13Tools{display:flex;gap:6px}.ifhR13Tools button{border:0;border-radius:999px;width:38px;height:38px;background:rgba(0,0,0,.42);color:#fff;font-size:15px;cursor:pointer}.ifhR13Card{position:relative;overflow:hidden}.ifhR13Progress i{display:block;width:0;height:100%;transition:none}.ifhR13Card.ifhR13Active .ifhR13Progress i{width:0}.ifhR13Card.ifhR13Seen .ifhR13Progress i{width:100%}.ifhR13Text{z-index:3}.ifhR13Head{position:relative;z-index:5}';
  document.head.appendChild(s);
 }
-function ranked(a){
- var fresh=(Array.isArray(a)?a:[]).filter(function(n){var m=age(n);return m<=1440&&m>=-10});
- fresh.sort(function(a,b){var sa=Number(a.source_count||0)*9+Number(a.verified||0)*15+(age(a)-age(b))+(seen(a.id)?-10:10);var sb=Number(b.source_count||0)*9+Number(b.verified||0)*15+(age(a)-age(b))+(seen(b.id)?-10:10);return sb-sa;});
- return fresh.slice(0,40);
-}
+function ranked(a){\n var fresh=(Array.isArray(a)?a:[]).filter(function(n){var m=age(n);return m<=1440&&m>=-10});\n fresh.sort(function(a,b){var ra=Math.max(0,1440-age(a))/1440,rb=Math.max(0,1440-age(b))/1440;var sa=ra*20+Number(a.source_count||0)*9+Number(a.verified||0)*15+(seen(a.id)?-10:10);var sb=rb*20+Number(b.source_count||0)*9+Number(b.verified||0)*15+(seen(b.id)?-10:10);return sb-sa;});\n if(mode==='latest')fresh.sort(function(a,b){return age(a)-age(b)});\n if(mode==='hetauda')fresh.sort(function(a,b){return (local(b)?30:0)+(seen(b.id)?-10:0)-(local(a)?30:0)-(seen(a.id)?-10:0)||age(a)-age(b)});\n return fresh.slice(0,40);\n}
 function render(a){
  items=ranked(a&&a.length?a:items);if(!mount())return;
  var feed=$('#ifhR13Feed');if(!feed)return;
@@ -39,25 +35,24 @@ function render(a){
   var im=n.image_local||n.image||'';
   return '<article class="ifhR13Card '+(i===active?'ifhR13Active':'')+'" data-index="'+i+'" data-id="'+esc(n.id)+'"><div class="ifhR13Media">'+(im?'<img src="'+esc(im)+'" loading="'+(i<2?'eager':'lazy')+'" alt="">':'<div class="ifhR13NoImg">📰</div>')+'</div><div class="ifhR13Shade"></div><div class="ifhR13Progress"><i></i></div><div class="ifhR13Text"><div class="ifhR13Meta"><b>'+(n.source||'समाचार')+'</b><span>'+(n.verified?'✓ VERIFIED • ':'')+ago(n)+'</span></div><h3>'+esc(n.title)+'</h3><p>'+esc(n.description||'')+'</p><div class="ifhR13Actions"><button data-open="'+esc(n.id)+'">पढ्नुहोस्</button><button data-save="'+esc(n.id)+'">'+(saved(n.id)?'♥ सेभ':'★ सेभ')+'</button><button data-share="'+esc(n.id)+'">↗ शेयर</button></div></div></article>'
  }).join('');
- bind(feed);observe(feed);setupSwipe(feed);syncActive(false);if(!paused)startTimer();
+ bind(feed);observe(feed);setupSwipe(feed);syncActive(false);updateModes();if(!paused)startTimer();
 }
-function bind(feed){
+function updateModes(){var el=$('#ifhReels13');if(!el)return;el.querySelectorAll('[data-mode]').forEach(function(b){b.classList.toggle('active',b.dataset.mode===mode)})}\nfunction heart(card){var h=document.createElement('div');h.className='ifhR13Heart';h.textContent='♥';card.appendChild(h);setTimeout(function(){h.classList.add('show')},10);setTimeout(function(){h.remove()},700)}\nfunction bind(feed){
  feed.querySelectorAll('[data-open]').forEach(function(b){b.onclick=function(e){e.stopPropagation();stopTimer();if(window.openById)window.openById(b.dataset.open)}});
  feed.querySelectorAll('[data-save]').forEach(function(b){b.onclick=function(e){e.stopPropagation();var id=b.dataset.save,a=[];try{a=JSON.parse(localStorage.getItem('saved_news')||'[]')}catch(_){}var x=a.indexOf(id);if(x>=0)a.splice(x,1);else a.unshift(id);localStorage.setItem('saved_news',JSON.stringify(a.slice(0,300)));b.textContent=x>=0?'★ सेभ':'♥ सेभ'}});
  feed.querySelectorAll('[data-share]').forEach(function(b){b.onclick=function(e){e.stopPropagation();var id=b.dataset.share,u=location.origin+location.pathname+'?news='+encodeURIComponent(id);if(navigator.share)navigator.share({title:'I Am From Hetauda',url:u}).catch(function(){});else if(navigator.clipboard)navigator.clipboard.writeText(u)}});
- feed.querySelectorAll('.ifhR13Card').forEach(function(card){card.onclick=function(){stopTimer();if(window.openById)window.openById(card.dataset.id)}});
+ feed.querySelectorAll('.ifhR13Card').forEach(function(card){card.onclick=function(){if(touchMoved){touchMoved=false;return}var now=Date.now();if(now-lastTap<320){like(card.dataset.id);heart(card);var b=card.querySelector('[data-save]');if(b)b.textContent=liked(card.dataset.id)?'♥ सेभ':'★ सेभ';lastTap=0;return}lastTap=now;stopTimer();if(window.openById)window.openById(card.dataset.id)}});
 }
 function observe(feed){
  lastFeed=feed;
  if(observer)observer.disconnect();
  if(!('IntersectionObserver' in window)){return}
- observer=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting&&e.intersectionRatio>.65){var i=Number(e.target.dataset.index);if(!isNaN(i)){active=i;syncActive(false);if(!paused)startTimer()}}})},{root:feed,threshold:[.65]});
+ observer=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting&&e.intersectionRatio>.65){var i=Number(e.target.dataset.index);if(!isNaN(i)){if(active!==i){active=i;markSeen(items[i]&&items[i].id)}syncActive(false);if(!paused)startTimer()}}})},{root:feed,threshold:[.65]});
  feed.querySelectorAll('.ifhR13Card').forEach(function(c){observer.observe(c)});
 }
 function setupSwipe(feed){
  var sy=0,st=0;
- feed.ontouchstart=function(e){sy=e.touches[0].clientY;st=Date.now();stopTimer()};
- feed.ontouchend=function(e){var dy=e.changedTouches[0].clientY-sy;if(Math.abs(dy)>55&&Date.now()-st<700){go(dy<0?1:-1)}else if(!paused)startTimer()};
+ feed.ontouchstart=function(e){touchStartY=e.touches[0].clientY;touchStartX=e.touches[0].clientX;touchMoved=false;st=Date.now();stopTimer()};\n feed.ontouchmove=function(e){var dy=e.touches[0].clientY-touchStartY,dx=e.touches[0].clientX-touchStartX;if(Math.abs(dy)>18||Math.abs(dx)>18)touchMoved=true};\n feed.ontouchend=function(e){var dy=e.changedTouches[0].clientY-touchStartY;if(Math.abs(dy)>55&&Date.now()-st<700){go(dy<0?1:-1)}else if(!paused)startTimer()};
 }
 function go(delta){
  if(!items.length)return;
