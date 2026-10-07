@@ -2,12 +2,12 @@
 (function(){
 'use strict';
 if(window.__IFH_VERTICAL_REELS__)return;window.__IFH_VERTICAL_REELS__=true;
-var $=function(s){return document.querySelector(s)},items=[],active=0,timer=null,paused=false,duration=6500,observer=null,lastFeed=null;
+var $=function(s){return document.querySelector(s)},items=[],active=0,timer=null,paused=false,duration=6500,observer=null,lastFeed=null,refreshTimer=null;
 
 function esc(s){return String(s||'').replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
 function age(n){var d=new Date(n.published||'');if(isNaN(d))return 999999;return Math.max(0,(Date.now()-d.getTime())/60000)}
 function ago(n){var m=age(n);return m<60?Math.floor(m)+' मिनेट अघि':Math.floor(m/60)+' घण्टा अघि'}
-function saved(id){try{return JSON.parse(localStorage.getItem('saved_news')||'[]').indexOf(id)>=0}catch(e){return false}}
+function saved(id){try{return JSON.parse(localStorage.getItem('saved_news')||'[]').indexOf(id)>=0}catch(e){return false}}\nfunction seen(id){try{return JSON.parse(localStorage.getItem('ifh_reel_seen')||'[]').indexOf(id)>=0}catch(e){return false}}\nfunction markSeen(id){if(!id)return;try{var a=JSON.parse(localStorage.getItem('ifh_reel_seen')||'[]').filter(function(x){return x!==id});a.unshift(id);localStorage.setItem('ifh_reel_seen',JSON.stringify(a.slice(0,100)))}catch(e){}}
 function mount(){
  if($('#ifhReels13'))return true;
  var host=$('#ifhReels')||$('#ifhDashboard')||$('.status');if(!host)return false;
@@ -27,7 +27,7 @@ function injectCss(){
 }
 function ranked(a){
  var fresh=(Array.isArray(a)?a:[]).filter(function(n){var m=age(n);return m<=1440&&m>=-10});
- fresh.sort(function(a,b){return Number(b.source_count||0)*9+Number(b.verified||0)*15+(age(a)-age(b))});
+ fresh.sort(function(a,b){var sa=Number(a.source_count||0)*9+Number(a.verified||0)*15+(age(a)-age(b))+(seen(a.id)?-10:10);var sb=Number(b.source_count||0)*9+Number(b.verified||0)*15+(age(a)-age(b))+(seen(b.id)?-10:10);return sb-sa;});
  return fresh.slice(0,40);
 }
 function render(a){
@@ -65,7 +65,7 @@ function go(delta){
  if(active>=items.length)active=0;
  if(active<0)active=items.length-1;
  var feed=$('#ifhR13Feed'),cards=feed&&feed.querySelectorAll('.ifhR13Card');
- if(cards&&cards[active])cards[active].scrollIntoView({behavior:'smooth',block:'nearest'});
+ if(cards&&cards[active])cards[active].scrollIntoView({behavior:'smooth',block:'nearest'});markSeen(items[active]&&items[active].id);
  syncActive(true);if(!paused)startTimer();
 }
 function syncActive(reset){
@@ -88,11 +88,11 @@ function startTimer(){
 }
 function stopTimer(){if(timer){clearTimeout(timer);timer=null}}
 function updatePlay(){var b=$('#ifhR13Play');if(b){b.textContent=paused?'▶':'❚❚';b.setAttribute('aria-label',paused?'Auto play सुरु गर्नुहोस्':'Auto play रोक्नुहोस्')}}
-function start(){
+function refreshPreserving(){if(window.IFHSmartRanked)render(window.IFHSmartRanked)}\nfunction start(){
  if(!mount()){setTimeout(start,300);return}
  setupSwipe($('#ifhR13Feed'));
  document.addEventListener('ifh:smart-ranked',function(e){render(e.detail&&e.detail.items||[])});
- setTimeout(function(){if(window.IFHSmartRanked)render(window.IFHSmartRanked)},800);
+ setTimeout(function(){if(window.IFHSmartRanked)render(window.IFHSmartRanked)},800);\n refreshTimer=setInterval(refreshPreserving,300000);
  document.addEventListener('visibilitychange',function(){if(document.hidden)stopTimer();else if(!paused)startTimer()});
  window.addEventListener('keydown',function(e){if(e.key==='ArrowDown'&&document.activeElement===document.body)go(1);if(e.key==='ArrowUp'&&document.activeElement===document.body)go(-1);if(e.key===' '&&document.activeElement===document.body){e.preventDefault();paused=!paused;updatePlay();paused?stopTimer():startTimer()}});
 }
