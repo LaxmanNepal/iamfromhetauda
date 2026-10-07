@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T19:54:25.593149+00:00",
+  "updated_at": "2026-10-07T20:52:49.631416+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -34,7 +34,7 @@
       "source_count": 5,
       "verified": true,
       "local": false,
-      "score": 156.5,
+      "score": 152.6,
       "story_size": 5
     },
     {
@@ -55,7 +55,7 @@
       "source_count": 4,
       "verified": true,
       "local": false,
-      "score": 144.9,
+      "score": 141.0,
       "story_size": 4,
       "image_local": "images/news_ab797d6b1c559c2b8fff.jpg"
     },
@@ -76,7 +76,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 134.6,
+      "score": 130.7,
       "story_size": 3
     },
     {
@@ -94,7 +94,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 124.0,
+      "score": 120.1,
       "story_size": 1,
       "image_local": "images/news_b5d38251ebdc5ce3d697.jpg"
     },
@@ -114,7 +114,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 123.8,
+      "score": 119.8,
       "story_size": 2,
       "image_local": "images/news_58cc5b797487e8213b6d.jpg"
     },
@@ -134,7 +134,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 123.2,
+      "score": 119.3,
       "story_size": 2,
       "image_local": "images/news_84ba9500b824b217d196.jpg"
     },
@@ -154,27 +154,9 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 122.4,
+      "score": 118.5,
       "story_size": 2,
       "image_local": "images/news_003771ecfbbee6528fc3.webp"
-    },
-    {
-      "title": "जहाँ बिरामी पर्दा पैसा खोज्नुपर्दैन",
-      "link": "https://www.onlinekhabar.com/2026/10/2033586/where-you-dont-have-to-look-for-money-when-you-get-sick",
-      "description": "हेटौंडा उपमहानगरपालिका–९ मा बिरामीले उपचारका लागि पैसा खोज्नुपर्दैन । दीर्घरोग लागेका नागरिकले नियमित औषधि किन्न खर्च जुटाउनुपर्दैन । स्वास्थ्य परीक्षण गराउँदा पनि शुल्क तिर्नुपर्दैन ।",
-      "published": "2026-10-07T16:01:02+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "504d9322fcf32b3a",
-      "source_count": 1,
-      "verified": false,
-      "local": true,
-      "score": 112.5,
-      "story_size": 1
     },
     {
       "title": "तोकिएको भाडाभन्दा बढी लिए कारबाही हुन्छ: महासङ्घ",
@@ -191,9 +173,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.4,
+      "score": 108.5,
       "story_size": 1,
       "image_local": "images/news_be9446abaedeb8dbffcc.jpg"
+    },
+    {
+      "title": "जहाँ बिरामी पर्दा पैसा खोज्नुपर्दैन",
+      "link": "https://www.onlinekhabar.com/2026/10/2033586/where-you-dont-have-to-look-for-money-when-you-get-sick",
+      "description": "हेटौंडा उपमहानगरपालिका–९ मा बिरामीले उपचारका लागि पैसा खोज्नुपर्दैन । दीर्घरोग लागेका नागरिकले नियमित औषधि किन्न खर्च जुटाउनुपर्दैन । स्वास्थ्य परीक्षण गराउँदा पनि शुल्क तिर्नुपर्दैन ।",
+      "published": "2026-10-07T16:01:02+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "504d9322fcf32b3a",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 108.5,
+      "story_size": 1
     },
     {
       "title": "कांग्रेस महाधिवेशनको पाँचौँ दिन : आज बिहान १० बजेदेखि मतदान सुरु हुँदै",
@@ -210,7 +210,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.1,
+      "score": 107.2,
       "story_size": 1,
       "image_local": "images/news_20fcc11c88800e491153.webp"
     },
@@ -229,7 +229,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.8,
+      "score": 105.9,
       "story_size": 1,
       "image_local": "images/news_17606a6f6387be215ab5.jpg"
     },
@@ -248,7 +248,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.4,
+      "score": 102.5,
       "story_size": 1,
       "image_local": "images/news_e6051b04792cc7059ae6.jpg"
     },
@@ -268,7 +268,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 106.3,
+      "score": 102.4,
       "story_size": 2
     },
     {
@@ -286,7 +286,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.4,
+      "score": 101.5,
       "story_size": 1,
       "image_local": "images/news_03b365ad2baca438bd7d.webp"
     },
@@ -305,7 +305,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.4,
+      "score": 101.5,
       "story_size": 1,
       "image_local": "images/news_50694ba3f199eaaca9b7.jpg"
     },
@@ -324,7 +324,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.9,
+      "score": 101.0,
       "story_size": 1,
       "image_local": "images/news_9f5101036c143d7a2fd8.jpg"
     },
@@ -343,7 +343,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.2,
+      "score": 100.3,
       "story_size": 1,
       "image_local": "images/news_58ff17d72843b359ac3c.webp"
     },
@@ -362,7 +362,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.9,
+      "score": 100.0,
       "story_size": 1,
       "image_local": "images/news_bdbe81683e83b86821b2.webp"
     },
@@ -381,7 +381,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.7,
+      "score": 99.8,
       "story_size": 1,
       "image_local": "images/news_142fa8d2b0c7b5c03cbe.jpg"
     },
@@ -400,7 +400,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.2,
+      "score": 99.3,
       "story_size": 1
     },
     {
@@ -418,7 +418,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.6,
+      "score": 98.6,
       "story_size": 1,
       "image_local": "images/news_bc51f68e149d26d636c6.jpg"
     },
@@ -437,7 +437,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.0,
+      "score": 98.1,
       "story_size": 1,
       "image_local": "images/news_c61627e727c116a4e480.webp"
     },
@@ -456,7 +456,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.5,
+      "score": 97.5,
       "story_size": 1
     },
     {
@@ -474,7 +474,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.4,
+      "score": 97.5,
       "story_size": 1,
       "image_local": "images/news_685f8411b031a4e022f8.webp"
     },
@@ -493,7 +493,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.3,
+      "score": 97.4,
       "story_size": 1,
       "image_local": "images/news_64176b510fbaaa317fad.jpg"
     },
@@ -512,7 +512,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.2,
+      "score": 97.3,
       "story_size": 1
     },
     {
@@ -530,7 +530,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.1,
+      "score": 97.2,
       "story_size": 1
     },
     {
@@ -548,7 +548,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.0,
+      "score": 97.1,
       "story_size": 1
     },
     {
@@ -566,7 +566,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.9,
+      "score": 97.0,
       "story_size": 1
     },
     {
@@ -584,7 +584,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.3,
+      "score": 96.4,
       "story_size": 1,
       "image_local": "images/news_cb4f64f25965bcaf09e4.webp"
     },
@@ -603,7 +603,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.2,
+      "score": 96.3,
       "story_size": 1,
       "image_local": "images/news_b37f7628a8c0ab7193f7.webp"
     },
@@ -622,7 +622,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.0,
+      "score": 96.1,
       "story_size": 1
     },
     {
@@ -640,7 +640,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.9,
+      "score": 96.0,
       "story_size": 1,
       "image_local": "images/news_4fe0c4d91443cb5aff55.webp"
     },
@@ -659,7 +659,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.6,
+      "score": 95.7,
       "story_size": 1
     },
     {
@@ -677,7 +677,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.5,
+      "score": 95.6,
       "story_size": 1
     },
     {
@@ -695,7 +695,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.2,
+      "score": 95.3,
       "story_size": 1
     },
     {
@@ -713,7 +713,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.2,
+      "score": 95.3,
       "story_size": 1
     },
     {
@@ -731,7 +731,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.1,
+      "score": 95.1,
       "story_size": 1
     },
     {
@@ -749,7 +749,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.8,
+      "score": 94.9,
       "story_size": 1,
       "image_local": "images/news_d57005c5efe71e98a2d6.webp"
     },
@@ -768,7 +768,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.7,
+      "score": 94.8,
       "story_size": 1
     },
     {
@@ -786,7 +786,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.7,
+      "score": 94.8,
       "story_size": 1
     },
     {
@@ -804,7 +804,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.7,
+      "score": 94.8,
       "story_size": 1,
       "image_local": "images/news_a216bad5696de62d69c8.jpg"
     },
@@ -823,7 +823,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.7,
+      "score": 94.8,
       "story_size": 1,
       "image_local": "images/news_96707f9e10648855a2d9.webp"
     },
@@ -842,7 +842,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.4,
+      "score": 94.5,
       "story_size": 1,
       "image_local": "images/news_c3d2283ad0152daf109d.webp"
     },
@@ -861,7 +861,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.3,
+      "score": 94.4,
       "story_size": 1,
       "image_local": "images/news_eafc09ebbb4fd07272d3.webp"
     },
@@ -880,7 +880,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.2,
+      "score": 94.3,
       "story_size": 1
     },
     {
@@ -898,7 +898,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.9,
+      "score": 94.0,
       "story_size": 1,
       "image_local": "images/news_70a7590d7d452715b213.webp"
     },
@@ -917,7 +917,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.6,
+      "score": 93.7,
       "story_size": 1,
       "image_local": "images/news_4abd3a42ebd0120f2cc0.jpg"
     },
@@ -936,7 +936,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.5,
+      "score": 93.6,
       "story_size": 1,
       "image_local": "images/news_15c2809ca6b0d2f0f5fd.png"
     },
@@ -955,7 +955,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.3,
+      "score": 93.4,
       "story_size": 1,
       "image_local": "images/news_b9721379dad6d454e8ed.webp"
     },
@@ -974,7 +974,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.3,
+      "score": 93.4,
       "story_size": 1,
       "image_local": "images/news_108330875bb046a94e70.webp"
     },
@@ -993,7 +993,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.1,
+      "score": 93.2,
       "story_size": 1
     },
     {
@@ -1011,7 +1011,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.8,
+      "score": 92.9,
       "story_size": 1,
       "image_local": "images/news_6c2e2579e68982d013c1.webp"
     },
@@ -1030,7 +1030,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.8,
+      "score": 92.8,
       "story_size": 1,
       "image_local": "images/news_2ce5179596f2ff4988f4.jpg"
     },
@@ -1049,7 +1049,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.7,
+      "score": 92.8,
       "story_size": 1,
       "image_local": "images/news_68a2222bb998f16573b3.webp"
     },
@@ -1068,7 +1068,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.6,
+      "score": 92.6,
       "story_size": 1
     },
     {
@@ -1086,7 +1086,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.2,
+      "score": 92.3,
       "story_size": 1,
       "image_local": "images/news_d86f44749dcc6c006f56.webp"
     },
@@ -1105,7 +1105,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.0,
+      "score": 92.1,
       "story_size": 1
     },
     {
@@ -1123,7 +1123,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.8,
+      "score": 91.9,
       "story_size": 1
     },
     {
@@ -1141,7 +1141,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.8,
+      "score": 91.9,
       "story_size": 1,
       "image_local": "images/news_fd1e9eb4fa88d8492755.webp"
     },
@@ -1160,7 +1160,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.8,
+      "score": 91.8,
       "story_size": 1,
       "image_local": "images/news_697debd32718208cfbcd.webp"
     },
@@ -1179,7 +1179,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.5,
+      "score": 91.5,
       "story_size": 1,
       "image_local": "images/news_7d0cb8be59709872a70e.jpg"
     },
@@ -1198,7 +1198,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.9,
+      "score": 91.0,
       "story_size": 1
     },
     {
@@ -1216,7 +1216,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.8,
+      "score": 90.9,
       "story_size": 1
     },
     {
@@ -1234,7 +1234,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.8,
+      "score": 90.9,
       "story_size": 1
     },
     {
@@ -1252,7 +1252,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.7,
+      "score": 90.8,
       "story_size": 1
     },
     {
@@ -1270,7 +1270,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.6,
+      "score": 90.7,
       "story_size": 1
     },
     {
@@ -1288,7 +1288,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.6,
+      "score": 90.7,
       "story_size": 1
     },
     {
@@ -1306,7 +1306,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.6,
+      "score": 90.7,
       "story_size": 1
     },
     {
@@ -1324,7 +1324,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.4,
+      "score": 90.5,
       "story_size": 1
     },
     {
@@ -1342,7 +1342,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.3,
+      "score": 90.4,
       "story_size": 1
     },
     {
@@ -1360,7 +1360,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.3,
+      "score": 90.4,
       "story_size": 1
     },
     {
@@ -1378,7 +1378,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.2,
+      "score": 90.2,
       "story_size": 1
     },
     {
@@ -1396,7 +1396,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.1,
+      "score": 90.1,
       "story_size": 1
     },
     {
@@ -1414,7 +1414,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.0,
+      "score": 90.1,
       "story_size": 1
     },
     {
@@ -1432,7 +1432,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.9,
+      "score": 90.0,
       "story_size": 1,
       "image_local": "images/news_410c842b7f49d4800723.jpg"
     },
@@ -1451,7 +1451,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.6,
+      "score": 89.7,
       "story_size": 1
     },
     {
@@ -1469,7 +1469,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.1,
+      "score": 89.2,
       "story_size": 1
     },
     {
@@ -1487,7 +1487,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.0,
+      "score": 89.1,
       "story_size": 1
     },
     {
@@ -1505,7 +1505,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.1,
+      "score": 88.2,
       "story_size": 1
     },
     {
@@ -1523,7 +1523,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.5,
+      "score": 87.5,
       "story_size": 1
     },
     {
@@ -1541,7 +1541,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.2,
+      "score": 87.3,
       "story_size": 1
     },
     {
@@ -1559,7 +1559,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.1,
+      "score": 87.2,
       "story_size": 1
     },
     {
@@ -1577,7 +1577,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.5,
+      "score": 84.5,
       "story_size": 1
     },
     {
@@ -1595,7 +1595,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.9,
+      "score": 84.0,
       "story_size": 1
     },
     {
@@ -1613,7 +1613,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.8,
+      "score": 83.9,
       "story_size": 1
     },
     {
@@ -1631,7 +1631,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.6,
+      "score": 83.7,
       "story_size": 1
     },
     {
@@ -1649,7 +1649,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.4,
+      "score": 83.5,
       "story_size": 1
     },
     {
@@ -1667,7 +1667,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.9,
+      "score": 82.9,
       "story_size": 1
     },
     {
@@ -1685,7 +1685,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.6,
+      "score": 82.7,
       "story_size": 1
     },
     {
@@ -1703,7 +1703,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.6,
+      "score": 82.6,
       "story_size": 1
     },
     {
@@ -1721,7 +1721,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.3,
+      "score": 82.4,
       "story_size": 1
     },
     {
@@ -1739,7 +1739,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.1,
+      "score": 82.2,
       "story_size": 1
     },
     {
@@ -1757,7 +1757,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.8,
+      "score": 81.9,
       "story_size": 1
     },
     {
@@ -1775,7 +1775,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.3,
+      "score": 81.4,
       "story_size": 1
     },
     {
@@ -1793,7 +1793,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.2,
+      "score": 81.3,
       "story_size": 1
     },
     {
@@ -1811,7 +1811,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.8,
+      "score": 80.9,
       "story_size": 1
     },
     {
@@ -1829,7 +1829,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.6,
+      "score": 80.7,
       "story_size": 1
     },
     {
@@ -1847,7 +1847,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.4,
+      "score": 80.5,
       "story_size": 1
     },
     {
@@ -1865,7 +1865,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.4,
+      "score": 80.5,
       "story_size": 1
     },
     {
@@ -1883,7 +1883,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.3,
+      "score": 80.4,
       "story_size": 1
     },
     {
@@ -1901,7 +1901,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.8,
+      "score": 79.9,
       "story_size": 1
     },
     {
@@ -1919,7 +1919,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.7,
+      "score": 79.8,
       "story_size": 1
     },
     {
@@ -1937,7 +1937,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.6,
+      "score": 79.6,
       "story_size": 1
     },
     {
@@ -1955,7 +1955,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.9,
+      "score": 79.0,
       "story_size": 1
     },
     {
@@ -1973,7 +1973,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.8,
+      "score": 78.9,
       "story_size": 1
     },
     {
@@ -1991,7 +1991,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.7,
+      "score": 78.8,
       "story_size": 1
     },
     {
@@ -2009,7 +2009,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.5,
+      "score": 78.6,
       "story_size": 1
     },
     {
@@ -2027,7 +2027,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.4,
+      "score": 78.4,
       "story_size": 1
     },
     {
@@ -2045,7 +2045,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.1,
+      "score": 78.2,
       "story_size": 1
     },
     {
@@ -2063,7 +2063,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.1,
+      "score": 78.2,
       "story_size": 1
     },
     {
@@ -2081,7 +2081,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.9,
+      "score": 78.0,
       "story_size": 1
     },
     {
@@ -2099,7 +2099,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.9,
+      "score": 77.9,
       "story_size": 1
     },
     {
@@ -2117,7 +2117,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.7,
+      "score": 77.8,
       "story_size": 1
     },
     {
@@ -2135,7 +2135,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.7,
+      "score": 77.8,
       "story_size": 1
     },
     {
@@ -2153,7 +2153,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.4,
+      "score": 77.5,
       "story_size": 1
     },
     {
@@ -2171,7 +2171,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.4,
+      "score": 77.4,
       "story_size": 1
     },
     {
@@ -2189,7 +2189,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.2,
+      "score": 77.3,
       "story_size": 1
     },
     {
@@ -2207,7 +2207,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.4,
+      "score": 76.5,
       "story_size": 1
     },
     {
@@ -2225,7 +2225,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.1,
+      "score": 76.2,
       "story_size": 1
     },
     {
@@ -2243,7 +2243,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.1,
+      "score": 76.2,
       "story_size": 1
     },
     {
@@ -2261,7 +2261,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.1,
+      "score": 76.1,
       "story_size": 1
     },
     {
@@ -2279,7 +2279,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.0,
+      "score": 76.1,
       "story_size": 1
     },
     {
@@ -2297,7 +2297,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.6,
+      "score": 75.6,
       "story_size": 1
     },
     {
@@ -2315,7 +2315,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.5,
+      "score": 75.5,
       "story_size": 1
     },
     {
@@ -2333,7 +2333,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.4,
+      "score": 75.5,
       "story_size": 1
     },
     {
@@ -2351,7 +2351,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.1,
+      "score": 75.2,
       "story_size": 1
     },
     {
@@ -2369,7 +2369,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.1,
+      "score": 75.2,
       "story_size": 1
     },
     {
@@ -2387,7 +2387,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.0,
+      "score": 75.1,
       "story_size": 1
     },
     {
@@ -2405,7 +2405,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.3,
+      "score": 74.4,
       "story_size": 1
     },
     {
@@ -2423,7 +2423,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.0,
+      "score": 73.1,
       "story_size": 1
     },
     {
@@ -2441,7 +2441,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.5,
+      "score": 70.6,
       "story_size": 1
     },
     {
@@ -2459,7 +2459,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 45.9,
+      "score": 42.0,
       "story_size": 1
     },
     {
@@ -2477,7 +2477,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 40.9,
+      "score": 37.0,
       "story_size": 1
     },
     {
@@ -2495,7 +2495,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 38.4,
+      "score": 34.4,
       "story_size": 1
     },
     {
