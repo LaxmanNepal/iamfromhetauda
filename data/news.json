@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T23:00:56.238082+00:00",
+  "updated_at": "2026-10-07T23:01:42.939873+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -55,7 +55,7 @@
       "source_count": 4,
       "verified": true,
       "local": false,
-      "score": 132.5,
+      "score": 132.4,
       "story_size": 4,
       "image_local": "images/news_ab797d6b1c559c2b8fff.jpg"
     },
@@ -76,7 +76,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 122.2,
+      "score": 122.1,
       "story_size": 3
     },
     {
@@ -114,7 +114,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 111.3,
+      "score": 111.2,
       "story_size": 2,
       "image_local": "images/news_58cc5b797487e8213b6d.jpg"
     },
@@ -154,7 +154,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 110.0,
+      "score": 109.9,
       "story_size": 2,
       "image_local": "images/news_003771ecfbbee6528fc3.webp"
     },
@@ -229,7 +229,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.4,
+      "score": 97.3,
       "story_size": 1,
       "image_local": "images/news_17606a6f6387be215ab5.jpg"
     },
@@ -248,7 +248,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.0,
+      "score": 93.9,
       "story_size": 1,
       "image_local": "images/news_e6051b04792cc7059ae6.jpg"
     },
@@ -268,7 +268,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 93.9,
+      "score": 93.8,
       "story_size": 2
     },
     {
@@ -286,7 +286,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.0,
+      "score": 92.9,
       "story_size": 1,
       "image_local": "images/news_03b365ad2baca438bd7d.webp"
     },
@@ -305,7 +305,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.0,
+      "score": 92.9,
       "story_size": 1,
       "image_local": "images/news_50694ba3f199eaaca9b7.jpg"
     },
@@ -381,7 +381,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.3,
+      "score": 91.2,
       "story_size": 1,
       "image_local": "images/news_142fa8d2b0c7b5c03cbe.jpg"
     },
@@ -437,7 +437,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.6,
+      "score": 89.5,
       "story_size": 1,
       "image_local": "images/news_c61627e727c116a4e480.webp"
     },
@@ -493,7 +493,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.9,
+      "score": 88.8,
       "story_size": 1,
       "image_local": "images/news_64176b510fbaaa317fad.jpg"
     },
@@ -512,7 +512,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.8,
+      "score": 88.7,
       "story_size": 1
     },
     {
@@ -584,7 +584,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.9,
+      "score": 87.8,
       "story_size": 1,
       "image_local": "images/news_cb4f64f25965bcaf09e4.webp"
     },
@@ -640,7 +640,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.5,
+      "score": 87.4,
       "story_size": 1,
       "image_local": "images/news_4fe0c4d91443cb5aff55.webp"
     },
@@ -677,7 +677,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.1,
+      "score": 87.0,
       "story_size": 1
     },
     {
@@ -735,42 +735,6 @@
       "story_size": 1
     },
     {
-      "title": "बाजुरा केन्द्र भएर गयो भूकम्प",
-      "link": "https://khabarhub.com/2026/07/1034738/",
-      "description": "काठमाडौं । बुधबार राति बाजुरा जिल्लालाई केन्द्रबिन्दु बनाएर भूकम्प गएको छ । राष्ट्रिय भूकम्प मापन तथा अनुसन्धान केन्द्रले दिएको जानकारीअनुसार, बाजुराको बाह्रबिसे आसपासलाई केन्द्रबिन्दु बनाएर भूकम्प गएको हो । केन्द्रका अनुसार बुधबार राति ९:३७ मा ४.१ म्याग्निच्युडको भूकम्प गएको केन्द्रले जानकारी दिएको छ ।",
-      "published": "2026-10-07T17:05:15+00:00",
-      "source": "Khabarhub",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "031645f522f27eb4",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 86.3,
-      "story_size": 1
-    },
-    {
-      "title": "काँडाघारीमा प्रहरीले गोली चलाएर पक्रियो तीन लुटेरा, एक जना घाइते",
-      "link": "https://www.setopati.com/social/400297",
-      "description": "काठमाडौंमा प्रहरीले गोली चलाएर लुटेरा समूहका तीन जनालाई पक्राउ गरेको छ।",
-      "published": "2026-10-07T22:50:00+05:45",
-      "source": "Setopati",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "Setopati"
-      ],
-      "id": "747cb8c92dd9440c",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 86.3,
-      "story_size": 1
-    },
-    {
       "title": "यस्तो छ कांग्रेस उम्मेदवारको अन्तिम सूची (नामावलीसहित)",
       "link": "https://www.ratopati.com/story/598038/this-is-the-final-list-of-congress-candidates-with-names",
       "description": "काठमाडौँ । नेपाली कांग्रेसको बिहीबार नयाँ नेतृत्व चयनका लागि हुने निर्वाचनका लागि उम्मेदवारी दिएकाहरुको अन्तिम सूची सार्वजनिक भएको छ । निर्वाचन समितिले बिहीबार राति अन्तिम सूची सार्वजनिक भएको हो । नयाँ नेतृत्वसहितको कार्यसमिति चयनका लागि बिहीबार",
@@ -790,6 +754,42 @@
       "image_local": "images/news_d57005c5efe71e98a2d6.webp"
     },
     {
+      "title": "बाजुरा केन्द्र भएर गयो भूकम्प",
+      "link": "https://khabarhub.com/2026/07/1034738/",
+      "description": "काठमाडौं । बुधबार राति बाजुरा जिल्लालाई केन्द्रबिन्दु बनाएर भूकम्प गएको छ । राष्ट्रिय भूकम्प मापन तथा अनुसन्धान केन्द्रले दिएको जानकारीअनुसार, बाजुराको बाह्रबिसे आसपासलाई केन्द्रबिन्दु बनाएर भूकम्प गएको हो । केन्द्रका अनुसार बुधबार राति ९:३७ मा ४.१ म्याग्निच्युडको भूकम्प गएको केन्द्रले जानकारी दिएको छ ।",
+      "published": "2026-10-07T17:05:15+00:00",
+      "source": "Khabarhub",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "031645f522f27eb4",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 86.2,
+      "story_size": 1
+    },
+    {
+      "title": "काँडाघारीमा प्रहरीले गोली चलाएर पक्रियो तीन लुटेरा, एक जना घाइते",
+      "link": "https://www.setopati.com/social/400297",
+      "description": "काठमाडौंमा प्रहरीले गोली चलाएर लुटेरा समूहका तीन जनालाई पक्राउ गरेको छ।",
+      "published": "2026-10-07T22:50:00+05:45",
+      "source": "Setopati",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "747cb8c92dd9440c",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 86.2,
+      "story_size": 1
+    },
+    {
       "title": "पश्चिम नेपालमा लगातार भूकम्प : बाजुरामा धक्का",
       "link": "https://www.ratopati.com/story/598037/continuous-earthquakes-in-western-nepal-shock-in-bajura",
       "description": "काठमाडौँ । नेपालको सुदूरपश्चिम र कर्णाली प्रदेश आसपासका क्षेत्रमा पछिल्लो समय लगातार भूकम्पका धक्का मापन गरिएका छन् । भूकम्प मापन केन्द्रका अनुसार पछिल्लो पटक बुधबार राति बाजुरामा भूकम्प गएको हो। ‘राति ९ बजेर ३७ मिनेटमा बाजुराको बाह्रबिसे",
@@ -804,7 +804,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.3,
+      "score": 86.2,
       "story_size": 1,
       "image_local": "images/news_a216bad5696de62d69c8.jpg"
     },
@@ -898,7 +898,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.5,
+      "score": 85.4,
       "story_size": 1,
       "image_local": "images/news_70a7590d7d452715b213.webp"
     },
@@ -936,7 +936,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.1,
+      "score": 85.0,
       "story_size": 1,
       "image_local": "images/news_15c2809ca6b0d2f0f5fd.png"
     },
@@ -955,7 +955,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.9,
+      "score": 84.8,
       "story_size": 1,
       "image_local": "images/news_b9721379dad6d454e8ed.webp"
     },
@@ -993,7 +993,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.7,
+      "score": 84.6,
       "story_size": 1
     },
     {
@@ -1123,7 +1123,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.4,
+      "score": 83.3,
       "story_size": 1
     },
     {
@@ -1141,7 +1141,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.4,
+      "score": 83.3,
       "story_size": 1,
       "image_local": "images/news_fd1e9eb4fa88d8492755.webp"
     },
@@ -1160,7 +1160,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.3,
+      "score": 83.2,
       "story_size": 1,
       "image_local": "images/news_697debd32718208cfbcd.webp"
     },
@@ -1342,7 +1342,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.9,
+      "score": 81.8,
       "story_size": 1
     },
     {
@@ -1396,7 +1396,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.6,
+      "score": 81.5,
       "story_size": 1
     },
     {
@@ -1414,7 +1414,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.6,
+      "score": 81.5,
       "story_size": 1
     },
     {
@@ -1451,7 +1451,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.2,
+      "score": 81.1,
       "story_size": 1
     },
     {
@@ -1487,7 +1487,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.6,
+      "score": 80.5,
       "story_size": 1
     },
     {
@@ -1505,7 +1505,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.7,
+      "score": 79.6,
       "story_size": 1
     },
     {
@@ -1523,7 +1523,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.0,
+      "score": 78.9,
       "story_size": 1
     },
     {
@@ -1577,7 +1577,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.0,
+      "score": 75.9,
       "story_size": 1
     },
     {
@@ -1595,7 +1595,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.5,
+      "score": 75.4,
       "story_size": 1
     },
     {
@@ -1649,7 +1649,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.0,
+      "score": 74.9,
       "story_size": 1
     },
     {
@@ -1667,7 +1667,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.4,
+      "score": 74.3,
       "story_size": 1
     },
     {
@@ -1811,7 +1811,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.4,
+      "score": 72.3,
       "story_size": 1
     },
     {
@@ -1829,7 +1829,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.2,
+      "score": 72.1,
       "story_size": 1
     },
     {
@@ -1847,7 +1847,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.0,
+      "score": 71.9,
       "story_size": 1
     },
     {
@@ -1901,7 +1901,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.4,
+      "score": 71.3,
       "story_size": 1
     },
     {
@@ -1973,7 +1973,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.4,
+      "score": 70.3,
       "story_size": 1
     },
     {
@@ -1991,7 +1991,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.3,
+      "score": 70.2,
       "story_size": 1
     },
     {
@@ -2099,7 +2099,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.4,
+      "score": 69.3,
       "story_size": 1
     },
     {
@@ -2117,7 +2117,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.3,
+      "score": 69.2,
       "story_size": 1
     },
     {
@@ -2135,7 +2135,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.3,
+      "score": 69.2,
       "story_size": 1
     },
     {
@@ -2171,7 +2171,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.9,
+      "score": 68.8,
       "story_size": 1
     },
     {
@@ -2207,7 +2207,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.0,
+      "score": 67.9,
       "story_size": 1
     },
     {
@@ -2225,7 +2225,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.7,
+      "score": 67.6,
       "story_size": 1
     },
     {
@@ -2261,7 +2261,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.6,
+      "score": 67.5,
       "story_size": 1
     },
     {
@@ -2279,7 +2279,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.6,
+      "score": 67.5,
       "story_size": 1
     },
     {
@@ -2297,7 +2297,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.1,
+      "score": 67.0,
       "story_size": 1
     },
     {
@@ -2315,7 +2315,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.0,
+      "score": 66.9,
       "story_size": 1
     },
     {
@@ -2351,7 +2351,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.7,
+      "score": 66.6,
       "story_size": 1
     },
     {
@@ -2423,7 +2423,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 64.6,
+      "score": 64.5,
       "story_size": 1
     },
     {
@@ -2441,7 +2441,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 62.1,
+      "score": 62.0,
       "story_size": 1
     },
     {
@@ -2477,7 +2477,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 28.5,
+      "score": 28.4,
       "story_size": 1
     },
     {
@@ -2495,7 +2495,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 25.9,
+      "score": 25.8,
       "story_size": 1
     },
     {
