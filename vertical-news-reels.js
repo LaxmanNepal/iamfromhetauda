@@ -39,7 +39,7 @@ function render(a){
   var im=n.image_local||n.image||'';
   return '<article class="ifhR13Card '+(i===active?'ifhR13Active':'')+'" data-index="'+i+'" data-id="'+esc(n.id)+'"><div class="ifhR13Media">'+(im?'<img src="'+esc(im)+'" loading="'+(i<2?'eager':'lazy')+'" alt="">':'<div class="ifhR13NoImg">📰</div>')+'</div><div class="ifhR13Shade"></div><div class="ifhR13Progress"><i></i></div><div class="ifhR13Text"><div class="ifhR13Meta"><b>'+(n.source||'समाचार')+'</b><span>'+(n.verified?'✓ VERIFIED • ':'')+ago(n)+'</span></div><h3>'+esc(n.title)+'</h3><p>'+esc(n.description||'')+'</p><div class="ifhR13Actions"><button data-open="'+esc(n.id)+'">पढ्नुहोस्</button><button data-save="'+esc(n.id)+'">'+(saved(n.id)?'♥ सेभ':'★ सेभ')+'</button><button data-share="'+esc(n.id)+'">↗ शेयर</button></div></div></article>'
  }).join('');
- bind(feed);observe(feed);syncActive(false);if(!paused)startTimer();
+ bind(feed);observe(feed);setupSwipe(feed);syncActive(false);if(!paused)startTimer();
 }
 function bind(feed){
  feed.querySelectorAll('[data-open]').forEach(function(b){b.onclick=function(e){e.stopPropagation();stopTimer();if(window.openById)window.openById(b.dataset.open)}});
