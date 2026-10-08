@@ -54,10 +54,10 @@ function setupSwipe(feed){
  var sy=0,st=0,holdTimer=0;
  feed.ontouchstart=function(e){touchStartY=e.touches[0].clientY;touchStartX=e.touches[0].clientX;touchMoved=false;st=Date.now();stopTimer();clearTimeout(holdTimer);holdTimer=setTimeout(function(){if(!touchMoved){holdPaused=true;paused=true;updatePlay()}},450)};\n feed.ontouchmove=function(e){var dy=e.touches[0].clientY-touchStartY,dx=e.touches[0].clientX-touchStartX;if(Math.abs(dy)>18||Math.abs(dx)>18){touchMoved=true;clearTimeout(holdTimer)}};\n feed.ontouchend=function(e){clearTimeout(holdTimer);var dy=e.changedTouches[0].clientY-touchStartY;if(Math.abs(dy)>55&&Date.now()-st<700){holdPaused=false;go(dy<0?1:-1)}else if(holdPaused){holdPaused=false;paused=false;updatePlay();startTimer()}else if(!paused)startTimer()};
 }
-function go(delta){
+function smartNext(delta){if(delta<0)return -1;if(!items.length)return 0;var cur=items[active],best=active+1,bs=-1;for(var i=1;i<items.length;i++){var idx=(active+i)%items.length,n=items[idx],s=0;if(!seen(n.id))s+=35;if(n.verified)s+=18;s+=Math.min(30,Number(n.source_count||0)*8);if(local(n)===local(cur))s+=5;s+=Math.max(0,18-age(n)/80);if(s>bs){bs=s;best=idx}}return best-active}\nfunction go(delta){
  if(!items.length)return;
  if(speakingId&&speechSupported()){window.speechSynthesis.cancel();speakingId='';}
- active=active+delta;
+ active=active+(delta>0?smartNext(delta):delta);
  if(active>=items.length)active=0;
  if(active<0)active=items.length-1;
  var feed=$('#ifhR13Feed'),cards=feed&&feed.querySelectorAll('.ifhR13Card');
