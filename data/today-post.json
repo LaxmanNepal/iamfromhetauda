@@ -1,160 +1,161 @@
 {
   "date_np": "2026-10-09",
-  "generated_at": "2026-10-08T23:54:59.893993+00:00",
+  "generated_at": "2026-10-09T05:34:14.320905+00:00",
   "items": [
     {
-      "title": "गण्डकी प्रदेशमा प्राकृतिक विपद्ः यातायात सेवा प्रभावित",
-      "link": "https://gorkhapatraonline.com/news/225969",
-      "description": "गण्डकी, असोज २२ गते । बाढीपहिरोका कारण मध्यपहाडी लोकमार्ग र कालीगण्डकी करिडोर अवरुद्ध हुँदा गण्डकी प्रदेशका विभिन्न जिल्लामा दुई सातादेखि सवारी आवागमन प्रभावित बनेको छ । कालीगण्डकी...",
-      "published": "2026-10-09T00:21:45+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "society",
-      "image": "https://gorkhapatraonline.com/storage/media/387191/conversions/IMG_6248-(1)-original.jpg",
+      "title": "कांग्रेस महाधिवेशनः दुई घण्टामा १ हजार २९३ मत खस्यो, कुन प्रदेशबाट कति ?",
+      "link": "https://kendrabindu.com/politics/562681/",
+      "description": "काठमाडौं । नेपाली कांग्रेसको नयाँ नेतृत्व चयनका लागि भइरहेको मतदानमा दुई घण्टामा १ हजार २९३ मत खसेको छ। बिहान ८:३० बजेदेखि १०:३० बजेसम्मको विवरणअनुसार विभिन्न प्रदेशबाट उक्त संख्यामा मत खसेको हो। मतदानको विवरणअनुसार कोशी प्रदेशबाट २२२, सुदूरपश्चिम र कर्णालीबाट २५७, लुम्बिनीबाट २०२, गण्डकीबाट १८८ र बागमती प्रदेशबाट २१७ मत खसेको छ। मतदान प्रक्रिया निर्वाध रूपमा [&#8230;]",
+      "published": "2026-10-09T05:33:36+00:00",
+      "source": "Kendrabindu",
+      "category": "politics",
+      "image": "",
       "related_sources": [
-        "Gorkhapatra Online",
-        "Ratopati",
-        "Khabarhub"
+        "Kendrabindu",
+        "Gorkhapatra Online"
       ],
-      "id": "577889f25cd99fbf",
-      "source_count": 3,
+      "id": "31fb48c7521113f6",
+      "source_count": 2,
       "verified": true,
-      "local": false,
-      "score": 125.8,
-      "story_size": 3,
-      "image_local": "images/news_a1f06e14cb8f8c3b8799.jpg"
+      "local": true,
+      "score": 152.0,
+      "story_size": 2
     },
     {
-      "title": "सडक सञ्चालनपछि सहज",
-      "link": "https://gorkhapatraonline.com/news/225971",
-      "description": "काठमाडौँ, असोज २३ गते । भोटेकोशी–त्रिशूली हिमबाढी र असोज दोस्रो साताको अविरल वर्षाका कारण क्षतिग्रस्त अधिकांश राजमार्ग तथा सडक पुनः सञ्चालनमा आएका छन् । आउनै लागेका ठुला चाडपर्वलाई...",
-      "published": "2026-10-09T05:33:13+05:45",
+      "title": "मध्यावधि चुनावअघि इरानमा आक्रमण नगर्ने ट्रम्पको घोषणा",
+      "link": "https://www.ratopati.com/story/598355/trump-announces-no-attack-on-iran-before-midterm-elections",
+      "description": "वासिङ्टन डीसी । अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले नोभेम्बर ३ मा हुने मध्यावधि निर्वाचनअघि इरानमाथि आक्रमण नगर्ने घोषणा गरेका छन् । उनले इरानसँग फलदायी छलफल भइरहेको बताउँदै आर्थिक र सैन्य रूपमा इरान कमजोर अवस्थामा रहेको दाबी",
+      "published": "2026-10-09T05:19:46+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/donald-trump_FzwJMStk6F.webp",
+      "related_sources": [
+        "Ratopati",
+        "Gorkhapatra Online"
+      ],
+      "id": "009168bf7fa48a59",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 136.1,
+      "story_size": 2,
+      "image_local": "images/news_152b2c72b4cdffd768bd.webp"
+    },
+    {
+      "title": "कांग्रेस महाधिवेशन : दुई घण्टामा एक हजार २९३ मत खस्यो",
+      "link": "https://baahrakhari.com/detail/504343",
+      "description": "",
+      "published": "2026-10-09T11:12:00+05:45",
+      "source": "Baahrakhari",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari",
+        "Ratopati"
+      ],
+      "id": "04115817c10f7f75",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 133.5,
+      "story_size": 2
+    },
+    {
+      "title": "उखु किसानलाई एक अर्ब ५० करोड अनुदान",
+      "link": "https://www.onlinekhabar.com/2026/10/2035622/1-5-billion-rupees-in-grant-to-sugarcane-farmers",
+      "description": "२३ असोज, काठमाडौं । सरकारले उखु किसानलाई रु एक अर्ब ५० करोड अनुदान प्रदान गर्ने भएको छ । कृषि, वन तथा पर्यावरणमन्त्री गीता चौधरीले उखु उत्पादक किसानलाई प्रोत्साहनस्वरूप उपलब्ध गराइने अनुदानसम्बन्धी कार्यविधि बिहीबार स्वीकृत गरेको उनको निजी सचिवालयले जनाएको छ । अनुदान रकम बर्दिया, रौतहट, कैलाली, कञ्चनपुरका किसानलाई वितरण गरिने मन्त्रालयले जनाएको छ । सरकारले [&#8230;]",
+      "published": "2026-10-09T05:09:34+00:00",
+      "source": "OnlineKhabar",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar",
+        "Khabarhub"
+      ],
+      "id": "983ceba222d4ef8a",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 132.4,
+      "story_size": 2
+    },
+    {
+      "title": "अमेरिकी मध्यावधि निर्वाचनअघि इरानमाथि आक्रमण नगर्ने ट्रम्पको घोषणा",
+      "link": "https://kendrabindu.com/world/562673/",
+      "description": "काठमाडौं । अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले आगामी नोभेम्बर ३ मा हुने अमेरिकी मध्यावधि निर्वाचनअघि इरानमाथि कुनै पनि आक्रमण नगर्ने बताएका छन् ।इरानसँगको वार्ता सकारात्मक रूपमा अघि बढिरहेको भन्दै उनले मध्यावधि निर्वाचनअघि आक्रमण नगर्ने बताएका हुन् । ट्रम्पले आफ्नो सामाजिक सञ्जाल ट्रुथ सोसलमार्फत् यो जानकारी दिएका हुन् ।‘अमेरिकामा नोभेम्बर ३ मा हुने मध्यावधि निर्वाचनअघि हामी कुनै [&#8230;]",
+      "published": "2026-10-09T05:05:10+00:00",
+      "source": "Kendrabindu",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu",
+        "OnlineKhabar"
+      ],
+      "id": "8fe780e68b69ff16",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 132.1,
+      "story_size": 2
+    },
+    {
+      "title": "रसुवा बाढीबाट भएको क्षतिको एकीकृत प्रतिवेदन पेस",
+      "link": "https://gorkhapatraonline.com/news/226027",
+      "description": "हेटौँडा समाचारदाताहेटौँडा, असोज २३ गते । रसुवाको भोटेकोशीमा आएको बाढीबाट भएको मानवीय तथा भौतिक क्षतिको एकीकृत प्रतिवेदन बागमती प्रदेशका मुख्यमन्त्री किरण थापामगरसमक्ष पेस गरिएको छ ...",
+      "published": "2026-10-09T11:13:06+05:45",
       "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/387194/conversions/Untitled-1-original.jpg",
+      "category": "society",
+      "image": "https://gorkhapatraonline.com/storage/media/387257/conversions/Untitled-1-original.jpg",
       "related_sources": [
         "Gorkhapatra Online"
       ],
-      "id": "05da92c21fde519e",
+      "id": "7544fb133db5bcdf",
       "source_count": 1,
       "verified": false,
-      "local": false,
-      "score": 112.6,
+      "local": true,
+      "score": 130.6,
       "story_size": 1,
-      "image_local": "images/news_5bd5cf9b181416ef1705.jpg"
+      "image_local": "images/news_22ed5d4e237ed3b731c0.jpg"
     },
     {
-      "title": "आजका लागि तोकियो विदेशी मुद्राको विनिमयदर",
-      "link": "https://www.ratopati.com/story/598307/foreign-currency-exchange-rates-set-for-today",
-      "description": "काठमाडौँ । नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५४ रुपैयाँ ५६ पैसा र बिक्रीदर १५५ रुपैयाँ १६ पैसा निर्धारण गरिएको छ । अष्ट्रेलियन",
-      "published": "2026-10-08T23:45:00+00:00",
-      "source": "Ratopati",
-      "category": "business",
-      "image": "https://rpcdn.ratopati.com/media/albums/forex_3HNlavACP4.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "68bb806716158044",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 112.3,
-      "story_size": 1,
-      "image_local": "images/news_172e31f280004e3751b5.jpg"
-    },
-    {
-      "title": "कालीगण्डकी पुलको तनहुँतर्फको पहुँच सडक पुनर्निर्माण हुँदै",
-      "link": "https://www.ratopati.com/story/598309/the-access-road-to-the-kaligandaki-bridge-towards-tanahun-is-being-reconstructed",
-      "description": "तनहुँ । अविरल वर्षाका कारण क्षतिग्रस्त तनहुँको घिरिङ र नवलपुरको बौदीकाली जोड्ने कालीगण्डकी नदीमाथिको पुलको तनहुँतर्फको पहुँच सडक पुनर्निर्माण गरिने भएको छ । यही असोज ११ को बाढीले पहुँच सडक क्षतिग्रस्त भएपछि पुलबाट सवारीसाधन सञ्चालन हुन",
-      "published": "2026-10-08T23:30:00+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/tanahu-map_us5mlswuc2_MPGIzBN5w0.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "825978beadb2e6dc",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 111.3,
-      "story_size": 1,
-      "image_local": "images/news_891b9a58cb26d616f256.jpg"
-    },
-    {
-      "title": "डोको बुन्दै, सीप सिकाउँदै",
-      "link": "https://www.ratopati.com/story/598308/weaving-a-headscarf-teaching-a-skill",
-      "description": "भोजपुर । भोजपुर नगरपालिका–५ का किसान कृतिमान विष्ट परम्परागत डोको बुन्ने पेसाको संरक्षणमा जुटेका छन् । खेतीपातीको कामबाट बचेको समय सदुपयोग गर्दै उनले पुस्तौँदेखि चलिआएको बाँसको चोयाबाट डोको बुन्ने सीपलाई निरन्तरता दिँदै आएका छन् । गाउँघरमा",
-      "published": "2026-10-08T23:16:12+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/MVdqyEy4uY.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "382842abc0e27d03",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 110.4,
-      "story_size": 1,
-      "image_local": "images/news_71aaa18a97757bc26c87.jpg"
-    },
-    {
-      "title": "आजको राशिफल : कुन राशिलाई शुभ, कुनलाई मध्यम ?",
-      "link": "https://www.ratopati.com/story/598305/todays-horoscope-which-zodiac-sign-is-auspicious-which-is-average",
-      "description": "आजको पञ्चाङ्ग वि.सं.२०८३ साल असोज २३ गते । शुक्रबार । इस्वी सन् २०२६ अक्टोबर ९ तारिख । नेपाल संवत् ११४६ । रौद्र संवत्सर । दक्षिणायन । शरद ऋतु । श्रीशाके १९४८ । आश्विन कृष्णपक्ष । तिथि–चतुर्दशी,",
-      "published": "2026-10-08T23:15:00+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/horoscope_XkWmpVM1yU.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "eeada6cdfe24314f",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 110.3,
-      "story_size": 1,
-      "image_local": "images/news_3f09ac2e5e6c89788b01.jpg"
-    },
-    {
-      "title": "कर्णालीमा पाँच हजार प्रहरी परिचालन गरिने",
-      "link": "https://www.ratopati.com/story/598306/five-thousand-police-officers-to-be-mobilized-in-karnali",
-      "description": "कर्णाली । कर्णाली प्रदेशमा दसैँ तिहार, नेपाल संवत् र छठ पर्वलाई लक्षित गरेर पाँच हजार प्रहरी परिचालन गरिने भएको छ । प्रदेश प्रहरी कार्यालय सुर्खेतले कर्णालीका दश वटै जिल्लाको सुरक्षा व्यवस्थालाई भरपर्दो, विश्वसनीय तथा सुदृढ बनाउन",
-      "published": "2026-10-08T23:08:47+00:00",
-      "source": "Ratopati",
-      "category": "business",
-      "image": "https://npcdn.ratopati.com/media/news/karnali-province_x3tiyspezu_wn8QJV8A1k.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "408dfeaacae87b25",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.9,
-      "story_size": 1,
-      "image_local": "images/news_c75125ddfa0f93ace72e.jpg"
-    },
-    {
-      "title": "बिहान ७ बजेबाट मतदान सुरु हुँदै",
-      "link": "https://baahrakhari.com/detail/504320",
-      "description": "",
-      "published": "2026-10-09T05:37:13+05:45",
-      "source": "Baahrakhari",
+      "title": "अफगानिस्तानमा पोसाकसम्बन्धी नियम उल्लंघनको आरोपमा ५२ महिला पक्राउ",
+      "link": "https://kendrabindu.com/world/562667/",
+      "description": "काठमाडौं । अफगानिस्तानका हेरात र काबुल सहरमा पोसाकसम्बन्धी नियम उल्लंघन गरेको आरोपमा कम्तीमा ५२ महिला र एक बालिका पक्राउ परेका छन् । सन् २०२६ को जुलाईदेखि सेप्टेम्बर महिनाको अवधिमा उनीहरूलाई नियन्त्रणमा लिइएको संयुक्त राष्ट्रसंघले जनाएको छ । संयुक्त राष्ट्रसंघीय सहायता मिसन (युनामा)का अनुसार, चादर नलगाएको, कपाल देखिएको, रंगीन सल वा मेकअप प्रयोग गरेको तथा पुरुष [&#8230;]",
+      "published": "2026-10-09T04:42:07+00:00",
+      "source": "Kendrabindu",
       "category": "nepal",
       "image": "",
       "related_sources": [
+        "Kendrabindu",
         "Baahrakhari"
       ],
-      "id": "4a169943f00fec9e",
-      "source_count": 1,
-      "verified": false,
+      "id": "7baa6d36a84fe40c",
+      "source_count": 2,
+      "verified": true,
       "local": false,
-      "score": 109.8,
-      "story_size": 1
+      "score": 130.5,
+      "story_size": 2
+    },
+    {
+      "title": "शिक्षकलाई सवारी किन्न सरकारले ब्याज तिरिदिने, मावि प्रथमलाई ५० लाख र द्वितीयलाई ४० लाखसम्म",
+      "link": "https://www.ratopati.com/story/598326/the-government-will-pay-interest-on-the-purchase-of-vehicles-for-teachers-up-to-5-million-for-secondary-school-first-and-4-million-for-secondary-school-second",
+      "description": "काठमाडौँ । शिक्षकलाई सवारी साधन खरिदमा ब्याज सहुलियत दिने व्यवस्थासहितको शिक्षा (एघारौँ संशोधन) नियमावली, २०८३ सहमतिका लागि शिक्षा तथा खेलकुद मन्त्रालयले अर्थ मन्त्रालयमा पठाएको छ। प्रस्तावित व्यवस्थाअनुसार माध्यमिक तह प्रथम श्रेणीका शिक्षकले रु. ५० लाखसम्म र",
+      "published": "2026-10-09T02:33:49+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/education-and-sports-ministry_fN03GK47w5.jpg",
+      "related_sources": [
+        "Ratopati",
+        "OnlineKhabar"
+      ],
+      "id": "0e9ec24f528bcad8",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 125.0,
+      "story_size": 2,
+      "image_local": "images/news_037e5e48f008c13be9da.jpg"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. गण्डकी प्रदेशमा प्राकृतिक विपद्ः यातायात सेवा प्रभावित\nस्रोत: Gorkhapatra Online, Ratopati, Khabarhub\nhttps://gorkhapatraonline.com/news/225969\n\n2. सडक सञ्चालनपछि सहज\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/225971\n\n3. आजका लागि तोकियो विदेशी मुद्राको विनिमयदर\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/598307/foreign-currency-exchange-rates-set-for-today\n\n4. कालीगण्डकी पुलको तनहुँतर्फको पहुँच सडक पुनर्निर्माण हुँदै\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/598309/the-access-road-to-the-kaligandaki-bridge-towards-tanahun-is-being-reconstructed\n\n5. डोको बुन्दै, सीप सिकाउँदै\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/598308/weaving-a-headscarf-teaching-a-skill\n\n6. आजको राशिफल : कुन राशिलाई शुभ, कुनलाई मध्यम ?\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/598305/todays-horoscope-which-zodiac-sign-is-auspicious-which-is-average\n\n7. कर्णालीमा पाँच हजार प्रहरी परिचालन गरिने\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/598306/five-thousand-police-officers-to-be-mobilized-in-karnali\n\n8. बिहान ७ बजेबाट मतदान सुरु हुँदै\nस्रोत: Baahrakhari\nhttps://baahrakhari.com/detail/504320\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. कांग्रेस महाधिवेशनः दुई घण्टामा १ हजार २९३ मत खस्यो, कुन प्रदेशबाट कति ?\nस्रोत: Kendrabindu, Gorkhapatra Online\nhttps://kendrabindu.com/politics/562681/\n\n2. मध्यावधि चुनावअघि इरानमा आक्रमण नगर्ने ट्रम्पको घोषणा\nस्रोत: Ratopati, Gorkhapatra Online\nhttps://www.ratopati.com/story/598355/trump-announces-no-attack-on-iran-before-midterm-elections\n\n3. कांग्रेस महाधिवेशन : दुई घण्टामा एक हजार २९३ मत खस्यो\nस्रोत: Baahrakhari, Ratopati\nhttps://baahrakhari.com/detail/504343\n\n4. उखु किसानलाई एक अर्ब ५० करोड अनुदान\nस्रोत: OnlineKhabar, Khabarhub\nhttps://www.onlinekhabar.com/2026/10/2035622/1-5-billion-rupees-in-grant-to-sugarcane-farmers\n\n5. अमेरिकी मध्यावधि निर्वाचनअघि इरानमाथि आक्रमण नगर्ने ट्रम्पको घोषणा\nस्रोत: Kendrabindu, OnlineKhabar\nhttps://kendrabindu.com/world/562673/\n\n6. रसुवा बाढीबाट भएको क्षतिको एकीकृत प्रतिवेदन पेस\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/226027\n\n7. अफगानिस्तानमा पोसाकसम्बन्धी नियम उल्लंघनको आरोपमा ५२ महिला पक्राउ\nस्रोत: Kendrabindu, Baahrakhari\nhttps://kendrabindu.com/world/562667/\n\n8. शिक्षकलाई सवारी किन्न सरकारले ब्याज तिरिदिने, मावि प्रथमलाई ५० लाख र द्वितीयलाई ४० लाखसम्म\nस्रोत: Ratopati, OnlineKhabar\nhttps://www.ratopati.com/story/598326/the-government-will-pay-interest-on-the-purchase-of-vehicles-for-teachers-up-to-5-million-for-secondary-school-first-and-4-million-for-secondary-school-second\n\n— I Am From Hetauda"
 }
