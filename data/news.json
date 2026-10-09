@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T18:23:04.601764+00:00",
+  "updated_at": "2026-10-09T22:49:45.724198+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -32,9 +32,46 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 138.6,
+      "score": 120.8,
       "story_size": 3,
       "image_local": "images/news_e6c076915661b0aac93a.jpg"
+    },
+    {
+      "title": "कांग्रेस सभापति पदको गणना थालियो, बागमती र सुदूरपश्चिमबाट सुरु",
+      "link": "https://www.onlinekhabar.com/2026/10/2036179/counting-for-the-post-of-congress-president-begins-starting-from-bagmati-and-sudurpaschim",
+      "description": "कांग्रेस सभापति पदका उम्मेदवारहरूको मतगणना राष्ट्रिय सभागृहमा सुरु भएको हो । सभापतिमा गगन थापा र श्यामकृष्ण खड्गी उम्मेदवार छन् ।",
+      "published": "2026-10-09T19:59:31+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "92aa0eb5e0c453bb",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 116.7,
+      "story_size": 1
+    },
+    {
+      "title": "त्रिभुवन राजपथमा सवारी आवागमनको नयाँ समय तालिका लागू",
+      "link": "https://www.ratopati.com/story/598529/new-traffic-schedule-implemented-on-tribhuvan-highway",
+      "description": "हेटौँडा । काठमाडौँ सडकखण्ड पहिरोका कारण पूर्ण रूपमा अवरुद्ध भएपछि जिल्ला प्रशासन कार्यालय मकवानपुरले त्रिभुवन राजपथमा सवारी आवागमन व्यवस्थित गर्न नयाँ समय तालिका निर्धारण गरेको छ । प्रशासकीय अधिकृत सन्तोष सुवेदीले मुग्लिङ–काठमाडौँ सडक अवरुद्ध भएपछि",
+      "published": "2026-10-09T18:28:37+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/tribhuwan-rajpath_7hqehm5sDM.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "31535f1ac3df95d6",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 113.6,
+      "story_size": 1,
+      "image_local": "images/news_217e7b37e5d315ef1ef1.jpg"
     },
     {
       "title": "सवारी साधनको ठक्करबाट एक जनाको मृत्यु",
@@ -52,9 +89,66 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 130.1,
+      "score": 112.3,
       "story_size": 2,
       "image_local": "images/news_ba026176e91072834ed4.jpg"
+    },
+    {
+      "title": "चितवन मेडिकल कलेजद्वारा स्वयंसेविकालाई स्तन क्यान्सर सम्बन्धी प्रशिक्षण",
+      "link": "https://www.ratopati.com/story/598535/chitwan-medical-college-provides-training-to-volunteers-on-breast-cancer",
+      "description": "चितवन । चितवन मेडिकल कलेज (सिएमसी) शिक्षण अस्पतालको भगिनी संस्था सिएमसी क्यान्सर इन्स्टिच्यूटले भरतपुर महानगर भित्रका स्वास्थ्य स्वयंसेविकाहरूलाई स्तन क्यान्सर सम्बन्धी सचेतना प्रदान गरेको छ । महानगरका वडा नं. १ देखि २९ सम्मका दुई सय",
+      "published": "2026-10-09T22:34:06+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/6xfwersk3g.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "a41cfc35a1e28cf0",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.0,
+      "story_size": 1,
+      "image_local": "images/news_044e7a571a4dc7e2e3c8.jpg"
+    },
+    {
+      "title": "आरन पेसालाई आयआर्जनको माध्यम बनाउँदै चक्रबहादुर",
+      "link": "https://www.ratopati.com/story/598534/chakra-bahadur-turning-his-profession-into-a-means-of-earning-income",
+      "description": "धनगढी । कञ्चनपुरको कृष्णपुर नगरपालिका–७ कलवपुरका चक्रबहादुर विकले विगत लामो समयदेखि धनगढी उपमहानगरपालिका–३ विशालनगरस्थित सडक छेउमै आरन पेसा गर्दै आएका छन् । आफ्ना बाउबाजेको पालादेखिको पुर्ख्यौली पेसालाई उनले निरन्तरता दिँदै आएका छन् । केही वर्षअघि कमजोर",
+      "published": "2026-10-09T22:20:34+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://rpcdn.ratopati.com/media/albums/arane_dai_XXXK6xgDlR.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "5c63585d06a109f1",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.1,
+      "story_size": 1,
+      "image_local": "images/news_ddb8f70443c5b5800260.jpg"
+    },
+    {
+      "title": "आश्विन कृष्ण औँसी: सोह्र श्राद्ध समापन गरिँदै",
+      "link": "https://www.ratopati.com/story/598533/ashwin-krishna-aunsi-sixteen-shraddhas-are-being-concluded",
+      "description": "काठमाडौँ । आश्विन कृष्ण प्रतिपदादेखि सुरु भएको पितृ पक्ष आज अपराह्नकालमा दिवंगत पितृका नाममा तर्पण, सिदादान र पिण्डदान गरी समापन गरिँदै छ । आश्विन कृष्ण प्रतिपदादेखि सुरु हुने पितृ पक्ष आश्विन कृष्ण आमावास्याका दिन दिवंगत पितृका",
+      "published": "2026-10-09T22:15:52+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/sradhha-16sradh_wrf2vw1zdi_Bh22kqe0ZR.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "5e63473f49085118",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.7,
+      "story_size": 1,
+      "image_local": "images/news_a4b2864350e544b127e3.jpg"
     },
     {
       "title": "चाडपर्वमा यात्रु ठग्नेलाई कारबाही गर्न सभापति गजुरेलको निर्देशन",
@@ -72,9 +166,138 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 128.1,
+      "score": 110.3,
       "story_size": 2,
       "image_local": "images/news_f9434c55f0e16082980d.webp"
+    },
+    {
+      "title": "कांग्रेस १५औँ महाधिवेशन : सभापति पदको मतगणना जारी",
+      "link": "https://www.ratopati.com/story/598532/counting-of-votes-for-the-post-of-congress-president-continues",
+      "description": "नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत नयाँ कार्यसमिति चयनका लागि सम्पन्न मतदानको मतगणना जारी छ । शुक्रबारको मतदानपश्चात् शनिबार बिहानैदेखि मतपेटिका सुरक्षित रूपमा राष्ट्रिय सभा गृहमा ल्याइपुर्‍याइएको छ । वर्षा रोकिएसँगै निर्वाचन समितिले मतपेटिका संकलन गरेर शनिबार बिहान",
+      "published": "2026-10-09T21:58:28+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/congress-vote_eX9q5KJX9V.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "175b71e81c735c8f",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.6,
+      "story_size": 1,
+      "image_local": "images/news_f3ae801a09e79df5695a.webp"
+    },
+    {
+      "title": "खोटाङमा ‘नागरिक संवाद अभियान’",
+      "link": "https://www.ratopati.com/story/598531/citizen-dialogue-campaign-in-khotang",
+      "description": "खोटाङ । नागरिक, प्रशासन र प्रहरीबिचको सम्बन्धलाई सुमधुर बनाउँदै सार्वजनिक सेवा प्रवाहलाई थप प्रभावकारी बनाउन खोटाङमा ‘नागरिक संवाद, लागूपदार्थ नियन्त्रण तथा समुदाय–प्रहरी साझेदारी अभियान’ सुरु गरिएको छ । समुदायमा शान्ति सुरक्षा कायम गर्दै सभ्य समाज",
+      "published": "2026-10-09T21:49:15+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://rpcdn.ratopati.com/media/albums/khotang_deMYPrhSWV.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "0702d4e1055912e0",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.0,
+      "story_size": 1,
+      "image_local": "images/news_e8169790cdef3fbb0397.jpg"
+    },
+    {
+      "title": "कांग्रेस महाधिवेशन अपडेट : सभापतिमा कूल ४३ मत बदर, गणना जारी",
+      "link": "https://www.onlinekhabar.com/2026/10/2036186/congress-general-convention-update-a-total-of-39-votes-for-the-presidency-were-invalidated-counting-continues",
+      "description": "सभापति पदमा कूल ४३ मत बदर भएको छ । अहिले जम्मा मत गणना भइरहेको छ ।",
+      "published": "2026-10-09T21:18:27+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "c55a00ac85222f62",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 103.9,
+      "story_size": 1
+    },
+    {
+      "title": "वर्षाका कारण रोकिएको कांग्रेस सभापतिको मतगणना सुरु, खुला मञ्चबाट ल्याइयो मतपेटिका",
+      "link": "https://www.ratopati.com/story/598530/counting-of-votes-for-the-congress-president-which-was-halted-due-to-rain-begins-ballot-boxes-brought-from-the-open-platform",
+      "description": "काठमाडौँ । वर्षाका कारण केही समय प्रभावित बनेको नेपाली कांग्रेसको सभापति पदको मतगणना अन्ततः सुरु भएको छ । मौसममा सुधार आएपछि खुला मञ्चमा रहेका सम्पूर्ण मतपेटिका सुरक्षित रूपमा राष्ट्रिय सभा गृहमा ल्याइपुर्‍याइएको छ । वर्षाले गर्दा",
+      "published": "2026-10-09T19:46:57+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/congress-mat_fjl7bdtTM3.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "d25adb3b7d8baef8",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 100.8,
+      "story_size": 1,
+      "image_local": "images/news_9e5827695178ba06fc90.webp"
+    },
+    {
+      "title": "कांग्रेस महाधिवेशन : सभापतिबाहेक पदका मतपेटिका सानेपा लगिंदै",
+      "link": "https://www.onlinekhabar.com/2026/10/2036183/congress-general-convention-ballot-boxes-for-positions-other-than-the-president-are-being-taken-to-sanepa",
+      "description": "२३ असोज, काठमाडौं । नेपाली कांग्रेसको १५ औं महाधिवेशन अन्तर्गत भएको मतदान सम्पन्न भएसँगै मतगणनाको काम पनि अघि बढाइएको छ । अहिले सभापति पदका उम्मेदवारहरूको मतगणना राष्ट्रिय सभागृहमा सुरु गर्नेगरी मतपत्र गणना भइरहेको छ । सभापति बाहेकका मतपेटिका भने पार्टी कार्यालय सानेपा लगिन लागेको महाधिवेशनका लागि बनेको मिडिया सेन्टरबाट जानकारी गराइएको छ । केहीबेर अघि [&#8230;]",
+      "published": "2026-10-09T19:48:05+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "90e38e185193929c",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 97.9,
+      "story_size": 1
+    },
+    {
+      "title": "कांग्रेस महाधिवेशन : सभापतिको मतगणना सुरू",
+      "link": "https://www.setopati.com/politics/400493",
+      "description": "",
+      "published": "2026-10-10T01:07:09+05:45",
+      "source": "Setopati",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "767bb260d8dd0e64",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 96.2,
+      "story_size": 1
+    },
+    {
+      "title": "कांग्रेस महाधिवेशन : सभापति पदको गणना थाल्ने तयारी, मटपेटिका सभागृह पुर्‍याइयो",
+      "link": "https://www.onlinekhabar.com/2026/10/2036175/congress-general-convention-preparations-to-begin-counting-for-the-post-of-president-clay-pots-brought-to-the-assembly-hall",
+      "description": "२३ असोज, काठमाडौं नेपाली कांग्रेसको १५ औं महाधिवेशन अन्तर्गत सभापति पदका लागि भएको मतदानको गणना सुरु गर्ने तयारी गरिएको छ । सभापति पदका उम्मेदवारहरूको मतगणना राष्ट्रिय सभागृहमा हुन लागेको हो । अहिले खुलामञ्चबाट सभापति पदको मतपेटिकाहरू सभागृहमा ल्याइएको छ । राति १० बजे नै मतदान सकिए पनि अविरल परेको वर्षाको कारण मतपेटिका संकलनमा ढिलाइ भएको [&#8230;]",
+      "published": "2026-10-09T19:11:10+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "4e0e7b3cafeb1ffc",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 95.4,
+      "story_size": 1
     },
     {
       "title": "वर्षाका कारण नेपाली कांग्रेसको सभापति पदको मतगणना प्रभावित",
@@ -91,7 +314,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.9,
+      "score": 95.1,
       "story_size": 1,
       "image_local": "images/news_633ce4cc14c2e43f6a61.webp"
     },
@@ -110,7 +333,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.5,
+      "score": 94.7,
       "story_size": 1,
       "image_local": "images/news_e6051b04792cc7059ae6.jpg"
     },
@@ -129,7 +352,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.9,
+      "score": 92.1,
       "story_size": 1,
       "image_local": "images/news_f70274a1c77eb0dce4ea.jpg"
     },
@@ -148,7 +371,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.3,
+      "score": 91.5,
       "story_size": 1
     },
     {
@@ -166,7 +389,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.0,
+      "score": 91.2,
       "story_size": 1,
       "image_local": "images/news_5c1795747b308d1b0128.webp"
     },
@@ -185,7 +408,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.4,
+      "score": 90.6,
       "story_size": 1,
       "image_local": "images/news_9e5663c3461932efe001.webp"
     },
@@ -204,7 +427,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.1,
+      "score": 90.4,
       "story_size": 1,
       "image_local": "images/news_c9c25ff2032addf4b92b.jpg"
     },
@@ -223,7 +446,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.0,
+      "score": 90.2,
       "story_size": 1,
       "image_local": "images/news_9ac062d4a728a9d98afc.webp"
     },
@@ -242,7 +465,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.5,
+      "score": 89.7,
       "story_size": 1
     },
     {
@@ -260,7 +483,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.1,
+      "score": 89.4,
       "story_size": 1
     },
     {
@@ -278,7 +501,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.8,
+      "score": 89.0,
       "story_size": 1,
       "image_local": "images/news_e260f4d7dcfdb22d4a5b.webp"
     },
@@ -297,7 +520,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.5,
+      "score": 88.8,
       "story_size": 1
     },
     {
@@ -315,7 +538,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.4,
+      "score": 88.6,
       "story_size": 1
     },
     {
@@ -333,7 +556,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.4,
+      "score": 88.6,
       "story_size": 1,
       "image_local": "images/news_dc118dc51b9562083c72.jpg"
     },
@@ -352,7 +575,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.3,
+      "score": 88.5,
       "story_size": 1
     },
     {
@@ -370,7 +593,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.5,
+      "score": 87.7,
       "story_size": 1,
       "image_local": "images/news_65c0cfa84f9b944c28f0.webp"
     },
@@ -389,28 +612,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.4,
+      "score": 87.6,
       "story_size": 1,
       "image_local": "images/news_14b7dfd878a6f89b3aa7.webp"
-    },
-    {
-      "title": "बलात्कार मुद्दामा १२ वर्ष कैद तोकिएका फरार प्रतिवादी पक्राउ",
-      "link": "https://www.ratopati.com/story/598516/absconding-defendant-sentenced-to-12-years-in-prison-in-rape-case-arrested",
-      "description": "काठमाडौँ । बलात्कार मुद्दामा १२ वर्ष कैद सजाय तोकिएका फरार प्रतिवादीलाई प्रहरीले पक्राउ गरेको छ । पक्राउ पर्नेमा १९ वर्षीय किशोर छन् । उनलाई बाल अदालत भक्तपुरले १२ वर्ष कैद सजाय हुने ठहर गरेको थियो",
-      "published": "2026-10-09T16:22:44+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/pakrau-arrest_cFmetVHVbw.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "cd45e17e9c11bde3",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 105.0,
-      "story_size": 1,
-      "image_local": "images/news_80d7b1160715535fd93f.jpg"
     },
     {
       "title": "कांग्रेस महाधिवेशनमा मतदान सकियो, खस्यो ७०३९ मत",
@@ -427,8 +631,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.9,
+      "score": 87.2,
       "story_size": 1
+    },
+    {
+      "title": "बलात्कार मुद्दामा १२ वर्ष कैद तोकिएका फरार प्रतिवादी पक्राउ",
+      "link": "https://www.ratopati.com/story/598516/absconding-defendant-sentenced-to-12-years-in-prison-in-rape-case-arrested",
+      "description": "काठमाडौँ । बलात्कार मुद्दामा १२ वर्ष कैद सजाय तोकिएका फरार प्रतिवादीलाई प्रहरीले पक्राउ गरेको छ । पक्राउ पर्नेमा १९ वर्षीय किशोर छन् । उनलाई बाल अदालत भक्तपुरले १२ वर्ष कैद सजाय हुने ठहर गरेको थियो",
+      "published": "2026-10-09T16:22:44+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/pakrau-arrest_cFmetVHVbw.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "cd45e17e9c11bde3",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 87.2,
+      "story_size": 1,
+      "image_local": "images/news_80d7b1160715535fd93f.jpg"
     },
     {
       "title": "१० बजे १० समाचार : मधेसमा उकुसमुकुस, झण्डै २२ केजी अवैध सुन नेपाल भित्रियाे",
@@ -445,7 +668,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.6,
+      "score": 86.9,
       "story_size": 1,
       "image_local": "images/news_60a2c3c9cc27923bcbf4.webp"
     },
@@ -464,7 +687,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.5,
+      "score": 86.7,
       "story_size": 1
     },
     {
@@ -482,7 +705,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.4,
+      "score": 86.7,
       "story_size": 1
     },
     {
@@ -500,7 +723,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.4,
+      "score": 86.7,
       "story_size": 1,
       "image_local": "images/news_fc745aabb1d8bbf7d877.jpg"
     },
@@ -519,7 +742,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.6,
+      "score": 85.9,
       "story_size": 1,
       "image_local": "images/news_9842a063f9a3f9de7191.webp"
     },
@@ -538,7 +761,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.5,
+      "score": 85.7,
       "story_size": 1,
       "image_local": "images/news_ac3541c383d467c289e8.jpg"
     },
@@ -557,7 +780,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.5,
+      "score": 85.7,
       "story_size": 1,
       "image_local": "images/news_a3aff2c1b97b37020ff9.webp"
     },
@@ -576,7 +799,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.2,
+      "score": 85.5,
       "story_size": 1,
       "image_local": "images/news_ae54b4f6f64b9894fe35.webp"
     },
@@ -595,7 +818,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.1,
+      "score": 85.3,
       "story_size": 1,
       "image_local": "images/news_12f36198855216f4cd72.webp"
     },
@@ -614,7 +837,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.0,
+      "score": 85.2,
       "story_size": 1,
       "image_local": "images/news_e2f1516a94022f92b12d.jpg"
     },
@@ -633,7 +856,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.9,
+      "score": 85.1,
       "story_size": 1,
       "image_local": "images/news_86d048ea845682a1de31.webp"
     },
@@ -652,7 +875,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.8,
+      "score": 85.0,
       "story_size": 1
     },
     {
@@ -670,7 +893,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.6,
+      "score": 84.8,
       "story_size": 1
     },
     {
@@ -688,7 +911,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.4,
+      "score": 84.6,
       "story_size": 1,
       "image_local": "images/news_6811d1a11f57cb8c473a.webp"
     },
@@ -707,27 +930,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.1,
+      "score": 84.3,
       "story_size": 1
-    },
-    {
-      "title": "दसौँ राष्ट्रिय खेलकुदको तयारी : राखेप सदस्य सचिवद्वारा प्रदेश सदस्य सचिवहरूसँग छलफल",
-      "link": "https://www.ratopati.com/story/598506/preparations-for-the-10th-national-games-nsc-member-secretary-discusses-with-provincial-member-secretaries",
-      "description": "कर्णाली प्रदेशमा आयोजना हुने दसौँ राष्ट्रिय खेलकुदको तयारीका विषयमा राष्ट्रिय खेलकुद परिषद् (राखेप) का सदस्य–सचिव रामचरित्र मेहताले प्रदेश खेलकुदका सदस्य–सचिवहरूसँग शुक्रबार छलफल गरेका छन्। छलफलका क्रममा खेलाडी छनोटका साथै दसौँ राष्ट्रिय खेलकुदको समग्र तयारीका विषयमा विचार–विमर्श",
-      "published": "2026-10-09T15:39:21+00:00",
-      "source": "Ratopati",
-      "category": "sports",
-      "image": "https://npcdn.ratopati.com/media/news/3_mTwSDM6g2b.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "adeb50b4e0165b43",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 102.1,
-      "story_size": 1,
-      "image_local": "images/news_42c4ce5aba9b0f7b4da5.webp"
     },
     {
       "title": "आइतबारदेखि उपत्यकाका छ स्थानमा १३ कम्पनीको ग्यास साटफेर गर्न पाइने",
@@ -744,46 +948,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.0,
+      "score": 84.2,
       "story_size": 1
-    },
-    {
-      "title": "कांग्रेसको १५औँ महाधिवेशन : मतदान जारी, मतगणना अनिश्चित",
-      "link": "https://www.ratopati.com/story/598505/15th-general-convention-of-nepali-congress-voting-underway",
-      "description": "काठमाडौँ। नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत नयाँ पदाधिकारी चयनका लागि राष्ट्रिय सभागृह र खुलामञ्चमा मतदान जारी छ। निर्वाचन समितिका अनुसार मतदान सम्पन्न हुन अझै करिब आधा घण्टा लाग्ने अनुमान छ। मतदान सकिएपछि दुवै मतदान स्थलका मतपेटिका राष्ट्रिय",
-      "published": "2026-10-09T15:37:15+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/congress-matdan-10_8di6Pr7adX.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "755396d7b399f9e2",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 102.0,
-      "story_size": 1,
-      "image_local": "images/news_19aa3862926d2c15aaa1.webp"
-    },
-    {
-      "title": "जापानमा हुने पारा एसियाली खेलकुदका लागि नेपाली टोलीको बिदाइ",
-      "link": "https://www.ratopati.com/story/598504/nepali-team-bids-farewell-to-paralympic-games-in-japan",
-      "description": "काठमाडौँ । जापानमा आयोजना हुने पाँचौँ एसियाली पारा खेलकुदमा सहभागी हुने नेपाली टोलीलाई शुक्रबार बिदाइ गरिएको छ। राष्ट्रिय खेलकुद परिषद् (राखेप) का सदस्य–सचिव रामचरित्र मेहता र सदस्य मोनालिसा खम्बुले त्रिपुरेश्वरस्थित राखेप भवनमा टोलीलाई सफलताको शुभकामना",
-      "published": "2026-10-09T15:34:17+00:00",
-      "source": "Ratopati",
-      "category": "sports",
-      "image": "https://npcdn.ratopati.com/media/news/1_eASOJQydqb.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "3661ae7e80e36e11",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 101.8,
-      "story_size": 1,
-      "image_local": "images/news_9c34bc675e9fd1a46757.webp"
     },
     {
       "title": "धान पाकेपछि सल्यानका फाँट पहेँलपुर (तस्वीरहरू)",
@@ -800,7 +966,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.7,
+      "score": 83.9,
       "story_size": 1
     },
     {
@@ -818,7 +984,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.5,
+      "score": 83.8,
       "story_size": 1
     },
     {
@@ -836,46 +1002,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.5,
+      "score": 83.7,
       "story_size": 1
-    },
-    {
-      "title": "फिल्म अन्धपथको नाममा ठग्ने एक जना कारागार चलान",
-      "link": "https://www.ratopati.com/story/598502/a-man-who-cheated-in-the-name-of-the-under-production-film-andhapath-has-been-jailed",
-      "description": "काठमाडौँ। निर्माणाधीन फिल्म अन्धपथको नाममा ठगी भएको खुलेको छ। सुटिङको लागी अमेरिका लैजाने प्रलोभन देखाएर ठगेको जाहेरी परेपछि प्रहरीले त्यसबारे अनुसन्धान गरेको थियो । बाँकेस्थित इलाका प्रहरी कार्यालय कोहलपुरमा ३० लाख ३५ हजार ठगी भएको",
-      "published": "2026-10-09T15:30:57+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/andhapaath-623-2083-1_9NQDESEyd8.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "c1eb44b9768a4906",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 101.5,
-      "story_size": 1,
-      "image_local": "images/news_539d56eca4de34f9487a.webp"
-    },
-    {
-      "title": "वृद्ध महिलाको तिलहरी लुटपाट गर्ने पक्राउ",
-      "link": "https://www.ratopati.com/story/598503/elderly-womans-tilhari-robbery-suspect-arrested",
-      "description": "काठमाडौँ । काठमाडौँको गोकर्णेश्वर नगरपालिका–८, माकलबारीमा वृद्ध महिलाको घाँटीबाट सुनको तिलहरी लुटपाट गर्ने एक युवकलाई प्रहरीले पक्राउ गरेको छ। बुधबार दिउँसो आफ्नै घरअगाडि उभिएकी वृद्ध महिलाको घाँटीमा रहेको अन्दाजी ४ आनाको सुनको तिलहरी लुटपाट गरी एक",
-      "published": "2026-10-09T15:30:18+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/843190880_2085396015429952_6984502343378605951_n_7To5ZaJpfa.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "764d58b94d7e4631",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 101.5,
-      "story_size": 1,
-      "image_local": "images/news_1294b7c43255d03b0d32.webp"
     },
     {
       "title": "इरानमाथि आक्रमण नगर्ने ट्रम्पको अभिव्यक्तिपछि तेलको मूल्य घट्यो",
@@ -892,7 +1020,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.4,
+      "score": 83.6,
       "story_size": 1
     },
     {
@@ -910,7 +1038,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.4,
+      "score": 83.6,
       "story_size": 1
     },
     {
@@ -928,7 +1056,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.4,
+      "score": 83.6,
       "story_size": 1,
       "image_local": "images/news_c595321ab1c83d43661f.jpg"
     },
@@ -947,7 +1075,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.3,
+      "score": 83.5,
       "story_size": 1
     },
     {
@@ -965,7 +1093,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.2,
+      "score": 83.5,
       "story_size": 1
     },
     {
@@ -983,7 +1111,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.2,
+      "score": 83.4,
+      "story_size": 1
+    },
+    {
+      "title": "ककरोच पार्टीले भन्यो- भोलि इतिहास रच्नेछौं",
+      "link": "https://www.onlinekhabar.com/2026/10/2036145/the-cockroach-party-said-we-will-make-history-tomorrow",
+      "description": "सीजेपीले मुख्य निर्वाचन आयुक्त ज्ञानेश कुमारको राजीनामा माग्दै भोलिबाट दिल्लीको जन्तरमन्तरमा प्रदर्शन गर्ने घोषणा गरेको छ ।",
+      "published": "2026-10-09T16:10:08+00:00",
+      "source": "OnlineKhabar",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "bfdae095a5fe6042",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 83.4,
       "story_size": 1
     },
     {
@@ -1001,27 +1147,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.2,
+      "score": 83.4,
       "story_size": 1,
       "image_local": "images/news_79bc215eafa97bcef1bb.jpg"
-    },
-    {
-      "title": "ककरोच पार्टीले भन्यो- भोलि इतिहास रच्नेछौं",
-      "link": "https://www.onlinekhabar.com/2026/10/2036145/the-cockroach-party-said-we-will-make-history-tomorrow",
-      "description": "सीजेपीले मुख्य निर्वाचन आयुक्त ज्ञानेश कुमारको राजीनामा माग्दै भोलिबाट दिल्लीको जन्तरमन्तरमा प्रदर्शन गर्ने घोषणा गरेको छ ।",
-      "published": "2026-10-09T16:10:08+00:00",
-      "source": "OnlineKhabar",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "bfdae095a5fe6042",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 101.1,
-      "story_size": 1
     },
     {
       "title": "तोकिएका म्यानपावरबाहेक अरूबाट श्रमिक नलैजाने मलेसियाको जवाफ",
@@ -1038,7 +1166,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.1,
+      "score": 83.3,
       "story_size": 1
     },
     {
@@ -1056,7 +1184,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.1,
+      "score": 83.3,
       "story_size": 1
     },
     {
@@ -1074,7 +1202,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.0,
+      "score": 83.2,
       "story_size": 1
     },
     {
@@ -1092,7 +1220,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.0,
+      "score": 83.2,
       "story_size": 1
     },
     {
@@ -1110,46 +1238,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.9,
+      "score": 83.2,
       "story_size": 1
-    },
-    {
-      "title": "नयाँ को : कांग्रेस कि गगन ?",
-      "link": "https://www.ratopati.com/story/598501/who-is-new-congress-or-gagan",
-      "description": "‘बदलियौँ कांग्रेस, बदल्छौँ देश’ भन्ने नारासहित यतिबेला काठमाडौँमा नेपाली कांग्रेसको महाधिवेशन चलिरहेको छ । सात दशकदेखि पार्टीभित्रको सत्ता, नेतृत्व र राजनीतिक संस्कार बदल्न नसकेको कांग्रेस आज गगन थापा आउँदैमा कसरी नयाँ भयो ? कसरी कांग्रेस बदलियो",
-      "published": "2026-10-09T15:21:35+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/gagan-thapa_oHdJVu5I3l.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "b0ea2124ea60a1fb",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 100.9,
-      "story_size": 1,
-      "image_local": "images/news_6a4c99932a1d07b0283c.jpg"
-    },
-    {
-      "title": "एआईजी वंशीराज दाहाल : चोलेन्द्र भेटेपछि निलम्बन, इनमसँग सम्पर्क देखिएपछि बर्खास्त",
-      "link": "https://www.ratopati.com/story/598500/aig-banshiraj-dahal-suspended-after-meeting-cholendra-dismissed-after-contact-with-inam",
-      "description": "काठमाडौँ। पूर्वप्रधान न्यायाधीश चोलेन्द्र शमशेर जबरालाई प्रहरीको कार्यालयमा भेटेसँगै छानबिनको दायरामा आएका सशस्त्रका एआईजी वंशीराज दाहाल बर्खास्तीमा परेका छन् । उनलाई सशस्त्र प्रहरी सेवाबाट हटाउने निर्णय गरिएको गृह मन्त्रालयका प्रवक्ता (सहसचिव) आनन्द काफ्लेले रातोपाटीलाई बताए । गृह मन्त्रालयले",
-      "published": "2026-10-09T15:20:44+00:00",
-      "source": "Ratopati",
-      "category": "tech",
-      "image": "https://npcdn.ratopati.com/media/news/bansiraj-dahal_RodmJQn8oB.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "f1e8d4b161e0f503",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 100.9,
-      "story_size": 1,
-      "image_local": "images/news_193666f6c1fd5dd5424a.webp"
     },
     {
       "title": "फुडपार्क भेट्रान्स कप फुटसलको सेमिफाइनल समीकरण पूरा",
@@ -1166,7 +1256,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.8,
+      "score": 83.0,
       "story_size": 1
     },
     {
@@ -1184,7 +1274,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.8,
+      "score": 83.0,
       "story_size": 1
     },
     {
@@ -1202,7 +1292,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.8,
+      "score": 83.0,
       "story_size": 1
     },
     {
@@ -1220,7 +1310,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.4,
+      "score": 82.6,
       "story_size": 1
     },
     {
@@ -1238,7 +1328,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.4,
+      "score": 82.6,
       "story_size": 1
     },
     {
@@ -1256,7 +1346,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.3,
+      "score": 82.5,
       "story_size": 1,
       "image_local": "images/news_b201b03a607d7ad48764.jpg"
     },
@@ -1275,7 +1365,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.2,
+      "score": 82.4,
       "story_size": 1
     },
     {
@@ -1293,7 +1383,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.9,
+      "score": 82.1,
       "story_size": 1
     },
     {
@@ -1311,7 +1401,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.6,
+      "score": 81.8,
       "story_size": 1
     },
     {
@@ -1329,7 +1419,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.4,
+      "score": 81.6,
       "story_size": 1,
       "image_local": "images/news_7a3f2ef9ac632119ddd9.jpg"
     },
@@ -1348,7 +1438,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.2,
+      "score": 81.5,
       "story_size": 1
     },
     {
@@ -1366,7 +1456,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.1,
+      "score": 81.3,
       "story_size": 1
     },
     {
@@ -1384,7 +1474,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.1,
+      "score": 81.3,
       "story_size": 1
     },
     {
@@ -1402,7 +1492,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.0,
+      "score": 81.3,
       "story_size": 1
     },
     {
@@ -1420,7 +1510,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.7,
+      "score": 80.9,
       "story_size": 1
     },
     {
@@ -1438,9 +1528,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.6,
-      "story_size": 1,
-      "image_local": "images/news_3dbc35520e05844f03ec.jpg"
+      "score": 80.8,
+      "story_size": 1
     },
     {
       "title": "आचरण विपरीतका कार्य गर्ने हरेक प्रहरी कर्मचारीको निगरानी भइरहेको छ : गृह मन्त्रालय",
@@ -1457,7 +1546,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.5,
+      "score": 80.7,
       "story_size": 1
     },
     {
@@ -1475,7 +1564,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.4,
+      "score": 80.6,
       "story_size": 1
     },
     {
@@ -1493,7 +1582,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.4,
+      "score": 80.6,
       "story_size": 1
     },
     {
@@ -1511,7 +1600,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.4,
+      "score": 80.6,
       "story_size": 1
     },
     {
@@ -1529,7 +1618,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.3,
+      "score": 80.5,
       "story_size": 1
     },
     {
@@ -1547,7 +1636,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.1,
+      "score": 80.3,
       "story_size": 1
     },
     {
@@ -1565,7 +1654,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.0,
+      "score": 80.2,
       "story_size": 1
     },
     {
@@ -1583,7 +1672,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.6,
+      "score": 79.8,
       "story_size": 1
     },
     {
@@ -1601,7 +1690,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.6,
+      "score": 79.8,
       "story_size": 1
     },
     {
@@ -1619,25 +1708,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.5,
-      "story_size": 1
-    },
-    {
-      "title": "बसले मोटरसाइकललाई ठक्कर दिँदा सरकारी कर्मचारीको मृत्यु",
-      "link": "https://www.setopati.com/social/400486",
-      "description": "",
-      "published": "2026-10-09T20:56:47+05:45",
-      "source": "Setopati",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Setopati"
-      ],
-      "id": "d8d25435388a739a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 97.3,
+      "score": 79.7,
       "story_size": 1
     },
     {
@@ -1655,7 +1726,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.9,
+      "score": 79.1,
       "story_size": 1
     },
     {
@@ -1673,7 +1744,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.6,
+      "score": 78.8,
       "story_size": 1
     },
     {
@@ -1691,7 +1762,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.6,
+      "score": 78.8,
       "story_size": 1
     },
     {
@@ -1709,7 +1780,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.3,
+      "score": 78.5,
       "story_size": 1
     },
     {
@@ -1727,7 +1798,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.2,
+      "score": 78.4,
       "story_size": 1
     },
     {
@@ -1745,7 +1816,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.2,
+      "score": 77.4,
       "story_size": 1
     },
     {
@@ -1763,7 +1834,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.7,
+      "score": 77.0,
       "story_size": 1
     },
     {
@@ -1781,7 +1852,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.7,
+      "score": 77.0,
       "story_size": 1
     },
     {
@@ -1799,7 +1870,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.4,
+      "score": 76.7,
       "story_size": 1
     },
     {
@@ -1817,7 +1888,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.1,
+      "score": 76.3,
       "story_size": 1
     },
     {
@@ -1835,7 +1906,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.7,
+      "score": 75.9,
       "story_size": 1
     },
     {
@@ -1853,7 +1924,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.5,
+      "score": 75.7,
       "story_size": 1
     },
     {
@@ -1871,7 +1942,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.4,
+      "score": 75.6,
       "story_size": 1
     },
     {
@@ -1889,7 +1960,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.2,
+      "score": 75.4,
       "story_size": 1
     },
     {
@@ -1907,7 +1978,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.8,
+      "score": 75.0,
       "story_size": 1
     },
     {
@@ -1925,7 +1996,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.6,
+      "score": 74.8,
       "story_size": 1
     },
     {
@@ -1943,7 +2014,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.5,
+      "score": 74.7,
       "story_size": 1
     },
     {
@@ -1961,7 +2032,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.3,
+      "score": 74.5,
       "story_size": 1
     },
     {
@@ -1979,7 +2050,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.1,
+      "score": 74.3,
       "story_size": 1
     },
     {
@@ -1997,7 +2068,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.9,
+      "score": 74.1,
       "story_size": 1
     },
     {
@@ -2015,7 +2086,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.9,
+      "score": 74.1,
       "story_size": 1
     },
     {
@@ -2033,7 +2104,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.6,
+      "score": 73.8,
       "story_size": 1
     },
     {
@@ -2051,7 +2122,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.6,
+      "score": 73.8,
       "story_size": 1
     },
     {
@@ -2069,7 +2140,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.2,
+      "score": 73.5,
       "story_size": 1
     },
     {
@@ -2087,7 +2158,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.1,
+      "score": 73.3,
       "story_size": 1
     },
     {
@@ -2105,7 +2176,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.1,
+      "score": 73.3,
       "story_size": 1
     },
     {
@@ -2123,7 +2194,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.1,
+      "score": 73.3,
       "story_size": 1
     },
     {
@@ -2141,7 +2212,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.0,
+      "score": 73.3,
       "story_size": 1
     },
     {
@@ -2159,7 +2230,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.8,
+      "score": 73.0,
       "story_size": 1
     },
     {
@@ -2177,7 +2248,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.8,
+      "score": 73.0,
       "story_size": 1
     },
     {
@@ -2195,7 +2266,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.1,
+      "score": 72.3,
       "story_size": 1
     },
     {
@@ -2213,7 +2284,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.0,
+      "score": 72.2,
       "story_size": 1
     },
     {
@@ -2231,7 +2302,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.0,
+      "score": 72.2,
       "story_size": 1
     },
     {
@@ -2249,7 +2320,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.6,
+      "score": 71.8,
       "story_size": 1
     },
     {
@@ -2267,7 +2338,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.5,
+      "score": 71.7,
       "story_size": 1
     },
     {
@@ -2285,7 +2356,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.5,
+      "score": 71.7,
       "story_size": 1
     },
     {
@@ -2303,7 +2374,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.2,
+      "score": 71.4,
       "story_size": 1
     },
     {
@@ -2321,79 +2392,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.1,
-      "story_size": 1
-    },
-    {
-      "title": "नेपाली क्रिकेट टोली लिग २ को शीर्ष चारमा नपर्ने पक्का, प्लेअफ खेल्ने",
-      "link": "https://www.onlinekhabar.com/2026/10/2035757/nepali-cricket-team-will-definitely-not-make-it-to-the-top-four-of-league-2-will-play-in-the-playoffs",
-      "description": "२३ असोज, काठमाडौं । नेपाली क्रिकेट टोली आईसीसी क्रिकेट विश्वकप २ लिग को शीर्ष ४ मा नपर्ने पक्का भएको छ । शुक्रबार भएको लिग २ अन्तर्गतको खेलमा ओमानले क्यानडालाई हराएसँगै नेपाल शीर्ष ४ मा पर्ने सम्भावना सकिएको हो । नेपालले अब सिधै विश्वकप छनोट खेल्न पाउने छैन । नेपाली टोलीले अब प्लेअफ मार्फत विश्वकप छनोटको [&#8230;]",
-      "published": "2026-10-09T12:57:58+00:00",
-      "source": "OnlineKhabar",
-      "category": "sports",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "95ac52cd8744bc3c",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 88.3,
-      "story_size": 1
-    },
-    {
-      "title": "विदेशी चिकित्सकका २८३ फाइलमाथि छानबिन गर्दै मेडिकल काउन्सिल",
-      "link": "https://www.onlinekhabar.com/2026/10/2035996/medical-council-investigating-283-files-of-foreign-doctors",
-      "description": "मन्त्रालयका अनुसार अनियमिततामा संलग्न भएको प्रमाणित भए सम्बन्धित चिकित्सकको लाइसेन्स निलम्बनदेखि खारेजीसम्मको प्रक्रिया अघि बढाउने तयारी छ ।",
-      "published": "2026-10-09T12:57:47+00:00",
-      "source": "OnlineKhabar",
-      "category": "world",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "e6314b9ff917cb2f",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 88.3,
-      "story_size": 1
-    },
-    {
-      "title": "‘बा: एक योद्धा’मा खास के छ ?",
-      "link": "https://www.onlinekhabar.com/2026/10/2035989/what-is-special-about-ba-a-warrior",
-      "description": "जीवनको गोधूलि साँझमा उभिएका एक बाको मुटुभित्र कतिवटा अशान्त आँधीबेहरी चल्छन् ? अनुहारमा मुस्कानको मुखौटा सजाएर छातीभित्र विवशताको पहाड थिच्दै सन्तानको उज्ज्वल भविष्यका लागि आफ्नो सम्पूर्ण अस्तित्व होम्ने त्यस्तै बाको कथा हो- बा: एक योद्धा । निर्देशक तथा लेखक हरि लम्सालले हरेक नेपाली घरको चुलोचौकोमा गुञ्जिरहेको उही परिचित सुस्केरा, मौन रोदन र पुस्तान्तरणको कारुणिक द्वन्द्वलाई [&#8230;]",
-      "published": "2026-10-09T12:57:32+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "02ba9e893af6df32",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 88.3,
-      "story_size": 1
-    },
-    {
-      "title": "लोकतान्त्रिक गणतन्त्रको रक्षार्थ आफू पुन: राजनीतिमा आएँ : विद्या भण्डारी",
-      "link": "https://www.onlinekhabar.com/2026/10/2035992/i-returned-to-politics-to-defend-the-democratic-republic-vidya-bhandari",
-      "description": "२३ असोज, काठमाडौं । नेकपा एमाले वरिष्ठ नेता एवं पूर्वराष्ट्रपति विद्यादेवी भण्डारीले लोकतान्त्रिक गणतन्त्रको रक्षार्थ आफू पुन: राजनीतिमा आएको बताएकी छिन् । शुक्रबार पार्टी केन्द्रीय कार्यालय च्यासलमा बसेको स्थायी कमिटी बैठकमा भण्डारीले यस्तो बताएका हुन् । भण्डारीको भनाइ उद्धृत गर्दै पार्टीकी सचिव पद्या अर्यालले भण्डारीले मुलुकमा लोकतन्त्र र संविधानप्रति खतरा मडरिएकाले पार्टीमा आबद्ध भएको जिकिर [&#8230;]",
-      "published": "2026-10-09T12:56:16+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "ac62f7ab77cd417c",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 88.2,
+      "score": 71.3,
       "story_size": 1
     },
     {
@@ -2411,7 +2410,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.2,
+      "score": 70.4,
       "story_size": 1
     },
     {
@@ -2429,25 +2428,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.7,
-      "story_size": 1
-    },
-    {
-      "title": "बाढीका कारण खाद्यान्न अभाव हुन सक्ने डर, सङ्कट टार्न के गर्न सकिएला",
-      "link": "https://www.bbc.com/nepali/listen/c34g1lgy9n8qo?at_medium=RSS&at_campaign=rss",
-      "description": "बाढी र पहिरोका कारण सडक सञ्जालमा पनि क्षति पुगेकाले सम्पूर्ण आपूर्ति प्रणालीमै अवरोध हुँदा प्रभावित क्षेत्रमा खाद्य असुरक्षाको खतरा बढेको छ।",
-      "published": "2026-10-09T11:35:04+00:00",
-      "source": "BBC Nepali",
-      "category": "society",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/730b/live/631931a0-c3d2-11f1-a64c-550be9e3c66b.jpg",
-      "related_sources": [
-        "BBC Nepali"
-      ],
-      "id": "499a8a1cf9d75b47",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 85.8,
+      "score": 69.9,
       "story_size": 1
     },
     {
@@ -2465,7 +2446,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.7,
+      "score": 68.0,
+      "story_size": 1
+    },
+    {
+      "title": "बाढीका कारण खाद्यान्न अभाव हुन सक्ने डर, सङ्कट टार्न के गर्न सकिएला",
+      "link": "https://www.bbc.com/nepali/listen/c34g1lgy9n8qo?at_medium=RSS&at_campaign=rss",
+      "description": "बाढी र पहिरोका कारण सडक सञ्जालमा पनि क्षति पुगेकाले सम्पूर्ण आपूर्ति प्रणालीमै अवरोध हुँदा प्रभावित क्षेत्रमा खाद्य असुरक्षाको खतरा बढेको छ।",
+      "published": "2026-10-09T11:35:04+00:00",
+      "source": "BBC Nepali",
+      "category": "society",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/730b/live/631931a0-c3d2-11f1-a64c-550be9e3c66b.jpg",
+      "related_sources": [
+        "BBC Nepali"
+      ],
+      "id": "499a8a1cf9d75b47",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 68.0,
       "story_size": 1
     },
     {
@@ -2483,7 +2482,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.6,
+      "score": 67.8,
       "story_size": 1
     },
     {
@@ -2501,7 +2500,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.6,
+      "score": 67.8,
       "story_size": 1
     },
     {
@@ -2519,7 +2518,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.3,
+      "score": 58.5,
       "story_size": 1
     },
     {
@@ -2537,7 +2536,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.6,
+      "score": 54.8,
       "story_size": 1
     },
     {
@@ -2555,25 +2554,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 51.5,
-      "story_size": 1
-    },
-    {
-      "title": "बाढीले बिजुली आपूर्तिमा असर, भारतमाथि 'निर्भरता झन् बढ्ने'",
-      "link": "https://www.bbc.com/nepali/articles/cm4g1w308j0do?at_medium=RSS&at_campaign=rss",
-      "description": "भदौ १० को भीषण बाढीका कारण थुप्रै जलविद्युत आयोजनामा क्षति पुगेपछि आउँदो हिउँदमा भारतबाट गरिने विद्युत् आयात गत वर्षभन्दा औसत करिब १०० मेगावाटले बढ्न सक्ने नेपाल विद्युत् प्राधिकरणले जनाएको छ।",
-      "published": "2026-10-09T01:22:58+00:00",
-      "source": "BBC Nepali",
-      "category": "society",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aa21/live/f9cea660-c2f2-11f1-a64c-550be9e3c66b.jpg",
-      "related_sources": [
-        "BBC Nepali"
-      ],
-      "id": "9b0b0dac24de5fb7",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 45.0,
+      "score": 33.7,
       "story_size": 1
     },
     {
@@ -2592,6 +2573,24 @@
       "verified": false,
       "local": true,
       "score": 28,
+      "story_size": 1
+    },
+    {
+      "title": "बाढीले बिजुली आपूर्तिमा असर, भारतमाथि 'निर्भरता झन् बढ्ने'",
+      "link": "https://www.bbc.com/nepali/articles/cm4g1w308j0do?at_medium=RSS&at_campaign=rss",
+      "description": "भदौ १० को भीषण बाढीका कारण थुप्रै जलविद्युत आयोजनामा क्षति पुगेपछि आउँदो हिउँदमा भारतबाट गरिने विद्युत् आयात गत वर्षभन्दा औसत करिब १०० मेगावाटले बढ्न सक्ने नेपाल विद्युत् प्राधिकरणले जनाएको छ।",
+      "published": "2026-10-09T01:22:58+00:00",
+      "source": "BBC Nepali",
+      "category": "society",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aa21/live/f9cea660-c2f2-11f1-a64c-550be9e3c66b.jpg",
+      "related_sources": [
+        "BBC Nepali"
+      ],
+      "id": "9b0b0dac24de5fb7",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 27.2,
       "story_size": 1
     },
     {
