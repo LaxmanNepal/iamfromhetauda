@@ -1,59 +1,101 @@
 {
   "date_np": "2026-10-09",
-  "generated_at": "2026-10-09T05:34:14.320905+00:00",
+  "generated_at": "2026-10-09T12:07:22.937488+00:00",
   "items": [
     {
-      "title": "कांग्रेस महाधिवेशनः दुई घण्टामा १ हजार २९३ मत खस्यो, कुन प्रदेशबाट कति ?",
-      "link": "https://kendrabindu.com/politics/562681/",
-      "description": "काठमाडौं । नेपाली कांग्रेसको नयाँ नेतृत्व चयनका लागि भइरहेको मतदानमा दुई घण्टामा १ हजार २९३ मत खसेको छ। बिहान ८:३० बजेदेखि १०:३० बजेसम्मको विवरणअनुसार विभिन्न प्रदेशबाट उक्त संख्यामा मत खसेको हो। मतदानको विवरणअनुसार कोशी प्रदेशबाट २२२, सुदूरपश्चिम र कर्णालीबाट २५७, लुम्बिनीबाट २०२, गण्डकीबाट १८८ र बागमती प्रदेशबाट २१७ मत खसेको छ। मतदान प्रक्रिया निर्वाध रूपमा [&#8230;]",
-      "published": "2026-10-09T05:33:36+00:00",
-      "source": "Kendrabindu",
-      "category": "politics",
-      "image": "",
+      "title": "दुई अर्धजलाशययुक्त जलविद्युत् परियोजनाको लगानी स्वीकृत",
+      "link": "https://gorkhapatraonline.com/news/226068",
+      "description": "काठमाडौँ, असोज २३ गते । प्रधानमन्त्री वालेन्द्र शाहको अध्यक्षतामा आज बसेको लगानी बोर्डको ६८औँ बैठकले दुई वटा अर्धजलाशययुक्त जलविद्युत् परियोजनाको लगानी स्वीकृत गर्ने निर्णय गरेको छ...",
+      "published": "2026-10-09T16:21:24+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "business",
+      "image": "https://gorkhapatraonline.com/storage/media/387305/conversions/SRK_6602.JPG-original.jpg",
       "related_sources": [
-        "Kendrabindu",
-        "Gorkhapatra Online"
+        "Gorkhapatra Online",
+        "Ratopati",
+        "OnlineKhabar"
       ],
-      "id": "31fb48c7521113f6",
-      "source_count": 2,
+      "id": "f1903525f270c32b",
+      "source_count": 3,
       "verified": true,
-      "local": true,
-      "score": 152.0,
-      "story_size": 2
+      "local": false,
+      "score": 141.0,
+      "story_size": 3,
+      "image_local": "images/news_2bcd54602a0008197ea9.jpg"
     },
     {
-      "title": "मध्यावधि चुनावअघि इरानमा आक्रमण नगर्ने ट्रम्पको घोषणा",
-      "link": "https://www.ratopati.com/story/598355/trump-announces-no-attack-on-iran-before-midterm-elections",
-      "description": "वासिङ्टन डीसी । अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले नोभेम्बर ३ मा हुने मध्यावधि निर्वाचनअघि इरानमाथि आक्रमण नगर्ने घोषणा गरेका छन् । उनले इरानसँग फलदायी छलफल भइरहेको बताउँदै आर्थिक र सैन्य रूपमा इरान कमजोर अवस्थामा रहेको दाबी",
-      "published": "2026-10-09T05:19:46+00:00",
+      "title": "तातोपानी–झाङ्मु र लिजी–कोराला नाका सुचारु गर्न चीनसँग समन्वय भइरहेको छ : परराष्ट्र मन्त्रालय",
+      "link": "https://www.ratopati.com/story/598464/coordination-is-underway-with-china-to-reopen-the-tatopani-zhangmu-and-liji-korala-border-crossings-ministry-of-foreign-affairs",
+      "description": "काठमाडौँ । तातोपानी–झाङ्मु र लिजी–कोराला नाका सुचारु गर्न चीन सरकारसँग आवश्यक समन्वय भइरहेको परराष्ट्र मन्त्रालयले जनाएको छ। शुक्रबार सिंहदरबारस्थित मन्त्रालयमा आयोजना गरिएको नियमित पत्रकार सम्मेलनमा सो जानकारी दिइएको हो। पत्रकार सम्मेलनमा बोल्दै मन्त्रालयका प्रवक्ता लोकबहादुर पौडेल क्षेत्रीले",
+      "published": "2026-10-09T12:04:38+00:00",
       "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/donald-trump_FzwJMStk6F.webp",
+      "category": "world",
+      "image": "https://npcdn.ratopati.com/media/news/lok-chettri_l5bypMtvxa.webp",
       "related_sources": [
         "Ratopati",
-        "Gorkhapatra Online"
+        "OnlineKhabar"
       ],
-      "id": "009168bf7fa48a59",
+      "id": "6ce2201a11f81736",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 136.1,
+      "score": 136.8,
       "story_size": 2,
-      "image_local": "images/news_152b2c72b4cdffd768bd.webp"
+      "image_local": "images/news_bb8f6dadc15ac7029755.webp"
     },
     {
-      "title": "कांग्रेस महाधिवेशन : दुई घण्टामा एक हजार २९३ मत खस्यो",
-      "link": "https://baahrakhari.com/detail/504343",
+      "title": "कांग्रेस महाधिवेशन: साँझ साढे ४ बजेसम्म ४ हजार ५७५ मत खस्यो",
+      "link": "https://gorkhapatraonline.com/news/226073",
+      "description": "काठमाडौँ, असोज २३ गते । नेपाली कांग्रेसको नयाँ नेतृत्व चयनका लागि भइरहेको मतदानमा साँझ ४ः३० बजेसम्म प्राप्त विवरणअनुसार ४ हजार ५७५ मत खसेको छ। मतदानका लागि यसअघि तोकिएको समय साँझ ५...",
+      "published": "2026-10-09T17:33:30+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "politics",
+      "image": "https://gorkhapatraonline.com/storage/media/387312/conversions/WhatsApp-Image-2026-10-09-at-10.22.38-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online",
+        "Nepal Samaya"
+      ],
+      "id": "51443aba6bc0de29",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 135.8,
+      "story_size": 2,
+      "image_local": "images/news_f5c01b01f1099cb15906.jpg"
+    },
+    {
+      "title": "कांग्रेस महाधिवेशन : फेरि थपियो मतदानको समय",
+      "link": "https://www.thahakhabar.com/detail/310097",
       "description": "",
-      "published": "2026-10-09T11:12:00+05:45",
-      "source": "Baahrakhari",
+      "published": "2026-10-09T17:11:37+05:45",
+      "source": "Thaha Khabar",
+      "category": "politics",
+      "image": "https://www.thahakhabar.com/uploads/posts/B3-1791512415.jpg",
+      "related_sources": [
+        "Thaha Khabar",
+        "OnlineKhabar"
+      ],
+      "id": "607775b14af953d2",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 134.3,
+      "story_size": 2,
+      "image_local": "images/news_f9a335a621bf6a1aee57.jpg"
+    },
+    {
+      "title": "मन्त्रिपरिषद् बैठकका चार निर्णय सार्वजनिक",
+      "link": "https://www.setopati.com/politics/400455",
+      "description": "आजको मन्त्रिपरिषद् बैठकले चारवटा निर्णय गरेको छ।",
+      "published": "2026-10-09T17:45:00+05:45",
+      "source": "Setopati",
       "category": "politics",
       "image": "",
       "related_sources": [
-        "Baahrakhari",
+        "Setopati",
         "Ratopati"
       ],
-      "id": "04115817c10f7f75",
+      "id": "60bedc908d6523b1",
       "source_count": 2,
       "verified": true,
       "local": false,
@@ -61,18 +103,38 @@
       "story_size": 2
     },
     {
-      "title": "उखु किसानलाई एक अर्ब ५० करोड अनुदान",
-      "link": "https://www.onlinekhabar.com/2026/10/2035622/1-5-billion-rupees-in-grant-to-sugarcane-farmers",
-      "description": "२३ असोज, काठमाडौं । सरकारले उखु किसानलाई रु एक अर्ब ५० करोड अनुदान प्रदान गर्ने भएको छ । कृषि, वन तथा पर्यावरणमन्त्री गीता चौधरीले उखु उत्पादक किसानलाई प्रोत्साहनस्वरूप उपलब्ध गराइने अनुदानसम्बन्धी कार्यविधि बिहीबार स्वीकृत गरेको उनको निजी सचिवालयले जनाएको छ । अनुदान रकम बर्दिया, रौतहट, कैलाली, कञ्चनपुरका किसानलाई वितरण गरिने मन्त्रालयले जनाएको छ । सरकारले [&#8230;]",
-      "published": "2026-10-09T05:09:34+00:00",
-      "source": "OnlineKhabar",
-      "category": "business",
+      "title": "कांग्रेस महाधिवेशन : मतदानको समय साँझ ७ बजेसम्म थप",
+      "link": "https://www.ratopati.com/story/598448/congress-general-convention-voting-time-extended-until-7-pm",
+      "description": "काठमाडौँ । नेपाली कांग्रेसको १५औँ महाधिवेशन अन्तर्गत नयाँ नेतृत्व चयनका लागि भइरहेको मतदानको समय साँझ ७ बजेसम्मलाई थप गरिएको छ । यसअघि ५ बजेसम्मका लागि तय भएको मतदानको समय थपेर ७ बजेसम्मका लागि सारिएको हो",
+      "published": "2026-10-09T11:01:45+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/09-nepali-congress_election-04_mv9jsktHBs.webp",
+      "related_sources": [
+        "Ratopati",
+        "OnlineKhabar"
+      ],
+      "id": "ac3288e994d7db4a",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 132.6,
+      "story_size": 2,
+      "image_local": "images/news_18e0ee56df7cf8fcb6b3.webp"
+    },
+    {
+      "title": "राष्ट्रपतिले जारी गरे विपद्सम्बन्धी अध्यादेश",
+      "link": "https://baahrakhari.com/detail/504409",
+      "description": "",
+      "published": "2026-10-09T17:28:09+05:45",
+      "source": "Baahrakhari",
+      "category": "politics",
       "image": "",
       "related_sources": [
-        "OnlineKhabar",
-        "Khabarhub"
+        "Baahrakhari",
+        "OnlineKhabar"
       ],
-      "id": "983ceba222d4ef8a",
+      "id": "1c3bcf9e312c8eb3",
       "source_count": 2,
       "verified": true,
       "local": false,
@@ -80,82 +142,24 @@
       "story_size": 2
     },
     {
-      "title": "अमेरिकी मध्यावधि निर्वाचनअघि इरानमाथि आक्रमण नगर्ने ट्रम्पको घोषणा",
-      "link": "https://kendrabindu.com/world/562673/",
-      "description": "काठमाडौं । अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले आगामी नोभेम्बर ३ मा हुने अमेरिकी मध्यावधि निर्वाचनअघि इरानमाथि कुनै पनि आक्रमण नगर्ने बताएका छन् ।इरानसँगको वार्ता सकारात्मक रूपमा अघि बढिरहेको भन्दै उनले मध्यावधि निर्वाचनअघि आक्रमण नगर्ने बताएका हुन् । ट्रम्पले आफ्नो सामाजिक सञ्जाल ट्रुथ सोसलमार्फत् यो जानकारी दिएका हुन् ।‘अमेरिकामा नोभेम्बर ३ मा हुने मध्यावधि निर्वाचनअघि हामी कुनै [&#8230;]",
-      "published": "2026-10-09T05:05:10+00:00",
-      "source": "Kendrabindu",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Kendrabindu",
-        "OnlineKhabar"
-      ],
-      "id": "8fe780e68b69ff16",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 132.1,
-      "story_size": 2
-    },
-    {
-      "title": "रसुवा बाढीबाट भएको क्षतिको एकीकृत प्रतिवेदन पेस",
-      "link": "https://gorkhapatraonline.com/news/226027",
-      "description": "हेटौँडा समाचारदाताहेटौँडा, असोज २३ गते । रसुवाको भोटेकोशीमा आएको बाढीबाट भएको मानवीय तथा भौतिक क्षतिको एकीकृत प्रतिवेदन बागमती प्रदेशका मुख्यमन्त्री किरण थापामगरसमक्ष पेस गरिएको छ ...",
-      "published": "2026-10-09T11:13:06+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "society",
-      "image": "https://gorkhapatraonline.com/storage/media/387257/conversions/Untitled-1-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "7544fb133db5bcdf",
-      "source_count": 1,
-      "verified": false,
-      "local": true,
-      "score": 130.6,
-      "story_size": 1,
-      "image_local": "images/news_22ed5d4e237ed3b731c0.jpg"
-    },
-    {
-      "title": "अफगानिस्तानमा पोसाकसम्बन्धी नियम उल्लंघनको आरोपमा ५२ महिला पक्राउ",
-      "link": "https://kendrabindu.com/world/562667/",
-      "description": "काठमाडौं । अफगानिस्तानका हेरात र काबुल सहरमा पोसाकसम्बन्धी नियम उल्लंघन गरेको आरोपमा कम्तीमा ५२ महिला र एक बालिका पक्राउ परेका छन् । सन् २०२६ को जुलाईदेखि सेप्टेम्बर महिनाको अवधिमा उनीहरूलाई नियन्त्रणमा लिइएको संयुक्त राष्ट्रसंघले जनाएको छ । संयुक्त राष्ट्रसंघीय सहायता मिसन (युनामा)का अनुसार, चादर नलगाएको, कपाल देखिएको, रंगीन सल वा मेकअप प्रयोग गरेको तथा पुरुष [&#8230;]",
-      "published": "2026-10-09T04:42:07+00:00",
-      "source": "Kendrabindu",
+      "title": "कात्तिक ७ देखि दुई महिने ‘राष्ट्रिय जागरण अभियान’ सञ्चालन गर्ने नेकपाको निर्णय",
+      "link": "https://khabarhub.com/2026/09/1035557/",
+      "description": "काठमाडौं&#8211; नेपाली कम्युनिष्ट पार्टी(नेकपा)ले कार्तिक ७ गतेदेखि दुई महिने ’राष्ट्रिय जागरण अभियान’ सञ्चालन गर्ने निर्णय गरेको छ । पार्टी कार्यालय पेरिसडाँडामा शुक्रबार बसेको नेकपा केन्द्रीय संयोजन समितिको बैठकले कार्तिक ७ गते देखि मंसिर २५ गतेसम्म राष्ट्रिय जागरण अभियान सञ्चालन गर्ने निर्णय गरेको हो ।&#160; महाधिवेशनको तयारी, स्थानीय तथा प्रदेश निर्वाचनको तयारी, र सरकारका जनविरोधी तथा [&#8230;]",
+      "published": "2026-10-09T11:28:42+00:00",
+      "source": "Khabarhub",
       "category": "nepal",
       "image": "",
       "related_sources": [
-        "Kendrabindu",
-        "Baahrakhari"
-      ],
-      "id": "7baa6d36a84fe40c",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 130.5,
-      "story_size": 2
-    },
-    {
-      "title": "शिक्षकलाई सवारी किन्न सरकारले ब्याज तिरिदिने, मावि प्रथमलाई ५० लाख र द्वितीयलाई ४० लाखसम्म",
-      "link": "https://www.ratopati.com/story/598326/the-government-will-pay-interest-on-the-purchase-of-vehicles-for-teachers-up-to-5-million-for-secondary-school-first-and-4-million-for-secondary-school-second",
-      "description": "काठमाडौँ । शिक्षकलाई सवारी साधन खरिदमा ब्याज सहुलियत दिने व्यवस्थासहितको शिक्षा (एघारौँ संशोधन) नियमावली, २०८३ सहमतिका लागि शिक्षा तथा खेलकुद मन्त्रालयले अर्थ मन्त्रालयमा पठाएको छ। प्रस्तावित व्यवस्थाअनुसार माध्यमिक तह प्रथम श्रेणीका शिक्षकले रु. ५० लाखसम्म र",
-      "published": "2026-10-09T02:33:49+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/education-and-sports-ministry_fN03GK47w5.jpg",
-      "related_sources": [
-        "Ratopati",
+        "Khabarhub",
         "OnlineKhabar"
       ],
-      "id": "0e9ec24f528bcad8",
+      "id": "2e6e966f327247b4",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 125.0,
-      "story_size": 2,
-      "image_local": "images/news_037e5e48f008c13be9da.jpg"
+      "score": 131.4,
+      "story_size": 2
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. कांग्रेस महाधिवेशनः दुई घण्टामा १ हजार २९३ मत खस्यो, कुन प्रदेशबाट कति ?\nस्रोत: Kendrabindu, Gorkhapatra Online\nhttps://kendrabindu.com/politics/562681/\n\n2. मध्यावधि चुनावअघि इरानमा आक्रमण नगर्ने ट्रम्पको घोषणा\nस्रोत: Ratopati, Gorkhapatra Online\nhttps://www.ratopati.com/story/598355/trump-announces-no-attack-on-iran-before-midterm-elections\n\n3. कांग्रेस महाधिवेशन : दुई घण्टामा एक हजार २९३ मत खस्यो\nस्रोत: Baahrakhari, Ratopati\nhttps://baahrakhari.com/detail/504343\n\n4. उखु किसानलाई एक अर्ब ५० करोड अनुदान\nस्रोत: OnlineKhabar, Khabarhub\nhttps://www.onlinekhabar.com/2026/10/2035622/1-5-billion-rupees-in-grant-to-sugarcane-farmers\n\n5. अमेरिकी मध्यावधि निर्वाचनअघि इरानमाथि आक्रमण नगर्ने ट्रम्पको घोषणा\nस्रोत: Kendrabindu, OnlineKhabar\nhttps://kendrabindu.com/world/562673/\n\n6. रसुवा बाढीबाट भएको क्षतिको एकीकृत प्रतिवेदन पेस\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/226027\n\n7. अफगानिस्तानमा पोसाकसम्बन्धी नियम उल्लंघनको आरोपमा ५२ महिला पक्राउ\nस्रोत: Kendrabindu, Baahrakhari\nhttps://kendrabindu.com/world/562667/\n\n8. शिक्षकलाई सवारी किन्न सरकारले ब्याज तिरिदिने, मावि प्रथमलाई ५० लाख र द्वितीयलाई ४० लाखसम्म\nस्रोत: Ratopati, OnlineKhabar\nhttps://www.ratopati.com/story/598326/the-government-will-pay-interest-on-the-purchase-of-vehicles-for-teachers-up-to-5-million-for-secondary-school-first-and-4-million-for-secondary-school-second\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. दुई अर्धजलाशययुक्त जलविद्युत् परियोजनाको लगानी स्वीकृत\nस्रोत: Gorkhapatra Online, Ratopati, OnlineKhabar\nhttps://gorkhapatraonline.com/news/226068\n\n2. तातोपानी–झाङ्मु र लिजी–कोराला नाका सुचारु गर्न चीनसँग समन्वय भइरहेको छ : परराष्ट्र मन्त्रालय\nस्रोत: Ratopati, OnlineKhabar\nhttps://www.ratopati.com/story/598464/coordination-is-underway-with-china-to-reopen-the-tatopani-zhangmu-and-liji-korala-border-crossings-ministry-of-foreign-affairs\n\n3. कांग्रेस महाधिवेशन: साँझ साढे ४ बजेसम्म ४ हजार ५७५ मत खस्यो\nस्रोत: Gorkhapatra Online, Nepal Samaya\nhttps://gorkhapatraonline.com/news/226073\n\n4. कांग्रेस महाधिवेशन : फेरि थपियो मतदानको समय\nस्रोत: Thaha Khabar, OnlineKhabar\nhttps://www.thahakhabar.com/detail/310097\n\n5. मन्त्रिपरिषद् बैठकका चार निर्णय सार्वजनिक\nस्रोत: Setopati, Ratopati\nhttps://www.setopati.com/politics/400455\n\n6. कांग्रेस महाधिवेशन : मतदानको समय साँझ ७ बजेसम्म थप\nस्रोत: Ratopati, OnlineKhabar\nhttps://www.ratopati.com/story/598448/congress-general-convention-voting-time-extended-until-7-pm\n\n7. राष्ट्रपतिले जारी गरे विपद्सम्बन्धी अध्यादेश\nस्रोत: Baahrakhari, OnlineKhabar\nhttps://baahrakhari.com/detail/504409\n\n8. कात्तिक ७ देखि दुई महिने ‘राष्ट्रिय जागरण अभियान’ सञ्चालन गर्ने नेकपाको निर्णय\nस्रोत: Khabarhub, OnlineKhabar\nhttps://khabarhub.com/2026/09/1035557/\n\n— I Am From Hetauda"
 }
