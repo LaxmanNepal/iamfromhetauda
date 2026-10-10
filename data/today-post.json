@@ -1,23 +1,64 @@
 {
   "date_np": "2026-10-10",
-  "generated_at": "2026-10-09T22:49:45.726090+00:00",
+  "generated_at": "2026-10-10T02:12:39.714288+00:00",
   "items": [
     {
-      "title": "कांग्रेस सभापति पदको गणना थालियो, बागमती र सुदूरपश्चिमबाट सुरु",
-      "link": "https://www.onlinekhabar.com/2026/10/2036179/counting-for-the-post-of-congress-president-begins-starting-from-bagmati-and-sudurpaschim",
-      "description": "कांग्रेस सभापति पदका उम्मेदवारहरूको मतगणना राष्ट्रिय सभागृहमा सुरु भएको हो । सभापतिमा गगन थापा र श्यामकृष्ण खड्गी उम्मेदवार छन् ।",
-      "published": "2026-10-09T19:59:31+00:00",
-      "source": "OnlineKhabar",
+      "title": "आश्विन कृष्ण औंसी, सोह्र श्राद्ध समापन गरिँदै",
+      "link": "https://www.setopati.com/social/400498",
+      "description": "आश्विन शुक्ल प्रतिपदाका दिन गरिने मातामह (आमाको बा)को श्राद्ध भने आइतबार गरिन्छ।",
+      "published": "2026-10-10T07:47:05+05:45",
+      "source": "Setopati",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Setopati",
+        "Khabarhub",
+        "OnlineKhabar",
+        "Ratopati"
+      ],
+      "id": "137155da7b8cbdcf",
+      "source_count": 4,
+      "verified": true,
+      "local": false,
+      "score": 153.3,
+      "story_size": 4
+    },
+    {
+      "title": "परराष्ट्रमन्त्री खनाल र अष्ट्रेलियाका गभर्नर–जनरल मोस्टिनबीच भेटवार्ता",
+      "link": "https://www.thahakhabar.com/detail/310112",
+      "description": "",
+      "published": "2026-10-10T07:45:10+05:45",
+      "source": "Thaha Khabar",
+      "category": "politics",
+      "image": "https://www.thahakhabar.com/uploads/posts/Sishir-1791597595.jpg",
+      "related_sources": [
+        "Thaha Khabar",
+        "Ratopati"
+      ],
+      "id": "8ebdaafa2abbb3a2",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 136.2,
+      "story_size": 2,
+      "image_local": "images/news_ee1879fd605e6386e764.jpg"
+    },
+    {
+      "title": "मुग्लिन मलेखु सडक बन्दले त्रिभुवन राजपथमा सवारी चाप, यस्तो छ समयतालिका",
+      "link": "https://kendrabindu.com/news/562840/",
+      "description": "हेटौँडा । मुग्लिन–काठमाडौं सडकखण्ड पहिरोका कारण पूर्ण रूपमा अवरुद्ध भएपछि जिल्ला प्रशासन कार्यालय मकवानपुरले त्रिभुवन राजपथमा सवारी आवागमन व्यवस्थित गर्न नयाँ समयतालिका निर्धारण गरेको छ । प्रशासकीय अधिकृत सन्तोष सुवेदीले मुग्लिन–काठमाडौँ सडक अवरुद्ध भएपछि वैकल्पिक मार्गमा बढ्न सक्ने सवारी चापलाई ध्यानमा राख्दै त्रिभुवन राजपथमा आलोपालो प्रणाली लागू गरिएको जानकारी दिए । उनका अनुसार हेटौँडाबाट काठमाडौँ [&#8230;]",
+      "published": "2026-10-10T01:45:30+00:00",
+      "source": "Kendrabindu",
       "category": "politics",
       "image": "",
       "related_sources": [
-        "OnlineKhabar"
+        "Kendrabindu"
       ],
-      "id": "92aa0eb5e0c453bb",
+      "id": "32a0806983487067",
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 116.7,
+      "score": 126.2,
       "story_size": 1
     },
     {
@@ -29,129 +70,91 @@
       "category": "nepal",
       "image": "https://npcdn.ratopati.com/media/news/tribhuwan-rajpath_7hqehm5sDM.jpg",
       "related_sources": [
-        "Ratopati"
+        "Ratopati",
+        "Lokaantar"
       ],
       "id": "31535f1ac3df95d6",
-      "source_count": 1,
-      "verified": false,
+      "source_count": 2,
+      "verified": true,
       "local": true,
-      "score": 113.6,
-      "story_size": 1,
+      "score": 124.1,
+      "story_size": 2,
       "image_local": "images/news_217e7b37e5d315ef1ef1.jpg"
     },
     {
-      "title": "चितवन मेडिकल कलेजद्वारा स्वयंसेविकालाई स्तन क्यान्सर सम्बन्धी प्रशिक्षण",
-      "link": "https://www.ratopati.com/story/598535/chitwan-medical-college-provides-training-to-volunteers-on-breast-cancer",
-      "description": "चितवन । चितवन मेडिकल कलेज (सिएमसी) शिक्षण अस्पतालको भगिनी संस्था सिएमसी क्यान्सर इन्स्टिच्यूटले भरतपुर महानगर भित्रका स्वास्थ्य स्वयंसेविकाहरूलाई स्तन क्यान्सर सम्बन्धी सचेतना प्रदान गरेको छ । महानगरका वडा नं. १ देखि २९ सम्मका दुई सय",
-      "published": "2026-10-09T22:34:06+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/6xfwersk3g.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "a41cfc35a1e28cf0",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 112.0,
-      "story_size": 1,
-      "image_local": "images/news_044e7a571a4dc7e2e3c8.jpg"
-    },
-    {
-      "title": "आरन पेसालाई आयआर्जनको माध्यम बनाउँदै चक्रबहादुर",
-      "link": "https://www.ratopati.com/story/598534/chakra-bahadur-turning-his-profession-into-a-means-of-earning-income",
-      "description": "धनगढी । कञ्चनपुरको कृष्णपुर नगरपालिका–७ कलवपुरका चक्रबहादुर विकले विगत लामो समयदेखि धनगढी उपमहानगरपालिका–३ विशालनगरस्थित सडक छेउमै आरन पेसा गर्दै आएका छन् । आफ्ना बाउबाजेको पालादेखिको पुर्ख्यौली पेसालाई उनले निरन्तरता दिँदै आएका छन् । केही वर्षअघि कमजोर",
-      "published": "2026-10-09T22:20:34+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://rpcdn.ratopati.com/media/albums/arane_dai_XXXK6xgDlR.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "5c63585d06a109f1",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 111.1,
-      "story_size": 1,
-      "image_local": "images/news_ddb8f70443c5b5800260.jpg"
-    },
-    {
-      "title": "आश्विन कृष्ण औँसी: सोह्र श्राद्ध समापन गरिँदै",
-      "link": "https://www.ratopati.com/story/598533/ashwin-krishna-aunsi-sixteen-shraddhas-are-being-concluded",
-      "description": "काठमाडौँ । आश्विन कृष्ण प्रतिपदादेखि सुरु भएको पितृ पक्ष आज अपराह्नकालमा दिवंगत पितृका नाममा तर्पण, सिदादान र पिण्डदान गरी समापन गरिँदै छ । आश्विन कृष्ण प्रतिपदादेखि सुरु हुने पितृ पक्ष आश्विन कृष्ण आमावास्याका दिन दिवंगत पितृका",
-      "published": "2026-10-09T22:15:52+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/sradhha-16sradh_wrf2vw1zdi_Bh22kqe0ZR.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "5e63473f49085118",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 110.7,
-      "story_size": 1,
-      "image_local": "images/news_a4b2864350e544b127e3.jpg"
-    },
-    {
-      "title": "कांग्रेस १५औँ महाधिवेशन : सभापति पदको मतगणना जारी",
-      "link": "https://www.ratopati.com/story/598532/counting-of-votes-for-the-post-of-congress-president-continues",
-      "description": "नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत नयाँ कार्यसमिति चयनका लागि सम्पन्न मतदानको मतगणना जारी छ । शुक्रबारको मतदानपश्चात् शनिबार बिहानैदेखि मतपेटिका सुरक्षित रूपमा राष्ट्रिय सभा गृहमा ल्याइपुर्‍याइएको छ । वर्षा रोकिएसँगै निर्वाचन समितिले मतपेटिका संकलन गरेर शनिबार बिहान",
-      "published": "2026-10-09T21:58:28+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/congress-vote_eX9q5KJX9V.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "175b71e81c735c8f",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.6,
-      "story_size": 1,
-      "image_local": "images/news_f3ae801a09e79df5695a.webp"
-    },
-    {
-      "title": "खोटाङमा ‘नागरिक संवाद अभियान’",
-      "link": "https://www.ratopati.com/story/598531/citizen-dialogue-campaign-in-khotang",
-      "description": "खोटाङ । नागरिक, प्रशासन र प्रहरीबिचको सम्बन्धलाई सुमधुर बनाउँदै सार्वजनिक सेवा प्रवाहलाई थप प्रभावकारी बनाउन खोटाङमा ‘नागरिक संवाद, लागूपदार्थ नियन्त्रण तथा समुदाय–प्रहरी साझेदारी अभियान’ सुरु गरिएको छ । समुदायमा शान्ति सुरक्षा कायम गर्दै सभ्य समाज",
-      "published": "2026-10-09T21:49:15+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://rpcdn.ratopati.com/media/albums/khotang_deMYPrhSWV.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "0702d4e1055912e0",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.0,
-      "story_size": 1,
-      "image_local": "images/news_e8169790cdef3fbb0397.jpg"
-    },
-    {
-      "title": "कांग्रेस महाधिवेशन अपडेट : सभापतिमा कूल ४३ मत बदर, गणना जारी",
-      "link": "https://www.onlinekhabar.com/2026/10/2036186/congress-general-convention-update-a-total-of-39-votes-for-the-presidency-were-invalidated-counting-continues",
-      "description": "सभापति पदमा कूल ४३ मत बदर भएको छ । अहिले जम्मा मत गणना भइरहेको छ ।",
-      "published": "2026-10-09T21:18:27+00:00",
+      "title": "आज देशका केही ठाउँमा चट्याङसहित वर्षा हुने",
+      "link": "https://www.onlinekhabar.com/2026/10/2036219/rain-with-lightning-expected-in-some-parts-of-the-country-today",
+      "description": "२४ असोज, काठमाडौं । आज शनिबार कोशी, बागमती र गण्डकी प्रदेशका हिमाली तथा पहाडी भूभागका थोरै स्थानमा मेघगर्जन र चट्याङसहित मध्यमसम्मको वर्षा हुने सम्भावना छ। लुम्बिनी, कर्णाली र सुदूरपश्चिम प्रदेशका हिमाली तथा पहाडी भूभागका एक-दुई स्थानमा पनि वर्षा हुन सक्ने मौसम पूर्वानुमान छ । कोशी प्रदेशका तराई भूभागका एक-दुई स्थानमा समेत मेघगर्जन र चट्याङसहित मध्यमसम्मको [&#8230;]",
+      "published": "2026-10-10T01:12:09+00:00",
       "source": "OnlineKhabar",
-      "category": "politics",
+      "category": "nepal",
       "image": "",
       "related_sources": [
         "OnlineKhabar"
       ],
-      "id": "c55a00ac85222f62",
+      "id": "bb64cf3e28cc9f92",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 124.0,
+      "story_size": 1
+    },
+    {
+      "title": "मनसुनी वायुको प्रभाव कायमै, यी भूभागमा मध्यम वर्षाको सम्भावना",
+      "link": "https://khabarhub.com/2026/10/1035735/",
+      "description": "काठमाडौँ– जल तथा मौसम विज्ञान विभाग मौसम पूर्वानुमान महाशाखाले हाल देशमा पश्चिमी न्यून चापीय प्रणालीका साथै मनसुनी वायुको प्रभाव रहेको जनाएको छ । महाशाखाका अनुसार अहिले बागमती, गण्डकी, र लुम्बिनी प्रदेशका केही स्थान तथा कोशी, कर्णाली र सुदूरपश्चिम प्रदेशका एकदुई स्थानमा चट्याङ्गसहित हल्का वर्षा भइरहेको छ। आज दिउँसो कोशी प्रदेशका सबै भूभाग तथा देशको हिमाली [&#8230;]",
+      "published": "2026-10-10T00:54:02+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "c5073e1f92b0d07d",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 122.8,
+      "story_size": 1
+    },
+    {
+      "title": "मालढुङ्गा पुल बन्द हुँदा दसैँको व्यापार प्रभावित, उपभोक्तालाई महँगीको मार",
+      "link": "https://gorkhapatraonline.com/news/226110",
+      "description": "नवराज नेपालीगलकोट (बागलुङ), असोज २४ गते । बागलुङलाई राष्ट्रिय सडक सञ्जालसँग जोड्ने मुख्य नाकामा रहेको मालढुङ्गा पुलको पहुँचमार्ग १३ दिनदेखि अवरुद्ध हुँदा जिल्लाको व्यापार, पर्यटन र...",
+      "published": "2026-10-10T07:55:40+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/387359/conversions/1000087584-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "d0c790f0c654a046",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.9,
-      "story_size": 1
+      "score": 112.9,
+      "story_size": 1,
+      "image_local": "images/news_8f8037978054ce498a58.jpg"
+    },
+    {
+      "title": "ट्रम्पले गरे रुसबाट डिजेल आयात गर्ने सम्झौता: जेलेन्स्कीको आपत्ति, पुटिन सशक्त हुने युरोपको चिन्ता",
+      "link": "https://www.ratopati.com/story/598549/trump-signs-deal-to-import-diesel-from-russia-zelensky-objects-europe-worries-putin-will-become-stronger",
+      "description": "वासिङ्टन । अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले रुसबाट ठूलो परिमाणमा डिजेल आयात गर्ने सम्झौता घोषणा गरेका छन् । अमेरिकामा इन्धनको मूल्य बढ्दै गएपछि त्यसलाई नियन्त्रण गर्ने दबाबमा रहेका ट्रम्पको यो निर्णयप्रति युक्रेनी राष्ट्रपति भोलोदिमिर जेलेन्स्कीले आपत्ति",
+      "published": "2026-10-10T02:09:46+00:00",
+      "source": "Ratopati",
+      "category": "world",
+      "image": "https://npcdn.ratopati.com/media/news/trump_zOeyWWKDit.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "86565684ca9b5112",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.8,
+      "story_size": 1,
+      "image_local": "images/news_a046c1d8aea4374fc43c.webp"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. कांग्रेस सभापति पदको गणना थालियो, बागमती र सुदूरपश्चिमबाट सुरु\nस्रोत: OnlineKhabar\nhttps://www.onlinekhabar.com/2026/10/2036179/counting-for-the-post-of-congress-president-begins-starting-from-bagmati-and-sudurpaschim\n\n2. त्रिभुवन राजपथमा सवारी आवागमनको नयाँ समय तालिका लागू\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/598529/new-traffic-schedule-implemented-on-tribhuvan-highway\n\n3. चितवन मेडिकल कलेजद्वारा स्वयंसेविकालाई स्तन क्यान्सर सम्बन्धी प्रशिक्षण\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/598535/chitwan-medical-college-provides-training-to-volunteers-on-breast-cancer\n\n4. आरन पेसालाई आयआर्जनको माध्यम बनाउँदै चक्रबहादुर\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/598534/chakra-bahadur-turning-his-profession-into-a-means-of-earning-income\n\n5. आश्विन कृष्ण औँसी: सोह्र श्राद्ध समापन गरिँदै\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/598533/ashwin-krishna-aunsi-sixteen-shraddhas-are-being-concluded\n\n6. कांग्रेस १५औँ महाधिवेशन : सभापति पदको मतगणना जारी\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/598532/counting-of-votes-for-the-post-of-congress-president-continues\n\n7. खोटाङमा ‘नागरिक संवाद अभियान’\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/598531/citizen-dialogue-campaign-in-khotang\n\n8. कांग्रेस महाधिवेशन अपडेट : सभापतिमा कूल ४३ मत बदर, गणना जारी\nस्रोत: OnlineKhabar\nhttps://www.onlinekhabar.com/2026/10/2036186/congress-general-convention-update-a-total-of-39-votes-for-the-presidency-were-invalidated-counting-continues\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. आश्विन कृष्ण औंसी, सोह्र श्राद्ध समापन गरिँदै\nस्रोत: Setopati, Khabarhub, OnlineKhabar\nhttps://www.setopati.com/social/400498\n\n2. परराष्ट्रमन्त्री खनाल र अष्ट्रेलियाका गभर्नर–जनरल मोस्टिनबीच भेटवार्ता\nस्रोत: Thaha Khabar, Ratopati\nhttps://www.thahakhabar.com/detail/310112\n\n3. मुग्लिन मलेखु सडक बन्दले त्रिभुवन राजपथमा सवारी चाप, यस्तो छ समयतालिका\nस्रोत: Kendrabindu\nhttps://kendrabindu.com/news/562840/\n\n4. त्रिभुवन राजपथमा सवारी आवागमनको नयाँ समय तालिका लागू\nस्रोत: Ratopati, Lokaantar\nhttps://www.ratopati.com/story/598529/new-traffic-schedule-implemented-on-tribhuvan-highway\n\n5. आज देशका केही ठाउँमा चट्याङसहित वर्षा हुने\nस्रोत: OnlineKhabar\nhttps://www.onlinekhabar.com/2026/10/2036219/rain-with-lightning-expected-in-some-parts-of-the-country-today\n\n6. मनसुनी वायुको प्रभाव कायमै, यी भूभागमा मध्यम वर्षाको सम्भावना\nस्रोत: Khabarhub\nhttps://khabarhub.com/2026/10/1035735/\n\n7. मालढुङ्गा पुल बन्द हुँदा दसैँको व्यापार प्रभावित, उपभोक्तालाई महँगीको मार\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/226110\n\n8. ट्रम्पले गरे रुसबाट डिजेल आयात गर्ने सम्झौता: जेलेन्स्कीको आपत्ति, पुटिन सशक्त हुने युरोपको चिन्ता\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/598549/trump-signs-deal-to-import-diesel-from-russia-zelensky-objects-europe-worries-putin-will-become-stronger\n\n— I Am From Hetauda"
 }
