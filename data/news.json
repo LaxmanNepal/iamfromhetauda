@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T19:11:42.917786+00:00",
+  "updated_at": "2026-10-10T22:37:29.883070+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -32,7 +32,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 134.1,
+      "score": 120.3,
       "story_size": 3
     },
     {
@@ -52,7 +52,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 133.2,
+      "score": 119.4,
       "story_size": 3,
       "image_local": "images/news_cae2c73f98453ac65aef.jpg"
     },
@@ -72,7 +72,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 127.8,
+      "score": 114.0,
       "story_size": 2,
       "image_local": "images/news_d075ccbd3b800606b996.webp"
     },
@@ -92,7 +92,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 123.6,
+      "score": 109.9,
       "story_size": 2,
       "image_local": "images/news_344f069c19ca3613281e.jpg"
     },
@@ -112,7 +112,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 123.1,
+      "score": 109.3,
       "story_size": 2
     },
     {
@@ -131,7 +131,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 120.7,
+      "score": 106.9,
       "story_size": 2,
       "image_local": "images/news_c18e2f9d8ed24b6063ad.jpg"
     },
@@ -151,7 +151,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 118.0,
+      "score": 104.3,
       "story_size": 2,
       "image_local": "images/news_a8ccb7caad7dec064e56.jpg"
     },
@@ -171,7 +171,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 117.9,
+      "score": 104.1,
       "story_size": 2
     },
     {
@@ -190,7 +190,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 113.4,
+      "score": 99.6,
       "story_size": 2
     },
     {
@@ -208,7 +208,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 111.2,
+      "score": 97.5,
       "story_size": 1,
       "image_local": "images/news_60f4cfdf45020ea64b57.webp"
     },
@@ -227,7 +227,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.4,
+      "score": 95.7,
       "story_size": 1
     },
     {
@@ -246,7 +246,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 108.9,
+      "score": 95.2,
       "story_size": 2
     },
     {
@@ -264,7 +264,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.8,
+      "score": 94.1,
       "story_size": 1,
       "image_local": "images/news_1749db76ab3214c50d84.jpg"
     },
@@ -283,7 +283,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.0,
+      "score": 93.2,
       "story_size": 1,
       "image_local": "images/news_7e45c1ca2c0634c0059f.jpg"
     },
@@ -302,7 +302,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.5,
+      "score": 91.7,
       "story_size": 1,
       "image_local": "images/news_5d6a1d3a46dd04ebf21b.jpg"
     },
@@ -321,7 +321,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.1,
+      "score": 91.4,
       "story_size": 1,
       "image_local": "images/news_a0e678b60353053cc9b6.jpg"
     },
@@ -340,7 +340,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.8,
+      "score": 91.0,
       "story_size": 1
     },
     {
@@ -358,7 +358,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.2,
+      "score": 90.5,
       "story_size": 1,
       "image_local": "images/news_42766afe1ba0164db426.webp"
     },
@@ -377,7 +377,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.5,
+      "score": 89.8,
       "story_size": 1,
       "image_local": "images/news_0fb1a11c6e03b9bb1bd2.jpg"
     },
@@ -396,7 +396,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.2,
+      "score": 89.5,
       "story_size": 1,
       "image_local": "images/news_b4e37ba757fae430e0b7.jpg"
     },
@@ -415,7 +415,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.1,
+      "score": 89.4,
       "story_size": 1,
       "image_local": "images/news_ad8bb8f5fb6fdaa4be24.webp"
     },
@@ -434,7 +434,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.2,
+      "score": 88.5,
       "story_size": 1
     },
     {
@@ -452,7 +452,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.4,
+      "score": 87.7,
       "story_size": 1
     },
     {
@@ -470,7 +470,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.2,
+      "score": 87.5,
       "story_size": 1,
       "image_local": "images/news_5b799d5fae8ba44c162a.webp"
     },
@@ -489,7 +489,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.1,
+      "score": 87.4,
       "story_size": 1,
       "image_local": "images/news_0779cfdb91b51f59d75a.jpg"
     },
@@ -508,7 +508,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.6,
+      "score": 86.8,
       "story_size": 1
     },
     {
@@ -526,7 +526,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.0,
+      "score": 86.3,
       "story_size": 1,
       "image_local": "images/news_367bd54318f7edb2ce3e.jpg"
     },
@@ -545,7 +545,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.6,
+      "score": 85.8,
       "story_size": 1
     },
     {
@@ -563,7 +563,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.4,
+      "score": 85.7,
       "story_size": 1
     },
     {
@@ -581,7 +581,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.4,
+      "score": 85.7,
       "story_size": 1
     },
     {
@@ -599,7 +599,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.8,
+      "score": 85.0,
       "story_size": 1
     },
     {
@@ -617,7 +617,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.4,
+      "score": 84.6,
       "story_size": 1
     },
     {
@@ -635,7 +635,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.4,
+      "score": 84.6,
       "story_size": 1,
       "image_local": "images/news_25f873dc168d8f018862.webp"
     },
@@ -654,7 +654,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.3,
+      "score": 84.5,
       "story_size": 1
     },
     {
@@ -672,7 +672,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.2,
+      "score": 84.5,
       "story_size": 1
     },
     {
@@ -690,7 +690,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.2,
+      "score": 84.4,
       "story_size": 1
     },
     {
@@ -708,7 +708,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.2,
+      "score": 84.4,
       "story_size": 1
     },
     {
@@ -726,7 +726,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.2,
+      "score": 84.4,
       "story_size": 1
     },
     {
@@ -744,7 +744,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.1,
+      "score": 84.3,
       "story_size": 1
     },
     {
@@ -762,7 +762,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.0,
+      "score": 84.3,
       "story_size": 1
     },
     {
@@ -780,7 +780,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.9,
+      "score": 84.2,
       "story_size": 1
     },
     {
@@ -798,7 +798,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.8,
+      "score": 84.1,
       "story_size": 1
     },
     {
@@ -816,7 +816,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.7,
+      "score": 84.0,
       "story_size": 1
     },
     {
@@ -834,7 +834,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.7,
+      "score": 84.0,
       "story_size": 1
     },
     {
@@ -852,7 +852,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.7,
+      "score": 84.0,
       "story_size": 1
     },
     {
@@ -870,7 +870,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.6,
+      "score": 83.9,
       "story_size": 1
     },
     {
@@ -888,7 +888,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.5,
+      "score": 83.8,
       "story_size": 1,
       "image_local": "images/news_ed80212e457f231cfa1b.webp"
     },
@@ -907,7 +907,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.4,
+      "score": 83.7,
       "story_size": 1
     },
     {
@@ -925,7 +925,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.4,
+      "score": 83.7,
       "story_size": 1
     },
     {
@@ -943,7 +943,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.4,
+      "score": 83.7,
       "story_size": 1
     },
     {
@@ -961,7 +961,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.4,
+      "score": 83.7,
       "story_size": 1
     },
     {
@@ -979,7 +979,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.4,
+      "score": 83.7,
       "story_size": 1
     },
     {
@@ -997,7 +997,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.0,
+      "score": 83.3,
       "story_size": 1
     },
     {
@@ -1015,7 +1015,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.0,
+      "score": 83.3,
       "story_size": 1,
       "image_local": "images/news_6fa731d02a856874c497.webp"
     },
@@ -1034,7 +1034,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 97.0,
+      "score": 83.3,
       "story_size": 1
     },
     {
@@ -1052,7 +1052,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.8,
+      "score": 83.1,
       "story_size": 1
     },
     {
@@ -1070,7 +1070,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.8,
+      "score": 83.1,
       "story_size": 1,
       "image_local": "images/news_990240266e07ebebe738.jpg"
     },
@@ -1089,7 +1089,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.4,
+      "score": 82.7,
       "story_size": 1
     },
     {
@@ -1107,7 +1107,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.3,
+      "score": 82.6,
       "story_size": 1,
       "image_local": "images/news_fb5d7c71e1c38356b25c.webp"
     },
@@ -1126,7 +1126,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.1,
+      "score": 82.4,
       "story_size": 1
     },
     {
@@ -1144,7 +1144,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.2,
+      "score": 81.5,
       "story_size": 1
     },
     {
@@ -1162,7 +1162,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.9,
+      "score": 81.1,
       "story_size": 1,
       "image_local": "images/news_5ed8561b88b0a8576d07.webp"
     },
@@ -1181,7 +1181,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.8,
+      "score": 81.0,
       "story_size": 1
     },
     {
@@ -1199,7 +1199,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.6,
+      "score": 80.8,
       "story_size": 1,
       "image_local": "images/news_411b49509ce952b6b7f9.webp"
     },
@@ -1218,27 +1218,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.4,
+      "score": 80.6,
       "story_size": 1,
       "image_local": "images/news_43fd547dd4d5e9b23169.webp"
-    },
-    {
-      "title": "पोखरा पर्वतीय दौडमा सुदूरपश्चिमका नरेन्द्र च्याम्पियन",
-      "link": "https://khabarhub.com/2026/10/1035971/",
-      "description": "कास्की – पोखरामा आज सम्पन्न तेस्रो संस्करणको पर्वतीय दौड प्रतियोगिताको उपाधि सुदूरपश्चिम प्रदेशका नरेन्द्रसिंह रावतले जितेका छन् । पोखरा–२२ पुम्दी–भुम्दीमा आयोजित प्रतियोगितामा निर्धारित आठ किमी दूरी उनले ३४ मिनेट ३५ सेकेण्डमा पूरा गरी उपाधि रक्षा गर्न सफल भए । बैतडीका रावतले अघिल्लो संस्करणको उपाधिसमेत जितेका थिए । च्याम्पियन नरेन्द्रले उपाधिसहित नगद रु ५० हजार, मेडल [&#8230;]",
-      "published": "2026-10-10T15:13:59+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "e08dc624947ddf36",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 94.2,
-      "story_size": 1
     },
     {
       "title": "सानेपामा उपसभापति र महामन्त्रीको मतगणना",
@@ -1255,9 +1237,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.2,
+      "score": 80.5,
       "story_size": 1,
       "image_local": "images/news_5b367ffa91d04b91c985.webp"
+    },
+    {
+      "title": "पोखरा पर्वतीय दौडमा सुदूरपश्चिमका नरेन्द्र च्याम्पियन",
+      "link": "https://khabarhub.com/2026/10/1035971/",
+      "description": "कास्की – पोखरामा आज सम्पन्न तेस्रो संस्करणको पर्वतीय दौड प्रतियोगिताको उपाधि सुदूरपश्चिम प्रदेशका नरेन्द्रसिंह रावतले जितेका छन् । पोखरा–२२ पुम्दी–भुम्दीमा आयोजित प्रतियोगितामा निर्धारित आठ किमी दूरी उनले ३४ मिनेट ३५ सेकेण्डमा पूरा गरी उपाधि रक्षा गर्न सफल भए । बैतडीका रावतले अघिल्लो संस्करणको उपाधिसमेत जितेका थिए । च्याम्पियन नरेन्द्रले उपाधिसहित नगद रु ५० हजार, मेडल [&#8230;]",
+      "published": "2026-10-10T15:13:59+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "e08dc624947ddf36",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 80.4,
+      "story_size": 1
     },
     {
       "title": "खानामा किरा परेको उजुरीपछि ‘मन्त्र थकाली’ मा छापा, साढे २ लाख जरिवाना",
@@ -1274,7 +1274,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.8,
+      "score": 80.1,
       "story_size": 1,
       "image_local": "images/news_250d02afabd85c3fe4bb.webp"
     },
@@ -1293,7 +1293,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.7,
+      "score": 80.0,
       "story_size": 1,
       "image_local": "images/news_34fd1065136bd5c0373a.jpg"
     },
@@ -1312,7 +1312,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.4,
+      "score": 79.7,
       "story_size": 1
     },
     {
@@ -1330,7 +1330,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.4,
+      "score": 79.7,
       "story_size": 1,
       "image_local": "images/news_a7f2c4a2a747937ab8c4.jpg"
     },
@@ -1349,7 +1349,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 92.8,
+      "score": 79.1,
       "story_size": 1
     },
     {
@@ -1367,28 +1367,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.5,
+      "score": 78.8,
       "story_size": 1,
       "image_local": "images/news_11cf3cf082c51dd7b8a9.webp"
-    },
-    {
-      "title": "वर्षापछि सिरहा सदरमुकाम डुबानमा (तस्वीरहरू)",
-      "link": "https://www.thahakhabar.com/detail/310139",
-      "description": "",
-      "published": "2026-10-10T19:47:00+05:45",
-      "source": "Thaha Khabar",
-      "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/Siraha-1791640860.jpg",
-      "related_sources": [
-        "Thaha Khabar"
-      ],
-      "id": "3efff3a3d7cfdfb1",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 92.4,
-      "story_size": 1,
-      "image_local": "images/news_40d06946fc427a1b7935.jpg"
     },
     {
       "title": "प्रियंका गान्धीको आरोप- भारतमा मोदी र शाहको तानाशाही चलिरहेको छ",
@@ -1405,8 +1386,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.3,
+      "score": 78.6,
       "story_size": 1
+    },
+    {
+      "title": "वर्षापछि सिरहा सदरमुकाम डुबानमा (तस्वीरहरू)",
+      "link": "https://www.thahakhabar.com/detail/310139",
+      "description": "",
+      "published": "2026-10-10T19:47:00+05:45",
+      "source": "Thaha Khabar",
+      "category": "nepal",
+      "image": "https://www.thahakhabar.com/uploads/posts/Siraha-1791640860.jpg",
+      "related_sources": [
+        "Thaha Khabar"
+      ],
+      "id": "3efff3a3d7cfdfb1",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 78.6,
+      "story_size": 1,
+      "image_local": "images/news_40d06946fc427a1b7935.jpg"
     },
     {
       "title": "मतपेटिकाको विवाद मिलेसँगै मतगणना सुरु",
@@ -1423,7 +1423,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.1,
+      "score": 78.4,
       "story_size": 1,
       "image_local": "images/news_5b367ffa91d04b91c985.webp"
     },
@@ -1442,7 +1442,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.4,
+      "score": 77.7,
       "story_size": 1,
       "image_local": "images/news_cbf115e6fb8df90abc91.webp"
     },
@@ -1461,7 +1461,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.2,
+      "score": 77.5,
       "story_size": 1,
       "image_local": "images/news_08aa3aa0708c5ff8f81d.webp"
     },
@@ -1480,7 +1480,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.0,
+      "score": 77.3,
       "story_size": 1
     },
     {
@@ -1498,7 +1498,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.9,
+      "score": 77.1,
       "story_size": 1,
       "image_local": "images/news_51d32e8ccda02871319a.jpg"
     },
@@ -1517,7 +1517,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.7,
+      "score": 76.9,
       "story_size": 1
     },
     {
@@ -1535,7 +1535,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.5,
+      "score": 76.8,
       "story_size": 1
     },
     {
@@ -1553,7 +1553,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.3,
+      "score": 76.6,
       "story_size": 1
     },
     {
@@ -1571,7 +1571,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.1,
+      "score": 76.3,
       "story_size": 1
     },
     {
@@ -1589,7 +1589,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.5,
+      "score": 75.8,
       "story_size": 1
     },
     {
@@ -1607,7 +1607,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.3,
+      "score": 75.6,
       "story_size": 1
     },
     {
@@ -1625,7 +1625,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.7,
+      "score": 75.0,
       "story_size": 1
     },
     {
@@ -1643,7 +1643,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.7,
+      "score": 74.0,
       "story_size": 1
     },
     {
@@ -1661,7 +1661,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.7,
+      "score": 73.9,
       "story_size": 1
     },
     {
@@ -1679,7 +1679,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.6,
+      "score": 73.8,
       "story_size": 1
     },
     {
@@ -1697,7 +1697,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.0,
+      "score": 73.2,
       "story_size": 1
     },
     {
@@ -1715,7 +1715,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.8,
+      "score": 73.0,
       "story_size": 1
     },
     {
@@ -1733,7 +1733,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.5,
+      "score": 72.7,
       "story_size": 1
     },
     {
@@ -1751,7 +1751,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.2,
+      "score": 72.4,
       "story_size": 1
     },
     {
@@ -1769,7 +1769,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.0,
+      "score": 72.2,
       "story_size": 1
     },
     {
@@ -1787,7 +1787,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.9,
+      "score": 72.2,
       "story_size": 1
     },
     {
@@ -1805,7 +1805,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.5,
+      "score": 71.8,
       "story_size": 1
     },
     {
@@ -1823,7 +1823,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.7,
+      "score": 70.9,
       "story_size": 1
     },
     {
@@ -1841,7 +1841,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.0,
+      "score": 70.3,
       "story_size": 1
     },
     {
@@ -1859,7 +1859,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.7,
+      "score": 70.0,
       "story_size": 1
     },
     {
@@ -1877,7 +1877,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.5,
+      "score": 69.7,
       "story_size": 1
     },
     {
@@ -1895,7 +1895,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.9,
+      "score": 69.2,
       "story_size": 1
     },
     {
@@ -1913,7 +1913,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.1,
+      "score": 68.3,
       "story_size": 1
     },
     {
@@ -1931,7 +1931,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.4,
+      "score": 67.7,
       "story_size": 1
     },
     {
@@ -1949,7 +1949,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.1,
+      "score": 67.4,
       "story_size": 1
     },
     {
@@ -1967,7 +1967,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.8,
+      "score": 67.1,
       "story_size": 1
     },
     {
@@ -1985,7 +1985,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.6,
+      "score": 65.8,
       "story_size": 1
     },
     {
@@ -2003,7 +2003,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.8,
+      "score": 63.0,
       "story_size": 1
     },
     {
@@ -2021,7 +2021,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.8,
+      "score": 62.1,
       "story_size": 1
     },
     {
@@ -2039,7 +2039,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.3,
+      "score": 61.5,
       "story_size": 1
     },
     {
@@ -2057,7 +2057,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.8,
+      "score": 61.1,
       "story_size": 1
     },
     {
@@ -2075,7 +2075,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.6,
+      "score": 60.8,
       "story_size": 1
     },
     {
@@ -2093,7 +2093,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.5,
+      "score": 60.7,
       "story_size": 1
     },
     {
@@ -2111,7 +2111,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.3,
+      "score": 60.6,
       "story_size": 1
     },
     {
@@ -2129,7 +2129,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.2,
+      "score": 60.4,
       "story_size": 1
     },
     {
@@ -2147,7 +2147,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.1,
+      "score": 60.3,
       "story_size": 1
     },
     {
@@ -2165,7 +2165,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.9,
+      "score": 60.2,
       "story_size": 1
     },
     {
@@ -2183,7 +2183,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.7,
+      "score": 60.0,
       "story_size": 1
     },
     {
@@ -2201,7 +2201,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.2,
+      "score": 59.4,
       "story_size": 1
     },
     {
@@ -2219,7 +2219,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.0,
+      "score": 59.3,
       "story_size": 1
     },
     {
@@ -2237,7 +2237,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.7,
+      "score": 58.0,
       "story_size": 1
     },
     {
@@ -2255,7 +2255,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.3,
+      "score": 56.6,
       "story_size": 1
     },
     {
@@ -2273,7 +2273,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 63.6,
+      "score": 49.8,
       "story_size": 1
     },
     {
@@ -2291,7 +2291,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 55.4,
+      "score": 41.6,
       "story_size": 1
     },
     {
@@ -2309,7 +2309,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 48.1,
+      "score": 34.4,
       "story_size": 1
     },
     {
@@ -2327,7 +2327,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 48.0,
+      "score": 34.3,
       "story_size": 1
     },
     {
@@ -2345,7 +2345,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 45.4,
+      "score": 31.7,
       "story_size": 1
     },
     {
@@ -2363,7 +2363,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 44.5,
+      "score": 30.7,
       "story_size": 1
     },
     {
@@ -2381,7 +2381,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 44.4,
+      "score": 30.6,
       "story_size": 1
     },
     {
@@ -2399,7 +2399,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 44.3,
+      "score": 30.6,
       "story_size": 1
     },
     {
