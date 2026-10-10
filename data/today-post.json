@@ -1,6 +1,6 @@
 {
   "date_np": "2026-10-10",
-  "generated_at": "2026-10-10T08:52:05.317673+00:00",
+  "generated_at": "2026-10-10T08:52:33.990733+00:00",
   "items": [
     {
       "title": "सडक अवरुद्ध भएपछि यात्रुवाहक सवारीलाई प्राथमिकता",
@@ -79,7 +79,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 142.2,
+      "score": 142.1,
       "story_size": 3,
       "image_local": "images/news_5ce7511c1fcb9d503f36.jpg"
     },
@@ -119,7 +119,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 132.7,
+      "score": 132.6,
       "story_size": 2,
       "image_local": "images/news_890c5a0051f3dc514f3e.jpg"
     },
@@ -139,7 +139,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 130.1,
+      "score": 130.0,
       "story_size": 2,
       "image_local": "images/news_2a5452cd7a9e658b48db.jpg"
     },
@@ -159,7 +159,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 129.2,
+      "score": 129.1,
       "story_size": 2
     }
   ],
