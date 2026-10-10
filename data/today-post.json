@@ -1,6 +1,6 @@
 {
   "date_np": "2026-10-10",
-  "generated_at": "2026-10-10T08:36:36.480938+00:00",
+  "generated_at": "2026-10-10T08:52:05.317673+00:00",
   "items": [
     {
       "title": "सडक अवरुद्ध भएपछि यात्रुवाहक सवारीलाई प्राथमिकता",
@@ -12,16 +12,14 @@
       "image": "",
       "related_sources": [
         "Khabarhub",
-        "Gorkhapatra Online",
-        "Kendrabindu",
         "Ratopati"
       ],
       "id": "597361e9d9269785",
-      "source_count": 4,
+      "source_count": 2,
       "verified": true,
       "local": true,
-      "score": 167.8,
-      "story_size": 4
+      "score": 146.7,
+      "story_size": 2
     },
     {
       "title": "जङ्गली च्याउ खाँदा एक बालिकाको मृत्यु",
@@ -40,7 +38,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 145.1,
+      "score": 144.0,
       "story_size": 3,
       "image_local": "images/news_303504b26f3466388020.jpg"
     },
@@ -61,7 +59,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 143.7,
+      "score": 142.6,
       "story_size": 3
     },
     {
@@ -81,9 +79,29 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 143.2,
+      "score": 142.2,
       "story_size": 3,
       "image_local": "images/news_5ce7511c1fcb9d503f36.jpg"
+    },
+    {
+      "title": "पहिरोले कालीगण्डकी करिडोर अवरुद्ध",
+      "link": "https://www.ratopati.com/story/598629/landslide-blocks-kaligandaki-corridor",
+      "description": "गुल्मी । पहिराेका कारण गुल्मीको कालीगण्डकी करिडोर सडकखण्ड अवरुद्ध भएको छ । कालीगण्डकी करिडोरअन्तर्गत कालीगण्डकी गाउँपालिका-२ स्थित राक्सेमा गएरति खसेको पहिरोका कारण उक्त सडक पूर्ण रूपमा अवरुद्ध बनेको जिल्ला प्रहरी कार्यालयले जनाएको छ । सडकमाथिबाट चट्टानसहितकोे",
+      "published": "2026-10-10T08:50:39+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://rpcdn.ratopati.com/media/albums/gulmi_KkdgAMhikH.jpg",
+      "related_sources": [
+        "Ratopati",
+        "Kendrabindu"
+      ],
+      "id": "073a0fd5d5a42567",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 136.9,
+      "story_size": 2,
+      "image_local": "images/news_5c09a08806da0b66cfb7.jpg"
     },
     {
       "title": "भारतमा ठूलो प्रदर्शन अघि ‘कक्रोच’ आन्दोलनका प्रमुखसहित तीन नेता पक्राउ",
@@ -101,29 +119,9 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.7,
+      "score": 132.7,
       "story_size": 2,
       "image_local": "images/news_890c5a0051f3dc514f3e.jpg"
-    },
-    {
-      "title": "पृथ्वीराजमार्गको अवरोध हटाउन सडक विभाग सक्रिय",
-      "link": "https://gorkhapatraonline.com/news/226164",
-      "description": "काठमाडौँ, असोज २४ गते । सडक विभागले धादिङको गजुरी नजिक गलौंदीमा भासिएर अवरुद्ध भएको पृथ्वीराजमार्ग खुलाउन काम अघि बढाएको छ ।त्रिशूली नदीका कारण सडक भासिएपछि अवरुद्ध भएको खण्ड खुलाउ...",
-      "published": "2026-10-10T12:58:54+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/387427/conversions/PHOTO-2026-09-26-07-36-16-(1)-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online",
-        "Khabarhub"
-      ],
-      "id": "4b59ce4891a70bd8",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 131.5,
-      "story_size": 2,
-      "image_local": "images/news_45fabb3d552385532c02.jpg"
     },
     {
       "title": "युद्ध अन्त्यको प्रयासमा अमेरिका, युक्रेन र युरोपेली अधिकारीबिच वार्ता",
@@ -141,7 +139,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 131.1,
+      "score": 130.1,
       "story_size": 2,
       "image_local": "images/news_2a5452cd7a9e658b48db.jpg"
     },
@@ -161,9 +159,9 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 130.2,
+      "score": 129.2,
       "story_size": 2
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. सडक अवरुद्ध भएपछि यात्रुवाहक सवारीलाई प्राथमिकता\nस्रोत: Khabarhub, Gorkhapatra Online, Kendrabindu\nhttps://khabarhub.com/2026/10/1035823/\n\n2. जङ्गली च्याउ खाँदा एक बालिकाको मृत्यु\nस्रोत: Gorkhapatra Online, Kendrabindu, Ratopati\nhttps://gorkhapatraonline.com/news/226170\n\n3. परराष्ट्रमन्त्री स्वदेश फिर्ता\nस्रोत: Baahrakhari, Thaha Khabar, Kendrabindu\nhttps://baahrakhari.com/detail/504492\n\n4. चीनद्वारा अन्तरिक्ष प्रविधिको विकासलाई निरन्तरता दिँदै नयाँ उपग्रह प्रक्षेपण\nस्रोत: Gorkhapatra Online, Kendrabindu, Ratopati\nhttps://gorkhapatraonline.com/news/226166\n\n5. भारतमा ठूलो प्रदर्शन अघि ‘कक्रोच’ आन्दोलनका प्रमुखसहित तीन नेता पक्राउ\nस्रोत: Gorkhapatra Online, Kendrabindu\nhttps://gorkhapatraonline.com/news/226167\n\n6. पृथ्वीराजमार्गको अवरोध हटाउन सडक विभाग सक्रिय\nस्रोत: Gorkhapatra Online, Khabarhub\nhttps://gorkhapatraonline.com/news/226164\n\n7. युद्ध अन्त्यको प्रयासमा अमेरिका, युक्रेन र युरोपेली अधिकारीबिच वार्ता\nस्रोत: Gorkhapatra Online, Ratopati\nhttps://gorkhapatraonline.com/news/226163\n\n8. दुर्गा पूजाको अवसरमा मौलापुरमा सरसफाइ अभियान\nस्रोत: OnlineKhabar, Ratopati\nhttps://www.onlinekhabar.com/2026/10/2036322/cleanliness-campaign-in-maulapur-on-the-occasion-of-durga-puja\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. सडक अवरुद्ध भएपछि यात्रुवाहक सवारीलाई प्राथमिकता\nस्रोत: Khabarhub, Ratopati\nhttps://khabarhub.com/2026/10/1035823/\n\n2. जङ्गली च्याउ खाँदा एक बालिकाको मृत्यु\nस्रोत: Gorkhapatra Online, Kendrabindu, Ratopati\nhttps://gorkhapatraonline.com/news/226170\n\n3. परराष्ट्रमन्त्री स्वदेश फिर्ता\nस्रोत: Baahrakhari, Thaha Khabar, Kendrabindu\nhttps://baahrakhari.com/detail/504492\n\n4. चीनद्वारा अन्तरिक्ष प्रविधिको विकासलाई निरन्तरता दिँदै नयाँ उपग्रह प्रक्षेपण\nस्रोत: Gorkhapatra Online, Kendrabindu, Ratopati\nhttps://gorkhapatraonline.com/news/226166\n\n5. पहिरोले कालीगण्डकी करिडोर अवरुद्ध\nस्रोत: Ratopati, Kendrabindu\nhttps://www.ratopati.com/story/598629/landslide-blocks-kaligandaki-corridor\n\n6. भारतमा ठूलो प्रदर्शन अघि ‘कक्रोच’ आन्दोलनका प्रमुखसहित तीन नेता पक्राउ\nस्रोत: Gorkhapatra Online, Kendrabindu\nhttps://gorkhapatraonline.com/news/226167\n\n7. युद्ध अन्त्यको प्रयासमा अमेरिका, युक्रेन र युरोपेली अधिकारीबिच वार्ता\nस्रोत: Gorkhapatra Online, Ratopati\nhttps://gorkhapatraonline.com/news/226163\n\n8. दुर्गा पूजाको अवसरमा मौलापुरमा सरसफाइ अभियान\nस्रोत: OnlineKhabar, Ratopati\nhttps://www.onlinekhabar.com/2026/10/2036322/cleanliness-campaign-in-maulapur-on-the-occasion-of-durga-puja\n\n— I Am From Hetauda"
 }

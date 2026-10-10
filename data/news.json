@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T08:36:36.477983+00:00",
+  "updated_at": "2026-10-10T08:52:05.315890+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -25,16 +25,14 @@
       "image": "",
       "related_sources": [
         "Khabarhub",
-        "Gorkhapatra Online",
-        "Kendrabindu",
         "Ratopati"
       ],
       "id": "597361e9d9269785",
-      "source_count": 4,
+      "source_count": 2,
       "verified": true,
       "local": true,
-      "score": 167.8,
-      "story_size": 4
+      "score": 146.7,
+      "story_size": 2
     },
     {
       "title": "जङ्गली च्याउ खाँदा एक बालिकाको मृत्यु",
@@ -53,7 +51,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 145.1,
+      "score": 144.0,
       "story_size": 3,
       "image_local": "images/news_303504b26f3466388020.jpg"
     },
@@ -74,7 +72,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 143.7,
+      "score": 142.6,
       "story_size": 3
     },
     {
@@ -94,9 +92,29 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 143.2,
+      "score": 142.2,
       "story_size": 3,
       "image_local": "images/news_5ce7511c1fcb9d503f36.jpg"
+    },
+    {
+      "title": "पहिरोले कालीगण्डकी करिडोर अवरुद्ध",
+      "link": "https://www.ratopati.com/story/598629/landslide-blocks-kaligandaki-corridor",
+      "description": "गुल्मी । पहिराेका कारण गुल्मीको कालीगण्डकी करिडोर सडकखण्ड अवरुद्ध भएको छ । कालीगण्डकी करिडोरअन्तर्गत कालीगण्डकी गाउँपालिका-२ स्थित राक्सेमा गएरति खसेको पहिरोका कारण उक्त सडक पूर्ण रूपमा अवरुद्ध बनेको जिल्ला प्रहरी कार्यालयले जनाएको छ । सडकमाथिबाट चट्टानसहितकोे",
+      "published": "2026-10-10T08:50:39+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://rpcdn.ratopati.com/media/albums/gulmi_KkdgAMhikH.jpg",
+      "related_sources": [
+        "Ratopati",
+        "Kendrabindu"
+      ],
+      "id": "073a0fd5d5a42567",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 136.9,
+      "story_size": 2,
+      "image_local": "images/news_5c09a08806da0b66cfb7.jpg"
     },
     {
       "title": "भारतमा ठूलो प्रदर्शन अघि ‘कक्रोच’ आन्दोलनका प्रमुखसहित तीन नेता पक्राउ",
@@ -114,29 +132,9 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.7,
+      "score": 132.7,
       "story_size": 2,
       "image_local": "images/news_890c5a0051f3dc514f3e.jpg"
-    },
-    {
-      "title": "पृथ्वीराजमार्गको अवरोध हटाउन सडक विभाग सक्रिय",
-      "link": "https://gorkhapatraonline.com/news/226164",
-      "description": "काठमाडौँ, असोज २४ गते । सडक विभागले धादिङको गजुरी नजिक गलौंदीमा भासिएर अवरुद्ध भएको पृथ्वीराजमार्ग खुलाउन काम अघि बढाएको छ ।त्रिशूली नदीका कारण सडक भासिएपछि अवरुद्ध भएको खण्ड खुलाउ...",
-      "published": "2026-10-10T12:58:54+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/387427/conversions/PHOTO-2026-09-26-07-36-16-(1)-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online",
-        "Khabarhub"
-      ],
-      "id": "4b59ce4891a70bd8",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 131.5,
-      "story_size": 2,
-      "image_local": "images/news_45fabb3d552385532c02.jpg"
     },
     {
       "title": "युद्ध अन्त्यको प्रयासमा अमेरिका, युक्रेन र युरोपेली अधिकारीबिच वार्ता",
@@ -154,7 +152,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 131.1,
+      "score": 130.1,
       "story_size": 2,
       "image_local": "images/news_2a5452cd7a9e658b48db.jpg"
     },
@@ -174,7 +172,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 130.2,
+      "score": 129.2,
       "story_size": 2
     },
     {
@@ -193,7 +191,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 128.9,
+      "score": 127.8,
       "story_size": 2,
       "image_local": "images/news_8e210768bb9f1bac6f59.jpg"
     },
@@ -212,9 +210,66 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 121.6,
+      "score": 120.5,
       "story_size": 1,
       "image_local": "images/news_5bf73a5da2f09ddfff2c.jpg"
+    },
+    {
+      "title": "धनकुटाका हाटबजारमा दशैँको रौनक, खसीबोका किन्नेको भिड",
+      "link": "https://gorkhapatraonline.com/news/226173",
+      "description": "सन्तोष सुवेदीपाख्रीबास (धनकुटा), असोज २४ गते । नेपालीहरूको महान् चाड बडादशैँ सुरु भएसँगै धनकुटा बजारमा चहलपहल बढेसँगै हाट बजारमा खसी बोका किन्नेको भिड लाग्न थालेको छ । दशैँका लागि...",
+      "published": "2026-10-10T14:32:30+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "business",
+      "image": "https://gorkhapatraonline.com/storage/media/387436/conversions/C0015T01-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "6c1a367ef8f409c2",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.7,
+      "story_size": 1,
+      "image_local": "images/news_92b4dcdb6d4a2e810db2.jpg"
+    },
+    {
+      "title": "दिल्लीमा नाकाबन्दी : नागरिकमाथि अविश्वास",
+      "link": "https://www.ratopati.com/story/598615/blockade-in-delhi-distrust-in-citizens",
+      "description": "भारतीय जनता पार्टी निदाउन सकेको छैन । उसले प्रत्येक हप्ता विरोधको सामना गर्नुपरेको छ र विरोधीहरूको भूतले उसलाई सताइरहेकै छ । दिल्ली, बङ्गाल, गुजरात, मध्य प्रदेशजस्ता प्रत्येक राज्यका सहरहरूमा प्रहरीले गल्लीगल्लीमा गस्ती गरिरहेको छ र",
+      "published": "2026-10-10T08:45:00+00:00",
+      "source": "Ratopati",
+      "category": "world",
+      "image": "https://npcdn.ratopati.com/media/news/cjp-protest_HJXDcqxheY.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "ed566899c6abecf1",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.5,
+      "story_size": 1,
+      "image_local": "images/news_83a1a0597294e151b7a5.webp"
+    },
+    {
+      "title": "नेकपा एमाले स्थायी कमिटीको तेस्रो दिनको बैठक जारी",
+      "link": "https://www.ratopati.com/story/598627/third-day-of-cpn-uml-standing-committee-meeting-continues",
+      "description": "काठमाडौँ । नेकपा (एमाले) स्थायी कमिटीको प्रथम बैठक शनिबार पार्टी मुख्यालय च्यासलमा सुरु भएको छ । बिहीबारदेखि सुरु भएको यस बैठकको आज तेस्रो दिन हो। शुक्रबार बसेको बैठकमा विभिन्न पार्टी कमिटी र सङ्गठनलाई पूर्णता दिने एजेन्डामा",
+      "published": "2026-10-10T08:37:19+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/uml-meeting_B4zJSZmFWm.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "c5a17df496d8a032",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.0,
+      "story_size": 1,
+      "image_local": "images/news_0cf8d921cb84a4b9eb7f.webp"
     },
     {
       "title": "तीन देशका प्रस्तावित राजदूतको संसदीय सुनुवाइ असोज २६ मा",
@@ -231,7 +286,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.8,
+      "score": 111.8,
       "story_size": 1,
       "image_local": "images/news_e6302779f048f43472d8.jpg"
     },
@@ -250,7 +305,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.8,
+      "score": 111.8,
       "story_size": 1,
       "image_local": "images/news_c183b17e6aba8ff55784.jpg"
     },
@@ -269,7 +324,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.7,
+      "score": 111.6,
       "story_size": 1,
       "image_local": "images/news_1a4301f15422924854e6.jpg"
     },
@@ -288,7 +343,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.3,
+      "score": 111.2,
       "story_size": 1,
       "image_local": "images/news_f29e9ac946f273a03188.jpg"
     },
@@ -307,7 +362,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.0,
+      "score": 111.0,
       "story_size": 1,
       "image_local": "images/news_1f1ead1438ab55de6558.jpg"
     },
@@ -326,7 +381,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.9,
+      "score": 110.8,
       "story_size": 1,
       "image_local": "images/news_904ac18580466f2cabb2.jpg"
     },
@@ -345,7 +400,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.6,
+      "score": 110.5,
       "story_size": 1,
       "image_local": "images/news_9c7662eed319ce2da321.webp"
     },
@@ -364,9 +419,63 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.6,
+      "score": 110.5,
       "story_size": 1,
       "image_local": "images/news_f3ae801a09e79df5695a.webp"
+    },
+    {
+      "title": "पहिले मर्यादित महिनावारीमैत्री कार्यस्थल बनाउने कि!",
+      "link": "https://www.setopati.com/blog/400489",
+      "description": "सबभन्दा पहिले त महिनावारी भनेको वास्तवमा के हो र यसलाई कसरी मर्यादित वा सम्मानित बनाउन सकिन्छ भन्नेबारे चर्चा गरौं।",
+      "published": "2026-10-10T14:35:53+05:45",
+      "source": "Setopati",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "e6d7ef13d75faa49",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.9,
+      "story_size": 1
+    },
+    {
+      "title": "महाकाली नदीमा सशस्त्र प्रहरीका असई बेपत्ता",
+      "link": "https://kendrabindu.com/social-affairs/562953/",
+      "description": "कञ्चनपुर । महाकाली नदीमा सशस्त्र प्रहरी बलका एक जना सहायक प्रहरी निरीक्षक (असई) बेपत्ता भएका छन् । नेपाल टेलिकमको तार तान्ने क्रममा दोधारा चाँदनीस्थित देवीस्थान बीओपीमा कार्यरत असई सागरराज थारु बेपत्ता भएका हुन् । हाल उनकाे खाेजी कार्य जारी रहेकाे बताइएकाे छ । केही दिनअघि महाकाली नदीमाथि रहेको झोलुङ्गे पुल भत्किएपछि नेपाल टेलिकमको तारसमेत चुँडिएको [&#8230;]",
+      "published": "2026-10-10T08:50:43+00:00",
+      "source": "Kendrabindu",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "7a153dcd359e8ab8",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.9,
+      "story_size": 1
+    },
+    {
+      "title": "हो, म अविवाहित छु!",
+      "link": "https://www.setopati.com/blog/400383",
+      "description": "कतिपय यस्ता कुरा रमाइला लाग्छन्, तर एउटै विषयमा बारम्बार हुने मजाकले व्यक्तिको निजी जीवनलाई मनोरञ्जनको विषय बनाइदिन सक्छ।",
+      "published": "2026-10-10T14:33:29+05:45",
+      "source": "Setopati",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "9901e8715805fb57",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.8,
+      "story_size": 1
     },
     {
       "title": "विपद्‍बाट जलविद्युत आयोजना जोगाउन नदी करिडोरमा आधारित एकीकृत प्रणाली आवश्यक : दीपक केसी",
@@ -383,7 +492,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.9,
+      "score": 109.8,
       "story_size": 1,
       "image_local": "images/news_d9c5532596e1c6414315.webp"
     },
@@ -402,26 +511,80 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.8,
+      "score": 109.8,
       "story_size": 1,
       "image_local": "images/news_01d476f1bee51fce0f05.webp"
     },
     {
-      "title": "पृथ्वी, कान्ति र बीपी राजमार्ग अवरुद्ध, अरु कुन-कुन सडक बन्द ?",
-      "link": "https://www.onlinekhabar.com/2026/10/2036260/prithvi-kanti-and-vp-highways-are-blocked-which-other-roads-are-closed",
-      "description": "२४ असोज, काठमाडौं । अविरल वर्षाले देशका विभिन्न स्थानका सडक अवरुद्ध भएका छन् । प्रहरी प्रधान कार्यालयका अनुसार धादिङको गजुरी गाउँपालिका–५ गलौदीस्थित पृथ्वी राजमार्गमा त्रिशूलीले सडक कटान गर्दा सो खण्डमा यातायात अवरुद्ध भएको छ । काभ्रेको रोशीमा आएको बाढीले बीपी राजमार्ग पनि पूर्ण रुपमा बन्द भएको छ भने ललितपुरको बागमती गाउँपालिका–३ टाकुर्चेस्थित कान्तिलोकपथ पनि पहिरोका [&#8230;]",
-      "published": "2026-10-10T04:08:58+00:00",
+      "title": "बैंकिङ सेवामा राष्ट्रिय परिचयपत्र अनिवार्य नगर्न सर्वोच्चको आदेश",
+      "link": "https://khabarhub.com/2026/10/1035854/",
+      "description": "काठमाडौं&#8211; सर्वोच्च अदालतले बैंक खाता खोल्न तथा अद्यावधिक गर्न राष्ट्रिय परिचयपत्रलाई अनिवार्य र एकमात्र आधार नबनाउन नेपाल राष्ट्र बैंकका नाममा आदेश जारी गरेको छ । न्यायाधीश सपना प्रधान मल्ल र मेघराज पोखरेलको इजलासले राष्ट्रिय परिचयपत्र प्राप्त नभएसम्म नागरिकताको प्रमाणपत्रलगायत अन्य कागजातका आधारमा पनि बैंकिङ सेवा उपलब्ध गराउन आदेश दिएको हो । नेपाल राष्ट्र बैंकले बैंक [&#8230;]",
+      "published": "2026-10-10T08:48:17+00:00",
+      "source": "Khabarhub",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "be5284dadc0816e6",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.7,
+      "story_size": 1
+    },
+    {
+      "title": "नेपाल टेलिकमले गर्‍यो इन्टरनेट प्याकेजमा छुट घोषणा",
+      "link": "https://baahrakhari.com/detail/504493",
+      "description": "",
+      "published": "2026-10-10T14:29:17+05:45",
+      "source": "Baahrakhari",
+      "category": "tech",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "347a0b0a29b081a2",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.5,
+      "story_size": 1
+    },
+    {
+      "title": "एमाले स्थायी कमिटीको तेस्रो दिन च्यासलमा बैठक जारी",
+      "link": "https://www.onlinekhabar.com/2026/10/2036364/uml-standing-committee-meeting-continues-on-third-day-in-chyasal",
+      "description": "२३ असोज, काठमाडौं । नेकपा एमालेको स्थायी कमिटी बैठक जारी छ । एमाले केन्द्रीय कार्यालय च्यासलमा बिहीबारदेखि स्थायी कमिटी बैठक जारी छ । आज बैठकको तेस्रो दिन हो । केहीबेर अघिबाट तेस्रो दिनको बैठक बसिरहेको एमाले अध्यक्ष केपी शर्मा ओलीको सचिवालयले जनाएको छ ।",
+      "published": "2026-10-10T08:42:42+00:00",
       "source": "OnlineKhabar",
-      "category": "nepal",
+      "category": "politics",
       "image": "",
       "related_sources": [
         "OnlineKhabar"
       ],
-      "id": "f94b84530132518d",
+      "id": "918bd52f249b7ab7",
       "source_count": 1,
       "verified": false,
-      "local": true,
-      "score": 110.2,
+      "local": false,
+      "score": 109.4,
+      "story_size": 1
+    },
+    {
+      "title": "महाकालीमा टेलिकमको तार तान्ने क्रममा सशस्त्र प्रहरीका असई बेपत्ता",
+      "link": "https://khabarhub.com/2026/10/1035851/",
+      "description": "काठमाडौं &#8211; कञ्चनपुरको दोधारा चाँदनी क्षेत्रमा अवरुद्ध टेलिफोन तथा इन्टरनेट सेवा सञ्चालनका लागि नेपाल टेलिकमको तार तान्ने क्रममा सशस्त्र प्रहरी बलका एक जना सहायक प्रहरी निरीक्षक (असई) महाकाली नदीमा बेपत्ता भएका छन् । बेपत्ता हुनेमा दोधारा चाँदनीस्थित देवीस्थान बीओपीमा कार्यरत असई सागरराज थारु रहेका छन् । केही दिनअघि महाकाली नदीमाथिको झोलुङ्गे पुल भत्किएपछि नेपाल टेलिकमको [&#8230;]",
+      "published": "2026-10-10T08:39:14+00:00",
+      "source": "Khabarhub",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "c87cd87b62886973",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.1,
       "story_size": 1
     },
     {
@@ -439,26 +602,62 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.1,
+      "score": 109.1,
       "story_size": 1,
       "image_local": "images/news_e84a8167d37fb0a91da2.jpg"
     },
     {
-      "title": "नयाँबसपार्कमा दसैंका यात्रुको निःशुल्क स्वास्थ्य परीक्षण",
-      "link": "https://kendrabindu.com/health/562948/",
-      "description": "काठमाडौं । काठमाडौंको गोङ्गबुस्थित नयाँ बसपार्कमा चाडपर्वमा घर जाने यात्रुलाई लक्षित गरी निःशुल्क स्वास्थ्य परीक्षण गरिएको छ । काठमाडौं महानगरपालिकाको महानगर प्रहरी बलले घर जाने यात्रुलाई लक्षित गरी निःशुल्क स्वास्थ्य परीक्षण सुरु गरेको हो । महानगर प्रहरी बल नयाँबसपार्कका प्रमुख महानगर प्रहरी नायब उपरीक्षक प्रकाश पण्डितले काठमाडौँ महानगरपालिका स्वास्थ्य सेवा विभागमार्फत चाडपर्वमा घर जाने यात्रुलक्षित [&#8230;]",
-      "published": "2026-10-10T08:32:49+00:00",
-      "source": "Kendrabindu",
-      "category": "society",
+      "title": "पृथ्वी, कान्ति र बीपी राजमार्ग अवरुद्ध, अरु कुन-कुन सडक बन्द ?",
+      "link": "https://www.onlinekhabar.com/2026/10/2036260/prithvi-kanti-and-vp-highways-are-blocked-which-other-roads-are-closed",
+      "description": "२४ असोज, काठमाडौं । अविरल वर्षाले देशका विभिन्न स्थानका सडक अवरुद्ध भएका छन् । प्रहरी प्रधान कार्यालयका अनुसार धादिङको गजुरी गाउँपालिका–५ गलौदीस्थित पृथ्वी राजमार्गमा त्रिशूलीले सडक कटान गर्दा सो खण्डमा यातायात अवरुद्ध भएको छ । काभ्रेको रोशीमा आएको बाढीले बीपी राजमार्ग पनि पूर्ण रुपमा बन्द भएको छ भने ललितपुरको बागमती गाउँपालिका–३ टाकुर्चेस्थित कान्तिलोकपथ पनि पहिरोका [&#8230;]",
+      "published": "2026-10-10T04:08:58+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
       "image": "",
       "related_sources": [
-        "Kendrabindu"
+        "OnlineKhabar"
       ],
-      "id": "704fc3544dda63bf",
+      "id": "f94b84530132518d",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 109.1,
+      "story_size": 1
+    },
+    {
+      "title": "एन्टी–डम्पिङ शुल्कले सङ्कटमा नेपाली जुट उद्योग, संरक्षणका लागि सरकारको खोजी",
+      "link": "https://www.onlinekhabar.com/2026/10/2036358/nepali-jute-industry-in-crisis-due-to-anti-dumping-duties-government-seeks-protection",
+      "description": "२४ असोज, विराटनगर । नेपालको औद्योगिकीकरणको इतिहासमा महत्वपूर्ण योगदान दिएको जुट उद्योग क्षेत्र पछिल्लो समय संकटमा परेको छ । भारतले लागू गरेको एन्टी–डम्पिङ शुल्कका नेपालका जुट उद्योग समस्यामा परेका हुन् । विराटनगरमा आयोजित जुट उद्योगका समस्या, अवसर र चुनौती विषयक कार्यक्रममा निजी क्षेत्रका अगुवाहरुले हजारौँ श्रमिकलाई रोजगारी दिएर निर्यात व्यापारमासमेत महत्वपूर्ण योगदान गरिरहेको जुट उद्योगको [&#8230;]",
+      "published": "2026-10-10T08:33:50+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "d9bdc81070ca99e1",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.8,
+      "score": 108.8,
+      "story_size": 1
+    },
+    {
+      "title": "झोर महाँकाल विद्यालयमा तामाङ भाषा पढाइ सुरु",
+      "link": "https://www.onlinekhabar.com/2026/10/2036348/tamang-language-teaching-begins-at-jhor-mahankal-school",
+      "description": "काठमाडौं । टोखा नगरपालिका–१, झोरस्थित महाँकाल माध्यमिक विद्यालयमा तामाङ भाषा पठनपाठन सुरु गरिएको छ। मातृभाषा, लिपि, संस्कार र संस्कृतिको संरक्षण तथा नयाँ पुस्तामा भाषाप्रतिको रुचि बढाउने उद्देश्यले शुक्रबार आयोजित कार्यक्रममा शुभकामना आदानप्रदानसँगै विद्यार्थीलाई विद्यालय झोलासमेत वितरण गरिएको छ। विद्यालय व्यवस्थापन समितिका अध्यक्ष महेश्वर अधिकारीको अध्यक्षतामा भएको कार्यक्रममा टोखा नगरपालिकाका प्रमुख प्रकाश अधिकारी प्रमुख अतिथि थिए। [&#8230;]",
+      "published": "2026-10-10T08:33:26+00:00",
+      "source": "OnlineKhabar",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "c3cf84a40df14f8c",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.8,
       "story_size": 1
     },
     {
@@ -476,9 +675,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.8,
+      "score": 108.8,
       "story_size": 1,
       "image_local": "images/news_4fb25b5423835e35bab9.jpg"
+    },
+    {
+      "title": "नयाँबसपार्कमा दसैंका यात्रुको निःशुल्क स्वास्थ्य परीक्षण",
+      "link": "https://kendrabindu.com/health/562948/",
+      "description": "काठमाडौं । काठमाडौंको गोङ्गबुस्थित नयाँ बसपार्कमा चाडपर्वमा घर जाने यात्रुलाई लक्षित गरी निःशुल्क स्वास्थ्य परीक्षण गरिएको छ । काठमाडौं महानगरपालिकाको महानगर प्रहरी बलले घर जाने यात्रुलाई लक्षित गरी निःशुल्क स्वास्थ्य परीक्षण सुरु गरेको हो । महानगर प्रहरी बल नयाँबसपार्कका प्रमुख महानगर प्रहरी नायब उपरीक्षक प्रकाश पण्डितले काठमाडौँ महानगरपालिका स्वास्थ्य सेवा विभागमार्फत चाडपर्वमा घर जाने यात्रुलक्षित [&#8230;]",
+      "published": "2026-10-10T08:32:49+00:00",
+      "source": "Kendrabindu",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "704fc3544dda63bf",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.7,
+      "story_size": 1
     },
     {
       "title": "विराटनगरमा खानेपानी आयोजना निर्माण अन्तिम चरणमा",
@@ -495,7 +712,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.7,
+      "score": 108.7,
       "story_size": 1,
       "image_local": "images/news_cd28d63aa325a66d001c.jpg"
     },
@@ -514,25 +731,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.6,
-      "story_size": 1
-    },
-    {
-      "title": "अप्रिय जीवनको गीत",
-      "link": "https://www.onlinekhabar.com/2026/10/2036356/song-of-an-unpleasant-life",
-      "description": "मैले खोसेको छैन तिम्रो जीवन र तिम्रो सपना तिमी मखमली फूल जस्तै बाँच तिम्रो जीवनसँग मेरो कुनै गुनासो छैन । तिमी जूनको उज्यालो छर या नछर बत्ती जस्तै बलिरहेछन् आकाशका ताराहरू तारा टिप्ने तिम्रो चाहना पूरा होला या नहोला म कामना गर्छु टिपेर खोकिलामा राख बाँड सहेलीहरूलाई उज्यालो छर्न सकोस् अँधेरी रातको साम्राज्य भत्काउँदै तिमीले [&#8230;]",
-      "published": "2026-10-10T08:29:46+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "a49f1252795f73cd",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.6,
+      "score": 108.6,
       "story_size": 1
     },
     {
@@ -550,9 +749,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.6,
+      "score": 108.6,
       "story_size": 1,
       "image_local": "images/news_9d1f3fe62f9d1b6e430c.jpg"
+    },
+    {
+      "title": "अप्रिय जीवनको गीत",
+      "link": "https://www.onlinekhabar.com/2026/10/2036356/song-of-an-unpleasant-life",
+      "description": "मैले खोसेको छैन तिम्रो जीवन र तिम्रो सपना तिमी मखमली फूल जस्तै बाँच तिम्रो जीवनसँग मेरो कुनै गुनासो छैन । तिमी जूनको उज्यालो छर या नछर बत्ती जस्तै बलिरहेछन् आकाशका ताराहरू तारा टिप्ने तिम्रो चाहना पूरा होला या नहोला म कामना गर्छु टिपेर खोकिलामा राख बाँड सहेलीहरूलाई उज्यालो छर्न सकोस् अँधेरी रातको साम्राज्य भत्काउँदै तिमीले [&#8230;]",
+      "published": "2026-10-10T08:29:46+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "a49f1252795f73cd",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.5,
+      "story_size": 1
     },
     {
       "title": "दसैँमा भरिभराउ हुने गाउँ, वर्षभरि किन सुनसान ?",
@@ -569,7 +786,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.6,
+      "score": 108.5,
       "story_size": 1,
       "image_local": "images/news_5a937ce6cf93afd3587a.jpg"
     },
@@ -588,7 +805,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.5,
+      "score": 108.4,
       "story_size": 1
     },
     {
@@ -606,7 +823,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.5,
+      "score": 108.4,
       "story_size": 1,
       "image_local": "images/news_1fe2f9124adc80c88b41.jpg"
     },
@@ -625,7 +842,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.4,
+      "score": 108.3,
       "story_size": 1
     },
     {
@@ -643,7 +860,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.4,
+      "score": 108.3,
       "story_size": 1
     },
     {
@@ -661,7 +878,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.1,
+      "score": 108.1,
       "story_size": 1
     },
     {
@@ -679,7 +896,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.9,
+      "score": 107.9,
       "story_size": 1
     },
     {
@@ -697,7 +914,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.8,
+      "score": 107.8,
+      "story_size": 1
+    },
+    {
+      "title": "नेताहरू पक्राउ परे पनि आन्दोलन जारी राख्ने सीजेपीको घोषणा",
+      "link": "https://baahrakhari.com/detail/504490",
+      "description": "",
+      "published": "2026-10-10T14:02:00+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "72846b666d6625bf",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 107.7,
       "story_size": 1
     },
     {
@@ -715,27 +950,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.8,
+      "score": 107.7,
       "story_size": 1,
       "image_local": "images/news_d3920dc860053b42a38e.webp"
-    },
-    {
-      "title": "नेताहरू पक्राउ परे पनि आन्दोलन जारी राख्ने सीजेपीको घोषणा",
-      "link": "https://baahrakhari.com/detail/504490",
-      "description": "",
-      "published": "2026-10-10T14:02:00+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "72846b666d6625bf",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 108.7,
-      "story_size": 1
     },
     {
       "title": "ऊर्जा आपूर्ति र विश्व अर्थतन्त्रका विषयमा पुटिन-ट्रम्पबिच संवाद",
@@ -752,7 +969,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.7,
+      "score": 107.7,
       "story_size": 1,
       "image_local": "images/news_8b381de8e2e0a68f6ca0.jpg"
     },
@@ -771,7 +988,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.5,
+      "score": 107.4,
       "story_size": 1
     },
     {
@@ -789,7 +1006,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.3,
+      "score": 107.3,
       "story_size": 1
     },
     {
@@ -807,7 +1024,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.3,
+      "score": 107.2,
       "story_size": 1
     },
     {
@@ -825,7 +1042,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.0,
+      "score": 106.9,
       "story_size": 1
     },
     {
@@ -843,7 +1060,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.6,
+      "score": 106.6,
       "story_size": 1
     },
     {
@@ -861,9 +1078,28 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.6,
+      "score": 106.5,
       "story_size": 1,
       "image_local": "images/news_cd29fbfdbfc4d7bce489.webp"
+    },
+    {
+      "title": "पृथ्वीराजमार्गको अवरोध हटाउन सडक विभाग सक्रिय",
+      "link": "https://gorkhapatraonline.com/news/226164",
+      "description": "काठमाडौँ, असोज २४ गते । सडक विभागले धादिङको गजुरी नजिक गलौंदीमा भासिएर अवरुद्ध भएको पृथ्वीराजमार्ग खुलाउन काम अघि बढाएको छ ।त्रिशूली नदीका कारण सडक भासिएपछि अवरुद्ध भएको खण्ड खुलाउ...",
+      "published": "2026-10-10T12:58:54+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/387427/conversions/PHOTO-2026-09-26-07-36-16-(1)-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "4b59ce4891a70bd8",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 106.5,
+      "story_size": 1,
+      "image_local": "images/news_45fabb3d552385532c02.jpg"
     },
     {
       "title": "भारतमा निर्वाचन प्रमुखको राजीनामा माग्दै प्रदर्शन, दिल्लीमा सुरक्षा कडा",
@@ -880,7 +1116,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.4,
+      "score": 106.4,
       "story_size": 1
     },
     {
@@ -898,7 +1134,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.4,
+      "score": 106.4,
       "story_size": 1
     },
     {
@@ -916,7 +1152,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.3,
+      "score": 106.2,
       "story_size": 1
     },
     {
@@ -934,7 +1170,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.2,
+      "score": 106.2,
       "story_size": 1
     },
     {
@@ -952,7 +1188,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.2,
+      "score": 106.2,
       "story_size": 1,
       "image_local": "images/news_0e7370c5272650a85180.jpg"
     },
@@ -971,7 +1207,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.1,
+      "score": 106.0,
       "story_size": 1,
       "image_local": "images/news_dd96f14c2c7a8bb4a1d4.jpg"
     },
@@ -990,7 +1226,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.1,
+      "score": 106.0,
       "story_size": 1,
       "image_local": "images/news_fcf359f40ba1a8a5a6a4.webp"
     },
@@ -1009,7 +1245,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.1,
+      "score": 106.0,
       "story_size": 1,
       "image_local": "images/news_6f602e0becabd6ac2f5f.webp"
     },
@@ -1028,7 +1264,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.5,
+      "score": 105.5,
       "story_size": 1
     },
     {
@@ -1046,7 +1282,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.9,
+      "score": 104.9,
       "story_size": 1,
       "image_local": "images/news_2554002ac7e60a0207a1.jpg"
     },
@@ -1065,7 +1301,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.8,
+      "score": 104.8,
       "story_size": 1
     },
     {
@@ -1083,14 +1319,14 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.8,
+      "score": 104.8,
       "story_size": 1
     },
     {
       "title": "मौनभित्र घन्किएको समयको आवाज",
       "link": "https://www.setopati.com/art/book/400271",
       "description": "भुईं मान्छेको जीवन भुईंमा के कसरी घिस्रिँदैछ भन्ने सत्यबाट कवि टाढा छैनन्। मलाई यस्तो लाग्यो मौन आवाजका कवितामा स्वयम्भूको आँखा मुस्कुराउँछन्।",
-      "published": "2026-10-10T13:16:42+05:45",
+      "published": "2026-10-10T13:16:00+05:45",
       "source": "Setopati",
       "category": "nepal",
       "image": "",
@@ -1101,25 +1337,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.7,
-      "story_size": 1
-    },
-    {
-      "title": "बुटवल वाणिज्य संघको चुनावमा स्थानीय तहको झल्को, दुवै प्यानल घरदैलोमा",
-      "link": "https://baahrakhari.com/detail/504488",
-      "description": "",
-      "published": "2026-10-10T13:16:23+05:45",
-      "source": "Baahrakhari",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "1057b5d4e84dd6c0",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 105.7,
+      "score": 104.6,
       "story_size": 1
     },
     {
@@ -1137,7 +1355,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.6,
+      "score": 104.5,
       "story_size": 1
     },
     {
@@ -1155,7 +1373,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.6,
+      "score": 104.5,
       "story_size": 1,
       "image_local": "images/news_eed5c5b7586474074cd0.webp"
     },
@@ -1174,7 +1392,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.6,
+      "score": 104.5,
       "story_size": 1,
       "image_local": "images/news_b8d51c8b658b1b45e273.webp"
     },
@@ -1193,7 +1411,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.4,
+      "score": 104.4,
       "story_size": 1,
       "image_local": "images/news_b98ee72f6cc246523f6c.jpg"
     },
@@ -1212,7 +1430,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.3,
+      "score": 104.3,
       "story_size": 1
     },
     {
@@ -1230,27 +1448,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.2,
+      "score": 104.2,
       "story_size": 1,
       "image_local": "images/news_ec2e3f3536dd958a6a7e.webp"
-    },
-    {
-      "title": "शिक्षा प्रणालीलाई समयअनुकूल परिमार्जन गर्नुपर्छ : राष्ट्रपति पौडेल",
-      "link": "https://khabarhub.com/2026/10/1035816/",
-      "description": "काठमाडौं&#8211; राष्ट्रपति रामचन्द्र पौडेलले बदलिँदो विश्व परिवेशअनुरूप शिक्षा प्रणालीलाई परिमार्जन गर्दै विद्यार्थीलाई भविष्यका चुनौती सामना गर्न र अवसरको सदुपयोग गर्न सक्षम बनाउनुपर्ने बताएका छन् । पशुपति मित्र माध्यमिक विद्यालयको ८०औँ वर्ष प्रवेशका अवसरमा आज आयोजित समारोहमा उनले विज्ञान, प्रविधि र कृत्रिम बौद्धिकता (एआई) को तीव्र विकाससँगै शिक्षा प्रणालीको स्वरूप पनि परिवर्तन भइरहेको बताए । राष्ट्रपति [&#8230;]",
-      "published": "2026-10-10T07:19:57+00:00",
-      "source": "Khabarhub",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "b35f98ac2e536543",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 104.9,
-      "story_size": 1
     },
     {
       "title": "गगनलाई प्रदीप पौडेलको बधाई– ‘बदलिएको कांग्रेस, बदलिने देश हाम्रो परिणाम बन्नुपर्छ’",
@@ -1267,7 +1467,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.7,
+      "score": 103.7,
       "story_size": 1
     },
     {
@@ -1285,7 +1485,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.7,
+      "score": 103.6,
       "story_size": 1
     },
     {
@@ -1303,7 +1503,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.4,
+      "score": 103.3,
       "story_size": 1
     },
     {
@@ -1321,9 +1521,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.1,
-      "story_size": 1,
-      "image_local": "images/news_8d54603ca31a4595e223.webp"
+      "score": 103.0,
+      "story_size": 1
     },
     {
       "title": "पृथ्वी राजमार्ग अवरूद्ध भएपछि बसपार्कमै रोकिए काठमाडौं बाहिरिने गाडीहरू (तस्बिरहरू)",
@@ -1340,25 +1539,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.0,
-      "story_size": 1
-    },
-    {
-      "title": "बीपी राजमार्ग खुल्याे, पृथ्वी राजमार्ग खुल्न दिनभर लाग्ने",
-      "link": "https://kendrabindu.com/social-affairs/562927/",
-      "description": "काठमाडाैं । अविरल वर्षाका कारण देशका विभिन्न स्थानमा सडक अवरुद्ध भइरहेका बेला काभ्रेपलाञ्चोकको बीपी राजमार्ग पुनः सञ्चालनमा आएको छ । काभ्रेपलाञ्चोकको रोशी गाउँपालिका–९, पिन्थलीमा माथिबाट लेदोसहितको पहिरो खसेपछि रातिदेखि अवरुद्ध भएको बीपी राजमार्ग पहिरो र लेदो हटाएसँगै दुईतर्फी सञ्चालनमा आएको हो । जिल्ला प्रशासन कार्यालय काभ्रेपलाञ्चोकले राजमार्गमा यात्रा गर्दा सतर्कता अपनाउन आग्रह गरेको छ । [&#8230;]",
-      "published": "2026-10-10T07:04:13+00:00",
-      "source": "Kendrabindu",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Kendrabindu"
-      ],
-      "id": "827f4ad3e06eee89",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 103.9,
+      "score": 102.9,
       "story_size": 1
     },
     {
@@ -1376,7 +1557,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.5,
+      "score": 102.5,
       "story_size": 1
     },
     {
@@ -1394,9 +1575,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.3,
-      "story_size": 1,
-      "image_local": "images/news_e41cb1bab4b8a993d5c2.webp"
+      "score": 102.3,
+      "story_size": 1
     },
     {
       "title": "अमेरिकी प्रतिबन्धप्रति संयुक्त राष्ट्रसङ्घको चासो",
@@ -1413,9 +1593,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.1,
-      "story_size": 1,
-      "image_local": "images/news_7e5ee0b9f3488e2c5855.jpg"
+      "score": 102.0,
+      "story_size": 1
     },
     {
       "title": "सभापति निर्वाचित भएपछि सानेपा जाँदै गगन थापा",
@@ -1432,27 +1611,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.9,
+      "score": 101.9,
       "story_size": 1
-    },
-    {
-      "title": "दिल्लीमा प्रदर्शन : सीजेपीका अभिजित दिपके, सौरव दास र आशुतोष रांका प्रहरीको नियन्त्रणमा",
-      "link": "https://www.ratopati.com/story/598596/protest-in-delhi-cjps-abhijit-deepke-saurabh-das-and-ashutosh-ranka-in-police-custody",
-      "description": "एजेन्सी । कक्रोच जनता पार्टी (सीजेपी) ले अभिजीत दिपके, सौरव दास र आशुतोष रांकालाई प्रहरीले हिरासतमा राखेको दाबी गरेको छ । पार्टीले जारी गरेको आधिकारिक विज्ञप्तिमा शनिबार दिल्लीमा विमानभित्रैबाट उनीहरूलाई नियन्त्रणमा लिइएको उल्लेख गरेको छ",
-      "published": "2026-10-10T05:59:01+00:00",
-      "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/capture1_AOR3o75DvZ.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "4a653bb38c0c8657",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 102.5,
-      "story_size": 1,
-      "image_local": "images/news_8b91ec38221da45b48d7.webp"
     },
     {
       "title": "पिन्थलीमा लेदो हटाइयो, बीपी राजमार्ग दुईतर्फी सञ्चालनमा",
@@ -1469,46 +1629,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.4,
+      "score": 101.4,
       "story_size": 1
-    },
-    {
-      "title": "कांग्रेस देउवा समूह सिन्धुपाल्चोक–२ को क्षेत्रीय सभापतिमा बस्नेत चयन",
-      "link": "https://www.ratopati.com/story/598595/basnet-elected-as-sindhupalchowk-2-regional-president-of-congress-deuba-group",
-      "description": "सिन्धुपाल्चोक । नेपाली कांग्रेस सिन्धुपाल्चोक क्षेत्र नं. २ को क्षेत्रीय अधिवेशनबाट प्रकाश बस्नेत (काजी) क्षेत्रीय सभापतिमा चयन भएका छन् । शुक्रबार भएको अधिवेशनले प्रदेशसभा क्षेत्र ‘क’ र ‘ख’ को नेतृत्व चयन गर्नुका साथै विभिन्न क्लस्टरबाट",
-      "published": "2026-10-10T05:53:22+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/840697327_2031023437554670_8440584888486044806_n_RvlZKfkHl5.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "8c1e261b28cd9e1d",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 102.1,
-      "story_size": 1,
-      "image_local": "images/news_25a5a8a0f3483430e958.webp"
-    },
-    {
-      "title": "दसैँ आयो आहा !",
-      "link": "https://www.ratopati.com/story/598594/dashain-has-come",
-      "description": "टुटेको मन जोड्ने मिलन दसैँ आयो आहा उज्यालिन्छ घर–आँगन दसैँ आयो आहा ! बतासमा बयली खेल्छ हरिया धान खेतमा चौतारीमा आफन्तजन दसैँ आयो आहा ! घमाइलो आकाश मुनि मनको चङ्गा उड्छ सुसेलीमा चल्छ धड्कन दसैँ आयो आहा ! टाढिएका मनहरू एउटै",
-      "published": "2026-10-10T05:52:00+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/dashain_ping_nepal-photo-library17_obQ9bpO0z2.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "995e73f9e4eb3030",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 102.0,
-      "story_size": 1,
-      "image_local": "images/news_89dc7602faa0be6619f8.jpg"
     },
     {
       "title": "सिरहामा २ स्थानमा आगलागी, पशुचौपायासहित घरगोठ नष्ट",
@@ -1525,7 +1647,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.1,
+      "score": 100.0,
       "story_size": 1
     },
     {
@@ -1543,7 +1665,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.5,
+      "score": 99.5,
       "story_size": 1
     },
     {
@@ -1561,25 +1683,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.2,
-      "story_size": 1
-    },
-    {
-      "title": "जंगलमा फेला परे १८ वटा भरुवा बन्दुक",
-      "link": "https://www.setopati.com/social/400509",
-      "description": "प्रहरी चौकी रानिघाटबाट खटिएको प्रहरी टोलीले बराहाताल गाउँपालिका– १ ज्यामिरेस्थित जंगलबाट १ थान भरुवा बन्दुक बरामद गरेको थियो।",
-      "published": "2026-10-10T11:38:04+05:45",
-      "source": "Setopati",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Setopati"
-      ],
-      "id": "7cc565b1740d75ad",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 99.1,
+      "score": 99.2,
       "story_size": 1
     },
     {
@@ -1597,7 +1701,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 98.4,
+      "score": 97.3,
       "story_size": 1
     },
     {
@@ -1615,7 +1719,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.7,
+      "score": 96.7,
       "story_size": 1
     },
     {
@@ -1633,25 +1737,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.6,
-      "story_size": 1
-    },
-    {
-      "title": "बाटोमा हिँडिरहेका दम्पतीलाई मोटरसाइकलले दियो ठक्कर, श्रीमानको मृत्यु",
-      "link": "https://www.setopati.com/social/400508",
-      "description": "दुर्घटनामा मृतककी श्रीमती र मोटरसाइकल चालक घाइते भएका छन्।",
-      "published": "2026-10-10T11:13:00+05:45",
-      "source": "Setopati",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "Setopati"
-      ],
-      "id": "46a06f5fc8455c4b",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 97.4,
+      "score": 96.6,
       "story_size": 1
     },
     {
@@ -1669,7 +1755,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.2,
+      "score": 96.2,
       "story_size": 1
     },
     {
@@ -1687,7 +1773,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.8,
+      "score": 95.8,
       "story_size": 1
     },
     {
@@ -1705,7 +1791,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.6,
+      "score": 95.6,
       "story_size": 1
     },
     {
@@ -1723,7 +1809,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.7,
+      "score": 94.6,
       "story_size": 1
     },
     {
@@ -1741,7 +1827,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.0,
+      "score": 94.0,
       "story_size": 1
     },
     {
@@ -1759,7 +1845,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.7,
+      "score": 93.6,
       "story_size": 1
     },
     {
@@ -1777,7 +1863,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.6,
+      "score": 93.5,
       "story_size": 1
     },
     {
@@ -1795,7 +1881,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.0,
+      "score": 92.9,
       "story_size": 1
     },
     {
@@ -1813,7 +1899,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.3,
+      "score": 92.3,
       "story_size": 1
     },
     {
@@ -1831,7 +1917,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.6,
+      "score": 89.6,
       "story_size": 1
     },
     {
@@ -1849,7 +1935,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.5,
+      "score": 89.4,
       "story_size": 1
     },
     {
@@ -1867,7 +1953,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.4,
+      "score": 89.3,
       "story_size": 1
     },
     {
@@ -1885,7 +1971,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.2,
+      "score": 89.2,
       "story_size": 1
     },
     {
@@ -1903,7 +1989,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.6,
+      "score": 87.6,
       "story_size": 1
     },
     {
@@ -1921,7 +2007,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.8,
+      "score": 86.7,
       "story_size": 1
     },
     {
@@ -1939,7 +2025,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.8,
+      "score": 86.7,
       "story_size": 1
     },
     {
@@ -1957,7 +2043,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.3,
+      "score": 86.2,
       "story_size": 1
     },
     {
@@ -1975,7 +2061,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.8,
+      "score": 85.8,
       "story_size": 1
     },
     {
@@ -1993,7 +2079,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.7,
+      "score": 85.7,
       "story_size": 1
     },
     {
@@ -2011,7 +2097,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.6,
+      "score": 85.6,
       "story_size": 1
     },
     {
@@ -2029,7 +2115,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.3,
+      "score": 85.2,
       "story_size": 1
     },
     {
@@ -2047,7 +2133,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.9,
+      "score": 84.8,
       "story_size": 1
     },
     {
@@ -2065,7 +2151,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.9,
+      "score": 83.8,
       "story_size": 1
     },
     {
@@ -2083,7 +2169,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.8,
+      "score": 82.8,
       "story_size": 1
     },
     {
@@ -2101,7 +2187,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.4,
+      "score": 82.4,
       "story_size": 1
     },
     {
@@ -2119,7 +2205,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.3,
+      "score": 82.2,
       "story_size": 1
     },
     {
@@ -2137,7 +2223,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.9,
+      "score": 81.8,
       "story_size": 1
     },
     {
@@ -2155,7 +2241,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.8,
+      "score": 78.8,
       "story_size": 1
     },
     {
@@ -2173,7 +2259,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 77.5,
+      "score": 76.5,
       "story_size": 1
     },
     {
@@ -2191,7 +2277,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.0,
+      "score": 75.0,
       "story_size": 1
     },
     {
@@ -2209,7 +2295,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.6,
+      "score": 74.6,
       "story_size": 1
     },
     {
@@ -2227,7 +2313,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.6,
+      "score": 73.6,
       "story_size": 1
     },
     {
@@ -2245,7 +2331,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.1,
+      "score": 73.0,
       "story_size": 1
     },
     {
@@ -2263,7 +2349,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.3,
+      "score": 72.2,
       "story_size": 1
     },
     {
@@ -2281,7 +2367,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 64.8,
+      "score": 63.8,
       "story_size": 1
     },
     {
@@ -2299,61 +2385,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 58.8,
-      "story_size": 1
-    },
-    {
-      "title": "कांग्रेस महाधिवेशन : सभापति पदको गणना थाल्ने तयारी, मटपेटिका सभागृह पुर्‍याइयो",
-      "link": "https://www.onlinekhabar.com/2026/10/2036175/congress-general-convention-preparations-to-begin-counting-for-the-post-of-president-clay-pots-brought-to-the-assembly-hall",
-      "description": "२३ असोज, काठमाडौं नेपाली कांग्रेसको १५ औं महाधिवेशन अन्तर्गत सभापति पदका लागि भएको मतदानको गणना सुरु गर्ने तयारी गरिएको छ । सभापति पदका उम्मेदवारहरूको मतगणना राष्ट्रिय सभागृहमा हुन लागेको हो । अहिले खुलामञ्चबाट सभापति पदको मतपेटिकाहरू सभागृहमा ल्याइएको छ । राति १० बजे नै मतदान सकिए पनि अविरल परेको वर्षाको कारण मतपेटिका संकलनमा ढिलाइ भएको [&#8230;]",
-      "published": "2026-10-09T19:11:10+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "4e0e7b3cafeb1ffc",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 56.3,
-      "story_size": 1
-    },
-    {
-      "title": "कांग्रेस महाधिवेशन : मतगणनाको निगरानी सीसी क्यामेराबाट गरिने",
-      "link": "https://www.onlinekhabar.com/2026/10/2036163/congress-general-convention-vote-counting-to-be-monitored-through-cctv-cameras",
-      "description": "२३ असोज, काठमाडौं । नेपाली कांग्रेसको १५ औँ महाधिवेशनअन्तर्गत सभापति पदका उम्मेदवारहरूको मतगणना राष्ट्रिय सभागृहमा हुने भएको छ । मतदान सम्पन्न भएसँगै मतगणनाका लागि तयारी अघि बढाइएको छ । मतगणनाका लागि तीन स्थानमा व्यवस्था मिलाइएको छ । मतगणना स्थलमा सीसी क्यामेरा जडान गर्ने काम भइरहेको छ । मतगणना प्रक्रियालाई व्यवस्थित र पारदर्शी बनाउन सीसी क्यामेराको [&#8230;]",
-      "published": "2026-10-09T17:31:03+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "6c0645e99942ca37",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 49.6,
-      "story_size": 1
-    },
-    {
-      "title": "कांग्रेस महाधिवेशन : ७ हजार ३९ जनाले गरे मतदान",
-      "link": "https://www.onlinekhabar.com/2026/10/2036161/congress-general-convention-7039-people-voted",
-      "description": "२३ असोज, काठमाडौं नेपाली कांग्रेसको १५ औं महाधिवेशन अन्तर्गत नयाँ कार्यसमिति चयनका लागि भएको मतदान शुक्रबार राति १० बजे सकिएको छ । ७ हजार ३ सय १७ जना महाधिवेशन प्रतिनिधि रहेकोमा ७ हजार ३९ जनाले मतदान गरेको निर्वाचन समितिले जनाएको छ । दोस्रो पटक थप भएको समयभन्दा तीन घण्टा ढिलो मात्रै मतदान सकिएको थियो । [&#8230;]",
-      "published": "2026-10-09T17:28:19+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "bddc204f3ff15743",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 49.5,
+      "score": 57.7,
       "story_size": 1
     },
     {
@@ -2371,7 +2403,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 32.6,
+      "score": 31.5,
       "story_size": 1
     },
     {
@@ -2389,7 +2421,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 28.9,
+      "score": 27.9,
       "story_size": 1
     },
     {
@@ -2407,7 +2439,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 28.7,
+      "score": 27.7,
       "story_size": 1
     },
     {
@@ -2425,7 +2457,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 19.4,
+      "score": 18.3,
       "story_size": 1
     },
     {
@@ -2443,7 +2475,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 15.7,
+      "score": 14.7,
       "story_size": 1
     },
     {
@@ -2627,6 +2659,24 @@
       "story_size": 1
     },
     {
+      "title": "उपसभापति र महामन्त्रीका उम्मेदवारसँग निर्वाचन समितिको छलफल, सकिएपछि मतगणना",
+      "link": "http://lokaantar.com/story/330961/2026/10/10/congress-",
+      "description": "नेपाली कांग्रेसको १५ औँ महाधिवेशनअन्तर्गत बाँकी पदको मतगणनाका लागि निर्वाचन समिति र उम्मेदवारबीचको बैठक शुरू&nbsp;भएको छ।&nbsp;पार्टी कार्यालय सानेपामा शनिबार दिउँसो २ बजेपछि उपसभापति र महामन्त्री पदका&nbsp;उम्मेदवारसँग&nbsp;निर्वाचन समितिले छलफल गरेको हो ।छलफल सकिएपछि&nbsp;मतगणना शुरू गर्ने तयारी भइरहेको छ ।४ उपसभापतिका लागि&nbsp;गोविन्द भट्टराई, डा. चन्द्रकान्त भण्डारी, प्राडा चन्द्रमोहन यादव, दीपक गिरी, धनराज गुरुङ, ई. मधु आचार्य, सुरेन्द्रराज पाण्डे, जीवन परियार, फरमुल्लाह मंसुर, विनोदकुमार",
+      "published": "",
+      "source": "Lokaantar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Lokaantar"
+      ],
+      "id": "685182f0de59637f",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 10,
+      "story_size": 1
+    },
+    {
       "title": "नेपाल टेलिकमको दशैँ तिहार अफर- एफटीटीएचदेखि मोबाइल डाटा प्याकेजसम्म छुट",
       "link": "http://lokaantar.com/story/330960/2026/10/10/ntc-offer-",
       "description": "नेपाल टेलिकमले नेपालीको महान् चाड दशैँ, तिहार तथा छठलगायत पर्वलाई लक्षित गर्दै &lsquo;दशैँ तिहार अफर २०८३&rsquo; सार्वजनिक गरेको छ ।&nbsp;अफरअन्तर्गत एफटीटीएच प्याकेज जडानमा छुट तथा जीएसएम प्रिपेड र पोस्टपेड मोबाइल सेवामा सहुलियत दरका भ्वाइस, डाटा तथा एसएमएस प्याकेज उपलब्ध हुने कम्पनीले जनाएको छ ।अफरअन्तर्गत असोज २५ देखि कार्तिक ३० गतेसम्म नयाँ एफटीटीएच प्याकेज जडान गर्ने ग्राहकको ५०० रूपैयाँ जडान शुल्क मिनाहा गरिनेछ ।&nbsp;त्यस्तै, १००, १५० र २०० एमबीपीएसको नयाँ वार्षिक प्याकेज खरिद गर्ने ग्राह",
@@ -2715,60 +2765,6 @@
       "local": false,
       "score": 10,
       "story_size": 2
-    },
-    {
-      "title": "सीताराम-रीताले दाउराको आगोमै पकाएर बेच्छन् दैनिक ७०० कप चिया",
-      "link": "http://lokaantar.com/story/330954/2026/10/10/katuwal-tea-pasal-",
-      "description": "बिहानीको झिसमिसेमै जब पूर्वको आकाश उज्यालिँदै जान्छ, उदयपुरको सदरमुकाम त्रियुगा नगरपालिका&ndash;१, गाईघाट बजारको एउटा कुनामा दाउराको धुवाँसँगै मीठो बास्ना मगमगाउन थाल्छ ।&nbsp;त्यो बास्ना हो- तातो दाउराको चुल्होमा उम्लिँदै गरेको चियापत्ति र शुद्ध दूधको । बिहान ४ बज्न नपाउँदै गाईघाटका सडकमा मर्निङवाक गर्नेहरू, मजदुर, कर्मचारी र स्थानीय बासिन्दाहरूको पाइला एउटै गन्तव्यतिर सोझिन्छ, त्यो हो कटुवाल चिया पसल ।बिजुलीबाट चल्ने आधुनिक मेसिन र ग्यास सिलिन्डरले चुल्हो ओगटिसकेको समयमा यहाँ भने १८ वर्षदेखि न",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "18d5f2ee2bdeb371",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "पृथ्वी राजमार्गको अवरोध हटाउने प्रयास जारी",
-      "link": "http://lokaantar.com/story/330953/2026/10/10/prithvi-highway-",
-      "description": "सडक विभागले धादिङको गजुरीनजिक गलौंदीमा भासिएर अवरुद्ध भएको पृथ्वीराजमार्ग खुलाउन काम अघि बढाएको छ।त्रिशूली नदीका कारण सडक भासिएपछि अवरुद्ध भएको खण्ड खुलाउन एक्साभेटरसहित आवश्यक जनशक्ति परिचालन गरिएको पूर्वाधार विकासमन्त्री सुनिल लम्सालको निजी सचिवालयले जनाएको छ।स्थानीय तहसँग समन्वय गरी सडकको ब्याक कटिङ गरेर यातायात सञ्चालनमा ल्याउने प्रयास भइरहेको छ।आज साँझसम्म ब्याक कटिङको काम सम्पन्न गरी सडक पुनः सञ्चालनमा ल्याउने लक्ष्यसहित काम भइरहेको छ।",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "4d2823d39cb4a35f",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "कार्यविधि विपरीत राखिएका पीएसओ ७ दिनभित्र फिर्ता गर्न गृह मन्त्रालयको अल्टिमेटम",
-      "link": "http://lokaantar.com/story/330952/2026/10/10/home-ministry-",
-      "description": "देश र जनताको सुरक्षाका लागि भर्ना भएका सुरक्षाकर्मीहरूलाई शक्तिको आडमा घरायसी तथा व्यक्तिगत काममा लगाउने प्रवृत्तिविरुद्ध सरकारले कडा कदम चालेको छ । गृह मन्त्रालयले एक सार्वजनिक सूचना जारी गर्दै कार्यविधि विपरीत व्यक्तिगत सुरक्षाकर्मी (पीएसओ) राख्नेहरूलाई सात दिनभित्र आ-आफ्नो दरबन्दी कार्यालयमा फिर्ता पठाउन कडा निर्देशन दिएको हो ।&nbsp;पछिल्लो समय &lsquo;अति विशिष्ट तथा विशिष्ट व्यक्तिहरूको सुरक्षा व्यवस्थापन कार्यविधि, २०८१&rsquo; को धज्जी उडाउँदै सुरक्षाबाहेक व्यक्तिगत तथा घरायसी काममा सुरक्षा",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "691f0dca54b298ee",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
     }
   ]
 }
