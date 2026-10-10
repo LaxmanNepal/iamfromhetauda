@@ -25,13 +25,13 @@ function mount(){
  if($('#ifhReels13'))return true;
  var host=$('#ifhReels')||$('#ifhDashboard')||$('.status');if(!host)return false;
  var el=document.createElement('section');el.id='ifhReels13';el.className='ifhReels13';
- mode=getMode(); el.innerHTML='<div class="ifhR13Head"><div><b>NEWS REELS • 24H</b><h2>🎬 समाचार Reels</h2><div class="ifhR13Modes"><button data-mode="for-you">तपाईंका लागि</button><button data-mode="latest">ताजा</button><button data-mode="hetauda">📍 हेटौंडा</button></div></div><div class="ifhR13Tools"><button id="ifhR13Full" aria-label="Full screen">⛶</button><button id="ifhR13Narrate" aria-label="Auto narration चालु गर्नुहोस्">🔇 Auto</button><button id="ifhR13Play" aria-label="Auto play रोक्नुहोस्">❚❚</button><button id="ifhR13Close" aria-label="Reels बन्द">×</button></div></div><div class="ifhR13Feed" id="ifhR13Feed"></div>';
+ mode=getMode(); el.innerHTML='<div class="ifhR13Head"><div><b>NEWS REELS • 24H</b><h2>🎬 समाचार Reels</h2><div class="ifhR13Modes"><button data-mode="for-you">तपाईंका लागि</button><button data-mode="latest">ताजा</button><button data-mode="hetauda">📍 हेटौंडा</button></div></div><div class="ifhR13Tools"><button id="ifhR13Full" aria-label="Full screen">⛶</button><button id="ifhR13Narrate" aria-label="Auto narration चालु गर्नुहोस्">🔇 Auto</button><button id="ifhR13Play" aria-label="Auto play रोक्नुहोस्">❚❚</button><button id="ifhR13Close" aria-label="Reels बन्द">×</button></div></div><div class="ifhR13UpNext" id="ifhR13UpNext" role="button" tabindex="0" aria-label="अर्को समाचार"></div><div class="ifhR13Feed" id="ifhR13Feed"></div>';
  host.parentNode.insertBefore(el,host.nextSibling);
  $('#ifhR13Close').onclick=function(){el.classList.toggle('collapsed');localStorage.setItem('ifh_reels_collapsed',el.classList.contains('collapsed')?'1':'0');stopTimer()};
  try{autoNarrate=localStorage.getItem('ifh_reels_narrate')==='1'}catch(e){}
  $('#ifhR13Full').onclick=function(e){e.stopPropagation();toggleFullscreen()};
  $('#ifhR13Narrate').onclick=function(e){e.stopPropagation();toggleNarrate()};
- $('#ifhR13UpNext').onclick=function(){var id=this.dataset.id;if(id&&window.openById){stopTimer();window.openById(id)}};
+ $('#ifhR13UpNext').onclick=function(){var id=this.dataset.id;if(id){var i=items.findIndex(function(n){return String(n.id)===String(id)});if(i>=0){active=i;var f=$('#ifhR13Feed'),cards=f&&f.querySelectorAll('.ifhR13Card');if(cards&&cards[i])cards[i].scrollIntoView({behavior:'smooth',block:'nearest'});syncActive(true);markSeen(id);if(autoNarrate)speak(items[i]);if(!paused)startTimer()}}};$('#ifhR13UpNext').onkeydown=function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();this.click()}};
  $('#ifhR13Play').onclick=function(){paused=!paused;updatePlay();if(paused)stopTimer();else startTimer()};
  el.querySelectorAll('[data-mode]').forEach(function(b){b.onclick=function(e){e.stopPropagation();setMode(b.dataset.mode)}});
  if(localStorage.getItem('ifh_reels_collapsed')==='1')el.classList.add('collapsed');
@@ -51,7 +51,7 @@ function ranked(a){
  return fresh.slice(0,40);
 }
 function render(a){
- items=ranked(a&&a.length?a:items);if(!mount())return;
+ var priorId=items[active]&&items[active].id;items=ranked(a&&a.length?a:items);if(priorId){var keep=items.findIndex(function(n){return String(n.id)===String(priorId)});if(keep>=0)active=keep;}if(!mount())return;
  var feed=$('#ifhR13Feed');if(!feed)return;
  if(!items.length){feed.innerHTML='<div class="ifhR13Empty">पछिल्लो २४ घण्टामा समाचार छैन।</div>';stopTimer();return}
  active=Math.min(active,items.length-1);
