@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T19:07:49.396810+00:00",
+  "updated_at": "2026-10-11T22:57:10.926941+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -31,7 +31,7 @@
       "source_count": 2,
       "verified": true,
       "local": true,
-      "score": 144.1,
+      "score": 128.8,
       "story_size": 2,
       "image_local": "images/news_9b4762a9c063de8b2d7a.jpg"
     },
@@ -51,7 +51,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 134.6,
+      "score": 119.3,
       "story_size": 2,
       "image_local": "images/news_7120e182658f350b1486.jpg"
     },
@@ -72,7 +72,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 134.0,
+      "score": 118.7,
       "story_size": 3
     },
     {
@@ -91,8 +91,46 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 128.9,
+      "score": 113.6,
       "story_size": 2
+    },
+    {
+      "title": "श्रमिकको मृत्युको अनुसन्धान सुरु",
+      "link": "https://www.ratopati.com/story/598949/investigation-into-workers-death-begins",
+      "description": "महोत्तरी । कार्यरत कम्पनीमा काम गर्दागर्दै अचानक ढलेर मृत्यु भएका एक श्रमिकबारे प्रहरीले अनुसन्धान थालेको छ । बर्दिबास–१४ बर्दिबास–औरही–जलेश्वर सडकस्थित कमल लाङ्घाली इन्जिनियरिङ वर्कसपमा कार्यरत श्रमिकको मृत्युका सम्बन्धमा अनुसन्धान थालिएको इलाका प्रहरी कार्यालय बर्दिबासले जनाएको छ",
+      "published": "2026-10-11T22:42:47+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/mahottari-map_OMBlEkusHy.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "5c1f5c8b2a298c62",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.0,
+      "story_size": 1,
+      "image_local": "images/news_3b694641e30c4de7e5bc.jpg"
+    },
+    {
+      "title": "बेगमा वडा र स्वास्थ्यचौकीको भवन निर्माण",
+      "link": "https://www.ratopati.com/story/598948/construction-of-a-ward-and-health-post-building-in-beg",
+      "description": "म्याग्दी । म्याग्दीको रघुगङ्गा गाउँपालिका–१ बेगमा रु एक करोड ५० लाखको लागतमा स्वास्थ्य चौकी र वडा कार्यालय भवन निर्माण भएको छ । तीन तले सभाहलसहित नौकोठे भूकम्पप्रतिरोधी क्षमताको भवन आइतबार गाउँपालिकाका अध्यक्ष भवबहादुर भण्डारीले उद्घाटन गरे",
+      "published": "2026-10-11T22:40:24+00:00",
+      "source": "Ratopati",
+      "category": "society",
+      "image": "https://rpcdn.ratopati.com/media/albums/myagdi_Yxx1IewRfU.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "736f6ae0984edb4d",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.9,
+      "story_size": 1,
+      "image_local": "images/news_dbce385863c9420be26d.jpg"
     },
     {
       "title": "बूढीगण्डकी तटीय क्षेत्रका बासिन्दालाई सुरक्षित स्थानमा रहन प्रधानमन्त्रीको आग्रह",
@@ -110,7 +148,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 124.9,
+      "score": 109.6,
       "story_size": 2,
       "image_local": "images/news_83ffe271259396aee7fc.jpg"
     },
@@ -130,7 +168,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 124.8,
+      "score": 109.5,
       "story_size": 3
     },
     {
@@ -150,7 +188,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 123.5,
+      "score": 108.2,
       "story_size": 3
     },
     {
@@ -169,7 +207,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 122.1,
+      "score": 106.8,
       "story_size": 2
     },
     {
@@ -187,7 +225,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 115.5,
+      "score": 100.2,
       "story_size": 1
     },
     {
@@ -205,7 +243,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.5,
+      "score": 96.2,
       "story_size": 1,
       "image_local": "images/news_b297185c3676007e61ae.webp"
     },
@@ -224,7 +262,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.9,
+      "score": 94.6,
       "story_size": 1,
       "image_local": "images/news_e6051b04792cc7059ae6.jpg"
     },
@@ -243,7 +281,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.6,
+      "score": 94.2,
       "story_size": 1,
       "image_local": "images/news_53088df871905ed51e96.jpg"
     },
@@ -262,7 +300,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.6,
+      "score": 93.3,
       "story_size": 1,
       "image_local": "images/news_939c8edc6ed81bbdd1e2.webp"
     },
@@ -281,7 +319,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.5,
+      "score": 93.2,
       "story_size": 1,
       "image_local": "images/news_9acbd56a2026197f25c9.jpg"
     },
@@ -300,7 +338,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.5,
+      "score": 92.2,
       "story_size": 1,
       "image_local": "images/news_95c5d3ef2686d7a57167.webp"
     },
@@ -319,7 +357,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.3,
+      "score": 92.0,
       "story_size": 1,
       "image_local": "images/news_5a9f8515577b61524d64.webp"
     },
@@ -338,7 +376,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.9,
+      "score": 91.6,
       "story_size": 1,
       "image_local": "images/news_16a677d67c53b3e9b59f.webp"
     },
@@ -357,7 +395,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.6,
+      "score": 91.3,
       "story_size": 1
     },
     {
@@ -375,7 +413,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.2,
+      "score": 90.9,
       "story_size": 1,
       "image_local": "images/news_82ab9194622fd97d19a1.jpg"
     },
@@ -394,7 +432,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.2,
+      "score": 89.9,
       "story_size": 1
     },
     {
@@ -412,7 +450,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.1,
+      "score": 89.8,
       "story_size": 1,
       "image_local": "images/news_8937de77a8c7c5dac460.webp"
     },
@@ -431,7 +469,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.9,
+      "score": 89.5,
       "story_size": 1
     },
     {
@@ -449,7 +487,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.5,
+      "score": 89.2,
       "story_size": 1,
       "image_local": "images/news_11cf3cf082c51dd7b8a9.webp"
     },
@@ -468,7 +506,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.3,
+      "score": 89.0,
       "story_size": 1,
       "image_local": "images/news_f125bcd7b193ff2b98f8.jpg"
     },
@@ -487,7 +525,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.1,
+      "score": 88.8,
       "story_size": 1
     },
     {
@@ -505,7 +543,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.6,
+      "score": 88.3,
       "story_size": 1
     },
     {
@@ -523,7 +561,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.2,
+      "score": 87.9,
       "story_size": 1,
       "image_local": "images/news_23ddc3443e36aa3bd056.jpg"
     },
@@ -542,7 +580,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.6,
+      "score": 87.3,
       "story_size": 1
     },
     {
@@ -560,7 +598,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.5,
+      "score": 87.2,
       "story_size": 2
     },
     {
@@ -578,7 +616,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.3,
+      "score": 87.0,
       "story_size": 1
     },
     {
@@ -596,7 +634,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.3,
+      "score": 87.0,
       "story_size": 1
     },
     {
@@ -614,7 +652,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.8,
+      "score": 86.5,
       "story_size": 1,
       "image_local": "images/news_7dd19d0196394b89cf06.webp"
     },
@@ -633,7 +671,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.5,
+      "score": 86.2,
       "story_size": 1,
       "image_local": "images/news_b80990f0d17c0d6471ff.webp"
     },
@@ -652,7 +690,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.4,
+      "score": 86.1,
       "story_size": 1,
       "image_local": "images/news_11cf3cf082c51dd7b8a9.webp"
     },
@@ -671,7 +709,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.6,
+      "score": 85.3,
       "story_size": 1
     },
     {
@@ -689,7 +727,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.5,
+      "score": 85.1,
       "story_size": 1
     },
     {
@@ -707,7 +745,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.3,
+      "score": 85.0,
       "story_size": 1
     },
     {
@@ -725,7 +763,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.0,
+      "score": 84.6,
       "story_size": 1
     },
     {
@@ -743,7 +781,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.8,
+      "score": 84.5,
       "story_size": 1,
       "image_local": "images/news_79fcd302dae2a97f21f7.jpg"
     },
@@ -762,7 +800,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.4,
+      "score": 84.1,
       "story_size": 1
     },
     {
@@ -780,7 +818,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.3,
+      "score": 84.0,
       "story_size": 1,
       "image_local": "images/news_95c5d3ef2686d7a57167.webp"
     },
@@ -799,7 +837,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.9,
+      "score": 83.6,
       "story_size": 1,
       "image_local": "images/news_017eb658d1be1fbb0724.webp"
     },
@@ -818,7 +856,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.7,
+      "score": 83.4,
       "story_size": 1
     },
     {
@@ -836,7 +874,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.4,
+      "score": 83.1,
       "story_size": 1,
       "image_local": "images/news_35402d60d010eefb843d.png"
     },
@@ -855,7 +893,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.4,
+      "score": 83.1,
       "story_size": 1,
       "image_local": "images/news_c7ca5e961d04b72e17e0.webp"
     },
@@ -874,7 +912,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.3,
+      "score": 83.0,
       "story_size": 1
     },
     {
@@ -892,7 +930,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.2,
+      "score": 82.9,
       "story_size": 1
     },
     {
@@ -910,7 +948,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.2,
+      "score": 82.9,
       "story_size": 1
     },
     {
@@ -928,7 +966,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.2,
+      "score": 82.9,
       "story_size": 1,
       "image_local": "images/news_a0cab3ea96edddfac91f.jpeg"
     },
@@ -947,7 +985,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.2,
+      "score": 82.9,
       "story_size": 1,
       "image_local": "images/news_76ae47112579d4923c0a.webp"
     },
@@ -966,7 +1004,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.1,
+      "score": 82.8,
       "story_size": 1
     },
     {
@@ -984,7 +1022,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.1,
+      "score": 82.8,
       "story_size": 1
     },
     {
@@ -1002,7 +1040,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.0,
+      "score": 82.7,
       "story_size": 1
     },
     {
@@ -1020,7 +1058,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.0,
+      "score": 82.7,
       "story_size": 1
     },
     {
@@ -1038,7 +1076,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.0,
+      "score": 82.7,
       "story_size": 1
     },
     {
@@ -1056,7 +1094,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.9,
+      "score": 82.6,
       "story_size": 1
     },
     {
@@ -1074,7 +1112,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.8,
+      "score": 82.5,
       "story_size": 1
     },
     {
@@ -1092,7 +1130,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.8,
+      "score": 82.5,
       "story_size": 1
     },
     {
@@ -1110,7 +1148,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.8,
+      "score": 82.5,
       "story_size": 1
     },
     {
@@ -1128,7 +1166,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.7,
+      "score": 82.4,
       "story_size": 1
     },
     {
@@ -1146,7 +1184,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.7,
+      "score": 82.4,
       "story_size": 1
     },
     {
@@ -1164,7 +1202,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.7,
+      "score": 82.4,
       "story_size": 1,
       "image_local": "images/news_344d8eae957b5411675e.webp"
     },
@@ -1183,7 +1221,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.6,
+      "score": 82.3,
       "story_size": 1
     },
     {
@@ -1201,7 +1239,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.5,
+      "score": 82.2,
       "story_size": 1,
       "image_local": "images/news_5b367ffa91d04b91c985.webp"
     },
@@ -1220,7 +1258,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.4,
+      "score": 81.1,
       "story_size": 1,
       "image_local": "images/news_68a6c919752d4ade8cfc.jpg"
     },
@@ -1239,7 +1277,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.2,
+      "score": 80.9,
       "story_size": 1,
       "image_local": "images/news_7dfdac7d5e5659bbaa1b.webp"
     },
@@ -1258,7 +1296,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.1,
+      "score": 80.8,
       "story_size": 1
     },
     {
@@ -1276,7 +1314,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.8,
+      "score": 80.5,
       "story_size": 1
     },
     {
@@ -1294,7 +1332,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.4,
+      "score": 80.1,
       "story_size": 1,
       "image_local": "images/news_dad56c25f19c58b41dde.jpg"
     },
@@ -1313,7 +1351,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.3,
+      "score": 80.0,
       "story_size": 1,
       "image_local": "images/news_1a9c1bf36a1d1829506e.jpg"
     },
@@ -1332,47 +1370,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.0,
+      "score": 79.7,
       "story_size": 1,
       "image_local": "images/news_adc4bb3976bf13b90e23.webp"
-    },
-    {
-      "title": "शक्तिशाली भूकम्पका परकम्पपछि पानामामा सङ्कटकाल घोषणा",
-      "link": "https://www.ratopati.com/story/598919/panama-declares-state-of-emergency-after-powerful-earthquake-aftershocks",
-      "description": "काठमाडाैँ। शक्तिशाली भूकम्पपछि लगातार आएका परकम्पले बस्ती हल्लाएसँगै पानामा सरकारले शनिबार सङ्कटकाल घोषणा गरेको छ। अधिकारीका अनुसार भूकम्पबाट देशका सबै १० प्रान्त र दुई आदिवासी क्षेत्रमा भौतिक क्षति पुगेको छ। मानवीय क्षति नभएको बताइए पनि",
-      "published": "2026-10-11T14:32:38+00:00",
-      "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/earthquake-seismograph-line-960x480_6ronbcdy6t_sjxvey9of8_zCJEuzWauk.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "19a149e5a177bfda",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 94.7,
-      "story_size": 1,
-      "image_local": "images/news_a216bad5696de62d69c8.jpg"
-    },
-    {
-      "title": "जिबुटीको तटमा डुङ्गा दुर्घटना : १०९ आप्रवासीको मृत्यु, ११६ बेपत्ता",
-      "link": "https://www.ratopati.com/story/598918/boat-accident-off-the-coast-of-djibouti-109-migrants-dead-116-missing",
-      "description": "काठमाडाैँ। जिबुटीको तटमा डुङ्गा दुर्घटना हुँदा १५ बालबालिकासहित कम्तीमा १०९ आप्रवासीको मृत्यु भएको छ भने ११६ जना बेपत्ता भएका छन्। संयुक्त राष्ट्रसङ्घको अन्तर्राष्ट्रिय आप्रवासन सङ्गठन (आईओएम) ले आइतबार उक्त जानकारी दिएको हो। आईओएमका अनुसार अक्टोबर ८",
-      "published": "2026-10-11T14:29:10+00:00",
-      "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/setting/banner-image_sPOGzj8QHe.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "b8b9f0b5c580a739",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 94.4,
-      "story_size": 1,
-      "image_local": "images/news_31088225b6e74eec8103.jpg"
     },
     {
       "title": "बूढीगण्डकीमा बाढीको सूचना पाएलगत्तै देखि प्रतिकार्यको काम भइरहेको छ : प्रधानमन्त्री",
@@ -1389,7 +1389,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.9,
+      "score": 78.6,
       "story_size": 1
     },
     {
@@ -1407,7 +1407,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.7,
+      "score": 78.4,
       "story_size": 1
     },
     {
@@ -1425,7 +1425,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.6,
+      "score": 78.3,
       "story_size": 1
     },
     {
@@ -1443,7 +1443,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.6,
+      "score": 78.3,
       "story_size": 1
     },
     {
@@ -1461,7 +1461,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.1,
+      "score": 77.8,
       "story_size": 1,
       "image_local": "images/news_8aa7f6774042b4d5fc51.jpg"
     },
@@ -1480,7 +1480,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.1,
+      "score": 77.8,
       "story_size": 1,
       "image_local": "images/news_fb4c90f56c2f2b8d560e.jpg"
     },
@@ -1499,7 +1499,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.3,
+      "score": 77.0,
       "story_size": 1
     },
     {
@@ -1517,7 +1517,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.0,
+      "score": 75.7,
       "story_size": 1
     },
     {
@@ -1535,7 +1535,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.7,
+      "score": 75.4,
       "story_size": 1
     },
     {
@@ -1553,7 +1553,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.3,
+      "score": 74.0,
       "story_size": 1
     },
     {
@@ -1571,7 +1571,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.7,
+      "score": 73.4,
       "story_size": 1
     },
     {
@@ -1589,7 +1589,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.0,
+      "score": 72.7,
       "story_size": 1
     },
     {
@@ -1607,7 +1607,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.9,
+      "score": 72.6,
       "story_size": 1
     },
     {
@@ -1625,7 +1625,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.5,
+      "score": 72.2,
       "story_size": 1
     },
     {
@@ -1643,7 +1643,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.3,
+      "score": 72.0,
       "story_size": 1
     },
     {
@@ -1661,7 +1661,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.0,
+      "score": 71.7,
       "story_size": 1
     },
     {
@@ -1679,7 +1679,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.0,
+      "score": 71.7,
       "story_size": 1
     },
     {
@@ -1697,7 +1697,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.6,
+      "score": 71.3,
       "story_size": 1
     },
     {
@@ -1715,7 +1715,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.3,
+      "score": 71.0,
       "story_size": 1
     },
     {
@@ -1733,7 +1733,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.2,
+      "score": 70.9,
       "story_size": 1
     },
     {
@@ -1751,7 +1751,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.2,
+      "score": 70.9,
       "story_size": 1
     },
     {
@@ -1769,7 +1769,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.0,
+      "score": 70.7,
       "story_size": 1
     },
     {
@@ -1787,7 +1787,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.0,
+      "score": 70.7,
       "story_size": 1
     },
     {
@@ -1805,7 +1805,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.1,
+      "score": 69.8,
       "story_size": 1
     },
     {
@@ -1823,7 +1823,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.7,
+      "score": 69.4,
       "story_size": 1
     },
     {
@@ -1841,7 +1841,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.6,
+      "score": 69.3,
       "story_size": 1
     },
     {
@@ -1859,7 +1859,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.3,
+      "score": 69.0,
       "story_size": 1
     },
     {
@@ -1877,7 +1877,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.0,
+      "score": 68.7,
       "story_size": 1
     },
     {
@@ -1895,7 +1895,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.0,
+      "score": 68.7,
       "story_size": 1
     },
     {
@@ -1913,7 +1913,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.7,
+      "score": 68.4,
       "story_size": 1
     },
     {
@@ -1931,7 +1931,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.4,
+      "score": 68.1,
       "story_size": 1
     },
     {
@@ -1949,7 +1949,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.0,
+      "score": 67.7,
       "story_size": 1
     },
     {
@@ -1967,7 +1967,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.6,
+      "score": 67.3,
       "story_size": 1
     },
     {
@@ -1985,7 +1985,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.1,
+      "score": 66.8,
       "story_size": 1
     },
     {
@@ -2003,7 +2003,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.4,
+      "score": 66.1,
       "story_size": 1
     },
     {
@@ -2021,7 +2021,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.9,
+      "score": 65.6,
       "story_size": 1
     },
     {
@@ -2039,7 +2039,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.6,
+      "score": 65.3,
       "story_size": 1
     },
     {
@@ -2057,7 +2057,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.3,
+      "score": 65.0,
       "story_size": 1
     },
     {
@@ -2075,7 +2075,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.0,
+      "score": 64.7,
       "story_size": 1
     },
     {
@@ -2093,7 +2093,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.0,
+      "score": 64.6,
       "story_size": 1
     },
     {
@@ -2111,7 +2111,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.7,
+      "score": 64.4,
       "story_size": 1
     },
     {
@@ -2129,7 +2129,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.5,
+      "score": 64.2,
       "story_size": 1
     },
     {
@@ -2147,7 +2147,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.5,
+      "score": 64.2,
       "story_size": 1
     },
     {
@@ -2165,7 +2165,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.4,
+      "score": 63.1,
       "story_size": 1
     },
     {
@@ -2183,7 +2183,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.4,
+      "score": 62.1,
       "story_size": 1
     },
     {
@@ -2201,7 +2201,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.8,
+      "score": 61.5,
       "story_size": 1
     },
     {
@@ -2219,7 +2219,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.0,
+      "score": 60.7,
       "story_size": 1
     },
     {
@@ -2237,7 +2237,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.8,
+      "score": 60.5,
       "story_size": 1
     },
     {
@@ -2255,7 +2255,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.1,
+      "score": 59.8,
       "story_size": 1
     },
     {
@@ -2273,7 +2273,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.2,
+      "score": 58.9,
       "story_size": 1
     },
     {
@@ -2291,7 +2291,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.2,
+      "score": 58.9,
       "story_size": 1
     },
     {
@@ -2309,7 +2309,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.4,
+      "score": 58.1,
       "story_size": 1
     },
     {
@@ -2327,7 +2327,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.1,
+      "score": 57.8,
       "story_size": 1
     },
     {
@@ -2345,7 +2345,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.0,
+      "score": 57.7,
       "story_size": 1
     },
     {
@@ -2363,7 +2363,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.7,
+      "score": 57.4,
       "story_size": 1
     },
     {
@@ -2381,7 +2381,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.5,
+      "score": 57.2,
       "story_size": 1
     },
     {
@@ -2399,7 +2399,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 61.6,
+      "score": 46.3,
       "story_size": 1
     },
     {
@@ -2417,7 +2417,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 54.8,
+      "score": 39.5,
       "story_size": 1
     },
     {
@@ -2435,7 +2435,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 50.5,
+      "score": 35.2,
       "story_size": 1
     },
     {
@@ -2453,7 +2453,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 46.3,
+      "score": 31.0,
       "story_size": 1
     },
     {
