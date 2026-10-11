@@ -1,25 +1,164 @@
 {
   "date_np": "2026-10-11",
-  "generated_at": "2026-10-10T22:37:29.886015+00:00",
+  "generated_at": "2026-10-11T01:18:28.287228+00:00",
   "items": [
     {
-      "title": "उपसभापति र महामन्त्रीमा कसको मत कति ?",
-      "link": "https://baahrakhari.com/detail/504526",
-      "description": "",
-      "published": "2026-10-11T00:48:00+05:45",
-      "source": "Baahrakhari",
-      "category": "politics",
+      "title": "देशका हिमाली र पहाडी भूभागमा वर्षा र हिमपातको सम्भावना",
+      "link": "https://www.ratopati.com/story/598733/chance-of-rain-and-snowfall-in-the-mountainous-and-hilly-areas-of-the-country",
+      "description": "काठमाडौँ । हाल देशमा पश्चिमी न्यून चापीय प्रणालीका साथै मनसुनी वायुको प्रभाव छ । हिमाली भूभागमा साधारणतया बादल लागेको छ भने बाँकी भूभागमा आंशिक बादल लागेको छ । आज दिउँसो हिमाली र पहाडी भूभागमा आंशिक बादल",
+      "published": "2026-10-11T01:10:36+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/weather-update_xGeV84Ahjp.webp",
+      "related_sources": [
+        "Ratopati",
+        "Thaha Khabar",
+        "Gorkhapatra Online",
+        "Baahrakhari",
+        "Lokaantar"
+      ],
+      "id": "62b89b0da04b5545",
+      "source_count": 5,
+      "verified": true,
+      "local": false,
+      "score": 166.5,
+      "story_size": 6,
+      "image_local": "images/news_c02d10df0ecd27cbfa74.webp"
+    },
+    {
+      "title": "विदेशी मुद्राको विनिमयदर : कुन देशको कति ?",
+      "link": "https://www.ratopati.com/story/598730/foreign-currency-exchange-rates-how-much-for-which-country",
+      "description": "काठमाडौँ । नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५४ रुपैयाँ ४८ पैसा र बिक्रीदर १५५ रुपैयाँ ०८ पैसा निर्धारण गरिएको छ । युरोपियन",
+      "published": "2026-10-11T01:07:44+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://npcdn.ratopati.com/media/news/forex_g5zWyL63Qc.webp",
+      "related_sources": [
+        "Ratopati",
+        "OnlineKhabar"
+      ],
+      "id": "b93ab5e32abb9941",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 136.3,
+      "story_size": 2,
+      "image_local": "images/news_f2c6dcc1e8de2c3cb7a1.webp"
+    },
+    {
+      "title": "नाकामा चाडपर्व मनाउन घर फर्किनेको भीड",
+      "link": "https://www.ratopati.com/story/598729/crowds-returning-home-to-celebrate-festivals-at-the-border",
+      "description": "कञ्चनपुर । दसैँ सुरु भएसँगै रोजगारीका लागि भारतका विभिन्न सहरमा गएका नेपाली घर फर्किन थालेपछि गड्डाचौकी नाकामा चहलपहल बढेको छ । भारतका विभिन्न स्थानमा रोजगारी गर्दै आएका नेपाली चाडपर्व परिवारसँग मनाउन स्वदेश फर्किन थालेका हुन् ।",
+      "published": "2026-10-11T01:06:36+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/dlYzGdVGGy.jpg",
+      "related_sources": [
+        "Ratopati",
+        "Lokaantar"
+      ],
+      "id": "245c69e35ef3483f",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 136.2,
+      "story_size": 2,
+      "image_local": "images/news_5b0ed6261acd75db7341.jpg"
+    },
+    {
+      "title": "पूर्वराजाले यस वर्ष सर्वसाधारणलाई दसैँको टीका नलगाउने",
+      "link": "https://www.ratopati.com/story/598728/former-king-will-not-administer-dashain-tika-to-the-common-people-this-year",
+      "description": "काठमाडौँ । पूर्वराजा ज्ञानेन्द्र शाहले यस वर्षको विजया दशमीका दिन सर्वसाधारणलाई टीका तथा जमरा नलगाइदिने भएका छन् । उनको संवाद सचिवालय निर्मल निवासले आइतबार सूचना जारी गर्दै पूर्वराजा शाहले यस वर्षको वडा दसैँ पर्व सादगीपूर्वक मनाउने",
+      "published": "2026-10-11T01:03:54+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/gyanendra-shaha_Xbpk9e6zM0.png",
+      "related_sources": [
+        "Ratopati",
+        "Lokaantar"
+      ],
+      "id": "cb719244ae06b297",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 136.1,
+      "story_size": 2
+    },
+    {
+      "title": "आज यी प्रदेशमा वर्षा हुने र तराईमा हुस्सु लाग्ने",
+      "link": "https://kendrabindu.com/news/563031/",
+      "description": "काठमाडौं । हाल देशमा पश्चिमी न्यून चापीय प्रणालीका साथै मनसुनी वायुको प्रभाव समेत रहेको छ। मौसम पूर्वानुमान महाशाखाका अनुसार तराईका केही भू-भागमा बिहानपख हुस्सु लाग्ने सम्भावना छ। साथै कोशी, बागमती र कर्णाली प्रदेशका हिमाली र पहाडी भू-भागमा मध्यमसम्मको वर्षा र हिमपातको सम्भावना रहेको छ । आज देशको हिमाली र पहाडी भू-भागमा आंशिक बादल लाग्ने तथा [&#8230;]",
+      "published": "2026-10-11T00:26:15+00:00",
+      "source": "Kendrabindu",
+      "category": "nepal",
       "image": "",
       "related_sources": [
-        "Baahrakhari"
+        "Kendrabindu"
       ],
-      "id": "40969c056b94d982",
+      "id": "80da8a402ee7e6ec",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 124.5,
+      "story_size": 1
+    },
+    {
+      "title": "रियाद विमानस्थलमा फेरि आक्रमण, १२ जनाको मृत्यु, ३०० घाइते",
+      "link": "https://www.thahakhabar.com/detail/310148",
+      "description": "",
+      "published": "2026-10-11T07:00:12+05:45",
+      "source": "Thaha Khabar",
+      "category": "nepal",
+      "image": "https://www.thahakhabar.com/uploads/posts/RIYAD-1791681303.jpg",
+      "related_sources": [
+        "Thaha Khabar"
+      ],
+      "id": "cae1527bcddb9442",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.7,
-      "story_size": 1
+      "score": 112.8,
+      "story_size": 1,
+      "image_local": "images/news_8ec45d86d74cbe9e03d9.jpg"
+    },
+    {
+      "title": "निजी विद्यालयको छात्रवृत्ति : अझै अपारदर्शी, अनुगमन गर्न निर्देशन",
+      "link": "https://gorkhapatraonline.com/news/226232",
+      "description": "काठमाडौँ, असोज २५ गते । निजी तथा संस्थागत विद्यालय सञ्चालकले विद्यार्थीलाई नियम अनुसार प्रदान गर्नुपर्ने छात्रवृत्ति वितरण अझै पारदर्शी हुन सकेको छैन । शिक्षा ऐनले विद्यार्थीको भर्...",
+      "published": "2026-10-11T07:00:08+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "society",
+      "image": "https://gorkhapatraonline.com/storage/media/387525/conversions/33-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "a38ab16a5c080f31",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.8,
+      "story_size": 1,
+      "image_local": "images/news_65311afe67008562b7c9.jpg"
+    },
+    {
+      "title": "मिथिला क्षेत्रमा आजदेखि दसैँको रौनक, ४० स्थानमा दुर्गा मेला",
+      "link": "https://www.ratopati.com/story/598734/dashain-celebrations-begin-in-mithila-region-from-today-durga-mela-at-40-locations",
+      "description": "महोत्तरी । नेपालीको राष्ट्रिय चाड दसैँ आजदेखि सुरु भएको छ । महोत्तरीसहित मिथिला क्षेत्रमा दसैँलाई दशहरा (शारदीय नवरात्र) का रूपमा मनाइने भएकाले गाउँदेखि सहरसम्म चहलपहल बढेको छ । शारदीय नवरात्रको पहिलो दिन आज घटस्थापनाका लागि देवी",
+      "published": "2026-10-11T01:14:03+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/mithila_FZM3bYuSHR.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "841ffa25cf5f4db7",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.7,
+      "story_size": 1,
+      "image_local": "images/news_7ad43e3f5fa420c9f130.webp"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. उपसभापति र महामन्त्रीमा कसको मत कति ?\nस्रोत: Baahrakhari\nhttps://baahrakhari.com/detail/504526\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. देशका हिमाली र पहाडी भूभागमा वर्षा र हिमपातको सम्भावना\nस्रोत: Ratopati, Thaha Khabar, Gorkhapatra Online\nhttps://www.ratopati.com/story/598733/chance-of-rain-and-snowfall-in-the-mountainous-and-hilly-areas-of-the-country\n\n2. विदेशी मुद्राको विनिमयदर : कुन देशको कति ?\nस्रोत: Ratopati, OnlineKhabar\nhttps://www.ratopati.com/story/598730/foreign-currency-exchange-rates-how-much-for-which-country\n\n3. नाकामा चाडपर्व मनाउन घर फर्किनेको भीड\nस्रोत: Ratopati, Lokaantar\nhttps://www.ratopati.com/story/598729/crowds-returning-home-to-celebrate-festivals-at-the-border\n\n4. पूर्वराजाले यस वर्ष सर्वसाधारणलाई दसैँको टीका नलगाउने\nस्रोत: Ratopati, Lokaantar\nhttps://www.ratopati.com/story/598728/former-king-will-not-administer-dashain-tika-to-the-common-people-this-year\n\n5. आज यी प्रदेशमा वर्षा हुने र तराईमा हुस्सु लाग्ने\nस्रोत: Kendrabindu\nhttps://kendrabindu.com/news/563031/\n\n6. रियाद विमानस्थलमा फेरि आक्रमण, १२ जनाको मृत्यु, ३०० घाइते\nस्रोत: Thaha Khabar\nhttps://www.thahakhabar.com/detail/310148\n\n7. निजी विद्यालयको छात्रवृत्ति : अझै अपारदर्शी, अनुगमन गर्न निर्देशन\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/226232\n\n8. मिथिला क्षेत्रमा आजदेखि दसैँको रौनक, ४० स्थानमा दुर्गा मेला\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/598734/dashain-celebrations-begin-in-mithila-region-from-today-durga-mela-at-40-locations\n\n— I Am From Hetauda"
 }
