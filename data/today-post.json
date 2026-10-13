@@ -1,121 +1,163 @@
 {
   "date_np": "2026-10-13",
-  "generated_at": "2026-10-12T19:22:11.079872+00:00",
+  "generated_at": "2026-10-13T01:35:34.770019+00:00",
   "items": [
     {
-      "title": "नक्कली भुटानी शरणार्थी प्रकरण: पुर्वमन्त्री रायमाझीसहितबाट १५ करोड पीडितलाई भराउन आदेश",
-      "link": "https://www.ratopati.com/story/599196/fake-bhutanese-refugee-case-convicted-former-minister-rayamajhi-and-others-ordered-to-pay-rs-150-million-to-victims",
-      "description": "काठमाडौँ । जिल्ला अदालत काठमाडौँले नेपाली नागरिकलाई नक्कली भुटानी शरणार्थी बनाई अमेरिका लैजाने भनी कसुर गरेको अभियोगमा पूर्वगृहमन्त्रीसहित उच्च पदाधिकारीविरुद्ध मुद्दाको फैसलाको पूर्णपाठ सार्वजनिक भएको छ । काठमाडौँ जिल्ला अदालतका न्यायाधीश तेजबहादुर खड्काको इजलासले गत असार",
-      "published": "2026-10-12T19:08:15+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/top-bahadur_l5XIqnv57j.jpg",
+      "title": "नवरात्रको तेस्रो दिनः चन्द्रघण्टा देवीको विशेष पूजा आराधना गरिँदै",
+      "link": "https://gorkhapatraonline.com/news/226462",
+      "description": "काठमाडौँ, असोज २७ गते । नवरात्रको तेस्रो दिन मङ्गलबार दसैँघर वा पूजा कोठामा नौ दुर्गामध्येकी तेस्रो चन्द्रघण्टा देवीको विधिपूर्वक पूजा आराधना गरिँदै छ ।नवदुर्गामध्येकी तेस्रो देवी...",
+      "published": "2026-10-13T06:41:14+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/387856/conversions/chandra-original.jpg",
       "related_sources": [
-        "Ratopati"
+        "Gorkhapatra Online",
+        "Baahrakhari",
+        "Khabarhub",
+        "Lokaantar"
       ],
-      "id": "5243068b39b73450",
-      "source_count": 1,
-      "verified": false,
+      "id": "c2e42714aa72e5a6",
+      "source_count": 4,
+      "verified": true,
       "local": false,
-      "score": 112.1,
-      "story_size": 1,
-      "image_local": "images/news_dacb59046da44488e9ff.jpg"
+      "score": 154.4,
+      "story_size": 4,
+      "image_local": "images/news_f9767ffc4be1119b45df.jpg"
     },
     {
-      "title": "चाडपर्व लक्षित सडक मर्मतलाई तीव्रता",
-      "link": "https://www.ratopati.com/story/599195/road-repairs-targeted-for-festivals-to-be-accelerated",
-      "description": "चितवन । सडक डिभिजन कार्यालय भरतपुरले चाडपर्वलाई लक्षित गरी राष्ट्रिय राजमार्ग तथा मातहतका सडकको मर्मतलाई तीव्रता दिएको छ । बाढी, पहिरो र वर्षाका कारण खाल्डाखुल्डी परेका तथा भत्किएका सडक मर्मत गरी चाडपर्वमा यात्रा सहज बनाउन काम",
-      "published": "2026-10-12T18:54:52+00:00",
+      "title": "आजका लागि तोकियो विदेशी मुद्राको विनिमयदर",
+      "link": "https://gorkhapatraonline.com/news/226464",
+      "description": "काठमाडौँ, असोज २७ गते । नेपाल राष्ट्र बैंकले मङ्गलबारका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५२ रुपियाँ ९४ पैसा र बिक्रीद...",
+      "published": "2026-10-13T06:49:46+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "business",
+      "image": "https://gorkhapatraonline.com/storage/media/387858/conversions/money-exchange-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online",
+        "Khabarhub"
+      ],
+      "id": "cd344aa3f12bcac0",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 135.0,
+      "story_size": 2,
+      "image_local": "images/news_c5f16f1db5b29ec22751.jpg"
+    },
+    {
+      "title": "‘डिजिटल त्रिवि’देखि ‘रिसर्च युनिभर्सिटी’सम्मः के–के हुँदैछन् नयाँ काम ?",
+      "link": "https://www.ratopati.com/story/599218/from-digital-tu-to-research-university-what-new-work-is-being-done",
+      "description": "काठमाडौँ । त्रिभुवन विश्वविद्यालयले आफ्नो प्रशासनिक, शैक्षिक तथा प्राज्ञिक संरचनालाई समयानुकूल बनाउँदै डिजिटल सेवा विस्तार, अनुसन्धान प्रवर्द्धन, संस्थागत पुनःसंरचना र वित्तीय सुधारका नयाँ योजना अघि सारेको छ । त्रिविका सहकुलपति एवं शिक्षा तथा खेलकुदमन्त्री सस्मित पोखरेलको",
+      "published": "2026-10-13T00:22:39+00:00",
       "source": "Ratopati",
       "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/bharatpur-sadak_K11EqlgJ2Q.png",
+      "image": "https://npcdn.ratopati.com/media/news/tu-tribhuwan-university-tribi-1_3l9e3ihk6u_nim7trglqo_AQcKnlZ1op.jpg",
       "related_sources": [
-        "Ratopati"
+        "Ratopati",
+        "Lokaantar"
       ],
-      "id": "059f42fd154b7a26",
-      "source_count": 1,
-      "verified": false,
+      "id": "ed188d2d9b4d4086",
+      "source_count": 2,
+      "verified": true,
       "local": false,
-      "score": 111.2,
-      "story_size": 1,
-      "image_local": "images/news_84515d003425dba04a18.png"
+      "score": 132.2,
+      "story_size": 2,
+      "image_local": "images/news_0d643e7cfe96e620d9de.jpg"
     },
     {
       "title": "अवरुद्ध गलकोट–ताराखोला सडक सञ्चालन",
-      "link": "https://www.ratopati.com/story/599194/operation-of-galkot-tarakhola-road-blocked",
-      "description": "बागलुङ । बाढीले अवरुद्ध गलकोट–ताराखोला सडक दुई सातामा सञ्चालनमा आएको छ । गलकोटदेखि ताराखोला गाउँपालिका जोड्ने मुख्य सडक यही असोज ११ गतेदेखि अवरुद्ध भएको थियो । गलकोट र ताराखोलाको सिमाना गाईघाट झरना नजिक सडकको ट्र्याक बगाएपछि",
-      "published": "2026-10-12T18:50:33+00:00",
+      "link": "https://www.onlinekhabar.com/2026/10/2038072/operation-of-galkot-tarakhola-road-blocked",
+      "description": "बाढीले अवरुद्ध गलकोट–ताराखोला सडक दुई सातामा सञ्चालनमा आएको छ । गलकोटदेखि ताराखोला गाउँपालिका जोड्ने मुख्य सडक यही ११ असोजदेखि अवरूद्ध भएको थियो ।",
+      "published": "2026-10-13T00:36:21+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar",
+        "Ratopati"
+      ],
+      "id": "bac92134e3b1a305",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 130.1,
+      "story_size": 2
+    },
+    {
+      "title": "कहाँ कस्तो छ राजमार्गको अवस्था ? (सूचीसहित)",
+      "link": "https://www.ratopati.com/story/599222/what-is-the-condition-of-the-highways-where-with-list",
+      "description": "काठमाडौँ। विपद्का कारण देशका विभिन्न मुख्य राजमार्गहरू अवरुद्ध भएका छन्। नेपाल प्रहरीको विवरण अनुसार बागमती र गण्डकी प्रदेशका विभिन्न सडक खण्डमा बाढी तथा पहिरोका कारण सवारी आवागमन प्रभावित भएको हो। बागमती प्रदेशको धादिङमा गत असोज",
+      "published": "2026-10-13T01:09:19+00:00",
       "source": "Ratopati",
       "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/baglung-map_saube82urq.jpg",
+      "image": "https://npcdn.ratopati.com/media/news/rasuwa-pahiro-photos-(2)_CC6tz1um6E.webp",
       "related_sources": [
         "Ratopati"
       ],
-      "id": "cd0d36e5542924a4",
+      "id": "1768f07677d93218",
       "source_count": 1,
       "verified": false,
-      "local": false,
-      "score": 110.9,
+      "local": true,
+      "score": 129.3,
       "story_size": 1,
-      "image_local": "images/news_8aceecd1910b59ebb890.jpg"
+      "image_local": "images/news_69a2166e65f63c508b66.webp"
     },
     {
-      "title": "झापामा दुई भारतीय कार र अटोसहित अवैध सामान बरामद",
-      "link": "https://www.ratopati.com/story/599193/illegal-goods-including-two-indian-cars-and-auto-seized-in-jhapa",
-      "description": "झापा । सशस्त्र प्रहरीद्वारा झापाका विभिन्न स्थानबाट दुई भारतीय कार र एक अटोसहित लाखौँ रुपैयाँ बराबरका अवैध सामान बरामद गरेको छ । बरामद सामानमध्ये करिब ४०० केजी माछा नष्ट गरिएको छ । सशस्त्र प्रहरी बल, नेपाल",
-      "published": "2026-10-12T18:21:11+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/jhapa__dhzolqasr2_QnjZRO8TPN.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "5317cd2a04fb07c6",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.0,
-      "story_size": 1,
-      "image_local": "images/news_968e2f5456e5cf33b994.webp"
-    },
-    {
-      "title": "मनसुनी वायुको आंशिक प्रभाव, मङ्गलबार केही स्थानमा हल्का वर्षाको सम्भावना",
-      "link": "https://gorkhapatraonline.com/news/226458",
-      "description": "काठमाडौँ, असोज २६ गते । नेपाल मौसम विज्ञान विभागले मङ्गलबार कर्णाली र सुदूरपश्चिम प्रदेशको हिमाली भूभागमा साधारणतया बादल लाग्ने जनाएको छ । सो दिन बाँकी हिमाली भूभाग तथा देशको पहाडी...",
-      "published": "2026-10-13T00:05:36+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/387851/conversions/mausam-1-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "6997cdb6f57a986b",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 108.9,
-      "story_size": 1,
-      "image_local": "images/news_74449239b1f2a97d407d.jpg"
-    },
-    {
-      "title": "१२ बजे १२ समाचार : दसैँमा व्यापार सुस्तदेखि जगत र छेकम्पारबाट उद्धार कुरिरहेका छन् पर्यटकसम्म",
-      "link": "https://www.ratopati.com/story/599192/12-oclock-12-news-from-slow-business-to-tourists-waiting-for-rescue-from-chaos-and-chaos-during-dashain",
-      "description": "काठमाडौँ । आज दिनभरका मुख्य १२ घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति ‘१२ बजे १२ समाचार’मा प्रस्तुत गरेका छौँ– १. प्रस्तावित चार राजदूतको संसदीय सुनुवाइ प्रस्तावित चार राजदूतको संसदीय सुनुवाइ भएको छ । सोमबार संसदीय सुनुवाइ समितिमा भारतका",
-      "published": "2026-10-12T18:15:00+00:00",
-      "source": "Ratopati",
+      "title": "सडकमा बाढीपहिरोको असर : चार ठाउँमा एकतर्फी, एक ठाउँमा पूर्ण बन्द",
+      "link": "https://www.onlinekhabar.com/2026/10/2038093/impact-of-floods-and-landslides-on-roads-one-way-closure-in-four-places-complete-closure-in-one-place",
+      "description": "२७ असोज, काठमाडौं । बाढीपहिरोका कारण देशका विभिन्न जिल्लामा मुख्य राजमार्ग तथा सडकखण्ड प्रभावित भएका छन्। नेपाल प्रहरीले मंगलबार बिहान सार्वजनिक गरेको सूचना अनुसार बागमती र गण्डकी प्रदेशअन्तर्गत धादिङ, म्याग्दी, नवलपरासी पूर्व, मनाङ र गोरखाका विभिन्न स्थानमा पहिरो तथा बाढीका कारण सडक आवागमन प्रभावित भएको छ। धादिङको धुनिबेसी नगरपालिका–९ खत्रीपौवास्थित त्रिभुवन राजपथमा पहिरो खसेपछि एकतर्फी [&#8230;]",
+      "published": "2026-10-13T01:27:50+00:00",
+      "source": "OnlineKhabar",
       "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/cover12-news_WKig1hCaTa.webp",
+      "image": "",
       "related_sources": [
-        "Ratopati"
+        "OnlineKhabar"
       ],
-      "id": "537c76f58f00ebcf",
+      "id": "5e8fbc5234eee826",
       "source_count": 1,
       "verified": false,
+      "local": true,
+      "score": 127.5,
+      "story_size": 1
+    },
+    {
+      "title": "संस्थागत सुत्केरीलाई प्रोत्साहन गर्न निःशुल्क एम्बुलेन्स सेवा",
+      "link": "https://www.ratopati.com/story/599207/free-ambulance-service-to-encourage-institutional-deliveries",
+      "description": "स्याङ्जा । स्याङ्जाको हरिनास गाउँपालिकाले संस्थागत सुत्केरीलाई प्रोत्साहन गर्न निःशुल्क एम्बुलेन्स सेवा उपलब्ध गराएको छ । गाउँपालिकाले चालु आर्थिक वर्षको साउनदेखि लागू हुने गरी गर्भवतीलाई अस्पतालसम्म पुर्‍याउनका लागि निःशुल्क एम्बुलेन्स सेवा उपलब्ध गराएको हो । गर्भवतीलाई",
+      "published": "2026-10-12T22:55:38+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/bnFOPrML90.jpg",
+      "related_sources": [
+        "Ratopati",
+        "Lokaantar"
+      ],
+      "id": "e2c998921fe583b8",
+      "source_count": 2,
+      "verified": true,
       "local": false,
-      "score": 108.5,
-      "story_size": 1,
-      "image_local": "images/news_e01d7781f619348df9a5.webp"
+      "score": 126.4,
+      "story_size": 2,
+      "image_local": "images/news_fb8e749a7be2a3a82224.jpg"
+    },
+    {
+      "title": "पाँचपोखरी थाङ्पालमा तामयीग भाषा शिक्षासम्बन्धी प्रादेशिक सम्मेलन सुरु",
+      "link": "https://www.onlinekhabar.com/2026/10/2038087/provincial-conference-on-tamang-language-education-begins-in-panchpokhari-thangpal",
+      "description": "२७ असोज, काठमाडौं । काठमाडौँ विश्वविद्यालय र नेपाल तामाङ घेदुङको संयुक्त आयोजनामा सिन्धुपाल्चोकको पाँचपोखरी थाङ्पालमा तामयीग भाषा शिक्षासम्बन्धी प्रादेशिक सम्मेलन–२०८३ सुरु भएको छ। सम्मेलनमा तामयीग भाषा, शिक्षा र पहिचानको संरक्षण तथा प्रवर्द्धनका विषयमा छलफल भइरहेको छ। सम्मेलनको पहिलो दिन मातृभाषाको शैक्षिक विकास, पुस्तान्तरण, संस्थागत विस्तार तथा सूचना प्रविधिको प्रयोगमा जोड दिइएको छ। सम्मेलनमा बागमती प्रदेशका [&#8230;]",
+      "published": "2026-10-13T01:05:07+00:00",
+      "source": "OnlineKhabar",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "d2d928bcdbc3460d",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 126.0,
+      "story_size": 1
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. नक्कली भुटानी शरणार्थी प्रकरण: पुर्वमन्त्री रायमाझीसहितबाट १५ करोड पीडितलाई भराउन आदेश\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/599196/fake-bhutanese-refugee-case-convicted-former-minister-rayamajhi-and-others-ordered-to-pay-rs-150-million-to-victims\n\n2. चाडपर्व लक्षित सडक मर्मतलाई तीव्रता\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/599195/road-repairs-targeted-for-festivals-to-be-accelerated\n\n3. अवरुद्ध गलकोट–ताराखोला सडक सञ्चालन\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/599194/operation-of-galkot-tarakhola-road-blocked\n\n4. झापामा दुई भारतीय कार र अटोसहित अवैध सामान बरामद\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/599193/illegal-goods-including-two-indian-cars-and-auto-seized-in-jhapa\n\n5. मनसुनी वायुको आंशिक प्रभाव, मङ्गलबार केही स्थानमा हल्का वर्षाको सम्भावना\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/226458\n\n6. १२ बजे १२ समाचार : दसैँमा व्यापार सुस्तदेखि जगत र छेकम्पारबाट उद्धार कुरिरहेका छन् पर्यटकसम्म\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/599192/12-oclock-12-news-from-slow-business-to-tourists-waiting-for-rescue-from-chaos-and-chaos-during-dashain\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. नवरात्रको तेस्रो दिनः चन्द्रघण्टा देवीको विशेष पूजा आराधना गरिँदै\nस्रोत: Gorkhapatra Online, Baahrakhari, Khabarhub\nhttps://gorkhapatraonline.com/news/226462\n\n2. आजका लागि तोकियो विदेशी मुद्राको विनिमयदर\nस्रोत: Gorkhapatra Online, Khabarhub\nhttps://gorkhapatraonline.com/news/226464\n\n3. ‘डिजिटल त्रिवि’देखि ‘रिसर्च युनिभर्सिटी’सम्मः के–के हुँदैछन् नयाँ काम ?\nस्रोत: Ratopati, Lokaantar\nhttps://www.ratopati.com/story/599218/from-digital-tu-to-research-university-what-new-work-is-being-done\n\n4. अवरुद्ध गलकोट–ताराखोला सडक सञ्चालन\nस्रोत: OnlineKhabar, Ratopati\nhttps://www.onlinekhabar.com/2026/10/2038072/operation-of-galkot-tarakhola-road-blocked\n\n5. कहाँ कस्तो छ राजमार्गको अवस्था ? (सूचीसहित)\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/599222/what-is-the-condition-of-the-highways-where-with-list\n\n6. सडकमा बाढीपहिरोको असर : चार ठाउँमा एकतर्फी, एक ठाउँमा पूर्ण बन्द\nस्रोत: OnlineKhabar\nhttps://www.onlinekhabar.com/2026/10/2038093/impact-of-floods-and-landslides-on-roads-one-way-closure-in-four-places-complete-closure-in-one-place\n\n7. संस्थागत सुत्केरीलाई प्रोत्साहन गर्न निःशुल्क एम्बुलेन्स सेवा\nस्रोत: Ratopati, Lokaantar\nhttps://www.ratopati.com/story/599207/free-ambulance-service-to-encourage-institutional-deliveries\n\n8. पाँचपोखरी थाङ्पालमा तामयीग भाषा शिक्षासम्बन्धी प्रादेशिक सम्मेलन सुरु\nस्रोत: OnlineKhabar\nhttps://www.onlinekhabar.com/2026/10/2038087/provincial-conference-on-tamang-language-education-begins-in-panchpokhari-thangpal\n\n— I Am From Hetauda"
 }
