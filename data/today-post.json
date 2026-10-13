@@ -1,165 +1,121 @@
 {
-  "date_np": "2026-10-13",
-  "generated_at": "2026-10-13T16:28:55.194291+00:00",
+  "date_np": "2026-10-14",
+  "generated_at": "2026-10-13T21:30:03.276674+00:00",
   "items": [
     {
-      "title": "कांग्रेस महिला खुला केन्द्रीय सदस्यमा १४* जना निर्वाचित",
-      "link": "https://baahrakhari.com/detail/504861",
-      "description": "",
-      "published": "2026-10-13T21:14:00+05:45",
-      "source": "Baahrakhari",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari",
-        "Setopati",
-        "Kendrabindu"
-      ],
-      "id": "56259de3ac29135d",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 140.0,
-      "story_size": 3
-    },
-    {
-      "title": "गृहमन्त्रीबाट ‘बिम्स्टेक क्षेत्रीय विपद् पूर्वतयारी तथा प्रतिकार्य रूपरेखा’ निर्माणको प्रस्ताव",
-      "link": "https://www.thahakhabar.com/detail/310305",
-      "description": "",
-      "published": "2026-10-13T22:00:30+05:45",
-      "source": "Thaha Khabar",
-      "category": "politics",
-      "image": "https://www.thahakhabar.com/uploads/posts/BImstec-1791908122.jpg",
-      "related_sources": [
-        "Thaha Khabar",
-        "Gorkhapatra Online"
-      ],
-      "id": "adde2abb907745a4",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 136.1,
-      "story_size": 2,
-      "image_local": "images/news_6a530edc455343761739.jpg"
-    },
-    {
-      "title": "सुदूरपश्चिम प्रदेशको बजेट आज पारित",
-      "link": "https://www.thahakhabar.com/detail/310304",
-      "description": "",
-      "published": "2026-10-13T21:53:00+05:45",
-      "source": "Thaha Khabar",
-      "category": "business",
-      "image": "https://www.thahakhabar.com/uploads/posts/sudur-pashchim-1791907727.jpg",
-      "related_sources": [
-        "Thaha Khabar",
-        "Khabarhub"
-      ],
-      "id": "744eaaa5a030865b",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 135.6,
-      "story_size": 2,
-      "image_local": "images/news_f2ee9c9cf4658e8e2a8d.jpg"
-    },
-    {
-      "title": "रुसी डिजेल निर्यातले मूल्य घटाउनेमा ईयूका अर्थ प्रमुख सशङ्कित",
-      "link": "https://www.ratopati.com/story/599446/eu-finance-chief-doubts-russian-diesel-exports-will-drive-down-prices",
-      "description": "काठमाडाैँ। युरोपेली सङ्घ (ईयू)का अर्थ मामिला प्रमुख भल्डिस डोम्ब्रोभ्स्किसले अमेरिकाले रुसी डिजेल निर्यातलाई अनुमति दिए पनि त्यसले विश्व बजारमा इन्धनको मूल्य घटाउन खासै प्रभाव नपार्ने बताउनुभएको छ । इरान युद्ध सुरु भएयता इन्धनको मूल्य उल्लेख्य",
-      "published": "2026-10-13T15:59:45+00:00",
+      "title": "दसौँ राष्ट्रिय खेलकुदका लागि गण्डकी प्रदेशको तयारी सुरु",
+      "link": "https://www.ratopati.com/story/599459/gandaki-province-begins-preparations-for-10th-national-games",
+      "description": "कास्की । कर्णाली प्रदेशमा आगामी मङ्सिरमा आयोजना हुने दसौँ राष्ट्रिय खेलकुद प्रतियोगिताका लागि गण्डकी प्रदेशले आवश्यक तयारी सुरु गरेको छ । राष्ट्रिय खेलकुदका लागि प्रदेश खेलकुद परिषद्ले गण्डकीका विभिन्न जिल्लामा तयारी अघि बढाएको हो । प्रतियोगिताका",
+      "published": "2026-10-13T20:15:00+00:00",
       "source": "Ratopati",
-      "category": "business",
-      "image": "https://rpcdn.ratopati.com/media/albums/european_ZYFdqvaoJs.JPG",
+      "category": "sports",
+      "image": "https://rpcdn.ratopati.com/media/albums/Gandaki_Province_wNmMvR3ViE.png",
       "related_sources": [
-        "Ratopati",
-        "Lokaantar"
+        "Ratopati"
       ],
-      "id": "57b8d18e29f6c4c4",
-      "source_count": 2,
-      "verified": true,
+      "id": "8e74bd34d7322756",
+      "source_count": 1,
+      "verified": false,
       "local": false,
-      "score": 135.1,
-      "story_size": 2,
-      "image_local": "images/news_b48057524db2f220c3a8.jpg"
+      "score": 108.0,
+      "story_size": 1,
+      "image_local": "images/news_1e2ade8381cfea2a9ee3.png"
     },
     {
-      "title": "‘प्रहरी पनि नागरिक हो, उसलाई पनि दसैँ मनाउने रहर हुन्छ’",
-      "link": "https://www.ratopati.com/story/599435/police-are-also-citizens-they-too-have-the-desire-to-celebrate-dashain",
-      "description": "कर्णाली। हिन्दुहरूको महान् पर्व दसैँ तथा तिहारको अवसर छ। रोजगारी तथा कामको सिलसिलामा स्वदेश तथा विदेशका गएका सबै नेपालीहरू राष्ट्रिय पर्व मनाउन घर फर्कँदैछन् । लामो समयदेखि परिवार, आफन्तजन र साथीभाइ भेट्न नपाएका सबै नेपाली",
-      "published": "2026-10-13T15:23:34+00:00",
+      "title": "नारायणी आइकोनिक पुल निर्माणको जिम्मेवारी पुल सेक्टर पोखरालाई",
+      "link": "https://www.ratopati.com/story/599458/bridge-sector-pokhara-is-responsible-for-the-construction-of-the-iconic-narayani-bridge",
+      "description": "चितवन । नारायणगढ र गैँडाकोट जोड्ने नारायणी नदीमाथि निर्माणाधीन आइकोनिक केबल–स्टेड पुलको निर्माणसम्बन्धी जिम्मेवारी सडक डिभिजन भरतपुरबाट पुल सेक्टर पोखरामा हस्तान्तरण गरिएको छ । गत भदौ ९ गतेको सचिवस्तरीय निर्णयअनुसार पुल निर्माणको जिम्मेवारी हस्तान्तरण गर्ने निर्णय",
+      "published": "2026-10-13T20:00:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/chitwan_map_hQtNsfDIYC.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "e6733a6f2490b621",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 107.0,
+      "story_size": 1,
+      "image_local": "images/news_32ad6bc46001c323f953.jpg"
+    },
+    {
+      "title": "प्रसारण र वितरण लाइन मर्मत गरी मुस्ताङ र अन्नपूर्णमा विद्युत् आपूर्ति",
+      "link": "https://www.ratopati.com/story/599457/repairing-transmission-and-distribution-lines-to-supply-electricity-to-mustang-and-annapurna",
+      "description": "म्याग्दी । पछिल्लो झरी र बाढी पहिरोबाट प्रभावित बनेको म्याग्दीको अन्नपूर्ण गाउँपालिका र मुस्ताङमा विद्युत् आपूर्ति पुनः नियमित गरिएको छ । यही असोज ८ देखि ११ गतेसम्मको झरीपछि कालीगण्डकी नदीमा आएको बाढीले म्याग्दीको अन्नपूर्ण गाउँपालिकाको पोखरेबगर,",
+      "published": "2026-10-13T19:21:34+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://rpcdn.ratopati.com/media/albums/myagdi_Yxx1IewRfU.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "a5eadb1cd2edc6a8",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 104.5,
+      "story_size": 1,
+      "image_local": "images/news_dbce385863c9420be26d.jpg"
+    },
+    {
+      "title": "नवलपुरमा तालिम प्राप्त कुकुरद्वारा सवारीसाधन जाँच",
+      "link": "https://www.ratopati.com/story/599456/trained-dogs-inspect-vehicles-in-nawalpur",
+      "description": "नवलपुर । दसैँ सुरु भएसँगै नवलपुरको सुरक्षा व्यवस्थामा आवश्यक कडाइ गरिएको छ । चाडपर्वलाई लक्षित गर्दै हुनसक्ने सम्भावित जोखिम तथा आपराधिक घटना न्यूनीकरणका लागि प्रहरीले जिल्लाभर सुरक्षा व्यवस्थामा कडाइ गरेको हो । जिल्ला प्रहरी कार्यालय नवलपुरका",
+      "published": "2026-10-13T19:00:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://rpcdn.ratopati.com/media/albums/police_dog_4_AK9IsUpfxw.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "71acb4a363fd9b94",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 103.0,
+      "story_size": 1,
+      "image_local": "images/news_adf7821a99c28a9346e8.jpg"
+    },
+    {
+      "title": "विपद्का घटनामा मानवीय र भौतिक क्षति",
+      "link": "https://www.ratopati.com/story/599455/human-and-material-damage-in-disaster-events",
+      "description": "काठमाडौँ । विभिन्न प्रकृतिका १६ वटा विपद्का घटनामा परी एकको मृत्यु भएको छ भने छ जना घाइते भएका छन् । विपद्का कारण आठ वटा चौपायामा क्षति पुगेको छ भने करिब रु छ लाख ४६ हजार",
+      "published": "2026-10-13T18:24:29+00:00",
       "source": "Ratopati",
       "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/nepal-police-laughing_w2x8NYZy8W.jpg",
+      "image": "https://npcdn.ratopati.com/media/news/bipad_K1MTVLWec3.webp",
       "related_sources": [
-        "Ratopati",
-        "Lokaantar"
+        "Ratopati"
       ],
-      "id": "d3a5114392980cd9",
-      "source_count": 2,
-      "verified": true,
+      "id": "eb3f7fa50c86ce9c",
+      "source_count": 1,
+      "verified": false,
       "local": false,
-      "score": 132.7,
-      "story_size": 2,
-      "image_local": "images/news_a6501504f60087f792fe.jpg"
+      "score": 100.6,
+      "story_size": 1,
+      "image_local": "images/news_e1081d0c69036993bc87.webp"
     },
     {
-      "title": "नेपालको पहिचान र अस्तित्व संकटमा : देव गुरुङ",
-      "link": "https://khabarhub.com/2026/13/1037348/",
-      "description": "काठमाडौँ- नेपाली कम्युनिस्ट पार्टीका नेता देव गुरुङले नेपालको मौलिक पहिचान र राष्ट्रिय अस्तित्व संकटमा परेको बताएका छन्। मंगलवार काठमाडौँमा आयोजित कार्यक्रममा उनले नेपालमा विस्तार भइरहेको नवउदारवादी आर्थिक प्रणालीले नेपालको अस्तित्व र पहिचान संकटमा परेको बताएका हुन्। उनले हाल नेपालको राष्ट्रिय पहिचान, भाषा, संस्कृति, सभ्यता र अर्थतन्त्र संकटमा परेको बताए। नेपालको राष्ट्रिय अस्मिता र स्वाधीनताको रक्षा [&#8230;]",
-      "published": "2026-10-13T16:06:36+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
-        "Thaha Khabar"
-      ],
-      "id": "3d95b2499aa1c9a0",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 132.5,
-      "story_size": 2
-    },
-    {
-      "title": "जर्मनी र बेलायतका विदेशमन्त्रीद्वारा रुसमाथि थप प्रतिबन्ध लगाउन माग",
-      "link": "https://www.ratopati.com/story/599434/german-and-british-foreign-ministers-call-for-more-sanctions-on-russia",
-      "description": "काठमाडाैँ। अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले रुसी डिजेलमाथिको अमेरिकी प्रतिबन्ध खुकुलो पार्ने घोषणा गरेपछि जर्मनी र बेलायतका विदेशमन्त्रीले युक्रेनमाथि रुसको आक्रमणको जवाफमा मस्कोमाथि थप प्रतिबन्ध लगाउनुपर्नेमा जोड दिएका छन्। जर्मन विदेशमन्त्री जोहान वाडेफुलले वार्सा सुरक्षा मञ्च (डब्लुएसएफ)मा",
-      "published": "2026-10-13T15:19:19+00:00",
+      "title": "१२ बजे १२ समाचार : सरकार बदलिने क्रमसँगै दायित्वको भारी थपिँदै, कुन सडक कस्तो अवस्थामा छन् ?",
+      "link": "https://www.ratopati.com/story/599454/12-news-at-1200-pm-with-the-change-of-government-the-burden-of-responsibility-is-increasing-what-is-the-condition-of-which-roads",
+      "description": "काठमाडौँ । आज दिनभरका मुख्य १२ घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति ‘१२ बजे १२ समाचार’मा प्रस्तुत गरेका छौँ– १. कुन सडक कस्तो अवस्थामा छन् ? हिन्दु धर्मावलम्बीहरूको चाड बडादसैँ सुरु भइसकेको छ । रोजगारी, अध्ययन र विभिन्न",
+      "published": "2026-10-13T18:15:09+00:00",
       "source": "Ratopati",
       "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/russia-flag_ZRMevq69o7.jpg",
+      "image": "https://npcdn.ratopati.com/media/news/cover_3Dn8Z3QtwG.webp",
       "related_sources": [
-        "Ratopati",
-        "Lokaantar"
+        "Ratopati"
       ],
-      "id": "150d9ade998892e8",
-      "source_count": 2,
-      "verified": true,
+      "id": "4dd43ed81e9701b6",
+      "source_count": 1,
+      "verified": false,
       "local": false,
-      "score": 132.4,
-      "story_size": 2,
-      "image_local": "images/news_db856010bb4e78d56156.jpg"
-    },
-    {
-      "title": "समस्याग्रस्त १२ सहकारीका थप २३५ जनाले पाए रकम",
-      "link": "https://khabarhub.com/2026/13/1037345/",
-      "description": "काठमाडौँ :&#160;समस्याग्रस्त सहकारी व्यवस्थापन समितिले &#160;१२ समस्याग्रस्त सहकारीको २३५ जनाको बचत फिर्ता गरेको छ। समितिका अनुसार &#160;साना बचतकर्ताको रकम फिर्ता गरिएको हो। सरकारले समस्याग्रस्त सहकारीको ऋण असुलीबाट प्राप्त भएको रकम नै पीडित बचतकर्तालाई फिर्ता गरिएको स्पष्ट पारेको छ। पहिलो चरणमा थोरै बचत रकम भएका बचतकर्ताहरूलाई रकम फिर्ता गरिएको समितिले जनाएको छ। यसरी नै क्रमश बचतकर्ताको [&#8230;]",
-      "published": "2026-10-13T15:39:06+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
-        "Nepal Samaya"
-      ],
-      "id": "cd16a4ea3230f321",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 130.7,
-      "story_size": 2
+      "score": 100.0,
+      "story_size": 1,
+      "image_local": "images/news_0109e82bc2b09da42ff6.webp"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. कांग्रेस महिला खुला केन्द्रीय सदस्यमा १४* जना निर्वाचित\nस्रोत: Baahrakhari, Setopati, Kendrabindu\nhttps://baahrakhari.com/detail/504861\n\n2. गृहमन्त्रीबाट ‘बिम्स्टेक क्षेत्रीय विपद् पूर्वतयारी तथा प्रतिकार्य रूपरेखा’ निर्माणको प्रस्ताव\nस्रोत: Thaha Khabar, Gorkhapatra Online\nhttps://www.thahakhabar.com/detail/310305\n\n3. सुदूरपश्चिम प्रदेशको बजेट आज पारित\nस्रोत: Thaha Khabar, Khabarhub\nhttps://www.thahakhabar.com/detail/310304\n\n4. रुसी डिजेल निर्यातले मूल्य घटाउनेमा ईयूका अर्थ प्रमुख सशङ्कित\nस्रोत: Ratopati, Lokaantar\nhttps://www.ratopati.com/story/599446/eu-finance-chief-doubts-russian-diesel-exports-will-drive-down-prices\n\n5. ‘प्रहरी पनि नागरिक हो, उसलाई पनि दसैँ मनाउने रहर हुन्छ’\nस्रोत: Ratopati, Lokaantar\nhttps://www.ratopati.com/story/599435/police-are-also-citizens-they-too-have-the-desire-to-celebrate-dashain\n\n6. नेपालको पहिचान र अस्तित्व संकटमा : देव गुरुङ\nस्रोत: Khabarhub, Thaha Khabar\nhttps://khabarhub.com/2026/13/1037348/\n\n7. जर्मनी र बेलायतका विदेशमन्त्रीद्वारा रुसमाथि थप प्रतिबन्ध लगाउन माग\nस्रोत: Ratopati, Lokaantar\nhttps://www.ratopati.com/story/599434/german-and-british-foreign-ministers-call-for-more-sanctions-on-russia\n\n8. समस्याग्रस्त १२ सहकारीका थप २३५ जनाले पाए रकम\nस्रोत: Khabarhub, Nepal Samaya\nhttps://khabarhub.com/2026/13/1037345/\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. दसौँ राष्ट्रिय खेलकुदका लागि गण्डकी प्रदेशको तयारी सुरु\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/599459/gandaki-province-begins-preparations-for-10th-national-games\n\n2. नारायणी आइकोनिक पुल निर्माणको जिम्मेवारी पुल सेक्टर पोखरालाई\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/599458/bridge-sector-pokhara-is-responsible-for-the-construction-of-the-iconic-narayani-bridge\n\n3. प्रसारण र वितरण लाइन मर्मत गरी मुस्ताङ र अन्नपूर्णमा विद्युत् आपूर्ति\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/599457/repairing-transmission-and-distribution-lines-to-supply-electricity-to-mustang-and-annapurna\n\n4. नवलपुरमा तालिम प्राप्त कुकुरद्वारा सवारीसाधन जाँच\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/599456/trained-dogs-inspect-vehicles-in-nawalpur\n\n5. विपद्का घटनामा मानवीय र भौतिक क्षति\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/599455/human-and-material-damage-in-disaster-events\n\n6. १२ बजे १२ समाचार : सरकार बदलिने क्रमसँगै दायित्वको भारी थपिँदै, कुन सडक कस्तो अवस्थामा छन् ?\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/599454/12-news-at-1200-pm-with-the-change-of-government-the-burden-of-responsibility-is-increasing-what-is-the-condition-of-which-roads\n\n— I Am From Hetauda"
 }
