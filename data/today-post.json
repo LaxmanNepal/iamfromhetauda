@@ -1,26 +1,125 @@
 {
   "date_np": "2026-10-15",
-  "generated_at": "2026-10-15T00:58:10.671952+00:00",
+  "generated_at": "2026-10-15T05:48:42.836242+00:00",
   "items": [
     {
-      "title": "आजका लागि तोकियो विदेशी मुद्राको विनिमयदर",
-      "link": "https://www.setopati.com/kinmel/banking/400864",
-      "description": "राष्ट्र बैङ्कका अनुसार अमेरिकी डलर एकको खरिददर १५१ रुपैयाँ ९५ पैसा र बिक्रीदर १५२ रुपैयाँ ५५ पैसा निर्धारण गरिएको छ।",
-      "published": "2026-10-15T06:41:57+05:45",
-      "source": "Setopati",
-      "category": "business",
+      "title": "भरतपुर विमानस्थल परिसर सुधार गर्न निर्देशन",
+      "link": "https://khabarhub.com/2026/15/1037731/",
+      "description": "चितवन– चितवनको भरतपुर विमानस्थल परिसर अस्तव्यस्त भएको गुनासो बढेपछि जिल्ला प्रशासन कार्यालयले अनुगमन गरी सम्बन्धित कार्यालयलाई सचेत गराएको छ । विमानस्थल परिसरभित्र रहेका शौचालय दुर्गन्धित भएको, नियमित सरसफाइ नभएको, विमानस्थल परिसरलाई आवश्यक सौन्दर्यता दिने काम नगरिएकोजस्ता गुनासो आएपछि अनुगमन गरिएको हो । चितवन क्षेत्र नम्बर ३ बाट निर्वाचित प्रतिनिधिसभा सदस्यसमेत रहेकी कानुन, न्याय तथा संसदीय [&#8230;]",
+      "published": "2026-10-15T03:08:59+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
       "image": "",
       "related_sources": [
-        "Setopati",
         "Khabarhub",
-        "Ratopati"
+        "Ratopati",
+        "OnlineKhabar",
+        "Lokaantar"
       ],
-      "id": "c061d3e5c18e1eaa",
+      "id": "5846d9eed79d915d",
+      "source_count": 4,
+      "verified": true,
+      "local": false,
+      "score": 143.4,
+      "story_size": 4
+    },
+    {
+      "title": "सुनचाँदीको मूल्य घट्यो",
+      "link": "https://khabarhub.com/2026/15/1037741/",
+      "description": "काठमाडौं&#8211; स्थानीय बजारमा आज सुनको मूल्य १,१०० रुपैयाँ र चाँदीको मूल्य २२० रुपैयाँले घटेको छ । नेपाल सुनचाँदी व्यवसायी महासङ्घका अनुसार आज बिहीबार छापावाल सुन प्रतितोला दुई लाख ८८ हजार ४०० रुपैयाँ र चाँदीको मूल्य चार हजार ३५ रुपैयाँ कायम रहेको छ । बुधबार छापावाल सुन प्रतितोला दुई लाख ८९ हजार ५०० रुपैयाँ र चाँदीको [&#8230;]",
+      "published": "2026-10-15T05:36:48+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub",
+        "Baahrakhari",
+        "Gorkhapatra Online"
+      ],
+      "id": "cf95164912e40b27",
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 143.9,
+      "score": 143.2,
       "story_size": 3
+    },
+    {
+      "title": "बूढीगण्डकी बाढी : प्रभावित क्षेत्रबाट एक हजार बढीको हवाई उद्धार",
+      "link": "https://www.onlinekhabar.com/2026/10/2039595/budhigandaki-flood-over-1000-people-airlifted-from-affected-areas",
+      "description": "२९ असोज, गोरखा । बूढीगण्डकी बाढी प्रभावित क्षेत्रबाट एक हजार बढी नागरिकको हेलिकोप्टरमार्फत उद्धार भएको छ । आइतबारदेखि बिहीबारसम्म एक हजार ४४ जनाको उद्धार भएको सहायक प्रमुख जिल्ला अधिकारी नेत्रप्रसाद शर्माले जानकारी दिए । यसमध्ये ७० जना विदेशी नागरिक रहेका उहाँले बताउनुभएको छ । बाढीले उत्तरी गोरखा जाने पदमार्ग र पुलमा क्षति पुर्‍याएसँगै सो क्षेत्रमा [&#8230;]",
+      "published": "2026-10-15T05:43:46+00:00",
+      "source": "OnlineKhabar",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar",
+        "Ratopati"
+      ],
+      "id": "51f2e1d8f8e1f36b",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 133.7,
+      "story_size": 2
+    },
+    {
+      "title": "ह्यारी र मेघन बेलायतमा संयुक्त रूपमा सार्वजनिक",
+      "link": "https://www.thahakhabar.com/detail/310371",
+      "description": "",
+      "published": "2026-10-15T10:35:29+05:45",
+      "source": "Thaha Khabar",
+      "category": "world",
+      "image": "https://www.thahakhabar.com/uploads/posts/Harrya-1792039818.jpg",
+      "related_sources": [
+        "Thaha Khabar",
+        "Ratopati"
+      ],
+      "id": "194094e7de10a506",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 133.1,
+      "story_size": 2,
+      "image_local": "images/news_7ab88882403562b55a5d.jpg"
+    },
+    {
+      "title": "उदयपुरबाट वार्षिक तीन हजार मेट्रिकटन मासु निर्यात",
+      "link": "https://www.ratopati.com/story/599749/three-thousand-metric-tons-of-meat-are-exported-annually-from-udaipur",
+      "description": "उदयुर । जिल्लाबाट वार्षिक तीन हजार मेट्रिकटन मासु जिल्ला बाहिर निर्यात हुने गरेको छ । वार्षिक आठ हजार मेट्रिकटन मासु उत्पादन हुनेमा तीन हजार १२० मेट्रिकटन मासु जिल्ला बाहिर निर्यात हुने गरेको भेटेरिनरी अस्पताल तथा",
+      "published": "2026-10-15T03:14:25+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/red-meat_QXqbV5KXzc.jpg",
+      "related_sources": [
+        "Ratopati",
+        "Lokaantar"
+      ],
+      "id": "585d096a141dde3c",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 126.7,
+      "story_size": 2,
+      "image_local": "images/news_1bb51a711a4a52618236.jpg"
+    },
+    {
+      "title": "भारतबाट फर्किनेको गड्डाचौकीमा भिड : स्वास्थ्य परीक्षण अनिवार्य",
+      "link": "https://www.onlinekhabar.com/2026/10/2039486/crowd-at-gadda-chowki-for-those-returning-from-india-health-screening-mandatory",
+      "description": "दशैं तिहार मनाउन भारतबाट घर फर्किने यात्रुको गड्डाचौकी नाकामा स्वास्थ्य परीक्षण भइरहेको छ ।",
+      "published": "2026-10-15T02:45:21+00:00",
+      "source": "OnlineKhabar",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar",
+        "Ratopati"
+      ],
+      "id": "0f603fe8c9127e16",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 121.8,
+      "story_size": 2
     },
     {
       "title": "घिरिङ र डेढगाउँ जोड्ने कालीगण्डकीको पुल सञ्चालन",
@@ -32,130 +131,34 @@
       "image": "",
       "related_sources": [
         "Khabarhub",
-        "OnlineKhabar",
-        "Ratopati"
+        "OnlineKhabar"
       ],
       "id": "289d54d5163df00f",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 142.6,
-      "story_size": 3
-    },
-    {
-      "title": "आज दसैँको पाँचौँ दिन : स्कन्दमाताको पूजा आराधना गरिँदै",
-      "link": "https://baahrakhari.com/detail/504982",
-      "description": "",
-      "published": "2026-10-15T05:51:06+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari",
-        "Ratopati"
-      ],
-      "id": "fd03c794a72f629c",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 130.5,
+      "score": 113.3,
       "story_size": 2
     },
     {
-      "title": "विद्युत् व्यापारमा निजीलाई प्रवेश गराउने कार्य अन्तिम चरणमा",
-      "link": "https://gorkhapatraonline.com/news/226736",
-      "description": "गोरखापत्र समाचारदाताकाठमाडौँ, असोज २९ गते । ऊर्जा, जलस्रोत तथा सिँचाइमन्त्री विराजभक्त श्रेष्ठले विद्युत् व्यापारमा निजी क्षेत्रलाई प्रवेश गराउन आवश्यक नीतिगत व्यवस्था अन्तिम चरणमा...",
-      "published": "2026-10-15T06:40:28+05:45",
+      "title": "करदाता प्रोत्साहन उपहार कात्तिक १ गते खोलिने",
+      "link": "https://gorkhapatraonline.com/news/226787",
+      "description": "गोरखापत्र अनलाइनकाठमाडौं, असोज २९ गते । आन्तरिक राजस्व विभागद्वारा पाक्षिक रूपमा सञ्चालन हुने करदाता प्रोत्साहन उपहार कार्यक्रम अन्तर्गत सम्वत् २०८३ आश्विन १६ गतेदेखि ३१ गतेसम्मको...",
+      "published": "2026-10-15T11:31:45+05:45",
       "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/388197/conversions/biraj-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "0a4d72f030223a41",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 112.8,
-      "story_size": 1,
-      "image_local": "images/news_a6ce014acdb87f8e074f.jpg"
-    },
-    {
-      "title": "१४ जना प्रहरी जवान सहायक हवलदारमा बढुवा सिफारिस",
-      "link": "https://www.ratopati.com/story/599734/14-police-constables-recommended-for-promotion-to-assistant-constable",
-      "description": "काठमाडौँ । नेपाल प्रहरीको प्राविधिक प्रहरी समूह, इन्जिनियरिङ उपसमूह (सूचना प्रविधि/कम्प्युटरतर्फ)का १४ जना प्रहरी जवानहरूलाई प्रहरी सहायक हवलदार पदमा बढुवाका लागि सिफारिस गरिएको छ। नेपाल प्रहरी प्रधान कार्यालय, बढुवा समितिको असोज २८ गते बसेको बैठकको निर्णयअनुसार",
-      "published": "2026-10-15T00:51:43+00:00",
-      "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/nepal-police-naxal-naksal_jif3bwdhhn_nlPVfNqdej.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "06af956ae2aaa5c5",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 112.6,
-      "story_size": 1,
-      "image_local": "images/news_f70274a1c77eb0dce4ea.jpg"
-    },
-    {
-      "title": "गुम्बामा बित्दै छ बाढीपीडित बालबालिकाको दैनिकी",
-      "link": "https://gorkhapatraonline.com/news/226735",
-      "description": "गोरखापत्र समाचारदाताकाठमाडौँ, असोज २९ गते । भोटेकोशी–त्रिशूलीमा आएको बाढीले बालबालिकाले अभिभावक गुमाउँदा उनीहरूको दैनिकी नै परिवर्तन भएको छ । एकातिर साथीभाइसँगको बिछोड अर्कातर्फ वि...",
-      "published": "2026-10-15T06:33:18+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "society",
-      "image": "https://gorkhapatraonline.com/storage/media/388198/conversions/12-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "50649a354a150e51",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 112.4,
-      "story_size": 1,
-      "image_local": "images/news_a1c2b2d910768823690c.jpg"
-    },
-    {
-      "title": "१८ दिनपछि खुल्यो कालीगण्डकी पुल, करिडोर क्षेत्रका यात्रुलाई सहज",
-      "link": "https://www.thahakhabar.com/detail/310364",
-      "description": "",
-      "published": "2026-10-15T06:22:30+05:45",
-      "source": "Thaha Khabar",
       "category": "business",
-      "image": "https://www.thahakhabar.com/uploads/posts/Kaligandaki-pul-1792024627.jpg",
-      "related_sources": [
-        "Thaha Khabar"
-      ],
-      "id": "56d68c4151897260",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 111.6,
-      "story_size": 1,
-      "image_local": "images/news_3702330ce528ccca1af9.jpg"
-    },
-    {
-      "title": "हिमाली पर्यटकीय राजमार्गको सम्भाव्यता अध्ययन सम्झौता",
-      "link": "https://gorkhapatraonline.com/news/226734",
-      "description": "गोरखापत्र समाचारदाताकाठमाडौँ, असोज २९ गते । सरकारले देशका हिमाली क्षेत्रलाई सडक सञ्जालमा जोड्दै पर्यटन प्रवर्धन गर्ने उद्देश्यका साथ महत्वाकाङ्क्षी पूर्व–पश्चिम हिमाली पर्यटकीय राज...",
-      "published": "2026-10-15T06:21:41+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/388195/conversions/sunil-original.jpg",
+      "image": "https://gorkhapatraonline.com/storage/media/388255/conversions/Artha-mantralaya-finance-ministry-original.jpg",
       "related_sources": [
         "Gorkhapatra Online"
       ],
-      "id": "97c0bfb72105df7c",
+      "id": "88f6664c23d6b875",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.6,
+      "score": 112.9,
       "story_size": 1,
-      "image_local": "images/news_3480c41c48e8d3ec1e58.jpg"
+      "image_local": "images/news_f1b0d4837e67f9660466.jpg"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. आजका लागि तोकियो विदेशी मुद्राको विनिमयदर\nस्रोत: Setopati, Khabarhub, Ratopati\nhttps://www.setopati.com/kinmel/banking/400864\n\n2. घिरिङ र डेढगाउँ जोड्ने कालीगण्डकीको पुल सञ्चालन\nस्रोत: Khabarhub, OnlineKhabar, Ratopati\nhttps://khabarhub.com/2026/15/1037711/\n\n3. आज दसैँको पाँचौँ दिन : स्कन्दमाताको पूजा आराधना गरिँदै\nस्रोत: Baahrakhari, Ratopati\nhttps://baahrakhari.com/detail/504982\n\n4. विद्युत् व्यापारमा निजीलाई प्रवेश गराउने कार्य अन्तिम चरणमा\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/226736\n\n5. १४ जना प्रहरी जवान सहायक हवलदारमा बढुवा सिफारिस\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/599734/14-police-constables-recommended-for-promotion-to-assistant-constable\n\n6. गुम्बामा बित्दै छ बाढीपीडित बालबालिकाको दैनिकी\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/226735\n\n7. १८ दिनपछि खुल्यो कालीगण्डकी पुल, करिडोर क्षेत्रका यात्रुलाई सहज\nस्रोत: Thaha Khabar\nhttps://www.thahakhabar.com/detail/310364\n\n8. हिमाली पर्यटकीय राजमार्गको सम्भाव्यता अध्ययन सम्झौता\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/226734\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. भरतपुर विमानस्थल परिसर सुधार गर्न निर्देशन\nस्रोत: Khabarhub, Ratopati, OnlineKhabar\nhttps://khabarhub.com/2026/15/1037731/\n\n2. सुनचाँदीको मूल्य घट्यो\nस्रोत: Khabarhub, Baahrakhari, Gorkhapatra Online\nhttps://khabarhub.com/2026/15/1037741/\n\n3. बूढीगण्डकी बाढी : प्रभावित क्षेत्रबाट एक हजार बढीको हवाई उद्धार\nस्रोत: OnlineKhabar, Ratopati\nhttps://www.onlinekhabar.com/2026/10/2039595/budhigandaki-flood-over-1000-people-airlifted-from-affected-areas\n\n4. ह्यारी र मेघन बेलायतमा संयुक्त रूपमा सार्वजनिक\nस्रोत: Thaha Khabar, Ratopati\nhttps://www.thahakhabar.com/detail/310371\n\n5. उदयपुरबाट वार्षिक तीन हजार मेट्रिकटन मासु निर्यात\nस्रोत: Ratopati, Lokaantar\nhttps://www.ratopati.com/story/599749/three-thousand-metric-tons-of-meat-are-exported-annually-from-udaipur\n\n6. भारतबाट फर्किनेको गड्डाचौकीमा भिड : स्वास्थ्य परीक्षण अनिवार्य\nस्रोत: OnlineKhabar, Ratopati\nhttps://www.onlinekhabar.com/2026/10/2039486/crowd-at-gadda-chowki-for-those-returning-from-india-health-screening-mandatory\n\n7. घिरिङ र डेढगाउँ जोड्ने कालीगण्डकीको पुल सञ्चालन\nस्रोत: Khabarhub, OnlineKhabar\nhttps://khabarhub.com/2026/15/1037711/\n\n8. करदाता प्रोत्साहन उपहार कात्तिक १ गते खोलिने\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/226787\n\n— I Am From Hetauda"
 }
