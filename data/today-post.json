@@ -1,160 +1,168 @@
 {
   "date_np": "2026-10-16",
-  "generated_at": "2026-10-16T00:48:22.645133+00:00",
+  "generated_at": "2026-10-16T05:40:29.949991+00:00",
   "items": [
     {
-      "title": "नवरात्रको छैठौं दिन कात्यायनी देवीको विशेष पूजा आराधना गरिँदै",
-      "link": "https://www.thahakhabar.com/detail/310412",
-      "description": "",
-      "published": "2026-10-16T06:17:11+05:45",
-      "source": "Thaha Khabar",
+      "title": "मन्त्रिपरिषद् बैठक बस्दै",
+      "link": "https://kendrabindu.com/politics/564335/",
+      "description": "काठमाडौं । आज मन्त्रिपरिषद् बैठक बस्दैछ । मध्याह्न साढे १२ बजे सिंहदरबारस्थित प्रधानमन्त्री एवं मन्त्रिपरिषद् कार्यालयमा बैठक बस्न लागेको हो ।",
+      "published": "2026-10-16T05:24:58+00:00",
+      "source": "Kendrabindu",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu",
+        "OnlineKhabar",
+        "Baahrakhari",
+        "Ratopati"
+      ],
+      "id": "926887ec08d76c4f",
+      "source_count": 4,
+      "verified": true,
+      "local": false,
+      "score": 153.0,
+      "story_size": 4
+    },
+    {
+      "title": "घटस्थापनापछि उपत्यकाबाट तीन लाख ४८ हजार यात्रु बाहिरिए",
+      "link": "https://www.setopati.com/social/400963",
+      "description": "दसैंका लागि घर फर्किने यात्रुको संख्या बढेसँगै यातायात व्यवसायीलाई यात्रु व्यवस्थापन गर्न समस्या परेको छ।",
+      "published": "2026-10-16T10:52:05+05:45",
+      "source": "Setopati",
       "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/katyani-1792110697.jpg",
+      "image": "",
+      "related_sources": [
+        "Setopati",
+        "Khabarhub",
+        "Ratopati"
+      ],
+      "id": "61a0c71b6b6d8615",
+      "source_count": 3,
+      "verified": true,
+      "local": false,
+      "score": 141.8,
+      "story_size": 3
+    },
+    {
+      "title": "सरकारले दिगो खाद्यसुरक्षा सुनिश्चित गर्ने नीति लिएको छ : कृषिमन्त्री चौधरी",
+      "link": "https://www.ratopati.com/story/599991/government-has-adopted-a-policy-to-ensure-sustainable-food-security-agriculture-minister-chaudhary",
+      "description": "काठमाडौँ । कृषि, वन तथा पर्यावरणमन्त्री गीता चौधरीले सरकारले नेपालको संविधानको धारा ३६ ले खाद्यसम्बन्धी हकलाई मूर्तरुप दिन विभिन्न कानुन र योजनामार्फत भोकमरी अन्त्य गर्ने र दिगो खाद्यसुरक्षा सुनिश्चित गर्ने नीति लिएको उल्लेख गरेकी छिन्। सरकारले",
+      "published": "2026-10-16T04:01:41+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/gita-chaudhary_6bM87azkpP.jpg",
+      "related_sources": [
+        "Ratopati",
+        "OnlineKhabar",
+        "Khabarhub"
+      ],
+      "id": "79387372733d3561",
+      "source_count": 3,
+      "verified": true,
+      "local": false,
+      "score": 140.4,
+      "story_size": 3,
+      "image_local": "images/news_ef6a06cbd7812af46477.jpg"
+    },
+    {
+      "title": "कालीगण्डकी बाढी : रातोपानीको तातोपानी कुण्ड बगरमा परिणत",
+      "link": "https://www.onlinekhabar.com/2026/10/2040127/kaligandaki-flood-hot-water-tank-of-ratopani-turns-into-a-swamp",
+      "description": "३० असोज, म्याग्दी । प्राकृतिक उपचार र पर्यटकीय स्थलको विकास हुन थालेको म्याग्दीको अन्नपूर्ण गाउँपालिका-६ रातोपानीमा रहेका तातोपानी कुण्ड बगरमा परिणत भएको छ । यही असोज ८ देखि ११ गतेसम्मको झरिपछि कालीगण्डकी नदीमा आएको बाढी र कटानले कुण्डका संरचना बगाएपछि पर्यटक र बिरामीको आकर्षण बनेको तातोपानी कुण्डको अस्तित्व मेटिएको हो । कुण्डको संरक्षण र पर्यटकीय [&#8230;]",
+      "published": "2026-10-16T04:12:55+00:00",
+      "source": "OnlineKhabar",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar",
+        "Thaha Khabar",
+        "Ratopati"
+      ],
+      "id": "8ba3f44003e24cd9",
+      "source_count": 3,
+      "verified": true,
+      "local": false,
+      "score": 138.2,
+      "story_size": 3
+    },
+    {
+      "title": "मानव–वन्यजन्तु द्वन्द्व न्यूनीकरण गर्न पूर्वसूचना प्रणाली जडान",
+      "link": "https://www.thahakhabar.com/detail/310426",
+      "description": "",
+      "published": "2026-10-16T11:21:51+05:45",
+      "source": "Thaha Khabar",
+      "category": "business",
+      "image": "https://www.thahakhabar.com/uploads/posts/banyajantu-dwanda-nyunikaran-1792129005.jpg",
       "related_sources": [
         "Thaha Khabar",
         "Khabarhub"
       ],
-      "id": "8dfaa16b29d5d2ed",
+      "id": "e4239896a5da8f8a",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 135.9,
+      "score": 136.8,
       "story_size": 2,
-      "image_local": "images/news_292cec06799ef8ddfe83.jpg"
+      "image_local": "images/news_aca5a67cf593cc005d1a.jpg"
     },
     {
-      "title": "पहिरो प्रभावितलाई श्रमदानबाट अस्थायी आवास",
-      "link": "https://www.onlinekhabar.com/2026/10/2040026/temporary-housing-for-landslide-victims-through-shramdan",
-      "description": "३० असोज, म्याग्दी । म्याग्दीको बेनी नगरपालिका–९ ढोल्ठानमा स्वयंसेवकहरूले श्रमदान गरेर पहिरो प्रभावितहरूका लागि अस्थायी आवास निर्माण गरेका छन् । यही असोज ८ देखि ११ गतेसम्म परेको अविरल वर्षापछि गएको पहिरोले ढोल्ठानका रामचन्द्र परियार र रेखा दर्जीको घर बगाएको थियो । घर गुमाएर समस्यामा परेका दुवै परिवारका लागि साहारा समूहका स्वयंसेवकको श्रमदान र स्थानीयवासीको सहयोगमा [&#8230;]",
-      "published": "2026-10-16T00:39:30+00:00",
-      "source": "OnlineKhabar",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar",
-        "Ratopati"
-      ],
-      "id": "b3a2f1f50b628099",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 133.4,
-      "story_size": 2
-    },
-    {
-      "title": "क्यान्सर अस्पताल सुधारका लागि अध्ययन समिति",
-      "link": "https://www.onlinekhabar.com/2026/10/2040027/study-committee-for-cancer-hospital-reform",
-      "description": "३० चितवन, चितवन । चितवनको भरतपुरस्थित बीपी कोइराला मेमोरियल क्यान्सर अस्पतालका समस्या पहिचान गरी सुधारका लागि समिति बनाइएको छ । अस्पताल सञ्चालक समितिले पूर्णता पाएसँगै सुधार समिति बनाइएको हो । अस्पताल सञ्चालक समितिका सदस्य डा डिल्लीराम भण्डारीको संयोजकत्वमा सञ्चालक सदस्यद्वय डा शान्ति भुर्तेल र इशा प्रधान सदस्य रहेको समिति बनाइएको अस्पतालले जनाएको छ । अस्पतालका [&#8230;]",
-      "published": "2026-10-16T00:37:33+00:00",
-      "source": "OnlineKhabar",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar",
-        "Ratopati"
-      ],
-      "id": "70ded7a7724d73f9",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 133.3,
-      "story_size": 2
-    },
-    {
-      "title": "भोटेकोशी–त्रिशूली बाढीमा क्षतिग्रस्त १८ झोलुङ्गे पुल मर्मतपछि सञ्चालनमा",
-      "link": "https://www.onlinekhabar.com/2026/10/2040011/18-suspension-bridges-damaged-in-bhotekoshi-trishuli-floods-are-operational-after-repair",
-      "description": "३० असोज, काठमाडौं । भोटेकोशी–त्रिशूली नदीमा आएको बाढीका कारण क्षतिग्रस्त भएका १८ वटा झोलुङ्गे पुल मर्मत गरी सञ्चालनमा ल्याइएको छ । पूर्वाधार विकास मन्त्रालय, स्थानीय पूर्वाधार विकास विभागअन्तर्गतको सस्पेन्सन ब्रिज डिभिजन कार्यालयका अनुसार बाढीका कारण त्रिशूली करिडोरमा रहेका १८ वटा झोलुङ्गे पुलमा क्षति पुगेको थियो । ती सबै पुल मर्मत गरी सञ्चालनमा ल्याइएको कार्यालयका योजना [&#8230;]",
-      "published": "2026-10-15T23:39:48+00:00",
-      "source": "OnlineKhabar",
-      "category": "tech",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar",
-        "Ratopati"
-      ],
-      "id": "76e49b6969bd5ea6",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 129.4,
-      "story_size": 2
-    },
-    {
-      "title": "भोटेकोशी बाढीमा बेपत्ता काभ्रेका ३७ जनालाई मृत घोषणाको प्रक्रिया थालियो",
-      "link": "https://www.onlinekhabar.com/2026/10/2040005/process-to-declare-37-people-from-kavre-missing-in-bhotekoshi-flood-as-dead-begins",
-      "description": "३० असोज, काभ्रेपलाञ्चोक । रसुवाको भोटेकोशीमा गत भदौ १० गते आएको बाढीपछि बेपत्ता भएका काभ्रेपलाञ्चोकका ३७ जनालाई मृत घोषणा गर्ने प्रक्रिया अघि बढाइएको छ । यसका लागि जिल्ला प्रशासन कार्यालयले बाढीमा परी बेपत्ता भएका व्यक्तिहरूको आधिकारिक विवरण एकिन गर्न जिल्लास्थित स्थानीय तहलाई प्रक्रिया र समयसीमा तोकेको छ । विभिन्न काम एवं भ्रमणका सिलसिलामा त्यहाँ पुगेका [&#8230;]",
-      "published": "2026-10-15T23:31:02+00:00",
-      "source": "OnlineKhabar",
-      "category": "tech",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar",
-        "Ratopati"
-      ],
-      "id": "f550ff9734061a58",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 128.9,
-      "story_size": 2
-    },
-    {
-      "title": "रास्वपामा उम्मेदवार छान्न नयाँ मापदण्ड",
-      "link": "https://gorkhapatraonline.com/news/226859",
-      "description": "गोरखापत्र समाचारदाता काठमाडौँ, असोज ३० गते । आगामी स्थानीय तहको निर्वाचनलाई लक्षित गर्दै राष्ट्रिय स्वतन्त्र पार्टीले उम्मेदवार छनोट गर्न ‘स्थानीय निर्वाचनका लागि उम्मेदवार छनोट रू...",
-      "published": "2026-10-16T06:30:51+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "politics",
-      "image": "https://gorkhapatraonline.com/storage/media/388364/conversions/Rastra-Swatantra-party-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "f3d47e543f017347",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 112.8,
-      "story_size": 1,
-      "image_local": "images/news_61d6c046806651a179ce.jpg"
-    },
-    {
-      "title": "प्रधानमन्त्रीको भारत भ्रमण तयारी",
-      "link": "https://gorkhapatraonline.com/news/226858",
-      "description": "काठमाडौँ, असोज ३० गते । प्रधानमन्त्री वालेन्द्र शाहको निकट भविष्यमा हुने छिमेकी मुलुक भारतको औपचारिक भ्रमणको तयारी सुरु भएको छ । भ्रमणको औपचारिक मिति तोक्न बाँकी रहे पनि भ्रमणको प्...",
-      "published": "2026-10-16T06:14:50+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "politics",
-      "image": "https://gorkhapatraonline.com/storage/media/388363/conversions/balen2026-04-22-10-09-26-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "f2a9e4ef9e2ee388",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 111.8,
-      "story_size": 1,
-      "image_local": "images/news_12b6bba67a2465d98058.jpg"
-    },
-    {
-      "title": "पश्चिमी वायुको आंशिक प्रभाव कायमै, आज यी पाँच प्रदेशमा हल्का वर्षाको सम्भावना",
-      "link": "https://www.ratopati.com/story/599969/partial-influence-of-westerly-winds-persists-light-rain-likely-in-these-five-provinces-today",
-      "description": "काठमाडौँ । हाल देशमा पश्चिमी वायुको आंशिक प्रभाव रहेको मौसम पूर्वानुमान महाशाखाले जनाएको छ। जसको प्रभावले हाल कर्णाली र सुदूरपश्चिम प्रदेशमा साधरणतया बादल, लुम्बिनी प्रदेश लगायत बाँकी प्रदेशको हिमाली र पहाडी भूभागमा आंशिक बादल लागेको छ",
-      "published": "2026-10-16T00:27:27+00:00",
-      "source": "Ratopati",
+      "title": "अवैध नदी दोहन गर्ने ७० सवारी कारबाहीमा",
+      "link": "https://www.thahakhabar.com/detail/310425",
+      "description": "",
+      "published": "2026-10-16T11:12:59+05:45",
+      "source": "Thaha Khabar",
       "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/rain_Hxbolu0mKZ.jpg",
+      "image": "https://www.thahakhabar.com/uploads/posts/nadi-dohan-1792128470.jpg",
+      "related_sources": [
+        "Thaha Khabar",
+        "Ratopati"
+      ],
+      "id": "42acc0cef8342aec",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 136.2,
+      "story_size": 2,
+      "image_local": "images/news_e0a0fd2761ef022f55db.jpg"
+    },
+    {
+      "title": "खुलामञ्चको मर्मत कांग्रेसले आफ्नै खर्चमा गर्ने, ४५ दिनको समयसीमा",
+      "link": "https://www.ratopati.com/story/600002/congress-to-repair-open-stage-at-its-own-expense-45-day-deadline",
+      "description": "काठमाडौँ । नेपाली कांग्रेसले १५औँ महाधिवेशनका क्रममा क्षति पुगेको खुलामञ्चको संरचनाको आफैँले मर्मत गर्ने भएको छ । सार्वजनिक पूर्वाधार र वातावरणीय संवेदनशीलताप्रति उच्च जिम्मेवारी दर्साउँदै ऐतिहासिक खुलामञ्च परिसरका संरचनाको मर्मत गर्ने भएको हो । असोज १८ देखि",
+      "published": "2026-10-16T05:06:32+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/khulamancha_ecouU4VMnP.webp",
+      "related_sources": [
+        "Ratopati",
+        "Baahrakhari"
+      ],
+      "id": "327ba27fee1c8d77",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 134.8,
+      "story_size": 2,
+      "image_local": "images/news_0ab8f9e16bdd091fac3e.webp"
+    },
+    {
+      "title": "कांग्रेसको १५ औँ महाधिवेशनमा मतगणना सकियो, शपथग्रहण दसैँपछि",
+      "link": "https://www.ratopati.com/story/600007/counting-of-votes-at-the-15th-congress-of-the-nepali-congress-has-been-completed-the-oath-taking-will-take-place-after-dashain",
+      "description": "काठमाडौँ । नेपाली कांग्रेसको १५ औँ महाधिवेशन अन्तर्गत भएको नयाँ नेतृत्व चयनको लागि भएको चुनावको सबै मतगणना शुक्रबार बिहान सकिएको छ । मधेस प्रदेश र बागमती प्रदेशको अन्तिम परिणाम आएसँगै गत असोज २३ गते रातिदेखि थालिएको",
+      "published": "2026-10-16T05:31:48+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/congress-vote_eX9q5KJX9V.webp",
       "related_sources": [
         "Ratopati"
       ],
-      "id": "9c9e95bdd31275a4",
+      "id": "60efe289df6867f6",
       "source_count": 1,
       "verified": false,
-      "local": false,
-      "score": 111.6,
+      "local": true,
+      "score": 130.4,
       "story_size": 1,
-      "image_local": "images/news_357387e9108a48b27ab6.jpg"
+      "image_local": "images/news_f3ae801a09e79df5695a.webp"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. नवरात्रको छैठौं दिन कात्यायनी देवीको विशेष पूजा आराधना गरिँदै\nस्रोत: Thaha Khabar, Khabarhub\nhttps://www.thahakhabar.com/detail/310412\n\n2. पहिरो प्रभावितलाई श्रमदानबाट अस्थायी आवास\nस्रोत: OnlineKhabar, Ratopati\nhttps://www.onlinekhabar.com/2026/10/2040026/temporary-housing-for-landslide-victims-through-shramdan\n\n3. क्यान्सर अस्पताल सुधारका लागि अध्ययन समिति\nस्रोत: OnlineKhabar, Ratopati\nhttps://www.onlinekhabar.com/2026/10/2040027/study-committee-for-cancer-hospital-reform\n\n4. भोटेकोशी–त्रिशूली बाढीमा क्षतिग्रस्त १८ झोलुङ्गे पुल मर्मतपछि सञ्चालनमा\nस्रोत: OnlineKhabar, Ratopati\nhttps://www.onlinekhabar.com/2026/10/2040011/18-suspension-bridges-damaged-in-bhotekoshi-trishuli-floods-are-operational-after-repair\n\n5. भोटेकोशी बाढीमा बेपत्ता काभ्रेका ३७ जनालाई मृत घोषणाको प्रक्रिया थालियो\nस्रोत: OnlineKhabar, Ratopati\nhttps://www.onlinekhabar.com/2026/10/2040005/process-to-declare-37-people-from-kavre-missing-in-bhotekoshi-flood-as-dead-begins\n\n6. रास्वपामा उम्मेदवार छान्न नयाँ मापदण्ड\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/226859\n\n7. प्रधानमन्त्रीको भारत भ्रमण तयारी\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/226858\n\n8. पश्चिमी वायुको आंशिक प्रभाव कायमै, आज यी पाँच प्रदेशमा हल्का वर्षाको सम्भावना\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/599969/partial-influence-of-westerly-winds-persists-light-rain-likely-in-these-five-provinces-today\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. मन्त्रिपरिषद् बैठक बस्दै\nस्रोत: Kendrabindu, OnlineKhabar, Baahrakhari\nhttps://kendrabindu.com/politics/564335/\n\n2. घटस्थापनापछि उपत्यकाबाट तीन लाख ४८ हजार यात्रु बाहिरिए\nस्रोत: Setopati, Khabarhub, Ratopati\nhttps://www.setopati.com/social/400963\n\n3. सरकारले दिगो खाद्यसुरक्षा सुनिश्चित गर्ने नीति लिएको छ : कृषिमन्त्री चौधरी\nस्रोत: Ratopati, OnlineKhabar, Khabarhub\nhttps://www.ratopati.com/story/599991/government-has-adopted-a-policy-to-ensure-sustainable-food-security-agriculture-minister-chaudhary\n\n4. कालीगण्डकी बाढी : रातोपानीको तातोपानी कुण्ड बगरमा परिणत\nस्रोत: OnlineKhabar, Thaha Khabar, Ratopati\nhttps://www.onlinekhabar.com/2026/10/2040127/kaligandaki-flood-hot-water-tank-of-ratopani-turns-into-a-swamp\n\n5. मानव–वन्यजन्तु द्वन्द्व न्यूनीकरण गर्न पूर्वसूचना प्रणाली जडान\nस्रोत: Thaha Khabar, Khabarhub\nhttps://www.thahakhabar.com/detail/310426\n\n6. अवैध नदी दोहन गर्ने ७० सवारी कारबाहीमा\nस्रोत: Thaha Khabar, Ratopati\nhttps://www.thahakhabar.com/detail/310425\n\n7. खुलामञ्चको मर्मत कांग्रेसले आफ्नै खर्चमा गर्ने, ४५ दिनको समयसीमा\nस्रोत: Ratopati, Baahrakhari\nhttps://www.ratopati.com/story/600002/congress-to-repair-open-stage-at-its-own-expense-45-day-deadline\n\n8. कांग्रेसको १५ औँ महाधिवेशनमा मतगणना सकियो, शपथग्रहण दसैँपछि\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/600007/counting-of-votes-at-the-15th-congress-of-the-nepali-congress-has-been-completed-the-oath-taking-will-take-place-after-dashain\n\n— I Am From Hetauda"
 }
