@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T18:43:01.353979+00:00",
+  "updated_at": "2026-10-16T21:46:09.616029+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -33,7 +33,7 @@
       "source_count": 4,
       "verified": true,
       "local": false,
-      "score": 147.3,
+      "score": 135.1,
       "story_size": 4
     },
     {
@@ -54,7 +54,7 @@
       "source_count": 4,
       "verified": true,
       "local": false,
-      "score": 144.0,
+      "score": 131.8,
       "story_size": 4,
       "image_local": "images/news_84d751a06598034a6cc1.jpg"
     },
@@ -74,7 +74,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 128.5,
+      "score": 116.3,
       "story_size": 2
     },
     {
@@ -93,7 +93,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 123.7,
+      "score": 111.5,
       "story_size": 2,
       "image_local": "images/news_9ad84ea4058eff689849.webp"
     },
@@ -113,7 +113,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 122.5,
+      "score": 110.3,
       "story_size": 2,
       "image_local": "images/news_5e078ba842708a63dbdc.jpg"
     },
@@ -133,7 +133,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 121.8,
+      "score": 109.6,
       "story_size": 2,
       "image_local": "images/news_87ab22fe85a46cfb41fb.jpg"
     },
@@ -153,7 +153,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 121.4,
+      "score": 109.2,
       "story_size": 2
     },
     {
@@ -172,7 +172,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 119.6,
+      "score": 107.4,
       "story_size": 2,
       "image_local": "images/news_201a954b201aacbbe07f.webp"
     },
@@ -192,7 +192,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 118.9,
+      "score": 106.7,
       "story_size": 2
     },
     {
@@ -211,7 +211,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 117.8,
+      "score": 105.6,
       "story_size": 2
     },
     {
@@ -229,7 +229,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.1,
+      "score": 98.9,
       "story_size": 1,
       "image_local": "images/news_044302a44a7db4c8d91a.jpg"
     },
@@ -248,7 +248,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.6,
+      "score": 97.4,
       "story_size": 1,
       "image_local": "images/news_7fd5d642049e0d6ba1b7.webp"
     },
@@ -267,7 +267,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.3,
+      "score": 97.1,
       "story_size": 1,
       "image_local": "images/news_8e21f73e516869914c62.jpg"
     },
@@ -286,7 +286,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.2,
+      "score": 96.0,
       "story_size": 1,
       "image_local": "images/news_9b3036b832e8446b7c0b.png"
     },
@@ -305,7 +305,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.8,
+      "score": 95.6,
       "story_size": 1,
       "image_local": "images/news_0f67914fcca08b0b3e1b.jpg"
     },
@@ -324,7 +324,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.4,
+      "score": 93.2,
       "story_size": 1,
       "image_local": "images/news_4b9e9b14df37c23ce0e6.webp"
     },
@@ -343,7 +343,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.3,
+      "score": 93.1,
       "story_size": 1,
       "image_local": "images/news_2188219c6d1339184d9f.jpg"
     },
@@ -362,7 +362,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.7,
+      "score": 92.5,
       "story_size": 1,
       "image_local": "images/news_7293982d04e4818c1e3e.webp"
     },
@@ -381,7 +381,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.4,
+      "score": 92.2,
       "story_size": 1,
       "image_local": "images/news_83ffe271259396aee7fc.jpg"
     },
@@ -400,7 +400,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.2,
+      "score": 92.0,
       "story_size": 1,
       "image_local": "images/news_4fcf6ff8d86283c11b18.webp"
     },
@@ -419,7 +419,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.9,
+      "score": 91.7,
       "story_size": 1
     },
     {
@@ -437,7 +437,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.5,
+      "score": 91.3,
       "story_size": 1,
       "image_local": "images/news_6218a36b5998877fc842.jpg"
     },
@@ -456,7 +456,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.3,
+      "score": 91.1,
       "story_size": 1,
       "image_local": "images/news_b1bae128d964c702f688.webp"
     },
@@ -475,7 +475,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.7,
+      "score": 90.5,
       "story_size": 1,
       "image_local": "images/news_c54f8fc1e8192be58e34.jpg"
     },
@@ -494,7 +494,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.6,
+      "score": 90.4,
       "story_size": 1
     },
     {
@@ -512,7 +512,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.5,
+      "score": 90.3,
       "story_size": 1
     },
     {
@@ -530,7 +530,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.9,
+      "score": 88.7,
       "story_size": 1
     },
     {
@@ -548,7 +548,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.9,
+      "score": 88.7,
       "story_size": 1,
       "image_local": "images/news_0e132c031f728774a108.jpg"
     },
@@ -567,7 +567,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.9,
+      "score": 88.7,
       "story_size": 1,
       "image_local": "images/news_bca347e184447233128d.jpg"
     },
@@ -586,7 +586,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.5,
+      "score": 88.3,
       "story_size": 1
     },
     {
@@ -604,7 +604,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.5,
+      "score": 88.3,
       "story_size": 1,
       "image_local": "images/news_b15fe3298afca051fae3.webp"
     },
@@ -623,7 +623,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.0,
+      "score": 87.8,
       "story_size": 1,
       "image_local": "images/news_d1d2c8899e6d4365ee4f.webp"
     },
@@ -642,7 +642,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.3,
+      "score": 87.1,
       "story_size": 1,
       "image_local": "images/news_1e39d8ba83cab4f75d2c.webp"
     },
@@ -661,7 +661,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.1,
+      "score": 86.9,
       "story_size": 1
     },
     {
@@ -679,7 +679,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.8,
+      "score": 86.6,
       "story_size": 1,
       "image_local": "images/news_87ab22fe85a46cfb41fb.jpg"
     },
@@ -698,7 +698,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.4,
+      "score": 86.2,
       "story_size": 1,
       "image_local": "images/news_9e636cb404daec85fa37.webp"
     },
@@ -717,7 +717,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.3,
+      "score": 86.0,
       "story_size": 1,
       "image_local": "images/news_637a3eb57030d10d7484.webp"
     },
@@ -736,7 +736,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.2,
+      "score": 86.0,
       "story_size": 1,
       "image_local": "images/news_4ce0ec5d5ef132ce6dcd.jpg"
     },
@@ -755,7 +755,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.1,
+      "score": 85.9,
       "story_size": 1,
       "image_local": "images/news_891b9a58cb26d616f256.jpg"
     },
@@ -774,7 +774,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.6,
+      "score": 85.4,
       "story_size": 1,
       "image_local": "images/news_244c9b84bff4cf622a0d.webp"
     },
@@ -793,7 +793,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.3,
+      "score": 85.1,
       "story_size": 1,
       "image_local": "images/news_e39881f88a863c6b1137.webp"
     },
@@ -812,7 +812,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.8,
+      "score": 84.6,
       "story_size": 1
     },
     {
@@ -830,7 +830,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.1,
+      "score": 83.9,
       "story_size": 1,
       "image_local": "images/news_57646f5c436e8a6d1477.jpeg"
     },
@@ -849,7 +849,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.6,
+      "score": 83.4,
       "story_size": 1
     },
     {
@@ -867,7 +867,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.6,
+      "score": 83.4,
       "story_size": 1
     },
     {
@@ -885,7 +885,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.6,
+      "score": 83.4,
       "story_size": 1
     },
     {
@@ -903,7 +903,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.5,
+      "score": 83.3,
       "story_size": 1
     },
     {
@@ -921,7 +921,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.5,
+      "score": 83.3,
       "story_size": 1
     },
     {
@@ -939,7 +939,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.4,
+      "score": 83.2,
       "story_size": 1
     },
     {
@@ -957,7 +957,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.4,
+      "score": 83.2,
       "story_size": 1
     },
     {
@@ -975,7 +975,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.4,
+      "score": 83.1,
       "story_size": 1
     },
     {
@@ -993,7 +993,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.3,
+      "score": 83.1,
       "story_size": 1
     },
     {
@@ -1011,7 +1011,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.3,
+      "score": 83.0,
       "story_size": 1
     },
     {
@@ -1029,7 +1029,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.1,
+      "score": 82.9,
       "story_size": 1
     },
     {
@@ -1047,7 +1047,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.1,
+      "score": 82.9,
       "story_size": 1
     },
     {
@@ -1065,7 +1065,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.0,
+      "score": 82.8,
       "story_size": 1
     },
     {
@@ -1083,7 +1083,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.8,
+      "score": 82.6,
       "story_size": 1
     },
     {
@@ -1101,7 +1101,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.3,
+      "score": 82.0,
       "story_size": 1
     },
     {
@@ -1119,7 +1119,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.0,
+      "score": 81.8,
       "story_size": 1
     },
     {
@@ -1137,7 +1137,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.3,
+      "score": 81.0,
       "story_size": 1
     },
     {
@@ -1155,7 +1155,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.2,
+      "score": 81.0,
       "story_size": 1
     },
     {
@@ -1173,7 +1173,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.1,
+      "score": 80.9,
       "story_size": 1
     },
     {
@@ -1191,7 +1191,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.8,
+      "score": 80.6,
       "story_size": 1
     },
     {
@@ -1209,7 +1209,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.6,
+      "score": 80.4,
       "story_size": 1
     },
     {
@@ -1227,7 +1227,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.5,
+      "score": 80.3,
       "story_size": 1
     },
     {
@@ -1245,7 +1245,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.6,
+      "score": 79.4,
       "story_size": 1
     },
     {
@@ -1263,7 +1263,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.3,
+      "score": 79.1,
       "story_size": 1
     },
     {
@@ -1281,7 +1281,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.0,
+      "score": 78.8,
       "story_size": 1
     },
     {
@@ -1299,7 +1299,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.0,
+      "score": 78.8,
       "story_size": 1
     },
     {
@@ -1317,7 +1317,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.9,
+      "score": 78.7,
       "story_size": 1
     },
     {
@@ -1335,7 +1335,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.7,
+      "score": 78.5,
       "story_size": 1
     },
     {
@@ -1353,7 +1353,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.5,
+      "score": 78.2,
       "story_size": 1
     },
     {
@@ -1371,7 +1371,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.1,
+      "score": 77.9,
       "story_size": 1
     },
     {
@@ -1389,7 +1389,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.0,
+      "score": 77.8,
       "story_size": 1
     },
     {
@@ -1407,25 +1407,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.4,
-      "story_size": 1
-    },
-    {
-      "title": "नेपाल सिम रेसिङ नेशनल च्याम्पियनसिपको उपाधि जयप्रताप र कुशललाई",
-      "link": "https://www.onlinekhabar.com/2026/10/2040514/jaya-pratap-and-kushal-win-nepal-sim-racing-national-championship-title",
-      "description": "३० असोज, काठमाडौं । नेपाल अटोमोवाइल्स एसोसिएसन (नासा नेपाल) को आयोजनामा भएको नेपाल सिम रेसिङ नेशनल च्याम्पियनसिपको उपाधी जयप्रताप मास्के र कुशल भण्डारीले जितेका छ । अन्तर्राष्ट्रिय अटोमोवाइल फेडरेसन (एफआइए) को मोटरस्पोर्टस् फण्डिङ प्रोगाम अन्तर्गत अन्तर्राष्ट्रिय खेलकुद परिषर, सातदोबाटो असोज २८ र २९ गते भएको उक्त प्रतियोगिताको सिनियर (एम्योचर) क्याटागोरीमा जय प्रताप मास्के प्रथम र [&#8230;]",
-      "published": "2026-10-16T13:31:44+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "b4b934ba8b4fec4a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 89.3,
+      "score": 77.1,
       "story_size": 1
     },
     {
@@ -1443,9 +1425,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.3,
+      "score": 77.1,
       "story_size": 1,
       "image_local": "images/news_30a54688bc587554a170.jpg"
+    },
+    {
+      "title": "नेपाल सिम रेसिङ नेशनल च्याम्पियनसिपको उपाधि जयप्रताप र कुशललाई",
+      "link": "https://www.onlinekhabar.com/2026/10/2040514/jaya-pratap-and-kushal-win-nepal-sim-racing-national-championship-title",
+      "description": "३० असोज, काठमाडौं । नेपाल अटोमोवाइल्स एसोसिएसन (नासा नेपाल) को आयोजनामा भएको नेपाल सिम रेसिङ नेशनल च्याम्पियनसिपको उपाधी जयप्रताप मास्के र कुशल भण्डारीले जितेका छ । अन्तर्राष्ट्रिय अटोमोवाइल फेडरेसन (एफआइए) को मोटरस्पोर्टस् फण्डिङ प्रोगाम अन्तर्गत अन्तर्राष्ट्रिय खेलकुद परिषर, सातदोबाटो असोज २८ र २९ गते भएको उक्त प्रतियोगिताको सिनियर (एम्योचर) क्याटागोरीमा जय प्रताप मास्के प्रथम र [&#8230;]",
+      "published": "2026-10-16T13:31:44+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "b4b934ba8b4fec4a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 77.0,
+      "story_size": 1
     },
     {
       "title": "एनपीएलले पायो आईसीसीबाट मान्यता",
@@ -1462,7 +1462,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.5,
+      "score": 76.3,
       "story_size": 1
     },
     {
@@ -1480,7 +1480,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.5,
+      "score": 76.3,
       "story_size": 1
     },
     {
@@ -1498,7 +1498,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.8,
+      "score": 75.6,
       "story_size": 1
     },
     {
@@ -1516,7 +1516,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.6,
+      "score": 75.4,
       "story_size": 1
     },
     {
@@ -1534,7 +1534,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.5,
+      "score": 75.3,
       "story_size": 1
     },
     {
@@ -1552,7 +1552,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.3,
+      "score": 75.1,
       "story_size": 1
     },
     {
@@ -1570,7 +1570,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.2,
+      "score": 75.0,
       "story_size": 1
     },
     {
@@ -1588,7 +1588,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.9,
+      "score": 74.7,
       "story_size": 1
     },
     {
@@ -1606,7 +1606,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.9,
+      "score": 74.7,
       "story_size": 1
     },
     {
@@ -1624,7 +1624,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.4,
+      "score": 74.2,
       "story_size": 1
     },
     {
@@ -1642,7 +1642,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.1,
+      "score": 73.9,
       "story_size": 1
     },
     {
@@ -1660,7 +1660,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.9,
+      "score": 73.7,
       "story_size": 1
     },
     {
@@ -1678,7 +1678,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.7,
+      "score": 73.5,
       "story_size": 1
     },
     {
@@ -1696,7 +1696,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.5,
+      "score": 73.3,
       "story_size": 1
     },
     {
@@ -1714,7 +1714,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.4,
+      "score": 73.2,
       "story_size": 1
     },
     {
@@ -1732,7 +1732,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.4,
+      "score": 73.2,
       "story_size": 1
     },
     {
@@ -1750,7 +1750,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.7,
+      "score": 72.5,
       "story_size": 1
     },
     {
@@ -1768,7 +1768,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.6,
+      "score": 72.4,
       "story_size": 1
     },
     {
@@ -1786,7 +1786,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.5,
+      "score": 72.3,
       "story_size": 1
     },
     {
@@ -1804,7 +1804,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.3,
+      "score": 72.1,
       "story_size": 1
     },
     {
@@ -1822,7 +1822,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.1,
+      "score": 71.9,
       "story_size": 1
     },
     {
@@ -1840,7 +1840,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.0,
+      "score": 71.8,
       "story_size": 1
     },
     {
@@ -1858,7 +1858,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.9,
+      "score": 71.7,
       "story_size": 1
     },
     {
@@ -1876,7 +1876,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.7,
+      "score": 71.5,
       "story_size": 1
     },
     {
@@ -1894,7 +1894,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.5,
+      "score": 71.3,
       "story_size": 1
     },
     {
@@ -1912,7 +1912,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.0,
+      "score": 70.8,
       "story_size": 1
     },
     {
@@ -1930,7 +1930,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.0,
+      "score": 70.8,
       "story_size": 1
     },
     {
@@ -1948,7 +1948,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.8,
+      "score": 70.6,
       "story_size": 1
     },
     {
@@ -1966,7 +1966,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.8,
+      "score": 70.5,
       "story_size": 1
     },
     {
@@ -1984,7 +1984,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.3,
+      "score": 70.1,
       "story_size": 1
     },
     {
@@ -2002,7 +2002,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.2,
+      "score": 70.0,
       "story_size": 1
     },
     {
@@ -2020,7 +2020,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.9,
+      "score": 69.7,
       "story_size": 1
     },
     {
@@ -2038,7 +2038,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.5,
+      "score": 69.3,
       "story_size": 1
     },
     {
@@ -2056,7 +2056,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.2,
+      "score": 68.9,
       "story_size": 1
     },
     {
@@ -2074,7 +2074,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.8,
+      "score": 68.6,
       "story_size": 1
     },
     {
@@ -2092,7 +2092,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.7,
+      "score": 68.5,
       "story_size": 1
     },
     {
@@ -2110,7 +2110,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.1,
+      "score": 67.9,
       "story_size": 1
     },
     {
@@ -2128,7 +2128,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.1,
+      "score": 67.9,
       "story_size": 1
     },
     {
@@ -2146,7 +2146,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.8,
+      "score": 67.6,
       "story_size": 1
     },
     {
@@ -2164,7 +2164,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.4,
+      "score": 67.2,
       "story_size": 1
     },
     {
@@ -2182,7 +2182,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.3,
+      "score": 67.1,
       "story_size": 1
     },
     {
@@ -2200,7 +2200,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.2,
+      "score": 66.9,
       "story_size": 1
     },
     {
@@ -2218,7 +2218,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.4,
+      "score": 66.2,
       "story_size": 1
     },
     {
@@ -2236,7 +2236,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.8,
+      "score": 65.6,
       "story_size": 1
     },
     {
@@ -2254,7 +2254,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.3,
+      "score": 65.1,
       "story_size": 1
     },
     {
@@ -2272,7 +2272,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.1,
+      "score": 64.9,
       "story_size": 1
     },
     {
@@ -2290,7 +2290,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.8,
+      "score": 64.6,
       "story_size": 1
     },
     {
@@ -2308,7 +2308,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.7,
+      "score": 64.5,
       "story_size": 1
     },
     {
@@ -2326,7 +2326,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.5,
+      "score": 64.3,
       "story_size": 1
     },
     {
@@ -2344,7 +2344,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.3,
+      "score": 64.1,
       "story_size": 1
     },
     {
@@ -2362,7 +2362,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.8,
+      "score": 63.6,
       "story_size": 1
     },
     {
@@ -2380,7 +2380,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.3,
+      "score": 63.1,
       "story_size": 1
     },
     {
@@ -2398,7 +2398,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.2,
+      "score": 63.0,
       "story_size": 1
     },
     {
@@ -2416,7 +2416,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.6,
+      "score": 61.4,
       "story_size": 1
     },
     {
@@ -2434,7 +2434,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.3,
+      "score": 56.1,
       "story_size": 1
     },
     {
@@ -2452,7 +2452,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 52.3,
+      "score": 40.1,
       "story_size": 1
     },
     {
@@ -2470,7 +2470,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 50.0,
+      "score": 37.8,
       "story_size": 1
     },
     {
@@ -2488,7 +2488,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 43.2,
+      "score": 31.0,
       "story_size": 1
     },
     {
