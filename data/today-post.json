@@ -1,167 +1,45 @@
 {
-  "date_np": "2026-10-17",
-  "generated_at": "2026-10-17T16:15:07.632651+00:00",
+  "date_np": "2026-10-18",
+  "generated_at": "2026-10-17T18:34:43.402327+00:00",
   "items": [
     {
-      "title": "रुसमाथि प्रतिबन्ध लगाउन जेलेन्स्कीको आग्रह, ट्रम्पको निर्णयप्रति असन्तुष्टि",
-      "link": "https://www.thahakhabar.com/detail/310534",
-      "description": "",
-      "published": "2026-10-17T21:50:05+05:45",
-      "source": "Thaha Khabar",
-      "category": "world",
-      "image": "https://www.thahakhabar.com/uploads/posts/1-Trump-zelenskey-1766980389.jpg",
+      "title": "प्रवासी नेपालीको अर्थपूर्ण प्रतिनिधित्व सुनिश्चित गर्न कांग्रेसको नयाँ नेतृत्वलाई आरके शर्माको आग्रह",
+      "link": "https://www.ratopati.com/story/600305/rk-sharma-urges-new-congress-leadership-to-ensure-meaningful-representation-of-nepali-expatriates",
+      "description": "कतार । गैरआवासीय नेपाली संघ (एनआरएनए) का पूर्व अध्यक्ष आरके शर्माले नेपाली कांग्रेसको महाधिवेशनबाट सभापतिमा निर्वाचित गगनकुमार थापा, वरिष्ठ उपसभापतिमा निर्विरोध निर्वाचित विश्वप्रकाश शर्मालगायत नवनिर्वाचित सम्पूर्ण कार्यसमितिलाई बधाई तथा सफल कार्यकालको शुभकामना व्यक्त गरेका छन्",
+      "published": "2026-10-17T18:30:52+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/rk-sharma_lnOjq19A5r.jpg",
       "related_sources": [
-        "Thaha Khabar",
-        "Ratopati",
-        "Gorkhapatra Online"
-      ],
-      "id": "545c877296e9d1f7",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 146.3,
-      "story_size": 3,
-      "image_local": "images/news_469d10d412492c445f80.jpg"
-    },
-    {
-      "title": "पाथीभराबाट तीन महिनामा ३३ लाख बढी संकलन",
-      "link": "https://baahrakhari.com/detail/505234",
-      "description": "",
-      "published": "2026-10-17T21:41:42+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari",
-        "Khabarhub",
         "Ratopati"
       ],
-      "id": "baecd4a043b90e04",
-      "source_count": 3,
-      "verified": true,
+      "id": "7042b4e687f4bc32",
+      "source_count": 1,
+      "verified": false,
       "local": false,
-      "score": 142.8,
-      "story_size": 3
+      "score": 112.7,
+      "story_size": 1,
+      "image_local": "images/news_3667f556f7ae5bfa87f0.jpg"
     },
     {
-      "title": "करेन्ट लागेर महिलाको मृत्यु",
-      "link": "https://khabarhub.com/2026/17/1038670/",
-      "description": "ओखलढुङ्गा – ओखलढुङ्गाको चिशङ्खुगढी गाउँपालिका–१, कुमलटारमा करेन्ट लागेर ५४ वर्षीया ठगमाया बास्तोलाको मृत्यु भएको छ । घर नजिकै रहेको बिजुलीको खम्बाबाट झरेको तारबाट प्रवाह भएको करेन्ट लाग्दा उहाँको घटनास्थलमै मृत्यु भएको जिल्ला प्रहरी कार्यालय ओखलढुङ्गाका प्रहरी नायब उपरीक्षक राजबाबु महर्जनले जानकारी दिए । घटनापछि बास्तोलाको शव परीक्षणका लागि जिल्ला अस्पताल रुम्जाटार लगिएको प्रहरीले जानकारी दिएको [&#8230;]",
-      "published": "2026-10-17T15:18:59+00:00",
-      "source": "Khabarhub",
+      "title": "१२ बजे १२ समाचार : लगानी बोर्डका पूर्व सीईओ पक्राउ, प्रधानन्यायाधीशको जग्गाबाटै अवैध उत्खनन",
+      "link": "https://www.ratopati.com/story/600303/12-oclock-12-news-from-the-arrest-of-the-former-ceo-of-the-investment-board-to-illegal-mining-on-the-chief-justices-land",
+      "description": "काठमाडौँ । आज दिनभरका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति रातोपाटी ब्रिफिङमा १२ बजे १२ समाचार लिएर हाजिर भएका छौँ– १. अवैध उत्खनन बहालवाला प्रधानन्यायाधीश मनोजकुमार शर्माको निजी जग्गाबाट अवैध रूपमा हजारौँ टिपर माटो उत्खनन भएको भेटिएको छ",
+      "published": "2026-10-17T18:15:00+00:00",
+      "source": "Ratopati",
       "category": "business",
-      "image": "",
+      "image": "https://npcdn.ratopati.com/media/news/12news_93h5uOSXzd.webp",
       "related_sources": [
-        "Khabarhub",
-        "Ratopati",
-        "Lokaantar"
-      ],
-      "id": "6ce21a0befc4004a",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 140.3,
-      "story_size": 3
-    },
-    {
-      "title": "विपद् प्रभावित क्षेत्रमा हेलिकोप्टरबाट ट्रान्सफर्मर ढुवानी",
-      "link": "https://baahrakhari.com/detail/505231",
-      "description": "",
-      "published": "2026-10-17T20:44:09+05:45",
-      "source": "Baahrakhari",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari",
-        "Kendrabindu",
         "Ratopati"
       ],
-      "id": "93bd55b8b5d69b8a",
-      "source_count": 3,
-      "verified": true,
+      "id": "888bd4dd846b3eaf",
+      "source_count": 1,
+      "verified": false,
       "local": false,
-      "score": 138.9,
-      "story_size": 3
-    },
-    {
-      "title": "अस्थायी मर्मतपछि दसैँमा सहज बन्दै बागलुङका सडक",
-      "link": "https://www.ratopati.com/story/600296/baglung-roads-to-become-easier-to-use-during-dashain-after-temporary-repairs",
-      "description": "बागलुङ । बाढीपहिरोले क्षति पुर्‍याएका बागलुङका राष्ट्रिय राजमार्गदेखि ग्रामीण सडकसम्म अस्थायी मर्मतपछि सञ्चालनमा आएका छन् । सडक सञ्चालनमा आएपछि दसैँ मनाउन घर फर्किने यात्रुलाई सहज भएको छ । यही असोज ९ देखि ११ गतेसम्म परेको अविरल",
-      "published": "2026-10-17T15:42:33+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/03-krishnabhir-optional-road_npl-12_FnO46xYYmJ.webp",
-      "related_sources": [
-        "Ratopati",
-        "Khabarhub"
-      ],
-      "id": "958077960b5ef09b",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 134.8,
-      "story_size": 2,
-      "image_local": "images/news_7ee9d9b8e8cd33b38355.webp"
-    },
-    {
-      "title": "नयाँ बसपार्कसहित उपत्यकाका विभिन्न नाकामा यात्रुको चाप बढ्यो",
-      "link": "https://www.ratopati.com/story/600294/passenger-traffic-has-increased-at-various-checkpoints-in-the-valley-including-the-new-bus-park",
-      "description": "काठमाडौँ । नेपालीको महान् पर्व बडादसैँ नजिकिएसँगै गोँगबुस्थित नयाँ बसपार्कसहित काठमाडौँ उपत्यकाका विभिन्न नाकामा यात्रुको चाप बढेको छ । वर्ष दिनमा आउने नेपालीको ठूलो चाड दसैँ मनाउन राजधानीमा अध्ययन, रोजगारी तथा विभिन्न पेसा–व्यवसायमा संलग्न मानिसहरू धमाधम",
-      "published": "2026-10-17T15:16:35+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/dashain-yatru-14_2MVUmcwW9T.webp",
-      "related_sources": [
-        "Ratopati",
-        "Khabarhub"
-      ],
-      "id": "b7415f98505d5e0f",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 133.1,
-      "story_size": 2,
-      "image_local": "images/news_ece9e5d7c3775d422ccd.webp"
-    },
-    {
-      "title": "म्याग्दीको बेनी–दरबाङ सडक बन्द",
-      "link": "https://www.ratopati.com/story/600293/beni-darbang-road-in-myagdi-closed",
-      "description": "म्याग्दी । म्याग्दीको पश्चिमी भेगका तीन वटा स्थानीय तहलाई जिल्ला सदरमुकाम बेनी बजारसँग जोड्ने बेनी–दरबाङ सडकमा सुक्खा पहिरो खस्न थालेपछि स्थानीय प्रशासनले यातायात सञ्चालन बन्द गराएको छ । बेनी–नगरपालिका–४ र मङ्गला गाउँपालिका–२ को सिमानामा रहेको फापरखेतमा",
-      "published": "2026-10-17T15:12:51+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://rpcdn.ratopati.com/media/albums/road-closed-traffic-control-standing-sign-vector-26268429_DQOANjarT3.jpg",
-      "related_sources": [
-        "Ratopati",
-        "Khabarhub"
-      ],
-      "id": "f6c278af60917aa4",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 132.9,
-      "story_size": 2,
-      "image_local": "images/news_6a5e568e1071bf25d945.jpg"
-    },
-    {
-      "title": "म्यान्मामा सैन्य हवाई आक्रमण, ११ सर्वसाधारणको मृत्यु",
-      "link": "https://khabarhub.com/2026/17/1038686/",
-      "description": "ढाका – म्यान्माको मध्यक्षेत्रमा पर्ने एक गाउँमा सेनाले गरेको हवाई आक्रमणमा ११ जना सर्वसाधारणको मृत्यु भएको विद्रोही लडाकुले शनिबार बताएका छन् । मृतकमा छ महिला र दुई बालबालिका पनि छन् । सन् २०२१ मा सैन्य ‘कू’ मार्फत नोबेल शान्ति पुरस्कार विजेता आङ सान सुकीको निर्वाचित सरकारलाई अपदस्त गरिएयता म्यान्मा गृहयुद्धको चपेटामा छ ।मन्डाले सहरको दक्षिणपश्चिममा [&#8230;]",
-      "published": "2026-10-17T15:43:03+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
-        "Lokaantar"
-      ],
-      "id": "d701db996e960242",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 131.9,
-      "story_size": 2
+      "score": 111.7,
+      "story_size": 1,
+      "image_local": "images/news_e43940c7becf191e1263.webp"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. रुसमाथि प्रतिबन्ध लगाउन जेलेन्स्कीको आग्रह, ट्रम्पको निर्णयप्रति असन्तुष्टि\nस्रोत: Thaha Khabar, Ratopati, Gorkhapatra Online\nhttps://www.thahakhabar.com/detail/310534\n\n2. पाथीभराबाट तीन महिनामा ३३ लाख बढी संकलन\nस्रोत: Baahrakhari, Khabarhub, Ratopati\nhttps://baahrakhari.com/detail/505234\n\n3. करेन्ट लागेर महिलाको मृत्यु\nस्रोत: Khabarhub, Ratopati, Lokaantar\nhttps://khabarhub.com/2026/17/1038670/\n\n4. विपद् प्रभावित क्षेत्रमा हेलिकोप्टरबाट ट्रान्सफर्मर ढुवानी\nस्रोत: Baahrakhari, Kendrabindu, Ratopati\nhttps://baahrakhari.com/detail/505231\n\n5. अस्थायी मर्मतपछि दसैँमा सहज बन्दै बागलुङका सडक\nस्रोत: Ratopati, Khabarhub\nhttps://www.ratopati.com/story/600296/baglung-roads-to-become-easier-to-use-during-dashain-after-temporary-repairs\n\n6. नयाँ बसपार्कसहित उपत्यकाका विभिन्न नाकामा यात्रुको चाप बढ्यो\nस्रोत: Ratopati, Khabarhub\nhttps://www.ratopati.com/story/600294/passenger-traffic-has-increased-at-various-checkpoints-in-the-valley-including-the-new-bus-park\n\n7. म्याग्दीको बेनी–दरबाङ सडक बन्द\nस्रोत: Ratopati, Khabarhub\nhttps://www.ratopati.com/story/600293/beni-darbang-road-in-myagdi-closed\n\n8. म्यान्मामा सैन्य हवाई आक्रमण, ११ सर्वसाधारणको मृत्यु\nस्रोत: Khabarhub, Lokaantar\nhttps://khabarhub.com/2026/17/1038686/\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. प्रवासी नेपालीको अर्थपूर्ण प्रतिनिधित्व सुनिश्चित गर्न कांग्रेसको नयाँ नेतृत्वलाई आरके शर्माको आग्रह\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/600305/rk-sharma-urges-new-congress-leadership-to-ensure-meaningful-representation-of-nepali-expatriates\n\n2. १२ बजे १२ समाचार : लगानी बोर्डका पूर्व सीईओ पक्राउ, प्रधानन्यायाधीशको जग्गाबाटै अवैध उत्खनन\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/600303/12-oclock-12-news-from-the-arrest-of-the-former-ceo-of-the-investment-board-to-illegal-mining-on-the-chief-justices-land\n\n— I Am From Hetauda"
 }
