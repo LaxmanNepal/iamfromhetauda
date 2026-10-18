@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T23:09:27.351096+00:00",
+  "updated_at": "2026-10-18T01:05:50.693927+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -16,44 +16,712 @@
   ],
   "items": [
     {
-      "title": "लगानी बोर्डका पूर्व सीईओ सुशील भट्ट पक्राउ",
-      "link": "https://www.onlinekhabar.com/2026/10/2040921/former-investment-board-ceo-sushil-bhatta-arrested",
-      "description": "३१ असोज, काठमाडौं । लगानी बोर्डका पूर्व प्रमुख कार्यकारी अधिकृत (सीईओ) सुशील भट्ट पक्राउ परेका छन् । उनी ललितपुरको सानेपाबाट पक्राउ परेका हुन् । भट्ट सम्पत्ति शुद्धीकरणको कसुरमा पक्राउ परेको स्रोतले जनायो । काठमाडौं प्रहरी परिसरका एसएसपी दिलिप घिमिरेले भट्ट पक्राउ परेको पुष्टी गरेका छन् । भट्टमाथि अनुसन्धान भइरहेको एसएसपी घिमिरेले बताए ।",
-      "published": "2026-10-17T17:47:12+00:00",
-      "source": "OnlineKhabar",
+      "title": "लगानी बोर्डका पूर्वसीईओ सुशील भट्ट पक्राउ",
+      "link": "https://www.thahakhabar.com/detail/310537",
+      "description": "",
+      "published": "2026-10-18T05:44:14+05:45",
+      "source": "Thaha Khabar",
       "category": "business",
-      "image": "",
+      "image": "https://www.thahakhabar.com/uploads/posts/sushil-1792281538.jpg",
       "related_sources": [
+        "Thaha Khabar",
         "OnlineKhabar",
-        "Baahrakhari",
         "Ratopati"
       ],
-      "id": "f768f00060feb085",
+      "id": "ecca72edf90157ef",
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 122.5,
-      "story_size": 3
+      "score": 142.6,
+      "story_size": 3,
+      "image_local": "images/news_08325e14c3d2a5225926.jpg"
     },
     {
-      "title": "पाथीभराबाट तीन महिनामा ३३ लाख बढी संकलन",
-      "link": "https://baahrakhari.com/detail/505234",
-      "description": "",
-      "published": "2026-10-17T21:41:42+05:45",
-      "source": "Baahrakhari",
+      "title": "नवरात्रको आठौँ दिन : महागौरी देवीको पूजा आराधना गरिँदै",
+      "link": "https://khabarhub.com/2026/18/1038692/",
+      "description": "काठमाडौँ &#8211; बडादसैँ एवं नवरात्रको आठौँ दिन दसैँ घर वा पूजाकोठामा नौ दूर्गामध्येकी आठौँ महागौरी देवीको विधिपूर्वक पूजा आराधना गरिँदैछ । प्रत्येक वर्ष आश्विन शुक्ल अष्टमी अर्थात् दुर्गा पक्षको आठौँ दिन महागौरी देवीको विधिपूर्वक पूजा आराधना गर्ने वैदिक सनातनी परम्परा छ । महागौरी देवीको रङ पहिला केही कालो भएकाले भगवान् शिवले एक दिन ख्यालठट्टामा देवीलाई [&#8230;]",
+      "published": "2026-10-18T00:07:11+00:00",
+      "source": "Khabarhub",
       "category": "nepal",
       "image": "",
       "related_sources": [
-        "Baahrakhari",
         "Khabarhub",
-        "Ratopati"
+        "Baahrakhari",
+        "Thaha Khabar"
       ],
-      "id": "baecd4a043b90e04",
+      "id": "f1125e44b4f1b210",
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 115.1,
+      "score": 140.1,
       "story_size": 3
+    },
+    {
+      "title": "पश्चिमी वायुको प्रभावले केही स्थानमा वर्षा र हिमपातको सम्भावना",
+      "link": "https://nepalsamaya.com/detail/147122",
+      "description": "",
+      "published": "2026-10-18T06:49:37+05:45",
+      "source": "Nepal Samaya",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Nepal Samaya",
+        "Ratopati"
+      ],
+      "id": "b4015ff3b8affb2f",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 133.9,
+      "story_size": 2
+    },
+    {
+      "title": "नवरात्रको आठौँ दिन आज महागौरीको पूजा आराधना गरिँदै",
+      "link": "https://www.ratopati.com/story/600310/goddess-mahagauri-is-being-worshipped-today-the-eighth-day-of-navratri",
+      "description": "काठमाडौँ । शारदीय नवरात्रको आठौँ दिन आज दुर्गा भवानीको आठौँ स्वरूप महागौरीको विधिपूर्वक पूजाआजा गरिँदै छ । दुर्गा पूजा अन्तर्गत आठौँ स्वरूप महागौरीको पूजाको विशेष विधिविधान रहेको छ । अमोघ शक्ति भएकी यी देवीको भक्ति",
+      "published": "2026-10-17T23:27:25+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/mahagauri-cover_ujno42UeEX.webp",
+      "related_sources": [
+        "Ratopati",
+        "OnlineKhabar"
+      ],
+      "id": "ca62ba15fc6e4ca9",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 130.4,
+      "story_size": 2,
+      "image_local": "images/news_1bb9fe2b2bd937bf2884.webp"
+    },
+    {
+      "title": "आज यी ठाउँमा लाग्दैछ हुस्सु र पर्दैछ पानी र हिमपात",
+      "link": "https://kendrabindu.com/news/564751/",
+      "description": "काठमाडौं । हाल देशमा पश्चिमी वायुको आंशिक प्रभाव रहेको छ। आज देशका हिमाली र पहाडी भू-भागमा आंशिक बादल लाग्नेछ । मधेश तथा कोशी, बागमती र गण्डकी प्रदेशको तराई भू-भागमा आंशिक बादल लाग्नेछ तथा लुम्बिनी र सुदुरपश्चिम प्रदेशको तराई भू-भागमा मौसम मुख्यतया सफा रहने मौसम पूर्वानुमान महाशाखाले जनाएको छ । देशको हिमाली भू-भाग तथा कोशी, बागमती [&#8230;]",
+      "published": "2026-10-18T00:25:43+00:00",
+      "source": "Kendrabindu",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "9413bc834c4ef0a6",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 125.3,
+      "story_size": 1
+    },
+    {
+      "title": "फ्रान्समा महँगीविरुद्ध जनआक्रोश, देशभर प्रदर्शन",
+      "link": "https://www.thahakhabar.com/detail/310540",
+      "description": "",
+      "published": "2026-10-18T06:46:47+05:45",
+      "source": "Thaha Khabar",
+      "category": "nepal",
+      "image": "https://www.thahakhabar.com/uploads/posts/France-1792285292.jpg",
+      "related_sources": [
+        "Thaha Khabar"
+      ],
+      "id": "16031915406173e6",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.7,
+      "story_size": 1,
+      "image_local": "images/news_f767a2a8f350ffbafd4c.jpg"
+    },
+    {
+      "title": "‘काली’ उद्धार पछिको खुसी",
+      "link": "https://gorkhapatraonline.com/news/227022",
+      "description": "काठमाडौँ, कात्तिक १ गते । असोज २५ गते बुढीगण्डकीमा आएको लेदोसहितको बाढीले गोरखाको आरुघाट गाउँपालिका–५, शान्तिबजारस्थित सहारा गुरुङ खत्रीको घर र गोठ एकैसाथ बगायो । परिवारका सदस्य भा...",
+      "published": "2026-10-18T06:46:25+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "society",
+      "image": "https://gorkhapatraonline.com/storage/media/388592/conversions/Untitled-1-Recovered-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "aef0f68520a206e3",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.7,
+      "story_size": 1,
+      "image_local": "images/news_bc490d2d3eeca260999e.jpg"
+    },
+    {
+      "title": "धेरै तिर्खा लाग्दा चिसो पानी किन धेरै मीठो लाग्छ?",
+      "link": "https://www.ratopati.com/story/600322/why-does-cold-water-taste-so-sweet-when-you-are-very-thirsty",
+      "description": "प्यास मेटाउने प्रयासमा चिसो पानीको पहिलो घुट्को लिनुको आनन्द बेग्लै हुन्छ। घाममा हिँडेर फर्केपछि, कसरत सकेपछि वा लामो समयसम्म पानी नपिई बसेपछि एक गिलास चिसो पानीले सामान्यभन्दा धेरै स्फूर्ति दिन्छ। तर, धेरै तिर्खा लाग्दा चिसो पानी किन",
+      "published": "2026-10-18T00:54:41+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/a-cold-glass-of-water-sits-on-a-wooden-table_KJM9QYdixm.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "ab27924a5fdb1645",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.3,
+      "story_size": 1,
+      "image_local": "images/news_b8d59d194c3da354da02.webp"
+    },
+    {
+      "title": "महाअष्टमी पर्व मनाइँदै",
+      "link": "https://gorkhapatraonline.com/news/227021",
+      "description": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक १ गते । बडादसैँको आठौँ दिन महाअष्टमीमा आइतबार नवदुर्गा भवानीको आठौँ स्वरूप माता महागौरीको विधिपूर्वक पूजाआराधना गरिँदै छ । माता महागौरीको स्वर...",
+      "published": "2026-10-18T06:35:07+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/388591/conversions/devi-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "4cd898ce626969c0",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.0,
+      "story_size": 1,
+      "image_local": "images/news_669978e6d79ff712a3b1.jpg"
+    },
+    {
+      "title": "माछापोखरीमा मध्यराति झगडा हुँदा युवकको ज्यान गयो, कुटपिटमा संलग्न युवक पक्राउ",
+      "link": "https://www.ratopati.com/story/600321/a-young-man-died-in-a-midnight-fight-in-machhapokhari-a-young-man-involved-in-the-beating-was-arrested",
+      "description": "काठमाडौँ । काठमाडौँको माछापोखरी चोकमा आपसी विवादका क्रममा कुटपिट हुँदा एक जनाको मृत्यु भएको छ। काठमाडौँ महानगरपालिका–१६ स्थित माछापोखरी चोकको सडकखण्डमा असोज ३१ गते राति करिब १२:१२ बजे हिँडिरहेको अवस्थामा दुई युवकबिच भनाभन भएको थियो। कञ्चनपुरको कृष्णपुर नगरपालिका–७",
+      "published": "2026-10-18T00:47:50+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/854338681_1538084555029662_980486271593970943_n_1nrkLHwhjK.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "88827198ee0d5f1a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.8,
+      "story_size": 1,
+      "image_local": "images/news_c9b6314aaf5db5f241fd.webp"
+    },
+    {
+      "title": "कोशीमा मासु उत्पादन बढे पनि उपभोक्ताले महँगो तिर्नुपर्ने बाध्यता",
+      "link": "https://www.ratopati.com/story/600313/despite-increased-meat-production-in-koshi-consumers-are-forced-to-pay-higher-prices",
+      "description": "विराटनगर । दसैँको सन्दर्भमा मासुको खपत बढेको छ । चाडपर्वको मौका छोपेर बजारमा हुने कालोबजारी र अस्वाभाविक मूल्यवृद्धि रोक्न स्थानीय प्रशासनले खसी–बोकाको मासुको अधिकतम खुद्रा मूल्य तोके पनि त्यसको कार्यान्वयन भने फितलो छ । एकातिर कोशी",
+      "published": "2026-10-18T00:45:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/masu-1_vLP4V5iLfV.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "dc169ac07a8383a0",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.6,
+      "story_size": 1,
+      "image_local": "images/news_3618332d190e77850f07.webp"
+    },
+    {
+      "title": "हर्षोल्लासको सन्देश दिने मालश्री धुन",
+      "link": "https://gorkhapatraonline.com/news/227020",
+      "description": "काठमाडौँ,कात्तिक १ गते । शरद् ऋतुसँगै आउने धार्मिक एवं सांस्कृतिक पर्व परम्पराले वातावण र पर्यावरणलाई थप सङ्गीतमय बनाएको हुन्छ । रेडियो, टेलिभिजन तथा मन्दिरमा एकनास बज्ने मालश्री ध...",
+      "published": "2026-10-18T06:26:42+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/388590/conversions/Untitled-1-Recovered-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "dbbdc3a60bdc04e7",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.4,
+      "story_size": 1,
+      "image_local": "images/news_945d9ed0b2f1ab65811e.jpg"
+    },
+    {
+      "title": "डियाजको ह्याट्रिक र केनको ऐतिहासिक गोलमा बायर्न पुनः लयमा फर्कियो",
+      "link": "https://www.ratopati.com/story/600320/bayern-return-to-form-with-diaz-hat-trick-and-kanes-historic-goal",
+      "description": "म्युनिख । ह्यारी केनले आफ्नो १००औँ बुन्डेसलिगा उपस्थितिमा गोल गरे भने लुइस डियाजले ह्याट्रिक पूरा गरेपछि बायर्न म्युनिखले आरबी लाइपजिगलाई ६-१ को फराकिलो अन्तरले पराजित गर्दै तालिकाको शीर्ष स्थान कब्जा गरेको छ। लुइस डियाज, अलेक्ज्यान्डर पाभ्लोभिच र",
+      "published": "2026-10-18T00:41:10+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/kane_JiJi23YNuC.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "5a8e077b2f9f13a0",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.4,
+      "story_size": 1,
+      "image_local": "images/news_8abf409f874514290ac5.webp"
+    },
+    {
+      "title": "कलकत्ताको दुर्गा पूजा पान्डालमा भागदौड मच्चिँदा १९ जनाको मृत्यु, २५ घाइते",
+      "link": "https://www.thahakhabar.com/detail/310539",
+      "description": "",
+      "published": "2026-10-18T06:23:49+05:45",
+      "source": "Thaha Khabar",
+      "category": "nepal",
+      "image": "https://www.thahakhabar.com/uploads/posts/1-1792283887.png",
+      "related_sources": [
+        "Thaha Khabar"
+      ],
+      "id": "bcec773378e2046a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.2,
+      "story_size": 1
+    },
+    {
+      "title": "पीएसजीको लगातार छैटौँ जित, शीर्ष स्थानमा उक्लियो",
+      "link": "https://www.ratopati.com/story/600319/psgs-sixth-consecutive-win-climbs-to-the-top-spot",
+      "description": "पेरिस । पेरिस सेन्ट-जर्मेन (पीएसजी) ले पुनरागमन गर्दै स्ट्रासयोर्गलाई पराजित गरी सबै प्रतियोगिताहरूमा आफ्नो जित यात्रा लगातार छैटौँ खेलसम्म पुर्‍याएको छ। च्याम्पियन लिगमा म्यानचेस्टर सिटीलाई ४-२ ले हराएको टोलीका आठ खेलाडीलाई लुइस एनरिकेले यस खेलमा परिवर्तन गरेका",
+      "published": "2026-10-18T00:36:40+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/psg_rPH89HHVHx.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "e0e4c190c153f15a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.1,
+      "story_size": 1,
+      "image_local": "images/news_4366f73627f848f34e5d.webp"
+    },
+    {
+      "title": "चेल्सी चौथो स्थानमा उक्लियो, ९ महिनापछि पहिलोपटक ‘क्लिन सिट’",
+      "link": "https://www.ratopati.com/story/600318/chelsea-climb-to-fourth-place-first-clean-sheet-in-9-months",
+      "description": "लण्डन । जाबी अलोन्सोको टोली चेल्सीले एभरटनविरुद्ध जित हात पारेको खेलमा टोलीका गोलरक्षक एमिलियानो मार्टिनेज टाउकोमा गम्भीर चोट लाग्दै स्ट्रैचरमा मैदान बाहिरिएका छन्। अर्जेन्टिनाका विश्वकप विजेता ३४ वर्षीय गोलरक्षक मार्टिनेज र एभरटनका डिफेन्डर ज्याराड ब्रेन्थवेट खेलको ७५औँ",
+      "published": "2026-10-18T00:32:27+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/chelsea_tTbITIH1Q3.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "0d539f4a74f2df5f",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.8,
+      "story_size": 1,
+      "image_local": "images/news_de053d69ed26de52c513.webp"
+    },
+    {
+      "title": "सिटीको ऐतिहासिक सुरुवात : इप्सविच टाउनलाई हराउँदै लगातार सातौँ जित",
+      "link": "https://www.ratopati.com/story/600317/citys-historic-start-seventh-consecutive-win-beating-ipswich-town",
+      "description": "म्यानचेस्टर । म्यानचेस्टर सिटीले इप्सविच टाउनलाई ३-२ गोलले पराजित गर्दै आफ्नो क्लबको इतिहासमै पहिलोपटक प्रिमियर लिग सिजनको सुरुवाती लगातार सात खेल जित्ने कीर्तिमान बनाएको छ। अर्लिङ हालान्डले दुई गोल गरेपछि एन्जो मारेस्काको टोलीले लिग तालिकाको शीर्ष स्थानमा",
+      "published": "2026-10-18T00:28:17+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/man-city_1zVFAWoeXV.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "99e27a219a40fe62",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.5,
+      "story_size": 1,
+      "image_local": "images/news_1b82ad3f0a239e8faae3.webp"
+    },
+    {
+      "title": "सिन्धुलीमा सुमो सुनकोशीमा खस्यो, ३ जनाको मृत्यु, ३ बेपत्ता",
+      "link": "https://www.thahakhabar.com/detail/310538",
+      "description": "",
+      "published": "2026-10-18T06:10:00+05:45",
+      "source": "Thaha Khabar",
+      "category": "nepal",
+      "image": "https://www.thahakhabar.com/uploads/posts/accident-1767456400.jpg",
+      "related_sources": [
+        "Thaha Khabar"
+      ],
+      "id": "30af98afb74d690a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.3,
+      "story_size": 1,
+      "image_local": "images/news_190815e7c00997f00d54.jpg"
+    },
+    {
+      "title": "कस्तो रहला आजको मौसम ?",
+      "link": "https://baahrakhari.com/detail/505241",
+      "description": "देशको हिमाली भू–भाग तथा कोसी, वाग्मती र गण्डकी प्रदेशका पहाडी भू–भागका एक–दुई स्थानमा मेघगर्जन/चट्याङसहित हल्का वर्षा/हिमपातको सम्भावना रहेको महाशाखाले जनाएको छ ।",
+      "published": "2026-10-18T06:50:17+05:45",
+      "source": "Baahrakhari",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "533a7b46919c9eac",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.0,
+      "story_size": 1
+    },
+    {
+      "title": "चीनको किन्डरगार्टनमा विषाक्त खाना : सञ्चालकलाई जन्मकैदको सजाय",
+      "link": "https://www.ratopati.com/story/600316/food-poisoning-at-chinese-kindergarten-operator-sentenced-to-life-in-prison",
+      "description": "टियानसुई । चीनको गान्सु प्रान्तस्थित टियानसुईमा रहेको हेशी पेक्सिन किन्डरगार्टनमा २ सयभन्दा बढी बालबालिकालाई सिसायुक्त (लिड) अखाद्य वस्तु मिसिएको खाजा खुवाएर विषक्त बनाएको कसुरमा सञ्चालकसहित छ जना कर्मचारीलाई जेल सजाय सुनाइएको छ। चिनियाँ सञ्चारमाध्यमका अनुसार उक्त",
+      "published": "2026-10-18T00:21:19+00:00",
+      "source": "Ratopati",
+      "category": "world",
+      "image": "https://npcdn.ratopati.com/media/news/9df7c880-ca1d-11f1-a64c-550be9e3c66bpng_Td930c9XL8.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "b5619f893bbc27f5",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.0,
+      "story_size": 1,
+      "image_local": "images/news_4c4aaec572e378c6ca40.webp"
+    },
+    {
+      "title": "लामो खडेरी र अन्तर्राष्ट्रिय सहायता कटौतीले मादागास्करमा भोकमरीको चिन्ता",
+      "link": "https://kendrabindu.com/world/564765/",
+      "description": "इफोटाका । जलवायु परिवर्तन, लामो खडेरी र अन्तर्राष्ट्रिय सहायता कटौतीका कारण भोकमरीको चपेटामा परेको दक्षिणी मादागास्करमा एल निनोको सम्भावित प्रभावले सङ्कट थप गहिरिने चिन्ता बढेको छ । कुपोषणबाट प्रभावित बालबालिका खाद्य सहायताको प्रतीक्षामा छन् भने आगामी महिनामा खडेरी बढ्ने चेतावनी दिइएको छ । इफोटाका सहरस्थित विश्व खाद्य कार्यक्रम (डब्लुएफपी) को केन्द्रमा दर्जनौँ बालबालिका खानाका लागि [&#8230;]",
+      "published": "2026-10-18T01:04:45+00:00",
+      "source": "Kendrabindu",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "626fd83094aa6173",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.9,
+      "story_size": 1
+    },
+    {
+      "title": "माछापोखरी चोकमा झगडा हुँदा एक जनाको मृत्यु",
+      "link": "https://www.setopati.com/social/401048",
+      "description": "काठमाडौंको माछापोखरी चोकमा आपसी विवादका क्रममा झगडा हुँदा एक जनाको मृत्यु भएको छ।",
+      "published": "2026-10-18T06:48:35+05:45",
+      "source": "Setopati",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "ff20f7480ec5f577",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.9,
+      "story_size": 1
+    },
+    {
+      "title": "बडादसैंको आज आठौ दिन: महाअष्टमी मनाइँदै",
+      "link": "https://nepalsamaya.com/detail/147121",
+      "description": "",
+      "published": "2026-10-18T06:47:14+05:45",
+      "source": "Nepal Samaya",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Nepal Samaya"
+      ],
+      "id": "8a51ecade2f3d2a4",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.8,
+      "story_size": 1
+    },
+    {
+      "title": "लाइपजिगलाई हराएर बायर्न शीर्षमा",
+      "link": "https://kendrabindu.com/sports/564762/",
+      "description": "काठमाडौं । लुइस डियाजको ह्याट्रिक मदतले बायर्न म्युनिकले शनिबार आरबी लाइपजिगलाई ६–१ ले पराजित गरेको छ र अंक तालिकाको शीर्षमा उक्लेको छ । यसअघि बोरुसिया डर्टमुन्डले युनियन बर्लिनसँग गोलरहित बराबरी खेलेको थियो । दुवै टिम समान १४ अंकमा छन् र बायर्न गोल अन्तरले अगाडि रहेको हो । डियाजले १२, ४७ र ६९ औं मिनेटमा गोल [&#8230;]",
+      "published": "2026-10-18T00:59:38+00:00",
+      "source": "Kendrabindu",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "7a7e2ab9474ae1d3",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.6,
+      "story_size": 1
+    },
+    {
+      "title": "यस्तो छ आजको लागि विदेशी मुद्राको विनिमयदर",
+      "link": "https://kendrabindu.com/economy/564760/",
+      "description": "काठमाडौं । नेपाल राष्ट्र बैंकले आज कात्तिक १ गते (अक्टोबर १८) का लागि विदेशी मुद्राहरूको विनिमयदर निर्धारण गरेको छ। आज (आइतबार) अमेरिकी डलर, युरो, पाउन्ड स्टर्लिङ, अस्ट्रेलियन डलरलगायत मुख्य विदेशी मुद्राको विनिमय दर स्थिर बसेको छ। जसअनुसार आज अमेरिकी डलर १ को खरिददर १५१ रुपैयाा ६४ पैसा र बिक्रीदर १५२ रुपैयाँ २४ पैसा छ। युरोपियन [&#8230;]",
+      "published": "2026-10-18T00:56:26+00:00",
+      "source": "Kendrabindu",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "8f8675a0ca0b1e83",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.4,
+      "story_size": 1
+    },
+    {
+      "title": "मुम्बई पुलिसको आदेशविरुद्ध इमरान खानको अदालतमा याचिका दर्ता",
+      "link": "https://kendrabindu.com/world/564757/",
+      "description": "काठमाडौं । बलिउड अभिनेता इमरान खानले मुम्बई पुलिसको एक आदेशलाई चुनौती दिँदै शनिवार बम्बे उच्च अदालतमा याचिका दर्ता गराएका छन् । मुम्बई पुलिसले एक राजनीतिक प्रदर्शनमा सहभागी भएर नियम उल्लङ्घन गरेको आरोपमा उनलाई अक्टोबर २८ भित्र भारत छाड्न निर्देशन दिँदै नोटिस जारी गरेको थियो । इमरान खानले आफ्ना वकिल जुल्फिकार मेमन र ‘एमजेडएम लिगल’ (MZM [&#8230;]",
+      "published": "2026-10-18T00:46:19+00:00",
+      "source": "Kendrabindu",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "55811a43685b3a96",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.7,
+      "story_size": 1
+    },
+    {
+      "title": "फ्रान्सभर प्रदर्शन उग्र : प्रहरी र प्रदर्शनकारीबीच झडप, १२ सयभन्दा बढी पक्राउ",
+      "link": "https://baahrakhari.com/detail/505240",
+      "description": "",
+      "published": "2026-10-18T06:28:49+05:45",
+      "source": "Baahrakhari",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "088a2ddac80ff457",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.5,
+      "story_size": 1
+    },
+    {
+      "title": "यस्ताे छ आज विदेशी मुद्राको विनिमय दर",
+      "link": "https://www.ratopati.com/story/600312/this-is-the-foreign-currency-exchange-rate-today",
+      "description": "काठमाडौँ । नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमय दर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५१ रुपैयाँ ६४ पैसा र बिक्रीदर १५२ रुपैयाँ २४ पैसा निर्धारण गरिएको छ",
+      "published": "2026-10-17T23:51:08+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://rpcdn.ratopati.com/media/albums/forex_FMYjdGPO4Y.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "5d62bd972f054dac",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.0,
+      "story_size": 1,
+      "image_local": "images/news_9c2c4a7c0f4205dc6b29.jpg"
+    },
+    {
+      "title": "भोटेकोशी बाढीले शिक्षा क्षेत्रमा ४ अर्ब ६१ करोडभन्दा बढिको क्षति, ७७७ विद्यार्थी विस्थापित",
+      "link": "https://kendrabindu.com/education/564754/",
+      "description": "काठमाडौं । भोटेकोशी बाढीका कारण ७ सय ७७ विद्यार्थी आफ्नो मूल विद्यालयबाट विस्थापित भएको पाइएको छ । शिक्षा तथा खेलकुद मन्त्रालयले रसुवा, नुवाकोट र धादिङ जिल्लाका शिक्षा विकास तथा समन्वय एकाइमार्फत संकलन गरेको विवरणमा बाढीले घर वा विद्यालयमा क्षति पुगेका कारण विद्यार्थी विस्थापित भएको जनाइएको छ । विस्थापित विद्यार्थीको सिकाइमा निरन्तरता र व्यवस्थापनका लागि कदमहरू चालिएको शिक्षा [&#8230;]",
+      "published": "2026-10-18T00:34:27+00:00",
+      "source": "Kendrabindu",
+      "category": "tech",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "5ff78401bb255e98",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 107.9,
+      "story_size": 1
+    },
+    {
+      "title": "सिन्धुलीमा गाडी दुर्घटना हुँदा तीन जनाको मृत्यु, चार जना घाइते",
+      "link": "https://www.setopati.com/social/401047",
+      "description": "काठमाडौंबाट गएको गाडी सिन्धुलीमा दुर्घटना हुँदा तीन जनाको मृत्यु भएको छ।",
+      "published": "2026-10-18T06:19:12+05:45",
+      "source": "Setopati",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "27fae8340ef76f3d",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 107.9,
+      "story_size": 1
+    },
+    {
+      "title": "शक्तिपीठमा भक्तजनको घुइँचो",
+      "link": "https://gorkhapatraonline.com/news/227019",
+      "description": "काठमाडौँ, कात्तिक १ गते । “नवरात्रमा मनमा पाप नराखी शुद्ध मनले देवीको पूजा गर्दा जे चितायो त्यही पुग्छ । दसैँमा जमरा राखेको दिनदेखि एकादशीको दिनसम्म अन्न, नुन नखाई व्रत बस्ने गरेको...",
+      "published": "2026-10-18T05:26:04+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/388589/conversions/Untitled-1-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "221324318526060d",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 107.4,
+      "story_size": 1,
+      "image_local": "images/news_176d4967155032eb6a1a.jpg"
+    },
+    {
+      "title": "कति पुग्यो डलरको भाउ ? यस्तो छ विदेशी मुद्राको विनिमयदर",
+      "link": "https://baahrakhari.com/detail/505239",
+      "description": "युरोपियन युरो एकको खरिददर १७० रुपैयाँ ७० पैसा र बिक्रीदर १७१ रुपैयाँ ३८ पैसा, यूके पाउन्डस्टर्लिङ एकको खरिददर २०२ रुपैयाँ १९ पैसा र बिक्रीदर २०२ रुपैयाँ ९९ पैसा, स्वीस फ्र्यांक एकको खरिददर १८४ रुपैयाँ १४ पैसा र बिक्रीदर १८४ रुपैयाँ ८७ पैसा कायम गरिएको छ ।",
+      "published": "2026-10-18T06:07:34+05:45",
+      "source": "Baahrakhari",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "8b478dedd26dcf8f",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 107.1,
+      "story_size": 1
+    },
+    {
+      "title": "फ्रान्समा प्रदर्शन हिंसात्मक बन्दा १२०० पक्राउ, १५० प्रहरी घाइते",
+      "link": "https://www.onlinekhabar.com/2026/10/2040965/1200-arrested-150-police-injured-as-protests-turn-violent-in-france",
+      "description": "फ्रान्समा विद्यार्थीहरुले सुरु गरेको प्रदर्शनका क्रममा राजधानी पेरिससहित विभिन्न सहरमा आगजनी, तोडफोड र लुटपाटका घटना भएका छन् । १२०० पक्राउ परेका छन् भने १५० प्रहरी घाइते भएका छन् ।",
+      "published": "2026-10-18T00:16:16+00:00",
+      "source": "OnlineKhabar",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "a4f01cbefd32bf68",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 106.7,
+      "story_size": 1
+    },
+    {
+      "title": "'फ्रान्सेली विद्यार्थीलाई बोलाएर टीका–जमरा लगाइदिन्छु'",
+      "link": "https://www.setopati.com/global/europe/401044",
+      "description": "फ्रान्समा नेपाली भाषा पढाउने उनले १२ वर्षदेखि परिवारसँग दसैं मनाउन पाएकी छैनन्। गाउँघरको पिङ र मालश्री धुनको सम्झनाले भने छाडेको छैन। त्यसैले विदेशमा रहँदा पनि उनले दसैं मनाउन भने छाडेकी छैनन्।",
+      "published": "2026-10-18T05:56:00+05:45",
+      "source": "Setopati",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "f84af98f4e057095",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 106.4,
+      "story_size": 1
+    },
+    {
+      "title": "आज आइतबार, सूर्यदेवको पूजा गर्नुहोस्",
+      "link": "https://khabarhub.com/2026/18/1038695/",
+      "description": "काठमाडौँ – २०८३ साल कात्तिक १ गते आइतबार सन् २०२६ अक्टोबर १८ तारिख। असोज शुक्ल पक्षको अष्टमी तिथि । दशैंको महाअष्टमी व्रत । हिन्दूधर्मशास्त्र अनुसार हरेक दिन वा बार कुनै न कुनै भगवानको पूजा गर्ने गरिन्छ। आइतबार सूर्य देवको पूजा गर्ने दिनको रुपमा मानिन्छ। धर्मशास्त्रमा उल्लेख भए अनुसार आइतबार सूर्य देवतालाई पूजा गर्नाले विशेष गरी [&#8230;]",
+      "published": "2026-10-18T00:00:00+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "d869b7af2bfeac66",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 105.6,
+      "story_size": 1
+    },
+    {
+      "title": "आइतबार कुन राशिका लागि शुभ ? हेर्नुहोस् राशिफल",
+      "link": "https://www.ratopati.com/story/600311/which-zodiac-sign-is-auspicious-for-sunday-see-horoscope",
+      "description": "आजको पञ्चाङ्ग वि.सं.२०८३ साल कार्तिक १ गते । आइतबार । इस्वी सन् २०२६ अक्टोबर १८ तारिख । नेपाल संवत् ११४६ । रौद्र संवत्सर । दक्षिणायन । शरद ऋतु । श्रीशाके १९४८ । आश्विन शुक्लपक्ष । तिथि–अष्टमी,",
+      "published": "2026-10-17T23:15:17+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/horoscope_XkWmpVM1yU.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "e417d7f600ce8131",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 105.6,
+      "story_size": 1,
+      "image_local": "images/news_3f09ac2e5e6c89788b01.jpg"
+    },
+    {
+      "title": "कविता : तमासा",
+      "link": "https://www.onlinekhabar.com/2026/10/2040961/poem-tamasa",
+      "description": "कसैका घर कसैका जग्गा-जमिन कसैका दुवै गए कसैका अभिभावक कसैका आफन्त कसैका दुवै गए । &#160; तिनैमध्येको अरूसँग हात फैलाउन नजानेको माग्ने बानी नभएको ऊ, निमेषमै ज्यान घाइते मन आघात कोही नभएको केही नभएको दान र दयाको भिखारी भयो । &#160; हेलिकप्टरहरू माथिबाट आउँछन् मोटरहरू तलबाट आउँछन् अनेकन मालताल ल्याउँछन् । &#160; घर, जमिन, आफन्त [&#8230;]",
+      "published": "2026-10-17T23:55:21+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "24a294c643a27035",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 105.3,
+      "story_size": 1
+    },
+    {
+      "title": "अमेरिकी ६ सांसदले भारतको आन्दोलनबारे के भने ?",
+      "link": "https://www.onlinekhabar.com/2026/10/2040957/what-did-6-american-lawmakers-say-about-indias-protests",
+      "description": "अमेरिकी सांसदहरूले रुबियोलाई भारत सरकारमाथि मानवाधिकार उल्लङ्घनको पारदर्शी र स्वतन्त्र छानबिन सुरु गर्न दबाब दिन अपिल गरेका छन्।",
+      "published": "2026-10-17T23:49:05+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "01e7a122bf55bca7",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 104.9,
+      "story_size": 1
     },
     {
       "title": "करेन्ट लागेर महिलाको मृत्यु",
@@ -72,8 +740,26 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 112.6,
-      "story_size": 3
+      "score": 104.9,
+      "story_size": 4
+    },
+    {
+      "title": "आज २०८३ साल कात्तिक १ गते आइतबारको राशिफल",
+      "link": "https://khabarhub.com/2026/18/1038690/",
+      "description": "काठमाडौँ – २०८३ साल कात्तिक १ गते आइतबार सन् २०२६ अक्टोबर १८ तारिख। असोज शुक्ल पक्षको अष्टमी तिथि । दशैंको महाअष्टमी व्रत । नक्षत्र अनुसार १२ वटा राशि हुन्छन्। चन्द्रमा अनुसार राशि र नक्षत्रका पद अनुसार नाम राखिन्छ। त्यही आधारमा व्यक्तिको दैनिकीको विषयमा भविष्यवाणी हुन्छ। खबरहबका लागि ज्योतिष पण्डित सूर्यनाथ लुइटेलले तयार पार्नुभएको आजको फलादेशः [&#8230;]",
+      "published": "2026-10-17T23:35:00+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "735010b055cef4fb",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 104.0,
+      "story_size": 1
     },
     {
       "title": "कस्तो रहला यो साताको तपाईंको भाग्य ?",
@@ -90,48 +776,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.5,
+      "score": 103.8,
       "story_size": 1,
       "image_local": "images/news_6911ca8cbc2f7c49bda9.jpg"
-    },
-    {
-      "title": "रुसमाथि प्रतिबन्ध लगाउन जेलेन्स्कीको आग्रह, ट्रम्पको निर्णयप्रति असन्तुष्टि",
-      "link": "https://www.thahakhabar.com/detail/310534",
-      "description": "",
-      "published": "2026-10-17T21:50:05+05:45",
-      "source": "Thaha Khabar",
-      "category": "world",
-      "image": "https://www.thahakhabar.com/uploads/posts/1-Trump-zelenskey-1766980389.jpg",
-      "related_sources": [
-        "Thaha Khabar",
-        "Gorkhapatra Online"
-      ],
-      "id": "545c877296e9d1f7",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 108.7,
-      "story_size": 2,
-      "image_local": "images/news_469d10d412492c445f80.jpg"
-    },
-    {
-      "title": "भारतको गुजरातस्थित औषधि कारखानामा विस्फोट, पाँचजनाको मृत्यु",
-      "link": "https://baahrakhari.com/detail/505236",
-      "description": "",
-      "published": "2026-10-17T22:20:07+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari",
-        "Gorkhapatra Online"
-      ],
-      "id": "529e11e930cdd335",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 107.7,
-      "story_size": 2
     },
     {
       "title": "अस्थायी मर्मतपछि दसैँमा सहज बन्दै बागलुङका सडक",
@@ -149,7 +796,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 107.2,
+      "score": 99.5,
       "story_size": 2,
       "image_local": "images/news_7ee9d9b8e8cd33b38355.webp"
     },
@@ -169,7 +816,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 105.5,
+      "score": 97.7,
       "story_size": 2,
       "image_local": "images/news_ece9e5d7c3775d422ccd.webp"
     },
@@ -188,7 +835,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.4,
+      "score": 97.6,
       "story_size": 1,
       "image_local": "images/news_7567420e3a67fdab3a94.webp"
     },
@@ -208,7 +855,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 105.2,
+      "score": 97.5,
       "story_size": 2,
       "image_local": "images/news_6a5e568e1071bf25d945.jpg"
     },
@@ -228,7 +875,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 104.2,
+      "score": 96.5,
       "story_size": 2
     },
     {
@@ -246,7 +893,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 97.8,
+      "score": 90.0,
       "story_size": 1
     },
     {
@@ -264,7 +911,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.6,
+      "score": 87.8,
       "story_size": 1,
       "image_local": "images/news_c6f99a2903e76bb3e332.webp"
     },
@@ -283,7 +930,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.3,
+      "score": 87.6,
       "story_size": 1,
       "image_local": "images/news_9a5e801930d2fc577005.webp"
     },
@@ -302,7 +949,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.4,
+      "score": 86.7,
       "story_size": 1,
       "image_local": "images/news_3667f556f7ae5bfa87f0.jpg"
     },
@@ -321,7 +968,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.4,
+      "score": 85.6,
       "story_size": 1,
       "image_local": "images/news_e43940c7becf191e1263.webp"
     },
@@ -340,7 +987,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.8,
+      "score": 85.0,
       "story_size": 1,
       "image_local": "images/news_09ec781f38ca8537a14b.webp"
     },
@@ -359,7 +1006,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.1,
+      "score": 81.4,
       "story_size": 1,
       "image_local": "images/news_5dc778160ee6f447a284.webp"
     },
@@ -378,7 +1025,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.4,
+      "score": 80.6,
       "story_size": 1,
       "image_local": "images/news_dd812ecb283858f37852.webp"
     },
@@ -397,7 +1044,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.4,
+      "score": 79.6,
       "story_size": 1,
       "image_local": "images/news_dbc685bca6ffa94b2d6a.jpg"
     },
@@ -416,7 +1063,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.0,
+      "score": 79.3,
       "story_size": 1,
       "image_local": "images/news_6b40e298180d88662d8f.webp"
     },
@@ -435,27 +1082,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.1,
+      "score": 78.3,
       "story_size": 1
-    },
-    {
-      "title": "उपत्यकाका विभिन्न नाकामा दशैँका यात्रुको अत्याधिक चाप, चार लाख बाहिरिए",
-      "link": "https://www.thahakhabar.com/detail/310535",
-      "description": "महासङ्घले यात्रुलाई टिकट काटेर मात्र यात्रा गर्न, तोकिएको भाडा तिर्न र सवारीसाधनको अवस्था जाँच गरेर यात्रा गर्न आग्रह गरेको छ।",
-      "published": "2026-10-17T22:01:48+05:45",
-      "source": "Thaha Khabar",
-      "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/1-1792253803.jpg",
-      "related_sources": [
-        "Thaha Khabar"
-      ],
-      "id": "161a3622d5451b42",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 85.5,
-      "story_size": 1,
-      "image_local": "images/news_f3c056f9912eb2f99d4d.jpg"
     },
     {
       "title": "१० बजे १० समाचार : गगनले सम्हाले पार्टी सत्ता, मधेसका मुख्यमन्त्रीको पद धरापमा",
@@ -472,7 +1100,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.1,
+      "score": 77.4,
       "story_size": 1,
       "image_local": "images/news_2289f44e098ca3ae8b51.webp"
     },
@@ -491,7 +1119,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.1,
+      "score": 76.4,
       "story_size": 1
     },
     {
@@ -509,7 +1137,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.6,
+      "score": 75.9,
       "story_size": 1,
       "image_local": "images/news_f68c16ed38579a4b0851.jpg"
     },
@@ -528,7 +1156,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.1,
+      "score": 75.3,
       "story_size": 1
     },
     {
@@ -546,25 +1174,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.0,
-      "story_size": 1
-    },
-    {
-      "title": "बंगलादेशको रिसोर्टमा आगलागी, ६ जनाको मृत्यु",
-      "link": "https://baahrakhari.com/detail/505235",
-      "description": "",
-      "published": "2026-10-17T22:01:57+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "124cfab61c9a2d11",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 82.5,
+      "score": 75.2,
       "story_size": 1
     },
     {
@@ -582,255 +1192,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.3,
+      "score": 74.6,
       "story_size": 1,
       "image_local": "images/news_9547a903b3705b0bb244.webp"
-    },
-    {
-      "title": "लत्रिएको तारबाट करेन्ट लागेर महिलाको मृत्यु",
-      "link": "https://www.thahakhabar.com/detail/310533",
-      "description": "",
-      "published": "2026-10-17T21:11:30+05:45",
-      "source": "Thaha Khabar",
-      "category": "business",
-      "image": "https://www.thahakhabar.com/uploads/posts/courrent--1792250088.jpg",
-      "related_sources": [
-        "Thaha Khabar"
-      ],
-      "id": "68e4b6f9f70697d8",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 82.1,
-      "story_size": 1,
-      "image_local": "images/news_f418b6873a1bd6019f58.jpg"
-    },
-    {
-      "title": "शपथकै दिन गगनले भने– गल्ती गरे मलाई हटाउनू, रास्वपामा उपहार प्रतिबन्ध, किशोर श्रेष्ठलाई किन लगियो साइबर ब्यूरो ?",
-      "link": "https://www.thahakhabar.com/detail/310527",
-      "description": "",
-      "published": "2026-10-17T21:02:00+05:45",
-      "source": "Thaha Khabar",
-      "category": "politics",
-      "image": "https://www.thahakhabar.com/uploads/posts/0n-8F6WqpOQ-HD-1792250203.jpg",
-      "related_sources": [
-        "Thaha Khabar"
-      ],
-      "id": "64a455be42e15a6b",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 81.5,
-      "story_size": 1,
-      "image_local": "images/news_f7a57f14520a487ee8de.jpg"
-    },
-    {
-      "title": "मिडियामा सार्वजनिक जीबी राईको भनिएको अडियो सही हो? प्रहरी के भन्छ?",
-      "link": "https://www.thahakhabar.com/detail/310532",
-      "description": "समाचारमा पक्राउ नै समाधान हो भने आफैँ उपस्थित हुने तर त्यसो गर्दा लाखौँ बचतकर्ताको अर्बौं रकम फिर्ता नआउने पनि उल्लेख छ।",
-      "published": "2026-10-17T20:48:23+05:45",
-      "source": "Thaha Khabar",
-      "category": "society",
-      "image": "https://www.thahakhabar.com/uploads/posts/gb-rai--1792249382.jpg",
-      "related_sources": [
-        "Thaha Khabar"
-      ],
-      "id": "a949f856c75f9893",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 80.6,
-      "story_size": 1,
-      "image_local": "images/news_d3502ef29dade9256642.jpg"
-    },
-    {
-      "title": "मधेसमा एमाले किन पटक–पटक संकटमा पर्छ ?",
-      "link": "https://www.ratopati.com/story/600291/why-does-uml-repeatedly-find-itself-in-crisis-in-madhesh",
-      "description": "काठमाडौं । नेकपा एमाले सरकारबाट बाहिरनुका साथै समर्थन समेत फिर्ता लिएपछि मधेसमा फेरि एकपटक सत्ता उलटपुलटको स्थिति बनेको छ । एमालेले समर्थन फिर्ता लिएसँगै कांग्रेस नेतृत्वको सरकार अल्पमतमा परेसँगै सत्ता उलटपुलटको स्थिति बनेको हो । एमाले",
-      "published": "2026-10-17T15:03:13+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/md_H5QpFo5y5t.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "cfd95fd4c5530b0d",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 80.6,
-      "story_size": 1,
-      "image_local": "images/news_54723563a39b9787200a.webp"
-    },
-    {
-      "title": "तथ्याङ्कमा अन्न बचत, यथार्थमा कुपोषण",
-      "link": "https://www.ratopati.com/story/600274/food-savings-in-statistics-malnutrition-in-reality-where-is-nepals-agricultural-policy-going-wrong",
-      "description": "काठमाडौँ । नेपालको कृषि प्रणाली र खाद्य सुरक्षाको हालको अवस्था सरकारी तथ्याङ्क र भुइँतहको यथार्थबिच विरोधाभास छ । कृषि, वन तथा पर्यावरण मन्त्रालयका सहसचिव डा. रामकृष्ण श्रेष्ठद्वारा प्रस्तुत ‘नेपालमा खाद्य तथा पोषण सुरक्षाको लागि कृषिमा नवप्रवर्तनः वर्तमान",
-      "published": "2026-10-17T14:45:00+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/bhokmari-photo_3D7Y74d5M2.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "2caf85d44fd2bc4b",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 79.4,
-      "story_size": 1,
-      "image_local": "images/news_74c770dbf5b683b0ce51.webp"
-    },
-    {
-      "title": "अनि जन्मियो कालजयी गीत फौजीलाई कुन हो दसैँ...",
-      "link": "https://www.ratopati.com/story/600266/and-the-timeless-song-what-is-dashain-for-the-soldiers-was-born",
-      "description": "न आउँछ दसैँ–तिहार, किन बिदा बार फौजीलाई कुन हो दसैँ, कुन हो चाड तिहार...’ दसैँको रमझम सुरु भएसँगै गाउँसहरमा धेरै बज्ने गीत हो यो । यो गीत सुन्दा जोकोहीको मन चसक्क हुन्छ र आँखा रसाउँछन् । डेढ",
-      "published": "2026-10-17T14:15:00+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/song_4JWiP2QJuU.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "fff3b0c87af9525b",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 77.4,
-      "story_size": 1,
-      "image_local": "images/news_5b8ce60c21abcbf351ec.webp"
-    },
-    {
-      "title": "भोलिसम्म ११ लाख यात्रुले काठमाडौँ छाड्ने, कुन सडकको अवस्था कस्तो छ ?",
-      "link": "https://www.ratopati.com/story/600214/11-million-passengers-will-leave-kathmandu-by-tomorrow-what-is-the-condition-of-which-roads",
-      "description": "काठमाडौँ । दसैँ मनाउन काठमाडौँ उपत्यकाबाट भोलिसम्ममा करिब ११ लाख यात्रु बाहिरिने अनुमान गरिएको छ। नेपाल यातायात व्यवसायी राष्ट्रिय महासङ्घका अध्यक्ष सरोज सिटौलाले दसैँ मनाउन भोलिसम्ममा १० देखि ११ लाख मानिसले काठमाडौँ छाड्ने अनुमान गरिएको",
-      "published": "2026-10-17T14:15:00+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/dashain-yatru-13_flcjVGpoK1.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "9a4e614b61621d90",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 77.4,
-      "story_size": 1,
-      "image_local": "images/news_d1359d6d1b91eb6be45b.webp"
-    },
-    {
-      "title": "प्रधानन्यायाधीशको निजी जग्गाबाटै अवैध रूपमा माटो उत्खनन",
-      "link": "https://www.ratopati.com/story/600208/illegal-excavation-of-soil-from-the-private-land-of-the-chief-justice",
-      "description": "बारा । बहालवाला प्रधानन्यायाधीश मनोजकुमार शर्माको निजी जग्गाबाट अवैध रूपमा हजारौँ टिपर माटो उत्खनन भएको भेटिएको छ । साविक फत्तेपुर गाविस वडा नं ९ (ख) हाल जीतपुरसिमरा उपमहानगरपालिका वडा नं ११ को कित्ता नं १४१, २५३",
-      "published": "2026-10-17T14:15:00+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/manoj-sharma-bara_Ts77BqigYK.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "34291706a34ac949",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 77.4,
-      "story_size": 1,
-      "image_local": "images/news_de5df620b4640e35d1ce.webp"
-    },
-    {
-      "title": "११ तस्बिरमा हेर्नुहोस् गगन थापाको पदभार",
-      "link": "https://www.ratopati.com/story/600289/see-gagan-thapas-assumption-of-office-in-11-photos",
-      "description": "काठमाडौँ । कांग्रेस सभापति गगन थापाले शनिबार पदभार ग्रहण गरेका छन् । पार्टी कार्यालय सानेपामा सभापतिको शपथ लिएसँगै उनले पदभार ग्रहण गरेका हुन् । राजधानीमा हालै सम्पन्न १५औँ महाधिवेशनबाट उनी भारी मतका साथ सभापतिमा निर्वाचित भएका",
-      "published": "2026-10-17T14:08:11+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/gagan-thapa-2_uBg7Vy51Ji.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "3dd7110ee3dbd158",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 76.9,
-      "story_size": 1,
-      "image_local": "images/news_c67941e4ca23b1f5a151.webp"
-    },
-    {
-      "title": "राष्ट्रिय फुटबलर विमल घर्ती मगरद्वारा सन्न्यासको घोषणा",
-      "link": "https://khabarhub.com/2026/17/1038664/",
-      "description": "काठमाडौं – नेपाली राष्ट्रिय फुटबल टोलीका फरवार्ड विमल घर्तीमगरले सक्रिय खेलजीवनबाट सन्न्यास लिएका छन् । उनले आज सामाजिक सञ्जालमार्फत सन्न्यासको घोषणा गरेका हुन् । बुटवलबाट सुरु भएको आफ्नो फुटबल यात्रा राष्ट्रिय टोलीसम्म पुर्‍याउन निकै लामो र कठिन सङ्घर्ष गर्नुपरेको उल्लेख गर्दै विमलले देशका लागि मनदेखि खेलेको बताएका छन् । “बुटवलबाट सुरु भएको मेरो फुटबल यात्रा [&#8230;]",
-      "published": "2026-10-17T14:51:48+00:00",
-      "source": "Khabarhub",
-      "category": "sports",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "b9b2bbe96785514f",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 76.8,
-      "story_size": 1
-    },
-    {
-      "title": "सिरहामा गाँजा फँडानी गर्ने क्रममा भेटियो बेवारिसे कटुवा पेस्तोल",
-      "link": "https://www.ratopati.com/story/600288/an-abandoned-pistol-was-found-while-clearing-marijuana-in-siraha",
-      "description": "जनकपुरधाम । सिरहाको गोलबजार नगरपालिका–९ बलडाँडास्थित खेतबारीमा शनिबार गाँजाका बोट फँडानी गर्ने क्रममा प्रहरीले बेवारिसे अवस्थामा कटुवा पेस्तोल बरामद गरेको छ । जिल्ला प्रहरी कार्यालय सिरहाका अनुसार गाँजाको बोट लगाइएको भन्ने विशेष सूचनाका आधारमा इलाका प्रहरी",
-      "published": "2026-10-17T14:03:12+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/unnamed_Iysld3exLd.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "06163846b4b4b8c7",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 76.6,
-      "story_size": 1,
-      "image_local": "images/news_46b3b5de1e3bd2926de8.webp"
-    },
-    {
-      "title": "दसैँघरमा यसरी भित्र्याइयो फूलपाती (तस्बिर)",
-      "link": "https://www.ratopati.com/story/600287/this-is-how-phulpati-was-brought-into-the-dashain-ghar-photo",
-      "description": "काठमाडौं । दुर्गा पक्षअन्तर्गत आश्विन शुक्ल सप्तमीका दिन आज वसन्तपुरस्थित दसैँघरमा फूलपाती भित्र्याइएको छ । गोरखा दरबारबाट ल्याइएको फूलपाती विधिपूर्वक भित्र्याइएको हो । घटस्थापनाका दिनदेखि वैदिक विधिपूर्वक दुर्गालाई आह्वान गरी पूजाआजा गरिने दसैँघर अथवा पूजाकोठामा शुभसाइतको",
-      "published": "2026-10-17T13:59:25+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/fulpati-11_MvfZaEV5TH.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "eaaf06953274887a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 76.3,
-      "story_size": 1,
-      "image_local": "images/news_ab77a2db675937a414a7.webp"
-    },
-    {
-      "title": "शङ्कास्पद अवस्थामा शव फेला, पाँच युवा पक्राउ",
-      "link": "https://www.ratopati.com/story/600286/body-found-in-suspicious-circumstances-five-youths-arrested",
-      "description": "खोटाङ । हलेसी तुवाचुङ नगरपालिका–८ धितुङका ५२ वर्षीय हर्कु राईको हत्या आरोपमा पाँच युवालाई प्रहरीले नियन्त्रणमा लिएको छ । हर्कु शुक्रबार बिहान आफ्नै गाउँमा शङ्कास्पद अवस्थामा मृत फेला परेपछि प्रहरीले गएराति स्थानीय पाँच युवालाई नियन्त्रणमा",
-      "published": "2026-10-17T13:51:14+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/crime-scene_9rhjhbfqjw_gNWqwGV6Qh.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "567fe14a1f227c4f",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 75.8,
-      "story_size": 1,
-      "image_local": "images/news_43d19d4e50b7e2e3758a.jpg"
     },
     {
       "title": "भारतमा नेहा बोरापछि अभिजित दीप्के पनि हिरासतमुक्त, उनकी आमाले के भनिन्?",
@@ -847,28 +1211,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.7,
+      "score": 67.9,
       "story_size": 1,
       "image_local": "images/news_c231c268df94d96c8064.jpg"
-    },
-    {
-      "title": "सैनिक मञ्च टुँडिखेलमा फूलपाती बढाइँ, तस्बिरमा हेर्नुहोस्",
-      "link": "https://www.ratopati.com/story/600285/flower-arrangements-at-the-sainik-manch-tundikhel-see-photos",
-      "description": "काठमाडौँ । राष्ट्रपति रामचन्द्र पौडेलको प्रमुख आतिथ्यमा सैनिक मञ्च टुँडिखेलमा आज अपराह्न ‘फूलपाती बढाइँ समारोह–२०८३’ सम्पन्न भएको छ । समारोहमा नेपाली सेनाका परमाधिपति राष्ट्रपति पौडेलको सम्मानमा नेपाली सेनाले सलामी अर्पण गरेको थियो । उक्त समारोहमा सेनाको",
-      "published": "2026-10-17T13:49:01+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/phulpati-badhai--2253_RSc57j1lIM.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "775098c09408b2e4",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 75.6,
-      "story_size": 1,
-      "image_local": "images/news_ff3c65e153f35e1c62cd.webp"
     },
     {
       "title": "बाढीका डरलाग्दा भिडियोले बालबालिकामा बढाउँदै छ मानसिक तनाव",
@@ -885,27 +1230,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.5,
+      "score": 67.8,
       "story_size": 1
-    },
-    {
-      "title": "साइबर ब्युरोबाट रिहा भएपछि किशोर श्रेष्ठले के भने ?",
-      "link": "https://www.ratopati.com/story/600284/what-did-kishore-shrestha-say-after-being-released-from-the-cyber-bureau",
-      "description": "काठमाडौं । पत्रकार किशोर श्रेष्ठ साइबर ब्युरोमा भएको छलफलपछि शनिबार साँझ रिहा भएका छन् । रिहा भएपछि फेसबुकमार्फत आफ्नो धारणा सार्वजनिक गर्दै श्रेष्ठले सञ्चारमाध्यममा प्रकाशित सामग्रीप्रति चित्त नबुझे प्रेस काउन्सिलमा उजुरी गर्नुपर्ने बताएका छन् । उनले",
-      "published": "2026-10-17T13:40:42+00:00",
-      "source": "Ratopati",
-      "category": "tech",
-      "image": "https://npcdn.ratopati.com/media/news/kishwor-shrestha_sRLOYAwfis.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "e294511382b40aba",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 75.1,
-      "story_size": 1,
-      "image_local": "images/news_34014af287316d35bad2.jpg"
     },
     {
       "title": "विश्व विजेता इरफान पठान पोखरा एभेन्जर्सको क्रिकेट एम्बासडर नियुक्त",
@@ -922,7 +1248,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.0,
+      "score": 67.3,
       "story_size": 1
     },
     {
@@ -940,7 +1266,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.8,
+      "score": 67.1,
       "story_size": 1
     },
     {
@@ -958,7 +1284,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.2,
+      "score": 66.5,
       "story_size": 1
     },
     {
@@ -976,25 +1302,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.2,
-      "story_size": 1
-    },
-    {
-      "title": "आजका समाचार : भित्र्याइयो फूलपाती, गगनले ग्रहण गरे पदभार, साइबर ब्युरोबाट श्रेष्ठ छुटे र क्यानडासँग नेपाल पराजित",
-      "link": "https://khabarhub.com/2026/17/1038601/",
-      "description": "हनुमानढोकाको दसैँघरमा भित्र्याइयो फूलपाती प्रत्येक वर्ष दुर्गा पक्षअन्तर्गत आश्विन शुक्ल सप्तमीका दिनमा मनाइने फूलपाती पर्व घर घरमा शास्त्रीय विधिअनुसार शुभ साइतको प्रतीक फूलपाती भित्र्याइएको छ । यसै अवसरमा काठमाडौंको हनुमानढोकाको दसैँघरमा पनि फूलपाती भित्र्याइएको छ । गोरखा दरबारस्थित दसैँघरबाट काठमाडौँको हनुमानढोका दरबारका लागि पठाइएको फूलपाती भित्र्याइएको हो । तत्कालीन गोरखाका राजा पृथ्वीनारायण शाहले काठमाडौँको हनुमानढोका [&#8230;]",
-      "published": "2026-10-17T14:10:14+00:00",
-      "source": "Khabarhub",
-      "category": "tech",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "0b4f481f82f6c477",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 74.1,
+      "score": 66.4,
       "story_size": 1
     },
     {
@@ -1012,7 +1320,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.0,
+      "score": 66.2,
       "story_size": 1
     },
     {
@@ -1030,25 +1338,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.0,
-      "story_size": 1
-    },
-    {
-      "title": "दसैंका लागि सिँगारिँदै गाउँका घर (तस्बिरहरू)",
-      "link": "https://www.setopati.com/social/401043",
-      "description": "",
-      "published": "2026-10-17T19:35:51+05:45",
-      "source": "Setopati",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Setopati"
-      ],
-      "id": "70f052c8b1fc9876",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 72.8,
+      "score": 65.2,
       "story_size": 1
     },
     {
@@ -1066,7 +1356,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.5,
+      "score": 64.8,
       "story_size": 1
     },
     {
@@ -1084,43 +1374,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.8,
-      "story_size": 1
-    },
-    {
-      "title": "तिब्बतसँग छ १५ दिनको साइनो, भन्छन्– अब अर्को साउन कहिले आउला?",
-      "link": "https://www.setopati.com/blog/401026",
-      "description": "तिब्बतीहरू जिप चढेर मुगुको सीमासम्म आइपुग्छन्, तर मुगाली भने चौंरी, झोवा र खच्चरमा सामान बोकेर फर्किन बाध्य छन्। गमगढी–नाक्चेनाङ्ला सडक निर्माण वर्षौँदेखि अलपत्र पर्दा स्थानीयको यातायात र व्यापार दुवै प्रभावित भएका छन्। गाडी चढेर तिब्बत पुग्ने उनीहरूको सपना कहिले पूरा होला?",
-      "published": "2026-10-17T19:18:00+05:45",
-      "source": "Setopati",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Setopati"
-      ],
-      "id": "fef98cd845e2c94c",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 71.6,
-      "story_size": 1
-    },
-    {
-      "title": "पृथ्वीनारायण शाहले काठमाडौं जित्नुअघि कहाँबाट ल्याइन्थ्यो फूलपाती?",
-      "link": "https://www.setopati.com/social/401027",
-      "description": "पृथ्वीनारायण शाहले काठमाडौं विजय गर्नुअघि यहाँका मल्ल राजाहरूले दसैं कसरी मनाउँथे? उनीहरूको दरबारमा फूलपाती कहाँबाट आउँथ्यो?",
-      "published": "2026-10-17T19:15:00+05:45",
-      "source": "Setopati",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Setopati"
-      ],
-      "id": "ebb2acc02472fd7c",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 71.4,
+      "score": 64.0,
       "story_size": 1
     },
     {
@@ -1138,7 +1392,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.9,
+      "score": 63.1,
       "story_size": 1
     },
     {
@@ -1156,7 +1410,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.7,
+      "score": 63.0,
       "story_size": 1
     },
     {
@@ -1174,7 +1428,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.7,
+      "score": 62.9,
       "story_size": 1
     },
     {
@@ -1192,25 +1446,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.7,
-      "story_size": 1
-    },
-    {
-      "title": "राजदूत सिफारिसमा विवादै विवाद, ४२०० आवेदनको मूल्याङ्कनमाथि प्रश्न",
-      "link": "https://kendrabindu.com/politics/564376/",
-      "description": "काठमाडाैं । राजदूत नियुक्ति प्रक्रियामा परराष्ट्र मन्त्रालयले गम्भीर लापरवाही गरेको भन्दै सरकारको छनोट प्रक्रियामाथि प्रश्न उठेको छ । नयाँ मापदण्ड, सार्वजनिक आह्वान र पारदर्शी प्रक्रियामार्फत योग्य व्यक्तिलाई राजदूत बनाउने दाबी गरेको सरकारले व्यवहारमा भने विवादरहित छनोट गर्न सकेन । सरकारले सिफारिस गरेका १३ राजदूतमध्ये दुई जनाको नाम अस्वीकृत भएको र एक जनाको नाम होल्डमा राखिएको [&#8230;]",
-      "published": "2026-10-17T13:12:42+00:00",
-      "source": "Kendrabindu",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Kendrabindu"
-      ],
-      "id": "8293c18cec89a098",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 70.2,
+      "score": 62.9,
       "story_size": 1
     },
     {
@@ -1228,25 +1464,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.8,
-      "story_size": 1
-    },
-    {
-      "title": "तीन घण्टाको छलफलपछि पत्रकार किशोर श्रेष्ठ रिहा, प्रेस काउन्सिलमा जाने सहमति",
-      "link": "https://kendrabindu.com/nigrani/564731/",
-      "description": "काठमाडौं । जनआस्था साप्ताहिकका सम्पादक किशोर श्रेष्ठ प्रहरी नियन्त्रणबाट रिहा भएका छन्। राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का नेता तथा कलाकार हिमेश पन्तको उजुरीका आधारमा शनिबार बिहान साइबर ब्युरो लगिएका श्रेष्ठ दुवै पक्षबीच छलफल भएपछि रिहा भएका हुन्। साइबर ब्युरोका प्रवक्ता प्रहरी उपरीक्षक दीपकराज अवस्थीका अनुसार दुवै पक्षलाई छलफलका लागि बोलाइएको थियो। उनीहरूबीच सौहार्दपूर्ण वातावरणमा छलफल [&#8230;]",
-      "published": "2026-10-17T13:06:53+00:00",
-      "source": "Kendrabindu",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Kendrabindu"
-      ],
-      "id": "d3a16b44cf1f12cd",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 69.8,
+      "score": 62.1,
       "story_size": 1
     },
     {
@@ -1264,7 +1482,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.3,
+      "score": 61.5,
       "story_size": 1
     },
     {
@@ -1282,43 +1500,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.8,
+      "score": 61.0,
       "story_size": 1
     },
     {
-      "title": "कात्तिक ११ देखि मिठाईमा मूल्य र उपभोग्य मिति अनिवार्य, नमान्नेलाई कारबाही",
-      "link": "https://kendrabindu.com/economy/564726/",
-      "description": "काठमाडौं । मिठाई उत्पादन तथा बिक्री वितरण गर्ने व्यवसायीले अब बिक्रीस्थलमा मिठाईको नाम, प्रयोग गरिएका मुख्य सामग्री, तेल वा घिउको प्रकार, उपभोग गर्न सकिने अन्तिम मिति र प्रतिकिलो मूल्य अनिवार्य रूपमा खुलाउनुपर्ने भएको छ। खाद्य प्रविधि तथा गुण नियन्त्रण विभागले उपभोक्ताको स्वास्थ्य सुरक्षा, खाद्य स्वच्छता तथा गुणस्तर सुनिश्चित गर्न यस्तो व्यवस्था गरेको हो। विभागले शुक्रबार [&#8230;]",
-      "published": "2026-10-17T12:50:42+00:00",
-      "source": "Kendrabindu",
-      "category": "nepal",
-      "image": "",
+      "title": "रुसमाथि प्रतिबन्ध लगाउन जेलेन्स्कीको आग्रह, ट्रम्पको निर्णयप्रति असन्तुष्टि",
+      "link": "https://gorkhapatraonline.com/news/227017",
+      "description": "किएभ, असोज ३१ गते । युक्रेनका राष्ट्रपति भोलोदिमिर जेलेन्स्कीले रुसमाथि नयाँ अमेरिकी प्रतिबन्ध लगाउने पक्षमा आवाज उठाउन आफ्ना समर्थकहरूलाई आग्रह गर्नुभएको छ । अमेरिकी राष्ट्रपति डो...",
+      "published": "2026-10-17T17:28:54+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "world",
+      "image": "https://gorkhapatraonline.com/storage/media/388586/conversions/jelenski-original.jpg",
       "related_sources": [
-        "Kendrabindu"
+        "Gorkhapatra Online"
       ],
-      "id": "10f1eb37aa20c89f",
+      "id": "8575043faf0c8175",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.7,
-      "story_size": 1
-    },
-    {
-      "title": "पूजा कोठा एवं दसैँ घरमा भित्र्याइयो फूलपाती",
-      "link": "https://kendrabindu.com/social-affairs/564723/",
-      "description": "काठमाडौं । आश्विन शुक्ल सप्तमीका दिन आज अपराह्न पूजाकोठा एवं दसैँ घरमा स्थापना गरिएको नवदुर्गा स्थलमा फूलपाती भ्यिाइएको छ । प्रत्येक वर्ष दुर्गा पक्षअन्तर्गत आश्विन शुक्ल सप्तमीका दिनमा मनाइने फूलपाती पर्व आज घरघरमा शास्त्रीय विधिअनुसार शुभ साइतको प्रतीक फूलपाती भित्र्याएर मनाइएको हो । घटस्थापनाका दिनदेखि वैदिक विधिपूर्वक दुर्गालाई आह्वान गरी पूजाआजा गरिएको दसैँ घर अथवा [&#8230;]",
-      "published": "2026-10-17T12:27:41+00:00",
-      "source": "Kendrabindu",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Kendrabindu"
-      ],
-      "id": "988df1373831a063",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 67.2,
+      "score": 59.5,
       "story_size": 1
     },
     {
@@ -1336,7 +1536,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.8,
+      "score": 59.0,
+      "story_size": 1
+    },
+    {
+      "title": "भारतको गुजरातस्थित औषधि कारखानामा विस्फोट, पाँच जनाको मृत्यु",
+      "link": "https://gorkhapatraonline.com/news/227016",
+      "description": "नयाँदिल्ली, असोज ३१ गते । भारतको पश्चिमी राज्य गुजरातस्थित एक औषधि कारखानामा भएको विस्फोटमा परी कम्तीमा पाँच जना कामदारको मृत्यु भएको छ भने अन्य पाँच जना घाइते भएका छन् । स्थानीय अ...",
+      "published": "2026-10-17T17:20:07+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/388585/conversions/death-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "098c6125c35ffdb3",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 59.0,
       "story_size": 1
     },
     {
@@ -1354,43 +1572,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.6,
-      "story_size": 1
-    },
-    {
-      "title": "कांग्रेसलाई नागरिकले विश्वास गर्ने राजनीतिक पार्टी बनाउँछु : सभापति थापा",
-      "link": "https://kendrabindu.com/politics/564719/",
-      "description": "ललितपुर । नेपाली कांग्रेसका सभापति गगनकुमार थापाले पार्टीलाई नागरिकको विश्वासको केन्द्रको भरोसायोग्य, वैचारिक र सामाजिक आन्दोलनको नेतृत्व गर्ने संस्थाका रूपमा विकास गर्ने प्रतिबद्धता व्यक्त गरेका छन् । पार्टीको केन्द्रीय निर्वाचन समितिद्वारा आज पार्टीको केन्द्रीय कार्यालय सानेपामा आयोजित नवनिर्वाचित पार्टी सभापतिको शपथपछि सम्बोधन गर्दै उनले लोकतन्त्र, नागरिकको गरिमा र सामाजिक न्यायलाई पार्टीका प्रमुख आधार बनाउने बताए [&#8230;]",
-      "published": "2026-10-17T12:12:54+00:00",
-      "source": "Kendrabindu",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Kendrabindu"
-      ],
-      "id": "f96337479e4444e9",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 66.2,
-      "story_size": 1
-    },
-    {
-      "title": "सांसद श्रेष्ठ र मेयर ढुंगानाबीच जुहारी : संघीय र स्थानीय सरकारको जिम्मेवारीबारे कटाक्ष",
-      "link": "https://nepalsamaya.com/detail/147117",
-      "description": "",
-      "published": "2026-10-17T17:57:02+05:45",
-      "source": "Nepal Samaya",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Nepal Samaya"
-      ],
-      "id": "d2f097a3e0246b03",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 66.2,
+      "score": 58.9,
       "story_size": 1
     },
     {
@@ -1408,26 +1590,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.0,
-      "story_size": 1,
-      "image_local": "images/news_371a30aa1d7e4df06d53.jpg"
-    },
-    {
-      "title": "सैनिक मञ्च टुँडिखेलमा फूलपाती बढाइँ [तस्बिरहरू]",
-      "link": "https://kendrabindu.com/breaking/564713/",
-      "description": "काठमाडौं । राष्ट्रपति रामचन्द्र पौडेलको प्रमुख आतिथ्यमा सैनिक मञ्च टुँडिखेलमा आज अपराह्न ‘फूलपाती बढाइँ समारोह–२०८३’ सम्पन्न भएको छ । समारोहमा नेपाली सेनाका परमाधिपति राष्ट्रपति पौडेलको सम्मानमा नेपाली सेनाले सलामी अर्पण गरेको थियो । उक्त समारोहमा सेनाको टोलीले शङ्खघोषसहित राइफलबाट लहरे र एकट्ठा तथा तोपबाट पनि बढाइँ गरेको थियो । समारोहमा सैनिक परेड प्रदर्शनका साथै सैनिक [&#8230;]",
-      "published": "2026-10-17T12:06:03+00:00",
-      "source": "Kendrabindu",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Kendrabindu"
-      ],
-      "id": "ff4615d743c043e5",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 65.8,
+      "score": 58.2,
       "story_size": 1
     },
     {
@@ -1445,7 +1608,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 65.4,
+      "score": 57.7,
       "story_size": 1
     },
     {
@@ -1463,9 +1626,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 65.1,
-      "story_size": 1,
-      "image_local": "images/news_63c9e8356e4b2f05b4fa.jpg"
+      "score": 57.4,
+      "story_size": 1
     },
     {
       "title": "स्वास्थ्य बीमामा अनावश्यक परीक्षण गराएमा सम्झौता रद्ध गर्ने बोर्डको चेतावनी",
@@ -1482,7 +1644,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 64.9,
+      "score": 57.1,
       "story_size": 1
     },
     {
@@ -1500,9 +1662,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 64.7,
-      "story_size": 1,
-      "image_local": "images/news_a108f4af3f1b239a5795.jpg"
+      "score": 57.0,
+      "story_size": 1
     },
     {
       "title": "बागलुङ कालिका भगवती मन्दिरमा दर्शनार्थीको भीड",
@@ -1519,7 +1680,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 64.6,
+      "score": 56.9,
       "story_size": 1
     },
     {
@@ -1537,7 +1698,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 64.5,
+      "score": 56.7,
       "story_size": 1
     },
     {
@@ -1555,43 +1716,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 64.4,
-      "story_size": 1
-    },
-    {
-      "title": "होल्डिङ सेन्टरमा छैन दसैँको रौनक",
-      "link": "https://gorkhapatraonline.com/news/227012",
-      "description": "गजेन्द्र गुरुङखजुरा (बाँके), असोज ३१ गते । कोहलपुर बसपार्कमा दसैँ मनाउन घर फर्किने यात्रुको चहलपहल छ । बसपार्कबाट दैनिक हजारौँ यात्रु ओहोरदोहोर गरिरहेका छन् । तर, त्यही बसपार्कको ट...",
-      "published": "2026-10-17T16:42:16+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/388578/conversions/holding-centre-1-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "e53876acc8ddb5ce",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 64.2,
-      "story_size": 1
-    },
-    {
-      "title": "पूरानादेखि नयाँ पुस्तासम्म जोड्ने सुरेश अधिकारी–कृष्णबीकको ‘रातो टीका जमरा’",
-      "link": "https://nepalsamaya.com/detail/147116",
-      "description": "",
-      "published": "2026-10-17T17:19:53+05:45",
-      "source": "Nepal Samaya",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Nepal Samaya"
-      ],
-      "id": "d199f366c9956d32",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 63.7,
+      "score": 56.7,
       "story_size": 1
     },
     {
@@ -1609,7 +1734,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 63.5,
+      "score": 55.8,
       "story_size": 1
     },
     {
@@ -1627,7 +1752,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 63.2,
+      "score": 55.4,
       "story_size": 1
     },
     {
@@ -1645,7 +1770,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 62.3,
+      "score": 54.5,
       "story_size": 1
     },
     {
@@ -1663,25 +1788,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 60.4,
-      "story_size": 1
-    },
-    {
-      "title": "गगनकुमार थापाले लिनुभयो सभापतिको शपथ (फोटोफिचर)",
-      "link": "https://gorkhapatraonline.com/news/227011",
-      "description": "काठमाडौँ, असोज ३१ गते । नेपाली कांग्रेसको १५औँ महाधिवेशनबाट सभापतिमा नवनिर्वाचित गगनकुमार थापाले बडादसैँको फूलपातीका अवसरमा आज शपथग्रहण गर्नुभएको छ । उहाँले पार्टीको केन्द्रीय कार्...",
-      "published": "2026-10-17T15:34:56+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/388577/conversions/1c9458e0-953c-47d2-939a-3e7d081b5e96-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "0259134ca52fdba0",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 59.7,
+      "score": 52.7,
       "story_size": 1
     },
     {
@@ -1699,25 +1806,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 59.0,
-      "story_size": 1
-    },
-    {
-      "title": "विन्ध्यवासिनी मन्दिरमा फूलपाती बढाइँ",
-      "link": "https://gorkhapatraonline.com/news/227010",
-      "description": "रमेश पौडेलपोखरा, असोज ३१ गते । बडादसैँको फूलपातीका अवसरमा शनिबार पोखरास्थित प्रसिद्ध विन्ध्यवासिनी मन्दिरमा फूलपाती बढाइँ गरिएको छ ।पोखराको चिप्लेढुङ्गाबाट सैनिक ब्याण्ड र बाजागाजा...",
-      "published": "2026-10-17T15:21:18+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/388573/conversions/converted_image-(83)-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "9e99879c535ccb6e",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 58.8,
+      "score": 51.2,
       "story_size": 1
     },
     {
@@ -1735,25 +1824,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 58.5,
-      "story_size": 1
-    },
-    {
-      "title": "निर्माणाधीन राप्ती राजमार्गमा दसैँ यात्रा जोखिमपूर्ण",
-      "link": "https://gorkhapatraonline.com/news/227009",
-      "description": "प्रतीक इच्छुक शर्मासल्यान, असोज ३१ गते । दसैँ मनाउन घर फर्किनेको चाप बढेसँगै निर्माणाधीन राप्ती राजमार्गमा यात्रा जोखिमपूर्ण बनेको छ । सडक स्तरोन्नतिका क्रममा भइरहेको कटिङ, धुलो, ह...",
-      "published": "2026-10-17T15:03:24+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/388572/conversions/converted_image-(82)-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "85ccc1de815f81eb",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 57.6,
+      "score": 50.7,
       "story_size": 1
     },
     {
@@ -1771,7 +1842,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 57.2,
+      "score": 49.4,
       "story_size": 1
     },
     {
@@ -1789,7 +1860,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 54.8,
+      "score": 47.0,
       "story_size": 1
     },
     {
@@ -1807,7 +1878,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 54.5,
+      "score": 46.8,
       "story_size": 1
     },
     {
@@ -1825,7 +1896,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 54.0,
+      "score": 46.3,
       "story_size": 1
     },
     {
@@ -1843,7 +1914,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 53.9,
+      "score": 46.2,
       "story_size": 1
     },
     {
@@ -1861,7 +1932,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 53.4,
+      "score": 45.6,
       "story_size": 1
     },
     {
@@ -1879,7 +1950,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 52.9,
+      "score": 45.1,
       "story_size": 1
     },
     {
@@ -1897,7 +1968,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 52.7,
+      "score": 45.0,
       "story_size": 1
     },
     {
@@ -1915,7 +1986,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 52.2,
+      "score": 44.4,
       "story_size": 1
     },
     {
@@ -1933,7 +2004,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 51.7,
+      "score": 43.9,
       "story_size": 1
     },
     {
@@ -1951,7 +2022,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 48.3,
+      "score": 40.6,
       "story_size": 1
     },
     {
@@ -1969,7 +2040,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 47.9,
+      "score": 40.2,
       "story_size": 1
     },
     {
@@ -1987,7 +2058,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 47.8,
+      "score": 40.1,
       "story_size": 1
     },
     {
@@ -2005,7 +2076,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 47.6,
+      "score": 39.9,
       "story_size": 1
     },
     {
@@ -2023,7 +2094,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 47.3,
+      "score": 39.6,
       "story_size": 1
     },
     {
@@ -2041,7 +2112,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 47.1,
+      "score": 39.3,
       "story_size": 1
     },
     {
@@ -2059,7 +2130,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 46.7,
+      "score": 38.9,
       "story_size": 1
     },
     {
@@ -2077,7 +2148,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 46.6,
+      "score": 38.9,
       "story_size": 1
     },
     {
@@ -2095,7 +2166,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 45.9,
+      "score": 38.1,
       "story_size": 1
     },
     {
@@ -2113,7 +2184,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 45.8,
+      "score": 38.1,
       "story_size": 1
     },
     {
@@ -2131,7 +2202,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 45.0,
+      "score": 37.2,
       "story_size": 1
     },
     {
@@ -2149,7 +2220,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 44.7,
+      "score": 37.0,
       "story_size": 1
     },
     {
@@ -2167,7 +2238,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 44.5,
+      "score": 36.7,
       "story_size": 1
     },
     {
@@ -2185,7 +2256,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 43.2,
+      "score": 35.4,
       "story_size": 1
     },
     {
@@ -2203,7 +2274,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 43.1,
+      "score": 35.4,
       "story_size": 1
     },
     {
@@ -2221,7 +2292,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 42.5,
+      "score": 34.8,
       "story_size": 1
     },
     {
@@ -2239,7 +2310,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 41.9,
+      "score": 34.1,
       "story_size": 1
     },
     {
@@ -2257,7 +2328,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 39.8,
+      "score": 32.0,
       "story_size": 1
     },
     {
@@ -2275,7 +2346,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 39.5,
+      "score": 31.8,
       "story_size": 1
     },
     {
@@ -2293,7 +2364,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 38.0,
+      "score": 30.2,
       "story_size": 1
     },
     {
@@ -2311,7 +2382,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 37.2,
+      "score": 29.5,
       "story_size": 1
     },
     {
@@ -2329,7 +2400,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 36.8,
+      "score": 29.1,
       "story_size": 1
     },
     {
@@ -2347,7 +2418,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 36.3,
+      "score": 28.5,
       "story_size": 1
     },
     {
@@ -2365,61 +2436,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 34.3,
-      "story_size": 1
-    },
-    {
-      "title": "दशैं आइसक्यो, घर जान हतार छ (तस्वीरहरू)",
-      "link": "https://www.onlinekhabar.com/2026/10/2040638/dashain-has-arrived-im-in-a-hurry-to-go-home-photos",
-      "description": "दशैंको विशेष रौनक सुरु हुने फूलपातीका दिन घर पुग्ने हतारो यात्रुको अनुहारमा देखिन्छ । बसका सिट भरिभराउ छन् भने यात्रुले खचाखच भरिएका सवारीसाधन उपत्यकाबाट बाहिरिरहेका छन् ।",
-      "published": "2026-10-17T04:11:09+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "dff815e91073e3af",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 34.1,
-      "story_size": 1
-    },
-    {
-      "title": "सुधार भयो लहान प्रादेशिक अस्पतालको इमर्जेन्सी सेवा कक्ष",
-      "link": "https://www.onlinekhabar.com/2026/10/2040626/lahan-provincial-hospitals-emergency-room-has-been-improved",
-      "description": "३१ असोज, सिरहा । सिरहाको लहानस्थित रामकुमार शारडा उमा प्रसाद मुरारका प्रादेशिक अस्पतालको इमर्जेन्सी कक्ष सुधार गरी नयाँ व्यवस्थापनसहित सञ्चालनमा ल्याइएको छ। लामो समयदेखि साँघुरो ठाउँ, गर्मी, पानी चुहिने र सरसफाइको समस्याबाट गुज्रिरहेको कक्ष व्यवस्थित बनेपछि बिरामी र स्वास्थ्यकर्मीलाई सहज भएको छ। अस्पतालले एक बिरामीकै हातबाट रिबन काटेर सुधार गरिएको इमर्जेन्सी कक्षको उद्घाटन गरेको हो। [&#8230;]",
-      "published": "2026-10-17T03:36:14+00:00",
-      "source": "OnlineKhabar",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "fc8728d3fe65197c",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 31.8,
-      "story_size": 1
-    },
-    {
-      "title": "बनेपामा भारतीय ग्याँस बुलेटको ठक्करबाट छोराको मृ*त्यु, आमाबुवा घाइते",
-      "link": "https://www.onlinekhabar.com/2026/10/2040620/son-dies-parents-injured-after-being-hit-by-indian-gas-bullet-in-banepa",
-      "description": "३१ असोज, काठमाडौं । काभ्रेको बनेपा नगरपालिका-१३ भैंटेपाटीमा आज बिहान ग्याँस बुलेटको ठक्करबाट एक जनाको मृत्यु भएको छ । दुई जना घाइते भएका छन् । काठमाडौंबाट बनेपा जाँदै गरेको भारतीय नम्बर प्लेटको ग्याँस बुलेटले सोही दिशातर्फ जाँदै गरेको बा.प्र.०२०७१ प ७०६३ नम्बरको मोटरसाइकललाई ठक्कर दिएको थियो । दुर्घटनामा सख्त घाइते भएका खोटाङको सन्धिखर्क गाउँपालिका-६ का [&#8230;]",
-      "published": "2026-10-17T03:28:46+00:00",
-      "source": "OnlineKhabar",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "6358c417c570518a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 31.3,
+      "score": 26.5,
       "story_size": 1
     },
     {
@@ -2437,7 +2454,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 29.9,
+      "score": 22.2,
       "story_size": 1
     },
     {
@@ -2455,25 +2472,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 29.7,
-      "story_size": 1
-    },
-    {
-      "title": "कांग्रेस १५औं महाधिवेशन : यी हुन् सर्वाधिक मत पाउने गगनसहितका शीर्ष १० नेता",
-      "link": "https://www.onlinekhabar.com/2026/10/2040617/congress-15th-general-convention-these-are-the-top-10-leaders-including-gagan-who-received-the-most-votes",
-      "description": "सर्वाधिक मत प्राप्त गर्ने शीर्ष १० उम्मेदवारको सूचीमा सभापति गगन थापासहित सहमहामन्त्री, खुला केन्द्रीय सदस्य, महिला केन्द्रीय सदस्य र विभिन्न कलस्टरबाट निर्वाचित केन्द्रीय सदस्यहरू छन्।",
-      "published": "2026-10-17T03:02:47+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "596abb83cd819a2b",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 29.6,
+      "score": 22.0,
       "story_size": 1
     },
     {
@@ -2675,6 +2674,78 @@
       "story_size": 1
     },
     {
+      "title": "आज महाअष्टमी: दुर्गा भवानीको विशेष पूजा आराधना गरी मनाइँदै",
+      "link": "http://lokaantar.com/story/331528/2026/10/18/astami-",
+      "description": "आश्विन शुक्ल अष्टमीका दिनमा मनाइने महाअष्टमी पर्व आज दुर्गा भवानीको विशेष पूजा आराधना गरी मनाइँदै छ ।&nbsp;बडादसैँको आठौं दिन महाकाली, महालक्ष्मी र महासरस्वतीको विशेष पूजा आराधना गरिन्छ । महाअष्टमीको दिन दुर्गा भवानीलाई शक्तिशाली बनाउने दिन भएकाले यसको विशेष महत्व रहेको विभिन्न वैदिक सनातन परम्पराका ग्रन्थमा उल्लेख गरिएको छ ।&nbsp;&nbsp;आजको दिन शास्त्रसम्मतरुपमा दशैँघर, कोतलगायत राज्यका विभिन्न शक्तिपीठमा पशु बली दिई दुर्गा भवानीको विशेष पूजा गरिन्छ । दुर्गा सप्तशती, श्रीमद्देवीभागवत र देवी स्त",
+      "published": "",
+      "source": "Lokaantar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Lokaantar"
+      ],
+      "id": "64c10615e0f41de0",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 10,
+      "story_size": 1
+    },
+    {
+      "title": "साढे पाँच लाख नागरिक सडकमा उत्रिएपछि फ्रान्स अशान्त",
+      "link": "http://lokaantar.com/story/331527/2026/10/18/france-",
+      "description": "राजधानी पेरिससहित फ्रान्सका प्रमुख शहरहरू अहिले अशान्त बनेका छन्। अश्रुग्यासको धुवाँले भरिएका सडक, बलिरहेका भवनहरू र सरकारविरोधी चर्को नाराले फ्रान्स तनाबग्रस्त बनेको हो ।&nbsp;बढ्दो महँगी र शिक्षा प्रणालीमा देखिएको बेथितिविरुद्ध सडकमा उत्रिएका ५ लाख ५० हजारभन्दा बढी नागरिकको प्रदर्शनले उग्र रूप लिएपछि फ्रान्समा व्यापक तनाव सिर्जना भएको हो ।&nbsp;पछिल्ला केही सातायता फ्रान्समा विद्यार्थीहरूले जीर्ण विद्यालय भवन र शिक्षक अभावको विरोधमा प्रदर्शन गरिरहेका थिए। त्यही आन्दोलनमा अहिले ट्रेड युनियन र स",
+      "published": "",
+      "source": "Lokaantar",
+      "category": "tech",
+      "image": "",
+      "related_sources": [
+        "Lokaantar"
+      ],
+      "id": "71208f48c5204ead",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 10,
+      "story_size": 1
+    },
+    {
+      "title": "आईसीसीको मापदण्डअनुसार एनपीएलदेखि गगन थापाको पदभारसम्म",
+      "link": "http://lokaantar.com/story/331525/2026/10/17/round-up-",
+      "description": "&#39;लोकान्तर राउण्ड अप&#39;मा पाठकवृन्दलाई स्वागत छ । सधैँझैँ आज पनि हामी बितेको २४ घण्टाका मुख्यमुख्य घटनाक्रमसहित उपस्थित भएका छौँ-कलाकार हिमेश पन्तको निवेदनका आधारमा पक्राउ परेका पत्रकार किशोर श्रेष्ठ छुटेका छन् । नेपाल प्रहरीको साइबर ब्यूरोमा दुई पक्षबीच भएको छलफलपछि पत्रकार श्रेष्ठ रिहा भएका हुन् ।प्रहरी स्रोतका अनुसार श्रेष्ठ र पन्तबीच भविष्यमा एकअर्काविरुद्ध व्यक्तिगत रूपमा नलाग्ने सहमति भएको छ । समाचार प्रकाशनको विषयलाई लिएर सामाजिक सञ्जालमा वाक युद्ध हुँदै एकअर्काविरुद्ध कानूनी लडाइँमा",
+      "published": "",
+      "source": "Lokaantar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Lokaantar"
+      ],
+      "id": "d54b244df405442f",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 10,
+      "story_size": 1
+    },
+    {
+      "title": "नवरात्रको आठौँ दिन : आज महागौरी देवीको पूजा आराधना गरिँदै",
+      "link": "http://lokaantar.com/story/331522/2026/10/17/dashain-",
+      "description": "बडादसैँ एवं नवरात्रको आठौँ दिन आज दसैँघर वा पूजाकोठामा नौ दुर्गामध्येकी आठौँ महागौरी देवीको विधिपूर्वक पूजा आराधना गरिँदैछ ।प्रत्येक वर्ष आश्विन शुक्ल अष्टमी अर्थात् दुर्गा पक्षको आठौँ दिन महागौरी देवीको विधिपूर्वक पूजा आराधना गर्ने वैदिक सनातनी परम्परा छ ।महागौरी देवीको रङ पहिला केही कालो भएकाले भगवान् शिवले एक दिन ख्यालठट्टामा देवीलाई &lsquo;ए काली&rsquo; भन्ने शब्द प्रयोग गरेछन् । त्यो शब्द भगवतीलाई मन परेनछ । अनि कठोर तपस्या गरी गोरो वर्ण प्राप्त गरेकाले महागौरी नाम रहन गएको विभिन्न पुराणमा",
+      "published": "",
+      "source": "Lokaantar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Lokaantar"
+      ],
+      "id": "9e55d6f36b624241",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 10,
+      "story_size": 1
+    },
+    {
       "title": "फ्रान्समा महँगीविरुद्ध देशव्यापी प्रदर्शन, प्रहरीसँग झडप",
       "link": "http://lokaantar.com/story/331524/2026/10/17/france-",
       "description": "जीवनयापनको बढ्दो लागत र महँगीविरुद्ध फ्रान्सभर शनिबार राष्ट्रव्यापी विरोध प्रदर्शन सुरु भएका छन् ।राष्ट्रपति इम्यानुएल म्याक्रोनको उत्तराधिकारी चयनका लागि हुने निर्वाचन नजिकिँदै गर्दा आयोजित यी प्रदर्शनलाई देशको सामाजिक तथा राजनीतिक अवस्थाको महत्वपूर्ण सङ्केतका रूपमा हेरिएको छ ।आगामी अप्रिल र मे महिनामा दुई चरणमा राष्ट्रपतीय निर्वाचन हुने कार्यक्रम छ । यसअघि राम्रो शैक्षिक वातावरण र पर्याप्त स्रोतसाधनको माग गर्दै विद्यार्थीहरूले विभिन्न स्थानमा प्रदर्शन गरेका थिए । केही प्रदर्शन हिंसात्मक झडपमा",
@@ -2686,78 +2757,6 @@
         "Lokaantar"
       ],
       "id": "2c3ab0e6c9be43f5",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "पाकिस्तानको सूचना प्रविधि निर्यात १८ प्रतिशतले बढ्यो",
-      "link": "http://lokaantar.com/story/331523/2026/10/17/pk-",
-      "description": "पाकिस्तानको सूचना प्रविधि (आइटी) तथा प्राविधिक क्षेत्रको निर्यात सन् २०२६ को सेप्टेम्बरमा गत वर्षको सोही अवधिको तुलनामा १८ प्रतिशतले बढेर ४३ करोड ५० लाख अमेरिकी डलर पुगेको छ । यो हालसम्मकै दोस्रो उच्च मासिक निर्यात हो ।अर्थमन्त्रीका सल्लाहकार खुर्रम शहजादले शुक्रबार सामाजिक सञ्जाल &lsquo;एक्स&rsquo;मार्फत सार्वजनिक गरेको विवरणअनुसार, सेप्टेम्बरको निर्यात सन् २०२५ को डिसेम्बरमा कायम भएको ४३ करोड ७० लाख डलरको कीर्तिमानी स्तरभन्दा २० लाख डलरले मात्र कम हो । अगस्टको तुलनामा पनि सेप्टेम्बरमा आइटी निर",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "tech",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "d271024b78321a41",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "कास्कीलाई हराउँदै नवलपुर बन्यो यु–१९ क्रिकेट च्याम्पियन",
-      "link": "http://lokaantar.com/story/331521/2026/10/17/kaski-",
-      "description": "&nbsp;पोखरा क्रिकेट रङ्गशालामा सञ्चालन भएको गण्डकी प्रदेशस्तरीय &lsquo;वाईवाई यु&ndash;१९&rsquo; पुरुष एकदिवसीय क्रिकेट प्रतियोगिताको उपाधि नवलपुरले जितेको छ ।गण्डकी प्रादेशिक क्रिकेट सङ्घको आयोजनामा भएको प्रतियोगिताको आज सम्पन्न फाइनल खेलमा नवलपुर यु&ndash;१९ क्रिकेट टोलीले कास्कीलाई डकवर्थ लुइस स्टर्न (डिएलएस) पद्धतिमा ७१ रनले पराजित गर्दै प्रतियोगिताको च्याम्पियन बनेको हो ।नवलपुरले दिएको २०२ रनको लक्ष्य पछ्याएको कास्की वर्षाका कारण खेल अवरुद्ध भएपछि संशोधित लक्ष्यअनुसार १७० रन बनाउनुपर्ने अवस",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "sports",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "17cfb34941df72a4",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "बाढीपहिरोले क्षतिग्रस्त बागलुङका सडक अस्थायी मर्मतपछि सञ्चालनमा",
-      "link": "http://lokaantar.com/story/331520/2026/10/17/road-",
-      "description": "&nbsp;बाढीपहिरोले क्षति पुर्&zwj;याएका बागलुङका राष्ट्रिय राजमार्गदेखि ग्रामीण सडकसम्म अस्थायी मर्मतपछि सञ्चालनमा आएका छन् । सडक सञ्चालनमा आएपछि दसैँ मनाउन घर फर्किने यात्रुलाई सहज भएको छ ।यही असोज ९ देखि ११ गतेसम्म परेको अविरल वर्षासँगै आएको बाढीपहिरोले जिल्लाका सडक पूर्वाधारमा ठूलो क्षति पुर्&zwj;याएको थियो । मध्यपहाडी लोकमार्ग, कालीगण्डकी करिडोर, बागलुङ&ndash;बेनी सडक, प्रदेशस्तरीय तथा ग्रामीण सडक अवरुद्ध भएका थिए । क्षतिग्रस्त सडकमा अस्थायी मर्मत गरी यातायात सञ्चालनमा ल्याइएको हो ।सडक डिभिजन",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "7ae917e88fcb1889",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "दसैँ मनाउन गाउँ फर्किने बढे, उपत्यका छाड्ने यात्रु साढे ४ लाख नजिक",
-      "link": "http://lokaantar.com/story/331519/2026/10/17/gaun-",
-      "description": "&nbsp;नेपालीको महान् पर्व बडादसैँ नजिकिएसँगै गोँगबुस्थित नयाँ बसपार्कसहित काठमाडौँ उपत्यकाका विभिन्न नाकामा यात्रुको चाप बढेको छ ।वर्ष दिनमा आउने नेपालीको ठूलो चाड दसैँ मनाउन राजधानीमा अध्ययन, रोजगारी तथा विभिन्न पेसा&ndash;व्यवसायमा संलग्न मानिसहरू धमाधम गाउँ फर्कन थालेसँगै नयाँबसपार्कसहित विभिन्न क्षेत्रमा यात्रुको चाप बढेको हो ।काठमाडौँ उपत्यका ट्राफिक कार्यालयका प्रवक्ता, प्रहरी उपरीक्षक (एसपी) नरेशराज सुवेदीले उपत्यकाभित्रका बसपार्क र नाकाहरूमा घर जानका लागि यात्रुको चाप बढेको बताए । नयाँबस",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "8c29ca071ff28ab7",
       "source_count": 1,
       "verified": false,
       "local": false,
