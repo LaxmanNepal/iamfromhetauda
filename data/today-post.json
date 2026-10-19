@@ -1,122 +1,159 @@
 {
   "date_np": "2026-10-19",
-  "generated_at": "2026-10-19T00:02:43.979398+00:00",
+  "generated_at": "2026-10-19T04:45:45.028800+00:00",
   "items": [
     {
-      "title": "सीप पुस्तान्तरण नहुँदा माटाका भाँडाको प्रयोग घट्दै",
-      "link": "https://www.ratopati.com/story/600439/the-use-of-pottery-is-declining-due-to-lack-of-skill-transfer",
-      "description": "भोजपुर । नयाँ पुस्तामा परम्परागत सीपप्रति चासो घट्दै गएपछि भोजपुरका गाउँघरमा माटाका भाँडा बनाउने चलन हराउँदै जान थालेको छ । विगतमा घरायसी प्रयोजनका लागि प्रयोग हुने गाग्री, हाँडी, घैँटो, धुपौरोलगायत माटाका सामग्री अहिले कमै मात्रै देखिन",
-      "published": "2026-10-18T23:53:10+00:00",
-      "source": "Ratopati",
+      "title": "निकुञ्ज चाडपर्व लक्षित सुरक्षा योजना : तालिम प्राप्त कुकुरद्वारा निगरानी",
+      "link": "https://khabarhub.com/2026/19/1038956/",
+      "description": "चितवन &#8211; चितवन राष्ट्रिय निकुञ्जले चाडपर्व लक्षित गर्दै सुरक्षा रणनीति तयार गरेको छ । रणनीति अनुसार निकुञ्ज प्रशासन र निकुञ्ज सुरक्षार्थ खटिएको नेपाली सेना गरी १ हजार २ सय बढी जनशक्ति परिचालन गरिने छ । निकुञ्जका सूचना अधिकारी अविनास थापा मगरका अनुसार चाडपर्वमा अपरिचित व्यक्तिहरुको चहलपहल बढी हुने हुँदा चोरी शिकारी हुन सक्ने भएकाले सुरक्षा [&#8230;]",
+      "published": "2026-10-19T02:46:36+00:00",
+      "source": "Khabarhub",
       "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/SZDdmIVC2L.jpg",
+      "image": "",
       "related_sources": [
-        "Ratopati",
         "Khabarhub",
+        "Ratopati",
         "Lokaantar"
       ],
-      "id": "b74fd7e07be59230",
+      "id": "2779c365b7dc8ad8",
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 146.4,
-      "story_size": 3,
-      "image_local": "images/news_0fdb62ecefd5c508a052.jpg"
+      "score": 136.1,
+      "story_size": 3
     },
     {
-      "title": "सोमबार यस्तो छ विदेशी मुद्राको विनिमय दर",
-      "link": "https://www.ratopati.com/story/600440/this-is-the-foreign-exchange-rate-on-monday",
-      "description": "काठमाडौँ । नेपाल राष्ट्र बैंकले आज (सोमबार ) का लागि विदेशी मुद्राको विनिमय दर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५१ रुपैयाँ ६४ पैसा र बिक्रीदर १५२ रुपैयाँ २४ पैसा",
-      "published": "2026-10-19T00:01:14+00:00",
+      "title": "कृषि उद्यम र प्रविधिमा उत्तिकै सक्रिय अभिषेक : भैँसीपालनदेखि एआईको कोडसम्म",
+      "link": "https://www.ratopati.com/story/600468/abhishek-is-equally-active-in-agricultural-enterprises-and-technology-from-buffalo-farming-to-ai-code",
+      "description": "मकवानपुर । रोजगारी र भविष्यको खोजीमा बर्सेनि हजारौँ युवा विदेश पलायन भइरहेका छन् । नवयुवाका लागि राहदानी बनाउने विदेश जाने एकमात्र विकल्पजस्तै बनेको छ । यो परिदृश्यबाट फरक देखिन्छन् मकवानपुरको मनहरी गाउँपालिकाका २५ वर्षीय अभिषेक अधिकारी",
+      "published": "2026-10-19T04:15:00+00:00",
+      "source": "Ratopati",
+      "category": "tech",
+      "image": "https://npcdn.ratopati.com/media/news/abhisekh-adhikari_PnBLZpQbOE.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "51c49c1b435c2ffb",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 129.0,
+      "story_size": 1,
+      "image_local": "images/news_2d4ab1f35f12027210f6.webp"
+    },
+    {
+      "title": "आँखा उपचारबाटै नेपालमा भित्रियो डेढ अर्बभन्दा बढी विदेशी मुद्रा",
+      "link": "https://www.ratopati.com/story/600461/more-than-15-billion-rupees-of-foreign-exchange-entered-nepal-through-eye-treatment",
+      "description": "काठमाडौं। आँखा स्वास्थ्य क्षेत्रमा नेपालले हासिल गरेको उपलब्धि र अन्तर्राष्ट्रिय समुदायले देखाएको विश्वासले नेपाललाई गुणस्तरीय तथा सर्वसुलभ स्वास्थ्य सेवाको आकर्षक गन्तव्यका रूपमा स्थापित गर्ने आधार तयार गरेको छ । नेपाल नेत्रज्योति सङ्घअन्तर्गत सञ्चालित आँखा अस्पतालहरूले",
+      "published": "2026-10-19T02:25:38+00:00",
       "source": "Ratopati",
       "category": "business",
-      "image": "https://rpcdn.ratopati.com/archived-media/Forex2.png",
+      "image": "https://npcdn.ratopati.com/media/news/wslyazlI6U.jpg",
       "related_sources": [
-        "Ratopati"
+        "Ratopati",
+        "Lokaantar"
       ],
-      "id": "06cbe6c0b6af85d9",
-      "source_count": 1,
-      "verified": false,
+      "id": "e522e9a9c5e9957a",
+      "source_count": 2,
+      "verified": true,
       "local": false,
-      "score": 112.9,
-      "story_size": 1,
-      "image_local": "images/news_21c5215508997249f54a.png"
+      "score": 127.7,
+      "story_size": 2,
+      "image_local": "images/news_028cc4163ae6ec30dda1.jpg"
     },
     {
-      "title": "आजको राशिफल : कुन राशिलाई शुभ, कुनलाई मध्यम?",
-      "link": "https://www.ratopati.com/story/600438/todays-horoscope-which-zodiac-sign-is-auspicious-which-is-average",
-      "description": "आजको पञ्चाङ्ग वि.सं.२०८३ साल कार्तिक २ गते । सोमबार । इस्वी सन् २०२६ अक्टोबर १९ तारिख । नेपाल संवत् ११४६ । रौद्र संवत्सर । दक्षिणायन । शरद ऋतु । श्रीशाके १९४८ । आश्विन शुक्लपक्ष । तिथि–अष्टमी,",
-      "published": "2026-10-18T23:48:56+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/horoscope_XkWmpVM1yU.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "82d3520c3dd2aa41",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 112.1,
-      "story_size": 1,
-      "image_local": "images/news_3f09ac2e5e6c89788b01.jpg"
-    },
-    {
-      "title": "नवरात्रको नवौँ दिन : कात्तिक २ गते महाअष्टमीकै कर्म दोहोर्‍याउनुपर्ने",
-      "link": "https://baahrakhari.com/detail/505285",
-      "description": "",
-      "published": "2026-10-19T05:43:22+05:45",
-      "source": "Baahrakhari",
+      "title": "बसको ठक्करबाट एक जनाको मृत्यु, दुई जना घाइते",
+      "link": "https://www.setopati.com/social/401091",
+      "description": "धनुषाको धनुषाधाम–सबैला भित्री सडकखण्ड अन्तर्गत सबैला नगरपालिका-५ मखनाहामा बसले मोटरसाइकललाई ठक्कर दिँदा एक जनाको मृत्यु भएको छ भने दुई जना घाइते भएका छन्।",
+      "published": "2026-10-19T08:43:00+05:45",
+      "source": "Setopati",
       "category": "business",
       "image": "",
       "related_sources": [
-        "Baahrakhari"
+        "Setopati",
+        "Ratopati"
       ],
-      "id": "6b45e17bdf4931f0",
+      "id": "2428a966c43d1f40",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 126.8,
+      "story_size": 2
+    },
+    {
+      "title": "दसैँमा मौसमले कस्तो साथ देला ? यस्तो छ तीन दिनको पूर्वानुमान",
+      "link": "https://kendrabindu.com/news/565001/",
+      "description": "काठमाडौँ । जल तथा मौसम विज्ञान विभागका अनुसार आगामी तीन दिन देशका केही हिमाली तथा पहाडी भू-भागमा आंशिक बदली भई मेघगर्जन र चट्याङ्गसहित हल्का वर्षा तथा हिमपातको सम्भावना रहेको छ। विभागले जारी गरेको पछिल्लो मौसम पूर्वानुमान अनुसार आज (२०८३ कात्तिक २ गते, सोमबार) दिउँसो कोशी, बागमती, गण्डकी र लुम्बिनी प्रदेशका हिमाली तथा पहाडी भू-भागका साथै [&#8230;]",
+      "published": "2026-10-19T03:34:42+00:00",
+      "source": "Kendrabindu",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "9b1d8d90f3e18fa7",
       "source_count": 1,
       "verified": false,
-      "local": false,
-      "score": 109.7,
+      "local": true,
+      "score": 123.3,
       "story_size": 1
     },
     {
-      "title": "दसैँमा मुस्ताङ हुँदै ३५ करोड बराबरका भेडा च्याङ्ग्रा निकासी",
-      "link": "https://www.ratopati.com/story/600437/sheep-meat-worth-rs-350-million-exported-via-mustang-during-dashain",
-      "description": "मुस्ताङ । यसपालिको दसैँको अवसरमा मुस्ताङ हुँदै रु ३५ करोड मूल्य बराबरका भेडा तथा च्याङ्ग्रा निकासी भएको छ । कृषि तथा पशु विकास कार्यालयका अनुसार यस वर्ष उक्त मूल्य बराबरका १३ हजार २७९ भेडा च्याङ्ग्रा",
-      "published": "2026-10-18T18:26:39+00:00",
-      "source": "Ratopati",
-      "category": "business",
-      "image": "https://npcdn.ratopati.com/media/news/veda_zVUn80FRA1.jpg",
+      "title": "तीन दिनको माैसम पूर्वानुमान : कस्तो होला दसैँको माैसम ?",
+      "link": "https://khabarhub.com/2026/19/1038959/",
+      "description": "काठमाडौँ &#8211; जल तथा मौसम विज्ञान विभागका अनुसार आगामी तीन दिन देशका केही हिमाली तथा पहाडी भू-भागमा आंशिक बदली भई मेघगर्जन र चट्याङ्गसहित हल्का वर्षा तथा हिमपातको सम्भावना रहेको छ। विभागले जारी गरेको पछिल्लो मौसम पूर्वानुमान अनुसार आज (२०८३ कात्तिक २ गते, सोमबार) दिउँसो कोशी, बागमती, गण्डकी र लुम्बिनी प्रदेशका हिमाली तथा पहाडी भू-भागका साथै [&#8230;]",
+      "published": "2026-10-19T03:19:13+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
       "related_sources": [
-        "Ratopati"
+        "Khabarhub"
       ],
-      "id": "93a434e9f60c27d2",
+      "id": "f54b18689398283c",
       "source_count": 1,
       "verified": false,
-      "local": false,
-      "score": 90.6,
-      "story_size": 1,
-      "image_local": "images/news_d916d7c99253ebd27b08.jpg"
+      "local": true,
+      "score": 122.2,
+      "story_size": 1
     },
     {
-      "title": "१२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार",
-      "link": "https://www.ratopati.com/story/600436/12-news-at-12-these-are-todays-top-news-stories",
-      "description": "काठमाडौँ । आज दिनभरका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति रातोपाटी ब्रिफिङमा १० बजे १० समाचार लिएर हाजिर भएका छौँ– १. कोशीका अर्बौँका गेमचेन्जर आयोजना कोशी प्रदेशका ‘गेमचेन्जर’ आयोजनामध्ये केही निर्माणको अन्तिम चरणमा पुगेको एक तथ्याङ्कले देखाएको छ",
-      "published": "2026-10-18T18:15:54+00:00",
+      "title": "रूसलाई वार्ताबाट टाढिन दिने कदम चाल्दिनँ : ट्रम्प",
+      "link": "https://www.ratopati.com/story/600484/i-will-not-take-steps-to-keep-russia-out-of-talks-trump",
+      "description": "काठमाडौं । अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले रुस र युक्रेनबीच जारी युद्ध अन्त्य गर्न शान्ति वार्ताको प्रयास गरिरहेको बताएका छन् । उनले रुसलाई वार्ताबाट टाढिन बाध्य पार्ने कुनै कदम चाल्न नचाहेको बताएका हुन् । ट्रम्पले सोमबार आफ्नो",
+      "published": "2026-10-19T04:36:54+00:00",
       "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/12-am-final_viqawbfig2-(1)_fam6WtIhIE.jpg",
+      "category": "world",
+      "image": "https://npcdn.ratopati.com/media/news/trump_wnQdMlHwQi.webp",
       "related_sources": [
         "Ratopati"
       ],
-      "id": "ce4b812dc2092231",
+      "id": "2e3219deea5cad3c",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.9,
+      "score": 112.4,
       "story_size": 1,
-      "image_local": "images/news_e6051b04792cc7059ae6.jpg"
+      "image_local": "images/news_b297185c3676007e61ae.webp"
+    },
+    {
+      "title": "बेनी–दरवाङको फापरखेत वैकल्पिक सडक सञ्चालनमा",
+      "link": "https://gorkhapatraonline.com/news/227063",
+      "description": "ठाकुरप्रसाद आचार्य म्याग्दी(बेनी) कात्तिक २ गते । सुख्खा पहिरोले अवरुद्ध बनेको म्याग्दीको पश्चिमी भेगका तीनवटा स्थानीय तहलाई जिल्ला सदरमुकाम बेनी बजारसँग जोड्ने बेनी–दरवाङ सडकको फा...",
+      "published": "2026-10-19T10:18:39+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/388644/conversions/sadak-bikalpa-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "74086440d8975ddb",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.2,
+      "story_size": 1,
+      "image_local": "images/news_be76b45d1b111fedc495.jpg"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. सीप पुस्तान्तरण नहुँदा माटाका भाँडाको प्रयोग घट्दै\nस्रोत: Ratopati, Khabarhub, Lokaantar\nhttps://www.ratopati.com/story/600439/the-use-of-pottery-is-declining-due-to-lack-of-skill-transfer\n\n2. सोमबार यस्तो छ विदेशी मुद्राको विनिमय दर\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/600440/this-is-the-foreign-exchange-rate-on-monday\n\n3. आजको राशिफल : कुन राशिलाई शुभ, कुनलाई मध्यम?\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/600438/todays-horoscope-which-zodiac-sign-is-auspicious-which-is-average\n\n4. नवरात्रको नवौँ दिन : कात्तिक २ गते महाअष्टमीकै कर्म दोहोर्‍याउनुपर्ने\nस्रोत: Baahrakhari\nhttps://baahrakhari.com/detail/505285\n\n5. दसैँमा मुस्ताङ हुँदै ३५ करोड बराबरका भेडा च्याङ्ग्रा निकासी\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/600437/sheep-meat-worth-rs-350-million-exported-via-mustang-during-dashain\n\n6. १२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/600436/12-news-at-12-these-are-todays-top-news-stories\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. निकुञ्ज चाडपर्व लक्षित सुरक्षा योजना : तालिम प्राप्त कुकुरद्वारा निगरानी\nस्रोत: Khabarhub, Ratopati, Lokaantar\nhttps://khabarhub.com/2026/19/1038956/\n\n2. कृषि उद्यम र प्रविधिमा उत्तिकै सक्रिय अभिषेक : भैँसीपालनदेखि एआईको कोडसम्म\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/600468/abhishek-is-equally-active-in-agricultural-enterprises-and-technology-from-buffalo-farming-to-ai-code\n\n3. आँखा उपचारबाटै नेपालमा भित्रियो डेढ अर्बभन्दा बढी विदेशी मुद्रा\nस्रोत: Ratopati, Lokaantar\nhttps://www.ratopati.com/story/600461/more-than-15-billion-rupees-of-foreign-exchange-entered-nepal-through-eye-treatment\n\n4. बसको ठक्करबाट एक जनाको मृत्यु, दुई जना घाइते\nस्रोत: Setopati, Ratopati\nhttps://www.setopati.com/social/401091\n\n5. दसैँमा मौसमले कस्तो साथ देला ? यस्तो छ तीन दिनको पूर्वानुमान\nस्रोत: Kendrabindu\nhttps://kendrabindu.com/news/565001/\n\n6. तीन दिनको माैसम पूर्वानुमान : कस्तो होला दसैँको माैसम ?\nस्रोत: Khabarhub\nhttps://khabarhub.com/2026/19/1038959/\n\n7. रूसलाई वार्ताबाट टाढिन दिने कदम चाल्दिनँ : ट्रम्प\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/600484/i-will-not-take-steps-to-keep-russia-out-of-talks-trump\n\n8. बेनी–दरवाङको फापरखेत वैकल्पिक सडक सञ्चालनमा\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/227063\n\n— I Am From Hetauda"
 }
