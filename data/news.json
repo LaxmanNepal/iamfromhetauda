@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T21:55:15.534608+00:00",
+  "updated_at": "2026-10-19T00:02:43.976968+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -15,6 +15,27 @@
     "Gorkhapatra Online"
   ],
   "items": [
+    {
+      "title": "सीप पुस्तान्तरण नहुँदा माटाका भाँडाको प्रयोग घट्दै",
+      "link": "https://www.ratopati.com/story/600439/the-use-of-pottery-is-declining-due-to-lack-of-skill-transfer",
+      "description": "भोजपुर । नयाँ पुस्तामा परम्परागत सीपप्रति चासो घट्दै गएपछि भोजपुरका गाउँघरमा माटाका भाँडा बनाउने चलन हराउँदै जान थालेको छ । विगतमा घरायसी प्रयोजनका लागि प्रयोग हुने गाग्री, हाँडी, घैँटो, धुपौरोलगायत माटाका सामग्री अहिले कमै मात्रै देखिन",
+      "published": "2026-10-18T23:53:10+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/SZDdmIVC2L.jpg",
+      "related_sources": [
+        "Ratopati",
+        "Khabarhub",
+        "Lokaantar"
+      ],
+      "id": "b74fd7e07be59230",
+      "source_count": 3,
+      "verified": true,
+      "local": false,
+      "score": 146.4,
+      "story_size": 3,
+      "image_local": "images/news_0fdb62ecefd5c508a052.jpg"
+    },
     {
       "title": "दसैँमा युवा समूहको निःशुल्क यातायात सेवा अभियान",
       "link": "https://www.ratopati.com/story/600431/youth-groups-free-transportation-service-campaign-during-dashain",
@@ -33,9 +54,47 @@
       "source_count": 4,
       "verified": true,
       "local": false,
-      "score": 136.3,
+      "score": 127.8,
       "story_size": 4,
       "image_local": "images/news_13a941917c1d4f9e4cab.jpg"
+    },
+    {
+      "title": "सोमबार यस्तो छ विदेशी मुद्राको विनिमय दर",
+      "link": "https://www.ratopati.com/story/600440/this-is-the-foreign-exchange-rate-on-monday",
+      "description": "काठमाडौँ । नेपाल राष्ट्र बैंकले आज (सोमबार ) का लागि विदेशी मुद्राको विनिमय दर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५१ रुपैयाँ ६४ पैसा र बिक्रीदर १५२ रुपैयाँ २४ पैसा",
+      "published": "2026-10-19T00:01:14+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://rpcdn.ratopati.com/archived-media/Forex2.png",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "06cbe6c0b6af85d9",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.9,
+      "story_size": 1,
+      "image_local": "images/news_21c5215508997249f54a.png"
+    },
+    {
+      "title": "आजको राशिफल : कुन राशिलाई शुभ, कुनलाई मध्यम?",
+      "link": "https://www.ratopati.com/story/600438/todays-horoscope-which-zodiac-sign-is-auspicious-which-is-average",
+      "description": "आजको पञ्चाङ्ग वि.सं.२०८३ साल कार्तिक २ गते । सोमबार । इस्वी सन् २०२६ अक्टोबर १९ तारिख । नेपाल संवत् ११४६ । रौद्र संवत्सर । दक्षिणायन । शरद ऋतु । श्रीशाके १९४८ । आश्विन शुक्लपक्ष । तिथि–अष्टमी,",
+      "published": "2026-10-18T23:48:56+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/horoscope_XkWmpVM1yU.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "82d3520c3dd2aa41",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.1,
+      "story_size": 1,
+      "image_local": "images/news_3f09ac2e5e6c89788b01.jpg"
     },
     {
       "title": "बाढीमा बेपत्ता भएकाहरूको विवरण बुझाउन आग्रह",
@@ -53,9 +112,27 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 120.6,
+      "score": 112.1,
       "story_size": 2,
       "image_local": "images/news_106d400740d78f6b9960.jpg"
+    },
+    {
+      "title": "नवरात्रको नवौँ दिन : कात्तिक २ गते महाअष्टमीकै कर्म दोहोर्‍याउनुपर्ने",
+      "link": "https://baahrakhari.com/detail/505285",
+      "description": "",
+      "published": "2026-10-19T05:43:22+05:45",
+      "source": "Baahrakhari",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "6b45e17bdf4931f0",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.7,
+      "story_size": 1
     },
     {
       "title": "जुम्लामा मार्सीधान काट्ने चटारो",
@@ -73,7 +150,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 118.0,
+      "score": 109.5,
       "story_size": 2,
       "image_local": "images/news_a5e9a5e9b4eec6fd2a65.jpg"
     },
@@ -93,7 +170,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 114.9,
+      "score": 106.4,
       "story_size": 2,
       "image_local": "images/news_aa0d9c8bfa366d666973.png"
     },
@@ -114,27 +191,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 111.4,
-      "story_size": 3
-    },
-    {
-      "title": "अटो दुर्घटना हुँदा एक जनाको मृत्यु, सात घाइते",
-      "link": "https://khabarhub.com/2026/18/1038897/",
-      "description": "नवलपुर (नवलपरासी)- नवलपरासी (बर्दघाट–सुस्तापूर्व)को कावासोती नगरपालिका–६ माझटोलस्थित भित्री सडकखण्डमा अटो दुर्घटना हुँदा एक जनाको मृत्यु भएको छ भने चालकसहित सात जना घाइते भएका छन् । आज दिउँसो विष्णुनगरबाट कावासोतीतर्फ आउँदै गरेको ग प्र ०४–००१ ह ०७०२ नम्बरको अटो अनियन्त्रित भई सडकको बायाँतर्फको नहरमा खसेर दुर्घटना भएको प्रहरीले जनाएको छ । जिल्ला प्रहरी कार्यालय नवलपरासी (बर्दघाट–सुस्तापूर्व)का [&#8230;]",
-      "published": "2026-10-18T13:31:53+00:00",
-      "source": "Khabarhub",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
-        "Kendrabindu",
-        "Ratopati"
-      ],
-      "id": "034199bdfd0ac239",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 110.4,
+      "score": 102.9,
       "story_size": 3
     },
     {
@@ -153,7 +210,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 107.0,
+      "score": 98.5,
       "story_size": 3
     },
     {
@@ -171,28 +228,9 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 106.3,
+      "score": 97.8,
       "story_size": 1,
       "image_local": "images/news_192e8c34fb14688d6c5d.jpg"
-    },
-    {
-      "title": "सीप पुस्तान्तरण नहुँदा माटाका भाँडाको प्रयोग घट्दै",
-      "link": "https://khabarhub.com/2026/18/1038901/",
-      "description": "भोजपुर- नयाँ पुस्तामा परम्परागत सीपप्रति चासो घट्दै गएपछि भोजपुरका गाउँघरमा माटाका भाँडा बनाउने चलन हराउँदै जान थालेको छ । विगतमा घरायसी प्रयोजनका लागि प्रयोग हुने गाग्री, हाँडी, घैँटो, धुपौरोलगायत माटाका सामग्री अहिले कमै मात्रै देखिन थालेका छन् । सीप पुस्तान्तरण नहुँदा भाडा बनाउने र प्रयोग गर्ने दुवै चलन हराउँदै गएको हो । विशेष गरी घरायसी [&#8230;]",
-      "published": "2026-10-18T14:02:24+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
-        "Lokaantar"
-      ],
-      "id": "7d8ccaa43fb3872f",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 102.5,
-      "story_size": 2
     },
     {
       "title": "झलनाथ खनालको स्वास्थ्य बुझ्न ह्याम्स अस्पताल पुगे केपी ओली",
@@ -210,7 +248,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 101.9,
+      "score": 93.4,
       "story_size": 2
     },
     {
@@ -229,9 +267,28 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 101.5,
+      "score": 93.0,
       "story_size": 2,
       "image_local": "images/news_5fa59e098c6c48a2eada.jpg"
+    },
+    {
+      "title": "अटो दुर्घटना हुँदा एक जनाको मृत्यु, सात घाइते",
+      "link": "https://khabarhub.com/2026/18/1038897/",
+      "description": "नवलपुर (नवलपरासी)- नवलपरासी (बर्दघाट–सुस्तापूर्व)को कावासोती नगरपालिका–६ माझटोलस्थित भित्री सडकखण्डमा अटो दुर्घटना हुँदा एक जनाको मृत्यु भएको छ भने चालकसहित सात जना घाइते भएका छन् । आज दिउँसो विष्णुनगरबाट कावासोतीतर्फ आउँदै गरेको ग प्र ०४–००१ ह ०७०२ नम्बरको अटो अनियन्त्रित भई सडकको बायाँतर्फको नहरमा खसेर दुर्घटना भएको प्रहरीले जनाएको छ । जिल्ला प्रहरी कार्यालय नवलपरासी (बर्दघाट–सुस्तापूर्व)का [&#8230;]",
+      "published": "2026-10-18T13:31:53+00:00",
+      "source": "Khabarhub",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "Khabarhub",
+        "Kendrabindu"
+      ],
+      "id": "034199bdfd0ac239",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 91.9,
+      "story_size": 2
     },
     {
       "title": "दसैँमा मुस्ताङ हुँदै ३५ करोड बराबरका भेडा च्याङ्ग्रा निकासी",
@@ -248,7 +305,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.1,
+      "score": 90.6,
       "story_size": 1,
       "image_local": "images/news_d916d7c99253ebd27b08.jpg"
     },
@@ -268,7 +325,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 98.9,
+      "score": 90.4,
       "story_size": 2
     },
     {
@@ -286,7 +343,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.4,
+      "score": 89.9,
       "story_size": 1,
       "image_local": "images/news_e6051b04792cc7059ae6.jpg"
     },
@@ -305,7 +362,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.1,
+      "score": 86.6,
       "story_size": 1,
       "image_local": "images/news_052021c8079b709b524e.jpg"
     },
@@ -324,7 +381,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.0,
+      "score": 84.5,
       "story_size": 1,
       "image_local": "images/news_c83563caf12e81600be4.webp"
     },
@@ -343,7 +400,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.0,
+      "score": 82.5,
       "story_size": 1,
       "image_local": "images/news_c36aba163646663e9a38.jpg"
     },
@@ -362,7 +419,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.7,
+      "score": 82.2,
       "story_size": 1,
       "image_local": "images/news_8331b0f1cb2a40e062af.jpg"
     },
@@ -381,7 +438,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.3,
+      "score": 81.8,
       "story_size": 1,
       "image_local": "images/news_7682482ae749608e3179.webp"
     },
@@ -400,7 +457,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.7,
+      "score": 81.2,
       "story_size": 1,
       "image_local": "images/news_7a4892c03661e4b63fdd.jpg"
     },
@@ -419,7 +476,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.6,
+      "score": 81.1,
       "story_size": 1,
       "image_local": "images/news_c936b17443afe92320f4.jpg"
     },
@@ -438,7 +495,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.3,
+      "score": 78.8,
       "story_size": 1,
       "image_local": "images/news_b3566d231cae52c588df.webp"
     },
@@ -457,7 +514,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.2,
+      "score": 77.7,
       "story_size": 1,
       "image_local": "images/news_324b981c29732b6dff7d.jpg"
     },
@@ -476,7 +533,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.2,
+      "score": 77.7,
       "story_size": 1,
       "image_local": "images/news_45350e054947a1e517c1.jpg"
     },
@@ -495,7 +552,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.1,
+      "score": 77.6,
       "story_size": 1
     },
     {
@@ -513,7 +570,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.6,
+      "score": 77.1,
       "story_size": 1
     },
     {
@@ -531,7 +588,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.5,
+      "score": 77.0,
       "story_size": 1,
       "image_local": "images/news_378e574d5ac768136067.webp"
     },
@@ -550,7 +607,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.3,
+      "score": 76.8,
       "story_size": 1
     },
     {
@@ -568,7 +625,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.2,
+      "score": 76.7,
       "story_size": 1,
       "image_local": "images/news_e80bd1825906922fae5a.webp"
     },
@@ -587,7 +644,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.1,
+      "score": 76.6,
       "story_size": 1,
       "image_local": "images/news_28ee962a6885bf0f336f.jpg"
     },
@@ -607,7 +664,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 84.2,
+      "score": 75.7,
       "story_size": 2,
       "image_local": "images/news_2e45f10827459b014da4.jpg"
     },
@@ -626,7 +683,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.0,
+      "score": 75.5,
       "story_size": 1
     },
     {
@@ -644,7 +701,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.0,
+      "score": 75.5,
       "story_size": 1,
       "image_local": "images/news_3d0be53a46d289850b92.jpg"
     },
@@ -663,7 +720,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.3,
+      "score": 74.8,
       "story_size": 1,
       "image_local": "images/news_56b224e4bf1932d3154d.jpg"
     },
@@ -682,7 +739,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.0,
+      "score": 74.5,
       "story_size": 1,
       "image_local": "images/news_fc38e5c68b271a83eb0b.webp"
     },
@@ -701,7 +758,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.6,
+      "score": 74.1,
       "story_size": 1
     },
     {
@@ -719,7 +776,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.3,
+      "score": 73.8,
       "story_size": 1,
       "image_local": "images/news_849ed3997bc4ba772aea.webp"
     },
@@ -738,7 +795,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.7,
+      "score": 73.2,
       "story_size": 1,
       "image_local": "images/news_49d00999bdab9b6abd0f.webp"
     },
@@ -757,7 +814,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.2,
+      "score": 72.7,
       "story_size": 1,
       "image_local": "images/news_6e7f19bae19b0e148f7c.webp"
     },
@@ -776,7 +833,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.0,
+      "score": 71.5,
       "story_size": 1
     },
     {
@@ -794,7 +851,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.2,
+      "score": 70.7,
       "story_size": 1,
       "image_local": "images/news_cca24a57398294d8da02.jpg"
     },
@@ -813,7 +870,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.0,
+      "score": 70.5,
       "story_size": 1
     },
     {
@@ -831,7 +888,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.8,
+      "score": 70.3,
       "story_size": 1
     },
     {
@@ -849,7 +906,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.4,
+      "score": 69.9,
       "story_size": 1,
       "image_local": "images/news_9948dcd8ec2b5b11aeb5.webp"
     },
@@ -868,7 +925,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.3,
+      "score": 69.8,
       "story_size": 1,
       "image_local": "images/news_965c74e5ea5604999259.webp"
     },
@@ -887,7 +944,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.1,
+      "score": 69.6,
       "story_size": 1,
       "image_local": "images/news_5bf250d98bbe1ae209f3.jpg"
     },
@@ -906,7 +963,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.0,
+      "score": 69.5,
       "story_size": 1
     },
     {
@@ -924,7 +981,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.8,
+      "score": 69.3,
       "story_size": 1,
       "image_local": "images/news_433e1eeb34a0f26c8660.webp"
     },
@@ -943,7 +1000,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.7,
+      "score": 69.2,
       "story_size": 1
     },
     {
@@ -961,7 +1018,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.6,
+      "score": 69.2,
       "story_size": 1
     },
     {
@@ -979,7 +1036,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.5,
+      "score": 69.0,
       "story_size": 1
     },
     {
@@ -997,7 +1054,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.2,
+      "score": 68.7,
       "story_size": 1
     },
     {
@@ -1015,8 +1072,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.9,
-      "story_size": 2,
+      "score": 68.4,
+      "story_size": 1,
       "image_local": "images/news_acb023373d3803d58693.webp"
     },
     {
@@ -1034,7 +1091,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.5,
+      "score": 68.0,
       "story_size": 1
     },
     {
@@ -1052,7 +1109,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.4,
+      "score": 67.9,
       "story_size": 1
     },
     {
@@ -1070,7 +1127,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.2,
+      "score": 67.7,
       "story_size": 1
     },
     {
@@ -1088,7 +1145,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.0,
+      "score": 67.5,
       "story_size": 1
     },
     {
@@ -1106,7 +1163,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.9,
+      "score": 67.4,
       "story_size": 1
     },
     {
@@ -1124,7 +1181,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.8,
+      "score": 67.3,
       "story_size": 1
     },
     {
@@ -1142,27 +1199,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.9,
+      "score": 66.4,
       "story_size": 1
-    },
-    {
-      "title": "३० एमबीपीएस इन्टरनेट प्याकेजबारे टेलिकमले भन्यो– भ्रामक समाचारको पछि नलागौँ",
-      "link": "https://www.ratopati.com/story/600410/telecom-says-about-30-mbps-internet-package-dont-follow-misleading-news",
-      "description": "काठमाडाैँ। नेपाल टेलिकमले ३० एमबीपीएस इन्टरनेट प्याकेजसम्बन्धी प्रकाशित समाचारप्रति ध्यानाकर्षण गराउँदै उक्त प्याकेजको मूल्य र स्वीकृतिबारे फैलिएको भ्रममा नपर्न आग्रह गरेको छ। नेपाल टेलिकमका प्रवक्ता डा. कमल लामिछाने जारी गरेको प्रेस विज्ञप्तिअनुसार कम्पनीले ६ हजार ९९९",
-      "published": "2026-10-18T12:18:40+00:00",
-      "source": "Ratopati",
-      "category": "tech",
-      "image": "https://npcdn.ratopati.com/media/news/ntc_fBNEWvqQgm.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "592f7863330f9f5b",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 74.6,
-      "story_size": 1,
-      "image_local": "images/news_4008a36feef884e865cd.jpg"
     },
     {
       "title": "अवैतनिक महावाणिज्यदूतले बेचिदिए श्रीलंकास्थित दूतावासको जग्गा, ३२ वर्षपछि पुनर्प्राप्तिको पहल",
@@ -1179,7 +1217,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.2,
+      "score": 65.7,
       "story_size": 1
     },
     {
@@ -1197,7 +1235,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.9,
+      "score": 65.4,
       "story_size": 1
     },
     {
@@ -1215,7 +1253,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.8,
+      "score": 65.3,
       "story_size": 1
     },
     {
@@ -1233,7 +1271,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.3,
+      "score": 64.8,
       "story_size": 1
     },
     {
@@ -1251,7 +1289,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.4,
+      "score": 63.9,
       "story_size": 1
     },
     {
@@ -1269,7 +1307,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.4,
+      "score": 62.9,
       "story_size": 1
     },
     {
@@ -1287,7 +1325,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.9,
+      "score": 62.4,
       "story_size": 1
     },
     {
@@ -1305,7 +1343,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.8,
+      "score": 62.3,
       "story_size": 1
     },
     {
@@ -1323,7 +1361,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.6,
+      "score": 62.1,
       "story_size": 1
     },
     {
@@ -1341,7 +1379,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.5,
+      "score": 62.0,
       "story_size": 1
     },
     {
@@ -1359,7 +1397,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.0,
+      "score": 61.5,
       "story_size": 1
     },
     {
@@ -1377,25 +1415,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.8,
-      "story_size": 1
-    },
-    {
-      "title": "तीन पालिकालाई बेनीसँग जोड्ने वैकल्पिक मार्ग सञ्चालनमा",
-      "link": "https://baahrakhari.com/detail/505280",
-      "description": "",
-      "published": "2026-10-18T17:34:00+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "a55c5ee8a3b101ff",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 69.6,
+      "score": 61.4,
       "story_size": 1
     },
     {
@@ -1413,7 +1433,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.6,
+      "score": 60.1,
       "story_size": 1
     },
     {
@@ -1431,7 +1451,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.2,
+      "score": 59.7,
       "story_size": 1
     },
     {
@@ -1449,7 +1469,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.1,
+      "score": 59.6,
       "story_size": 1
     },
     {
@@ -1467,7 +1487,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.1,
+      "score": 59.6,
       "story_size": 1
     },
     {
@@ -1485,7 +1505,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.3,
+      "score": 58.8,
       "story_size": 1
     },
     {
@@ -1503,9 +1523,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.1,
-      "story_size": 1,
-      "image_local": "images/news_70b6cc898713bbec9160.jpg"
+      "score": 58.6,
+      "story_size": 1
     },
     {
       "title": "एभरेस्ट महिला भलिबल लिगको मुख्य प्रायोजकमा रेड बुल",
@@ -1522,7 +1541,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.9,
+      "score": 58.4,
       "story_size": 1
     },
     {
@@ -1540,7 +1559,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.1,
+      "score": 57.6,
       "story_size": 1
     },
     {
@@ -1558,7 +1577,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.0,
+      "score": 57.5,
       "story_size": 1
     },
     {
@@ -1576,7 +1595,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 65.7,
+      "score": 57.2,
       "story_size": 1
     },
     {
@@ -1594,7 +1613,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 65.0,
+      "score": 56.5,
       "story_size": 1
     },
     {
@@ -1612,7 +1631,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 64.8,
+      "score": 56.3,
       "story_size": 1
     },
     {
@@ -1630,7 +1649,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 64.1,
+      "score": 55.6,
       "story_size": 1
     },
     {
@@ -1648,7 +1667,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 64.0,
+      "score": 55.5,
       "story_size": 1
     },
     {
@@ -1666,7 +1685,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 63.8,
+      "score": 55.3,
       "story_size": 1
     },
     {
@@ -1684,7 +1703,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 63.7,
+      "score": 55.2,
       "story_size": 1
     },
     {
@@ -1702,7 +1721,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 63.2,
+      "score": 54.7,
       "story_size": 1
     },
     {
@@ -1720,7 +1739,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 63.0,
+      "score": 54.5,
       "story_size": 1
     },
     {
@@ -1738,7 +1757,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 62.9,
+      "score": 54.4,
       "story_size": 1
     },
     {
@@ -1756,7 +1775,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 62.3,
+      "score": 53.8,
       "story_size": 1
     },
     {
@@ -1774,7 +1793,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 61.4,
+      "score": 52.9,
       "story_size": 1
     },
     {
@@ -1792,7 +1811,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 60.8,
+      "score": 52.3,
       "story_size": 1
     },
     {
@@ -1810,7 +1829,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 60.4,
+      "score": 51.9,
       "story_size": 1
     },
     {
@@ -1828,7 +1847,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 59.4,
+      "score": 50.9,
       "story_size": 1
     },
     {
@@ -1846,7 +1865,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 57.9,
+      "score": 49.4,
       "story_size": 1
     },
     {
@@ -1864,7 +1883,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 57.8,
+      "score": 49.3,
       "story_size": 1
     },
     {
@@ -1882,7 +1901,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 57.0,
+      "score": 48.5,
       "story_size": 1
     },
     {
@@ -1900,7 +1919,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 55.0,
+      "score": 46.5,
       "story_size": 1
     },
     {
@@ -1918,7 +1937,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 54.5,
+      "score": 46.0,
       "story_size": 1
     },
     {
@@ -1936,7 +1955,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 54.4,
+      "score": 45.9,
       "story_size": 1
     },
     {
@@ -1954,7 +1973,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 53.7,
+      "score": 45.2,
       "story_size": 1
     },
     {
@@ -1972,7 +1991,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 53.0,
+      "score": 44.5,
       "story_size": 1
     },
     {
@@ -1990,7 +2009,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 51.5,
+      "score": 43.0,
       "story_size": 1
     },
     {
@@ -2008,7 +2027,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 50.6,
+      "score": 42.1,
       "story_size": 1
     },
     {
@@ -2026,7 +2045,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 50.4,
+      "score": 41.9,
       "story_size": 1
     },
     {
@@ -2044,7 +2063,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 50.1,
+      "score": 41.6,
       "story_size": 1
     },
     {
@@ -2062,7 +2081,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 49.2,
+      "score": 40.7,
       "story_size": 1
     },
     {
@@ -2080,7 +2099,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 47.7,
+      "score": 39.2,
       "story_size": 1
     },
     {
@@ -2098,7 +2117,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 47.1,
+      "score": 38.6,
       "story_size": 1
     },
     {
@@ -2116,7 +2135,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 45.8,
+      "score": 37.3,
       "story_size": 1
     },
     {
@@ -2134,7 +2153,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 45.5,
+      "score": 37.0,
       "story_size": 1
     },
     {
@@ -2152,7 +2171,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 43.5,
+      "score": 35.1,
       "story_size": 1
     },
     {
@@ -2170,7 +2189,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 42.8,
+      "score": 34.3,
       "story_size": 1
     },
     {
@@ -2188,7 +2207,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 40.2,
+      "score": 31.7,
       "story_size": 1
     },
     {
@@ -2206,7 +2225,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 39.8,
+      "score": 31.4,
       "story_size": 1
     },
     {
@@ -2224,7 +2243,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 37.9,
+      "score": 29.4,
       "story_size": 1
     },
     {
@@ -2242,7 +2261,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 36.8,
+      "score": 28.3,
       "story_size": 1
     },
     {
@@ -2260,7 +2279,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 35.1,
+      "score": 26.6,
       "story_size": 1
     },
     {
@@ -2278,7 +2297,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 35.0,
+      "score": 26.5,
       "story_size": 1
     },
     {
@@ -2296,7 +2315,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 34.8,
+      "score": 26.3,
       "story_size": 1
     },
     {
@@ -2314,7 +2333,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 34.2,
+      "score": 25.8,
       "story_size": 1
     },
     {
@@ -2332,7 +2351,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 33.2,
+      "score": 24.7,
       "story_size": 1
     },
     {
@@ -2743,24 +2762,6 @@
         "Lokaantar"
       ],
       "id": "267996b3162fcfb9",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "आन्द्रे रसल विराटनगरबाट खेल्ने",
-      "link": "http://lokaantar.com/story/331548/2026/10/18/andre-russel",
-      "description": "वेस्टइन्डिजका विस्फोटक ब्याट्सम्यान आन्द्रे रसल विराटनगर किंग्सबाट खेल्ने भएका छन् ।आईपीएलमा दमदार प्रदर्शन गर्दै आएका अलराउन्डर रसेललाई विराटनगरले अनुबन्धन गरेको हो ।रसलको तस्वीर फेसबूकमा राख्दै विराटनगरको टीमले सरप्राइज अझै नसकिएको लेखेको छ ।आईसीसीले समेत मान्यता दिएपछि एनपीएलको तेस्रो संस्करण थप रोचक बन्ने देखिएको छ ।&nbsp;",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "ae59298018766ac7",
       "source_count": 1,
       "verified": false,
       "local": false,

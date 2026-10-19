@@ -1,7 +1,84 @@
 {
   "date_np": "2026-10-19",
-  "generated_at": "2026-10-18T21:55:15.537615+00:00",
+  "generated_at": "2026-10-19T00:02:43.979398+00:00",
   "items": [
+    {
+      "title": "सीप पुस्तान्तरण नहुँदा माटाका भाँडाको प्रयोग घट्दै",
+      "link": "https://www.ratopati.com/story/600439/the-use-of-pottery-is-declining-due-to-lack-of-skill-transfer",
+      "description": "भोजपुर । नयाँ पुस्तामा परम्परागत सीपप्रति चासो घट्दै गएपछि भोजपुरका गाउँघरमा माटाका भाँडा बनाउने चलन हराउँदै जान थालेको छ । विगतमा घरायसी प्रयोजनका लागि प्रयोग हुने गाग्री, हाँडी, घैँटो, धुपौरोलगायत माटाका सामग्री अहिले कमै मात्रै देखिन",
+      "published": "2026-10-18T23:53:10+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/SZDdmIVC2L.jpg",
+      "related_sources": [
+        "Ratopati",
+        "Khabarhub",
+        "Lokaantar"
+      ],
+      "id": "b74fd7e07be59230",
+      "source_count": 3,
+      "verified": true,
+      "local": false,
+      "score": 146.4,
+      "story_size": 3,
+      "image_local": "images/news_0fdb62ecefd5c508a052.jpg"
+    },
+    {
+      "title": "सोमबार यस्तो छ विदेशी मुद्राको विनिमय दर",
+      "link": "https://www.ratopati.com/story/600440/this-is-the-foreign-exchange-rate-on-monday",
+      "description": "काठमाडौँ । नेपाल राष्ट्र बैंकले आज (सोमबार ) का लागि विदेशी मुद्राको विनिमय दर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५१ रुपैयाँ ६४ पैसा र बिक्रीदर १५२ रुपैयाँ २४ पैसा",
+      "published": "2026-10-19T00:01:14+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://rpcdn.ratopati.com/archived-media/Forex2.png",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "06cbe6c0b6af85d9",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.9,
+      "story_size": 1,
+      "image_local": "images/news_21c5215508997249f54a.png"
+    },
+    {
+      "title": "आजको राशिफल : कुन राशिलाई शुभ, कुनलाई मध्यम?",
+      "link": "https://www.ratopati.com/story/600438/todays-horoscope-which-zodiac-sign-is-auspicious-which-is-average",
+      "description": "आजको पञ्चाङ्ग वि.सं.२०८३ साल कार्तिक २ गते । सोमबार । इस्वी सन् २०२६ अक्टोबर १९ तारिख । नेपाल संवत् ११४६ । रौद्र संवत्सर । दक्षिणायन । शरद ऋतु । श्रीशाके १९४८ । आश्विन शुक्लपक्ष । तिथि–अष्टमी,",
+      "published": "2026-10-18T23:48:56+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/horoscope_XkWmpVM1yU.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "82d3520c3dd2aa41",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.1,
+      "story_size": 1,
+      "image_local": "images/news_3f09ac2e5e6c89788b01.jpg"
+    },
+    {
+      "title": "नवरात्रको नवौँ दिन : कात्तिक २ गते महाअष्टमीकै कर्म दोहोर्‍याउनुपर्ने",
+      "link": "https://baahrakhari.com/detail/505285",
+      "description": "",
+      "published": "2026-10-19T05:43:22+05:45",
+      "source": "Baahrakhari",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "6b45e17bdf4931f0",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.7,
+      "story_size": 1
+    },
     {
       "title": "दसैँमा मुस्ताङ हुँदै ३५ करोड बराबरका भेडा च्याङ्ग्रा निकासी",
       "link": "https://www.ratopati.com/story/600437/sheep-meat-worth-rs-350-million-exported-via-mustang-during-dashain",
@@ -17,7 +94,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.1,
+      "score": 90.6,
       "story_size": 1,
       "image_local": "images/news_d916d7c99253ebd27b08.jpg"
     },
@@ -36,10 +113,10 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.4,
+      "score": 89.9,
       "story_size": 1,
       "image_local": "images/news_e6051b04792cc7059ae6.jpg"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. दसैँमा मुस्ताङ हुँदै ३५ करोड बराबरका भेडा च्याङ्ग्रा निकासी\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/600437/sheep-meat-worth-rs-350-million-exported-via-mustang-during-dashain\n\n2. १२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/600436/12-news-at-12-these-are-todays-top-news-stories\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. सीप पुस्तान्तरण नहुँदा माटाका भाँडाको प्रयोग घट्दै\nस्रोत: Ratopati, Khabarhub, Lokaantar\nhttps://www.ratopati.com/story/600439/the-use-of-pottery-is-declining-due-to-lack-of-skill-transfer\n\n2. सोमबार यस्तो छ विदेशी मुद्राको विनिमय दर\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/600440/this-is-the-foreign-exchange-rate-on-monday\n\n3. आजको राशिफल : कुन राशिलाई शुभ, कुनलाई मध्यम?\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/600438/todays-horoscope-which-zodiac-sign-is-auspicious-which-is-average\n\n4. नवरात्रको नवौँ दिन : कात्तिक २ गते महाअष्टमीकै कर्म दोहोर्‍याउनुपर्ने\nस्रोत: Baahrakhari\nhttps://baahrakhari.com/detail/505285\n\n5. दसैँमा मुस्ताङ हुँदै ३५ करोड बराबरका भेडा च्याङ्ग्रा निकासी\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/600437/sheep-meat-worth-rs-350-million-exported-via-mustang-during-dashain\n\n6. १२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/600436/12-news-at-12-these-are-todays-top-news-stories\n\n— I Am From Hetauda"
 }
