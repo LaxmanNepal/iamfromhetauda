@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T19:31:44.840588+00:00",
+  "updated_at": "2026-10-20T22:42:15.575166+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -32,7 +32,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 135.4,
+      "score": 122.7,
       "story_size": 3
     },
     {
@@ -52,7 +52,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 135.0,
+      "score": 122.3,
       "story_size": 3,
       "image_local": "images/news_6c20b78a0a0d94f5bce1.webp"
     },
@@ -74,7 +74,7 @@
       "source_count": 4,
       "verified": true,
       "local": false,
-      "score": 131.0,
+      "score": 118.3,
       "story_size": 4
     },
     {
@@ -94,8 +94,46 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 129.2,
+      "score": 116.4,
       "story_size": 3
+    },
+    {
+      "title": "फिल फोडेनको ह्याट्रिकमा म्यानचेस्टर सिटीको ५-१ को फराकिलो जित",
+      "link": "https://www.ratopati.com/story/600699/phil-fodens-hat-trick-leads-manchester-city-to-a-5-1-win",
+      "description": "काठमाडौँ । युइएफए च्याम्पियन्स लिग अन्तर्गत भएको खेलमा इङ्लिस क्लब म्यानचेस्टर सिटीले ग्रिक क्लब एईकेमाथि ५-१ गोलको फराकिलो जित निकालेको छ । सिटीको प्रभावशाली जितमा फिल फोडेनले शानदार ह्याट्रिक प्रहार गरे । खेलको सुरुआतदेखि नै हाबी",
+      "published": "2026-10-20T22:39:13+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/man-city_mLWyZ5QyB8.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "67f2db7aebbbc5fa",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.8,
+      "story_size": 1,
+      "image_local": "images/news_c9decd17ddeb092dd307.webp"
+    },
+    {
+      "title": "दुई गोलले पछि परेको लिभरपुलको उत्कृष्ट पुनरागमन, भिल्लारियाल ४-३ ले पराजित",
+      "link": "https://www.ratopati.com/story/600698/liverpools-brilliant-comeback-from-two-goals-down-to-defeat-villarreal-4-3",
+      "description": "काठमाडौँ । युइएफए च्याम्पियन्स लिग अन्तर्गत भएको प्रतिस्पर्धात्मक र रोमाञ्चक खेलमा इङ्लिस क्लब लिभरपुलले स्पेनिस क्लब भिल्लारियाललाई ४-३ गोलअन्तरले पराजित गरेको छ । खेलको सुरुवातमै दुई गोलले पछि परेको स्थिति उल्टाउँदै लिभरपुलले यो शानदार जित",
+      "published": "2026-10-20T22:35:12+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/liverpool_EcU0cDn3Aj.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "315ab74b3efcd70a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.5,
+      "story_size": 1,
+      "image_local": "images/news_fac23dbd39ee3179485b.webp"
     },
     {
       "title": "दुई दिनमा सशस्त्रले दियो एक हजारभन्दा बढीलाई निःशुल्क बस सेवा",
@@ -113,9 +151,28 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 125.1,
+      "score": 112.4,
       "story_size": 2,
       "image_local": "images/news_3cac55992017ef403f4f.webp"
+    },
+    {
+      "title": "बार्सिलोनामाथि पिएसजीको ४-२ गोलको रोमाञ्चक जित",
+      "link": "https://www.ratopati.com/story/600697/psgs-thrilling-4-2-win-over-barcelona",
+      "description": "काठमाडौँ । युइएफए च्याम्पियन्स लिग फुटबल प्रतियोगिता अन्तर्गत नेपाली समयअनुसार बुधबार बिहान भएको रोमाञ्चक खेलमा फ्रान्सेली क्लब पेरिस सेन्ट-जर्मेन (पिएसजी) ले स्पेनिस क्लब बार्सिलोनालाई ४-२ गोलअन्तरले पराजित गरेको छ । खेलमा सुरुवाती अग्रता पिएसजीले लिएको थियो",
+      "published": "2026-10-20T22:30:55+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/psg-barca_pKS4ioN1Bq.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "4ef2bffbace6b5c3",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.2,
+      "story_size": 1,
+      "image_local": "images/news_8e8b15ad44a9a3988d03.webp"
     },
     {
       "title": "सम्पर्कविहीन दुई जापानी पर्वतारोहीको खोजी जारी",
@@ -133,7 +190,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 123.6,
+      "score": 110.9,
       "story_size": 2,
       "image_local": "images/news_aafc98cec346267b9f07.jpg"
     },
@@ -154,7 +211,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 121.2,
+      "score": 108.5,
       "story_size": 3
     },
     {
@@ -174,7 +231,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 119.8,
+      "score": 107.1,
       "story_size": 3
     },
     {
@@ -193,7 +250,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 119.3,
+      "score": 106.6,
       "story_size": 2
     },
     {
@@ -212,7 +269,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 109.6,
+      "score": 96.9,
       "story_size": 2,
       "image_local": "images/news_fd5ae60d09c861f9fa64.jpg"
     },
@@ -231,7 +288,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.6,
+      "score": 91.9,
       "story_size": 1,
       "image_local": "images/news_67d372703293e47b5cb3.png"
     },
@@ -250,7 +307,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.3,
+      "score": 88.6,
       "story_size": 1,
       "image_local": "images/news_f6fc89565d23c3fbae30.webp"
     },
@@ -269,7 +326,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.8,
+      "score": 88.1,
       "story_size": 1,
       "image_local": "images/news_55038defed140eacaf59.webp"
     },
@@ -288,7 +345,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.6,
+      "score": 87.9,
       "story_size": 1,
       "image_local": "images/news_3b6de9680c84258c6fec.jpg"
     },
@@ -307,7 +364,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.6,
+      "score": 87.9,
       "story_size": 1,
       "image_local": "images/news_083a98a2ea52014a72c9.jpg"
     },
@@ -326,7 +383,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.3,
+      "score": 87.6,
       "story_size": 1,
       "image_local": "images/news_1e08fe9599409e3383a3.jpg"
     },
@@ -345,7 +402,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.9,
+      "score": 87.2,
       "story_size": 1,
       "image_local": "images/news_f3b3ad2d3aa0c20ba86d.webp"
     },
@@ -364,7 +421,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 99.4,
+      "score": 86.7,
       "story_size": 1
     },
     {
@@ -382,7 +439,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.6,
+      "score": 85.9,
       "story_size": 1
     },
     {
@@ -400,7 +457,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.9,
+      "score": 85.2,
       "story_size": 1,
       "image_local": "images/news_1497bdf0c1cd63284552.jpg"
     },
@@ -419,7 +476,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.2,
+      "score": 84.5,
       "story_size": 1
     },
     {
@@ -437,7 +494,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.6,
+      "score": 83.9,
       "story_size": 1
     },
     {
@@ -455,7 +512,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.3,
+      "score": 83.6,
       "story_size": 1
     },
     {
@@ -473,7 +530,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.1,
+      "score": 82.4,
       "story_size": 1
     },
     {
@@ -491,7 +548,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.4,
+      "score": 81.7,
       "story_size": 1
     },
     {
@@ -509,7 +566,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.4,
+      "score": 81.7,
       "story_size": 1,
       "image_local": "images/news_9f2223f42b926fde55ac.jpg"
     },
@@ -528,7 +585,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.0,
+      "score": 81.3,
       "story_size": 1
     },
     {
@@ -546,7 +603,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.6,
+      "score": 80.9,
       "story_size": 1
     },
     {
@@ -564,7 +621,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.7,
+      "score": 80.0,
       "story_size": 1
     },
     {
@@ -582,7 +639,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.3,
+      "score": 79.6,
       "story_size": 1
     },
     {
@@ -600,7 +657,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.2,
+      "score": 79.5,
       "story_size": 1
     },
     {
@@ -618,7 +675,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.2,
+      "score": 79.5,
       "story_size": 1
     },
     {
@@ -636,7 +693,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.9,
+      "score": 79.2,
       "story_size": 1,
       "image_local": "images/news_276ff58bf3d4658ee7c7.webp"
     },
@@ -655,7 +712,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.1,
+      "score": 78.4,
       "story_size": 1
     },
     {
@@ -673,7 +730,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.2,
+      "score": 77.5,
       "story_size": 1,
       "image_local": "images/news_b297185c3676007e61ae.webp"
     },
@@ -692,7 +749,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.5,
+      "score": 76.8,
       "story_size": 1
     },
     {
@@ -710,7 +767,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.9,
+      "score": 76.2,
       "story_size": 1,
       "image_local": "images/news_000c667d8ef1ecd11205.jpg"
     },
@@ -729,7 +786,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.9,
+      "score": 76.2,
       "story_size": 1,
       "image_local": "images/news_040bae8e44f0ad409540.jpg"
     },
@@ -748,7 +805,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.7,
+      "score": 76.0,
       "story_size": 1,
       "image_local": "images/news_4025a8901daf62139a7e.jpg"
     },
@@ -767,7 +824,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.6,
+      "score": 75.9,
       "story_size": 1
     },
     {
@@ -785,7 +842,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.5,
+      "score": 75.8,
       "story_size": 1,
       "image_local": "images/news_4259afd30b80e001ce33.jpg"
     },
@@ -804,7 +861,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.2,
+      "score": 75.5,
       "story_size": 1
     },
     {
@@ -822,7 +879,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.0,
+      "score": 75.3,
       "story_size": 1
     },
     {
@@ -840,7 +897,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.9,
+      "score": 75.2,
       "story_size": 1,
       "image_local": "images/news_e4f62ccc39fc2e5d5090.webp"
     },
@@ -859,7 +916,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.8,
+      "score": 75.1,
       "story_size": 1,
       "image_local": "images/news_c54fdf143268aff05629.jpg"
     },
@@ -878,7 +935,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.7,
+      "score": 75.0,
       "story_size": 1,
       "image_local": "images/news_a50975053a9a2ee7cd13.jpg"
     },
@@ -897,7 +954,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.6,
+      "score": 74.9,
       "story_size": 1,
       "image_local": "images/news_6af7699cf3e2c5952ec1.webp"
     },
@@ -916,7 +973,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.2,
+      "score": 74.5,
       "story_size": 1
     },
     {
@@ -934,7 +991,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.6,
+      "score": 73.9,
       "story_size": 1
     },
     {
@@ -952,7 +1009,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.6,
+      "score": 73.9,
       "story_size": 1,
       "image_local": "images/news_5d39726b50b93356d5bb.webp"
     },
@@ -971,7 +1028,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 86.4,
+      "score": 73.7,
       "story_size": 1
     },
     {
@@ -989,7 +1046,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.1,
+      "score": 73.4,
       "story_size": 1
     },
     {
@@ -1007,7 +1064,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.6,
+      "score": 72.9,
       "story_size": 1
     },
     {
@@ -1025,7 +1082,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.5,
+      "score": 72.8,
       "story_size": 1,
       "image_local": "images/news_d9e0e91e703ee201070f.jpg"
     },
@@ -1044,7 +1101,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.2,
+      "score": 72.5,
       "story_size": 1
     },
     {
@@ -1062,7 +1119,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.2,
+      "score": 72.5,
       "story_size": 1,
       "image_local": "images/news_9076490f352731f66522.jpg"
     },
@@ -1081,7 +1138,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.8,
+      "score": 72.1,
       "story_size": 1,
       "image_local": "images/news_4fcf5220a6d89b9a8e89.jpg"
     },
@@ -1100,7 +1157,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.7,
+      "score": 72.0,
       "story_size": 1,
       "image_local": "images/news_74d3d2e4cb36e24acb76.jpg"
     },
@@ -1119,7 +1176,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.6,
+      "score": 71.9,
       "story_size": 1
     },
     {
@@ -1137,47 +1194,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.5,
+      "score": 71.8,
       "story_size": 1,
       "image_local": "images/news_31088225b6e74eec8103.jpg"
-    },
-    {
-      "title": "भारतको ऊर्जा स्रोत विविधीकरणमा प्रगति भएको छ : अमेरिकी विदेशमन्त्री",
-      "link": "https://www.ratopati.com/story/600668/india-has-made-progress-in-diversifying-its-energy-sources-us-secretary-of-state",
-      "description": "काठमाडाैँ। अमेरिकी विदेशमन्त्री मार्को रुबियोले भारतले आफ्नो ऊर्जा आपूर्तिका स्रोत विविधीकरण गर्ने दिशामा ‘उल्लेखनीय प्रगति’ गरेको बताएका छन्। रुसबाट ठूलो परिमाणमा तेल आयात गर्दै आएको भारतले वैकल्पिक स्रोततर्फ आपूर्ति विस्तार गर्ने प्रयास गरिरहेको उनको भनाइ",
-      "published": "2026-10-20T12:16:09+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/marco-rubio_7icghPKSeU.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "094ce01cff3c49e8",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 84.0,
-      "story_size": 1,
-      "image_local": "images/news_003771ecfbbee6528fc3.webp"
-    },
-    {
-      "title": "कास्कीमा पालिका अस्पताल: कतै बनेका घर प्रयोगविहीन, कतै भवन बनाउनै सकस",
-      "link": "https://www.ratopati.com/story/600564/municipal-hospital-in-kaski-some-houses-are-useless-others-are-too-small-to-build",
-      "description": "पोखरा । नागरिकलाई घरदैलोमै आधारभूत स्वास्थ्य सेवा पुर्‍याउने भन्दै सङ्घीय सरकारले तामझामका साथ देशभरका स्थानीय तहमा अस्पताल निर्माण गर्ने महत्त्वाकाङ्क्षी नीति अघि सार्‍यो । पालिकाको अवस्था हेरेर ५, १० र १५ शय्याका अस्पताल निर्माण गर्ने निर्णय",
-      "published": "2026-10-20T12:15:00+00:00",
-      "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/hos_nGU5NwtE6l.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "39007fbd16579490",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 83.9,
-      "story_size": 1,
-      "image_local": "images/news_f8ad905ee9d64ee96c48.webp"
     },
     {
       "title": "दसैँको उपहारः भूमिहीनलाई जग्गाधनी प्रमाणपुर्जा",
@@ -1194,27 +1213,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.8,
+      "score": 71.1,
       "story_size": 1
-    },
-    {
-      "title": "तीन दिने काठमाडौँ फिल्म फेस्टिभल हुँदै",
-      "link": "https://www.ratopati.com/story/600667/three-day-kathmandu-film-festival-to-begin-on-kartik-13",
-      "description": "काठमाडौँ । काठमाडौँ महानगरपालिकाले यही कात्तिक १३, १४ र १५ गते फिल्म फेस्टिभल आयोजना गर्ने भएको छ । यही कात्तिक १३ गते वसन्तपुरमा सम्पदा यात्राबाट शुभारम्भ हुने सो फेस्टिभलअन्तर्गत राष्ट्रिय सभा गृह, नेपाल पर्यटन बोर्ड, जय",
-      "published": "2026-10-20T12:12:47+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/BUiflDAw7f.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "dd1d65ad3889cd19",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 83.7,
-      "story_size": 1,
-      "image_local": "images/news_cb3c0f961a64115a276f.jpg"
     },
     {
       "title": "कतारमा नेपाली श्रमिकका आवाज बनेका मोहम्मद रमजान",
@@ -1231,7 +1231,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.6,
+      "score": 70.9,
       "story_size": 1
     },
     {
@@ -1249,7 +1249,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.3,
+      "score": 70.6,
       "story_size": 1
     },
     {
@@ -1267,7 +1267,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.9,
+      "score": 70.2,
       "story_size": 1
     },
     {
@@ -1285,7 +1285,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.8,
+      "score": 70.1,
       "story_size": 1
     },
     {
@@ -1303,7 +1303,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.7,
+      "score": 70.0,
       "story_size": 1
     },
     {
@@ -1321,7 +1321,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.7,
+      "score": 70.0,
       "story_size": 1,
       "image_local": "images/news_0953e765e6a03ce57372.jpg"
     },
@@ -1340,7 +1340,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.6,
+      "score": 69.9,
       "story_size": 1
     },
     {
@@ -1358,7 +1358,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.4,
+      "score": 69.7,
       "story_size": 1
     },
     {
@@ -1376,7 +1376,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.1,
+      "score": 69.4,
       "story_size": 1
     },
     {
@@ -1394,7 +1394,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.7,
+      "score": 69.0,
       "story_size": 1
     },
     {
@@ -1412,7 +1412,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.2,
+      "score": 68.5,
       "story_size": 1
     },
     {
@@ -1430,7 +1430,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.2,
+      "score": 68.5,
       "story_size": 1
     },
     {
@@ -1448,7 +1448,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.0,
+      "score": 68.3,
       "story_size": 1
     },
     {
@@ -1466,7 +1466,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.0,
+      "score": 68.3,
       "story_size": 1
     },
     {
@@ -1484,7 +1484,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.9,
+      "score": 68.2,
       "story_size": 1
     },
     {
@@ -1502,7 +1502,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.9,
+      "score": 68.2,
       "story_size": 1
     },
     {
@@ -1520,7 +1520,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.6,
+      "score": 67.9,
       "story_size": 1
     },
     {
@@ -1538,7 +1538,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.6,
+      "score": 67.9,
       "story_size": 1
     },
     {
@@ -1556,7 +1556,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.6,
+      "score": 67.9,
       "story_size": 1
     },
     {
@@ -1574,7 +1574,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.0,
+      "score": 67.3,
       "story_size": 1
     },
     {
@@ -1592,7 +1592,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.4,
+      "score": 66.7,
       "story_size": 1
     },
     {
@@ -1610,7 +1610,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.1,
+      "score": 66.4,
       "story_size": 1
     },
     {
@@ -1628,7 +1628,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.9,
+      "score": 66.2,
       "story_size": 1
     },
     {
@@ -1646,7 +1646,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.8,
+      "score": 66.1,
       "story_size": 1
     },
     {
@@ -1664,7 +1664,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.3,
+      "score": 65.6,
       "story_size": 1
     },
     {
@@ -1682,7 +1682,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.2,
+      "score": 65.5,
       "story_size": 1
     },
     {
@@ -1700,7 +1700,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.2,
+      "score": 65.5,
       "story_size": 1
     },
     {
@@ -1718,7 +1718,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.9,
+      "score": 65.2,
       "story_size": 1
     },
     {
@@ -1736,7 +1736,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.9,
+      "score": 65.2,
       "story_size": 1
     },
     {
@@ -1754,7 +1754,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.0,
+      "score": 63.3,
       "story_size": 1
     },
     {
@@ -1772,7 +1772,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.8,
+      "score": 62.1,
       "story_size": 1
     },
     {
@@ -1790,7 +1790,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 73.9,
+      "score": 61.2,
       "story_size": 1
     },
     {
@@ -1808,7 +1808,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.4,
+      "score": 60.7,
       "story_size": 1
     },
     {
@@ -1826,7 +1826,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.4,
+      "score": 58.7,
       "story_size": 1
     },
     {
@@ -1844,7 +1844,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.8,
+      "score": 58.1,
       "story_size": 1
     },
     {
@@ -1862,7 +1862,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.5,
+      "score": 57.8,
       "story_size": 1
     },
     {
@@ -1880,7 +1880,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.3,
+      "score": 57.6,
       "story_size": 1
     },
     {
@@ -1898,7 +1898,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.3,
+      "score": 57.6,
       "story_size": 1
     },
     {
@@ -1916,7 +1916,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.7,
+      "score": 57.0,
       "story_size": 1
     },
     {
@@ -1934,7 +1934,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.7,
+      "score": 57.0,
       "story_size": 1
     },
     {
@@ -1952,7 +1952,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.3,
+      "score": 56.6,
       "story_size": 1
     },
     {
@@ -1970,7 +1970,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.0,
+      "score": 56.3,
       "story_size": 1
     },
     {
@@ -1988,7 +1988,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.6,
+      "score": 54.9,
       "story_size": 1
     },
     {
@@ -2006,7 +2006,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.9,
+      "score": 54.2,
       "story_size": 1
     },
     {
@@ -2024,7 +2024,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.3,
+      "score": 53.6,
       "story_size": 1
     },
     {
@@ -2042,7 +2042,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 65.9,
+      "score": 53.2,
       "story_size": 1
     },
     {
@@ -2060,7 +2060,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 65.9,
+      "score": 53.2,
       "story_size": 1
     },
     {
@@ -2078,7 +2078,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 64.9,
+      "score": 52.2,
       "story_size": 1
     },
     {
@@ -2096,7 +2096,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 64.3,
+      "score": 51.6,
       "story_size": 1
     },
     {
@@ -2114,7 +2114,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 63.9,
+      "score": 51.2,
       "story_size": 1
     },
     {
@@ -2132,7 +2132,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 63.6,
+      "score": 50.9,
       "story_size": 1
     },
     {
@@ -2150,7 +2150,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 63.4,
+      "score": 50.7,
       "story_size": 1
     },
     {
@@ -2168,7 +2168,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 62.6,
+      "score": 49.9,
       "story_size": 1
     },
     {
@@ -2186,7 +2186,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 62.5,
+      "score": 49.8,
       "story_size": 1
     },
     {
@@ -2204,7 +2204,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 62.3,
+      "score": 49.6,
       "story_size": 1
     },
     {
@@ -2222,7 +2222,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 61.4,
+      "score": 48.7,
       "story_size": 1
     },
     {
@@ -2240,7 +2240,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 61.2,
+      "score": 48.5,
       "story_size": 1
     },
     {
@@ -2258,7 +2258,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 60.7,
+      "score": 48.0,
       "story_size": 1
     },
     {
@@ -2276,7 +2276,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 60.0,
+      "score": 47.3,
       "story_size": 1
     },
     {
@@ -2294,7 +2294,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 58.0,
+      "score": 45.3,
       "story_size": 1
     },
     {
@@ -2312,7 +2312,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 54.6,
+      "score": 41.9,
       "story_size": 1
     },
     {
@@ -2330,7 +2330,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 53.7,
+      "score": 41.0,
       "story_size": 1
     },
     {
@@ -2348,7 +2348,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 53.6,
+      "score": 40.9,
       "story_size": 1
     },
     {
@@ -2366,7 +2366,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 53.4,
+      "score": 40.7,
       "story_size": 1
     },
     {
@@ -2384,7 +2384,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 52.9,
+      "score": 40.2,
       "story_size": 1
     },
     {
@@ -2402,7 +2402,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 49.4,
+      "score": 36.7,
       "story_size": 1
     },
     {
@@ -2420,7 +2420,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 49.0,
+      "score": 36.3,
       "story_size": 1
     },
     {
@@ -2438,25 +2438,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 40.8,
-      "story_size": 1
-    },
-    {
-      "title": "दशैँको टीका र आशीर्वादसँगै पाइने दक्षिणा केमा प्रयोग गर्ने",
-      "link": "https://www.bbc.com/nepali/articles/cxq6nglyj5pro?at_medium=RSS&at_campaign=rss",
-      "description": "थोरै वा धेरै जति भए पनि दशैँमा पाएको दक्षिणालाई दैनिक आवश्यकताको खर्चमा प्रयोग गर्ने कि लगानी गर्ने वा सामाजिक वा मानवीय कार्यमा प्रयोग गर्ने?",
-      "published": "2026-10-20T01:12:29+00:00",
-      "source": "BBC Nepali",
-      "category": "nepal",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9f79/live/931d79d0-c628-11f1-a509-ab6554d795a2.jpg",
-      "related_sources": [
-        "BBC Nepali"
-      ],
-      "id": "2680c83e0d70c2e8",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 39.7,
+      "score": 28.1,
       "story_size": 1
     },
     {
@@ -2475,6 +2457,24 @@
       "verified": false,
       "local": true,
       "score": 28,
+      "story_size": 1
+    },
+    {
+      "title": "दशैँको टीका र आशीर्वादसँगै पाइने दक्षिणा केमा प्रयोग गर्ने",
+      "link": "https://www.bbc.com/nepali/articles/cxq6nglyj5pro?at_medium=RSS&at_campaign=rss",
+      "description": "थोरै वा धेरै जति भए पनि दशैँमा पाएको दक्षिणालाई दैनिक आवश्यकताको खर्चमा प्रयोग गर्ने कि लगानी गर्ने वा सामाजिक वा मानवीय कार्यमा प्रयोग गर्ने?",
+      "published": "2026-10-20T01:12:29+00:00",
+      "source": "BBC Nepali",
+      "category": "nepal",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9f79/live/931d79d0-c628-11f1-a509-ab6554d795a2.jpg",
+      "related_sources": [
+        "BBC Nepali"
+      ],
+      "id": "2680c83e0d70c2e8",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 27.0,
       "story_size": 1
     },
     {
