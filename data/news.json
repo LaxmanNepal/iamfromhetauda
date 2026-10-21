@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T16:57:41.060263+00:00",
+  "updated_at": "2026-10-21T20:32:43.376488+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -16,25 +16,24 @@
   ],
   "items": [
     {
-      "title": "अमेरिका–पुटिन वार्ताबारे विस्तृत जानकारीको प्रतीक्षामा ईयू",
-      "link": "https://www.thahakhabar.com/detail/310695",
-      "description": "",
-      "published": "2026-10-21T20:52:06+05:45",
-      "source": "Thaha Khabar",
-      "category": "world",
-      "image": "https://www.thahakhabar.com/uploads/posts/Putin-1779237149.jpg",
+      "title": "मैथिल परम्पराको रावण वध उत्सव सम्पन्न",
+      "link": "https://www.ratopati.com/story/600775/maithili-traditions-ravana-killing-festival-concludes",
+      "description": "महोत्तरी । शारदीय दशहरा अर्थात् विजया दशमीका दिन मिथिलामा मनाइने रावण वध उत्सव मटिहानीसहित महोत्तरीका कैयौँ ठाउँमा आज (बुधबार) साँझ सम्पन्न भएको छ । त्रेता युगमा असोज शुक्ल दशमीका दिन मर्यादा पुरुष्वत्तम श्रीरामले युद्धमा रावणको वध",
+      "published": "2026-10-21T17:04:46+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/3u6FsFq6uO.jpg",
       "related_sources": [
-        "Thaha Khabar",
-        "Khabarhub",
-        "Ratopati"
+        "Ratopati",
+        "Baahrakhari"
       ],
-      "id": "4a9918088d0d3c36",
-      "source_count": 3,
+      "id": "431be9609cc21f85",
+      "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 139.6,
-      "story_size": 3,
-      "image_local": "images/news_8feb8f1b8d6d4544376b.jpg"
+      "score": 123.1,
+      "story_size": 2,
+      "image_local": "images/news_92da305e5d2b3d06c5e6.jpg"
     },
     {
       "title": "बाढीले खोस्यो दसैंको टीका, बेपत्ता आफन्तको पर्खाइमा खाली निधार",
@@ -54,48 +53,7 @@
       "source_count": 4,
       "verified": true,
       "local": false,
-      "score": 137.2,
-      "story_size": 4
-    },
-    {
-      "title": "दशैँको टीका : कतै रौनक, कतै सुनसान",
-      "link": "https://www.thahakhabar.com/detail/310697",
-      "description": "“आफ्नो सम्पत्ति सबै बगायो। आफन्त छैनन्, गाउँले छैनन्। दुई महिना बित्न लाग्दा पनि हामी शोकमै छौँ,” उनी भन्छन्, “ओहो, आज टीका पो रहेछ भन्ने लाग्छ। दसैँ आएको हो कि गएको हो, त्यसको महत्त्व नै छैन।”",
-      "published": "2026-10-21T22:11:57+05:45",
-      "source": "Thaha Khabar",
-      "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/Gemini_Generated_Image_x5pw9ax5pw9ax5pw-1792599628.jpg",
-      "related_sources": [
-        "Thaha Khabar",
-        "Khabarhub"
-      ],
-      "id": "adfb3fd455671fb1",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 135.0,
-      "story_size": 2,
-      "image_local": "images/news_ebb86d2113f0c5659dd7.jpg"
-    },
-    {
-      "title": "तलेजुमा सर्वसाधारणद्वारा कुमारीको हातबाट टीका ग्रहण, तलेजुलाई देवगृह भित्र्याइयो",
-      "link": "https://khabarhub.com/2026/21/1039386/",
-      "description": "भक्तपुर- विजयादशमीको दिन आज जीवित देवी एकान्त कुमारीको हातबाट स्थानीय सर्वसाधरणले टीका, जमरा तथा प्रसाद ग्रहण गरेका छन् । विजयादशमीको अवसरमा भक्तपुरको तलेजुमा जिवित देवीको रूपमा पुजिँदै आएको एकान्त कुमारी लुनिभा बज्राचायले सबैभन्दा पहिला साइतको टीका लगाएकी थिइन् । त्यसपछि कुमारीको हातबाट तलेजुका मूल पुजारी, नाइके, जोशी, कर्माचार्य, गुरु तथा पुरोहितले साइतको टीका लगाएको यसअघिका [&#8230;]",
-      "published": "2026-10-21T11:47:36+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
-        "Ratopati",
-        "Kendrabindu",
-        "Lokaantar"
-      ],
-      "id": "9e180dcdae4e9e17",
-      "source_count": 4,
-      "verified": true,
-      "local": false,
-      "score": 133.3,
+      "score": 122.8,
       "story_size": 4
     },
     {
@@ -114,7 +72,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 132.7,
+      "score": 118.3,
       "story_size": 2,
       "image_local": "images/news_cfd45c32b553de388f53.jpg"
     },
@@ -135,28 +93,28 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 131.1,
+      "score": 116.7,
       "story_size": 3
     },
     {
-      "title": "यातायात सहज भएसँगै लाङटाङमा पर्यटक बढ्दा व्यावसायी उत्साहित",
-      "link": "https://www.thahakhabar.com/detail/310694",
+      "title": "अमेरिका–पुटिन वार्ताबारे विस्तृत जानकारीको प्रतीक्षामा ईयू",
+      "link": "https://www.thahakhabar.com/detail/310695",
       "description": "",
-      "published": "2026-10-21T20:32:00+05:45",
+      "published": "2026-10-21T20:52:06+05:45",
       "source": "Thaha Khabar",
-      "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/lantang-1792594016.jpg",
+      "category": "world",
+      "image": "https://www.thahakhabar.com/uploads/posts/Putin-1779237149.jpg",
       "related_sources": [
         "Thaha Khabar",
-        "Khabarhub"
+        "Ratopati"
       ],
-      "id": "7751111d9755d7f7",
+      "id": "4a9918088d0d3c36",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 128.3,
+      "score": 115.3,
       "story_size": 2,
-      "image_local": "images/news_95d55737bf7b8df3313a.jpg"
+      "image_local": "images/news_8feb8f1b8d6d4544376b.jpg"
     },
     {
       "title": "थिमिमा ६२ वर्षपछि जीवित देवी कुमारीको दर्शनसहित टीका ग्रहण",
@@ -174,46 +132,48 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 126.0,
+      "score": 111.6,
       "story_size": 2
     },
     {
-      "title": "उपत्यकाका सडकमा सवारी चाप बढ्दै",
-      "link": "https://khabarhub.com/2026/21/1039395/",
-      "description": "काठमाडौँ- मान्यजनबाट विजया दशमीको टीका, जमरा र आर्शिवाद ग्रहण गर्न हिँड्ने सर्वसाधारणको चहलपहल बढेसँगै काठमाडौँ उपत्यकाका सडकमा सवारी चाप बढ्न थालेको छ । बडादसैँको फूलपाती, अष्टमी र नवमीको तुलनामा आज टीकाको शुभसाइत पछि सडकमा सवारी साधन बढेका छन् । सार्वजनिक यातायातमा यात्रु बढेसँगै भीडभाड देखिन थालेको छ । अहिले उपत्यकाभित्रिने प्रमुख नाकासहित काठमाडौँ, भक्तपुर र [&#8230;]",
-      "published": "2026-10-21T13:01:26+00:00",
-      "source": "Khabarhub",
+      "title": "तलेजुमा सर्वसाधारणद्वारा कुमारीको हातबाट टीका ग्रहण, तलेजुलाई देवगृह भित्र्याइयो",
+      "link": "https://www.ratopati.com/story/600757/in-taleju-the-public-received-tika-from-the-hands-of-the-goddess-and-taleju-was-brought-into-the-temple-of-god",
+      "description": "भक्तपुर। विजयादशमीको दिन आज जीवित देवी एकान्त कुमारीको हातबाट स्थानीय सर्वसाधरणले टीका, जमरा तथा प्रसाद ग्रहण गरेका छन्। विजयादशमीको अवसरमा भक्तपुरको तलेजुमा जिवित देवीको रूपमा पुजिँदै आएको एकान्त कुमारी लुनिभा बज्राचायले सबैभन्दा पहिला साइतको टीका लगाएका",
+      "published": "2026-10-21T11:15:41+00:00",
+      "source": "Ratopati",
       "category": "nepal",
-      "image": "",
+      "image": "https://npcdn.ratopati.com/media/news/taleju-14_VJ8MtkoXMU.webp",
       "related_sources": [
-        "Khabarhub",
-        "Ratopati"
+        "Ratopati",
+        "Kendrabindu",
+        "Lokaantar"
       ],
-      "id": "c951a12537f3e380",
-      "source_count": 2,
+      "id": "3e4a400b2a8ef013",
+      "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 118.3,
-      "story_size": 2
+      "score": 109.9,
+      "story_size": 3,
+      "image_local": "images/news_c1c7aff8058890a9d3e5.webp"
     },
     {
-      "title": "ट्रम्पद्वारा ले पेनको प्रशंसा",
-      "link": "https://khabarhub.com/2026/21/1039392/",
-      "description": "वाशिङ्टन- अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले फ्रान्सेली दक्षिणपन्थी नेतृ मरिन ले पेनलाई ‘रूढीवादी आवाज’ भन्दै प्रशंसा गरेका छन् । तर सन् २०२७ को फ्रान्सेली राष्ट्रपति निर्वाचनमा उनलाई समर्थन गर्ने विषयमा भने ट्रम्पले स्पष्ट धारणा व्यक्त गरेनन् । अमेरिकामा मध्यावधि निर्वाचन नजिकिँदै गर्दा ट्रम्पले फ्रान्सको अशान्तिलाई आप्रवासन र वामपन्थी राजनीतिविरुद्ध आफ्नो धारणा राख्ने अवसरका रूपमा प्रस्तुत गर्दै [&#8230;]",
-      "published": "2026-10-21T12:26:08+00:00",
-      "source": "Khabarhub",
-      "category": "world",
-      "image": "",
+      "title": "इन्जिनियर लामिछानेको गाई–भैँसी पालनबाट मासिक १५ लाख आम्दानी",
+      "link": "https://www.ratopati.com/story/600773/engineer-lamichhane-earns-rs-15-million-per-month-from-cattle-and-buffalo-farming",
+      "description": "काठमाडौँ । मेहनत र लगनशील भएर जुनसुकै व्यवसाय अँगाले पनि सफल भइन्छ भन्ने उदाहरण बनेका छन् गोरखाका इन्जिनियर कुमार लामिछाने । काठमाडौँ नागार्जुन नगरपालिका–६ रामकोट, डाँडापौवामा गाई तथा भैँसी पालन गरी मासिक रु १५ लाख आम्दानी",
+      "published": "2026-10-21T17:00:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/buffalo_O1KaODPW1S.jpg",
       "related_sources": [
-        "Khabarhub",
         "Ratopati"
       ],
-      "id": "0315e62c9bbe5105",
-      "source_count": 2,
-      "verified": true,
+      "id": "dabf77d1c2cea85a",
+      "source_count": 1,
+      "verified": false,
       "local": false,
-      "score": 115.9,
-      "story_size": 2
+      "score": 98.8,
+      "story_size": 1,
+      "image_local": "images/news_93250fff726da4111d56.jpg"
     },
     {
       "title": "नवदुर्गासँग जोड्दै नेवार समुदायले उल्लासमय पर्वका रूपमा मनाए मोहनी नखः",
@@ -231,7 +191,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 112.1,
+      "score": 97.8,
       "story_size": 2,
       "image_local": "images/news_4169069cdbaa3d5fd7b7.jpg"
     },
@@ -250,7 +210,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.9,
+      "score": 97.6,
       "story_size": 1,
       "image_local": "images/news_a532fde07aa021bc72c9.jpg"
     },
@@ -270,7 +230,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 111.8,
+      "score": 97.5,
       "story_size": 2
     },
     {
@@ -288,9 +248,28 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.2,
+      "score": 96.8,
       "story_size": 1,
       "image_local": "images/news_a935c680f669f6fc0900.png"
+    },
+    {
+      "title": "दशैँको टीका : कतै रौनक, कतै सुनसान",
+      "link": "https://www.thahakhabar.com/detail/310697",
+      "description": "“आफ्नो सम्पत्ति सबै बगायो। आफन्त छैनन्, गाउँले छैनन्। दुई महिना बित्न लाग्दा पनि हामी शोकमै छौँ,” उनी भन्छन्, “ओहो, आज टीका पो रहेछ भन्ने लाग्छ। दसैँ आएको हो कि गएको हो, त्यसको महत्त्व नै छैन।”",
+      "published": "2026-10-21T22:11:57+05:45",
+      "source": "Thaha Khabar",
+      "category": "nepal",
+      "image": "https://www.thahakhabar.com/uploads/posts/Gemini_Generated_Image_x5pw9ax5pw9ax5pw-1792599628.jpg",
+      "related_sources": [
+        "Thaha Khabar"
+      ],
+      "id": "adfb3fd455671fb1",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 96.6,
+      "story_size": 1,
+      "image_local": "images/news_ebb86d2113f0c5659dd7.jpg"
     },
     {
       "title": "१० बजे १० समाचार : दसैँको पहिलो दिन यस्ता छन् आजका प्रमुख समाचार",
@@ -307,7 +286,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.2,
+      "score": 95.8,
       "story_size": 1,
       "image_local": "images/news_754cbdb82297225ddf85.webp"
     },
@@ -326,7 +305,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.6,
+      "score": 95.3,
       "story_size": 1,
       "image_local": "images/news_71f45bb8f5bebd868d98.jpg"
     },
@@ -345,27 +324,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.4,
+      "score": 95.1,
       "story_size": 1,
       "image_local": "images/news_6ca819272a4ab7db02e6.jpg"
-    },
-    {
-      "title": "मैथिल परम्पराको रावणवध उत्सव सम्पन्न",
-      "link": "https://baahrakhari.com/detail/505436",
-      "description": "",
-      "published": "2026-10-21T22:07:24+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "1536eee44282d9e7",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 107.7,
-      "story_size": 1
     },
     {
       "title": "क्यासिनोबाट पाँच जना प्रहरी नियन्त्रणमा",
@@ -383,7 +344,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 107.6,
+      "score": 93.2,
       "story_size": 2
     },
     {
@@ -401,9 +362,28 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.0,
+      "score": 92.7,
       "story_size": 1,
       "image_local": "images/news_fdb1f3728f27ddef02ff.webp"
+    },
+    {
+      "title": "यातायात सहज भएसँगै लाङटाङमा पर्यटक बढ्दा व्यावसायी उत्साहित",
+      "link": "https://www.thahakhabar.com/detail/310694",
+      "description": "",
+      "published": "2026-10-21T20:32:00+05:45",
+      "source": "Thaha Khabar",
+      "category": "nepal",
+      "image": "https://www.thahakhabar.com/uploads/posts/lantang-1792594016.jpg",
+      "related_sources": [
+        "Thaha Khabar"
+      ],
+      "id": "7751111d9755d7f7",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 90.0,
+      "story_size": 1,
+      "image_local": "images/news_95d55737bf7b8df3313a.jpg"
     },
     {
       "title": "नर्वे बसेर मानसिक स्वास्थ्य अनुसन्धानमा सक्रिय डाक्टर",
@@ -420,25 +400,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.3,
-      "story_size": 1
-    },
-    {
-      "title": "बङ्गलादेशका क्रिकेटर मेहदी हसनले पोखराबाट एनपिएल खेल्ने",
-      "link": "https://khabarhub.com/2026/21/1039406/",
-      "description": "काठमाडौं – बङ्गलादेशका अलराउन्डर मेहदी हसनले नेपाल प्रिमियर लिग (एनपिएल) को तेस्रो संस्करण पोखरा एभेन्जर्सबाट खेल्ने भएका छन् । पोखराले उनलाई आज टोलीमा अनुबन्ध गरेको जनाएको हो । ‘‘बङ्गलादेशका उत्कृष्ट अलराउन्डर तथा आइसिसी टी–२० अन्तरराष्ट्रिय बलिङ बरियतामा आठौँ स्थानमा रहेका हसन एनपिएलको तेस्रो संस्करणमा एभेन्जर्सको जर्सीमा खेल्न छन्,’’ पोखराले आज सामाजिक सञ्जाल फेसबुक पेजमा लेखेको [&#8230;]",
-      "published": "2026-10-21T15:00:26+00:00",
-      "source": "Khabarhub",
-      "category": "sports",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "9cfffa37abb34635",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 102.2,
+      "score": 87.9,
       "story_size": 1
     },
     {
@@ -456,27 +418,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.2,
+      "score": 87.8,
       "story_size": 1,
       "image_local": "images/news_3a26d7bdc2630b540dbd.webp"
-    },
-    {
-      "title": "एनपीएलका सबै खेलले पाए लिस्ट ‘ए’ टी–२० मान्यता",
-      "link": "https://khabarhub.com/2026/21/1039404/",
-      "description": "काठमाडौं &#8211; नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करणका सबै खेलले अन्तर्राष्ट्रिय क्रिकेट परिषद् (आईसीसी)बाट लिस्ट ‘ए’ टी–२० को आधिकारिक मान्यता पाएका छन् । नेपाल क्रिकेट संघ (क्यान)ले बुधबार विज्ञप्ति जारी गर्दै प्रतियोगिताका सम्पूर्ण खेलले उक्त मान्यता पाएको जानकारी दिएको हो । यसअघि आईसीसीले एनपीएलको तेस्रो संस्करणलाई औपचारिक मान्यता दिएको थियो । अब प्रतियोगिताका सबै [&#8230;]",
-      "published": "2026-10-21T14:49:55+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "723bda0b51cfe452",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 101.5,
-      "story_size": 1
     },
     {
       "title": "थिमिमा ६२ वर्षपछि थालियो जीवित देवीको दर्शनसहित टीका ग्रहण गर्ने परम्परा",
@@ -493,7 +437,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.9,
+      "score": 86.5,
       "story_size": 1,
       "image_local": "images/news_bda91dcf1abf038385d3.jpg"
     },
@@ -512,7 +456,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.7,
+      "score": 86.3,
       "story_size": 1
     },
     {
@@ -530,7 +474,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.5,
+      "score": 86.2,
       "story_size": 1
     },
     {
@@ -548,27 +492,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.4,
+      "score": 86.0,
       "story_size": 1
-    },
-    {
-      "title": "गाउँबाट सहर पसेको पिङ संस्कृति",
-      "link": "https://gorkhapatraonline.com/news/227098",
-      "description": "गजेन्द्र गुरुङखजुरा (बाँके), कात्तिक ४ गते । दसैँको आगमनसँगै गाउँघरमा सुनिने पिङका चचहुई आवाज अहिले सहरको होटल र सार्वजनिक स्थलमा सुनिन थालेको छ । कुनै समय गाउँका युवा एकजुट भएर बन...",
-      "published": "2026-10-21T19:27:20+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/388694/conversions/Ping-NPJ-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "3f118cc8580b99b9",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 100.0,
-      "story_size": 1,
-      "image_local": "images/news_96bde610732ba3bc8f91.jpg"
     },
     {
       "title": "इजरायलमा युवा मतदातामाझ बढ्दै दक्षिणपन्थी राजनीतिको आकर्षण",
@@ -585,7 +510,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.1,
+      "score": 84.7,
       "story_size": 1
     },
     {
@@ -603,29 +528,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.1,
+      "score": 84.7,
       "story_size": 1,
       "image_local": "images/news_2a2273aff4ffd011802e.jpg"
-    },
-    {
-      "title": "ब्रह्मपुरी गाउँपालिका अध्यक्ष साहको निधन",
-      "link": "https://gorkhapatraonline.com/news/227090",
-      "description": "जनार्जन खत्रीसर्लाही, कात्तिक ४ गते । सर्लाहीको ब्रह्मपुरी गाउँपालिकाका अध्यक्ष रामपदारथ साहको बुधबार निधन भएको छ । ब्रह्मपुरी गाउँपालिका –२ घर भएका ८५ वर्षीय साहको बुधबार बिहान का...",
-      "published": "2026-10-21T13:06:48+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/388683/conversions/Ram-Padaratha-Sha-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online",
-        "OnlineKhabar"
-      ],
-      "id": "4b05a81118e8764e",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 98.6,
-      "story_size": 2,
-      "image_local": "images/news_217ed666eeb59650d729.jpg"
     },
     {
       "title": "नेपालका लागि सार्कको ठाउँ बिमस्टेकले लिन सक्ला ?",
@@ -642,27 +547,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.2,
+      "score": 83.8,
       "story_size": 1,
       "image_local": "images/news_292b118e28139cddff70.webp"
-    },
-    {
-      "title": "ग्रीसमा पनि विद्यार्थी र शिक्षकद्वारा प्रदर्शन",
-      "link": "https://khabarhub.com/2026/21/1039399/",
-      "description": "एथेन्स- जीवनयापनको बढ्दो लागत, विद्यार्थीका लागि सस्तो आवासको अभाव र शिक्षा क्षेत्रमा सरकारी लगानी वृद्धि गर्न माग गर्दै ग्रीसको राजधानी एथेन्समा बुधबार हजारौँ विद्यार्थी र शिक्षकले प्रदर्शन गरेका छन् । युरोपभर बढ्दो महँगीविरुद्ध विरोध प्रदर्शन भइरहेका बेला ग्रीसका अन्य सहरमा पनि विद्यार्थी र शिक्षकले जुलुस निकालेका छन् । उत्तरी सहर थेसालोनिकी र पश्चिमी बन्दरगाह सहर [&#8230;]",
-      "published": "2026-10-21T13:56:38+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "7e78513f878c40d6",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 97.9,
-      "story_size": 1
     },
     {
       "title": "यस्तो रह्यो कलाकारको दसैं, हेर्नुहोस् तस्बिरमा",
@@ -679,7 +566,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.8,
+      "score": 83.4,
       "story_size": 1
     },
     {
@@ -697,7 +584,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.4,
+      "score": 83.1,
       "story_size": 1
     },
     {
@@ -715,7 +602,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.4,
+      "score": 83.0,
       "story_size": 1
     },
     {
@@ -733,27 +620,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.3,
+      "score": 82.9,
       "story_size": 1
-    },
-    {
-      "title": "पूर्व राष्ट्रपति भण्डारीद्वारा छोरी-ज्वाईँलाई टीका प्रदान",
-      "link": "https://gorkhapatraonline.com/news/227097",
-      "description": "गोरखापत्र अनलाइनकाठमाडौँ, कात्तिक ४ गते । पूर्व राष्ट्रपति विद्यादेवी भण्डारीले विजयादशमीको अवसरमा आमा मिथिला पाण्डेबाट जमरा ग्रहण गरी आर्शीवाद लिनुभएको छ। उहाँले छोरी–ज्वाँईलाई पन...",
-      "published": "2026-10-21T18:47:22+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "politics",
-      "image": "https://gorkhapatraonline.com/storage/media/388695/conversions/Vidhya-Bhandari-Dashain-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "9e37c8859027550f",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 97.3,
-      "story_size": 1,
-      "image_local": "images/news_4c15c70ee2c027021343.jpg"
     },
     {
       "title": "एनपीएलका खेललाई आईसीसीको लिस्ट ए टी-२० मान्यता",
@@ -770,7 +638,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.2,
+      "score": 82.9,
       "story_size": 1
     },
     {
@@ -788,7 +656,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.2,
+      "score": 82.9,
       "story_size": 1
     },
     {
@@ -806,7 +674,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.0,
+      "score": 82.7,
       "story_size": 1,
       "image_local": "images/news_d48c0e23ee46f28a14b3.png"
     },
@@ -825,8 +693,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.9,
+      "score": 82.5,
       "story_size": 1
+    },
+    {
+      "title": "उपत्यकाका सडकमा सवारी चाप बढ्दै",
+      "link": "https://www.ratopati.com/story/600763/traffic-congestion-on-the-roads-of-the-valley-is-increasing",
+      "description": "काठमाडौँ। मान्यजनबाट विजया दशमीको टीका, जमरा र आर्शिवाद ग्रहण गर्न हिँड्ने सर्वसाधारणको चहलपहल बढेसँगै काठमाडौँ उपत्यकाका सडकमा सवारी चाप बढ्न थालेको छ । बडादसैँको फूलपाती, अष्टमी र नवमीको तुलनामा आज टीकाको शुभसाइत पछि सडकमा सवारी साधन",
+      "published": "2026-10-21T12:55:35+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/sawari_VDdeh3eVDO.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "9c580aa72f51642f",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 82.5,
+      "story_size": 1,
+      "image_local": "images/news_2cc7e6c0e0527879cfaf.jpg"
     },
     {
       "title": "खडेरी प्रभावित अफगानिस्तानमा खानेपानीका १० सञ्जाल सञ्चालनमा",
@@ -843,7 +730,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.7,
+      "score": 82.4,
       "story_size": 1,
       "image_local": "images/news_b7575230924f5c7bc11a.png"
     },
@@ -862,27 +749,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.6,
+      "score": 82.3,
       "story_size": 1
-    },
-    {
-      "title": "कैलाली प्रहरीलाई ड्युटीमै दसैंको टीका",
-      "link": "https://gorkhapatraonline.com/news/227096",
-      "description": "अविनाश चौधरीधनगढी, कात्तिक ४ गते । कैलालीको धनगढीस्थित जिल्ला प्रहरी कार्यालयमा कार्यरत प्रहरीले ड्युटीमै दसैं मनाएका छन् । दसैंको बिदा नपाएका उनीहरुले जिल्ला प्रहरी कार्यालयमा ड्य...",
-      "published": "2026-10-21T18:36:54+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "society",
-      "image": "https://gorkhapatraonline.com/storage/media/388690/conversions/Duty-mai-manaye-dasain.-222-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "263bcd77305c067e",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 96.6,
-      "story_size": 1,
-      "image_local": "images/news_5a9db8402fb0a26fae48.jpg"
     },
     {
       "title": "बङ्गलादेशी, पाकिस्तानी र भारतीय नागरिकलाई सरकारी लाभ नदिन बेलायती सांसद रूपर्टको माग",
@@ -899,7 +767,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.3,
+      "score": 82.0,
       "story_size": 1
     },
     {
@@ -917,7 +785,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.0,
+      "score": 81.6,
       "story_size": 1
     },
     {
@@ -935,7 +803,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.7,
+      "score": 81.3,
       "story_size": 1
     },
     {
@@ -953,7 +821,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.7,
+      "score": 81.3,
       "story_size": 1,
       "image_local": "images/news_c6ebb6bb5103fff3cef8.webp"
     },
@@ -972,9 +840,28 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.6,
+      "score": 81.2,
       "story_size": 1,
       "image_local": "images/news_754f56e3696302b4ab92.jpg"
+    },
+    {
+      "title": "फ्रान्समा हिंसा बढ्दा पर्यटक र पर्यटन व्यवसायी चिन्तित",
+      "link": "https://www.ratopati.com/story/600760/tourists-and-tourism-professionals-concerned-as-violence-increases-in-france",
+      "description": "काठमाडाैँ। फ्रान्सका विभिन्न सहरमा भएका दङ्गाका दृश्य विश्वभर फैलिएपछि देशको महत्वपूर्ण पर्यटन क्षेत्रमा नकारात्मक असर पर्ने चिन्ता बढेको छ। हिंसा दोहोरिएमा पर्यटकको आगमन र पर्यटन आम्दानीमा थप गिरावट आउन सक्ने पर्यटन व्यवसायीहरूले चेतावनी दिएका छन्। फ्रान्सको",
+      "published": "2026-10-21T12:30:55+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://npcdn.ratopati.com/media/news/france-flag1_Qzzua6IRdw.png",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "db7501669cbdcbfd",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 80.9,
+      "story_size": 1,
+      "image_local": "images/news_ad861ad7faad2df19bb8.png"
     },
     {
       "title": "काठमाडौं उपत्यकाका सडकमा बढ्न थाल्यो सवारी चाप",
@@ -991,7 +878,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.2,
+      "score": 80.8,
       "story_size": 1
     },
     {
@@ -1009,27 +896,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.2,
+      "score": 80.8,
       "story_size": 1
-    },
-    {
-      "title": "फ्रान्समा हिंसा बढ्दा पर्यटक र पर्यटन व्यवसायी चिन्तित",
-      "link": "https://www.ratopati.com/story/600760/tourists-and-tourism-professionals-concerned-as-violence-increases-in-france",
-      "description": "काठमाडाैँ। फ्रान्सका विभिन्न सहरमा भएका दङ्गाका दृश्य विश्वभर फैलिएपछि देशको महत्वपूर्ण पर्यटन क्षेत्रमा नकारात्मक असर पर्ने चिन्ता बढेको छ। हिंसा दोहोरिएमा पर्यटकको आगमन र पर्यटन आम्दानीमा थप गिरावट आउन सक्ने पर्यटन व्यवसायीहरूले चेतावनी दिएका छन्। फ्रान्सको",
-      "published": "2026-10-21T12:30:55+00:00",
-      "source": "Ratopati",
-      "category": "business",
-      "image": "https://npcdn.ratopati.com/media/news/france-flag1_Qzzua6IRdw.png",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "db7501669cbdcbfd",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 95.2,
-      "story_size": 1,
-      "image_local": "images/news_ad861ad7faad2df19bb8.png"
     },
     {
       "title": "बाढीबाट प्रभावित क्षेत्रमा गर्भवती महिलालाई पोषण र नियमित परीक्षणको कस्तो सुविधा",
@@ -1046,7 +914,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.7,
+      "score": 80.4,
       "story_size": 1,
       "image_local": "images/news_56d002f07823585161c2.jpg"
     },
@@ -1065,8 +933,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.3,
+      "score": 80.0,
       "story_size": 1
+    },
+    {
+      "title": "ट्रम्पद्वारा ले पेनको प्रशंसा",
+      "link": "https://www.ratopati.com/story/600758/trump-praises-le-pen",
+      "description": "काठमाडाैँ। अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले फ्रान्सेली दक्षिणपन्थी नेतृ मरिन ले पेनलाई ‘रूढीवादी आवाज’ भन्दै प्रशंसा गरेका छन्। तर सन् २०२७ को फ्रान्सेली राष्ट्रपति निर्वाचनमा उनलाई समर्थन गर्ने विषयमा भने ट्रम्पले स्पष्ट धारणा व्यक्त गरेनन्। अमेरिकामा मध्यावधि",
+      "published": "2026-10-21T12:15:18+00:00",
+      "source": "Ratopati",
+      "category": "world",
+      "image": "https://npcdn.ratopati.com/media/news/donald-trump_FUr1nI7sW4.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "b8e852acef1701a9",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 79.8,
+      "story_size": 1,
+      "image_local": "images/news_3bb60c9aba427d24f6c2.jpg"
     },
     {
       "title": "लक्ष्य र रुचिलाई पन्छाउँदै नियतिले साधुकै भविष्यवाणी अनुसार यहाँसम्म डोर्‍यायो",
@@ -1083,7 +970,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.2,
+      "score": 79.8,
       "story_size": 1,
       "image_local": "images/news_7f0fd87776177b0d6431.jpg"
     },
@@ -1102,7 +989,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.2,
+      "score": 79.8,
       "story_size": 1,
       "image_local": "images/news_c933e7096ce147210252.webp"
     },
@@ -1121,7 +1008,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.7,
+      "score": 78.4,
       "story_size": 1
     },
     {
@@ -1139,7 +1026,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.6,
+      "score": 78.3,
       "story_size": 1
     },
     {
@@ -1157,7 +1044,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.5,
+      "score": 78.2,
       "story_size": 1
     },
     {
@@ -1175,7 +1062,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.8,
+      "score": 77.5,
       "story_size": 1
     },
     {
@@ -1193,7 +1080,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.7,
+      "score": 77.4,
       "story_size": 1
     },
     {
@@ -1211,25 +1098,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.4,
-      "story_size": 1
-    },
-    {
-      "title": "इन्जिनियर लामिछानेको गाई–भैँसी पालनबाट मासिक १५ लाख आम्दानी",
-      "link": "https://khabarhub.com/2026/21/1039389/",
-      "description": "काठमाडौँ- मेहनत र लगनशील भएर जुनसुकै व्यवसाय अँगाले पनि सफल भइन्छ भन्ने उदाहरण बनेका छन् गोरखाका इन्जिनियर कुमार लामिछाने । काठमाडौँ नागार्जुन नगरपालिका–६ रामकोट, डाँडापौवामा गाई तथा भैँसीपालन गरी मासिक रु १५ लाख आम्दानी गरेर इन्जिनियर लामिछाने समाजमा उदाहरणीय बन्न सफल भएका छन् । गोरखा सिरानचोक गाउँपालिका–७ खहरेका सिभिल इन्जिनियर लामिछानेले २०७७ साल जेठमा क्षितिज [&#8230;]",
-      "published": "2026-10-21T12:09:38+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "238b656f9fb437ed",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 90.8,
+      "score": 77.1,
       "story_size": 1
     },
     {
@@ -1247,7 +1116,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.5,
+      "score": 76.2,
       "story_size": 1
     },
     {
@@ -1265,7 +1134,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.0,
+      "score": 75.7,
       "story_size": 1
     },
     {
@@ -1283,7 +1152,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.4,
+      "score": 75.1,
       "story_size": 1
     },
     {
@@ -1301,7 +1170,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.8,
+      "score": 73.4,
       "story_size": 1,
       "image_local": "images/news_dbc685bca6ffa94b2d6a.jpg"
     },
@@ -1320,7 +1189,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.5,
+      "score": 73.1,
       "story_size": 1,
       "image_local": "images/news_0c25cd43af1cb7f48caf.webp"
     },
@@ -1339,27 +1208,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.2,
+      "score": 72.9,
       "story_size": 1
-    },
-    {
-      "title": "क्यासिनो खेल्ने पाँच जना प्रहरीको नियन्त्रणमा",
-      "link": "https://gorkhapatraonline.com/news/227095",
-      "description": "वीरगन्ज (पर्सा), कात्तिक ४ गते । क्यासिनोभित्र प्रवेश गराई जुवा खेल्ने–खेलाउने कार्यमा संलग्न पाँच जनालाई प्रहरीले नियन्त्रणमा लिएको छ । वीरगञ्ज महानगरपालिका –१४ गण्डकस्थित गोल्डेन...",
-      "published": "2026-10-21T16:11:09+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "society",
-      "image": "https://gorkhapatraonline.com/storage/media/388689/conversions/arrest2-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "eeeb3268142d2bd3",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 86.9,
-      "story_size": 1,
-      "image_local": "images/news_b52c7d294bcb921e97c0.jpg"
     },
     {
       "title": "टीका लगाएर बसन्तपुर घुमघाम (तस्वीरहरू)",
@@ -1376,7 +1226,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.6,
+      "score": 72.3,
       "story_size": 1
     },
     {
@@ -1394,7 +1244,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.6,
+      "score": 72.3,
       "story_size": 1
     },
     {
@@ -1412,7 +1262,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.2,
+      "score": 71.8,
       "story_size": 1,
       "image_local": "images/news_837c4d2ee6c65450c6ae.jpg"
     },
@@ -1431,7 +1281,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.0,
+      "score": 71.7,
       "story_size": 1
     },
     {
@@ -1449,7 +1299,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.5,
+      "score": 71.2,
       "story_size": 1,
       "image_local": "images/news_2b910a8a06aeff2ec2a1.jpg"
     },
@@ -1468,7 +1318,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.1,
+      "score": 70.7,
       "story_size": 1
     },
     {
@@ -1486,44 +1336,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.0,
-      "story_size": 1
-    },
-    {
-      "title": "मुस्लिम अगुवाहरुले लगाउनुभयो दसैंको टीका र जमरा",
-      "link": "https://gorkhapatraonline.com/news/227094",
-      "description": "सिराज खान नेपालगन्ज, कात्तिक ४ गते । धार्मिक सद्भावको सहरको रुपमा परिचित नेपालगन्जमा बडादसैंको अवसरमा मुस्लिम समुदायका अगुवाहरूले पनि हिन्दु समुदायका मान्यजनबाट टीका जमरा लगाएर दसै...",
-      "published": "2026-10-21T15:36:25+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/388688/conversions/tika-lagaypachi-pic-lindai-mansuri-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "645f530c4fa8265b",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 84.6,
-      "story_size": 1,
-      "image_local": "images/news_e3afd239dc0efaf083c3.jpg"
-    },
-    {
-      "title": "अमेरिकी हुलाक सेवालाई १२ करोड ६० लाख डलर बराबरको नोक्सानी पुर्‍याउने व्यक्ति पाकिस्तानमा पक्राउ",
-      "link": "https://www.bbc.com/nepali/articles/c5vgjkdd78wjo?at_medium=RSS&at_campaign=rss",
-      "description": "आरोपितमाथि अमेरिकालाई ठगी गर्ने षड्यन्त्र गरेको, नक्कली हुलाक टिकटहरू उत्पादन तथा विक्री गरेको, नक्कली हुलाक टिकट लेबलहरू उत्पादन तथा विक्री गरेको र 'वायर फ्रड' अर्थात्‌ विद्युतीय माध्यमबाट गरिने ठगी गरेको लगायतका अभियोगहरू लगाइएको छ।",
-      "published": "2026-10-21T09:37:53+00:00",
-      "source": "BBC Nepali",
-      "category": "business",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0ab5/live/5a58ebd0-cd2f-11f1-9a39-31b474234113.jpg",
-      "related_sources": [
-        "BBC Nepali"
-      ],
-      "id": "3140b3e9e8d66e53",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 83.7,
+      "score": 70.7,
       "story_size": 1
     },
     {
@@ -1541,8 +1354,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.6,
+      "score": 69.3,
       "story_size": 1
+    },
+    {
+      "title": "अमेरिकी हुलाक सेवालाई १२ करोड ६० लाख डलर बराबरको नोक्सानी पुर्‍याउने व्यक्ति पाकिस्तानमा पक्राउ",
+      "link": "https://www.bbc.com/nepali/articles/c5vgjkdd78wjo?at_medium=RSS&at_campaign=rss",
+      "description": "आरोपितमाथि अमेरिकालाई ठगी गर्ने षड्यन्त्र गरेको, नक्कली हुलाक टिकटहरू उत्पादन तथा विक्री गरेको, नक्कली हुलाक टिकट लेबलहरू उत्पादन तथा विक्री गरेको र 'वायर फ्रड' अर्थात्‌ विद्युतीय माध्यमबाट गरिने ठगी गरेको लगायतका अभियोगहरू लगाइएको छ।",
+      "published": "2026-10-21T09:37:53+00:00",
+      "source": "BBC Nepali",
+      "category": "business",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0ab5/live/5a58ebd0-cd2f-11f1-9a39-31b474234113.jpg",
+      "related_sources": [
+        "BBC Nepali"
+      ],
+      "id": "3140b3e9e8d66e53",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 69.3,
+      "story_size": 1,
+      "image_local": "images/news_f5afd321ace09267f2cb.jpg"
     },
     {
       "title": "फिफा यू-१५ विश्वकप तथा फेस्टिभल खेल्न नेपाली टोली अजरबैजान प्रस्थान",
@@ -1559,61 +1391,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.3,
-      "story_size": 1
-    },
-    {
-      "title": "स्पेसएक्स र टेस्ला गाभ्ने मस्कको प्रस्ताव",
-      "link": "https://www.ratopati.com/story/600748/musks-proposal-to-merge-spacex-and-tesla",
-      "description": "काठमाडाैँ। अमेरिकी अर्बपति एलन मस्कले स्पेसएक्स र टेस्ला कम्पनी गाभ्ने प्रस्तावलाई समर्थन गरेका छन्। यसैबिच स्पेसएक्सले जुलाईदेखि सेप्टेम्बरसम्म चार अर्ब ४० करोड अमेरिकी डलर खुद नाफा कमाएको छ। अघिल्लो वर्ष सोही अवधिमा एक अर्ब १०",
-      "published": "2026-10-21T09:08:06+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/elon-musk_64ubVjpTe4.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "1f8c198b7ed06b01",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 81.7,
-      "story_size": 1
-    },
-    {
-      "title": "तस्बिरमा यस्ताे देखियाे कलाकारहरूकाे दसैँ",
-      "link": "https://www.ratopati.com/story/600749/this-is-how-the-dashain-celebrations-of-the-artists-looked-in-the-photos",
-      "description": "काठमाडौँ। नेपालीहरूको महान् पर्व बडादसैँ २०८३ नेपाली कलाकारले पनि हर्षोल्लासका साथ मनाएका छन्। कलाकारहरूले परिवार तथा आफन्तसँग भेटघाट गर्दै मान्यजनबाट टीका–जमरा र आशीर्वाद लिएर बुधबार दसैँ मनाएका हुन्। दसैँ कलाकारका लागि पनि पारिवारिक जमघट, आत्मीयता र बाल्यकालका",
-      "published": "2026-10-21T09:03:54+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/ddd_9nv6eTqY4G.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "55efe33bfa4779c5",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 81.4,
-      "story_size": 1
-    },
-    {
-      "title": "धनकुटाको आठपहरिया समुदायमा छैन दसैं",
-      "link": "https://gorkhapatraonline.com/news/227093",
-      "description": "सन्तोष सुवेदीपाख्रीबास (धनकुटा), कात्तिक ४ गते । आज नेपाली हिन्दुहरुको महान चाड बडादसैको दशौं दिन अर्थात् विजया दशमीको दिन हो । घर–घरमा हर्ष र उमङ् छाएको छ । दसैंमा मान्यजनको हातबा...",
-      "published": "2026-10-21T14:36:11+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/388687/conversions/DSC08885-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "71ca41cf819e923a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 80.6,
+      "score": 68.0,
       "story_size": 1
     },
     {
@@ -1631,7 +1409,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.7,
+      "score": 63.3,
       "story_size": 1
     },
     {
@@ -1649,43 +1427,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.6,
-      "story_size": 1
-    },
-    {
-      "title": "उपराष्ट्रपति यादवद्वारा बडादसैँको टीका ग्रहण",
-      "link": "https://gorkhapatraonline.com/news/227092",
-      "description": "काठमाडौँ, कात्तिक ४ गते । उपराष्ट्रपति रामसहायप्रसाद यादवले आज बिहानको शुभ साइतमा विजयादशमीको टीका, प्रसाद र जमरा ग्रहण गर्नुभएको छ ।उपराष्ट्रपति यादवले उपराष्ट्रपति भवन लैनचौरमा आ...",
-      "published": "2026-10-21T13:45:22+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "politics",
-      "image": "https://gorkhapatraonline.com/storage/media/388686/conversions/Up-Shah-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "77ce993113f861b8",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 77.2,
-      "story_size": 1
-    },
-    {
-      "title": "राष्ट्रपति पौडेलद्वारा शुभ साइतमा बडादसैँको टीका ग्रहण",
-      "link": "https://gorkhapatraonline.com/news/227091",
-      "description": "काठमाडौँ, कात्तिक ४ गते । राष्ट्रपति रामचन्द्र पौडेलले आज बिहानको शुभ साइतमा यस वर्षको बडादसैँको टीका, प्रसाद र जमरा ग्रहण गर्नुभएको छ ।राष्ट्रपति भवन शीतल निवासमा राष्ट्रपति पौडेल...",
-      "published": "2026-10-21T13:35:56+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "politics",
-      "image": "https://gorkhapatraonline.com/storage/media/388684/conversions/R-1-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "8757701cdb39acf0",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 76.6,
+      "score": 63.2,
       "story_size": 1
     },
     {
@@ -1703,7 +1445,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.3,
+      "score": 61.0,
       "story_size": 1
     },
     {
@@ -1721,8 +1463,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.5,
-      "story_size": 1
+      "score": 60.1,
+      "story_size": 1,
+      "image_local": "images/news_8376544084d112575287.jpg"
     },
     {
       "title": "यू–१९ महिला विश्वकपका १५ खेल नेपालमा हुने",
@@ -1739,7 +1482,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.8,
+      "score": 58.4,
       "story_size": 1
     },
     {
@@ -1757,7 +1500,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.4,
+      "score": 58.1,
       "story_size": 1
     },
     {
@@ -1775,7 +1518,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.3,
+      "score": 56.9,
       "story_size": 1
     },
     {
@@ -1793,7 +1536,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.3,
+      "score": 55.9,
       "story_size": 1
     },
     {
@@ -1811,7 +1554,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.2,
+      "score": 53.8,
       "story_size": 1
     },
     {
@@ -1829,7 +1572,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.2,
+      "score": 52.9,
       "story_size": 1
     },
     {
@@ -1847,7 +1590,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.5,
+      "score": 52.2,
       "story_size": 1
     },
     {
@@ -1865,25 +1608,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.5,
-      "story_size": 1
-    },
-    {
-      "title": "मुक्तिनाथ मन्दिरमा दर्शनका लागि आएकालाई टीका",
-      "link": "https://gorkhapatraonline.com/news/227089",
-      "description": "हरिकृष्ण शर्मामुक्तिनाथ (मुस्ताङ), कात्तिक ४ गते । हिन्दू धर्मालम्बीहरूको पवित्र तिर्थस्थल मुस्ताङको वारागुङ मुक्तिक्षेत्र गाउँपालिका–१, मा अवस्थित मुक्तिनाथ मन्दिरको दर्शनका लागि...",
-      "published": "2026-10-21T11:04:17+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/388682/conversions/muktinath-1-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "505377330dcf9694",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 66.4,
+      "score": 52.2,
       "story_size": 1
     },
     {
@@ -1901,7 +1626,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 64.9,
+      "score": 50.5,
       "story_size": 1
     },
     {
@@ -1919,7 +1644,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 64.3,
+      "score": 50.0,
       "story_size": 1
     },
     {
@@ -1937,7 +1662,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 64.1,
+      "score": 49.8,
       "story_size": 1
     },
     {
@@ -1955,7 +1680,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 63.4,
+      "score": 49.0,
+      "story_size": 1
+    },
+    {
+      "title": "ब्रह्मपुरी गाउँपालिका अध्यक्ष राम पदार्थ साहको निधन",
+      "link": "https://www.onlinekhabar.com/2026/10/2042192/brahmapuri-rural-municipality-chairman-ram-satar-sah-passes-away",
+      "description": "४ कात्तिक, सर्लाही । सर्लाहीको ब्रह्मपुरी गाउँपालिकाका अध्यक्ष राम पदार्थ साह तेलीको ८५ वर्षको उमेरमा निधन भएको छ । सामान्य रुघाखोकी र ज्वरोबाट पीडित साहको काठमाडौंमा निधन भएको हो । परिवारका अनुसार उनी एक सातादेखि काठमाडौंस्थित एक अस्पतालमा उपचाररत थिए । स्वास्थ्यमा सुधार आएपछि अस्पतालले उनलाई मंगलबार डिस्चार्ज गरेको थियो । उपचारपछि निको भएर घर [&#8230;]",
+      "published": "2026-10-21T05:17:18+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "d866b8dbbb35b8bb",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 49.0,
       "story_size": 1
     },
     {
@@ -1973,7 +1716,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 62.6,
+      "score": 48.3,
       "story_size": 1
     },
     {
@@ -1991,7 +1734,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 62.4,
+      "score": 48.1,
       "story_size": 1
     },
     {
@@ -2009,7 +1752,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 61.9,
+      "score": 47.6,
       "story_size": 1
     },
     {
@@ -2027,7 +1770,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 61.6,
+      "score": 47.2,
       "story_size": 1
     },
     {
@@ -2045,7 +1788,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 61.1,
+      "score": 46.7,
       "story_size": 1
     },
     {
@@ -2063,7 +1806,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 60.5,
+      "score": 46.2,
       "story_size": 1
     },
     {
@@ -2081,7 +1824,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 59.9,
+      "score": 45.6,
       "story_size": 1
     },
     {
@@ -2099,7 +1842,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 59.6,
+      "score": 45.3,
       "story_size": 1
     },
     {
@@ -2117,7 +1860,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 55.4,
+      "score": 41.1,
       "story_size": 1
     },
     {
@@ -2135,7 +1878,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 55.3,
+      "score": 41.0,
       "story_size": 1
     },
     {
@@ -2153,7 +1896,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 54.6,
+      "score": 40.2,
       "story_size": 1
     },
     {
@@ -2171,7 +1914,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 54.1,
+      "score": 39.8,
       "story_size": 1
     },
     {
@@ -2189,7 +1932,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 53.0,
+      "score": 38.7,
       "story_size": 1
     },
     {
@@ -2207,7 +1950,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 51.5,
+      "score": 37.1,
       "story_size": 1
     },
     {
@@ -2225,7 +1968,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 51.1,
+      "score": 36.8,
       "story_size": 1
     },
     {
@@ -2243,7 +1986,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 50.8,
+      "score": 36.5,
       "story_size": 1
     },
     {
@@ -2261,7 +2004,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 50.1,
+      "score": 35.8,
       "story_size": 1
     },
     {
@@ -2279,7 +2022,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 48.1,
+      "score": 33.8,
       "story_size": 1
     },
     {
@@ -2297,7 +2040,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 47.6,
+      "score": 33.3,
       "story_size": 1
     },
     {
@@ -2315,7 +2058,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 47.3,
+      "score": 32.9,
       "story_size": 1
     },
     {
@@ -2333,7 +2076,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 43.2,
+      "score": 28.9,
       "story_size": 1
     },
     {
@@ -2351,7 +2094,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 40.2,
+      "score": 25.8,
       "story_size": 1
     },
     {
@@ -2762,6 +2505,96 @@
         "Lokaantar"
       ],
       "id": "a58efce7111ff0ff",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 10,
+      "story_size": 1
+    },
+    {
+      "title": "इटलीमा हिंसक प्रदर्शनविरुद्ध कडा कानुन: नाबालिगले तोडफोड गरे आमाबाबुले क्षतिपूर्ति तिर्नुपर्ने",
+      "link": "http://lokaantar.com/story/331691/2026/10/21/taly-new-security-rules-",
+      "description": "इटलीमा हिंसक प्रदर्शनविरुद्ध कडा कानुनस् नाबालिगले तोडफोड गरे आमाबाबुले क्षतिपूर्ति तिर्नुपर्ने, ५ वर्ष जेल र २१ लाखसम्म जरिवानाइटलीमा हिंसक प्रदर्शन, लुटपाट र तोडफोडमा संलग्न हुनेहरूविरुद्ध त्यहाँको सरकारले कडा कानुन र सुरक्षा नीति ल्याएको छ। अब हिंसक प्रदर्शनमा सहभागी हुनेहरूलाई ५ वर्षसम्म जेल सजाय र २३ हजार युरोसम्म जरिवाना हुन सक्नेछ।राजधानी रोम र मिलानका मुख्य व्यापारिक क्षेत्रहरूमा पसलहरूमा लुटपाट तथा आगजनी भएपछि मङ्गलबार प्रधानमन्त्री जर्जिया मेलोनीको सरकारले नयाँ सुरक्षा नियमहरूलाई स्वीक",
+      "published": "",
+      "source": "Lokaantar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Lokaantar"
+      ],
+      "id": "103e9c56712a63c7",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 10,
+      "story_size": 1
+    },
+    {
+      "title": "एउटा रोचक संयोग– तीनवटा सुरक्षा निकायको उच्च ओहोदामा तीन भाइ",
+      "link": "http://lokaantar.com/story/331687/2026/10/21/police-family-",
+      "description": "एउटै परिवारका तीन दाजुभाइ । तीनवटै सुरक्षा निकायको उपल्लो जिम्मेवारीमा । जेठो नेपाल प्रहरीमा प्रहरी वरिष्ठ उपरीक्षक (एसएसपी), माहिलो नेपाली सेनामा लेफ्टिनेन्ट कर्णेल र कान्छो सशस्त्र प्रहरी बलमा एसएसपी ।संयोग यतिमै सीमित छैन । एउटै परिवारका जेठा र कान्छा छोरा नेतृत्वमा रहेका दुई सुरक्षा निकायका कार्यालयले उत्कृष्टताको सम्मान पाएका छन् । उनीहरू उत्कृष्ट कमाण्डरका रूपमा पुरस्कृत पनि भए ।यो अनौठो संयोग ललितपुरको लेलेमा स्थायी बसोबास भएका नेपाल प्रहरीका एसएसपी दिलिप घिमिरे परिवारको वास्तविक कथा हो ।",
+      "published": "",
+      "source": "Lokaantar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Lokaantar"
+      ],
+      "id": "a6c11cae099618e2",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 10,
+      "story_size": 1
+    },
+    {
+      "title": "शुभ साइतसँगै बडा दशैँको टीका-जमरा लगाउन थालियो",
+      "link": "http://lokaantar.com/story/331690/2026/10/21/dashain-",
+      "description": "आज बडादशैँको मुख्य दिन अर्थात् विजयादशमी। बिहान १०:२६ बजेको उत्तम साइतसँगै मान्यजनको हातबाट टीका र जमरा लगाउने क्रम शुरू भएको छ।&nbsp;यतिबेला घर&ndash;घरमा नवदुर्गाको प्रसादस्वरूप रातो टीका थाप्ने र आशीर्वाद लिनेको उल्लास छ।नेपाल पञ्चाङ्ग निर्णायक विकास समितिले आज बिहान ८:४९ बजे देवी विसर्जनको र १०:२६ बजे टीकाको उत्तम साइत तोकेको थियो। सोही साइत पारेर घटस्थापनाका दिन स्थापना गरिएको पूर्ण कलशको जलबाट वैदिक विधिपूर्वक अभिषेक गरी टीका लगाउन थालिएको हो।टीका लगाउँदा कुन दिशा फर्कने ?टीका लगाइमाग्ने म",
+      "published": "",
+      "source": "Lokaantar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Lokaantar"
+      ],
+      "id": "936bde7ca505c842",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 10,
+      "story_size": 1
+    },
+    {
+      "title": "दशैँले निराशाबाट आशातर्फ अघि बढ्न नयाँ ऊर्जा प्रदान गर्ने छ : सभापति लामिछाने",
+      "link": "http://lokaantar.com/story/331689/2026/10/21/rabi-lamichhane-",
+      "description": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा)का सभापति रवि लामिछानेले विपत्ति र शोकका बीच मनाइँदै गरेको बडादशैँले नेपाली समाजलाई अझ सुदृढ एकताको सूत्रमा बाँध्ने विश्वास व्यक्त गरेका छन् ।&nbsp;विजयादशमी, २०८३ का अवसरमा आज शुभकामना सन्देश जारी गर्दै उनले विपत्तिमा ज्यान गुमाउनेहरूप्रति श्रद्धाञ्जली अर्पण गर्दै शोकाकुल परिवारजनमा समवेदना व्यक्त गरेका छन् ।&nbsp;उनले यस वर्षको दशैँ विपत्ति र शोकको घडीमा मनाउनुपरेको उल्लेख गर्दै धेरै नागरिकले ज्यान गुमाउनुपरेको र हजारौँ परिवार घरबारविहीन तथा विस्थापित भएको द",
+      "published": "",
+      "source": "Lokaantar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Lokaantar"
+      ],
+      "id": "8cfe465b48d1aa0d",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 10,
+      "story_size": 1
+    },
+    {
+      "title": "परिवर्तनका लागि सोचसँगै व्यवहार पनि बदल्न जरुरी छ : प्रधानमन्त्री",
+      "link": "http://lokaantar.com/story/331688/2026/10/21/pm-balen-",
+      "description": "प्रधानमन्त्री बालेन्द्र शाहले भ्रष्टाचार, कुशासन, ढिलासुस्ती, असमानता र राजनीतिक विकृति हटाउन सबै एकजुट हुन आवश्यक रहेको बताएका छन्।बुधबार विजयादशमीको शुभकामना सन्देश जारी गर्दै प्रधानमन्त्री शाहले हरेक नागरिकलाई &lsquo;हाम्रा लागि सरकार छ&rsquo; भन्ने महसुस गराउन आवश्यक रहेको बताएका हुन्।परिवर्तनका लागि सोचसँगै व्यवहार पनि बदल्न जरुरी रहेको उनको भनाइ छ । &lsquo;विजयादशमीले मानिसमा रहेका अहंकार, लोभ, ईर्ष्या, हिंसा र विभेदजस्ता नकारात्मक सोचलाई त्याग्न प्रेरणा दिन्छ,&rsquo; उनले भनेका छन्, &lsqu",
+      "published": "",
+      "source": "Lokaantar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Lokaantar"
+      ],
+      "id": "76ed68d039573838",
       "source_count": 1,
       "verified": false,
       "local": false,
