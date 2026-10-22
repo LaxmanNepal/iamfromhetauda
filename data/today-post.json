@@ -1,163 +1,168 @@
 {
   "date_np": "2026-10-22",
-  "generated_at": "2026-10-22T07:27:11.880583+00:00",
+  "generated_at": "2026-10-22T13:09:16.841058+00:00",
   "items": [
     {
-      "title": "नदी कटान रोक्न तटीय क्षेत्रमा वृक्षारोपण",
-      "link": "https://kendrabindu.com/social-affairs/565600/",
-      "description": "कञ्चनपुर । कञ्चनपुरको कृष्णपुर नगरपालिका–२ स्थित खल्लागोठमा मछेली नदीको कटान रोक्न तटीय क्षेत्रमा पाँच हजार बिरुवा रोपिएको छ । डिभिजन वन कार्यालय कञ्चनपुर, दातृ निकाय र स्थानीयको जनश्रमदानमा बाढीले क्षति गरेको जग्गा संरक्षण गरेर वृक्षरोपण गरिएको हो । मछेली सामुदायिक विपद् व्यवस्थापन समितिका अध्यक्ष प्रेमबहादुर महताले नदीको बगरमा विभिन्न प्रजातिका छ हजार बोट बिरुवा वृक्षरोपण [&#8230;]",
-      "published": "2026-10-22T06:45:10+00:00",
-      "source": "Kendrabindu",
+      "title": "म्याग्दीमा व्यावसायिक अलैँची खेतीको परीक्षण सफल",
+      "link": "https://www.thahakhabar.com/detail/310721",
+      "description": "",
+      "published": "2026-10-22T18:20:50+05:45",
+      "source": "Thaha Khabar",
       "category": "nepal",
-      "image": "",
+      "image": "https://www.thahakhabar.com/uploads/posts/alaichi-1792672481.jpg",
       "related_sources": [
+        "Thaha Khabar",
         "Kendrabindu",
-        "Ratopati",
-        "Lokaantar"
+        "Baahrakhari",
+        "Ratopati"
       ],
-      "id": "3193252c63790dcb",
+      "id": "a4e88e2663a7e2a0",
+      "source_count": 4,
+      "verified": true,
+      "local": false,
+      "score": 154.8,
+      "story_size": 4,
+      "image_local": "images/news_e81c9a8b885d7fcde791.jpg"
+    },
+    {
+      "title": "पछिल्लो २४ घण्टामा सवारी दुर्घटनामा पाँचको मृत्यु, ३१३ घाइते",
+      "link": "https://www.ratopati.com/story/600832/five-killed-313-injured-in-road-accidents-in-last-24-hours",
+      "description": "काठमाडौँ । पछिल्लो २४ घण्टामा देशका विभिन्न स्थानमा भएको सवारी दुर्घटनामा पाँच जनाको मृत्यु भएको छ । प्रहरी प्रधान कार्यालयका अनुसार काठमाडौँ, सुनसरी, मकवानपुर, मोरङ र तनहुँमा भएका सडक दुर्घटनामा ३१३ जना घाइते भएका छन्",
+      "published": "2026-10-22T10:45:54+00:00",
+      "source": "Ratopati",
+      "category": "society",
+      "image": "https://npcdn.ratopati.com/media/news/accident1_0HVVwEUEAJ.jpg",
+      "related_sources": [
+        "Ratopati",
+        "Khabarhub"
+      ],
+      "id": "f0e0a1e8756feaac",
+      "source_count": 2,
+      "verified": true,
+      "local": true,
+      "score": 145.5,
+      "story_size": 2,
+      "image_local": "images/news_ba026176e91072834ed4.jpg"
+    },
+    {
+      "title": "दसैँको दोस्रो दिन पनि रोकिएन बिदेसिने युवाको लर्को",
+      "link": "https://www.ratopati.com/story/600838/the-rush-of-youth-going-abroad-did-not-stop-even-on-the-second-day-of-dashain",
+      "description": "काठमाडौँ। नेपालीहरूको प्रमुख पर्व बडादसैँमा पनि रोजगारी, अध्ययन तथा अन्य विभिन्न कामका सिलसिलामा विदेसिने क्रम जारी छ। दसैँको उल्लास, पारिवारिक भेटघाट र मान्यजनबाट टीका तथा जमरा ग्रहण गर्ने चटारो चलिरहेका बेला पनि आफ्नो भविष्य निर्माण र",
+      "published": "2026-10-22T11:38:05+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/bidesh-14_gQn1aVEwFZ.webp",
+      "related_sources": [
+        "Ratopati",
+        "Thaha Khabar",
+        "Kendrabindu"
+      ],
+      "id": "8f4aa1361184a4fe",
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 141.2,
+      "score": 140.9,
+      "story_size": 3,
+      "image_local": "images/news_fbcabb704c63508b8c83.webp"
+    },
+    {
+      "title": "एसियाली चेसमा सहभागी हुने नेपाली टोली भारत प्रस्थान",
+      "link": "https://baahrakhari.com/detail/505474",
+      "description": "",
+      "published": "2026-10-22T17:15:33+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari",
+        "Ratopati",
+        "Khabarhub"
+      ],
+      "id": "e910c8378aacd663",
+      "source_count": 3,
+      "verified": true,
+      "local": false,
+      "score": 137.4,
       "story_size": 3
     },
     {
-      "title": "पूर्वराष्ट्रपति भण्डारी चीन प्रस्थान",
-      "link": "https://www.thahakhabar.com/detail/310711",
+      "title": "सामाजिक सञ्जालबाटै करोडौँ आम्दानी",
+      "link": "https://www.thahakhabar.com/detail/310722",
       "description": "",
-      "published": "2026-10-22T13:06:45+05:45",
+      "published": "2026-10-22T18:51:23+05:45",
       "source": "Thaha Khabar",
-      "category": "politics",
-      "image": "https://www.thahakhabar.com/uploads/posts/Bidya-madhav-(3)-1785659242.jpg",
+      "category": "business",
+      "image": "https://www.thahakhabar.com/uploads/posts/Social-media-1767858697.jpg",
       "related_sources": [
         "Thaha Khabar",
         "Khabarhub"
       ],
-      "id": "08cfc568b82c1aef",
+      "id": "7657940f2dbbd916",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 136.6,
+      "score": 136.8,
       "story_size": 2,
-      "image_local": "images/news_63329e73c7202ce7741a.jpg"
+      "image_local": "images/news_0bbc4367c24560192457.jpg"
     },
     {
-      "title": "रातभर मनाएर सकियो तलेजुको जात्रा",
-      "link": "https://khabarhub.com/2026/22/1039458/",
-      "description": "भक्तपुर– विजयादशमीका दिन मध्यरातिबाट भक्तपुरमा सुरु भएको पायःद्यो अर्थात् खड्ग जात्रासहित तलेजुको बाहन सेता घोडा जात्रा एकादशीको दिन आज बिहान सम्पन्न भएको छ । विजयादशमीको दिनभर ब्रह्मायणी मन्दिरमा जात्रारत नवदुर्गा भवानीका देवगण ब्रह्मयणीबाट राति भक्तपुरको विभिन्न टोल घुमेर जात्रा गर्दै दरबारस्क्वायर आएपछि बहिनी ब्रम्हायणीले दिदी तलेजु भवानीलाई दर्शन एवं ढोग गरी मन्त्रसिद्धि गरिने परम्पराअनुसार [&#8230;]",
-      "published": "2026-10-22T05:30:39+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
+      "title": "मोटरसाइकल दुर्घटनामा बाबुछोराको मृत्यु",
+      "link": "https://gorkhapatraonline.com/news/227100",
+      "description": "गणेश खनालअर्घाखाँची, कात्तिक ५ गते । अर्घाखाँचीको भूमिकास्थान नगरपालिका –२ भूमिस्थानमा मोटरसाइकल दुर्घटना हुँदा बाबुछोराको मृत्यु भएको छ। ढाकावाङ–सन्धिखर्क सडक खण्डमा बुधबार बिहान...",
+      "published": "2026-10-22T17:06:33+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "society",
+      "image": "https://gorkhapatraonline.com/storage/media/388697/conversions/Bike-accident-original.jpg",
       "related_sources": [
-        "Khabarhub",
-        "Ratopati",
-        "Kendrabindu"
+        "Gorkhapatra Online",
+        "OnlineKhabar"
       ],
-      "id": "25c033c934eddba0",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 136.2,
-      "story_size": 3
-    },
-    {
-      "title": "आयोजनाको जलाशयबाट प्रभावित चार झोलुङ्गे पुल पुनर्निर्माण हुने",
-      "link": "https://khabarhub.com/2026/22/1039470/",
-      "description": "दमौली– तनहुँमा निर्माणाधीन १४० मेगावाट क्षमताको तनहुँ जलविद्युत् आयोजनाको जलाशयबाट प्रभावित चारवटा झोलुङ्गे पुल पुनर्निर्माण गरिने भएको छ । यसका लागि तनहुँ हाइड्रोपावर लिमिटेड र थानी काली जोशी संयुक्त उपक्रम (जेभी), काठमाडौँबीच ठेक्का सम्झौता भइसकेको छ । आयोजनाको जलाशय निर्माणका कारण प्रभावित हुने झोलुङ्गे पुलहरूको पुनःस्थापना तथा पुनर्निर्माणका लागि सम्झौता गरिएको हो । ठेक्का सम्झौताको [&#8230;]",
-      "published": "2026-10-22T06:32:42+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
-        "Ratopati"
-      ],
-      "id": "06c6e20d52c1344d",
+      "id": "bb69d7486b24c614",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 130.4,
-      "story_size": 2
+      "score": 129.8,
+      "story_size": 2,
+      "image_local": "images/news_1b705d9a294ee8ddf253.jpg"
     },
     {
-      "title": "चीन–रुसद्वारा युरेसियामा बाह्य हस्तक्षेपको विरोध",
-      "link": "https://khabarhub.com/2026/22/1039467/",
-      "description": "बेइजिङ&#8211; चीन र रुसले युरेसिया महादेशमा स्थिरता कमजोर पार्ने बाह्य हस्तक्षेपको विरोध गर्दै एकअर्काको राष्ट्रिय सुरक्षा, सार्वभौमसत्ता र क्षेत्रीय अखण्डताको समर्थन गर्ने प्रतिबद्धता व्यक्त गरेका छन्। रुस भ्रमणमा रहेका चिनियाँ प्रधानमन्त्री ली छ्याङले रुसी राष्ट्रपति भ्लादिमिर पुटिन र प्रधानमन्त्री मिखाइल मिशुस्टिनसँग भेटवार्ता गरेपछि दुवै देशले संयुक्त वक्तव्य जारी गर्दै यस्तो प्रतिबद्धता जनाएका हुन्। चिनियाँ सरकारी [&#8230;]",
-      "published": "2026-10-22T06:27:17+00:00",
-      "source": "Khabarhub",
+      "title": "युक्रेन युद्धबारे नोभेम्बरमा त्रिपक्षीय वार्ता गर्न रुस तयार",
+      "link": "https://www.onlinekhabar.com/2026/10/2042676/russia-ready-for-trilateral-talks-on-ukraine-war-in-november",
+      "description": "क्रेमलिनका अनुसार रुस, अमेरिका र चीनका राष्ट्रपतिबीच आगामी महिना चीनको सेन्जेनमा शिखर बैठक गर्ने सम्भावनाबारे पनि छलफल भइरहेको छ । रुसी अधिकारीहरूले यसलाई तीन देशका नेताबीचको ऐतिहासिक भेट हुन सक्ने बताएका छन् ।",
+      "published": "2026-10-22T11:16:30+00:00",
+      "source": "OnlineKhabar",
       "category": "world",
       "image": "",
       "related_sources": [
-        "Khabarhub",
-        "Ratopati"
-      ],
-      "id": "7e2b30bcd8df35da",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 130.0,
-      "story_size": 2
-    },
-    {
-      "title": "तीन हजार ५८५ यात्रुलाई प्रहरी र सशस्त्रको निःशुल्क बस सेवा",
-      "link": "https://www.ratopati.com/story/600807/police-and-armed-forces-provide-free-bus-service-to-3585-passengers",
-      "description": "काठमाडौँ। नेपाल प्रहरी र सशस्त्र प्रहरी बलद्वारा सञ्चालित निःशुल्क बस सेवाबाट दसैँ पर्वका अवसरमा काठमाडौँ उपत्यकामा तीन हजार ५८५ यात्रुले लाभ लिएका छन्। प्रहरी प्रधान कार्यालयका अनुसार तीनवटा सवारीसाधनमार्फत कात्तिक ३ गते ५१० र कात्तिक ४",
-      "published": "2026-10-22T05:26:09+00:00",
-      "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/bus_NTRTdMZXio.webp",
-      "related_sources": [
-        "Ratopati",
+        "OnlineKhabar",
         "Khabarhub"
       ],
-      "id": "a04a8c85de265f78",
+      "id": "a8b0032458a567bf",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 128.9,
-      "story_size": 2,
-      "image_local": "images/news_3cac55992017ef403f4f.webp"
+      "score": 126.5,
+      "story_size": 2
     },
     {
-      "title": "विपद्ले थलिएको म्याग्दीलाई पुनर्निर्माणको चिन्ता",
-      "link": "https://kendrabindu.com/news/565592/",
-      "description": "म्याग्दी । पछिल्लो मनसुनजन्य विपद्‌बाट प्रभावित म्याग्दीमा पुनर्निर्माण र पुनःस्थापनाका लागि आर्थिक स्रोत जुटाउनु प्रमुख चुनौती बनेको छ । बाढीपहिरोले मानवीय क्षतिसँगै निजी आवास र भौतिक पूर्वाधारमा ठूलो क्षति पुर्‍याएपछि स्थानीय तहलाई पुनर्निर्माणको काम अघि बढाउन कठिन भएको हो । असोज ८ देखि ११ गतेसम्मको निरन्तर वर्षापछि आएको बाढीपहिरोले जिल्लाका सडक, पुल, खानेपानी, सिँचाइ, विद्युत् [&#8230;]",
-      "published": "2026-10-22T06:07:23+00:00",
-      "source": "Kendrabindu",
+      "title": "अटो दुर्घटनामा एक जनाको मृत्यु, दुई घाइते",
+      "link": "https://www.ratopati.com/story/600834/one-dead-two-injured-in-auto-accident",
+      "description": "मकवानपुर । मकवानपुरको बकैया गाउँपालिका–५ श्रीपुरस्थित मदन भण्डारी लोकमार्गमा अटो दुर्घटना हुँदा एक जनाको मृत्यु भएको छ भने दुई जना घाइते भएका छन् । बुधबार दिउँसो ब्रेक फेल भएर अटो अनियन्त्रित भई दुर्घटना भएको हो ।",
+      "published": "2026-10-22T10:49:47+00:00",
+      "source": "Ratopati",
       "category": "society",
-      "image": "",
+      "image": "https://npcdn.ratopati.com/media/news/accident1_0HVVwEUEAJ.jpg",
       "related_sources": [
-        "Kendrabindu",
         "Ratopati"
       ],
-      "id": "1a30602bf5a7d1c0",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 128.7,
-      "story_size": 2
-    },
-    {
-      "title": "युक्रेन युद्धमा सम्झौता नजिक पुगेको ट्रम्पको संकेत",
-      "link": "https://khabarhub.com/2026/22/1039462/",
-      "description": "एजेन्सी– अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले रुस र युक्रेनबीचको युद्ध अन्त्य गर्ने शान्ति सम्झौता लामो समयपछि पहिलो पटक सम्भावनाको नजिक पुगेको बताएका छन् । उनले वार्ता संवेदनशील अवस्थामा रहेकाले रुसमाथि थप प्रतिबन्ध लगाउँदा कूटनीतिक प्रयास प्रभावित हुन सक्ने उल्लेख गरे। ह्वाइट हाउसबाट दक्षिण क्यारोलिना प्रस्थान गर्नुअघि बुधबार पत्रकारहरूसँग कुरा गर्दै उनले सम्झौताको सम्भावना बढेका बेला प्रतिबन्ध [&#8230;]",
-      "published": "2026-10-22T06:03:17+00:00",
-      "source": "Khabarhub",
-      "category": "world",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
-        "Ratopati"
-      ],
-      "id": "e009e6a3870b4750",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 128.4,
-      "story_size": 2
+      "id": "677bfc70a9fabeae",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 121.7,
+      "story_size": 1,
+      "image_local": "images/news_ba026176e91072834ed4.jpg"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. नदी कटान रोक्न तटीय क्षेत्रमा वृक्षारोपण\nस्रोत: Kendrabindu, Ratopati, Lokaantar\nhttps://kendrabindu.com/social-affairs/565600/\n\n2. पूर्वराष्ट्रपति भण्डारी चीन प्रस्थान\nस्रोत: Thaha Khabar, Khabarhub\nhttps://www.thahakhabar.com/detail/310711\n\n3. रातभर मनाएर सकियो तलेजुको जात्रा\nस्रोत: Khabarhub, Ratopati, Kendrabindu\nhttps://khabarhub.com/2026/22/1039458/\n\n4. आयोजनाको जलाशयबाट प्रभावित चार झोलुङ्गे पुल पुनर्निर्माण हुने\nस्रोत: Khabarhub, Ratopati\nhttps://khabarhub.com/2026/22/1039470/\n\n5. चीन–रुसद्वारा युरेसियामा बाह्य हस्तक्षेपको विरोध\nस्रोत: Khabarhub, Ratopati\nhttps://khabarhub.com/2026/22/1039467/\n\n6. तीन हजार ५८५ यात्रुलाई प्रहरी र सशस्त्रको निःशुल्क बस सेवा\nस्रोत: Ratopati, Khabarhub\nhttps://www.ratopati.com/story/600807/police-and-armed-forces-provide-free-bus-service-to-3585-passengers\n\n7. विपद्ले थलिएको म्याग्दीलाई पुनर्निर्माणको चिन्ता\nस्रोत: Kendrabindu, Ratopati\nhttps://kendrabindu.com/news/565592/\n\n8. युक्रेन युद्धमा सम्झौता नजिक पुगेको ट्रम्पको संकेत\nस्रोत: Khabarhub, Ratopati\nhttps://khabarhub.com/2026/22/1039462/\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. म्याग्दीमा व्यावसायिक अलैँची खेतीको परीक्षण सफल\nस्रोत: Thaha Khabar, Kendrabindu, Baahrakhari\nhttps://www.thahakhabar.com/detail/310721\n\n2. पछिल्लो २४ घण्टामा सवारी दुर्घटनामा पाँचको मृत्यु, ३१३ घाइते\nस्रोत: Ratopati, Khabarhub\nhttps://www.ratopati.com/story/600832/five-killed-313-injured-in-road-accidents-in-last-24-hours\n\n3. दसैँको दोस्रो दिन पनि रोकिएन बिदेसिने युवाको लर्को\nस्रोत: Ratopati, Thaha Khabar, Kendrabindu\nhttps://www.ratopati.com/story/600838/the-rush-of-youth-going-abroad-did-not-stop-even-on-the-second-day-of-dashain\n\n4. एसियाली चेसमा सहभागी हुने नेपाली टोली भारत प्रस्थान\nस्रोत: Baahrakhari, Ratopati, Khabarhub\nhttps://baahrakhari.com/detail/505474\n\n5. सामाजिक सञ्जालबाटै करोडौँ आम्दानी\nस्रोत: Thaha Khabar, Khabarhub\nhttps://www.thahakhabar.com/detail/310722\n\n6. मोटरसाइकल दुर्घटनामा बाबुछोराको मृत्यु\nस्रोत: Gorkhapatra Online, OnlineKhabar\nhttps://gorkhapatraonline.com/news/227100\n\n7. युक्रेन युद्धबारे नोभेम्बरमा त्रिपक्षीय वार्ता गर्न रुस तयार\nस्रोत: OnlineKhabar, Khabarhub\nhttps://www.onlinekhabar.com/2026/10/2042676/russia-ready-for-trilateral-talks-on-ukraine-war-in-november\n\n8. अटो दुर्घटनामा एक जनाको मृत्यु, दुई घाइते\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/600834/one-dead-two-injured-in-auto-accident\n\n— I Am From Hetauda"
 }
