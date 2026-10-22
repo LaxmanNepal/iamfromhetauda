@@ -1,52 +1,72 @@
 {
   "date_np": "2026-10-22",
-  "generated_at": "2026-10-22T01:56:37.353134+00:00",
+  "generated_at": "2026-10-22T07:27:11.880583+00:00",
   "items": [
     {
-      "title": "उपत्यकाका सडकमा सवारी चाप बढ्दै",
-      "link": "https://www.thahakhabar.com/detail/310700",
-      "description": "",
-      "published": "2026-10-22T07:17:47+05:45",
-      "source": "Thaha Khabar",
+      "title": "नदी कटान रोक्न तटीय क्षेत्रमा वृक्षारोपण",
+      "link": "https://kendrabindu.com/social-affairs/565600/",
+      "description": "कञ्चनपुर । कञ्चनपुरको कृष्णपुर नगरपालिका–२ स्थित खल्लागोठमा मछेली नदीको कटान रोक्न तटीय क्षेत्रमा पाँच हजार बिरुवा रोपिएको छ । डिभिजन वन कार्यालय कञ्चनपुर, दातृ निकाय र स्थानीयको जनश्रमदानमा बाढीले क्षति गरेको जग्गा संरक्षण गरेर वृक्षरोपण गरिएको हो । मछेली सामुदायिक विपद् व्यवस्थापन समितिका अध्यक्ष प्रेमबहादुर महताले नदीको बगरमा विभिन्न प्रजातिका छ हजार बोट बिरुवा वृक्षरोपण [&#8230;]",
+      "published": "2026-10-22T06:45:10+00:00",
+      "source": "Kendrabindu",
       "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/Susan-Sadak-(5)-1792494075.jpg",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu",
+        "Ratopati",
+        "Lokaantar"
+      ],
+      "id": "3193252c63790dcb",
+      "source_count": 3,
+      "verified": true,
+      "local": false,
+      "score": 141.2,
+      "story_size": 3
+    },
+    {
+      "title": "पूर्वराष्ट्रपति भण्डारी चीन प्रस्थान",
+      "link": "https://www.thahakhabar.com/detail/310711",
+      "description": "",
+      "published": "2026-10-22T13:06:45+05:45",
+      "source": "Thaha Khabar",
+      "category": "politics",
+      "image": "https://www.thahakhabar.com/uploads/posts/Bidya-madhav-(3)-1785659242.jpg",
       "related_sources": [
         "Thaha Khabar",
-        "Ratopati"
+        "Khabarhub"
       ],
-      "id": "97f948d490f1b338",
+      "id": "08cfc568b82c1aef",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 135.4,
+      "score": 136.6,
       "story_size": 2,
-      "image_local": "images/news_ddb7262a21ad7c280ca4.jpg"
+      "image_local": "images/news_63329e73c7202ce7741a.jpg"
     },
     {
-      "title": "टीकाको दोस्रो दिन : मान्यजनबाट आशीर्वाद लिने क्रम जारी",
-      "link": "https://www.thahakhabar.com/detail/310699",
-      "description": "",
-      "published": "2026-10-22T06:33:12+05:45",
-      "source": "Thaha Khabar",
+      "title": "रातभर मनाएर सकियो तलेजुको जात्रा",
+      "link": "https://khabarhub.com/2026/22/1039458/",
+      "description": "भक्तपुर– विजयादशमीका दिन मध्यरातिबाट भक्तपुरमा सुरु भएको पायःद्यो अर्थात् खड्ग जात्रासहित तलेजुको बाहन सेता घोडा जात्रा एकादशीको दिन आज बिहान सम्पन्न भएको छ । विजयादशमीको दिनभर ब्रह्मायणी मन्दिरमा जात्रारत नवदुर्गा भवानीका देवगण ब्रह्मयणीबाट राति भक्तपुरको विभिन्न टोल घुमेर जात्रा गर्दै दरबारस्क्वायर आएपछि बहिनी ब्रम्हायणीले दिदी तलेजु भवानीलाई दर्शन एवं ढोग गरी मन्त्रसिद्धि गरिने परम्पराअनुसार [&#8230;]",
+      "published": "2026-10-22T05:30:39+00:00",
+      "source": "Khabarhub",
       "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/Jamara-Tika-1792506639.jpg",
+      "image": "",
       "related_sources": [
-        "Thaha Khabar",
-        "Ratopati"
+        "Khabarhub",
+        "Ratopati",
+        "Kendrabindu"
       ],
-      "id": "07b241afb876edfc",
-      "source_count": 2,
+      "id": "25c033c934eddba0",
+      "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 132.4,
-      "story_size": 2,
-      "image_local": "images/news_96f4f5df792a41f7078f.jpg"
+      "score": 136.2,
+      "story_size": 3
     },
     {
-      "title": "पाटन दरबार सङ्ग्राहलयको मूलचोकमा ठेचोको नवदुर्गा नाच प्रदर्शन",
-      "link": "https://khabarhub.com/2026/22/1039421/",
-      "description": "ललितपुर – पाटन दरबार सङ्ग्राहलयको मूलचोकमा ठेचो (थेच्व)को नवदुर्गा नाच प्रदर्शन गरिएको छ । विजयादशमीको दिन र कोजाग्रत पूर्णिमा गरी दशैंमा दुई पटक मङ्गलबजारमा नवदुर्गा नाच देखाउने परम्परा छ । नाच प्रदर्शन गर्न थेच्वस्थित देवता घरबाट मू द्यः (मुख्य देवता), मुकुन्डो, कलेवर पोसाक, गरगहना खर्पनमा बोकेर देवगणहरूले बुधबार मंगलबजार पुर्‍याएका थिए । नेवार समुदायको प्राचीन [&#8230;]",
-      "published": "2026-10-22T01:21:32+00:00",
+      "title": "आयोजनाको जलाशयबाट प्रभावित चार झोलुङ्गे पुल पुनर्निर्माण हुने",
+      "link": "https://khabarhub.com/2026/22/1039470/",
+      "description": "दमौली– तनहुँमा निर्माणाधीन १४० मेगावाट क्षमताको तनहुँ जलविद्युत् आयोजनाको जलाशयबाट प्रभावित चारवटा झोलुङ्गे पुल पुनर्निर्माण गरिने भएको छ । यसका लागि तनहुँ हाइड्रोपावर लिमिटेड र थानी काली जोशी संयुक्त उपक्रम (जेभी), काठमाडौँबीच ठेक्का सम्झौता भइसकेको छ । आयोजनाको जलाशय निर्माणका कारण प्रभावित हुने झोलुङ्गे पुलहरूको पुनःस्थापना तथा पुनर्निर्माणका लागि सम्झौता गरिएको हो । ठेक्का सम्झौताको [&#8230;]",
+      "published": "2026-10-22T06:32:42+00:00",
       "source": "Khabarhub",
       "category": "nepal",
       "image": "",
@@ -54,107 +74,90 @@
         "Khabarhub",
         "Ratopati"
       ],
-      "id": "39084e10eb20a6a8",
+      "id": "06c6e20d52c1344d",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 131.7,
+      "score": 130.4,
       "story_size": 2
     },
     {
-      "title": "मैथिल परम्पराको रावणवध उत्सव सम्पन्न",
-      "link": "https://khabarhub.com/2026/22/1039418/",
-      "description": "महोत्तरी – शारदीय दशहरा अर्थात् विजया दशमीका दिन मिथिलामा मनाइने रावणवध उत्सव मटिहानीसहित महोत्तरीका कैयौं ठाउँमा बुधबार साँझ सम्पन्न भएको छ । त्रेता युगमा असोज शुक्ल दशमीका दिन मर्यादा पुरुष्वत्तम श्रीरामले युद्धमा रावणको वध गर्नुभएकोे विश्वासमा मिथिलामा यो उत्सव मनाइने परम्परा छ । सीताजी अर्थात् मैथिलीलाई आफ्नै चेलीबेटी मान्ने मिथिला परम्पराले यहाँ रावणवध खास महत्वको [&#8230;]",
-      "published": "2026-10-22T01:07:59+00:00",
+      "title": "चीन–रुसद्वारा युरेसियामा बाह्य हस्तक्षेपको विरोध",
+      "link": "https://khabarhub.com/2026/22/1039467/",
+      "description": "बेइजिङ&#8211; चीन र रुसले युरेसिया महादेशमा स्थिरता कमजोर पार्ने बाह्य हस्तक्षेपको विरोध गर्दै एकअर्काको राष्ट्रिय सुरक्षा, सार्वभौमसत्ता र क्षेत्रीय अखण्डताको समर्थन गर्ने प्रतिबद्धता व्यक्त गरेका छन्। रुस भ्रमणमा रहेका चिनियाँ प्रधानमन्त्री ली छ्याङले रुसी राष्ट्रपति भ्लादिमिर पुटिन र प्रधानमन्त्री मिखाइल मिशुस्टिनसँग भेटवार्ता गरेपछि दुवै देशले संयुक्त वक्तव्य जारी गर्दै यस्तो प्रतिबद्धता जनाएका हुन्। चिनियाँ सरकारी [&#8230;]",
+      "published": "2026-10-22T06:27:17+00:00",
       "source": "Khabarhub",
-      "category": "nepal",
+      "category": "world",
       "image": "",
       "related_sources": [
         "Khabarhub",
         "Ratopati"
       ],
-      "id": "d24c167c8ec01f5f",
+      "id": "7e2b30bcd8df35da",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 130.8,
+      "score": 130.0,
       "story_size": 2
     },
     {
-      "title": "‘दलितकी छोरीलाई दयाले मन्त्री बनाएको ठान्छन्, तर यो दया होइन, वर्षौंको रगत–पसिनाको अधिकार हो’",
-      "link": "https://www.ratopati.com/story/600784/they-think-that-a-dalits-daughter-was-made-a-minister-out-of-mercy-but-this-is-not-mercy-it-is-the-right-of-years-of-blood-and-sweat",
-      "description": "विराटनगर । विराटनगरस्थित कोशी प्रदेशको भौतिक पूर्वाधार विकास मन्त्रालयको कार्यकक्ष । टेबलमा फाइलहरू छन्, ढोकामा आगन्तुकहरू फाट्टफुट्ट आउँछन् । आउनेहरूमध्ये कसैले बधाईका खादा लगाइदिन्छन्, कसैले आफ्नो गाउँको बाटो, पुल वा योजना पारिदिन मागपत्र बोकेका छन्",
-      "published": "2026-10-22T01:44:20+00:00",
+      "title": "तीन हजार ५८५ यात्रुलाई प्रहरी र सशस्त्रको निःशुल्क बस सेवा",
+      "link": "https://www.ratopati.com/story/600807/police-and-armed-forces-provide-free-bus-service-to-3585-passengers",
+      "description": "काठमाडौँ। नेपाल प्रहरी र सशस्त्र प्रहरी बलद्वारा सञ्चालित निःशुल्क बस सेवाबाट दसैँ पर्वका अवसरमा काठमाडौँ उपत्यकामा तीन हजार ५८५ यात्रुले लाभ लिएका छन्। प्रहरी प्रधान कार्यालयका अनुसार तीनवटा सवारीसाधनमार्फत कात्तिक ३ गते ५१० र कात्तिक ४",
+      "published": "2026-10-22T05:26:09+00:00",
       "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/sapana-pariyar_vXq8dHrmhb.webp",
+      "category": "society",
+      "image": "https://npcdn.ratopati.com/media/news/bus_NTRTdMZXio.webp",
       "related_sources": [
-        "Ratopati"
+        "Ratopati",
+        "Khabarhub"
       ],
-      "id": "78f4b0919c863234",
-      "source_count": 1,
-      "verified": false,
+      "id": "a04a8c85de265f78",
+      "source_count": 2,
+      "verified": true,
       "local": false,
-      "score": 112.2,
-      "story_size": 1,
-      "image_local": "images/news_185dbaf1c4dbec792978.webp"
+      "score": 128.9,
+      "story_size": 2,
+      "image_local": "images/news_3cac55992017ef403f4f.webp"
     },
     {
-      "title": "प्रधानमन्त्री विपद् कोषमा तपाईँले दिएको सहयोग कहाँ–कहाँ खर्च भइरहेको छ? यस्तो छ १७ अर्ब रुपैयाँको हिसाबकिताब",
-      "link": "https://www.bbc.com/nepali/articles/c5pvgm8pnw9yo?at_medium=RSS&at_campaign=rss",
-      "description": "अधिकारीहरूले भोटेकोशी-त्रिशूली बाढीपछि प्रधानमन्त्री दैवी प्रकोप उद्धार कोषमा १७ अर्ब रुपैयाँभन्दा बढी रकम जम्मा भएको बताइरहँदा त्यसको उपयोग र वास्तविक पीडितसम्म राहत पुगे-नपुगेको विषयमा चासो बढेको पाइएको छ।",
-      "published": "2026-10-22T01:42:07+00:00",
-      "source": "BBC Nepali",
-      "category": "politics",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/472c/live/4de4f310-c494-11f1-9a39-31b474234113.jpg",
-      "related_sources": [
-        "BBC Nepali"
-      ],
-      "id": "f3d1793d0a8ba886",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 112.0,
-      "story_size": 1,
-      "image_local": "images/news_30001c6294672564108a.jpg"
-    },
-    {
-      "title": "विमानस्थल र पूर्वाधारमा आक्रमण बढेपछि साउदीबाट अमेरिकी दूतावासका कर्मचारी फिर्ता गरिँदै",
-      "link": "https://www.ratopati.com/story/600783/us-embassy-staff-being-evacuated-from-saudi-arabia-after-attacks-on-airports-and-infrastructure-increase",
-      "description": "काठमाडौँ । यमनका इरान समर्थित हुथी विद्रोहीहरूले साउदी अरबमा आक्रमण तीव्र बनाएपछि अमेरिकाले रियाधस्थित आफ्नो दूतावासबाट गैर–अत्यावश्यक कर्मचारी तथा उनीहरूका परिवारका सदस्यहरूलाई फिर्ता हुन (देश छाड्न) आदेश दिएको छ । अमेरिकी विदेश मन्त्रालयका प्रवक्ता टमी पिगटले",
-      "published": "2026-10-22T01:20:29+00:00",
-      "source": "Ratopati",
-      "category": "business",
-      "image": "https://npcdn.ratopati.com/media/news/us-embassy-riyadh_JGDR4o8KyV.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "28b4f08aea639ab6",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 110.6,
-      "story_size": 1,
-      "image_local": "images/news_37b8aa98177e43da4aef.webp"
-    },
-    {
-      "title": "साउदीमा ड्रोन आक्रमण, नेपालीसहित दुईजनाको मृत्यु",
-      "link": "https://baahrakhari.com/detail/505441",
-      "description": "",
-      "published": "2026-10-22T07:31:00+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
+      "title": "विपद्ले थलिएको म्याग्दीलाई पुनर्निर्माणको चिन्ता",
+      "link": "https://kendrabindu.com/news/565592/",
+      "description": "म्याग्दी । पछिल्लो मनसुनजन्य विपद्‌बाट प्रभावित म्याग्दीमा पुनर्निर्माण र पुनःस्थापनाका लागि आर्थिक स्रोत जुटाउनु प्रमुख चुनौती बनेको छ । बाढीपहिरोले मानवीय क्षतिसँगै निजी आवास र भौतिक पूर्वाधारमा ठूलो क्षति पुर्‍याएपछि स्थानीय तहलाई पुनर्निर्माणको काम अघि बढाउन कठिन भएको हो । असोज ८ देखि ११ गतेसम्मको निरन्तर वर्षापछि आएको बाढीपहिरोले जिल्लाका सडक, पुल, खानेपानी, सिँचाइ, विद्युत् [&#8230;]",
+      "published": "2026-10-22T06:07:23+00:00",
+      "source": "Kendrabindu",
+      "category": "society",
       "image": "",
       "related_sources": [
-        "Baahrakhari"
+        "Kendrabindu",
+        "Ratopati"
       ],
-      "id": "7a0ed2f3929778a6",
-      "source_count": 1,
-      "verified": false,
+      "id": "1a30602bf5a7d1c0",
+      "source_count": 2,
+      "verified": true,
       "local": false,
-      "score": 109.3,
-      "story_size": 1
+      "score": 128.7,
+      "story_size": 2
+    },
+    {
+      "title": "युक्रेन युद्धमा सम्झौता नजिक पुगेको ट्रम्पको संकेत",
+      "link": "https://khabarhub.com/2026/22/1039462/",
+      "description": "एजेन्सी– अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले रुस र युक्रेनबीचको युद्ध अन्त्य गर्ने शान्ति सम्झौता लामो समयपछि पहिलो पटक सम्भावनाको नजिक पुगेको बताएका छन् । उनले वार्ता संवेदनशील अवस्थामा रहेकाले रुसमाथि थप प्रतिबन्ध लगाउँदा कूटनीतिक प्रयास प्रभावित हुन सक्ने उल्लेख गरे। ह्वाइट हाउसबाट दक्षिण क्यारोलिना प्रस्थान गर्नुअघि बुधबार पत्रकारहरूसँग कुरा गर्दै उनले सम्झौताको सम्भावना बढेका बेला प्रतिबन्ध [&#8230;]",
+      "published": "2026-10-22T06:03:17+00:00",
+      "source": "Khabarhub",
+      "category": "world",
+      "image": "",
+      "related_sources": [
+        "Khabarhub",
+        "Ratopati"
+      ],
+      "id": "e009e6a3870b4750",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 128.4,
+      "story_size": 2
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. उपत्यकाका सडकमा सवारी चाप बढ्दै\nस्रोत: Thaha Khabar, Ratopati\nhttps://www.thahakhabar.com/detail/310700\n\n2. टीकाको दोस्रो दिन : मान्यजनबाट आशीर्वाद लिने क्रम जारी\nस्रोत: Thaha Khabar, Ratopati\nhttps://www.thahakhabar.com/detail/310699\n\n3. पाटन दरबार सङ्ग्राहलयको मूलचोकमा ठेचोको नवदुर्गा नाच प्रदर्शन\nस्रोत: Khabarhub, Ratopati\nhttps://khabarhub.com/2026/22/1039421/\n\n4. मैथिल परम्पराको रावणवध उत्सव सम्पन्न\nस्रोत: Khabarhub, Ratopati\nhttps://khabarhub.com/2026/22/1039418/\n\n5. ‘दलितकी छोरीलाई दयाले मन्त्री बनाएको ठान्छन्, तर यो दया होइन, वर्षौंको रगत–पसिनाको अधिकार हो’\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/600784/they-think-that-a-dalits-daughter-was-made-a-minister-out-of-mercy-but-this-is-not-mercy-it-is-the-right-of-years-of-blood-and-sweat\n\n6. प्रधानमन्त्री विपद् कोषमा तपाईँले दिएको सहयोग कहाँ–कहाँ खर्च भइरहेको छ? यस्तो छ १७ अर्ब रुपैयाँको हिसाबकिताब\nस्रोत: BBC Nepali\nhttps://www.bbc.com/nepali/articles/c5pvgm8pnw9yo?at_medium=RSS&at_campaign=rss\n\n7. विमानस्थल र पूर्वाधारमा आक्रमण बढेपछि साउदीबाट अमेरिकी दूतावासका कर्मचारी फिर्ता गरिँदै\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/600783/us-embassy-staff-being-evacuated-from-saudi-arabia-after-attacks-on-airports-and-infrastructure-increase\n\n8. साउदीमा ड्रोन आक्रमण, नेपालीसहित दुईजनाको मृत्यु\nस्रोत: Baahrakhari\nhttps://baahrakhari.com/detail/505441\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. नदी कटान रोक्न तटीय क्षेत्रमा वृक्षारोपण\nस्रोत: Kendrabindu, Ratopati, Lokaantar\nhttps://kendrabindu.com/social-affairs/565600/\n\n2. पूर्वराष्ट्रपति भण्डारी चीन प्रस्थान\nस्रोत: Thaha Khabar, Khabarhub\nhttps://www.thahakhabar.com/detail/310711\n\n3. रातभर मनाएर सकियो तलेजुको जात्रा\nस्रोत: Khabarhub, Ratopati, Kendrabindu\nhttps://khabarhub.com/2026/22/1039458/\n\n4. आयोजनाको जलाशयबाट प्रभावित चार झोलुङ्गे पुल पुनर्निर्माण हुने\nस्रोत: Khabarhub, Ratopati\nhttps://khabarhub.com/2026/22/1039470/\n\n5. चीन–रुसद्वारा युरेसियामा बाह्य हस्तक्षेपको विरोध\nस्रोत: Khabarhub, Ratopati\nhttps://khabarhub.com/2026/22/1039467/\n\n6. तीन हजार ५८५ यात्रुलाई प्रहरी र सशस्त्रको निःशुल्क बस सेवा\nस्रोत: Ratopati, Khabarhub\nhttps://www.ratopati.com/story/600807/police-and-armed-forces-provide-free-bus-service-to-3585-passengers\n\n7. विपद्ले थलिएको म्याग्दीलाई पुनर्निर्माणको चिन्ता\nस्रोत: Kendrabindu, Ratopati\nhttps://kendrabindu.com/news/565592/\n\n8. युक्रेन युद्धमा सम्झौता नजिक पुगेको ट्रम्पको संकेत\nस्रोत: Khabarhub, Ratopati\nhttps://khabarhub.com/2026/22/1039462/\n\n— I Am From Hetauda"
 }
