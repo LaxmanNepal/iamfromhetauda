@@ -1,167 +1,171 @@
 {
   "date_np": "2026-10-24",
-  "generated_at": "2026-10-24T13:37:42.531101+00:00",
+  "generated_at": "2026-10-24T17:00:50.772591+00:00",
   "items": [
     {
-      "title": "मापसे र लापसे गरी सवारी चलाउने एक हजार ३७ चालक कारबाहीमा",
-      "link": "https://www.onlinekhabar.com/2026/10/2043265/1037-drivers-taken-into-action-for-drunk-and-distracted-driving",
-      "description": "७ कात्तिक, काठमाडौं । बडादशैँ अवधिमा काठमाडौं उपत्यकामा मादक पदार्थ तथा लागुपदार्थ सेवन गरी सवारीसाधन चलाउने एक हजार ३७ जना चालक कारबाहीमा परेका छन् । काठमाडौं उपत्यका ट्राफिक प्रहरी कार्यालयका अनुसार घटस्थापनादेखि कात्तिक ७ गतेसम्म १४ दिनको अवधिमा मादकपदार्थ सेवन (मापसे) गरी सवारी चलाउने एक हजार दुई जना र लागुपदार्थ सेवन (लापसे) गरी सवारी चलाउने [&#8230;]",
-      "published": "2026-10-24T11:51:03+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
+      "title": "देशभर २० विपद्का घटना, आठ जना घाइते",
+      "link": "https://gorkhapatraonline.com/news/227156",
+      "description": "काठमाडौँ, कात्तिक ७ गते । देशभर पछिल्लो २४ घण्टामा विभिन्न प्रकृतिका २० वटा विपद्का घटना भएका छन् । ती घटनामा परी आठ जना घाइते भएका छन् भने करिब रु २४ लाख १५ हजार बराबरको आर्थिक क्...",
+      "published": "2026-10-24T19:53:33+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "society",
+      "image": "https://gorkhapatraonline.com/storage/media/388771/conversions/hawahure1-original.jpg",
       "related_sources": [
-        "OnlineKhabar",
         "Gorkhapatra Online",
+        "OnlineKhabar",
         "Kendrabindu",
-        "Khabarhub",
-        "Ratopati"
+        "Ratopati",
+        "Khabarhub"
       ],
-      "id": "630ce381fbb760fa",
+      "id": "7ba281435a4bc8df",
       "source_count": 5,
       "verified": true,
       "local": false,
-      "score": 156.9,
-      "story_size": 5
+      "score": 155.5,
+      "story_size": 5,
+      "image_local": "images/news_7f5190f0a9b2982490a4.jpg"
     },
     {
-      "title": "तीन महिनामा २८ जनाले त्यागे नागरिकता",
-      "link": "https://www.thahakhabar.com/detail/310817",
+      "title": "यु–१९ एसिया कपः नेपालको प्रारम्भिक टोली घोषणा",
+      "link": "https://www.thahakhabar.com/detail/310823",
       "description": "",
-      "published": "2026-10-24T18:43:04+05:45",
+      "published": "2026-10-24T21:06:53+05:45",
       "source": "Thaha Khabar",
       "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/nagarikta-1785391714.jpg",
+      "image": "https://www.thahakhabar.com/uploads/posts/CAN-1778073060.jpg",
       "related_sources": [
         "Thaha Khabar",
-        "OnlineKhabar",
-        "Khabarhub"
-      ],
-      "id": "83f8a9dad9b7de20",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 144.4,
-      "story_size": 4,
-      "image_local": "images/news_16fcdfcd1a29044a7966.jpg"
-    },
-    {
-      "title": "पछिल्लो २४ घण्टामा देशभर २० विपद्का घटना, आठ जना घाइते",
-      "link": "https://kendrabindu.com/social-affairs/566011/",
-      "description": "काठमाडौं । देशभर पछिल्लो २४ घण्टामा विभिन्न प्रकृतिका २० वटा विपद्का घटना भएका छन् । ती घटनामा परी आठ जना घाइते भएका छन् भने करिब रु २४ लाख १५ हजार बराबरको आर्थिक क्षति भएको छ । राष्ट्रिय विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरणका अनुसार कात्तिक ६ गते बिहान १० बजेदेखि आज आजसम्म देशका विभिन्न जिल्लामा [&#8230;]",
-      "published": "2026-10-24T13:35:23+00:00",
-      "source": "Kendrabindu",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "Kendrabindu",
         "Ratopati",
-        "Khabarhub"
-      ],
-      "id": "c946aef9f8dc4a9c",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 143.9,
-      "story_size": 3
-    },
-    {
-      "title": "मुस्ताङमा बढ्यो पर्यटकीय चहलपहल",
-      "link": "https://www.onlinekhabar.com/2026/10/2043267/tourist-activity-increases-in-mustang",
-      "description": "७ कात्तिक, मुस्ताङ । दशैँदेखि हिमाली मुस्ताङमा पर्यटकीय चहलपहल बढ्दै जान थालेको छ । दशैँअघि सुनसान जस्तै बनेको मुस्ताङमा यही बिहीबारदेखि भने पर्यटकको आगमन सङ्ख्या वृद्धि हुन थालेको हो । रसुवाको भोटेकोशीमा आएको विनाशकारी बाढी र गत असोज ११ गतेको भारी वर्षाका कारण बाढी पहिरो र नदी कटानले मुस्ताङ जोड्ने (बेनी–जोमसोम) सडकमार्ग पूर्ण रूपमा अवरुद्ध [&#8230;]",
-      "published": "2026-10-24T11:53:24+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar",
-        "Ratopati",
+        "Baahrakhari",
         "Lokaantar"
       ],
-      "id": "7525d8c4599702b3",
+      "id": "6582458a961e9926",
+      "source_count": 4,
+      "verified": true,
+      "local": false,
+      "score": 150.4,
+      "story_size": 4,
+      "image_local": "images/news_85dfd5c2653edb7ec976.jpg"
+    },
+    {
+      "title": "तनहुँको जामुनेमा तीन वटा सवारी साधन ठोक्किए",
+      "link": "https://gorkhapatraonline.com/news/227157",
+      "description": "दमौली (तनहुँं), कात्तिक ७ गते । पृथ्वीराजमार्ग अन्तर्गत तनहुँको म्याग्दे गाउँपालिका–२ जामुनेस्थित पृथ्वीराजमार्गमा आज तीन सवारीसाधन एकआपसमा ठोक्किँदा दुई जना घाइते भएका छन् ।दमौलीब...",
+      "published": "2026-10-24T22:43:25+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/388775/conversions/Accident1-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online",
+        "Khabarhub",
+        "OnlineKhabar"
+      ],
+      "id": "79b4bd975c301726",
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 137.1,
-      "story_size": 3
+      "score": 146.9,
+      "story_size": 3,
+      "image_local": "images/news_919b3d29e72dd2d5bb1d.jpg"
     },
     {
-      "title": "दाङमा यस वर्षदेखि सराय नाच मेलाको सुरुवात",
-      "link": "https://www.ratopati.com/story/601087/sarai-dance-festival-begins-in-dang-this-year",
-      "description": "दाङ । दाङमा यस वर्षदेखि सराय नाच मेलाको सुरुवात गरिएको छ । घोराही उपमहानगरपालिका–१८ स्थित अम्बिकेश्वरी मन्दिर व्यवस्थापन समितिको आयोजनामा आज सराय नाच मेलाको सुरुवात गरिएको हो। यसको संरक्षणका लागि सराय नाचको सुरुवात निकै सकारात्मक रहेको",
-      "published": "2026-10-24T12:50:50+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/dang-map_yCoTeipd67.jpg",
+      "title": "राजनीतिमा अनुसन्धानको ठूलो महत्त्व हुन्छ : बिजुक्छे",
+      "link": "https://www.thahakhabar.com/detail/310827",
+      "description": "",
+      "published": "2026-10-24T22:19:15+05:45",
+      "source": "Thaha Khabar",
+      "category": "politics",
+      "image": "https://www.thahakhabar.com/uploads/posts/narayanman-bijukxe-1792859463.jpg",
       "related_sources": [
-        "Ratopati",
+        "Thaha Khabar",
+        "Lokaantar"
+      ],
+      "id": "3720ff600597024d",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 135.2,
+      "story_size": 2,
+      "image_local": "images/news_d2780cce1c758de7af8a.jpg"
+    },
+    {
+      "title": "दाङमा सराय नाच मेलाको सुरुआत",
+      "link": "https://gorkhapatraonline.com/news/227155",
+      "description": "घोराही (दाङ), कात्तिक ७ गते । दाङमा यस वर्षदेखि सराय नाच मेलाको सुरुआत गरिएको छ । घोराही उपमहानगरपालिका–१८ स्थित अम्बिकेश्वरी मन्दिर व्यवस्थापन समितिको आयोजनामा आज सराय नाच मेलाको...",
+      "published": "2026-10-24T22:07:49+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/388774/conversions/KN_DANG_RSS_7_DSC_8269-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online",
         "Kendrabindu"
       ],
-      "id": "e044a44b1c129a08",
+      "id": "540c0d209335e86d",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.9,
+      "score": 134.5,
       "story_size": 2,
-      "image_local": "images/news_4c68a54660a24f360397.jpg"
+      "image_local": "images/news_c7bb922ab0320351f1e7.jpg"
     },
     {
-      "title": "शिक्षण पेसा छाडेर नमुना युवा कृषि उद्यमी बनेका फेन्चु",
-      "link": "https://www.ratopati.com/story/601030/fenchu-who-left-teaching-to-become-a-model-young-agricultural-entrepreneur",
-      "description": "मकवानपुर । ‘पढे–लेखेको मान्छेले जागिर नै खानुपर्छ’ वा ‘उन्नत भविष्यका लागि विदेश नै जानुपर्छ’ भन्ने मान्यता हाम्रो समाजमा जरा गाडेर बसेको छ । उक्त मान्यतालाई चिर्दै हेटौँडा उपमहानगरपालिका–१३, पदमपोखरी, आदामारका ३७ वर्षीय युवा फेन्चु लामा",
-      "published": "2026-10-24T10:30:00+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/fenchu_pE4suS4rC9.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "4d72ce00853343d1",
-      "source_count": 1,
-      "verified": false,
-      "local": true,
-      "score": 118.5,
-      "story_size": 1,
-      "image_local": "images/news_ab3b7db762c57132eea5.webp"
-    },
-    {
-      "title": "उपत्यकामा एकैदिन ३३६ सवारीसाधन कारबाहीमा",
-      "link": "https://www.onlinekhabar.com/2026/10/2043172/336-vehicles-seized-in-kathmandu-valley-in-one-day",
-      "description": "७ कात्तिक, काठमाडौं । काठमाडौं उपत्यकामा एकैदिन सवारी नियम उल्लंघन गर्ने ३३६ सवारीसाधनलाई कारबाही गरिएको छ । काठमाडौं उपत्यका ट्राफिक प्रहरी कार्यालयले दिएको जानकारी अनुसार गएको २४ घण्टामा सवारी नियम उल्लघंन गर्ने ३३६ सवारीसाधन कारबाहीमा परेका छन् । कार्यालयका प्रवक्ता, प्रहरी उपरीक्षक (एसपी) नरेशराज सुवेदीले मादक पदार्थ सेवन गरी सवारीसाधन चलाउने १०२, सिसी क्यामरामार्फत ३९, [&#8230;]",
-      "published": "2026-10-24T08:32:27+00:00",
-      "source": "OnlineKhabar",
+      "title": "तामाङ सम्पदा र रुविभ्याली पदमार्ग खुला",
+      "link": "https://baahrakhari.com/detail/505593",
+      "description": "",
+      "published": "2026-10-24T22:24:52+05:45",
+      "source": "Baahrakhari",
       "category": "nepal",
       "image": "",
       "related_sources": [
-        "OnlineKhabar",
-        "Lokaantar"
+        "Baahrakhari",
+        "Ratopati"
       ],
-      "id": "246fb81d67ce65a1",
+      "id": "ef2a7dab3dc4bbcf",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 113.7,
+      "score": 132.6,
       "story_size": 2
     },
     {
-      "title": "देशभर २० विपद्का घटना, आठजना घाइते",
-      "link": "https://www.thahakhabar.com/detail/310819",
+      "title": "तनहुँको जामुनेमा तीन सवारीसाधन ठोक्किए",
+      "link": "https://baahrakhari.com/detail/505590",
       "description": "",
-      "published": "2026-10-24T19:15:55+05:45",
-      "source": "Thaha Khabar",
-      "category": "society",
-      "image": "https://www.thahakhabar.com/uploads/posts/bipat-pradhikaran-1787726863.jpg",
+      "published": "2026-10-24T20:33:53+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
       "related_sources": [
-        "Thaha Khabar"
+        "Baahrakhari",
+        "Lokaantar"
       ],
-      "id": "6569fdcb1b2fe466",
-      "source_count": 1,
-      "verified": false,
+      "id": "49c9d0de5a16a3ff",
+      "source_count": 2,
+      "verified": true,
       "local": false,
-      "score": 112.6,
-      "story_size": 1,
-      "image_local": "images/news_00f3533c1e417dd3e4ee.jpg"
+      "score": 125.2,
+      "story_size": 2
+    },
+    {
+      "title": "तीन महिनामा चितवनमा २८ जनाले त्यागे नागरिकता",
+      "link": "https://www.onlinekhabar.com/2026/10/2043271/28-people-renounced-citizenship-in-chitwan-in-three-months",
+      "description": "७ कात्तिक, नारायणगढ (चितवन) । जिल्ला प्रशासन कार्यालय चितवन र इलाका प्रशासन कार्यालय माडीबाट चालु आर्थिक वर्षको साउनदेखि असोज मसान्तसम्म तीन हजार ६२ जनाले वंशजका आधारमा नागरिकता प्राप्त गरेका छन् भने छ हजार ७६६ नागरिकताको प्रतिलिपि जारी गरिएको छ । यस अवधिमा २८ जनाले भने नागरिकता परित्याग गरेका छन् । जिल्ला प्रशासन कार्यालय चितवनका सूचना [&#8230;]",
+      "published": "2026-10-24T12:04:24+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar",
+        "Khabarhub",
+        "Kendrabindu"
+      ],
+      "id": "7c7ab3eb29db51e5",
+      "source_count": 3,
+      "verified": true,
+      "local": false,
+      "score": 124.3,
+      "story_size": 3
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. मापसे र लापसे गरी सवारी चलाउने एक हजार ३७ चालक कारबाहीमा\nस्रोत: OnlineKhabar, Gorkhapatra Online, Kendrabindu\nhttps://www.onlinekhabar.com/2026/10/2043265/1037-drivers-taken-into-action-for-drunk-and-distracted-driving\n\n2. तीन महिनामा २८ जनाले त्यागे नागरिकता\nस्रोत: Thaha Khabar, OnlineKhabar, Khabarhub\nhttps://www.thahakhabar.com/detail/310817\n\n3. पछिल्लो २४ घण्टामा देशभर २० विपद्का घटना, आठ जना घाइते\nस्रोत: Kendrabindu, Ratopati, Khabarhub\nhttps://kendrabindu.com/social-affairs/566011/\n\n4. मुस्ताङमा बढ्यो पर्यटकीय चहलपहल\nस्रोत: OnlineKhabar, Ratopati, Lokaantar\nhttps://www.onlinekhabar.com/2026/10/2043267/tourist-activity-increases-in-mustang\n\n5. दाङमा यस वर्षदेखि सराय नाच मेलाको सुरुवात\nस्रोत: Ratopati, Kendrabindu\nhttps://www.ratopati.com/story/601087/sarai-dance-festival-begins-in-dang-this-year\n\n6. शिक्षण पेसा छाडेर नमुना युवा कृषि उद्यमी बनेका फेन्चु\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/601030/fenchu-who-left-teaching-to-become-a-model-young-agricultural-entrepreneur\n\n7. उपत्यकामा एकैदिन ३३६ सवारीसाधन कारबाहीमा\nस्रोत: OnlineKhabar, Lokaantar\nhttps://www.onlinekhabar.com/2026/10/2043172/336-vehicles-seized-in-kathmandu-valley-in-one-day\n\n8. देशभर २० विपद्का घटना, आठजना घाइते\nस्रोत: Thaha Khabar\nhttps://www.thahakhabar.com/detail/310819\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. देशभर २० विपद्का घटना, आठ जना घाइते\nस्रोत: Gorkhapatra Online, OnlineKhabar, Kendrabindu\nhttps://gorkhapatraonline.com/news/227156\n\n2. यु–१९ एसिया कपः नेपालको प्रारम्भिक टोली घोषणा\nस्रोत: Thaha Khabar, Ratopati, Baahrakhari\nhttps://www.thahakhabar.com/detail/310823\n\n3. तनहुँको जामुनेमा तीन वटा सवारी साधन ठोक्किए\nस्रोत: Gorkhapatra Online, Khabarhub, OnlineKhabar\nhttps://gorkhapatraonline.com/news/227157\n\n4. राजनीतिमा अनुसन्धानको ठूलो महत्त्व हुन्छ : बिजुक्छे\nस्रोत: Thaha Khabar, Lokaantar\nhttps://www.thahakhabar.com/detail/310827\n\n5. दाङमा सराय नाच मेलाको सुरुआत\nस्रोत: Gorkhapatra Online, Kendrabindu\nhttps://gorkhapatraonline.com/news/227155\n\n6. तामाङ सम्पदा र रुविभ्याली पदमार्ग खुला\nस्रोत: Baahrakhari, Ratopati\nhttps://baahrakhari.com/detail/505593\n\n7. तनहुँको जामुनेमा तीन सवारीसाधन ठोक्किए\nस्रोत: Baahrakhari, Lokaantar\nhttps://baahrakhari.com/detail/505590\n\n8. तीन महिनामा चितवनमा २८ जनाले त्यागे नागरिकता\nस्रोत: OnlineKhabar, Khabarhub, Kendrabindu\nhttps://www.onlinekhabar.com/2026/10/2043271/28-people-renounced-citizenship-in-chitwan-in-three-months\n\n— I Am From Hetauda"
 }
