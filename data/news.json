@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T17:00:50.765671+00:00",
+  "updated_at": "2026-10-24T19:31:02.603342+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -34,7 +34,7 @@
       "source_count": 5,
       "verified": true,
       "local": false,
-      "score": 155.5,
+      "score": 145.5,
       "story_size": 5,
       "image_local": "images/news_7f5190f0a9b2982490a4.jpg"
     },
@@ -56,7 +56,7 @@
       "source_count": 4,
       "verified": true,
       "local": false,
-      "score": 150.4,
+      "score": 140.4,
       "story_size": 4,
       "image_local": "images/news_85dfd5c2653edb7ec976.jpg"
     },
@@ -77,9 +77,29 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 146.9,
+      "score": 136.8,
       "story_size": 3,
       "image_local": "images/news_919b3d29e72dd2d5bb1d.jpg"
+    },
+    {
+      "title": "फापरखेत पहिरो र सिङ्गा–तातोपानी कुण्ड संरक्षणमा मन्त्री पुनको चासो",
+      "link": "https://www.ratopati.com/story/601109/minister-puns-interest-in-phaparkhet-landslide-and-singa-tatopani-pond-conservation",
+      "description": "म्याग्दी । विज्ञान, प्रविधि तथा नवप्रवर्तन मन्त्री महावीर पुनले म्याग्दीको पश्चिमी क्षेत्रका तीन वटा स्थानीय तहलाई जिल्ला सदरमुकाम बेनीसँग जोड्ने बेनी–दरबाङ सडकको मुख्य चुनौती बनेको फापरखेत पहिरोको समस्या समाधानमा चासो देखाएका छन् । म्याग्दीबाट निर्वाचित प्रतिनिधिसभा",
+      "published": "2026-10-24T17:28:19+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/kKxiu6udyE.jpg",
+      "related_sources": [
+        "Ratopati",
+        "Thaha Khabar"
+      ],
+      "id": "68e2c8ccf119e15c",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 128.8,
+      "story_size": 2,
+      "image_local": "images/news_39bf5f2b5743137c1579.jpg"
     },
     {
       "title": "राजनीतिमा अनुसन्धानको ठूलो महत्त्व हुन्छ : बिजुक्छे",
@@ -97,7 +117,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 135.2,
+      "score": 125.2,
       "story_size": 2,
       "image_local": "images/news_d2780cce1c758de7af8a.jpg"
     },
@@ -117,7 +137,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 134.5,
+      "score": 124.5,
       "story_size": 2,
       "image_local": "images/news_c7bb922ab0320351f1e7.jpg"
     },
@@ -137,7 +157,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 132.6,
+      "score": 122.6,
       "story_size": 2
     },
     {
@@ -156,7 +176,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 125.2,
+      "score": 115.2,
       "story_size": 2
     },
     {
@@ -176,8 +196,141 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 124.3,
+      "score": 114.2,
       "story_size": 3
+    },
+    {
+      "title": "१२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार",
+      "link": "https://www.ratopati.com/story/601107/12-news-at-12-these-are-todays-top-news-stories",
+      "description": "काठमाडौँ। आज दिनभर भएका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति रातोपाटी ब्रिफिङमा १२ बजे १२ समाचार लिएर हाजिर भएका छौँ । १. राष्ट्रिय जागरण अभियानमा नेकपा नेपाली कम्युनिस्ट पार्टी (नेकपा) ले दुई महिने राष्ट्रिय जागरण अभियान सुरु गरेको",
+      "published": "2026-10-24T18:15:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/12-am-final_viqawbfig2-(1)_fam6WtIhIE.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "23aa2677dd04c11e",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 107.9,
+      "story_size": 1,
+      "image_local": "images/news_e6051b04792cc7059ae6.jpg"
+    },
+    {
+      "title": "पोखरामा कोजाग्रत पूर्णिमामा दसैँ पर्यटन तथा सांस्कृतिक महोत्सव",
+      "link": "https://www.ratopati.com/story/601110/dashain-tourism-and-cultural-festival-on-kojagrat-purnima-in-pokhara",
+      "description": "कास्की । ‘टीका, जमरा र चङ्गा चेट, पोखरामा पर्यटकसँग दसैँ भेट’ भन्ने नारासहित बडादसैँको अन्तिम दिन कोजाग्रत पूर्णिमाका अवसरमा आइतबार दसैँ पर्यटन तथा सांस्कृतिक महोत्सव हुँदै छ । महिला पर्यटन व्यवसायी मञ्च (ओटेफ) को आयोजनामा फेवाताल",
+      "published": "2026-10-24T17:32:42+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://rpcdn.ratopati.com/media/albums/pokhara-fewatal_SMDZp0Wyfo.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "df5b8a3f5dd5723e",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 105.1,
+      "story_size": 1,
+      "image_local": "images/news_fd05643db8c4f3512fc2.jpg"
+    },
+    {
+      "title": "‘पदभन्दा ठुलो पौरख’ पुस्तक लोकार्पित",
+      "link": "https://gorkhapatraonline.com/news/227159",
+      "description": "गोरखापत्र अनलाइनकाठमाडौँ, कात्तिक ७ गते। सरकारका पूर्व उपसचिव मीनप्रसाद ज्ञवालीद्वारा लिखित आत्मकथा पुस्तक ‘पदभन्दा ठुलो पौरख’ सार्वजनिक भएको छ। शनिवार काठमाडौँको कमलादीस्थित नेपाल...",
+      "published": "2026-10-24T23:12:02+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/388777/conversions/book-release-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "d1fe8869a5fb364a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 104.7,
+      "story_size": 1,
+      "image_local": "images/news_0c0c3167292120dd623f.jpg"
+    },
+    {
+      "title": "चङ्खेली गाउँपालिकामा मौसमी फ्लुबाट चार जनाको मृत्यु",
+      "link": "https://gorkhapatraonline.com/news/227158",
+      "description": "हुम्ला समाचारदाताहुम्ला, कात्तिक ७ गते । तीन हप्ता यता कडा खाले रुघाखोकीको प्रकोपले चङ्खेली गाउँपालिकामा चार जना बिरामीको मृत्यु भएको छ । मौसममा आएको परिवर्तनसँगै चिसो बढेको मौसमी...",
+      "published": "2026-10-24T23:12:00+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "society",
+      "image": "https://gorkhapatraonline.com/storage/media/388778/conversions/death-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "fbb3dff418944eda",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 104.7,
+      "story_size": 1,
+      "image_local": "images/news_c60ead88c3468b98478f.jpg"
+    },
+    {
+      "title": "अन्तिम निर्वाचन बहसमा लुला र बोल्सोनारो दुवैको शान्त स्वर",
+      "link": "https://www.ratopati.com/story/601108/lula-and-bolsonaro-both-sound-calm-in-final-election-debate",
+      "description": "काठमाडौँ । ब्राजिलका राष्ट्रपति लुइज इनासियो लुला दा सिल्भा र दक्षिणपन्थी नेता फ्लाभियो बोल्सोनारोले अन्तिम दिन शुक्रबार कूटनीतिक बहस गरेका छन् । निर्वाचनको दुई दिनअघि दुवैले तीखो टिप्पणी गर्न भने छाडेनन् । पहिलो चरणको मतदानमा अति–दक्षिणपन्थी पूर्वराष्ट्रपति",
+      "published": "2026-10-24T17:24:34+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://rpcdn.ratopati.com/media/albums/brazil-flag_rbSmpilStW.JPG",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "8288e7657ca86292",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 104.6,
+      "story_size": 1,
+      "image_local": "images/news_31b6a4c0504281a8afc3.jpg"
+    },
+    {
+      "title": "युरोपका जेन–जी किन आन्दोलन हाँक्दैछन् ?",
+      "link": "https://www.ratopati.com/story/601106/why-are-europes-gen-zs-leading-the-movement",
+      "description": "काठमाडौँ । युरोपभरि युवा पुस्ता शिक्षा क्षेत्रमा बजेटको अभावदेखि आवासको बढ्दो लागत सम्मका विभिन्न मुद्दालाई लिएर प्रदर्शनमा उत्रिएको छ । यसले पहिल्यै दबाबमा रहेका सरकारहरूका लागि ठुलो चुनौती खडा गरेको छ । साथै, आफ्ना अभिभावकको पुस्ताले",
+      "published": "2026-10-24T17:15:06+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/capture5_nKqTe4gZ2v.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "22f7e542e0b5a904",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 103.9,
+      "story_size": 1,
+      "image_local": "images/news_681fcc30575c4fe755f7.webp"
+    },
+    {
+      "title": "अमेरिकी मध्यावधि निर्वाचन: क्यानडामाथिका केही वस्तुको शुल्क हटाइयो",
+      "link": "https://www.ratopati.com/story/601105/us-midterm-elections-tariffs-on-some-canadian-goods-lifted",
+      "description": "काठमाडौँ । ट्रम्प प्रशासनले क्यानडाबाट आउने आयातमाथि लगाइएका केही शुल्क शुक्रबार हटाएको छ । मध्यावधि निर्वाचन हुन दुई साता बाँकी रहँदा यो कदम चालिएको हो । कमजोर अवस्थामा रहेकी एक रिपब्लिकन उम्मेदवारले यो परिवर्तनका लागि लबिङ",
+      "published": "2026-10-24T17:12:17+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/usa-canada-trade-war_3FlRfwCcnj.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "53de3cba2e9b4413",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 103.8,
+      "story_size": 1,
+      "image_local": "images/news_17975206d9ca7a8dc367.jpg"
     },
     {
       "title": "मापसे र लापसे गरी सवारी चलाउने एक हजार ३७ चालक कारबाहीमा",
@@ -195,7 +348,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 113.4,
+      "score": 103.3,
       "story_size": 2
     },
     {
@@ -213,7 +366,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.2,
+      "score": 101.2,
       "story_size": 1,
       "image_local": "images/news_71e78fed54bda2b3e5ce.jpg"
     },
@@ -232,7 +385,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.0,
+      "score": 100.9,
       "story_size": 1,
       "image_local": "images/news_5ccbd27b2122b3b360e4.jpg"
     },
@@ -251,7 +404,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.7,
+      "score": 100.6,
       "story_size": 1,
       "image_local": "images/news_b18c650c501cca29e77f.jpg"
     },
@@ -270,7 +423,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.0,
+      "score": 99.9,
       "story_size": 1,
       "image_local": "images/news_7ebd883969601faa3f1d.webp"
     },
@@ -289,28 +442,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.6,
+      "score": 99.6,
       "story_size": 1,
       "image_local": "images/news_1600e886ad021d5925c1.webp"
-    },
-    {
-      "title": "फापरखेत पहिरो र सिङ्गा–तातोपानी कुण्ड संरक्षणमा मन्त्री पुनको चासो",
-      "link": "https://www.thahakhabar.com/detail/310824",
-      "description": "",
-      "published": "2026-10-24T21:29:46+05:45",
-      "source": "Thaha Khabar",
-      "category": "politics",
-      "image": "https://www.thahakhabar.com/uploads/posts/pun-1792856177.jpg",
-      "related_sources": [
-        "Thaha Khabar"
-      ],
-      "id": "880c7e86d3d9b1ca",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 107.9,
-      "story_size": 1,
-      "image_local": "images/news_01136bf97ca62c21df4b.jpg"
     },
     {
       "title": "निकोलस ज्याक्सनको दुई गोलमा म्यानचेस्टर सिटी पराजित",
@@ -327,7 +461,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.6,
+      "score": 97.6,
       "story_size": 1,
       "image_local": "images/news_ca9677623d1665e7c55a.webp"
     },
@@ -346,7 +480,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.0,
+      "score": 97.0,
       "story_size": 1,
       "image_local": "images/news_ba026176e91072834ed4.jpg"
     },
@@ -365,13 +499,13 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.2,
+      "score": 96.1,
       "story_size": 1
     },
     {
-      "title": "हिमालय स्पोर्ट्स ‘रेड बुल क्रिकेट लाइभ’का प्रस्तोता नवनीत कृष्ण नेपाल आइपुगे",
+      "title": "हिमालय स्पोर्ट्स ‘रेड बुल क्रिकेट लाइभ’ का प्रस्तोता नवनीत कृष्ण नेपाल आइपुगे",
       "link": "https://www.onlinekhabar.com/2026/10/2043344/himalaya-sports-red-bull-cricket-live-presenter-navneet-krishna-arrives-in-nepal",
-      "description": "हिमालय स्पोर्ट्सबाट प्रसारण हुने कार्यक्रम ‘रेड बुल क्रिकेट लाइभ’का प्रस्तोता नवनीत कृष्ण नेपाल आइपुगेका छन्।",
+      "description": "हिमालय स्पोर्ट्सबाट प्रसारण हुने कार्यक्रम ‘रेड बुल क्रिकेट लाइभ’ का प्रस्तोता नवनीत कृष्ण नेपाल आइपुगेका छन् ।",
       "published": "2026-10-24T15:51:36+00:00",
       "source": "OnlineKhabar",
       "category": "sports",
@@ -379,11 +513,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
-      "id": "908dc85826cfb229",
+      "id": "0b73f05478ce8388",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.4,
+      "score": 95.4,
       "story_size": 1
     },
     {
@@ -401,25 +535,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.1,
-      "story_size": 1
-    },
-    {
-      "title": "कर्णालीमा सवारी दुर्घटनाबाट मृत्यु हुनेको संख्या सुर्खेतमा उच्च",
-      "link": "https://baahrakhari.com/detail/505592",
-      "description": "",
-      "published": "2026-10-24T21:28:34+05:45",
-      "source": "Baahrakhari",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "168cbcc46a09e969",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 104.9,
+      "score": 95.0,
       "story_size": 1
     },
     {
@@ -437,7 +553,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.9,
+      "score": 94.9,
       "story_size": 1,
       "image_local": "images/news_89e8910ea7b3b6413af8.jpg"
     },
@@ -456,9 +572,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.9,
+      "score": 94.9,
       "story_size": 1,
       "image_local": "images/news_1604e592eb28eb3ff38d.webp"
+    },
+    {
+      "title": "कर्णालीमा सवारी दुर्घटनाबाट मृत्यु हुनेको संख्या सुर्खेतमा उच्च",
+      "link": "https://baahrakhari.com/detail/505592",
+      "description": "",
+      "published": "2026-10-24T21:28:34+05:45",
+      "source": "Baahrakhari",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "168cbcc46a09e969",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 94.8,
+      "story_size": 1
     },
     {
       "title": "छठ तयारी : सिरहाका बजारमा चहलपहल (तस्विरहरू)",
@@ -475,7 +609,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.6,
+      "score": 94.6,
       "story_size": 1
     },
     {
@@ -493,7 +627,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.6,
+      "score": 94.6,
       "story_size": 1
     },
     {
@@ -511,7 +645,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.5,
+      "score": 94.5,
       "story_size": 1
     },
     {
@@ -529,7 +663,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.5,
+      "score": 94.4,
       "story_size": 1
     },
     {
@@ -547,7 +681,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.4,
+      "score": 94.4,
       "story_size": 1
     },
     {
@@ -565,7 +699,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.4,
+      "score": 94.4,
+      "story_size": 1
+    },
+    {
+      "title": "विश्व राजनीतिबारे प्रचण्ड : दोस्रो विश्व युद्धपछिको सेट भत्किँदैछ, नयाँ बनेको छैन",
+      "link": "https://www.onlinekhabar.com/2026/10/2043273/prachanda-on-world-politics-the-post-world-war-ii-set-is-collapsing-a-new-one-has-not-been-built-yet",
+      "description": "‘रुस–युक्रेनको कुरा होस् । चाहे इजलायल–प्यालेस्टाइनको कुरा होस् । नयाँ सेट बनिसकेको छैन । यस्तो बडो विचित्रको संक्रमणकालीन अवस्थाबाट विश्व राजनीतिक पनि गुज्रेको देखिँदैछ’ उनले भनेका छन्",
+      "published": "2026-10-24T15:35:13+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "1d819f466589300e",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 94.3,
       "story_size": 1
     },
     {
@@ -583,27 +735,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.4,
+      "score": 94.3,
       "story_size": 1,
       "image_local": "images/news_3d12f9b4495ef9c3a324.webp"
-    },
-    {
-      "title": "विश्व राजनीतिबारे प्रचण्ड : दोस्रो विश्व युद्धपछिको सेट भत्किँदैछ, नयाँ बनेको छैन",
-      "link": "https://www.onlinekhabar.com/2026/10/2043273/prachanda-on-world-politics-the-post-world-war-ii-set-is-collapsing-a-new-one-has-not-been-built-yet",
-      "description": "‘रुस–युक्रेनको कुरा होस् । चाहे इजलायल–प्यालेस्टाइनको कुरा होस् । नयाँ सेट बनिसकेको छैन । यस्तो बडो विचित्रको संक्रमणकालीन अवस्थाबाट विश्व राजनीतिक पनि गुज्रेको देखिँदैछ’ उनले भनेका छन्",
-      "published": "2026-10-24T15:35:13+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "1d819f466589300e",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 104.3,
-      "story_size": 1
     },
     {
       "title": "धानको बाला झुल्यो खेतैमा… (तस्विरहरू)",
@@ -620,7 +754,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.3,
+      "score": 94.2,
       "story_size": 1
     },
     {
@@ -638,7 +772,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.3,
+      "score": 94.2,
       "story_size": 1,
       "image_local": "images/news_76d389abeecf45300057.webp"
     },
@@ -657,7 +791,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.1,
+      "score": 94.1,
       "story_size": 1
     },
     {
@@ -675,7 +809,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.8,
+      "score": 93.7,
       "story_size": 1,
       "image_local": "images/news_5c8b45e78f416fab6dd7.webp"
     },
@@ -694,7 +828,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.4,
+      "score": 93.4,
       "story_size": 1,
       "image_local": "images/news_c6120b14473372ccebfa.jpg"
     },
@@ -713,7 +847,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.0,
+      "score": 93.0,
       "story_size": 1,
       "image_local": "images/news_6ad94411a54309ed16da.jpg"
     },
@@ -732,7 +866,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.9,
+      "score": 92.9,
       "story_size": 1
     },
     {
@@ -750,7 +884,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.3,
+      "score": 92.2,
       "story_size": 1,
       "image_local": "images/news_49764cd4353886d428d6.jpg"
     },
@@ -769,7 +903,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.0,
+      "score": 91.9,
       "story_size": 1,
       "image_local": "images/news_379301245ee2d8969cf3.webp"
     },
@@ -788,7 +922,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.7,
+      "score": 91.7,
       "story_size": 1
     },
     {
@@ -806,7 +940,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.3,
+      "score": 91.3,
       "story_size": 1
     },
     {
@@ -824,7 +958,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.3,
+      "score": 91.3,
       "story_size": 1,
       "image_local": "images/news_ba026176e91072834ed4.jpg"
     },
@@ -843,7 +977,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.0,
+      "score": 90.9,
       "story_size": 1
     },
     {
@@ -861,7 +995,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.4,
+      "score": 90.3,
       "story_size": 1
     },
     {
@@ -879,7 +1013,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.6,
+      "score": 89.5,
       "story_size": 1,
       "image_local": "images/news_6b56422bd27d8a0453d2.jpg"
     },
@@ -898,7 +1032,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.5,
+      "score": 88.5,
       "story_size": 1,
       "image_local": "images/news_3682c0ea29a6effa32f3.jpg"
     },
@@ -917,7 +1051,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.0,
+      "score": 87.9,
       "story_size": 1,
       "image_local": "images/news_d337f28e99a6dbc8b1f9.webp"
     },
@@ -936,7 +1070,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.3,
+      "score": 87.3,
       "story_size": 1
     },
     {
@@ -954,7 +1088,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.3,
+      "score": 87.3,
       "story_size": 1
     },
     {
@@ -972,7 +1106,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.2,
+      "score": 87.2,
       "story_size": 1
     },
     {
@@ -990,7 +1124,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.9,
+      "score": 86.9,
       "story_size": 1,
       "image_local": "images/news_361c6ceffbd21c1033d1.jpg"
     },
@@ -1009,7 +1143,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.5,
+      "score": 86.4,
       "story_size": 1
     },
     {
@@ -1027,7 +1161,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.4,
+      "score": 86.4,
       "story_size": 1
     },
     {
@@ -1045,7 +1179,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.4,
+      "score": 86.4,
       "story_size": 1,
       "image_local": "images/news_31df3351308522910b83.webp"
     },
@@ -1064,7 +1198,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.4,
+      "score": 86.3,
       "story_size": 1,
       "image_local": "images/news_4c68a54660a24f360397.jpg"
     },
@@ -1083,7 +1217,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.2,
+      "score": 86.1,
       "story_size": 1
     },
     {
@@ -1101,7 +1235,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.1,
+      "score": 86.1,
       "story_size": 1,
       "image_local": "images/news_5d809773025b4a5e3da3.webp"
     },
@@ -1120,7 +1254,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.0,
+      "score": 86.0,
       "story_size": 1,
       "image_local": "images/news_58e9d9f898567cd4b675.jpg"
     },
@@ -1139,7 +1273,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.7,
+      "score": 85.7,
       "story_size": 1,
       "image_local": "images/news_4381c1831520f519f16e.jpg"
     },
@@ -1158,7 +1292,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.5,
+      "score": 85.4,
       "story_size": 1
     },
     {
@@ -1176,7 +1310,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.5,
+      "score": 85.4,
       "story_size": 1,
       "image_local": "images/news_412b2bbd491234c70b0f.webp"
     },
@@ -1195,28 +1329,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.3,
+      "score": 85.3,
       "story_size": 1,
       "image_local": "images/news_c30b0bf59a9a57158deb.jpg"
-    },
-    {
-      "title": "सर्लाहीको बाँकेमा ट्रक र इभी ठोक्किए, १२ जना घाइते",
-      "link": "https://gorkhapatraonline.com/news/227150",
-      "description": "जनार्जन खत्रीसर्लाही, कात्तिक ७ गते । पूर्वपश्चिम महेन्द्र राजमार्गस्थित सर्लाहीको ईश्वरपुर नगरपालिका–१२, बाँके जङ्गलमा शनिबार ट्रक र इभी गाडी ठोक्किँदा १२ जना घाइते भएका छन् । सर्...",
-      "published": "2026-10-24T18:15:36+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/388762/conversions/Sarlahi-Accident-Photo-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "37a8b1ac2d36d312",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 95.0,
-      "story_size": 1,
-      "image_local": "images/news_0fe9cde777faf7390353.jpg"
     },
     {
       "title": "विश्व भोकमरी सूचकांकमा नेपालको सुधार",
@@ -1233,27 +1348,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.7,
+      "score": 84.6,
       "story_size": 1
-    },
-    {
-      "title": "गुल्मीमा ५५.९२ प्रतिशत नागरिकले गराए स्वास्थ्य बिमा",
-      "link": "https://gorkhapatraonline.com/news/227149",
-      "description": "रमेश विश्वकर्मागुल्मी, कात्तिक ७ गते। गुल्मीमा ५५ दशमलव ९२ प्रतिशत नागरिक स्वास्थ्य बिमामा आबद्ध भएका छन् । सामाजिक सुरक्षाअन्तर्गत सरकारले ल्याएको स्वास्थ्य बिमाप्रति यस जिल्लाका...",
-      "published": "2026-10-24T18:07:58+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "business",
-      "image": "https://gorkhapatraonline.com/storage/media/388761/conversions/IMG_4018-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "dd78dd55b6c34713",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 94.5,
-      "story_size": 1,
-      "image_local": "images/news_87b1627248da63004abf.jpg"
     },
     {
       "title": "दाङमा सराय नाचको रौनक सुरु",
@@ -1270,7 +1366,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.4,
+      "score": 84.4,
       "story_size": 1
     },
     {
@@ -1288,7 +1384,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.4,
+      "score": 84.4,
       "story_size": 1
     },
     {
@@ -1306,7 +1402,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.4,
+      "score": 84.4,
       "story_size": 1
     },
     {
@@ -1324,7 +1420,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.3,
+      "score": 84.2,
       "story_size": 1
     },
     {
@@ -1342,28 +1438,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.0,
+      "score": 83.9,
       "story_size": 1,
       "image_local": "images/news_108c0a794c1d36b47448.webp"
-    },
-    {
-      "title": "छठको रौनकले बढ्यो बाँसका सामग्रीको व्यापार, तस्बिरहरू",
-      "link": "https://www.ratopati.com/story/601083/the-excitement-of-chhath-has-increased-the-trade-of-bamboo-products-in-sirahas-market-photos",
-      "description": "सिरहा। छठ पर्व नजिकिएसँगै सिरहाका बजारमा छठ पूजामा प्रयोग हुने बाँसका सामग्रीको किनबेच बढ्न थालेको छ। सूर्यदेवलाई अर्घ्य दिन आवश्यक पूजा सामग्री राख्न प्रयोग गरिने ढाकी, नाङ्लो, सुप र कोनियालगायतका सामग्री खरिद गर्न बजारमा सर्वसाधारणको चहलपहल",
-      "published": "2026-10-24T12:11:00+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/byaopar_C2AVEShy4q.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "9099599e19c9e326",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 93.7,
-      "story_size": 1,
-      "image_local": "images/news_17aaef38d3c6af57d9e6.webp"
     },
     {
       "title": "काठमाडौं ओर्लिएको सुपरसोनिक विमान : आवाजभन्दा छिटो उड्थ्यो, तैपनि किन बन्द भयो?",
@@ -1380,46 +1457,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.7,
+      "score": 82.7,
       "story_size": 1
-    },
-    {
-      "title": "पाकिस्तानमा खाना पकाउने ग्यासको मूल्य आकासियो, एउटा सिलिन्डरको ७ हजार रुपैयाँ",
-      "link": "https://www.ratopati.com/story/601082/the-price-of-cooking-gas-has-skyrocketed-in-pakistan-reaching-rs-7000-per-cylinder",
-      "description": "काठमाडौँ। इरानबाट आपूर्ति बन्द भएपछि पाकिस्तानमा खाना पकाउने एलपीजी ग्यासको मूल्य अचाक्ली बढेको छ । १२ किलोको एउटा सिलिन्डरको मूल्य केही दिनमै ४ हजार ५०० पाकिस्तानी रुपैयाँबाट बढेर ७ हजार रुपैयाँ पुगेको छ। रोयटर्सका अनुसार पाकिस्तान",
-      "published": "2026-10-24T11:52:48+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/gyash-pakistan_bp8gzAHvk5.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "7d871c704bdb7228",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 92.5,
-      "story_size": 1,
-      "image_local": "images/news_9532a2db267242202d27.webp"
-    },
-    {
-      "title": "राष्ट्रिय जागरण अभियानमा नेकपा : केन्द्रदेखि स्थानीय तहसम्मका नेता कार्यकर्ता परिचालन",
-      "link": "https://www.ratopati.com/story/601081/ncp-mobilizes-leaders-and-cadres-from-the-center-to-the-local-level-in-the-national-awareness-campaign",
-      "description": "काठमाडौँ। नेपाली कम्युनिस्ट पार्टी (नेकपा) ले दुई महिने राष्ट्रिय जागरण अभियान सुरु गरेको छ। अभियानको नेकपाका संयोजक पुष्पकमल दाहाल र सहसंयोजक माधवकुमार नेपालले शनिबार पार्टी कार्यालय पेरिसडाँडाबाट सुरुवात गरेका छन्। अभियान अन्तर्गत उक्त पार्टीका केन्द्रीय नेताहरूको नेतृत्वको",
-      "published": "2026-10-24T11:49:44+00:00",
-      "source": "Ratopati",
-      "category": "business",
-      "image": "https://npcdn.ratopati.com/media/news/rastriya-jagaran-abhiyan_2uqfIUbic1.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "1e60afdecbac9127",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 92.3,
-      "story_size": 1,
-      "image_local": "images/news_b53b13ffba1f9e319949.webp"
     },
     {
       "title": "दसैँ मनाउन बाहिरिएकाहरु धमाधम काठमाडौं फर्किँदै",
@@ -1436,7 +1475,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.2,
+      "score": 82.2,
       "story_size": 1
     },
     {
@@ -1454,46 +1493,8 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 92.1,
+      "score": 82.0,
       "story_size": 1
-    },
-    {
-      "title": "११२ रनमा ६ विकेट गुमाएको भारतको चमत्कारिक जित, तिलक र नितेशले पल्टाए खेल",
-      "link": "https://www.ratopati.com/story/601080/indias-miraculous-win-after-losing-6-wickets-for-112-runs-tilak-and-nitesh-turned-the-game-around",
-      "description": "काठमाडौँ। न्युजिल्यान्डविरुद्धको टी–२० खेलमा भारतले हारको मुखबाट रोमाञ्चक पुनरागमन गर्दै ४ विकेटको जित निकालेको छ। तिलक वर्मा र नितेश कुमार रेड्डीको आक्रामक ब्याटिङमा भारतले पाँच खेलको सिरिजमा २–० को अग्रता बनाएको छ । शनिबार न्युजिल्यान्डले दिएको",
-      "published": "2026-10-24T11:42:38+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/player_Ux7WNp9Qlo.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "c30d4a73e9249885",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 91.8,
-      "story_size": 1,
-      "image_local": "images/news_01798699f158a2720edc.webp"
-    },
-    {
-      "title": "फिफा अध्यक्ष इन्फान्टिनोले भने– विश्व फुटबलको बहुमतको समर्थन मलाई छ",
-      "link": "https://www.ratopati.com/story/601079/fifa-president-infantino-said-i-have-the-support-of-the-majority-of-world-football",
-      "description": "काठमाडौँ। फिफा अध्यक्ष जियानी इन्फान्टिनोले विश्व फुटबलको ठुलो बहुमतको समर्थन आफूलाई रहेको दाबी गरेका छन् । बीबीसी स्पोर्ट्ससँगको अन्तर्वार्तामा इन्फान्टिनोले फिफामा फरक विचार हुनु स्वाभाविक भएको भन्दै सबैको मत र विचारको सम्मान गर्नुपर्ने बताए । फिफाको व्यावसायिक",
-      "published": "2026-10-24T11:37:28+00:00",
-      "source": "Ratopati",
-      "category": "sports",
-      "image": "https://npcdn.ratopati.com/media/news/infantino_oegPPlOnMF.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "a484ecf05e8367b5",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 91.5,
-      "story_size": 1,
-      "image_local": "images/news_e461957c0c00b06582e4.webp"
     },
     {
       "title": "दुई विमान एकैपटक दुर्घटना हुँदा चार पाइलटको मृत्यु",
@@ -1510,25 +1511,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.7,
-      "story_size": 1
-    },
-    {
-      "title": "चितवनमा तीन महिनामा ३ हजार ६२ जनाले लिए वंशजका आधारमा नागरिकता, २८ जनाले त्यागे",
-      "link": "https://www.ratopati.com/story/601078/in-chitwan-3062-people-obtained-citizenship-based-on-descent-in-three-months-28-people-renounced-it",
-      "description": "चितवन । चितवनमा चालु आर्थिक वर्षको साउनदेखि असोज मसान्तसम्म तीन हजार ६२ जनाले वंशजका आधारमा नागरिकता प्राप्त गरेका छन् । यस अवधिमा ६ हजार ७६६ नागरिकताको प्रतिलिपि जारी गरिएको छ । यस्तै २८ जनाले नागरिकता",
-      "published": "2026-10-24T11:26:07+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/citizenship-nagarikta_B3febg986v.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "6bb479ffa22aa3ca",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 90.7,
+      "score": 80.7,
       "story_size": 1
     },
     {
@@ -1546,7 +1529,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.9,
+      "score": 79.8,
       "story_size": 1
     },
     {
@@ -1564,7 +1547,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.5,
+      "score": 79.5,
       "story_size": 1
     },
     {
@@ -1582,7 +1565,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.5,
+      "score": 79.5,
       "story_size": 1
     },
     {
@@ -1600,7 +1583,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.0,
+      "score": 79.0,
       "story_size": 1
     },
     {
@@ -1618,7 +1601,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.7,
+      "score": 78.6,
       "story_size": 1
     },
     {
@@ -1636,7 +1619,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.6,
+      "score": 78.6,
       "story_size": 1
     },
     {
@@ -1654,7 +1637,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.8,
+      "score": 75.8,
       "story_size": 1
     },
     {
@@ -1672,7 +1655,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.6,
+      "score": 75.6,
       "story_size": 1
     },
     {
@@ -1690,7 +1673,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.4,
+      "score": 75.4,
       "story_size": 1
     },
     {
@@ -1708,7 +1691,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.0,
+      "score": 75.0,
       "story_size": 1
     },
     {
@@ -1726,7 +1709,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.6,
+      "score": 74.6,
       "story_size": 1
     },
     {
@@ -1744,7 +1727,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.1,
+      "score": 74.1,
       "story_size": 1
     },
     {
@@ -1762,7 +1745,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.9,
+      "score": 73.9,
       "story_size": 1
     },
     {
@@ -1780,7 +1763,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.8,
+      "score": 73.8,
       "story_size": 1
     },
     {
@@ -1798,7 +1781,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.7,
+      "score": 73.6,
       "story_size": 1
     },
     {
@@ -1816,7 +1799,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.6,
+      "score": 73.6,
       "story_size": 1
     },
     {
@@ -1834,7 +1817,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.5,
+      "score": 73.4,
       "story_size": 1
     },
     {
@@ -1852,7 +1835,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.5,
+      "score": 72.5,
       "story_size": 1
     },
     {
@@ -1870,7 +1853,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.5,
+      "score": 72.5,
       "story_size": 1
     },
     {
@@ -1888,7 +1871,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.1,
+      "score": 72.0,
       "story_size": 1
     },
     {
@@ -1906,7 +1889,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.6,
+      "score": 71.5,
       "story_size": 1
     },
     {
@@ -1924,7 +1907,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.3,
+      "score": 71.3,
       "story_size": 1
     },
     {
@@ -1942,7 +1925,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.7,
+      "score": 70.7,
       "story_size": 1
     },
     {
@@ -1960,7 +1943,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.3,
+      "score": 70.3,
       "story_size": 1
     },
     {
@@ -1978,7 +1961,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.8,
+      "score": 69.7,
       "story_size": 1
     },
     {
@@ -1996,7 +1979,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.4,
+      "score": 68.4,
       "story_size": 1
     },
     {
@@ -2014,7 +1997,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.5,
+      "score": 67.5,
       "story_size": 1
     },
     {
@@ -2032,7 +2015,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.1,
+      "score": 66.1,
       "story_size": 1
     },
     {
@@ -2050,7 +2033,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.8,
+      "score": 65.8,
       "story_size": 1
     },
     {
@@ -2068,7 +2051,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.5,
+      "score": 65.4,
       "story_size": 1
     },
     {
@@ -2086,7 +2069,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.0,
+      "score": 65.0,
       "story_size": 1
     },
     {
@@ -2104,7 +2087,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.0,
+      "score": 64.9,
       "story_size": 1
     },
     {
@@ -2122,7 +2105,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.7,
+      "score": 64.7,
       "story_size": 1
     },
     {
@@ -2140,7 +2123,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.4,
+      "score": 64.4,
       "story_size": 1
     },
     {
@@ -2158,7 +2141,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.9,
+      "score": 63.9,
       "story_size": 1
     },
     {
@@ -2176,7 +2159,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.5,
+      "score": 63.4,
       "story_size": 1
     },
     {
@@ -2194,7 +2177,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.0,
+      "score": 62.0,
       "story_size": 1
     },
     {
@@ -2212,7 +2195,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.4,
+      "score": 61.4,
       "story_size": 1
     },
     {
@@ -2230,7 +2213,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.0,
+      "score": 60.9,
       "story_size": 1
     },
     {
@@ -2248,7 +2231,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.8,
+      "score": 59.8,
       "story_size": 1
     },
     {
@@ -2266,7 +2249,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.3,
+      "score": 58.2,
       "story_size": 1
     },
     {
@@ -2284,7 +2267,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.8,
+      "score": 56.8,
       "story_size": 1
     },
     {
@@ -2302,7 +2285,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.7,
+      "score": 56.6,
       "story_size": 1
     },
     {
@@ -2320,7 +2303,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 63.0,
+      "score": 53.0,
       "story_size": 1
     },
     {
@@ -2338,7 +2321,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 58.0,
+      "score": 47.9,
       "story_size": 1
     },
     {
@@ -2356,7 +2339,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 56.1,
+      "score": 46.0,
       "story_size": 1
     },
     {
@@ -2767,6 +2750,24 @@
         "Lokaantar"
       ],
       "id": "52ce746fc30063c6",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 10,
+      "story_size": 1
+    },
+    {
+      "title": "इथियोपियामा क्षेत्रीय सेनाबीच झडप, दर्जनौँको मृत्यु, १० हजारभन्दा बढी विस्थापित",
+      "link": "http://lokaantar.com/story/331842/2026/10/24/ethiopia-",
+      "description": "&nbsp;इथियोपियाका सोमाली र ओरोमिया क्षेत्रका सेना तथा विद्रोही लडाकुबीच भएको झडपमा दर्जनौँ व्यक्तिको मृत्यु भएको छ । झडपपछि कम्तीमा १० हजार मानिस घर छाडेर छिमेकी देश केन्या पुगेका छन् ।क्षेत्रीय विवादका कारण मंगलबारदेखि सुरु भएको झडप शनिबारसम्म पनि जारी रहेको स्थानीय स्रोतलाई उद्धृत गर्दै एएफपीले जनाएको छ ।स्थानीय बासिन्दा वाको गनालेका अनुसार सोमाली लडाकुले सहरका ठूला भवनबाट भारी हतियार प्रयोग गरिरहेका छन् भने ओरोमियाका सैनिकले जवाफी कारबाही गरिरहेका छन् । झडपमा दर्जनौँ मानिस हताहत भएको उनले बता",
+      "published": "",
+      "source": "Lokaantar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Lokaantar"
+      ],
+      "id": "ad76d74e496e2e0d",
       "source_count": 1,
       "verified": false,
       "local": false,

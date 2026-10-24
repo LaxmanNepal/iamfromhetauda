@@ -1,171 +1,26 @@
 {
-  "date_np": "2026-10-24",
-  "generated_at": "2026-10-24T17:00:50.772591+00:00",
+  "date_np": "2026-10-25",
+  "generated_at": "2026-10-24T19:31:02.606382+00:00",
   "items": [
     {
-      "title": "देशभर २० विपद्का घटना, आठ जना घाइते",
-      "link": "https://gorkhapatraonline.com/news/227156",
-      "description": "काठमाडौँ, कात्तिक ७ गते । देशभर पछिल्लो २४ घण्टामा विभिन्न प्रकृतिका २० वटा विपद्का घटना भएका छन् । ती घटनामा परी आठ जना घाइते भएका छन् भने करिब रु २४ लाख १५ हजार बराबरको आर्थिक क्...",
-      "published": "2026-10-24T19:53:33+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "society",
-      "image": "https://gorkhapatraonline.com/storage/media/388771/conversions/hawahure1-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online",
-        "OnlineKhabar",
-        "Kendrabindu",
-        "Ratopati",
-        "Khabarhub"
-      ],
-      "id": "7ba281435a4bc8df",
-      "source_count": 5,
-      "verified": true,
-      "local": false,
-      "score": 155.5,
-      "story_size": 5,
-      "image_local": "images/news_7f5190f0a9b2982490a4.jpg"
-    },
-    {
-      "title": "यु–१९ एसिया कपः नेपालको प्रारम्भिक टोली घोषणा",
-      "link": "https://www.thahakhabar.com/detail/310823",
-      "description": "",
-      "published": "2026-10-24T21:06:53+05:45",
-      "source": "Thaha Khabar",
+      "title": "१२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार",
+      "link": "https://www.ratopati.com/story/601107/12-news-at-12-these-are-todays-top-news-stories",
+      "description": "काठमाडौँ। आज दिनभर भएका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति रातोपाटी ब्रिफिङमा १२ बजे १२ समाचार लिएर हाजिर भएका छौँ । १. राष्ट्रिय जागरण अभियानमा नेकपा नेपाली कम्युनिस्ट पार्टी (नेकपा) ले दुई महिने राष्ट्रिय जागरण अभियान सुरु गरेको",
+      "published": "2026-10-24T18:15:00+00:00",
+      "source": "Ratopati",
       "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/CAN-1778073060.jpg",
+      "image": "https://npcdn.ratopati.com/media/news/12-am-final_viqawbfig2-(1)_fam6WtIhIE.jpg",
       "related_sources": [
-        "Thaha Khabar",
-        "Ratopati",
-        "Baahrakhari",
-        "Lokaantar"
-      ],
-      "id": "6582458a961e9926",
-      "source_count": 4,
-      "verified": true,
-      "local": false,
-      "score": 150.4,
-      "story_size": 4,
-      "image_local": "images/news_85dfd5c2653edb7ec976.jpg"
-    },
-    {
-      "title": "तनहुँको जामुनेमा तीन वटा सवारी साधन ठोक्किए",
-      "link": "https://gorkhapatraonline.com/news/227157",
-      "description": "दमौली (तनहुँं), कात्तिक ७ गते । पृथ्वीराजमार्ग अन्तर्गत तनहुँको म्याग्दे गाउँपालिका–२ जामुनेस्थित पृथ्वीराजमार्गमा आज तीन सवारीसाधन एकआपसमा ठोक्किँदा दुई जना घाइते भएका छन् ।दमौलीब...",
-      "published": "2026-10-24T22:43:25+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/388775/conversions/Accident1-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online",
-        "Khabarhub",
-        "OnlineKhabar"
-      ],
-      "id": "79b4bd975c301726",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 146.9,
-      "story_size": 3,
-      "image_local": "images/news_919b3d29e72dd2d5bb1d.jpg"
-    },
-    {
-      "title": "राजनीतिमा अनुसन्धानको ठूलो महत्त्व हुन्छ : बिजुक्छे",
-      "link": "https://www.thahakhabar.com/detail/310827",
-      "description": "",
-      "published": "2026-10-24T22:19:15+05:45",
-      "source": "Thaha Khabar",
-      "category": "politics",
-      "image": "https://www.thahakhabar.com/uploads/posts/narayanman-bijukxe-1792859463.jpg",
-      "related_sources": [
-        "Thaha Khabar",
-        "Lokaantar"
-      ],
-      "id": "3720ff600597024d",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 135.2,
-      "story_size": 2,
-      "image_local": "images/news_d2780cce1c758de7af8a.jpg"
-    },
-    {
-      "title": "दाङमा सराय नाच मेलाको सुरुआत",
-      "link": "https://gorkhapatraonline.com/news/227155",
-      "description": "घोराही (दाङ), कात्तिक ७ गते । दाङमा यस वर्षदेखि सराय नाच मेलाको सुरुआत गरिएको छ । घोराही उपमहानगरपालिका–१८ स्थित अम्बिकेश्वरी मन्दिर व्यवस्थापन समितिको आयोजनामा आज सराय नाच मेलाको...",
-      "published": "2026-10-24T22:07:49+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/388774/conversions/KN_DANG_RSS_7_DSC_8269-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online",
-        "Kendrabindu"
-      ],
-      "id": "540c0d209335e86d",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 134.5,
-      "story_size": 2,
-      "image_local": "images/news_c7bb922ab0320351f1e7.jpg"
-    },
-    {
-      "title": "तामाङ सम्पदा र रुविभ्याली पदमार्ग खुला",
-      "link": "https://baahrakhari.com/detail/505593",
-      "description": "",
-      "published": "2026-10-24T22:24:52+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari",
         "Ratopati"
       ],
-      "id": "ef2a7dab3dc4bbcf",
-      "source_count": 2,
-      "verified": true,
+      "id": "23aa2677dd04c11e",
+      "source_count": 1,
+      "verified": false,
       "local": false,
-      "score": 132.6,
-      "story_size": 2
-    },
-    {
-      "title": "तनहुँको जामुनेमा तीन सवारीसाधन ठोक्किए",
-      "link": "https://baahrakhari.com/detail/505590",
-      "description": "",
-      "published": "2026-10-24T20:33:53+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari",
-        "Lokaantar"
-      ],
-      "id": "49c9d0de5a16a3ff",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 125.2,
-      "story_size": 2
-    },
-    {
-      "title": "तीन महिनामा चितवनमा २८ जनाले त्यागे नागरिकता",
-      "link": "https://www.onlinekhabar.com/2026/10/2043271/28-people-renounced-citizenship-in-chitwan-in-three-months",
-      "description": "७ कात्तिक, नारायणगढ (चितवन) । जिल्ला प्रशासन कार्यालय चितवन र इलाका प्रशासन कार्यालय माडीबाट चालु आर्थिक वर्षको साउनदेखि असोज मसान्तसम्म तीन हजार ६२ जनाले वंशजका आधारमा नागरिकता प्राप्त गरेका छन् भने छ हजार ७६६ नागरिकताको प्रतिलिपि जारी गरिएको छ । यस अवधिमा २८ जनाले भने नागरिकता परित्याग गरेका छन् । जिल्ला प्रशासन कार्यालय चितवनका सूचना [&#8230;]",
-      "published": "2026-10-24T12:04:24+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar",
-        "Khabarhub",
-        "Kendrabindu"
-      ],
-      "id": "7c7ab3eb29db51e5",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 124.3,
-      "story_size": 3
+      "score": 107.9,
+      "story_size": 1,
+      "image_local": "images/news_e6051b04792cc7059ae6.jpg"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. देशभर २० विपद्का घटना, आठ जना घाइते\nस्रोत: Gorkhapatra Online, OnlineKhabar, Kendrabindu\nhttps://gorkhapatraonline.com/news/227156\n\n2. यु–१९ एसिया कपः नेपालको प्रारम्भिक टोली घोषणा\nस्रोत: Thaha Khabar, Ratopati, Baahrakhari\nhttps://www.thahakhabar.com/detail/310823\n\n3. तनहुँको जामुनेमा तीन वटा सवारी साधन ठोक्किए\nस्रोत: Gorkhapatra Online, Khabarhub, OnlineKhabar\nhttps://gorkhapatraonline.com/news/227157\n\n4. राजनीतिमा अनुसन्धानको ठूलो महत्त्व हुन्छ : बिजुक्छे\nस्रोत: Thaha Khabar, Lokaantar\nhttps://www.thahakhabar.com/detail/310827\n\n5. दाङमा सराय नाच मेलाको सुरुआत\nस्रोत: Gorkhapatra Online, Kendrabindu\nhttps://gorkhapatraonline.com/news/227155\n\n6. तामाङ सम्पदा र रुविभ्याली पदमार्ग खुला\nस्रोत: Baahrakhari, Ratopati\nhttps://baahrakhari.com/detail/505593\n\n7. तनहुँको जामुनेमा तीन सवारीसाधन ठोक्किए\nस्रोत: Baahrakhari, Lokaantar\nhttps://baahrakhari.com/detail/505590\n\n8. तीन महिनामा चितवनमा २८ जनाले त्यागे नागरिकता\nस्रोत: OnlineKhabar, Khabarhub, Kendrabindu\nhttps://www.onlinekhabar.com/2026/10/2043271/28-people-renounced-citizenship-in-chitwan-in-three-months\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. १२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/601107/12-news-at-12-these-are-todays-top-news-stories\n\n— I Am From Hetauda"
 }
