@@ -1,26 +1,160 @@
 {
   "date_np": "2026-10-24",
-  "generated_at": "2026-10-23T22:01:26.667734+00:00",
+  "generated_at": "2026-10-24T00:44:40.587392+00:00",
   "items": [
     {
-      "title": "१२ बजे १२ समाचार : पीएचपीमा फेरि देखियो सुरक्षा कमजोरी, नेपालको मौसम प्रभावित हुने",
-      "link": "https://www.ratopati.com/story/600997/12-news-at-1200-pm",
-      "description": "काठमाडौँ। आज मिति २०८३ साल कात्तिक महिनाको ६ गते शुक्रबार। आज दिनभर भएका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति रातोपाटी ब्रिफिङमा १२ बजे १२ समाचार लिएर हाजिर भएका छौँ- १ पीएचपी ह्याकिङ विश्वव्यापी रूपमा इन्टरनेटका अधिकांश वेबसाइट तथा प्रणालीहरूमा",
-      "published": "2026-10-23T18:15:00+00:00",
-      "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/bbb_0E6UTj90tY.webp",
+      "title": "आहा रारा पोखरा गोल्डकप माघ पहिलो सातादेखि",
+      "link": "https://kendrabindu.com/sports/565853/",
+      "description": "काठमाडौं । आहा रारा पोखरा गोल्डकप फुटबल प्रतियोगिताको २६औँ संस्करण आगामी माघ पहिलो साता सुरु हुनेभएको छ । प्रतियोगिता माघ ५ देखि १६ गतेसम्म पोखरा रङ्गशालामा सञ्चालन हुने आयोजक सहारा क्लब पोखराले जानकारी दिएको छ । ‘खेलकुदको विकासमा सहकार्य गरौँ, पोखरालाई खेलकुद पर्यटन सहरका रूपमा स्थापित गरौँ’ भन्ने नारासहित सञ्चालन हुँदै आएको यस प्रतियोगिताले नेपाली [&#8230;]",
+      "published": "2026-10-24T00:28:32+00:00",
+      "source": "Kendrabindu",
+      "category": "nepal",
+      "image": "",
       "related_sources": [
+        "Kendrabindu",
+        "Baahrakhari",
+        "Khabarhub",
+        "Lokaantar"
+      ],
+      "id": "11e36505eec8baf8",
+      "source_count": 4,
+      "verified": true,
+      "local": false,
+      "score": 152.9,
+      "story_size": 4
+    },
+    {
+      "title": "पोखरा–दुबई उडान : एक महिनामा ६ हजारभन्दा बढी यात्रुले लिए सेवा",
+      "link": "https://kendrabindu.com/economy/565850/",
+      "description": "कास्की । पोखरा अन्तर्राष्ट्रिय विमानस्थलबाट नियमित अन्तर्राष्ट्रिय उडान सुरु गरेको फ्लाइ दुबईले एक महिना पूरा गरेको छ । फ्लाइ दुबईले गत असोज ७ गतेदेखि उक्त रुटमा नियमित उडान सुरु गरेको थियो । एक महिनामा ३० वटा उडान सञ्चालन भएकामा दुबई–पोखरा चार हजार ५२१ र पोखरा–दुबई एक हजार ८४१ गरी छ हजार ३६२ जना यात्रुले सेवा [&#8230;]",
+      "published": "2026-10-24T00:19:49+00:00",
+      "source": "Kendrabindu",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu",
+        "Thaha Khabar",
         "Ratopati"
       ],
-      "id": "dcdd20b3d5cd8e70",
+      "id": "1302e0a8af452b63",
+      "source_count": 3,
+      "verified": true,
+      "local": false,
+      "score": 142.3,
+      "story_size": 3
+    },
+    {
+      "title": "पश्चिमी वायुको आंशिक प्रभाव कायमै, आज केही स्थानमा हल्का वर्षाको सम्भावना",
+      "link": "https://www.thahakhabar.com/detail/310781",
+      "description": "",
+      "published": "2026-10-24T06:27:20+05:45",
+      "source": "Thaha Khabar",
+      "category": "nepal",
+      "image": "https://www.thahakhabar.com/uploads/posts/pani-1769062432.jpg",
+      "related_sources": [
+        "Thaha Khabar"
+      ],
+      "id": "d5e59a9dcd88b0ed",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.9,
+      "score": 112.8,
       "story_size": 1,
-      "image_local": "images/news_316d76cbb17495cd80c1.webp"
+      "image_local": "images/news_870a506c102b7c390890.jpg"
+    },
+    {
+      "title": "पश्चिमी वायुको आंशिक प्रभाव कायमै, आज यी चार प्रदेशमा हल्का वर्षाको सम्भावना",
+      "link": "https://www.ratopati.com/story/601000/partial-influence-of-westerly-winds-persists-light-rain-likely-in-these-four-provinces-today",
+      "description": "काठमाडौँ । हाल देशमा पश्चिमी वायुको आंशिक प्रभाव रहेको मौसम पूर्वानुमान महाशाखाले जनाएको छ।जसको प्रभावले देशको हिमाली र पहाडी भूभागमा आंशिक बादल लागेको छ । तराई भूभागमा बिहानीपख केही स्थानमा हुस्सु लाग्नेछ । आज दिउँसो देशको",
+      "published": "2026-10-24T00:38:20+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/rain_d5V7BFQKq9.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "304beb6d87b68e34",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.6,
+      "story_size": 1,
+      "image_local": "images/news_cf30be1e79f34f7e1a29.jpg"
+    },
+    {
+      "title": "अनुकूलन कोषबाट नेपालका तीन जलवायु परियोजना प्रस्ताव स्वीकृत",
+      "link": "https://www.ratopati.com/story/600999/nepals-three-climate-project-proposals-approved-by-adaptation-fund",
+      "description": "काठमाडौँ । अनुकूलन कोष (एडाप्टेसन फन्ड)को ४७औँ बोर्ड बैठकले नेपालका तीन वटा जलवायु अनुकूलन परियोजनाका प्रस्ताव स्वीकृत गरेको छ । बैठकमा नेपालका तर्फबाट अनुकूलन कोषका बोर्ड सदस्य नरेश शर्माले सहभागिता जनाएका थिए । उनका अनुसार स्वीकृत",
+      "published": "2026-10-24T00:23:59+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/rasuwa-badi_FZ41ULgBmp.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "8e897f7b88b98e08",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.6,
+      "story_size": 1,
+      "image_local": "images/news_56f493a88c0edd4c1e17.webp"
+    },
+    {
+      "title": "कस्तो रहला तपाईँको आजको दिन ? हेर्नुहोस् राशिफल",
+      "link": "https://www.ratopati.com/story/600998/how-was-your-day-today-check-your-horoscope",
+      "description": "वि.सं.२०८३ साल कार्तिक ७ गते । शनिबार । ईश्वी सन् २०२६ अक्टोबर २४ तारिख । नेपाल संवत् ११४६ । रौद्र संवत्सर । दक्षिणायन । शरद ऋतु । श्रीशाके १९४८ । आश्विन शुक्लपक्ष । तिथि–त्रयोदशी, बिहान",
+      "published": "2026-10-24T00:18:29+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/horoscope_vLkWHGsooW.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "03806d3228840e41",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.3,
+      "story_size": 1,
+      "image_local": "images/news_7567420e3a67fdab3a94.webp"
+    },
+    {
+      "title": "फ्रान्समा पहिलोपटक मानिसमा शामोन्डा भाइरस पुष्टि, सङ्क्रमितको मृत्यु",
+      "link": "https://khabarhub.com/2026/24/1039713/",
+      "description": "पेरिस&#8211; फ्रान्समा पहिलोपटक मानिसमा शामोन्डा भाइरसको सङ्क्रमण पुष्टि भएको छ। सङ्क्रमित व्यक्तिको मृत्यु भएको भए पनि विश्व स्वास्थ्य सङ्गठन (डब्ल्यूएचओ) ले हालसम्म यो एकल घटना रहेको र सर्वसाधारणमा व्यापक जोखिम नदेखिएको जनाएको छ। डब्ल्यूएचओले फ्रान्सेली अधिकारीहरूसँग सम्पर्कमा रहेर घटनाको नजिकबाट निगरानी गरिरहेको जनाएको छ। घटनाबारे थप जानकारी प्राप्त भएपछि अद्यावधिक विवरण सार्वजनिक गर्ने सङ्गठनले बताएको छ। शामोन्डा&#160;भाइरस [&#8230;]",
+      "published": "2026-10-24T00:38:22+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "5b366d6e3d59b968",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.6,
+      "story_size": 1
+    },
+    {
+      "title": "राजर्षिजनक र नेपाल संस्कृत विश्वविद्यालयले ‘मिथिला सम्पदा संवाद शृङ्खला’ आयोजना गर्ने",
+      "link": "https://www.setopati.com/social/401210",
+      "description": "राजर्षिजनक विश्वविद्यालय र नेपाल संस्कृत विश्वविद्यालयको संयुक्त आयोजनामा ‘मिथिला सम्पदा संवाद शृङ्खला’ आयोजना हुने भएको छ।",
+      "published": "2026-10-24T06:21:09+05:45",
+      "source": "Setopati",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "1c1fce0da5572e19",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.4,
+      "story_size": 1
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. १२ बजे १२ समाचार : पीएचपीमा फेरि देखियो सुरक्षा कमजोरी, नेपालको मौसम प्रभावित हुने\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/600997/12-news-at-1200-pm\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. आहा रारा पोखरा गोल्डकप माघ पहिलो सातादेखि\nस्रोत: Kendrabindu, Baahrakhari, Khabarhub\nhttps://kendrabindu.com/sports/565853/\n\n2. पोखरा–दुबई उडान : एक महिनामा ६ हजारभन्दा बढी यात्रुले लिए सेवा\nस्रोत: Kendrabindu, Thaha Khabar, Ratopati\nhttps://kendrabindu.com/economy/565850/\n\n3. पश्चिमी वायुको आंशिक प्रभाव कायमै, आज केही स्थानमा हल्का वर्षाको सम्भावना\nस्रोत: Thaha Khabar\nhttps://www.thahakhabar.com/detail/310781\n\n4. पश्चिमी वायुको आंशिक प्रभाव कायमै, आज यी चार प्रदेशमा हल्का वर्षाको सम्भावना\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/601000/partial-influence-of-westerly-winds-persists-light-rain-likely-in-these-four-provinces-today\n\n5. अनुकूलन कोषबाट नेपालका तीन जलवायु परियोजना प्रस्ताव स्वीकृत\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/600999/nepals-three-climate-project-proposals-approved-by-adaptation-fund\n\n6. कस्तो रहला तपाईँको आजको दिन ? हेर्नुहोस् राशिफल\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/600998/how-was-your-day-today-check-your-horoscope\n\n7. फ्रान्समा पहिलोपटक मानिसमा शामोन्डा भाइरस पुष्टि, सङ्क्रमितको मृत्यु\nस्रोत: Khabarhub\nhttps://khabarhub.com/2026/24/1039713/\n\n8. राजर्षिजनक र नेपाल संस्कृत विश्वविद्यालयले ‘मिथिला सम्पदा संवाद शृङ्खला’ आयोजना गर्ने\nस्रोत: Setopati\nhttps://www.setopati.com/social/401210\n\n— I Am From Hetauda"
 }
