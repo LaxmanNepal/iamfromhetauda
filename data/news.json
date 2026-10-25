@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T19:59:16.283370+00:00",
+  "updated_at": "2026-10-25T22:28:41.020060+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -32,7 +32,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 135.6,
+      "score": 125.6,
       "story_size": 3
     },
     {
@@ -52,7 +52,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 130.6,
+      "score": 120.7,
       "story_size": 3,
       "image_local": "images/news_1c273c27db31e44eae4a.jpg"
     },
@@ -73,7 +73,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 130.1,
+      "score": 120.1,
       "story_size": 3
     },
     {
@@ -93,7 +93,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 129.5,
+      "score": 119.5,
       "story_size": 3,
       "image_local": "images/news_0da00a4a9088607eb755.jpg"
     },
@@ -114,7 +114,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 126.1,
+      "score": 116.2,
       "story_size": 3,
       "image_local": "images/news_25945118f96edf965830.jpg"
     },
@@ -135,7 +135,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 124.2,
+      "score": 114.3,
       "story_size": 3
     },
     {
@@ -154,7 +154,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 117.4,
+      "score": 107.5,
       "story_size": 2,
       "image_local": "images/news_3c56d3da9c2d6394aadc.webp"
     },
@@ -173,7 +173,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 117.3,
+      "score": 107.3,
       "story_size": 1
     },
     {
@@ -192,7 +192,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 115.2,
+      "score": 105.3,
       "story_size": 2
     },
     {
@@ -211,7 +211,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 112.7,
+      "score": 102.7,
       "story_size": 2
     },
     {
@@ -230,7 +230,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 109.3,
+      "score": 99.3,
       "story_size": 2
     },
     {
@@ -248,7 +248,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.0,
+      "score": 96.1,
       "story_size": 1,
       "image_local": "images/news_dc18fe8caf5b499e4f66.webp"
     },
@@ -268,7 +268,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 106.0,
+      "score": 96.1,
       "story_size": 2
     },
     {
@@ -286,7 +286,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.2,
+      "score": 94.2,
       "story_size": 1,
       "image_local": "images/news_c0f5518d71646bc5884e.jpg"
     },
@@ -305,7 +305,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.3,
+      "score": 93.3,
       "story_size": 1,
       "image_local": "images/news_a19813431b849d8109df.jpg"
     },
@@ -324,7 +324,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.1,
+      "score": 93.1,
       "story_size": 1,
       "image_local": "images/news_59c99a4106d3c47cdf5d.webp"
     },
@@ -343,7 +343,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.7,
+      "score": 92.8,
       "story_size": 1,
       "image_local": "images/news_8343cb1b0dbf21e56be1.webp"
     },
@@ -362,7 +362,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.1,
+      "score": 92.2,
       "story_size": 1,
       "image_local": "images/news_9f07a14baf17c4bcd3f8.webp"
     },
@@ -381,7 +381,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.4,
+      "score": 91.4,
       "story_size": 1,
       "image_local": "images/news_a08202f6d9f452aa987c.webp"
     },
@@ -400,7 +400,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.3,
+      "score": 91.3,
       "story_size": 1,
       "image_local": "images/news_351250b2e2ff49bb88ac.webp"
     },
@@ -419,7 +419,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.9,
+      "score": 90.9,
       "story_size": 1,
       "image_local": "images/news_1f06b3b91f15f4eb071f.webp"
     },
@@ -438,7 +438,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.8,
+      "score": 90.8,
       "story_size": 1,
       "image_local": "images/news_4655cb8b61ba85e98a9f.jpg"
     },
@@ -457,7 +457,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.2,
+      "score": 90.2,
       "story_size": 1,
       "image_local": "images/news_7898d21b3e232fbc7b07.webp"
     },
@@ -476,7 +476,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.0,
+      "score": 90.1,
       "story_size": 1
     },
     {
@@ -494,7 +494,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.0,
+      "score": 89.1,
       "story_size": 1,
       "image_local": "images/news_b19f3a67b1d72380ee39.webp"
     },
@@ -513,7 +513,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.0,
+      "score": 89.1,
       "story_size": 1,
       "image_local": "images/news_87c33588e79f4a2182ac.webp"
     },
@@ -532,7 +532,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.8,
+      "score": 88.8,
       "story_size": 1
     },
     {
@@ -550,7 +550,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.5,
+      "score": 88.5,
       "story_size": 1,
       "image_local": "images/news_f6ae62efeca851a59910.webp"
     },
@@ -569,7 +569,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.1,
+      "score": 88.2,
       "story_size": 1,
       "image_local": "images/news_596a3fc0d5d9de3d97bc.jpg"
     },
@@ -588,7 +588,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.0,
+      "score": 88.1,
       "story_size": 1,
       "image_local": "images/news_9c7937ed40d4c2d59957.webp"
     },
@@ -607,7 +607,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.6,
+      "score": 87.6,
       "story_size": 1
     },
     {
@@ -625,7 +625,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.0,
+      "score": 87.0,
       "story_size": 1
     },
     {
@@ -643,7 +643,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.6,
+      "score": 86.6,
       "story_size": 1
     },
     {
@@ -661,7 +661,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.5,
+      "score": 86.5,
       "story_size": 1,
       "image_local": "images/news_766650793d1426fb9bce.webp"
     },
@@ -680,25 +680,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.3,
-      "story_size": 1
-    },
-    {
-      "title": "'कबड्डी ५'को दुई दिनको व्यापारपछि क्यूएफएक्सले भन्यो- सुपरहिट!",
-      "link": "https://www.setopati.com/art/art-activity/401287",
-      "description": "यसअघि यसै वर्ष प्रदर्शनमा आएका &#039;गौंथली&#039; र &#039;पेन्सन पट्टा&#039;ले दोस्रो सातामा मात्रै क्यूएफएक्सबाट &#039;सुपरहिट&#039;को मान्यता पाएका थिए।",
-      "published": "2026-10-25T22:11:00+05:45",
-      "source": "Setopati",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Setopati"
-      ],
-      "id": "e1fa4b428abb159f",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 95.8,
+      "score": 86.4,
       "story_size": 1
     },
     {
@@ -716,9 +698,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.8,
+      "score": 85.9,
       "story_size": 1,
       "image_local": "images/news_4da293550a2a91529e0f.jpg"
+    },
+    {
+      "title": "'कबड्डी ५'को दुई दिनको व्यापारपछि क्यूएफएक्सले भन्यो- सुपरहिट!",
+      "link": "https://www.setopati.com/art/art-activity/401287",
+      "description": "यसअघि यसै वर्ष प्रदर्शनमा आएका &#039;गौंथली&#039; र &#039;पेन्सन पट्टा&#039;ले दोस्रो सातामा मात्रै क्यूएफएक्सबाट &#039;सुपरहिट&#039;को मान्यता पाएका थिए।",
+      "published": "2026-10-25T22:11:00+05:45",
+      "source": "Setopati",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "e1fa4b428abb159f",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 85.8,
+      "story_size": 1
     },
     {
       "title": "बाँकी सबैलाई एकताबद्ध गर्न कांग्रेस तयार : प्रदीप पौडेल",
@@ -735,7 +735,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.4,
+      "score": 85.4,
       "story_size": 1,
       "image_local": "images/news_1043c3bb3e0f4703a3e0.jpg"
     },
@@ -754,7 +754,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.0,
+      "score": 85.0,
       "story_size": 1
     },
     {
@@ -772,7 +772,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.9,
+      "score": 84.9,
       "story_size": 1,
       "image_local": "images/news_168517478d2cf7e6d6a9.webp"
     },
@@ -791,7 +791,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.9,
+      "score": 84.9,
       "story_size": 1,
       "image_local": "images/news_10a36c5bf3946f6efe06.webp"
     },
@@ -810,7 +810,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.9,
+      "score": 84.0,
       "story_size": 1
     },
     {
@@ -828,28 +828,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.8,
+      "score": 83.8,
       "story_size": 1,
       "image_local": "images/news_64abcb566edcd20b5b02.webp"
-    },
-    {
-      "title": "रेस्टुरेन्ट सञ्चालक मृत्यु प्रकरण : एक युवती पक्राउ",
-      "link": "https://www.ratopati.com/story/601225/pizza-fire-restaurant-owner-khatris-death-case-a-young-woman-has-been-arrested",
-      "description": "विराटनगर । विराटनगरस्थित पिजफायर रेस्टुरेन्टका सञ्चालक ५१ वर्षीय मनोज खत्रीको मृत्यु प्रकरणमा एक युवतीलाई प्रहरीले नियन्त्रणमा लिएको छ । प्रहरीका अनुसार पक्राउ पर्ने महिला सोही रेस्टुरेन्टको हिसाबकिताब हेर्दै आएकी २७ वर्षीय इन्दु भनिने खिलिना दाहाल हुन्",
-      "published": "2026-10-25T15:09:43+00:00",
-      "source": "Ratopati",
-      "category": "business",
-      "image": "https://npcdn.ratopati.com/media/news/manoj-khatri_D4gOMlNQh4.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "5bb0de8140d86491",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 93.7,
-      "story_size": 1,
-      "image_local": "images/news_647bbbcd02a1b81f31ee.webp"
     },
     {
       "title": "एनपीएल हेर्न ९ सहरमा एक्सट्रीमका १० फ्यान जोन, प्रवेश निःशुल्क",
@@ -866,8 +847,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.6,
+      "score": 83.7,
       "story_size": 1
+    },
+    {
+      "title": "रेस्टुरेन्ट सञ्चालक मृत्यु प्रकरण : एक युवती पक्राउ",
+      "link": "https://www.ratopati.com/story/601225/pizza-fire-restaurant-owner-khatris-death-case-a-young-woman-has-been-arrested",
+      "description": "विराटनगर । विराटनगरस्थित पिजफायर रेस्टुरेन्टका सञ्चालक ५१ वर्षीय मनोज खत्रीको मृत्यु प्रकरणमा एक युवतीलाई प्रहरीले नियन्त्रणमा लिएको छ । प्रहरीका अनुसार पक्राउ पर्ने महिला सोही रेस्टुरेन्टको हिसाबकिताब हेर्दै आएकी २७ वर्षीय इन्दु भनिने खिलिना दाहाल हुन्",
+      "published": "2026-10-25T15:09:43+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://npcdn.ratopati.com/media/news/manoj-khatri_D4gOMlNQh4.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "5bb0de8140d86491",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 83.7,
+      "story_size": 1,
+      "image_local": "images/news_647bbbcd02a1b81f31ee.webp"
     },
     {
       "title": "एनपीएलमा पाकिस्तानी खेलाडीको सहभागिता अनिश्चित",
@@ -884,7 +884,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.8,
+      "score": 82.9,
       "story_size": 1,
       "image_local": "images/news_1776f27267073d0ad8aa.webp"
     },
@@ -903,25 +903,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.2,
-      "story_size": 1
-    },
-    {
-      "title": "द लास्ट म्याङ्गो बिफोर द मनसुन : स्मृतिमा बाँचेको प्रकृतिको कथा",
-      "link": "https://www.onlinekhabar.com/2026/10/2043641/the-last-mango-before-the-monsoon-a-story-of-nature-living-in-memory",
-      "description": "आधुनिक शहरको बन्द कोठाभित्र एक वृद्धा महिला बसिरहेकी छिन्, जो धेरै वर्ष पहिले आफ्नो ग्रामीण जायजेथा छोडेर शहर पसेकी थिइन् ।",
-      "published": "2026-10-25T15:31:47+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "c2412db9c66c5fdb",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 92.2,
+      "score": 82.3,
       "story_size": 1
     },
     {
@@ -939,9 +921,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.2,
+      "score": 82.3,
       "story_size": 1,
       "image_local": "images/news_eabb8fcd26155be076fc.webp"
+    },
+    {
+      "title": "द लास्ट म्याङ्गो बिफोर द मनसुन : स्मृतिमा बाँचेको प्रकृतिको कथा",
+      "link": "https://www.onlinekhabar.com/2026/10/2043641/the-last-mango-before-the-monsoon-a-story-of-nature-living-in-memory",
+      "description": "आधुनिक शहरको बन्द कोठाभित्र एक वृद्धा महिला बसिरहेकी छिन्, जो धेरै वर्ष पहिले आफ्नो ग्रामीण जायजेथा छोडेर शहर पसेकी थिइन् ।",
+      "published": "2026-10-25T15:31:47+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "c2412db9c66c5fdb",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 82.2,
+      "story_size": 1
     },
     {
       "title": "एनपीएलको लोभलाग्दो उडान",
@@ -958,7 +958,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.1,
+      "score": 82.2,
       "story_size": 1
     },
     {
@@ -976,7 +976,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.0,
+      "score": 82.1,
       "story_size": 1
     },
     {
@@ -994,7 +994,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.0,
+      "score": 82.1,
       "story_size": 1
     },
     {
@@ -1012,7 +1012,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.9,
+      "score": 82.0,
       "story_size": 1
     },
     {
@@ -1030,43 +1030,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.9,
-      "story_size": 1
-    },
-    {
-      "title": "दसैँमा माइती आवतजात गर्न ६४२ चेलीले लिए नि:शुल्क यातायात सेवा",
-      "link": "https://www.onlinekhabar.com/2026/10/2043856/642-girls-avail-free-transportation-service-to-visit-their-families-during-dashain",
-      "description": "८ कात्तिक, खोटाङ । खोटाङमा क्रियाशील युवा समूहले सञ्चालन गरेको ‘दसैँ, तिहार, चेलीलाई उपहार’ अभियानअन्तर्गत यस वर्षको दसैंमा माइतीघर आवतजावत गर्ने ६४२ छोरीचेलीलाई नि:शुल्क मोटरबाइक सेवा दिएका छन् । युवा समूहले दसैंको अवसर पारेर चार दिन (कात्तिक ३ गतेदेखि ६ गतेसम्म) सञ्चालन गरेको अभियानमा ६४२ छोरीचेलीले नि:शुल्क मोटरबाइक सेवा दिएका हुन् । अभियानको पहिलो दिन [&#8230;]",
-      "published": "2026-10-25T15:26:05+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "2709ceec24740a61",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 91.8,
-      "story_size": 1
-    },
-    {
-      "title": "एनपीएल तेस्रो सिजनको रौनक, यस्तो देखियो पूर्वसन्ध्यामा मैदान (तस्बिरहरू)",
-      "link": "https://www.onlinekhabar.com/2026/10/2043775/the-excitement-of-the-third-season-of-npl-this-is-what-the-field-looked-like-on-the-eve-photos",
-      "description": "कीर्तिपुरस्थित त्रिवि अन्तर्राष्ट्रिय क्रिकेट मैदानमा सुरु हुने यो संस्करणमा आठ वटा टोलीको सहभागिता रहनेछ ।",
-      "published": "2026-10-25T15:25:58+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "8f04fd99026b681b",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 91.8,
+      "score": 81.9,
       "story_size": 1
     },
     {
@@ -1084,9 +1048,45 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.8,
+      "score": 81.9,
       "story_size": 1,
       "image_local": "images/news_a08a7e252387a3e7ebdf.webp"
+    },
+    {
+      "title": "दसैँमा माइती आवतजात गर्न ६४२ चेलीले लिए नि:शुल्क यातायात सेवा",
+      "link": "https://www.onlinekhabar.com/2026/10/2043856/642-girls-avail-free-transportation-service-to-visit-their-families-during-dashain",
+      "description": "८ कात्तिक, खोटाङ । खोटाङमा क्रियाशील युवा समूहले सञ्चालन गरेको ‘दसैँ, तिहार, चेलीलाई उपहार’ अभियानअन्तर्गत यस वर्षको दसैंमा माइतीघर आवतजावत गर्ने ६४२ छोरीचेलीलाई नि:शुल्क मोटरबाइक सेवा दिएका छन् । युवा समूहले दसैंको अवसर पारेर चार दिन (कात्तिक ३ गतेदेखि ६ गतेसम्म) सञ्चालन गरेको अभियानमा ६४२ छोरीचेलीले नि:शुल्क मोटरबाइक सेवा दिएका हुन् । अभियानको पहिलो दिन [&#8230;]",
+      "published": "2026-10-25T15:26:05+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "2709ceec24740a61",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 81.8,
+      "story_size": 1
+    },
+    {
+      "title": "एनपीएल तेस्रो सिजनको रौनक, यस्तो देखियो पूर्वसन्ध्यामा मैदान (तस्बिरहरू)",
+      "link": "https://www.onlinekhabar.com/2026/10/2043775/the-excitement-of-the-third-season-of-npl-this-is-what-the-field-looked-like-on-the-eve-photos",
+      "description": "कीर्तिपुरस्थित त्रिवि अन्तर्राष्ट्रिय क्रिकेट मैदानमा सुरु हुने यो संस्करणमा आठ वटा टोलीको सहभागिता रहनेछ ।",
+      "published": "2026-10-25T15:25:58+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "8f04fd99026b681b",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 81.8,
+      "story_size": 1
     },
     {
       "title": "नेपाल–भारत सीमामा कहाँ–कहाँ छ अतिक्रमण ? सरकार भन्छ– म्यापिङको काम जारी छ",
@@ -1103,7 +1103,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.7,
+      "score": 81.8,
       "story_size": 1
     },
     {
@@ -1121,7 +1121,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.6,
+      "score": 81.7,
       "story_size": 1
     },
     {
@@ -1139,7 +1139,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.6,
+      "score": 81.6,
       "story_size": 1,
       "image_local": "images/news_39df1c5ebb5f058423ce.jpg"
     },
@@ -1158,7 +1158,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.5,
+      "score": 81.5,
       "story_size": 1
     },
     {
@@ -1176,7 +1176,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.4,
+      "score": 81.4,
       "story_size": 1,
       "image_local": "images/news_c95cd25f53b22df32360.jpg"
     },
@@ -1195,28 +1195,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.0,
+      "score": 81.1,
       "story_size": 1,
       "image_local": "images/news_5166920a8ff098f2ba5a.webp"
-    },
-    {
-      "title": "यी हुन् युट्युबमा सर्वाधिक भ्युज पाउने ५ नेपाली गीत",
-      "link": "https://www.ratopati.com/story/601219/5-nepali-songs-with-the-most-views-on-youtube",
-      "description": "काठमाडौं । नेपाली गीत–सङ्गीतको बजार पछिल्लो समय युट्युब र डिजिटल प्लेटफर्ममा निकै फराकिलो बन्दै गएको छ । युट्युब नेपालमा गीत संगीत हेर्ने, सुन्ने सबैभन्दा मुख्य प्लेटफर्म हो । कुन गीत कति लोकप्रिय छ भन्ने कुराको",
-      "published": "2026-10-25T14:24:23+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/nepali-song_NElZfqt6es.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "9f1d508abc6883ae",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 90.7,
-      "story_size": 1,
-      "image_local": "images/news_389b3c3b7a071ee1f46d.webp"
     },
     {
       "title": "एनपीएलको तेस्रो सीजनमा एलओडी क्लब इन्टरटेनमेन्ट पार्टनर",
@@ -1233,8 +1214,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.6,
+      "score": 80.7,
       "story_size": 1
+    },
+    {
+      "title": "यी हुन् युट्युबमा सर्वाधिक भ्युज पाउने ५ नेपाली गीत",
+      "link": "https://www.ratopati.com/story/601219/5-nepali-songs-with-the-most-views-on-youtube",
+      "description": "काठमाडौं । नेपाली गीत–सङ्गीतको बजार पछिल्लो समय युट्युब र डिजिटल प्लेटफर्ममा निकै फराकिलो बन्दै गएको छ । युट्युब नेपालमा गीत संगीत हेर्ने, सुन्ने सबैभन्दा मुख्य प्लेटफर्म हो । कुन गीत कति लोकप्रिय छ भन्ने कुराको",
+      "published": "2026-10-25T14:24:23+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/nepali-song_NElZfqt6es.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "9f1d508abc6883ae",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 80.7,
+      "story_size": 1,
+      "image_local": "images/news_389b3c3b7a071ee1f46d.webp"
     },
     {
       "title": "एनपिएलमा पाकिस्तानी खेलाडीको सहभागिता अन्योलमा, प्रतिखेलाडी २५ हजार डलर मागियो",
@@ -1251,7 +1251,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.2,
+      "score": 80.2,
       "story_size": 1
     },
     {
@@ -1269,7 +1269,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.8,
+      "score": 79.8,
       "story_size": 1,
       "image_local": "images/news_60c58b3a189d0b7e125a.jpg"
     },
@@ -1288,7 +1288,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.0,
+      "score": 79.0,
       "story_size": 1
     },
     {
@@ -1306,7 +1306,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.5,
+      "score": 78.5,
       "story_size": 1,
       "image_local": "images/news_b4306468c9c9e402c329.jpg"
     },
@@ -1325,7 +1325,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.1,
+      "score": 78.1,
       "story_size": 1
     },
     {
@@ -1343,7 +1343,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.0,
+      "score": 78.0,
       "story_size": 1,
       "image_local": "images/news_f9c40f5510ad5c03e5f0.jpg"
     },
@@ -1362,7 +1362,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.8,
+      "score": 77.8,
       "story_size": 1
     },
     {
@@ -1380,7 +1380,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.4,
+      "score": 77.5,
       "story_size": 1
     },
     {
@@ -1398,7 +1398,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.0,
+      "score": 77.0,
       "story_size": 1
     },
     {
@@ -1416,7 +1416,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.9,
+      "score": 77.0,
       "story_size": 1
     },
     {
@@ -1434,7 +1434,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.8,
+      "score": 76.9,
       "story_size": 1
     },
     {
@@ -1452,7 +1452,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.7,
+      "score": 76.8,
       "story_size": 1,
       "image_local": "images/news_0f4468d95d9f882216a9.jpg"
     },
@@ -1471,7 +1471,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.5,
+      "score": 76.5,
       "story_size": 1
     },
     {
@@ -1489,7 +1489,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.5,
+      "score": 76.5,
       "story_size": 1,
       "image_local": "images/news_1ab4ec2490cc10ab7ca8.jpg"
     },
@@ -1508,7 +1508,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.2,
+      "score": 76.2,
       "story_size": 1
     },
     {
@@ -1526,7 +1526,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.1,
+      "score": 76.1,
       "story_size": 1
     },
     {
@@ -1544,7 +1544,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.2,
+      "score": 75.2,
       "story_size": 1
     },
     {
@@ -1562,7 +1562,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.8,
+      "score": 74.9,
       "story_size": 1
     },
     {
@@ -1580,7 +1580,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.5,
+      "score": 74.6,
       "story_size": 1
     },
     {
@@ -1598,7 +1598,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.0,
+      "score": 74.0,
       "story_size": 1
     },
     {
@@ -1616,7 +1616,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.6,
+      "score": 73.7,
       "story_size": 1
     },
     {
@@ -1634,7 +1634,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.6,
+      "score": 73.7,
       "story_size": 1
     },
     {
@@ -1652,7 +1652,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.4,
+      "score": 73.4,
       "story_size": 1
     },
     {
@@ -1670,7 +1670,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.1,
+      "score": 73.1,
       "story_size": 1
     },
     {
@@ -1688,7 +1688,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.5,
+      "score": 71.6,
       "story_size": 1
     },
     {
@@ -1706,7 +1706,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.2,
+      "score": 70.2,
       "story_size": 1
     },
     {
@@ -1724,7 +1724,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.1,
+      "score": 70.1,
       "story_size": 1
     },
     {
@@ -1742,7 +1742,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.4,
+      "score": 69.4,
       "story_size": 1
     },
     {
@@ -1760,7 +1760,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.3,
+      "score": 68.3,
       "story_size": 1
     },
     {
@@ -1778,7 +1778,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.0,
+      "score": 68.0,
       "story_size": 1
     },
     {
@@ -1796,7 +1796,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.8,
+      "score": 67.8,
       "story_size": 1
     },
     {
@@ -1814,7 +1814,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.5,
+      "score": 67.5,
       "story_size": 1
     },
     {
@@ -1832,7 +1832,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.3,
+      "score": 67.4,
       "story_size": 1
     },
     {
@@ -1850,7 +1850,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.3,
+      "score": 67.4,
       "story_size": 1
     },
     {
@@ -1868,7 +1868,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.7,
+      "score": 66.8,
       "story_size": 1
     },
     {
@@ -1886,7 +1886,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.9,
+      "score": 65.9,
       "story_size": 1
     },
     {
@@ -1904,7 +1904,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.7,
+      "score": 65.7,
       "story_size": 1
     },
     {
@@ -1922,7 +1922,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.3,
+      "score": 65.3,
       "story_size": 1
     },
     {
@@ -1940,7 +1940,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.5,
+      "score": 64.5,
       "story_size": 1
     },
     {
@@ -1958,7 +1958,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.5,
+      "score": 64.5,
       "story_size": 1
     },
     {
@@ -1976,7 +1976,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.4,
+      "score": 64.5,
       "story_size": 1
     },
     {
@@ -1994,7 +1994,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.0,
+      "score": 64.1,
       "story_size": 1
     },
     {
@@ -2012,7 +2012,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.9,
+      "score": 63.9,
       "story_size": 1
     },
     {
@@ -2030,7 +2030,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.7,
+      "score": 63.7,
       "story_size": 1
     },
     {
@@ -2048,7 +2048,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.5,
+      "score": 63.5,
       "story_size": 1
     },
     {
@@ -2066,7 +2066,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.8,
+      "score": 62.8,
       "story_size": 1
     },
     {
@@ -2084,7 +2084,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.5,
+      "score": 62.5,
       "story_size": 1
     },
     {
@@ -2102,7 +2102,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.0,
+      "score": 62.1,
       "story_size": 1
     },
     {
@@ -2120,7 +2120,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.8,
+      "score": 61.8,
       "story_size": 1
     },
     {
@@ -2138,7 +2138,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.0,
+      "score": 61.1,
       "story_size": 1
     },
     {
@@ -2156,7 +2156,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.7,
+      "score": 60.7,
       "story_size": 1
     },
     {
@@ -2174,7 +2174,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.6,
+      "score": 60.6,
       "story_size": 1
     },
     {
@@ -2192,7 +2192,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.0,
+      "score": 60.1,
       "story_size": 1
     },
     {
@@ -2210,7 +2210,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.3,
+      "score": 58.3,
       "story_size": 1
     },
     {
@@ -2228,7 +2228,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.2,
+      "score": 57.3,
       "story_size": 1
     },
     {
@@ -2246,7 +2246,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.5,
+      "score": 56.5,
       "story_size": 1
     },
     {
@@ -2264,7 +2264,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.4,
+      "score": 56.5,
       "story_size": 1
     },
     {
@@ -2282,7 +2282,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 65.3,
+      "score": 55.3,
       "story_size": 1
     },
     {
@@ -2300,7 +2300,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 48.2,
+      "score": 38.2,
       "story_size": 1
     },
     {
@@ -2318,7 +2318,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 45.0,
+      "score": 35.0,
       "story_size": 1
     },
     {
@@ -2336,7 +2336,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 42.7,
+      "score": 32.7,
       "story_size": 1
     },
     {
@@ -2354,7 +2354,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 42.6,
+      "score": 32.6,
       "story_size": 1
     },
     {
