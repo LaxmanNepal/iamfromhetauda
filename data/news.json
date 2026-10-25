@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T17:34:13.109470+00:00",
+  "updated_at": "2026-10-25T19:59:16.283370+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -15,6 +15,26 @@
     "Gorkhapatra Online"
   ],
   "items": [
+    {
+      "title": "बेनीघाट–तातोपानी सडक खुलाउने काम सम्पन्न",
+      "link": "https://baahrakhari.com/detail/505664",
+      "description": "",
+      "published": "2026-10-25T23:38:11+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari",
+        "Gorkhapatra Online",
+        "Kendrabindu"
+      ],
+      "id": "a2a897c438657a94",
+      "source_count": 3,
+      "verified": true,
+      "local": false,
+      "score": 135.6,
+      "story_size": 3
+    },
     {
       "title": "देशभर १३ विपद्का घटना : एकको मृत्यु, आठ जना घाइते",
       "link": "https://gorkhapatraonline.com/news/227233",
@@ -32,7 +52,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 140.3,
+      "score": 130.6,
       "story_size": 3,
       "image_local": "images/news_1c273c27db31e44eae4a.jpg"
     },
@@ -53,7 +73,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 139.7,
+      "score": 130.1,
       "story_size": 3
     },
     {
@@ -73,7 +93,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 139.2,
+      "score": 129.5,
       "story_size": 3,
       "image_local": "images/news_0da00a4a9088607eb755.jpg"
     },
@@ -94,7 +114,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 135.8,
+      "score": 126.1,
       "story_size": 3,
       "image_local": "images/news_25945118f96edf965830.jpg"
     },
@@ -115,28 +135,8 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 133.9,
+      "score": 124.2,
       "story_size": 3
-    },
-    {
-      "title": "बेनिघाट–तातोपानी सडक खुलाउने काम सम्पन्न",
-      "link": "https://gorkhapatraonline.com/news/227234",
-      "description": "गोरखापत्र अनलाइनकाठमाडौं, कात्तिक ८ गते । बूढीगण्डकी नदीमा आएको बाढीका कारण अवरुद्ध बेनीघाट–आरुघाट–लार्केभञ्ज्याङ सडक खण्डअन्तर्गत बेनिघाटदेखि तातोपानीसम्मको सडक खुलाउने काम सम्पन्...",
-      "published": "2026-10-25T21:46:59+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/388866/conversions/benighat-1-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online",
-        "Kendrabindu"
-      ],
-      "id": "68243cdf97d924d6",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 130.9,
-      "story_size": 2,
-      "image_local": "images/news_504d698399c3cafded20.jpg"
     },
     {
       "title": "एसिया कपमा छनोट टोलीलाई ३० लाख पुरस्कार घोषणा",
@@ -154,7 +154,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 127.1,
+      "score": 117.4,
       "story_size": 2,
       "image_local": "images/news_3c56d3da9c2d6394aadc.webp"
     },
@@ -173,7 +173,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 127.0,
+      "score": 117.3,
       "story_size": 1
     },
     {
@@ -192,7 +192,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 124.9,
+      "score": 115.2,
       "story_size": 2
     },
     {
@@ -211,7 +211,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 122.4,
+      "score": 112.7,
       "story_size": 2
     },
     {
@@ -230,8 +230,27 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 118.9,
+      "score": 109.3,
       "story_size": 2
+    },
+    {
+      "title": "१२ बजे १२ समाचार : यस्ता छन आजका प्रमुख समाचार",
+      "link": "https://www.ratopati.com/story/601244/12-news-at-12-these-are-todays-top-news-stories",
+      "description": "काठमाडाैँ । आज दिनभरका मुख्य १२ घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति ‘१२ बजे १२ समाचार’मा प्रस्तुत गरेका छौँ– १. एनपीएलको तेस्रो संस्करण भोलिदेखि नेपाल प्रिमियर लिग (एनपीएल) क्रिकेटको तेस्रो संस्करण भोलि (सोमबारदेखि सुरु हुँदैछ । प्रतियोगिताको विजेताले",
+      "published": "2026-10-25T18:15:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/12-news_LZod00f4c1.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "6ef29f6bc234cd74",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 106.0,
+      "story_size": 1,
+      "image_local": "images/news_dc18fe8caf5b499e4f66.webp"
     },
     {
       "title": "उदयपुरमा स्कुटरको ठक्करबाट ५२ वर्षीय पैदलयात्रीको मृत्यु",
@@ -249,8 +268,46 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 115.7,
+      "score": 106.0,
       "story_size": 2
+    },
+    {
+      "title": "दसैँपछि मुक्तिनाथ मन्दिरमा दर्शनार्थी बढे",
+      "link": "https://www.ratopati.com/story/601245/muktinath-temple-sees-increase-in-number-of-devotees-after-dashain",
+      "description": "मुस्ताङ । हिन्दु तथा बौद्ध धर्मालम्बीहरुको धार्मिक साझा तीर्थस्थल मुक्तिनाथ मन्दिरमा दसैँपछि भक्तजनको सङ्ख्या बढेको छ । दसैँ अगाडि प्रायः सुनसान जस्तै रहेको मुक्तिनाथ मन्दिरमा अहिले भने पर्यटकको चहलपहल बाक्लो भएको हो । जिल्ला प्रहरी कार्यालय",
+      "published": "2026-10-25T17:47:13+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/Gzs6auXIDp.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "0b5033bedf7b1010",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 104.2,
+      "story_size": 1,
+      "image_local": "images/news_c0f5518d71646bc5884e.jpg"
+    },
+    {
+      "title": "सप्तरी सहिदहरूको भूमि हो : महामन्त्री संग्रौला",
+      "link": "https://www.ratopati.com/story/601243/saptari-is-the-land-of-martyrs-general-secretary-sangraula",
+      "description": "सप्तरी । नेपाली कांग्रेसका महामन्त्री महिला डा डिला संग्रौलाले सप्तरी सहिदहरूको भूमि भएको बताएकी छन् । सप्तरी क्षेत्र नं २ प्रदेश तथा नगर कार्यसमितिले राजविराजमा आज आयोजना गरेको दसैँ, तिहार तथा छठ पर्वको अवसरमा आयोजित शुभकामना",
+      "published": "2026-10-25T17:33:54+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://rpcdn.ratopati.com/media/albums/dila_sangraula_E4O5Ij4oYv.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "5097dc4860efce33",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 103.3,
+      "story_size": 1,
+      "image_local": "images/news_a19813431b849d8109df.jpg"
     },
     {
       "title": "न्युक्यासलसँग क्रिस्टल प्यालेस २–० ले पराजित",
@@ -267,7 +324,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.8,
+      "score": 103.1,
       "story_size": 1,
       "image_local": "images/news_59c99a4106d3c47cdf5d.webp"
     },
@@ -286,7 +343,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.4,
+      "score": 102.7,
       "story_size": 1,
       "image_local": "images/news_8343cb1b0dbf21e56be1.webp"
     },
@@ -305,7 +362,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.8,
+      "score": 102.1,
       "story_size": 1,
       "image_local": "images/news_9f07a14baf17c4bcd3f8.webp"
     },
@@ -324,7 +381,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.1,
+      "score": 101.4,
       "story_size": 1,
       "image_local": "images/news_a08202f6d9f452aa987c.webp"
     },
@@ -343,7 +400,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.9,
+      "score": 101.3,
       "story_size": 1,
       "image_local": "images/news_351250b2e2ff49bb88ac.webp"
     },
@@ -362,7 +419,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.5,
+      "score": 100.9,
       "story_size": 1,
       "image_local": "images/news_1f06b3b91f15f4eb071f.webp"
     },
@@ -381,7 +438,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.5,
+      "score": 100.8,
       "story_size": 1,
       "image_local": "images/news_4655cb8b61ba85e98a9f.jpg"
     },
@@ -400,12 +457,12 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.9,
+      "score": 100.2,
       "story_size": 1,
       "image_local": "images/news_7898d21b3e232fbc7b07.webp"
     },
     {
-      "title": "प्रधानमन्त्री बालेन्द्र शाह एनपिएल उद्घाटनमा सहभागी हुने",
+      "title": "प्रधानमन्त्री बालेन शाह एनपिएल उद्घाटनमा सहभागी हुने",
       "link": "https://www.setopati.com/sports/cricket/401288",
       "description": "नेपाल प्रिमियर लिग (एनपिएल) को तेस्रो संस्करणको उद्घाटन समारोहमा प्रधानमन्त्री बालेन्द्र शाह सहभागी हुने भएका छन्।",
       "published": "2026-10-25T23:15:00+05:45",
@@ -415,11 +472,11 @@
       "related_sources": [
         "Setopati"
       ],
-      "id": "02f3ffeee2678f7e",
+      "id": "a2955d8e819a3fbc",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.7,
+      "score": 100.0,
       "story_size": 1
     },
     {
@@ -437,7 +494,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.7,
+      "score": 99.0,
       "story_size": 1,
       "image_local": "images/news_b19f3a67b1d72380ee39.webp"
     },
@@ -456,7 +513,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.7,
+      "score": 99.0,
       "story_size": 1,
       "image_local": "images/news_87c33588e79f4a2182ac.webp"
     },
@@ -475,7 +532,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.4,
+      "score": 98.8,
       "story_size": 1
     },
     {
@@ -493,7 +550,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.2,
+      "score": 98.5,
       "story_size": 1,
       "image_local": "images/news_f6ae62efeca851a59910.webp"
     },
@@ -512,7 +569,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.8,
+      "score": 98.1,
       "story_size": 1,
       "image_local": "images/news_596a3fc0d5d9de3d97bc.jpg"
     },
@@ -531,7 +588,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.7,
+      "score": 98.0,
       "story_size": 1,
       "image_local": "images/news_9c7937ed40d4c2d59957.webp"
     },
@@ -550,7 +607,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.3,
+      "score": 97.6,
       "story_size": 1
     },
     {
@@ -568,7 +625,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.6,
+      "score": 97.0,
       "story_size": 1
     },
     {
@@ -586,7 +643,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.3,
+      "score": 96.6,
       "story_size": 1
     },
     {
@@ -604,7 +661,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.1,
+      "score": 96.5,
       "story_size": 1,
       "image_local": "images/news_766650793d1426fb9bce.webp"
     },
@@ -623,7 +680,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.0,
+      "score": 96.3,
       "story_size": 1
     },
     {
@@ -641,7 +698,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.5,
+      "score": 95.8,
       "story_size": 1
     },
     {
@@ -659,7 +716,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.5,
+      "score": 95.8,
       "story_size": 1,
       "image_local": "images/news_4da293550a2a91529e0f.jpg"
     },
@@ -678,7 +735,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.1,
+      "score": 95.4,
       "story_size": 1,
       "image_local": "images/news_1043c3bb3e0f4703a3e0.jpg"
     },
@@ -697,7 +754,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.7,
+      "score": 95.0,
       "story_size": 1
     },
     {
@@ -715,7 +772,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.6,
+      "score": 94.9,
       "story_size": 1,
       "image_local": "images/news_168517478d2cf7e6d6a9.webp"
     },
@@ -734,7 +791,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.6,
+      "score": 94.9,
       "story_size": 1,
       "image_local": "images/news_10a36c5bf3946f6efe06.webp"
     },
@@ -753,7 +810,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.6,
+      "score": 93.9,
       "story_size": 1
     },
     {
@@ -771,7 +828,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.4,
+      "score": 93.8,
       "story_size": 1,
       "image_local": "images/news_64abcb566edcd20b5b02.webp"
     },
@@ -790,7 +847,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.4,
+      "score": 93.7,
       "story_size": 1,
       "image_local": "images/news_647bbbcd02a1b81f31ee.webp"
     },
@@ -809,7 +866,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.3,
+      "score": 93.6,
       "story_size": 1
     },
     {
@@ -827,7 +884,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.5,
+      "score": 92.8,
       "story_size": 1,
       "image_local": "images/news_1776f27267073d0ad8aa.webp"
     },
@@ -846,7 +903,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.9,
+      "score": 92.2,
+      "story_size": 1
+    },
+    {
+      "title": "द लास्ट म्याङ्गो बिफोर द मनसुन : स्मृतिमा बाँचेको प्रकृतिको कथा",
+      "link": "https://www.onlinekhabar.com/2026/10/2043641/the-last-mango-before-the-monsoon-a-story-of-nature-living-in-memory",
+      "description": "आधुनिक शहरको बन्द कोठाभित्र एक वृद्धा महिला बसिरहेकी छिन्, जो धेरै वर्ष पहिले आफ्नो ग्रामीण जायजेथा छोडेर शहर पसेकी थिइन् ।",
+      "published": "2026-10-25T15:31:47+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "c2412db9c66c5fdb",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 92.2,
       "story_size": 1
     },
     {
@@ -864,27 +939,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.9,
+      "score": 92.2,
       "story_size": 1,
       "image_local": "images/news_eabb8fcd26155be076fc.webp"
-    },
-    {
-      "title": "द लास्ट म्याङ्गो बिफोर द मनसुन : स्मृतिमा बाँचेको प्रकृतिको कथा",
-      "link": "https://www.onlinekhabar.com/2026/10/2043641/the-last-mango-before-the-monsoon-a-story-of-nature-living-in-memory",
-      "description": "आधुनिक शहरको बन्द कोठाभित्र एक वृद्धा महिला बसिरहेकी छिन्, जो धेरै वर्ष पहिले आफ्नो ग्रामीण जायजेथा छोडेर शहर पसेकी थिइन् ।",
-      "published": "2026-10-25T15:31:47+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "c2412db9c66c5fdb",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 101.8,
-      "story_size": 1
     },
     {
       "title": "एनपीएलको लोभलाग्दो उडान",
@@ -901,7 +958,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.8,
+      "score": 92.1,
       "story_size": 1
     },
     {
@@ -919,7 +976,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.7,
+      "score": 92.0,
       "story_size": 1
     },
     {
@@ -937,7 +994,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.7,
+      "score": 92.0,
       "story_size": 1
     },
     {
@@ -955,7 +1012,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.6,
+      "score": 91.9,
       "story_size": 1
     },
     {
@@ -973,7 +1030,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.6,
+      "score": 91.9,
       "story_size": 1
     },
     {
@@ -991,7 +1048,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.5,
+      "score": 91.8,
       "story_size": 1
     },
     {
@@ -1009,7 +1066,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.5,
+      "score": 91.8,
       "story_size": 1
     },
     {
@@ -1027,7 +1084,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.5,
+      "score": 91.8,
       "story_size": 1,
       "image_local": "images/news_a08a7e252387a3e7ebdf.webp"
     },
@@ -1046,7 +1103,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.4,
+      "score": 91.7,
       "story_size": 1
     },
     {
@@ -1064,43 +1121,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.3,
-      "story_size": 1
-    },
-    {
-      "title": "सेयर बजारमा बेन्चमार्क सूचकांक ‘एनबीआई’ ल्याइँदै, नेप्सेभन्दा के छ फरक ?",
-      "link": "https://www.onlinekhabar.com/2026/10/2043582/benchmark-index-nbi-is-being-introduced-in-the-stock-market-what-is-the-difference-from-nepse",
-      "description": "८ कात्तिक, काठमाडौं । नेपाल धितोपत्र बोर्डले सेयर बजारमा बेन्चमार्क सूचकांक विकास गर्नका लागि कार्यपत्र प्रस्तुत गरेको छ । कार्यपत्रमा नयाँ बेन्चमार्क सूचकलाई नेप्से बेन्चमार्क इन्डेक्स (एनबीआई) नाम राख्न सकिने भए पनि नेप्सेले आवश्यक परामर्श गर्न सक्ने बोर्डले जनाएको छ । साथै हालको नेप्से परिसूचकलाई ‘नेप्से अल इक्वीटी इन्डेक्स’को रुपमा कायम राख्दै नयाँ सूचक विकास [&#8230;]",
-      "published": "2026-10-25T15:21:46+00:00",
-      "source": "OnlineKhabar",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "d3a07b6ac852481b",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 101.2,
-      "story_size": 1
-    },
-    {
-      "title": "एनपीएलको पारदर्शिताबारे उठेका प्रश्नमा पारस भन्छन्– सुधार गर्न तयार छौँ",
-      "link": "https://baahrakhari.com/detail/505659",
-      "description": "",
-      "published": "2026-10-25T21:06:38+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "d05f14e647620846",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 101.2,
+      "score": 91.6,
       "story_size": 1
     },
     {
@@ -1118,9 +1139,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.2,
+      "score": 91.6,
       "story_size": 1,
       "image_local": "images/news_39df1c5ebb5f058423ce.jpg"
+    },
+    {
+      "title": "सेयर बजारमा बेन्चमार्क सूचकांक ‘एनबीआई’ ल्याइँदै, नेप्सेभन्दा के छ फरक ?",
+      "link": "https://www.onlinekhabar.com/2026/10/2043582/benchmark-index-nbi-is-being-introduced-in-the-stock-market-what-is-the-difference-from-nepse",
+      "description": "८ कात्तिक, काठमाडौं । नेपाल धितोपत्र बोर्डले सेयर बजारमा बेन्चमार्क सूचकांक विकास गर्नका लागि कार्यपत्र प्रस्तुत गरेको छ । कार्यपत्रमा नयाँ बेन्चमार्क सूचकलाई नेप्से बेन्चमार्क इन्डेक्स (एनबीआई) नाम राख्न सकिने भए पनि नेप्सेले आवश्यक परामर्श गर्न सक्ने बोर्डले जनाएको छ । साथै हालको नेप्से परिसूचकलाई ‘नेप्से अल इक्वीटी इन्डेक्स’को रुपमा कायम राख्दै नयाँ सूचक विकास [&#8230;]",
+      "published": "2026-10-25T15:21:46+00:00",
+      "source": "OnlineKhabar",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "d3a07b6ac852481b",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 91.5,
+      "story_size": 1
     },
     {
       "title": "चन्द्रागिरिमा सराय नाचको रौनक",
@@ -1137,7 +1176,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.1,
+      "score": 91.4,
       "story_size": 1,
       "image_local": "images/news_c95cd25f53b22df32360.jpg"
     },
@@ -1156,7 +1195,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.7,
+      "score": 91.0,
       "story_size": 1,
       "image_local": "images/news_5166920a8ff098f2ba5a.webp"
     },
@@ -1175,7 +1214,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.4,
+      "score": 90.7,
       "story_size": 1,
       "image_local": "images/news_389b3c3b7a071ee1f46d.webp"
     },
@@ -1194,7 +1233,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.3,
+      "score": 90.6,
       "story_size": 1
     },
     {
@@ -1212,27 +1251,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.9,
+      "score": 90.2,
       "story_size": 1
-    },
-    {
-      "title": "सामसङ ग्यालेक्सी ए–१७ फाइभ जी अब १२ सय रुपैयाँकै किस्ताबन्दीमा",
-      "link": "https://www.ratopati.com/story/601217/samsung-galaxy-a-17-5g-now-available-in-installments-of-rs-1200",
-      "description": "काठमाडौँ । सामसङ मोबाइल नेपालले आसन्न चाडपर्वलाई लक्षित गर्दै आफ्ना ग्राहकहरूका लागि विशेष सुविधा सार्वजनिक गरेको छ । कम्पनीले आफ्नो नयाँ स्मार्टफोन ‘ग्यालेक्सी ए १७ फाइभ जी’ खरिद गर्न चाहने ग्राहकहरूलाई २४ महिनासम्मको सहज किस्ताबन्दी (ईएमआई)",
-      "published": "2026-10-25T14:15:59+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/samsung-a17_3C4sTgXbRh.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "9e80d4f7f70d3b1e",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 99.8,
-      "story_size": 1,
-      "image_local": "images/news_897a02c014290a8801bb.webp"
     },
     {
       "title": "पानीबोट दुर्घटना हुँदा ३ जनाको मृत्यु‚ ३ जना बेपत्ता",
@@ -1249,47 +1269,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.5,
+      "score": 89.8,
       "story_size": 1,
       "image_local": "images/news_60c58b3a189d0b7e125a.jpg"
-    },
-    {
-      "title": "तीन जनाको मृत्युपछि पत्ता लाग्यो– दर्ताबिनै बोटहरू चलिरहेका थिए",
-      "link": "https://www.ratopati.com/story/601216/after-the-deaths-of-three-people-it-was-discovered-that-the-plants-were-operating-without-registration",
-      "description": "विराटनगर । सप्तकोशी नदीमा अनधिकृत रूपमा सञ्चालन हुँदै आएको डुङ्गा (बोट) पल्टिएर आइतबार दिउँसो तीन जनाको मृत्यु भयो । बोट पल्टिएर डुबेका तीन जनाको शव सुनसरीको चतरा क्षेत्रबाट निकालिएको सुनसरी प्रहरीका प्रमुख एसपी पुष्पराल मल्लले बताए",
-      "published": "2026-10-25T14:06:03+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/boat-accident_FQ7epneqCg.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "f6e5b60fa78609f6",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 99.1,
-      "story_size": 1,
-      "image_local": "images/news_cc3d08f6d6600321e22f.webp"
-    },
-    {
-      "title": "कात्तिक ११ गतेसम्म मौसम ठिकठाक, १२ गते वर्षा",
-      "link": "https://www.ratopati.com/story/601215/weather-fine-until-kartik-11-rain-on-12",
-      "description": "काठमाडौं । देशभर कात्तिक ११ गतेसम्म मौसममा ठूलो परिवर्तन नदेखिए पनि कात्तिक १२ गते बिहीबारदेखि वर्षा र हिमपातको सम्भावना रहेको छ । मौसम पूर्वानुमान महाशाखाका अनुसार हाल देशमा पश्चिमी वायुको आंशिक प्रभाव रहेको छ । सोमबार",
-      "published": "2026-10-25T14:05:58+00:00",
-      "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/weather-kathmandu_nepal-photo-library-(4)_ImiemsL76Y.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "5dc687220c6b5385",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 99.1,
-      "story_size": 1,
-      "image_local": "images/news_762e9e81053b1a5a4b3d.jpg"
     },
     {
       "title": "सप्तकोशी मोटरबोट दुर्घटनामा ३ जनाको मृत्यु, ३ जना बेपत्ता",
@@ -1306,7 +1288,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.7,
+      "score": 89.0,
       "story_size": 1
     },
     {
@@ -1324,7 +1306,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.2,
+      "score": 88.5,
       "story_size": 1,
       "image_local": "images/news_b4306468c9c9e402c329.jpg"
     },
@@ -1343,7 +1325,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.8,
+      "score": 88.1,
       "story_size": 1
     },
     {
@@ -1361,7 +1343,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.7,
+      "score": 88.0,
       "story_size": 1,
       "image_local": "images/news_f9c40f5510ad5c03e5f0.jpg"
     },
@@ -1380,7 +1362,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.4,
+      "score": 87.8,
       "story_size": 1
     },
     {
@@ -1398,7 +1380,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.1,
+      "score": 87.4,
       "story_size": 1
     },
     {
@@ -1416,7 +1398,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.7,
+      "score": 87.0,
       "story_size": 1
     },
     {
@@ -1434,7 +1416,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.6,
+      "score": 86.9,
       "story_size": 1
     },
     {
@@ -1452,7 +1434,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.5,
+      "score": 86.8,
       "story_size": 1
     },
     {
@@ -1470,7 +1452,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.4,
+      "score": 86.7,
       "story_size": 1,
       "image_local": "images/news_0f4468d95d9f882216a9.jpg"
     },
@@ -1489,7 +1471,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.2,
+      "score": 86.5,
       "story_size": 1
     },
     {
@@ -1507,7 +1489,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.2,
+      "score": 86.5,
       "story_size": 1,
       "image_local": "images/news_1ab4ec2490cc10ab7ca8.jpg"
     },
@@ -1526,7 +1508,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.9,
+      "score": 86.2,
       "story_size": 1
     },
     {
@@ -1544,7 +1526,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.8,
+      "score": 86.1,
       "story_size": 1
     },
     {
@@ -1562,7 +1544,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.9,
+      "score": 85.2,
       "story_size": 1
     },
     {
@@ -1580,7 +1562,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.5,
+      "score": 84.8,
       "story_size": 1
     },
     {
@@ -1598,7 +1580,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.2,
+      "score": 84.5,
       "story_size": 1
     },
     {
@@ -1616,7 +1598,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.7,
+      "score": 84.0,
       "story_size": 1
     },
     {
@@ -1634,7 +1616,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.3,
+      "score": 83.6,
       "story_size": 1
     },
     {
@@ -1652,7 +1634,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.3,
+      "score": 83.6,
       "story_size": 1
     },
     {
@@ -1670,7 +1652,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.0,
+      "score": 83.4,
       "story_size": 1
     },
     {
@@ -1688,7 +1670,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.7,
+      "score": 83.1,
       "story_size": 1
     },
     {
@@ -1706,7 +1688,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.2,
+      "score": 81.5,
       "story_size": 1
     },
     {
@@ -1724,7 +1706,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.9,
+      "score": 80.2,
       "story_size": 1
     },
     {
@@ -1742,7 +1724,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.8,
+      "score": 80.1,
       "story_size": 1
     },
     {
@@ -1760,7 +1742,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.1,
+      "score": 79.4,
       "story_size": 1
     },
     {
@@ -1778,7 +1760,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.0,
+      "score": 78.3,
       "story_size": 1
     },
     {
@@ -1796,7 +1778,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.7,
+      "score": 78.0,
       "story_size": 1
     },
     {
@@ -1814,7 +1796,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.5,
+      "score": 77.8,
       "story_size": 1
     },
     {
@@ -1832,7 +1814,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.1,
+      "score": 77.5,
       "story_size": 1
     },
     {
@@ -1850,7 +1832,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.0,
+      "score": 77.3,
       "story_size": 1
     },
     {
@@ -1868,7 +1850,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.0,
+      "score": 77.3,
       "story_size": 1
     },
     {
@@ -1886,7 +1868,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.4,
+      "score": 76.7,
       "story_size": 1
     },
     {
@@ -1904,7 +1886,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.6,
+      "score": 75.9,
       "story_size": 1
     },
     {
@@ -1922,7 +1904,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.4,
+      "score": 75.7,
       "story_size": 1
     },
     {
@@ -1940,7 +1922,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.0,
+      "score": 75.3,
       "story_size": 1
     },
     {
@@ -1958,7 +1940,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.1,
+      "score": 74.5,
       "story_size": 1
     },
     {
@@ -1976,7 +1958,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.1,
+      "score": 74.5,
       "story_size": 1
     },
     {
@@ -1994,7 +1976,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.1,
+      "score": 74.4,
       "story_size": 1
     },
     {
@@ -2012,7 +1994,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.7,
+      "score": 74.0,
       "story_size": 1
     },
     {
@@ -2030,7 +2012,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.5,
+      "score": 73.9,
       "story_size": 1
     },
     {
@@ -2048,7 +2030,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.3,
+      "score": 73.7,
       "story_size": 1
     },
     {
@@ -2066,7 +2048,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.2,
+      "score": 73.5,
       "story_size": 1
     },
     {
@@ -2084,7 +2066,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.5,
+      "score": 72.8,
       "story_size": 1
     },
     {
@@ -2102,7 +2084,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.2,
+      "score": 72.5,
       "story_size": 1
     },
     {
@@ -2120,7 +2102,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.7,
+      "score": 72.0,
       "story_size": 1
     },
     {
@@ -2138,7 +2120,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.5,
+      "score": 71.8,
       "story_size": 1
     },
     {
@@ -2156,7 +2138,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.7,
+      "score": 71.0,
       "story_size": 1
     },
     {
@@ -2174,7 +2156,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.3,
+      "score": 70.7,
       "story_size": 1
     },
     {
@@ -2192,7 +2174,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.2,
+      "score": 70.6,
       "story_size": 1
     },
     {
@@ -2210,7 +2192,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.7,
+      "score": 70.0,
       "story_size": 1
     },
     {
@@ -2228,7 +2210,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.9,
+      "score": 68.3,
       "story_size": 1
     },
     {
@@ -2246,7 +2228,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.9,
+      "score": 67.2,
       "story_size": 1
     },
     {
@@ -2264,7 +2246,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.2,
+      "score": 66.5,
       "story_size": 1
     },
     {
@@ -2282,7 +2264,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.1,
+      "score": 66.4,
       "story_size": 1
     },
     {
@@ -2300,7 +2282,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.0,
+      "score": 65.3,
       "story_size": 1
     },
     {
@@ -2318,7 +2300,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 57.9,
+      "score": 48.2,
       "story_size": 1
     },
     {
@@ -2336,7 +2318,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 54.6,
+      "score": 45.0,
       "story_size": 1
     },
     {
@@ -2354,7 +2336,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 52.4,
+      "score": 42.7,
       "story_size": 1
     },
     {
@@ -2372,7 +2354,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 52.2,
+      "score": 42.6,
       "story_size": 1
     },
     {
@@ -2765,6 +2747,24 @@
         "Lokaantar"
       ],
       "id": "e51d181d760440a1",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 10,
+      "story_size": 1
+    },
+    {
+      "title": "कांग्रेसमा व्यापक एकता भएको छ, बाँकीलाई पनि एकताबद्ध गर्छौंः महामन्त्री पौडेल",
+      "link": "http://lokaantar.com/story/331900/2026/10/25/paudel-",
+      "description": "नेपाली कांग्रेसका महामन्त्री प्रदीप पौडेलले कांग्रेसमा व्यापक एकता कायम भएको र बाँकी रहेका सबैलाई पनि एकताबद्ध गर्न आफूहरू तयार रहेको बताएका छन् ।नेपाली कांग्रेस शुक्लागण्डकी नगर समितिले आज आयोजना गरेको शुभकामना आदानप्रदान कार्यक्रममा महामन्त्री पौडेलले कांग्रेसलाई रुपान्तरण भएको अनुभूति जनतामाझ दिलाउने बताए । उनले सबैपक्षसँग सहमति र सहकार्य गर्दै देशलाई समृद्ध बनाउने लक्ष्यमा अघि बढ्नुपर्नेमा जोड दिए ।&ldquo;बाटो फरक भए पनि हाम्रो गन्तव्य एउटै हो&rdquo;, उनले भने, &ldquo;कांग्रेससँग रिसाएका जनत",
+      "published": "",
+      "source": "Lokaantar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Lokaantar"
+      ],
+      "id": "6d39e9b6acdbbd40",
       "source_count": 1,
       "verified": false,
       "local": false,
