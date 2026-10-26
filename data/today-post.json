@@ -1,26 +1,156 @@
 {
   "date_np": "2026-10-26",
-  "generated_at": "2026-10-25T22:28:41.022829+00:00",
+  "generated_at": "2026-10-26T00:39:35.567484+00:00",
   "items": [
     {
-      "title": "१२ बजे १२ समाचार : यस्ता छन आजका प्रमुख समाचार",
-      "link": "https://www.ratopati.com/story/601244/12-news-at-12-these-are-todays-top-news-stories",
-      "description": "काठमाडाैँ । आज दिनभरका मुख्य १२ घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति ‘१२ बजे १२ समाचार’मा प्रस्तुत गरेका छौँ– १. एनपीएलको तेस्रो संस्करण भोलिदेखि नेपाल प्रिमियर लिग (एनपीएल) क्रिकेटको तेस्रो संस्करण भोलि (सोमबारदेखि सुरु हुँदैछ । प्रतियोगिताको विजेताले",
-      "published": "2026-10-25T18:15:00+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/12-news_LZod00f4c1.webp",
+      "title": "कस्तो छ आजको मौसम ?",
+      "link": "https://kendrabindu.com/news/566258/",
+      "description": "काठमाडौं । देशका धेरै भूभागमा आज मौसम सामान्यतया सफा रहनेछ । केही भूभागमा बादल लाग्नेछ । जल तथा मौसम विज्ञान विभागका अनुसार लिउँसो देशको हिमाली भूभागमा आंशिक बादल लाग्नेछ । पहाडी र तराई भूभागमा मौसम मुख्यतया सफा रहनेछ । राति कोसी, वाग्मती, गण्डकी र कर्णाली प्रदेशका हिमाली भूभागमा आंशिक बादल लाग्नेछ । बाँकी हिमाली तथा [&#8230;]",
+      "published": "2026-10-26T00:38:48+00:00",
+      "source": "Kendrabindu",
+      "category": "society",
+      "image": "",
       "related_sources": [
-        "Ratopati"
+        "Kendrabindu",
+        "Baahrakhari"
       ],
-      "id": "6ef29f6bc234cd74",
+      "id": "485d21e1a45b400c",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 134.0,
+      "story_size": 2
+    },
+    {
+      "title": "आजदेखि तेस्रो एनपिएल",
+      "link": "https://gorkhapatraonline.com/news/227239",
+      "description": "काठमाडौँ, कात्तिक ९ गते । एनपिएलको तेस्रो संस्करण त्रिवि अन्तर्राष्ट्रिय क्रिकेट मैदानमा सोमबार सुरु हुँदै छ । पहिलो र दोस्रो संस्करण अत्यधिक रूपमा सफल भएपछि नेपाल क्रिकेट सङ्घ (क्...",
+      "published": "2026-10-26T06:15:16+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/388869/conversions/Untitled-1-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "88845a9c9af23994",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.1,
+      "score": 112.4,
       "story_size": 1,
-      "image_local": "images/news_dc18fe8caf5b499e4f66.webp"
+      "image_local": "images/news_ead1fd85b26ba4ee57cc.jpg"
+    },
+    {
+      "title": "कस्तो रहला आगामी चार दिनको मौसम ? बिहीबार यी चार प्रदेशमा भारी वर्षाको सम्भावना",
+      "link": "https://www.ratopati.com/story/601253/what-will-the-weather-be-like-for-the-next-four-days-heavy-rain-likely-in-these-four-provinces-on-thursday",
+      "description": "काठमाडौँ । हाल देशमा पश्चिमी वायुको आंशिक प्रभाव रहेको मौसम पूर्वानुमान महाशाखाले जनाएको छ । जसको प्रभावले देशका हिमाली र पहाडी भूभागमा आंशिक बादल लागेको छ । तराई भूभागमा मौसम मुख्यतया सफा रहेको छ। आज दिउँसो",
+      "published": "2026-10-26T00:28:22+00:00",
+      "source": "Ratopati",
+      "category": "society",
+      "image": "https://npcdn.ratopati.com/media/news/rain_3gUVbWNqzv.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "b8510d6fcd7d405a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.3,
+      "story_size": 1,
+      "image_local": "images/news_1cb10ff19adf9afc1e81.webp"
+    },
+    {
+      "title": "केरुङ–काठमाडौँ रेलमार्ग: सम्भाव्यता अध्ययन पूरा",
+      "link": "https://gorkhapatraonline.com/news/227238",
+      "description": "काठमाडौँ, कात्तिक ९ गते । बहुचर्चित केरुङ–काठमाडौँ रेलमार्ग परियोजनाको सम्भाव्यता अध्ययन प्रतिवेदन (फिजिविलिटी स्टडी रिपोर्ट) पूरा भएको छ । नेपाल रेलवे बोर्डका प्रशासक हरिकुमार पोख...",
+      "published": "2026-10-26T05:39:47+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/388868/conversions/Untitled-1-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "fc36229c2a7a8150",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.0,
+      "story_size": 1,
+      "image_local": "images/news_32230dfc0aee833195f5.jpg"
+    },
+    {
+      "title": "लुला चौथो कार्यकालका लागि ब्राजिलको राष्ट्रपतिमा निर्वाचित",
+      "link": "https://baahrakhari.com/detail/505667",
+      "description": "",
+      "published": "2026-10-26T06:15:08+05:45",
+      "source": "Baahrakhari",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "442bd70e3714f6c3",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.4,
+      "story_size": 1
+    },
+    {
+      "title": "ऋण तिर्न र कमाउन गएका थिए, उतै बित्यो पूरा जिन्दगी",
+      "link": "https://www.setopati.com/global/europe/401289",
+      "description": "ऋण तिर्ने र केही पैसा कमाएर फर्किने सोचले उनी विदेश पुगेका थिए। छोराछोरीको भविष्य बनाउन उनले खेतमा काम गरे, रातभरि पसल चलाए। एक–दुई वर्षमा फर्किने सोच बनाएका उनी कसरी उतै अवकाश जीवन बिताउने अवस्थामा पुगे?",
+      "published": "2026-10-26T06:13:53+05:45",
+      "source": "Setopati",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "9c45bf5cb591664b",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.3,
+      "story_size": 1
+    },
+    {
+      "title": "पशुमा बढ्दो बाँझोपन",
+      "link": "https://gorkhapatraonline.com/news/227237",
+      "description": "काठमाडौँ, कात्तिक ९ गते । पाँच वर्षदेखि व्यावसायिक गाई पाल्दै आएका भीमसेन थापा गाउँपालिका गोरखाका भक्तप्रसाद श्रेष्ठले पछिल्लो समय निकै कष्ट बेहोर्दै आउनुभएको थियो । लामो समयसम्म ग...",
+      "published": "2026-10-26T05:24:09+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/388867/conversions/Untitled-1-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "eda356a0594bb180",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.0,
+      "story_size": 1,
+      "image_local": "images/news_978c99e139e42dec68bf.jpg"
+    },
+    {
+      "title": "च्याम्पियनको ताज जोगाउन मैदानमा उत्रिँदै लुम्बिनी",
+      "link": "https://baahrakhari.com/detail/505648",
+      "description": "",
+      "published": "2026-10-26T06:02:00+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "0a1ee2fce3d49f39",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.5,
+      "story_size": 1
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. १२ बजे १२ समाचार : यस्ता छन आजका प्रमुख समाचार\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/601244/12-news-at-12-these-are-todays-top-news-stories\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. कस्तो छ आजको मौसम ?\nस्रोत: Kendrabindu, Baahrakhari\nhttps://kendrabindu.com/news/566258/\n\n2. आजदेखि तेस्रो एनपिएल\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/227239\n\n3. कस्तो रहला आगामी चार दिनको मौसम ? बिहीबार यी चार प्रदेशमा भारी वर्षाको सम्भावना\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/601253/what-will-the-weather-be-like-for-the-next-four-days-heavy-rain-likely-in-these-four-provinces-on-thursday\n\n4. केरुङ–काठमाडौँ रेलमार्ग: सम्भाव्यता अध्ययन पूरा\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/227238\n\n5. लुला चौथो कार्यकालका लागि ब्राजिलको राष्ट्रपतिमा निर्वाचित\nस्रोत: Baahrakhari\nhttps://baahrakhari.com/detail/505667\n\n6. ऋण तिर्न र कमाउन गएका थिए, उतै बित्यो पूरा जिन्दगी\nस्रोत: Setopati\nhttps://www.setopati.com/global/europe/401289\n\n7. पशुमा बढ्दो बाँझोपन\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/227237\n\n8. च्याम्पियनको ताज जोगाउन मैदानमा उत्रिँदै लुम्बिनी\nस्रोत: Baahrakhari\nhttps://baahrakhari.com/detail/505648\n\n— I Am From Hetauda"
 }
