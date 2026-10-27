@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T18:23:14.229052+00:00",
+  "updated_at": "2026-10-27T22:31:38.807219+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -33,7 +33,7 @@
       "source_count": 4,
       "verified": true,
       "local": false,
-      "score": 149.1,
+      "score": 132.6,
       "story_size": 4,
       "image_local": "images/news_f7a99254dff2200813a0.jpg"
     },
@@ -54,7 +54,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 142.0,
+      "score": 125.5,
       "story_size": 3,
       "image_local": "images/news_4cb904833b36501ead89.jpg"
     },
@@ -75,7 +75,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 140.2,
+      "score": 123.6,
       "story_size": 3,
       "image_local": "images/news_871ae08669f3c0d46f3d.jpg"
     },
@@ -95,7 +95,7 @@
       "source_count": 2,
       "verified": true,
       "local": true,
-      "score": 137.1,
+      "score": 120.5,
       "story_size": 2
     },
     {
@@ -114,7 +114,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 128.1,
+      "score": 111.5,
       "story_size": 2
     },
     {
@@ -133,7 +133,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 126.2,
+      "score": 109.7,
       "story_size": 2
     },
     {
@@ -152,8 +152,28 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 124.5,
+      "score": 107.9,
       "story_size": 2
+    },
+    {
+      "title": "कर्णालीले जनकपुरलाई दियो १३३ रनको लक्ष्य",
+      "link": "https://www.onlinekhabar.com/2026/10/2045180/karnali-sets-janakpur-a-target-of-133-runs",
+      "description": "त्रिवि क्रिकेट मैदानमा टस हारेर ब्याटिङ गरेको कर्णालीले निर्धारित २० ओभरमा ९ विकेट गुमाएर १३२ रन बनायो ।",
+      "published": "2026-10-27T13:03:09+00:00",
+      "source": "OnlineKhabar",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar",
+        "Kendrabindu",
+        "Lokaantar"
+      ],
+      "id": "4ed2891d3e5855a7",
+      "source_count": 3,
+      "verified": true,
+      "local": false,
+      "score": 106.1,
+      "story_size": 3
     },
     {
       "title": "कर्णालीको विजयी सुरुवात, जनकपुर १९ रनले पराजित",
@@ -171,27 +191,65 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 120.7,
+      "score": 104.1,
       "story_size": 2
     },
     {
-      "title": "कर्णालीले जनकपुरलाई दियो १३३ रनको लक्ष्य",
-      "link": "https://www.onlinekhabar.com/2026/10/2045180/karnali-sets-janakpur-a-target-of-133-runs",
-      "description": "त्रिवि क्रिकेट मैदानमा टस हारेर ब्याटिङ गरेको कर्णालीले निर्धारित २० ओभरमा ९ विकेट गुमाएर १३२ रन बनायो ।",
-      "published": "2026-10-27T13:03:09+00:00",
-      "source": "OnlineKhabar",
-      "category": "business",
-      "image": "",
+      "title": "गजेन्द्रमोक्ष नारायण मुक्तिनाथ रथयात्रा दमौलीमा",
+      "link": "https://www.ratopati.com/story/601695/gajendramoksha-narayan-muktinath-rath-yatra-in-damauli",
+      "description": "तनहुँ । प्रसिद्ध धार्मिकस्थल मुक्तिनाथबाट सुरु भएको मेची महाकाली गजेन्द्रमोक्ष नारायण मुक्तिनाथ रथयात्रा मंगलबार तनहुँको सदरमुकाम दमौली आइपुगेको छ । सनातन धर्मको संरक्षण, आध्यात्मिक चेतनाको विस्तार र धार्मिक जागरण अभिवृद्धि गर्ने उद्देश्य राखेर आइतबारदेखि सुरु",
+      "published": "2026-10-27T19:15:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/tanahu-map_us5mlswuc2_MPGIzBN5w0.jpg",
       "related_sources": [
-        "OnlineKhabar",
-        "Lokaantar"
+        "Ratopati"
       ],
-      "id": "4ed2891d3e5855a7",
-      "source_count": 2,
-      "verified": true,
+      "id": "35efe176f6ce13c1",
+      "source_count": 1,
+      "verified": false,
       "local": false,
-      "score": 112.7,
-      "story_size": 2
+      "score": 99.9,
+      "story_size": 1,
+      "image_local": "images/news_891b9a58cb26d616f256.jpg"
+    },
+    {
+      "title": "कर्नाटकमा मतदाता सूची पुनरीक्षणपछि ७२ लाख मतदाता घटे, एक जना ‘पाकिस्तानी नागरिक’ पनि भेटिए",
+      "link": "https://www.ratopati.com/story/601693/72-million-voters-reduced-after-revision-of-voter-list-in-karnataka-one-pakistani-citizen-also-found",
+      "description": "काठमाडौँ । भारतको कर्नाटक राज्यमा मतदाता सूचीको विशेष गहन पुनरीक्षण (एसआईआर) प्रक्रिया सम्पन्न भएपछि कुल मतदाताको सङ्ख्यामा करिब ७२ लाखले कमी आएको छ । विवादका बिच सम्पन्न भएको यस पुनरीक्षणपछि राज्यमा मतदाताको कुल सङ्ख्या ५ करोड",
+      "published": "2026-10-27T19:00:00+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://npcdn.ratopati.com/media/news/india-voter_smTPffnhnb.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "da8e3a0a424212f4",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 98.9,
+      "story_size": 1,
+      "image_local": "images/news_4fb6ff9c2ddc31ee9a0f.webp"
+    },
+    {
+      "title": "कञ्चनपुरका स्थानीय तहलाई रासायनिक मलको कोटा निर्धारण",
+      "link": "https://www.ratopati.com/story/601694/quota-of-chemical-fertilizers-determined-for-local-levels-in-kanchanpur",
+      "description": "कञ्चनपुर । कृषि सामग्री कम्पनी लिमिटेड महेन्द्रनगर शाखाले यहाँका स्थानीय तहलाई रासायनिक मलको कोटा निर्धारण गरेको छ । कम्पनीले युरिया र डिएपी मलको कोटा निर्धारण गरिएको महेन्द्रनगर शाखाका प्रबन्धक हेमराज जोशीले जानकारी दिए । उनका अनुसार",
+      "published": "2026-10-27T18:29:46+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/kanchanpur_e3gtuuoi9c_NWReY0jTdJ.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "9b1bc9a42b3b34eb",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 96.9,
+      "story_size": 1,
+      "image_local": "images/news_78d523fa55682656fcdc.jpg"
     },
     {
       "title": "१२ बजे १२ समाचार : सरकार ढाल्ने खेलमा विपक्षी दलहरू, सर्वोच्च अदालतमा पुरानो मुद्दाको जाम",
@@ -208,7 +266,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.5,
+      "score": 95.9,
       "story_size": 1,
       "image_local": "images/news_6a167b621dea43ccce10.webp"
     },
@@ -227,7 +285,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.7,
+      "score": 93.1,
       "story_size": 1,
       "image_local": "images/news_039ce7c13122fcd8b364.jpg"
     },
@@ -246,7 +304,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.1,
+      "score": 92.6,
       "story_size": 1
     },
     {
@@ -264,7 +322,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.9,
+      "score": 92.4,
       "story_size": 1,
       "image_local": "images/news_d9188bd74bc7008f3619.jpg"
     },
@@ -283,7 +341,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.6,
+      "score": 92.0,
       "story_size": 1,
       "image_local": "images/news_0ef3273e9eb8d18c2557.webp"
     },
@@ -302,7 +360,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.7,
+      "score": 91.1,
       "story_size": 1,
       "image_local": "images/news_a07e7ef0ad87c403f2f7.webp"
     },
@@ -321,7 +379,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.4,
+      "score": 90.8,
       "story_size": 1,
       "image_local": "images/news_57598093df935850a591.jpg"
     },
@@ -340,7 +398,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.2,
+      "score": 90.6,
       "story_size": 1
     },
     {
@@ -358,7 +416,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 107.1,
+      "score": 90.5,
       "story_size": 1
     },
     {
@@ -376,7 +434,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.2,
+      "score": 89.6,
       "story_size": 1,
       "image_local": "images/news_01f80b0c9d844c39488d.jpg"
     },
@@ -395,7 +453,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.1,
+      "score": 89.5,
       "story_size": 1
     },
     {
@@ -413,7 +471,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.6,
+      "score": 89.1,
       "story_size": 1
     },
     {
@@ -431,28 +489,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.6,
+      "score": 89.0,
       "story_size": 1,
       "image_local": "images/news_f8c8d6e924c89345532f.jpg"
-    },
-    {
-      "title": "एसिया प्यासिफिक मन्त्रीस्तरीय सम्मेलनमा सहभागी हुन ऊर्जामन्त्री श्रेष्ठ बैंककमा",
-      "link": "https://gorkhapatraonline.com/news/227443",
-      "description": "बैंकक, कात्तिक १० गते । ऊर्जा, जलस्रोत तथा सिँचाइमन्त्री विराज भक्त श्रेष्ठ थाइल्याण्डको राजधानी बैंकक आइपुग्नुभएको छ । एसिया तथा प्रशान्त क्षेत्रमा दिगो विकासका लागि अन्तरिक्ष अनु...",
-      "published": "2026-10-27T22:08:58+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "politics",
-      "image": "https://gorkhapatraonline.com/storage/media/389187/conversions/WhatsApp-Image-2026-10-27-at-20.59.30-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "9192d8576be34b79",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 105.1,
-      "story_size": 1,
-      "image_local": "images/news_ec0bf9dd5c958d85043f.jpg"
     },
     {
       "title": "राहुलको शानदार डेब्यू तर युनिशको तिखो वाणमा झुक्यो जनकपुुर",
@@ -469,8 +508,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.0,
+      "score": 88.5,
       "story_size": 1
+    },
+    {
+      "title": "एसिया प्यासिफिक मन्त्रीस्तरीय सम्मेलनमा सहभागी हुन ऊर्जामन्त्री श्रेष्ठ बैंककमा",
+      "link": "https://gorkhapatraonline.com/news/227443",
+      "description": "बैंकक, कात्तिक १० गते । ऊर्जा, जलस्रोत तथा सिँचाइमन्त्री विराज भक्त श्रेष्ठ थाइल्याण्डको राजधानी बैंकक आइपुग्नुभएको छ । एसिया तथा प्रशान्त क्षेत्रमा दिगो विकासका लागि अन्तरिक्ष अनु...",
+      "published": "2026-10-27T22:08:58+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "politics",
+      "image": "https://gorkhapatraonline.com/storage/media/389187/conversions/WhatsApp-Image-2026-10-27-at-20.59.30-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "9192d8576be34b79",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 88.5,
+      "story_size": 1,
+      "image_local": "images/news_ec0bf9dd5c958d85043f.jpg"
     },
     {
       "title": "सीमापार विद्युत् व्यापारका लागि निजी क्षेत्रलाई आशयपत्र : ऊर्जा व्यापारमा नयाँ अध्यायको सुरुवात",
@@ -487,7 +545,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.6,
+      "score": 88.1,
       "story_size": 2,
       "image_local": "images/news_c6569e9582ec054885cc.jpg"
     },
@@ -506,7 +564,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.5,
+      "score": 87.9,
       "story_size": 1
     },
     {
@@ -524,7 +582,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.5,
+      "score": 87.9,
       "story_size": 1,
       "image_local": "images/news_0a372c58e898a3fe6494.webp"
     },
@@ -543,7 +601,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.5,
+      "score": 87.9,
       "story_size": 1,
       "image_local": "images/news_6e1da17df5b257a54dad.jpg"
     },
@@ -562,7 +620,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.1,
+      "score": 87.5,
       "story_size": 1,
       "image_local": "images/news_9bb5122c84f3a616cce4.webp"
     },
@@ -581,7 +639,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.8,
+      "score": 87.3,
       "story_size": 1,
       "image_local": "images/news_d48c0e23ee46f28a14b3.png"
     },
@@ -600,7 +658,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.6,
+      "score": 87.0,
       "story_size": 1,
       "image_local": "images/news_400996cff5bd38aa4fbb.webp"
     },
@@ -619,7 +677,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.5,
+      "score": 86.9,
       "story_size": 1,
       "image_local": "images/news_b1e8535866ecb28a1fe4.webp"
     },
@@ -638,7 +696,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.8,
+      "score": 86.2,
       "story_size": 1,
       "image_local": "images/news_782bff9bf7224afd759f.jpg"
     },
@@ -657,7 +715,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.4,
+      "score": 85.8,
       "story_size": 1,
       "image_local": "images/news_db88ee89b56c144f2e4a.jpg"
     },
@@ -676,7 +734,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.5,
+      "score": 85.0,
       "story_size": 1,
       "image_local": "images/news_4114bf51a90e0a667f34.webp"
     },
@@ -695,7 +753,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.9,
+      "score": 84.3,
       "story_size": 1
     },
     {
@@ -713,7 +771,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.8,
+      "score": 84.2,
       "story_size": 1
     },
     {
@@ -731,7 +789,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.8,
+      "score": 84.2,
       "story_size": 1,
       "image_local": "images/news_fdc3bebb1310870f0d0b.jpg"
     },
@@ -750,7 +808,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.7,
+      "score": 84.1,
       "story_size": 1
     },
     {
@@ -768,7 +826,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.6,
+      "score": 84.0,
       "story_size": 1
     },
     {
@@ -786,7 +844,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.5,
+      "score": 83.9,
       "story_size": 1
     },
     {
@@ -804,7 +862,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.0,
+      "score": 83.5,
       "story_size": 1,
       "image_local": "images/news_3210affe39d282d470e5.webp"
     },
@@ -823,7 +881,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.6,
+      "score": 83.0,
       "story_size": 1
     },
     {
@@ -841,7 +899,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.5,
+      "score": 83.0,
       "story_size": 1
     },
     {
@@ -859,7 +917,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.5,
+      "score": 82.9,
+      "story_size": 1
+    },
+    {
+      "title": "एनपीएलको रौनक राजनीतिमा, शुभकामना दिन शीर्ष नेताहरूको होड",
+      "link": "https://www.onlinekhabar.com/2026/10/2044869/in-the-exciting-politics-of-npl-top-leaders-compete-to-wish-good-luck",
+      "description": "क्रिकेटको लोकप्रियता, राष्ट्रिय गौरव र युवा पुस्ताको आकर्षणले यसलाई राजनीतिक नेतृत्वका लागि पनि सार्वजनिक चासो व्यक्त गर्ने महत्वपूर्ण विषय बनाएको छ ।",
+      "published": "2026-10-27T15:44:41+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "eb3d630862c99444",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 82.9,
       "story_size": 1
     },
     {
@@ -877,27 +953,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.5,
+      "score": 82.9,
       "story_size": 1,
       "image_local": "images/news_08fc8dcae2fd4baa7f15.webp"
-    },
-    {
-      "title": "एनपीएलको रौनक राजनीतिमा, शुभकामना दिन शीर्ष नेताहरूको होड",
-      "link": "https://www.onlinekhabar.com/2026/10/2044869/in-the-exciting-politics-of-npl-top-leaders-compete-to-wish-good-luck",
-      "description": "क्रिकेटको लोकप्रियता, राष्ट्रिय गौरव र युवा पुस्ताको आकर्षणले यसलाई राजनीतिक नेतृत्वका लागि पनि सार्वजनिक चासो व्यक्त गर्ने महत्वपूर्ण विषय बनाएको छ ।",
-      "published": "2026-10-27T15:44:41+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "eb3d630862c99444",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 99.4,
-      "story_size": 1
     },
     {
       "title": "रास्वपाकै पूर्व अडान विपरीतका प्रावधान राखेर आयो भूमि अध्यादेश",
@@ -914,7 +972,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.4,
+      "score": 82.8,
       "story_size": 1
     },
     {
@@ -932,7 +990,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.4,
+      "score": 82.8,
       "story_size": 1
     },
     {
@@ -950,7 +1008,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.4,
+      "score": 82.8,
       "story_size": 1,
       "image_local": "images/news_126be83a7d7785ed4da2.webp"
     },
@@ -969,7 +1027,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.3,
+      "score": 82.7,
       "story_size": 1
     },
     {
@@ -987,7 +1045,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.2,
+      "score": 82.6,
       "story_size": 1
     },
     {
@@ -1005,7 +1063,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.1,
+      "score": 82.5,
       "story_size": 1
     },
     {
@@ -1023,7 +1081,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.0,
+      "score": 82.4,
       "story_size": 1
     },
     {
@@ -1041,7 +1099,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.0,
+      "score": 82.4,
       "story_size": 1
     },
     {
@@ -1059,7 +1117,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.8,
+      "score": 82.2,
       "story_size": 1
     },
     {
@@ -1077,7 +1135,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.2,
+      "score": 81.6,
       "story_size": 1,
       "image_local": "images/news_126be83a7d7785ed4da2.webp"
     },
@@ -1096,7 +1154,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.0,
+      "score": 81.4,
       "story_size": 1
     },
     {
@@ -1114,7 +1172,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.9,
+      "score": 81.3,
       "story_size": 1,
       "image_local": "images/news_ae95f5a900284d3abfcc.jpg"
     },
@@ -1133,7 +1191,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.4,
+      "score": 80.8,
       "story_size": 1,
       "image_local": "images/news_7192a253256597ca7175.jpg"
     },
@@ -1152,7 +1210,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.3,
+      "score": 80.8,
       "story_size": 1,
       "image_local": "images/news_60de794b40648fd4cbfe.webp"
     },
@@ -1171,28 +1229,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.3,
+      "score": 80.7,
       "story_size": 1,
       "image_local": "images/news_675eeda0a04806b28b67.webp"
-    },
-    {
-      "title": "उच्चबाट सफाइ पाएलगत्तै जनप्रतिनिधिमाथि विशेषमा भ्रष्टाचार मुद्दा",
-      "link": "https://www.ratopati.com/story/601661/corruption-case-filed-against-public-representative-after-being-cleared-by-higher-authorities",
-      "description": "काठमाडौँ । लुम्बिनी प्रदेशको स्थायी राजधानीलाई स्वागत गर्न सडक सौन्दर्यकरणका नाममा भएको रूख कटान प्रकरणमा उच्च अदालतबाट सफाइ पाएका जनप्रतिनिधि तथा कर्मचारीहरूविरुद्ध विशेष अदालतमा भ्रष्टाचार मुद्दा दायर भएको छ । उच्च अदालत तुलसीपुरबाट अभियोग दाबीबाट सफाइ",
-      "published": "2026-10-27T14:25:18+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/rapti-upatyaka_B2FUiPuxMn.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "e94f6e33abaa6486",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 97.2,
-      "story_size": 1,
-      "image_local": "images/news_1934f9f74c80b207351e.webp"
     },
     {
       "title": "युनिसको त्यो ओभर, जसले जनकपुरमाथि कर्णाली हाबी भयो",
@@ -1209,7 +1248,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.9,
+      "score": 80.4,
       "story_size": 1
     },
     {
@@ -1227,7 +1266,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.9,
+      "score": 80.3,
       "story_size": 1,
       "image_local": "images/news_27a348a3fb8fa9eb5789.jpg"
     },
@@ -1246,47 +1285,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.5,
+      "score": 79.9,
       "story_size": 1,
       "image_local": "images/news_7bf3505c54d6e5e0cf48.jpg"
-    },
-    {
-      "title": "‘राजा र कम्युनिस्टहरूको भारत विरोधी राष्ट्रवादको युग अझै सकिएको छैन’",
-      "link": "https://www.ratopati.com/story/601618/the-era-of-anti-indian-nationalism-of-kings-and-communists-is-not-over-yet",
-      "description": "काठमाडौँ । अर्थमन्त्री स्वर्णिम वाग्लेले नयाँदिल्लीमा ‘नेपालमा भारत विरोधी राष्ट्रवादको युग सकियो’ भनेर दिएको अभिव्यक्ति अहिले बहसको विषय बनेको छ । कतिपयले मन्त्री वाग्लेको अभिव्यक्ति गैरकूटनीतिक, असान्दर्भिक र नेपालको स्वाभिमानमाथि आँच पुर्‍याएको भनी विरोध गरेका",
-      "published": "2026-10-27T14:15:00+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/bijaykant-karna_iGZmKttxcw.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "183f7db56141fde4",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 96.5,
-      "story_size": 1,
-      "image_local": "images/news_8f13e75affe07461a70e.webp"
-    },
-    {
-      "title": "विवादै विवादमा मालपानी : नागरिकतादेखि गुणस्तरहीन उत्पादन र राजस्व छलीसम्म",
-      "link": "https://www.ratopati.com/story/601659/malpani-in-controversy-from-citizenship-to-substandard-products-and-revenue-evasion",
-      "description": "काठमाडौँ । करेन्ट चाउचाउका प्रमुख लगानीकर्ता तथा सुर्तीजन्य पदार्थका व्यवसायी कमलकिशोर मालपानी एकपछि अर्को गम्भीर विवादमा तानिएका छन् । नेपाली नागरिकताको वैधतामाथिको प्रश्नदेखि करोडौँको राजस्व छली तथा गुणस्तरहीन र कम तौल भएका खाद्य र सुर्तीजन्य सामग्री",
-      "published": "2026-10-27T14:13:28+00:00",
-      "source": "Ratopati",
-      "category": "business",
-      "image": "https://npcdn.ratopati.com/media/news/malpani-rajaswa_9vDPakvgbc.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "68155df4e0e1302f",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 96.4,
-      "story_size": 1,
-      "image_local": "images/news_fd9477bc8b4a85a798a8.webp"
     },
     {
       "title": "तस्बिर हेर्नुहोस् टियू मैदानको माहोल",
@@ -1303,7 +1304,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.0,
+      "score": 79.4,
       "story_size": 1
     },
     {
@@ -1321,7 +1322,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.5,
+      "score": 78.9,
       "story_size": 1
     },
     {
@@ -1339,7 +1340,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.7,
+      "score": 78.2,
       "story_size": 1
     },
     {
@@ -1357,7 +1358,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.6,
+      "score": 77.0,
+      "story_size": 1
+    },
+    {
+      "title": "विवादमा तानिएका कोशी लोक सेवा आयोगका अध्यक्ष गुरागाईंले दिए राजीनामा",
+      "link": "https://kendrabindu.com/news/566835/",
+      "description": "काठमाडौं । पदको दुरुपयोग गरेको आरोपमा विवादमा तानिएका कोशी प्रदेश लोक सेवा आयोगका अध्यक्ष महेन्द्रप्रसाद गुरागाईंले पदबाट राजीनामा दिएका छन्। गुरागाईंले मंगलबार प्रदेश प्रमुख परशुराम खापुङसमक्ष राजीनामा बुझाएका हुन्। प्रदेश प्रमुखको कार्यालयका अनुसार उनले कात्तिक १६ गतेदेखि लागू हुने गरी राजीनामा दिएका छन्। उनको राजीनामा स्वीकृतिको प्रक्रियामा रहेको कार्यालयले जनाएको छ। गुरागाईं अतिरिक्त भत्ता बुझेको [&#8230;]",
+      "published": "2026-10-27T13:59:14+00:00",
+      "source": "Kendrabindu",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "cd637dc6dcf00ea5",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 75.8,
       "story_size": 1
     },
     {
@@ -1375,7 +1394,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.1,
+      "score": 75.6,
       "story_size": 1
     },
     {
@@ -1393,7 +1412,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.6,
+      "score": 75.0,
+      "story_size": 1
+    },
+    {
+      "title": "६८ किलोभन्दा बढी चाँदीका गरगहनासहित भारतीय नागरिक पक्राउ",
+      "link": "https://kendrabindu.com/nigrani/566830/",
+      "description": "काठमाडौं । प्रहरीले ६८ किलोभन्दा बढी चाँदीका गरगहनासहित एक भारतीय नागरिकलाई पक्राउ गरेको छ। काठमाडौं उपत्यका अपराध अनुसन्धान कार्यालय टेकुको टोलीले भारतको बिहारस्थित रक्सौलका १९ वर्षीय अमन सर्राफलाई ६८ किलो २४४.२४ ग्राम चाँदीका गरगहनासहित पक्राउ गरेको हो। कार्यालयका सूचना अधिकारी एवं प्रहरी उपरीक्षक रामेश्वर कार्कीका अनुसार सर्राफलाई सोमबार चन्द्रागिरि नगरपालिका–७ बाट पक्राउ गरिएको हो। उनलाई [&#8230;]",
+      "published": "2026-10-27T13:42:52+00:00",
+      "source": "Kendrabindu",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "d024ac82db1dcbcb",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 74.7,
       "story_size": 1
     },
     {
@@ -1411,7 +1448,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.3,
+      "score": 74.7,
+      "story_size": 1
+    },
+    {
+      "title": "बङ्गलादेशमा ट्रककाे ठक्करबाट पाँच जनाको मृत्यु",
+      "link": "https://kendrabindu.com/world/566829/",
+      "description": "ढाका । बङ्गलादेशको दक्षिणपूर्वी सहर चट्टोग्रामको बाहिरी क्षेत्रमा मङ्गलबार बिहान तीव्र गतिमा आएको ट्रकले बसबाट ओर्लिएर सडक किनारमा पर्खिरहेका यात्रुलाई ठक्कर दिँदा पाँच जनाको मृत्यु भएको छ भने अन्य चार जना घाइते भएका छन् । स्थानीय प्रहरीका वरिष्ठ अधिकारी इस्लामका अनुसार ढाका–चट्टोग्राम राजमार्गअन्तर्गत सिताकुन्डामा एउटा बसमा प्राविधिक खराबी आएपछि यात्रुहरू गाडीबाट ओर्लिएर सडक किनारमा पर्खिरहेका [&#8230;]",
+      "published": "2026-10-27T13:41:28+00:00",
+      "source": "Kendrabindu",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "04a5691392b049f2",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 74.7,
       "story_size": 1
     },
     {
@@ -1429,7 +1484,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.1,
+      "score": 74.6,
+      "story_size": 1
+    },
+    {
+      "title": "भारतमा डेटा गोपनीयतासम्बन्धी नयाँ नियमलाई सर्वोच्च अदालतमा चुनौती",
+      "link": "https://kendrabindu.com/world/566826/",
+      "description": "नयाँदिल्ली । भारतका समाचार प्रकाशकहरूले डेटा गोपनीयतासम्बन्धी नयाँ नियमले प्रेस स्वतन्त्रता र खोजमूलक पत्रकारितालाई कमजोर पार्ने भन्दै चुनौती दिएपछि सर्वोच्च अदालतले मङ्गलबार सरकारसँग जवाफ मागेको छ । प्रधानमन्त्री नरेन्द्र मोदी नेतृत्वको सरकारले व्यक्तिगत डेटा संरक्षणसम्बन्धी कानुन कार्यान्वयन गर्न गत वर्ष नयाँ नियम ल्याएको थियो । तर, आलोचकहरूले नियमको दायरा फराकिलो भएकाले जनहितमा गरिने पत्रकारिता प्रभावित [&#8230;]",
+      "published": "2026-10-27T13:34:07+00:00",
+      "source": "Kendrabindu",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "32dd83a33cabc9ba",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 74.2,
       "story_size": 1
     },
     {
@@ -1447,7 +1520,43 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.9,
+      "score": 73.4,
+      "story_size": 1
+    },
+    {
+      "title": "काठमाडौंमा घर खाली भएको मौका छोपेर चोरी गर्ने चार भारतीय पक्राउ",
+      "link": "https://kendrabindu.com/nigrani/566823/",
+      "description": "काठमाडौं । काठमाडौंका विभिन्न स्थानमा घर तथा फ्ल्याट खाली भएको मौका छोपेर नगद, सुनचाँदीका गरगहनालगायत धनमाल चोरी गरेको आरोपमा चार जना भारतीय नागरिक पक्राउ परेका छन्। काठमाडौं उपत्यका अपराध अनुसन्धान कार्यालयको टोलीले कलंकी क्षेत्रका विभिन्न घरमा चोरी गरेको आरोपमा उनीहरूलाई चोरीका सामानसहित पक्राउ गरेको हो। पक्राउ पर्नेमा भारतको बिहारस्थित समस्तीपुर खेसराहा घर भई हाल काठमाडौं [&#8230;]",
+      "published": "2026-10-27T13:17:53+00:00",
+      "source": "Kendrabindu",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "0d7ef206e2447372",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 73.1,
+      "story_size": 1
+    },
+    {
+      "title": "सेलिब्रिटीको रोजाइ बन्दै चांगान नेभो क्यू०५, सार्थक हुँदै ‘ए क्लास अबभ’",
+      "link": "https://kendrabindu.com/economy/566818/",
+      "description": "काठमाडौं । सार्वजनिक भएको एक महिनामै चांगान नेभो क्यू०५ नेपाली मनोरञ्जन क्षेत्रका चर्चित व्यक्तित्वहरूको रोजाइ बन्न थालेको छ। गायक स्वप्न सुमन र अभिनेत्री ज्योत्सना योगी, मिरुना मगर, आना शर्मा तथा जसिता गुरुङले गाडीको डेलिभरी लिएसँगै यो विद्युतीय एसयूभीप्रति थप चासो बढेको छ। आफ्नो प्रतिभा, शैली र विशिष्ट पहिचानमार्फत दर्शकको मन जितेका यी सेलिब्रिटीको छनोटले नयाँ [&#8230;]",
+      "published": "2026-10-27T13:09:55+00:00",
+      "source": "Kendrabindu",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "2ad3179497f9cf56",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 72.6,
       "story_size": 1
     },
     {
@@ -1465,7 +1574,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.0,
+      "score": 72.5,
+      "story_size": 1
+    },
+    {
+      "title": "ग्लोबल आइएमई बैंक लगातार तेस्रो पटक ‘बेष्ट बैंक अवार्ड’बाट सम्मानित",
+      "link": "https://kendrabindu.com/economy/566812/",
+      "description": "काठमाडाैं । ग्लोबल आइएमई बैंक लिमिटेड प्रतिष्ठित अन्तर्राष्ट्रिय आर्थिक पत्रिका ‘ग्लोबल फाइनान्स’ द्वारा प्रदान गरिने ‘बेष्ट बैंक अवार्ड’ २०२६ बाट सम्मानित भएको छ । योसँगै बैंक लगातार तेस्रो वर्ष ग्लोबल फाइनान्स म्यागाजिनको बेष्ट बैंक अवार्डबाट सम्मानित भएको हो । ग्लोबल आइएमई बैंकले सन् २०२४ र २०२५ मा पनि सोही विधामा ग्लोबल फाइनान्सको उक्त अवार्ड प्राप्त [&#8230;]",
+      "published": "2026-10-27T13:02:42+00:00",
+      "source": "Kendrabindu",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "5b427d50bad0f4f9",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 72.1,
       "story_size": 1
     },
     {
@@ -1483,7 +1610,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.4,
+      "score": 71.8,
       "story_size": 1
     },
     {
@@ -1501,7 +1628,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.0,
+      "score": 71.4,
       "story_size": 1
     },
     {
@@ -1519,7 +1646,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.7,
+      "score": 71.2,
+      "story_size": 1
+    },
+    {
+      "title": "के हो आनी छोइङ डोल्माको नियुक्ति विवाद ?",
+      "link": "https://kendrabindu.com/news/566803/",
+      "description": "काठमाडौं । ‘फूलको आँखामा फूलै संसार, काँडाको आँखामा काँडै संसार’ भन्ने गीतबाट नेपालीको मन जितेकी आनी छोइङ डोल्मा अहिले फेरि चर्चामा छिन् । तर यसपटक उनको चर्चा संगीत वा सामाजिक सेवाका कारण होइन, लुम्बिनी विकास कोषको उपाध्यक्षमा भएको नियुक्ति र उनीसँग जोडिएका पुराना विवादका कारण भइरहेको छ । बौद्ध भिक्षुणीहरूको शिक्षा, मिर्गौलाका बिरामीलाई सहयोग र [&#8230;]",
+      "published": "2026-10-27T12:48:05+00:00",
+      "source": "Kendrabindu",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "1698fd26ec6d1ad0",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 71.1,
       "story_size": 1
     },
     {
@@ -1537,7 +1682,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.7,
+      "score": 71.1,
+      "story_size": 1
+    },
+    {
+      "title": "मतदाता नामावलीबाट दुई लाखभन्दा बढीको नाम हट्यो, किन ?",
+      "link": "https://kendrabindu.com/news/566804/",
+      "description": "काठमाडौं । निर्वाचन आयोगले मृत्यु भएका, दोहोरो नाम परेका, नाम रद्द भएका तथा नागरिकता त्यागेका गरी दुई लाख तीन हजार ५८६ जनाको नाम मतदाता नामावलीबाट हटाएको छ। आयोगका अनुसार हटाइएकामध्ये ४५ हजार ३२२ जना मृत्यु भएका मतदाता हुन् भने एक लाख ५८ हजार २६४ जनाको नाम दोहोरो परेको, रद्द भएको वा नागरिकता त्यागेको आधारमा हटाइएको [&#8230;]",
+      "published": "2026-10-27T12:47:48+00:00",
+      "source": "Kendrabindu",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "299eedd0fa9bbf88",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 71.1,
       "story_size": 1
     },
     {
@@ -1555,7 +1718,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.0,
+      "score": 70.5,
       "story_size": 1
     },
     {
@@ -1573,7 +1736,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.3,
+      "score": 69.7,
       "story_size": 1
     },
     {
@@ -1591,7 +1754,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.2,
+      "score": 69.7,
       "story_size": 1
     },
     {
@@ -1609,7 +1772,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.9,
+      "score": 69.4,
       "story_size": 1
     },
     {
@@ -1627,7 +1790,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.8,
+      "score": 69.3,
       "story_size": 1
     },
     {
@@ -1645,7 +1808,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.5,
+      "score": 68.9,
       "story_size": 1
     },
     {
@@ -1663,7 +1826,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.5,
+      "score": 68.0,
       "story_size": 1
     },
     {
@@ -1681,25 +1844,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.1,
-      "story_size": 1
-    },
-    {
-      "title": "आँधीबाट जोगिन सडकमा घस्रिँदै कारमुनि लुक्न गएको एउटा सील",
-      "link": "https://www.bbc.com/nepali/watch/c8r4y5k5l914o?at_medium=RSS&at_campaign=rss",
-      "description": "जलक्रीडाका सामग्री बेच्ने एउटा पसलले पार्क गरिएका कारमुनि ओत लागेका ती समुद्री जीवहरूको भिडिओ शेअर गरेको छ।",
-      "published": "2026-10-27T11:07:50+00:00",
-      "source": "BBC Nepali",
-      "category": "nepal",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/68c4/live/9d69def0-d1f5-11f1-a701-fddedf244c16.jpg",
-      "related_sources": [
-        "BBC Nepali"
-      ],
-      "id": "46f3aeea63fb6a00",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 84.0,
+      "score": 67.6,
       "story_size": 1
     },
     {
@@ -1717,7 +1862,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.9,
+      "score": 67.4,
+      "story_size": 1
+    },
+    {
+      "title": "आँधीबाट जोगिन सडकमा घस्रिँदै कारमुनि लुक्न गएको एउटा सील",
+      "link": "https://www.bbc.com/nepali/watch/c8r4y5k5l914o?at_medium=RSS&at_campaign=rss",
+      "description": "जलक्रीडाका सामग्री बेच्ने एउटा पसलले पार्क गरिएका कारमुनि ओत लागेका ती समुद्री जीवहरूको भिडिओ शेअर गरेको छ।",
+      "published": "2026-10-27T11:07:50+00:00",
+      "source": "BBC Nepali",
+      "category": "nepal",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/68c4/live/9d69def0-d1f5-11f1-a701-fddedf244c16.jpg",
+      "related_sources": [
+        "BBC Nepali"
+      ],
+      "id": "46f3aeea63fb6a00",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 67.4,
       "story_size": 1
     },
     {
@@ -1735,7 +1898,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.9,
+      "score": 67.3,
       "story_size": 1
     },
     {
@@ -1753,7 +1916,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.6,
+      "score": 67.1,
       "story_size": 1
     },
     {
@@ -1771,7 +1934,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.6,
+      "score": 67.0,
       "story_size": 1
     },
     {
@@ -1789,7 +1952,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.3,
+      "score": 66.7,
       "story_size": 1
     },
     {
@@ -1807,7 +1970,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.1,
+      "score": 66.5,
       "story_size": 1
     },
     {
@@ -1825,7 +1988,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.0,
+      "score": 66.5,
       "story_size": 1
     },
     {
@@ -1843,7 +2006,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.2,
+      "score": 65.7,
       "story_size": 1
     },
     {
@@ -1861,7 +2024,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.0,
+      "score": 65.4,
       "story_size": 1
     },
     {
@@ -1879,7 +2042,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.3,
+      "score": 64.7,
       "story_size": 1
     },
     {
@@ -1897,7 +2060,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.2,
+      "score": 64.7,
       "story_size": 1
     },
     {
@@ -1915,7 +2078,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.1,
+      "score": 64.5,
       "story_size": 1
     },
     {
@@ -1933,7 +2096,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.8,
+      "score": 64.2,
       "story_size": 1
     },
     {
@@ -1951,7 +2114,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.6,
+      "score": 63.0,
       "story_size": 1
     },
     {
@@ -1969,7 +2132,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.8,
+      "score": 62.2,
       "story_size": 1
     },
     {
@@ -1987,7 +2150,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.3,
+      "score": 61.7,
       "story_size": 1
     },
     {
@@ -2005,7 +2168,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.8,
+      "score": 61.2,
       "story_size": 1
     },
     {
@@ -2023,7 +2186,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.5,
+      "score": 60.9,
       "story_size": 1
     },
     {
@@ -2041,7 +2204,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.3,
+      "score": 60.7,
       "story_size": 1
     },
     {
@@ -2059,7 +2222,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.2,
+      "score": 60.7,
       "story_size": 1
     },
     {
@@ -2077,7 +2240,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.3,
+      "score": 59.7,
       "story_size": 1
     },
     {
@@ -2095,7 +2258,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.8,
+      "score": 59.3,
       "story_size": 1
     },
     {
@@ -2113,7 +2276,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.5,
+      "score": 57.9,
       "story_size": 1
     },
     {
@@ -2131,7 +2294,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.3,
+      "score": 57.7,
       "story_size": 1
     },
     {
@@ -2149,7 +2312,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.1,
+      "score": 57.5,
       "story_size": 1
     },
     {
@@ -2167,7 +2330,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.9,
+      "score": 57.3,
       "story_size": 1
     },
     {
@@ -2185,7 +2348,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 62.0,
+      "score": 45.5,
       "story_size": 1
     },
     {
@@ -2203,7 +2366,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 52.5,
+      "score": 35.9,
       "story_size": 1
     },
     {
@@ -2221,7 +2384,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 45.8,
+      "score": 29.2,
       "story_size": 1
     },
     {
@@ -2239,7 +2402,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 45.1,
+      "score": 28.5,
       "story_size": 1
     },
     {
@@ -2596,168 +2759,6 @@
         "Lokaantar"
       ],
       "id": "a95667de3148a35d",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "युद्धपछि नेतान्याहूको सत्ता जोगिएला? इजरायलमा निर्णायक मतदान",
-      "link": "http://lokaantar.com/story/332032/2026/10/27/netanyahu-",
-      "description": "इजरायलमा तीन वर्षदेखि जारी युद्ध र सन् २०२३ अक्टोबर ७ मा हमासले गरेको आक्रमणको प्रभावबीच प्रधानमन्त्री बेन्जामिन नेतान्याहूको राजनीतिक भविष्य निर्धारण गर्ने निर्वाचनमा मतदाताहरूले मङ्गलबार मतदान गरिरहेका छन् ।इजरायलको नेतृत्व कसले गर्ने र देशको सुरक्षा कसले सुनिश्चित गर्न सक्छ भन्ने विषयमा मतदाताहरू विभाजित छन् । नेतान्याहूलाई सत्ताबाट हटाउन चाहने विभिन्न दलले चुनौती दिएका छन् । जनमत सर्वेक्षणहरूले उनी र पूर्व सैन्य प्रमुख गादी आइजेनकोटबीच कडा प्रतिस्पर्धा हुने सङ्केत गरेका छन् । निर्वाचनमा ७० ल",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "world",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "eec43dce6c5ff91a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "सुक्खा बन्दरगाहका प्रवेशद्वार २४ घण्टा सञ्चालन गर्ने व्यवस्था मिलाउन निर्देशन",
-      "link": "http://lokaantar.com/story/332026/2026/10/27/dry-port-",
-      "description": "प्रतिनिधिसभा पूर्वाधार विकास समितिका सभापति आशिष गजुरेल र बारा निर्वाचन क्षेत्र नम्बर ३ का प्रतिनिधिसभा सदस्य अरविन्द साहले वीरगञ्ज भन्सार कार्यालय मातहत रहेका तत्कालीन&nbsp;वीरगञ्जको सुक्खा बन्दरगाह र वीरगञ्ज एकीकृत जाँचचौकीको स्थलगत अनुगमन गरेका छन् ।सार्वजनिक&ndash;निजी साझेदारी (पीपीपी) अवधारणाअन्तर्गत निजी क्षेत्रमार्फत सञ्चालन भइरहेका ती बन्दरगाहको भौतिक पूर्वाधार, व्यवस्थापकीय अवस्था तथा सञ्चालन प्रक्रियाबारे जानकारी लिने उद्देश्यले अनुगमन गरिएको पूर्वाधार विकास समितिका सभापति गजुरेलको नि",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "208d7e13c3110172",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "बङ्गलादेशमा ट्रकको ठक्करबाट पाँच जनाको मृत्यु",
-      "link": "http://lokaantar.com/story/332031/2026/10/27/accident-",
-      "description": "बङ्गलादेशको दक्षिणपूर्वी सहर चट्टोग्रामको बाहिरी क्षेत्रमा मङ्गलबार बिहान तीव्र गतिमा आएको ट्रकले बसबाट ओर्लिएर सडक किनारमा बसिरहेका यात्रुलाई ठक्कर दिँदा पाँच जनाको मृत्यु भएको छ भने अन्य चार जना घाइते भएका छन् ।स्थानीय प्रहरीका वरिष्ठ अधिकारी इस्लामका अनुसार ढाका&ndash;चट्टोग्राम राजमार्गअन्तर्गत सिताकुन्डामा एउटा बसमा प्राविधिक खराबी आएपछि यात्रुहरू गाडीबाट ओर्लिएर सडक किनारमा पर्खिरहेका थिए । सोही क्रममा मङ्गलबार बिहान करिब १ः३० बजे दुर्घटना भएको हो ।&ldquo;तीव्र गतिमा आएको ट्रकका चालकले निय",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "593485755a4c483a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "काठमाडौं उपत्यकाबाट मंगलबार साँझ देखिएका हिमाल",
-      "link": "http://lokaantar.com/story/332030/2026/10/27/mountains-from-ktm-",
-      "description": "प्रदूषण कम हुँदा, मौसम खुल्दा काठमाडौं&nbsp;र यहाँका डाँडाबाट गणेश, लाङटाङ, मनास्लु, हिमालचुलीलगायत हिमाल देखिन्छ ।दशैं&nbsp;बिदामा उपत्यकामा सवारी कम चले, प्रदूषण अति न्यून रह्यो जसले गर्दा यतिबेला काठमाडौंबाट उत्तरतिर हिमाल छर्लङ्ग&nbsp;देखिएका छन् ।तस्वीर : नेपाल फोटो लाइब्रेरी",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "c4d0e6303b73acd0",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "काठमाडौंका विभिन्न स्थानमा चोरी गर्ने चार जना पक्राउ",
-      "link": "http://lokaantar.com/story/332029/2026/10/27/arrest-",
-      "description": "काठमाडौंका विभिन्न स्थानमा घर तथा फ्ल्याटमा कोही नभएको मौका पारी नगद, सुन तथा चाँदीका गरगहनालगायतका धनमाल चोरी गर्ने चार जना भारतीय नागरिकलाई प्रहरीले पक्राउ गरेको छ ।काठमाडौं&nbsp;उपत्यका अपराध अनुसन्धान कार्यालयको टोलीले कलङ्की क्षेत्रका विभिन्न घरमा चोरी गरेको आरोपमा उनीहरूलाई चोरीका सामानसहित पक्राउ गरेको हो ।पक्राउ पर्नेमा भारतको बिहार राज्यस्थित समस्तीपुर खेसराहा घर भई हाल काठमाडौं&nbsp;महानगरपालिका&ndash;१३ कालीमाटी बस्ने २५ वर्षीय विकास पोदार, १९ वर्षीय राजुकुमार भन्ने राजु पोदार, २३ वर्",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "23543b038dd0c10c",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "एनपीएल क्रिकेट : पोखरा एभेन्जर्सको टाइटल स्पोन्सरमा शहंशाह अपार्टमेन्ट्स",
-      "link": "http://lokaantar.com/story/332028/2026/10/27/pokhara-avengers-",
-      "description": "नेपाल प्रिमियर लिग (एनपीएल)को तेस्रो संस्करणमा पोखरा एभेन्जर्सले द शहंशाह अपार्टमेन्ट्ससँग प्रायोजन सम्झौता गरेको छ ।पोखरा एभेन्जर्सले द शहंशाह अपार्टमेन्ट्ससँग टाइटल स्पोन्सरका रूपमा प्रायोजन सम्झौता गरेको हो । मंगलबार आयोजित कार्यक्रममा दुवै&nbsp;पक्षले सम्झौतापत्रमा हस्ताक्षर गरे ।सम्झौतापत्रमा होमल्यान्ड ग्रुपका अध्यक्ष प्रकाश अधिकारी र पोखरा एभेन्जर्सका महाप्रबन्धक अमित लोहनीले हस्ताक्षर गरे ।अधिकारीले नेपालमा क्रिकेट निकै लोकप्रिय खेलका रुपमा अगाडि बढिरहेकोले त्यसलाई थप सहयोग पुर्&zwj;याउन",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "sports",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "b6d385d883e853c5",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "सप्तकोशी बोट दुर्घटनाबारे अध्ययन गर्न समिति गठन",
-      "link": "http://lokaantar.com/story/332025/2026/10/27/boat-accident-",
-      "description": "कोशी प्रदेश सरकारले प्रदेशको मुख्यन्यायाधिवक्ता&nbsp;कार्यालयको आर्थिक वर्ष २०८२/८३ को वार्षिक प्रतिवेदन प्रदेशसभामा पेस गर्ने निर्णय गरेको छ ।आज बसेको मन्त्रिपरिषद्को बैठकबारे जानकारी दिँदै सरकारका प्रवक्ता एवं आन्तरिक मामिला तथा कानूनमन्त्री गोम्बु शेर्पाले उक्त&nbsp;प्रतिवेदन सभामा पेश गर्ने निर्णय भएको बताए ।त्यसैगरी प्रवक्ता शेर्पाका अनुसार बैठकले यही कात्तिक ८ गते धनकुटा, भोजपुर र उदयपुरको&nbsp;सङ्गमस्थल त्रिवेणीस्थित सप्तकोशी नदीमा बोट दुर्घटनाको सत्य, तथ्य अध्ययन एवं छानबिनको लागि प्रदेश",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "24cfc76e31096bef",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "उपराष्ट्रपति यादवसँग जर्मनीका राजदूतको भेटवार्ता",
-      "link": "http://lokaantar.com/story/332024/2026/10/27/meeting-",
-      "description": "उपराष्ट्रपति रामसहायप्रसाद यादवसँग नेपालका लागि सङ्घीय गणतन्त्र जर्मनीका राजदूत उडो युजेन भोल्जले आज लैनचौरस्थित उपराष्ट्रपतिको कार्यालयमा भेटवार्ता गरेका छन् ।भेटका अवसरमा नेपाल&ndash;जर्मनी सम्बन्धका विविध आयाम, विकास सहकार्य, विपद् व्यवस्थापन तथा जनस्तरको सम्बन्ध विस्तारलगायतका विषयमा छलफल भएको उपराष्ट्रपति यादवको सचिवालयले जनाएको छ ।त्यस अवसरमा उपराष्ट्रपति यादवले सन् १९५८ मा नेपाल र जर्मनीबीच कूटनीतिक सम्बन्ध स्थापना भएदेखि नै दुई देशबीचको सम्बन्ध आपसी विश्वास, मित्रता तथा सहयोगका आधारमा नि",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "f91107c97e19b514",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "अदालतमा छुट्टै सहकारी इजलास बनाउन सरकारको पहल, सर्वोच्चले पठायो परिपत्र",
-      "link": "http://lokaantar.com/story/332023/2026/10/27/sahakari",
-      "description": "भूमि व्यवस्था, सहकारी, संघीय मामिला तथा सामान्य प्रशासनमन्त्री प्रतिभा रावलले सहकारी ठगीसम्बन्धी मुद्दा छिटो टुंग्याउन प्रधानन्यायाधीशसँग भेटेरै विशेष इजलास गठन गर्न निवेदन दिएको खुलाएकी छन् । सहकारीका मुद्दा अन्य मुद्दासँगै सुनुवाइ हुँदा ओझेलमा पर्ने र पीडितले लामो समयसम्म न्याय पाउन नसक्ने अवस्था रहेको भन्दै उनले छुट्टै इजलासको माग गरेकी हुन् ।राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेले चुनाव जितेको चितवन पुगेर सहकारी पीडितका गुनासो सुनेपछि मन्त्री रावलले आफूले प्रधानन्यायाधी",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "adbfee86286e8b53",
       "source_count": 1,
       "verified": false,
       "local": false,
