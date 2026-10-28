@@ -1,162 +1,164 @@
 {
   "date_np": "2026-10-28",
-  "generated_at": "2026-10-28T01:46:31.041583+00:00",
+  "generated_at": "2026-10-28T08:08:18.508949+00:00",
   "items": [
     {
-      "title": "मुस्ताङ र आसपासका क्षेत्रमा तीन दिन पदयात्रा नगर्न प्रशासनको अनुरोध",
-      "link": "https://www.onlinekhabar.com/2026/10/2045379/administration-requests-people-not-to-trek-in-mustang-and-surrounding-areas-for-three-days",
-      "description": "११ कात्तिक, मुस्ताङ । मौसम प्रतिकूल हुने सम्भावना रहेकाले १२-१४ कात्तिकसम्म उच्च हिमाली क्षेत्रमा पदयात्रा नगर्न जिल्ला प्रशासन कार्यालय र लोमन्थाङ गाउँपालिकाले अनुरोध गरेका छन् । गण्डकी प्रदेशका अधिकांश स्थानमा मेघगर्जन, चट्याङ र हावाहुरीसहित मध्यमदेखि भारी वर्षा हुने सम्भावना रहेको उल्लेख गर्दै जिल्ला प्रशासन कार्यालयले सूचनामार्फत जानकारी गराएको छ । उच्च पहाडी तथा हिमाली क्षेत्रमा [&#8230;]",
-      "published": "2026-10-28T01:08:51+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar",
-        "Kendrabindu",
-        "Baahrakhari",
-        "Ratopati"
-      ],
-      "id": "8920abf2698e545b",
-      "source_count": 4,
-      "verified": true,
-      "local": false,
-      "score": 151.5,
-      "story_size": 4
-    },
-    {
-      "title": "धान थन्क्याउन युवा जनशक्ति पाउनै मुस्किल",
-      "link": "https://khabarhub.com/2026/28/1040955/",
-      "description": "भोजपुर– गाउँघरबाट युवा जनशक्ति वैदेशिक रोजगारी तथा सहरतर्फ पलायन हुन थालेपछि भोजपुरका किसानलाई धान काट्न र थन्क्याउन कामदार पाउन मुस्किल हुन थालेको छ । खेतीपातीका लागि आवश्यक जनशक्ति अभाव हुँदा किसानले पाकेको धान समयमै भित्र्याउन समस्या भोग्नुपरेको छ । धान खेतीका लागि वर्षभरि मेहनत गरेका किसानलाई बाली भित्र्याउने समयमा कामदार खोज्नुपर्ने बाध्यता परेको छ । [&#8230;]",
-      "published": "2026-10-28T01:41:04+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
-        "OnlineKhabar",
-        "Ratopati"
-      ],
-      "id": "537d10982442186e",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 143.7,
-      "story_size": 3
-    },
-    {
-      "title": "बाढीको असर सेवा प्रवाहमा",
-      "link": "https://www.thahakhabar.com/detail/310971",
-      "description": "",
-      "published": "2026-10-28T07:08:31+05:45",
-      "source": "Thaha Khabar",
+      "title": "काठमाडौँ प्रहरीको ‘स्वीप अपरेसन’: ९२ जना पक्राउ",
+      "link": "https://gorkhapatraonline.com/news/227511",
+      "description": "काठमाडौँ, कात्तिक ११ गते । काठमाडौँ उपत्यकामा आपराधिक गतिविधि नियन्त्रण तथा शान्ति सुरक्षा सुदृढ बनाउने उद्देश्यले प्रहरीले सञ्चालन गरेको विशेष ‘स्वीप अपरेसन’ का क्रममा अपराध कर्मम...",
+      "published": "2026-10-28T13:48:29+05:45",
+      "source": "Gorkhapatra Online",
       "category": "society",
-      "image": "https://www.thahakhabar.com/uploads/posts/BADI-KO-1793150589.jpg",
+      "image": "https://gorkhapatraonline.com/storage/media/389276/conversions/arest_police_1-original.jpg",
       "related_sources": [
-        "Thaha Khabar",
-        "Gorkhapatra Online"
-      ],
-      "id": "02a2e35217dc8d10",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 135.5,
-      "story_size": 2,
-      "image_local": "images/news_86e8451bdcc3ca978e79.jpg"
-    },
-    {
-      "title": "बाँके राष्ट्रिय निकुञ्जमा हिउँदे पर्यटनको चहलपहल",
-      "link": "https://khabarhub.com/2026/28/1040949/",
-      "description": "बाँके– वर्षायाममा रोकिएको जङ्गल सफारी पुनः सुरु भएसँगै बाँके राष्ट्रिय निकुञ्जमा हिउँदे पर्यटनको चहलपहल सुरु भएको छ । मनसुन सकिएसँगै हरियालीले सजिएको निकुञ्जका कच्ची बाटा मर्मत गरी पर्यटकका लागि जङ्गल सफारी पुनः खुला गरिएको गाभर भ्याली सामुदायिक घरबास ‘होमस्टे’का अध्यक्ष कृष्ण चौधरीले बताए । उनका अनुसार, नेपालको सबैभन्दा कान्छो राष्ट्रिय निकुञ्जका रूपमा चिनिने बाँके राष्ट्रिय [&#8230;]",
-      "published": "2026-10-28T00:51:32+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
-        "Ratopati"
-      ],
-      "id": "e13ac11fb8271eae",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 130.4,
-      "story_size": 2
-    },
-    {
-      "title": "वर्षा र हिमपातको जोखिम, सतर्क रहन आग्रह",
-      "link": "https://baahrakhari.com/detail/505857",
-      "description": "",
-      "published": "2026-10-28T06:17:30+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari",
+        "Gorkhapatra Online",
         "Khabarhub"
       ],
-      "id": "784bd7703214c634",
+      "id": "7ac679e3da1ae656",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 129.1,
-      "story_size": 2
+      "score": 136.7,
+      "story_size": 2,
+      "image_local": "images/news_bfcd4467060a7288e20c.jpg"
     },
     {
-      "title": "वीरगन्ज भन्सारबाट लक्ष्यभन्दा बढी राजस्व सङ्कलन",
-      "link": "https://khabarhub.com/2026/28/1040947/",
-      "description": "वीरगञ्ज– वीरगञ्ज भन्सार कार्यालयले पछिल्लो एक महिनामा २६ अर्ब ७२ करोड ५८ लाख राजस्व सङ्कलन गरेको छ । भन्सार कार्यालयले असोज महिनामा लक्ष्यभन्दा बढी राजस्व सङ्कलन गरेको हो । कार्यालयले २६ अर्ब ४६ करोड राजस्व सङ्कलन गर्ने लक्ष्य निर्धारण गरेको थियो । असोजमा इन्धन आयातबाट मात्रै दुई अर्ब २९ करोड राजस्व प्राप्त भएको प्रमुख भन्सार [&#8230;]",
-      "published": "2026-10-28T00:02:16+00:00",
-      "source": "Khabarhub",
-      "category": "business",
-      "image": "",
+      "title": "तिहारसम्म सयपत्री फूल जोगाउने चिन्तामा किसान",
+      "link": "https://gorkhapatraonline.com/news/227510",
+      "description": "भद्रपुर (झापा), कात्तिक ११ गते । झापाका सयपत्री फूलखेती गर्ने किसानलाई यतिबेला फूल टिप्ने चटारोसँगै तिहारसम्म कसरी जोगाएर राख्ने भन्ने चिन्ताले सताएको छ । तिहार आउनुअघि नै फूल फुले...",
+      "published": "2026-10-28T13:33:10+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/389275/conversions/phool-original.jpg",
       "related_sources": [
-        "Khabarhub",
-        "Ratopati"
-      ],
-      "id": "8a78a21cff095a69",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 127.1,
-      "story_size": 2
-    },
-    {
-      "title": "कस्तो रहनेछ आजको मौसम ?",
-      "link": "https://www.ratopati.com/story/601705/what-will-the-weather-be-like-today",
-      "description": "काठमाडौँ । जल तथा मौसम विज्ञान विभागअन्तर्गतको मौसम पूर्वानुमान महाशाखाले हाल देशमा पश्चिमी वायुको आंशिक प्रभाव रहेको र बिहीबारदेखि बङ्गालको खाडीमा विकसित चक्रवात ‘अर्णव’को समेत प्रभाव रहने जनाएको छ। हाल कोशी, मधेस र बागमती प्रदेशमा आंशिक",
-      "published": "2026-10-27T23:59:44+00:00",
-      "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/kathmandu_l5700eagfA.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "db7d3ee347abb6d8",
-      "source_count": 1,
-      "verified": false,
-      "local": true,
-      "score": 123.9,
-      "story_size": 1,
-      "image_local": "images/news_a6e77fb3de212e5884ca.webp"
-    },
-    {
-      "title": "शुक्रबारदेखि वर्षा र हिमपातको जोखिम छ, सतर्क रहन प्राधिकरणको अनुरोध",
-      "link": "https://kendrabindu.com/news/566838/",
-      "description": "काठमाडौं । बंगालको खाडीमा विकसित भइरहेको चक्रवात ‘अर्णव’को प्रभावले यही कात्तिक १३ र १४ गते भारी वर्षा, चट्याङ तथा हावाहुरीको सम्भावना रहेको राष्ट्रिय विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरणले जनाएको छ। प्राधिकरणले सूचना जारी गर्दै वर्षा, चट्याङ तथा हावाहुरीले पुर्याउन सक्ने असरप्रति उच्च सतर्क रहन पनि आग्रह गरेको छ। अर्णव चक्रवातको प्रभावले कोसी, मधेस, बागमती, [&#8230;]",
-      "published": "2026-10-28T00:37:11+00:00",
-      "source": "Kendrabindu",
-      "category": "business",
-      "image": "",
-      "related_sources": [
+        "Gorkhapatra Online",
         "Kendrabindu"
       ],
-      "id": "a9159e0e8357f9a4",
+      "id": "90961b98fa46f314",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 135.7,
+      "story_size": 2,
+      "image_local": "images/news_b412cbf9c2a5f1c36fc7.jpg"
+    },
+    {
+      "title": "चाडपर्व नजिकिँदै जाँदा माटो र बाँसको सामग्रीको माग बढ्यो",
+      "link": "https://gorkhapatraonline.com/news/227507",
+      "description": "सप्तरी, कात्तिक ११ गते । राजविराज बजारमा माटो र बाँसले बनाएको सामग्रीको भाँडाकुँडा तथा अन्य सामग्रीको व्यपार बढेको छ ।तिहार, छठजस्ता चाडपर्व नजिकिँदै जाँदा यहाँ भक्तजनहरूले अनिवार...",
+      "published": "2026-10-28T13:01:40+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/389272/conversions/converted_image-(85)-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online",
+        "Kendrabindu"
+      ],
+      "id": "0b34d9665edd8906",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 133.6,
+      "story_size": 2,
+      "image_local": "images/news_58b2bfa2226e4c8f4014.jpg"
+    },
+    {
+      "title": "हिमाली क्षेत्रमा नजान पर्यटक तथा पर्वतारोहीलाई आग्रह",
+      "link": "https://www.ratopati.com/story/601773/tourists-and-mountaineers-urged-not-to-go-to-the-himalayan-region",
+      "description": "काठमाडौँ । पर्यटन विभागले यही कात्तिक ११ देखि १५ गतेसम्म देशका विभिन्न स्थानमा भारी वर्षा तथा हिमाली क्षेत्रमा हिमपात र हिमपहिरोको जोखिम रहेको भन्दै उच्च हिमाली क्षेत्रमा नजान पर्यटक तथा पर्वतारोहीलाई आग्रह गरेको छ । नेपाल",
+      "published": "2026-10-28T07:14:16+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/paryatan-bivag_gX7VZXL8n1.jpg",
+      "related_sources": [
+        "Ratopati",
+        "Kendrabindu"
+      ],
+      "id": "704a8717cd9050f2",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 133.4,
+      "story_size": 2,
+      "image_local": "images/news_4e8dedc7f41cc5d12a45.jpg"
+    },
+    {
+      "title": "जलाशययुक्त आयोजनामा लगानी तथा प्रविधिमा सहकार्य गर्न इप्पान अध्यक्षको आह्वान",
+      "link": "https://www.onlinekhabar.com/2026/10/2045591/ippan-chairman-calls-for-investment-and-technology-collaboration-in-reservoir-projects",
+      "description": "११ कात्तिक, काठमाडौं । स्वतन्त्र ऊर्जा उत्पादकहरूको संस्था, नेपाल (इप्पान) का अध्यक्ष मोहनकुमार डाँगीले नेपालमा जलाशय जलविद्युत आयोजना विकास गर्न लगानी तथा प्रविधि हस्तान्तरण र प्राविधिक सहकार्यका लागि क्यानडासहित अन्तर्राष्ट्रिय समुदायलाई आह्वान गरेका छन् । क्यानडा ड्याम एसोसिएसनको वार्षिक सम्मेलन २०२६ तथा ‘ट्रेड सो’ मा सहभागी हुन क्यानडा पुगेका डाँगीले कार्यक्रमलाई सम्बोधन गर्दै क्यानडासँग बाँध [&#8230;]",
+      "published": "2026-10-28T07:17:29+00:00",
+      "source": "OnlineKhabar",
+      "category": "tech",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar",
+        "Setopati"
+      ],
+      "id": "5566bbebafb525a8",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 130.6,
+      "story_size": 2
+    },
+    {
+      "title": "भारतमा वितण्डा मच्चाउँदै ‘अर्नब’, नेपालका कुन-कुन ठाउँमा पार्दैछ असर?",
+      "link": "https://www.thahakhabar.com/detail/310992",
+      "description": "अर्नब चक्रवातले लुम्बिनी, गण्डकी, बागमती, मधेश र कोशी प्रदेशमा भारी वर्षा र माथिल्लो क्षेत्रमा हिमपात पनि हुनसक्ने पूर्वानुमान गरिएको छ।",
+      "published": "2026-10-28T13:44:52+05:45",
+      "source": "Thaha Khabar",
+      "category": "nepal",
+      "image": "https://www.thahakhabar.com/uploads/posts/Arnab-syclone-1793172677.jpg",
+      "related_sources": [
+        "Thaha Khabar"
+      ],
+      "id": "c844d504436c8298",
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 123.4,
-      "story_size": 1
+      "score": 130.5,
+      "story_size": 1,
+      "image_local": "images/news_c509d7a49b31f478070f.jpg"
+    },
+    {
+      "title": "सुनचाँदीको मूल्य बढ्यो",
+      "link": "https://gorkhapatraonline.com/news/227502",
+      "description": "काठमाडौँ, कात्तिक ११ गते । स्थानीय बजारमा आज सुन र चाँदीको मूल्य बढेको छ । सुनमा प्रतितोला नौ सय रुपियाँले बढेको छ भने चाँदीको मूल्य १० रुपियाँले बढेको छ । नेपाल सुनचाँदी व्यवसायी...",
+      "published": "2026-10-28T12:05:49+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/389263/conversions/gold--original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online",
+        "OnlineKhabar"
+      ],
+      "id": "9b044383d4f1119e",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 129.9,
+      "story_size": 2,
+      "image_local": "images/news_dc9626794a47d19979b7.jpg"
+    },
+    {
+      "title": "प्रभासको ‘फौजी’ विवादमा : इतिहास तोडमोड गरेको भन्दै सुभाष चन्द्र बोसका नातिद्वारा आपत्ति",
+      "link": "https://www.ratopati.com/story/601795/prabhas-fauji-controversy-subhash-chandra-boses-grandson-objects-saying-it-distorts-history",
+      "description": "मुम्बई । दक्षिण भारतीय अभिनेता प्रभासको आगामी फिल्म ‘फौजी’को टिजरलाई लिएर विवाद सिर्जना भएको छ । इतिहासलाई तोडमोड गरेको आरोप लगाउँदै सुभाष चन्द्र बोसका नाति, सामाजिक-राजनीतिक अभियन्ता तथा पश्चिम बंगालका पूर्व भाजपा उपाध्यक्ष चन्द्र कुमार बोसले",
+      "published": "2026-10-28T08:06:37+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/subhas_fauzi_1793153347183_cikz_Stiwkzbbft.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "ff777868132fb42e",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.9,
+      "story_size": 1,
+      "image_local": "images/news_419dc670fba031992921.webp"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. मुस्ताङ र आसपासका क्षेत्रमा तीन दिन पदयात्रा नगर्न प्रशासनको अनुरोध\nस्रोत: OnlineKhabar, Kendrabindu, Baahrakhari\nhttps://www.onlinekhabar.com/2026/10/2045379/administration-requests-people-not-to-trek-in-mustang-and-surrounding-areas-for-three-days\n\n2. धान थन्क्याउन युवा जनशक्ति पाउनै मुस्किल\nस्रोत: Khabarhub, OnlineKhabar, Ratopati\nhttps://khabarhub.com/2026/28/1040955/\n\n3. बाढीको असर सेवा प्रवाहमा\nस्रोत: Thaha Khabar, Gorkhapatra Online\nhttps://www.thahakhabar.com/detail/310971\n\n4. बाँके राष्ट्रिय निकुञ्जमा हिउँदे पर्यटनको चहलपहल\nस्रोत: Khabarhub, Ratopati\nhttps://khabarhub.com/2026/28/1040949/\n\n5. वर्षा र हिमपातको जोखिम, सतर्क रहन आग्रह\nस्रोत: Baahrakhari, Khabarhub\nhttps://baahrakhari.com/detail/505857\n\n6. वीरगन्ज भन्सारबाट लक्ष्यभन्दा बढी राजस्व सङ्कलन\nस्रोत: Khabarhub, Ratopati\nhttps://khabarhub.com/2026/28/1040947/\n\n7. कस्तो रहनेछ आजको मौसम ?\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/601705/what-will-the-weather-be-like-today\n\n8. शुक्रबारदेखि वर्षा र हिमपातको जोखिम छ, सतर्क रहन प्राधिकरणको अनुरोध\nस्रोत: Kendrabindu\nhttps://kendrabindu.com/news/566838/\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. काठमाडौँ प्रहरीको ‘स्वीप अपरेसन’: ९२ जना पक्राउ\nस्रोत: Gorkhapatra Online, Khabarhub\nhttps://gorkhapatraonline.com/news/227511\n\n2. तिहारसम्म सयपत्री फूल जोगाउने चिन्तामा किसान\nस्रोत: Gorkhapatra Online, Kendrabindu\nhttps://gorkhapatraonline.com/news/227510\n\n3. चाडपर्व नजिकिँदै जाँदा माटो र बाँसको सामग्रीको माग बढ्यो\nस्रोत: Gorkhapatra Online, Kendrabindu\nhttps://gorkhapatraonline.com/news/227507\n\n4. हिमाली क्षेत्रमा नजान पर्यटक तथा पर्वतारोहीलाई आग्रह\nस्रोत: Ratopati, Kendrabindu\nhttps://www.ratopati.com/story/601773/tourists-and-mountaineers-urged-not-to-go-to-the-himalayan-region\n\n5. जलाशययुक्त आयोजनामा लगानी तथा प्रविधिमा सहकार्य गर्न इप्पान अध्यक्षको आह्वान\nस्रोत: OnlineKhabar, Setopati\nhttps://www.onlinekhabar.com/2026/10/2045591/ippan-chairman-calls-for-investment-and-technology-collaboration-in-reservoir-projects\n\n6. भारतमा वितण्डा मच्चाउँदै ‘अर्नब’, नेपालका कुन-कुन ठाउँमा पार्दैछ असर?\nस्रोत: Thaha Khabar\nhttps://www.thahakhabar.com/detail/310992\n\n7. सुनचाँदीको मूल्य बढ्यो\nस्रोत: Gorkhapatra Online, OnlineKhabar\nhttps://gorkhapatraonline.com/news/227502\n\n8. प्रभासको ‘फौजी’ विवादमा : इतिहास तोडमोड गरेको भन्दै सुभाष चन्द्र बोसका नातिद्वारा आपत्ति\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/601795/prabhas-fauji-controversy-subhash-chandra-boses-grandson-objects-saying-it-distorts-history\n\n— I Am From Hetauda"
 }
