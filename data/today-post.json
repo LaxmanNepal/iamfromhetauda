@@ -1,6 +1,6 @@
 {
   "date_np": "2026-10-30",
-  "generated_at": "2026-10-29T18:58:46.094781+00:00",
+  "generated_at": "2026-10-29T23:13:42.769337+00:00",
   "items": [
     {
       "title": "दुर्घटना न्यूनीकरणमा सक्रिय हुन निर्देशन",
@@ -18,105 +18,143 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 136.5,
+      "score": 119.5,
       "story_size": 2,
       "image_local": "images/news_953bb21e7b8b802db434.jpg"
     },
     {
-      "title": "इजरायलले अरब समूहका सदस्यमाथि दबाब बढायो, नेतन्याहु सरकार गठन गर्ने उपाय खोज्दै",
-      "link": "https://www.ratopati.com/story/602143/israel-increases-pressure-on-arab-bloc-members-seeks-ways-for-netanyahu-to-form-government",
-      "description": "काठमाडौँ । प्रधानमन्त्री बेन्जामिन नेतन्याहुको समूहले बिहीबार इजरायली अरब नेताहरूमाथि विदेशी कोषको लेनदेनको अप्रमाणित आरोप लगाएको छ । यो कदम अनिर्णायक निर्वाचनपछि सरकार गठनको कुञ्जी हुन सक्ने दलहरूलाई कमजोर पार्ने प्रयास हो । इजरायली राष्ट्रपति आइज्याक",
-      "published": "2026-10-29T18:41:19+00:00",
+      "title": "पशु वधशाला तथा मासु जाँच ऐन कार्यान्वयनका लागि कार्यदल गठन",
+      "link": "https://www.ratopati.com/story/602147/task-force-formed-to-implement-the-animal-slaughterhouse-and-meat-inspection-act",
+      "description": "काठमाडौँ । सरकारले पशु वधशाला तथा मासु जाँच ऐन, २०५५ कार्यान्वयनका लागि बागमती प्रदेशमा १५ वटा कार्यदल गठन गरेको छ । पशु सेवा विभागले काठमाडौँ उपत्यकाका लागि आठ सहसचिव सम्मिलित तीन कार्यदल तथा मकवानपुर, सिन्धुली, रामेछाप,",
+      "published": "2026-10-29T19:25:18+00:00",
       "source": "Ratopati",
       "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/netanahu_NkzqrBjgta.png",
+      "image": "https://npcdn.ratopati.com/media/news/pasu-bibhag_pufgiw0p8w_q29xyIQFrq.jpg",
       "related_sources": [
         "Ratopati"
       ],
-      "id": "71e64556b9ba72c2",
+      "id": "f00719763d8464cd",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 115.8,
+      "story_size": 1,
+      "image_local": "images/news_5b00ef7ff6dd0f5febdb.jpg"
+    },
+    {
+      "title": "भकिम्लीका किसान व्यावसायिक गाईपालनमा",
+      "link": "https://www.ratopati.com/story/602154/farmers-of-bhakimli-engage-in-commercial-cattle-farming",
+      "description": "म्याग्दी । म्याग्दीको बेनी नगरपालिका–३ भकिम्लीका किसान व्यावसायिक गाईपालनमा आकर्षित भएका छन् । परम्परागत पशुपालनको विकल्पमा उन्नत जातको गाईपालन गरेर आयआर्जन वृद्धि र स्वरोजगार बन्न थालेका हुन् । भकिम्ली ग्रामीण कृषि सहकारी संस्थामार्फत उन्नत जर्सी र",
+      "published": "2026-10-29T23:02:49+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/oru6Eifqfg.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "8c39c6d7acee79b0",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.9,
+      "score": 112.3,
       "story_size": 1,
-      "image_local": "images/news_35f840edb7d1d9be07d3.png"
+      "image_local": "images/news_574f34712987e2d480e7.jpg"
     },
     {
-      "title": "प्रहरीको ‘स्वीप अपरेसन’ : ९७ जना पक्राउ",
-      "link": "https://www.ratopati.com/story/602141/police-sweep-operation-97-people-arrested",
-      "description": "काठमाडौँ । काठमाडौँ उपत्यकामा आपराधिक गतिविधि नियन्त्रण तथा शान्ति, सुरक्षा सुदृढ बनाउने उद्देश्यले प्रहरीले सञ्चालन गरेको विशेष ‘स्वीप अपरेसन’ का क्रममा ९७ जना पक्राउ परेका छन् । पक्राउ पर्नेमा विभिन्न मुद्दामा अदालतबाट दोषी ठहर भई",
-      "published": "2026-10-29T18:29:00+00:00",
+      "title": "चाडपर्व मनाउन सस्तो दरमा धान बेच्दै किसान",
+      "link": "https://www.ratopati.com/story/602153/farmers-selling-paddy-at-cheap-rates-to-celebrate-festivals",
+      "description": "बाँके । नजिकिँदो तिहारलगायतका चाडपर्व मनाउन यहाँका किसानले व्यापारीलाई सस्तो दरमा धान बेच्न बाध्य भएका छन् । खाद्य व्यवस्था तथा व्यापार कम्पनी लिमिटेडले यस वर्ष मोटा धानको मूल्य प्रतिक्विन्टल रु तीन हजार ६६० र मध्यमको रु",
+      "published": "2026-10-29T22:43:38+00:00",
       "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/large-group-arrest-jail_rtGCODXQ5L.jpg",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/dhan_Zif4ys3f2f.webp",
       "related_sources": [
         "Ratopati"
       ],
-      "id": "08caa62a02919121",
+      "id": "2406b38d0478ba30",
       "source_count": 1,
       "verified": false,
       "local": false,
       "score": 111.0,
       "story_size": 1,
-      "image_local": "images/news_582bbd1148e0c1df78e2.jpg"
+      "image_local": "images/news_d7c5602d476093b78bc3.webp"
     },
     {
-      "title": "१५ वर्षपछि सञ्चालनमा आउँदै धनुषा-सिरहा जोड्ने कमला पुल",
-      "link": "https://www.ratopati.com/story/602140/kamala-bridge-connecting-dhanusha-siraha-to-be-operational-after-15-years",
-      "description": "काठमाडौँ । धनुषा र सिरहा जोड्ने हुलाकी सडकअन्तर्गतको कमला पुल आगामी मंसिर पहिलो साताभित्र सञ्चालनमा ल्याउने लक्ष्यसहित निर्माण कार्यलाई तीव्रता दिइएको छ । पूर्वाधार विकासमन्त्री सुनिल लम्सालले बिहीबार राति सामाजिक सञ्जाल फेसबुकमार्फत यसबारे जानकारी दिएका",
-      "published": "2026-10-29T18:24:57+00:00",
+      "title": "स्याफ्रुबेँसी–खाम्जिङ जोड्ने अस्थायी काठेपुल सञ्चालनमा",
+      "link": "https://www.ratopati.com/story/602152/temporary-wooden-bridge-connecting-syafrubesi-khamjing-in-operation",
+      "description": "रसुवा । भोटेकोशी बाढीले सडक सञ्जाल टुटेपछि अवरुद्ध रसुवाको स्याफ्रुबेँसीबाट गोसाईंकुण्ड गाउँपालिकाका विभिन्न वडालाई जोड्ने काठेपुल सञ्चालनमा आएका छन् । स्थानीयवासीको आवतजावतलाई सहज बनाउन निर्माण गरिएको अस्थायी काठेपुल बिहीबारदेखि सञ्चालनमा आएको हो । गोसाईंकुण्ड गाउँपालिका–३ का",
+      "published": "2026-10-29T22:40:19+00:00",
       "source": "Ratopati",
       "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/kamala-pul-photo_2lybGe05Jz.jpg",
+      "image": "https://npcdn.ratopati.com/media/news/rasuwa-map_5ptxmJBUA0.jpg",
       "related_sources": [
         "Ratopati"
       ],
-      "id": "0fa5d8d67839aa5d",
+      "id": "4e358639ded57377",
       "source_count": 1,
       "verified": false,
       "local": false,
       "score": 110.8,
       "story_size": 1,
-      "image_local": "images/news_04403e2ed809c5be3f1c.jpg"
+      "image_local": "images/news_0f67914fcca08b0b3e1b.jpg"
     },
     {
-      "title": "बँदेलको आक्रमणबाट बालिका घाइते",
-      "link": "https://gorkhapatraonline.com/news/227662",
-      "description": "प्रतीक इच्छुक शर्मासल्यान, कात्तिक १२ गते । सल्यानको दार्मा गाउँपालिका–२, ओझाबाङमा जङ्गली बँदेलको आक्रमणबाट १७ वर्षीया बालिका घाइते भएकी छन् ।घरनजिकैको सामुदायिक वनमा दाउरा काट्न ग...",
-      "published": "2026-10-30T00:03:53+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/389494/conversions/WhatsApp-Image-2026-10-29-at-18.21.26-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "5b3edc4eba6548fb",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 110.4,
-      "story_size": 1,
-      "image_local": "images/news_e1b78633f9ce8ea0b3be.jpg"
-    },
-    {
-      "title": "१२ बजे १२ समाचार : बिचौलियासँग नाम जोडिएपछि आफूलाई चोखो देखाउन विज्ञप्तिको बाढी, सीजी मोटर्सको लापरबाही",
-      "link": "https://www.ratopati.com/story/602139/12-oclock-12-news-flood-of-press-releases-to-show-itself-clean-after-being-linked-to-middlemen-cg-motors-negligence",
-      "description": "काठमाडौँ । आज दिनभर भएका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति रातोपाटी ब्रिफिङमा १२ बजे १२ समाचार लिएर हाजिर भएका छौँ १. बिचौलियासँग नाम जोडिएपछि आफूलाई चोखो देखाउन विज्ञप्तिको बाढी एक जना विवादास्पद व्यक्तिसँग नाम जोडिएपछि देशका सुरक्षा",
-      "published": "2026-10-29T18:15:30+00:00",
+      "title": "झापामा चार लाख ५१ हजारले पाए राष्ट्रिय परिचयपत्र",
+      "link": "https://www.ratopati.com/story/602149/451000-people-in-jhapa-received-national-identity-cards",
+      "description": "झापा । झापामा चार लाख ५१ हजार ७०४ जनाले राष्ट्रिय परिचयपत्र प्राप्त गरेका छन् । जिल्ला प्रशासन कार्यालयका अनुसार चालु आर्थिक वर्षको प्रथम त्रैमासिक अवधिको प्रगति प्रतिवेदन सार्वजनिक गर्दै उक्त जानकारी दिएको हो । झापामा जिल्ला",
+      "published": "2026-10-29T22:28:12+00:00",
       "source": "Ratopati",
-      "category": "tech",
-      "image": "https://npcdn.ratopati.com/media/news/12-news_g1aXfASNRS.webp",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/jhapa__dhzolqasr2_QnjZRO8TPN.webp",
       "related_sources": [
         "Ratopati"
       ],
-      "id": "71c21830a271c19d",
+      "id": "b7baad344ec0b72f",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.1,
+      "score": 110.0,
       "story_size": 1,
-      "image_local": "images/news_6239161cdccac7c7cd09.webp"
+      "image_local": "images/news_968e2f5456e5cf33b994.webp"
+    },
+    {
+      "title": "नेकपाको राष्ट्रिय जागरण अभियान सुरु",
+      "link": "https://www.ratopati.com/story/602150/ncps-national-awareness-campaign-begins",
+      "description": "रुपन्देही । नेपाली कम्युनिस्ट पार्टी (नेकपा) रुपन्देहीले बिहीबारदेखि दुई महिने राष्ट्रिय जागरण अभियान सुरु गरेको छ । सो पार्टीका लुम्बिनी प्रदेश इन्चार्ज चक्रपाणि खनालले अभियानको उद्घाटन गरे । उनले पार्टीमा युवा सहभागिता बढाउनुपर्नेमा जोड दिनुभयो ।",
+      "published": "2026-10-29T22:28:01+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/nekapa-office_kgrqwWy3WM.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "629f9e34d37ac971",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.0,
+      "story_size": 1,
+      "image_local": "images/news_4379e7b5b8d70fbf41ab.webp"
+    },
+    {
+      "title": "आधुनिकतासँगै हराउँदै काठका सामग्री प्रयोग गर्ने चलन",
+      "link": "https://www.ratopati.com/story/602146/the-tradition-of-using-wooden-materials-is-disappearing-with-modernity",
+      "description": "भोजपुर । आधुनिक सामग्रीको प्रयोग बढ्दै गएपछि भोजपुरका गाउँघरमा परम्परागत काठका सामग्री प्रयोग गर्ने चलन हराउँदै जान थालेको छ । विगतमा दूध, दही तथा घिउ राख्न प्रयोग गरिने काठका ठेकी, हर्पे, दुदेरालगायत सामग्री गाउँघरमा अनिवार्य",
+      "published": "2026-10-29T19:45:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/LpuPhonDvV.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "a908bfb02ae36377",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 99.1,
+      "story_size": 1,
+      "image_local": "images/news_c1c3747e3c61e2dca79e.jpg"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. दुर्घटना न्यूनीकरणमा सक्रिय हुन निर्देशन\nस्रोत: Ratopati, Lokaantar\nhttps://www.ratopati.com/story/602144/instructions-to-be-active-in-accident-prevention\n\n2. इजरायलले अरब समूहका सदस्यमाथि दबाब बढायो, नेतन्याहु सरकार गठन गर्ने उपाय खोज्दै\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602143/israel-increases-pressure-on-arab-bloc-members-seeks-ways-for-netanyahu-to-form-government\n\n3. प्रहरीको ‘स्वीप अपरेसन’ : ९७ जना पक्राउ\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602141/police-sweep-operation-97-people-arrested\n\n4. १५ वर्षपछि सञ्चालनमा आउँदै धनुषा-सिरहा जोड्ने कमला पुल\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602140/kamala-bridge-connecting-dhanusha-siraha-to-be-operational-after-15-years\n\n5. बँदेलको आक्रमणबाट बालिका घाइते\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/227662\n\n6. १२ बजे १२ समाचार : बिचौलियासँग नाम जोडिएपछि आफूलाई चोखो देखाउन विज्ञप्तिको बाढी, सीजी मोटर्सको लापरबाही\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602139/12-oclock-12-news-flood-of-press-releases-to-show-itself-clean-after-being-linked-to-middlemen-cg-motors-negligence\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. दुर्घटना न्यूनीकरणमा सक्रिय हुन निर्देशन\nस्रोत: Ratopati, Lokaantar\nhttps://www.ratopati.com/story/602144/instructions-to-be-active-in-accident-prevention\n\n2. पशु वधशाला तथा मासु जाँच ऐन कार्यान्वयनका लागि कार्यदल गठन\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602147/task-force-formed-to-implement-the-animal-slaughterhouse-and-meat-inspection-act\n\n3. भकिम्लीका किसान व्यावसायिक गाईपालनमा\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602154/farmers-of-bhakimli-engage-in-commercial-cattle-farming\n\n4. चाडपर्व मनाउन सस्तो दरमा धान बेच्दै किसान\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602153/farmers-selling-paddy-at-cheap-rates-to-celebrate-festivals\n\n5. स्याफ्रुबेँसी–खाम्जिङ जोड्ने अस्थायी काठेपुल सञ्चालनमा\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602152/temporary-wooden-bridge-connecting-syafrubesi-khamjing-in-operation\n\n6. झापामा चार लाख ५१ हजारले पाए राष्ट्रिय परिचयपत्र\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602149/451000-people-in-jhapa-received-national-identity-cards\n\n7. नेकपाको राष्ट्रिय जागरण अभियान सुरु\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602150/ncps-national-awareness-campaign-begins\n\n8. आधुनिकतासँगै हराउँदै काठका सामग्री प्रयोग गर्ने चलन\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602146/the-tradition-of-using-wooden-materials-is-disappearing-with-modernity\n\n— I Am From Hetauda"
 }
