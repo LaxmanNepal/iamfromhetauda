@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T20:18:42.538928+00:00",
+  "updated_at": "2026-10-29T00:15:18.578469+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -32,7 +32,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 135.8,
+      "score": 120.0,
       "story_size": 3,
       "image_local": "images/news_241a94cb7114038d4496.jpg"
     },
@@ -53,7 +53,7 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 135.7,
+      "score": 119.9,
       "story_size": 3
     },
     {
@@ -73,29 +73,8 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 134.9,
+      "score": 119.1,
       "story_size": 3
-    },
-    {
-      "title": "चक्रवाती आँधी ‘अर्नब’ को सम्भावित प्रभावलाई मध्यनजर गर्दै हवाई सुरक्षा सतर्कता जारी",
-      "link": "https://gorkhapatraonline.com/news/227547",
-      "description": "काठमाडौँ, कात्तिक ११ गते। भारतको आन्ध्र प्रदेश तथा विशाखापट्टनम आसपास तटीय क्षेत्रमा प्रवेश गर्ने अनुमान गरिएको शक्तिशाली चक्रवाती आँधी ‘अर्नब’ को सम्भावित प्रभावको क्षति कम गर्न न...",
-      "published": "2026-10-28T22:33:24+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/389334/conversions/CAAN-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online",
-        "Thaha Khabar",
-        "Khabarhub"
-      ],
-      "id": "d2706ef5505ec648",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 133.0,
-      "story_size": 3,
-      "image_local": "images/news_33e87ee69dba037ccdf8.jpg"
     },
     {
       "title": "कुरियरमार्फत ल्याइएको गाँजासहित दुई भारतीय पक्राउ",
@@ -113,7 +92,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 128.5,
+      "score": 112.7,
       "story_size": 2,
       "image_local": "images/news_08f90e4be8e15d252dff.jpg"
     },
@@ -133,7 +112,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 127.9,
+      "score": 112.2,
       "story_size": 2,
       "image_local": "images/news_0fa2813d211bb0544864.jpg"
     },
@@ -153,29 +132,137 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 127.4,
+      "score": 111.6,
       "story_size": 2,
       "image_local": "images/news_c29fdf7f58c059b4299b.jpg"
     },
     {
-      "title": "नभसुरक्षामा नेपाली सेना सक्रिय",
-      "link": "https://www.ratopati.com/story/601906/nepali-army-active-in-air-security",
-      "description": "काठमाडौँ । नेपाली सेनाको हवाई सेवाले दुई लाख घण्टाभन्दा बढी समय वायुयान र हेलिकप्टर उडाएर नभसुरक्षामा पनि उल्लेखनीय कार्य गर्दै आएको छ । दुई लाख घण्टा विमान उडान पूरा गरेको अवसरमा प्रधान सेनापति अशोक राज सिग्देलले",
-      "published": "2026-10-28T17:30:00+00:00",
-      "source": "Ratopati",
+      "title": "नेपालतिर सोझियो ‘अर्णव’ चक्रवात",
+      "link": "https://gorkhapatraonline.com/news/227555",
+      "description": "काठमाडौँ, कात्तिक १२ गते । बङ्गालको खाडीमा विकसित भएको शक्तिशाली ‘अर्णव’ चक्रवात भारतको आन्ध्र प्रदेशको विशाखापट्टनम र यानमको तटीय क्षेत्रमा बुधबार प्रवेश गरेको छ । चक्रवातले भारतक...",
+      "published": "2026-10-29T05:35:36+05:45",
+      "source": "Gorkhapatra Online",
       "category": "nepal",
-      "image": "https://rpcdn.ratopati.com/media/albums/nepal-army-logo_0wtjVIzuTd.jpg",
+      "image": "https://gorkhapatraonline.com/storage/media/389340/conversions/Untitled-1-original.jpg",
       "related_sources": [
-        "Ratopati",
+        "Gorkhapatra Online"
+      ],
+      "id": "ec5330f15bfc26a9",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.4,
+      "story_size": 1,
+      "image_local": "images/news_05c3705b13dd702843d5.jpg"
+    },
+    {
+      "title": "सडक बन्यो बिस्कुन र फुटपाथ पसल",
+      "link": "https://gorkhapatraonline.com/news/227554",
+      "description": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक १२ गते । सामान्यत सडक दुर्घटनाको मुख्य कारण चालकको लापर्बाही मान्ने आमबुझाइ छ तर त्यसविपरीत ग्रामीण भेगका सडकमा सुकाइने अन्नबाली र छाडा चौपाया...",
+      "published": "2026-10-29T05:28:20+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/389339/conversions/road-saftey-illustration-keshabraj-khanal-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "0f2487e42c2d58fd",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.9,
+      "story_size": 1,
+      "image_local": "images/news_64a9583d3122ad943a19.jpg"
+    },
+    {
+      "title": "होटलमा पानी थप्ने काम गर्थे, अहिले अस्ट्रेलियामा दुई रेस्टुरेन्ट र क्याफेका मालिक",
+      "link": "https://www.setopati.com/global/australia/401466",
+      "description": "नयाँ चप्पल फाट्ला भनेर लगाउनसमेत डराउने उनले बाल्यकालमा चरम अभाव भोगे। २०० रूपैयाँ बोकेर भारत गएका थिए उनले होटलमा पानी थप्ने काम गरे। यो यात्रा अगाडि बढ्दै चीनमा आफ्नै रेस्टुरेन्ट खोल्नेसम्म पुग्यो। अहिले अस्ट्रेलियामा दुई रेस्टुरेन्ट र एउटा क्याफे चलाउँछन्। उनी कसरी यहाँसम्म आइपुगे?",
+      "published": "2026-10-29T05:59:32+05:45",
+      "source": "Setopati",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "bf876d7c49083d75",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.0,
+      "story_size": 1
+    },
+    {
+      "title": "मानव–हात्ती द्वन्द्व न्यूनीकरणका लागि सुरक्षा कार्ययोजना पुनरावलोकन",
+      "link": "https://khabarhub.com/2026/29/1041411/",
+      "description": "झापा– झापामा मानव–हात्ती द्वन्द्वका घटना बढ्दै गएपछि त्यसबाट हुने मानवीय तथा भौतिक क्षति न्यूनीकरणका लागि जिल्ला प्रशासनले सुरक्षा कार्ययोजनाको पुनरावलोकन सुरु गरेको छ । यही कात्तिक ३ गते जङ्गली हात्तीको आक्रमणबाट बाह्रदशी गाउँपालिका–२ जनता चोककी ७० वर्षीया लजुमा खातुनको मृत्यु भएपछि प्रशासनले कार्ययोजनाको प्रभावकारिता समीक्षा गर्न थालेको हो । प्रमुख जिल्ला अधिकारी श्रवणकुमार पोखरेलको अग्रसरतामा [&#8230;]",
+      "published": "2026-10-29T00:07:40+00:00",
+      "source": "Khabarhub",
+      "category": "business",
+      "image": "",
+      "related_sources": [
         "Khabarhub"
       ],
-      "id": "9602f81f383b3ecb",
-      "source_count": 2,
-      "verified": true,
+      "id": "54fa5de494e12e3e",
+      "source_count": 1,
+      "verified": false,
       "local": false,
-      "score": 125.8,
-      "story_size": 2,
-      "image_local": "images/news_beab834d28c31a5e3fcf.jpg"
+      "score": 109.5,
+      "story_size": 1
+    },
+    {
+      "title": "सुरु भयो नेपालमा ‘अर्नब’को प्रभाव, आज कहाँ–कहाँ हुनेछ भारी वर्षा ?",
+      "link": "https://baahrakhari.com/detail/505950",
+      "description": "",
+      "published": "2026-10-29T05:52:05+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "16b71cd0f6340576",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.5,
+      "story_size": 1
+    },
+    {
+      "title": "कांग्रेस केन्द्रीय सदस्य र पदाधिकारीको शपथग्रहण आज",
+      "link": "https://www.onlinekhabar.com/2026/10/2046084/swearing-in-of-congress-central-members-and-office-bearers-today",
+      "description": "आजै बस्ने केन्द्रीय समितिको बैठकबाट बाँकी सदस्य मनोनीत गर्ने तयारी छ ।",
+      "published": "2026-10-29T00:00:28+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "9e31b7df32e07e24",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.0,
+      "story_size": 1
+    },
+    {
+      "title": "एनपीएल : काठमाडौँ र जनकपुर तथा कर्णाली र विराटनगर भिड्दै",
+      "link": "https://khabarhub.com/2026/29/1041198/",
+      "description": "काठमाडौँ &#8211; नेपाल प्रिमियर लिग (एनपीएल) अन्तर्गत आज दुई खेल हुँदैछन् । पहिलो खेलमा जनकपुर बोल्ट्स र काठमाडौँ गोर्खाज भिड्दै छन् । यो खेल दिउँसो १२ : ३० बजे त्रिवि क्रिकेट मैदान कीर्तिपुरमा सुरु हुनेछ । पहिलो खेलमा पराजित भएकाे जनकपुर पहिलो जितको खोजीमा हुनेछ । पहिलो खेलमा जनकपुर कर्णाली याक्ससँग १९ रनले पराजित भएको [&#8230;]",
+      "published": "2026-10-28T23:53:21+00:00",
+      "source": "Khabarhub",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "3830f7728dbbb44a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.5,
+      "story_size": 1
     },
     {
       "title": "शिक्षामन्त्रीसँग स्वीट्जरल्याण्डका राजदूतको शिष्टाचार भेट",
@@ -193,9 +280,45 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 124.2,
+      "score": 108.4,
       "story_size": 2,
       "image_local": "images/news_d5435a39747f7df24866.jpg"
+    },
+    {
+      "title": "प्रहरीको पोशाक खरिदसम्बन्धी अध्ययन उपसमितिको बैठक आज बस्दै",
+      "link": "https://www.onlinekhabar.com/2026/10/2046106/study-subcommittee-meeting-on-police-uniform-procurement-to-be-held-today",
+      "description": "१२ कात्तिक, काठमाडौं । निर्वाचन प्रहरी, नेपाल प्रहरी र सशस्त्र प्रहरी बलको पोशाक खरिदसम्बन्धी अध्ययन उपसमितिको दोस्रो बैठक आज बस्दै छ । बैठक आज बिहान ९ बजे सिंहदरबारमा बस्ने तय भएको छ । गत १६ असोजमा प्रतिनिधिसभा अन्तर्गतको सार्वजनिक लेखा समितिको बैठकले निर्वाचन प्रहरीको पोशाक खरिदबारे अध्ययन गर्न रास्वपा सांसद मनिष झाको नेतृत्वमा उपसमिति गठन [&#8230;]",
+      "published": "2026-10-28T23:45:06+00:00",
+      "source": "OnlineKhabar",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "46cf322757cf4f8f",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.0,
+      "story_size": 1
+    },
+    {
+      "title": "बिहीबार भगवान विष्णुको पूजा गर्नुहोस्",
+      "link": "https://khabarhub.com/2026/29/1041407/",
+      "description": "काठमाडौँ– आज २०८३ साल कात्तिक १२ गते बिहीबार सन् २०२६ अक्टोबर २९ तारिख। कार्तिक कृष्ण पक्षको चतुर्थी तिथि। बिहीबार देवताका गुरु वृहस्पति तथा भगवान श्री हरि विष्णुको पूजा गरिन्छ। आजको दिन व्रत बस्नाले धन, पुत्र तथा विद्या प्राप्ति हुने विश्वास छ। साथै, यो दिन विष्णुकी पत्नी लक्ष्मीको पनि पूजा गरिन्छ। यो व्रत शुक्लपक्षको पहिलो बिहीबारबाट [&#8230;]",
+      "published": "2026-10-28T23:44:21+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "20b57811ddc2383b",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 107.9,
+      "story_size": 1
     },
     {
       "title": "कोप–३१ मा नेपालको सहभागिता परिणाममुखी बनाउन संसदीय समितिका सभापतिको निर्देशन",
@@ -213,9 +336,65 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 123.6,
+      "score": 107.8,
       "story_size": 2,
       "image_local": "images/news_606efcab2f61d707da61.webp"
+    },
+    {
+      "title": "आज २०८३ साल कात्तिक १२ गते बिहीबारको राशिफल",
+      "link": "https://khabarhub.com/2026/29/1041402/",
+      "description": "काठमाडौँ – २०८३ साल कात्तिक १२ गते बिहीबार सन् २०२६ अक्टोबर २९ तारिख। कार्तिक कृष्ण पक्षको चतुर्थी तिथि। नक्षत्र अनुसार १२ वटा राशि हुन्छन्। चन्द्रमा अनुसार राशि र नक्षत्रका पद अनुसार नाम राखिन्छ। त्यही आधारमा व्यक्तिको दैनिकीको विषयमा भविष्यवाणी हुन्छ। खबरहबका लागि ज्योतिष पण्डित सूर्यनाथ लुइटेलले तयार पार्नुभएको आजको फलादेशः मेष : दिन राम्रो छ। [&#8230;]",
+      "published": "2026-10-28T23:37:50+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "b89cdf40aa8c4e7f",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 107.5,
+      "story_size": 1
+    },
+    {
+      "title": "नेपालमा आजदेखि वर्षा र हिमपात, सतर्क रहन अपिल",
+      "link": "https://www.onlinekhabar.com/2026/10/2046097/rain-and-snowfall-expected-in-nepal-from-today-appeal-to-be-cautious",
+      "description": "कात्तिक १२ गते साँझदेखि १४ गतेसम्म देशका अधिकांश स्थानमा मेघगर्जन र चट्याङसहित मध्यम वर्षा तथा हिमपातको सम्भावना छ । कर्णाली र सुदूरपश्चिम प्रदेशमा पनि मेघगर्जन, चट्याङ र असिनासहित मध्यम वर्षा तथा हिमपात हुने पूर्वानुमान छ ।",
+      "published": "2026-10-28T23:35:54+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "894b33cb3076eb1b",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 107.4,
+      "story_size": 1
+    },
+    {
+      "title": "चक्रवाती आँधी ‘अर्नब’ को सम्भावित प्रभावलाई मध्यनजर गर्दै हवाई सुरक्षा सतर्कता जारी",
+      "link": "https://gorkhapatraonline.com/news/227547",
+      "description": "काठमाडौँ, कात्तिक ११ गते। भारतको आन्ध्र प्रदेश तथा विशाखापट्टनम आसपास तटीय क्षेत्रमा प्रवेश गर्ने अनुमान गरिएको शक्तिशाली चक्रवाती आँधी ‘अर्नब’ को सम्भावित प्रभावको क्षति कम गर्न न...",
+      "published": "2026-10-28T22:33:24+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/389334/conversions/CAAN-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online",
+        "Thaha Khabar"
+      ],
+      "id": "d2706ef5505ec648",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 107.2,
+      "story_size": 2,
+      "image_local": "images/news_33e87ee69dba037ccdf8.jpg"
     },
     {
       "title": "एनपिएलः सुदूरपश्चिम रोयल्सको जित",
@@ -233,9 +412,27 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 122.7,
+      "score": 106.9,
       "story_size": 2,
       "image_local": "images/news_cc0fd90ff8b553c3a1e3.jpg"
+    },
+    {
+      "title": "नेतान्याहु र आइजेनकोटले पाएनन् बहुमत, अबको विकल्प के ?",
+      "link": "https://www.onlinekhabar.com/2026/10/2046095/netanyahu-and-eisenkot-did-not-get-a-majority-what-are-the-options-now",
+      "description": "इजरायलमा नयाँ सरकार गठनका लागि सम्भावित चार विकल्पबारे बहस भइरहेको छ ।",
+      "published": "2026-10-28T23:25:13+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "1a375515f7f0fb8f",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 106.7,
+      "story_size": 1
     },
     {
       "title": "उत्तर यमनमा साउदी हवाई आक्रमणमा १४ जनाको मृत्यु, १० घाइते",
@@ -253,8 +450,26 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 122.0,
+      "score": 106.2,
       "story_size": 2
+    },
+    {
+      "title": "अमेरिकी, अष्ट्रेलियन र सिंगापुर डलरको भाउ बढ्यो",
+      "link": "https://www.onlinekhabar.com/2026/10/2046078/the-us-australian-and-singapore-dollars-rose-in-value",
+      "description": "१२ कात्तिक, काठमाडौं । नेपाल राष्ट्र बैंकले निर्धारण गरेको विदेशी मुद्राको विनिमय दर अनुसार आज अमेरिकी, अष्ट्रेलियन र सिंगापुर डलरको भाउ बढेको छ । युरो, पाउन्ड स्टर्लिङ, स्वीस फ्र्यांक र क्यानेडियन डलरको भाउ भने घटेको छ । राष्ट्र बैंकले आज अमेरिकी डलर एकको खरिददर १५२ रुपैयाँ ६ पैसा र बिक्रीदर १५२ रुपैयाँ ६६ पैसा तोकेको [&#8230;]",
+      "published": "2026-10-28T23:15:57+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "c7b35525db87c8e2",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 106.0,
+      "story_size": 1
     },
     {
       "title": "पोखरा स्कुल बस दुर्घटना : प्राविधिक खराबी र तीव्र गति",
@@ -272,7 +487,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 120.2,
+      "score": 104.4,
       "story_size": 2
     },
     {
@@ -292,27 +507,8 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 115.3,
+      "score": 99.5,
       "story_size": 3
-    },
-    {
-      "title": "दीपेन्द्रको अर्धशतकमा सुदूरपश्चिमको पहिलो जित, पोखरा ६ विकेटले पराजित",
-      "link": "https://www.onlinekhabar.com/2026/10/2046075/sudurpaschims-first-win-with-dipendras-half-century-pokhara-defeated-by-6-wickets",
-      "description": "पोखराले दिएको १४६ रनको लक्ष्य पछ्याएको सुदूरपश्चिमले १६ ओभर ५ बलमा ४ विकेट गुमाएर पूरा गर्‍यो । सुदूरपश्चिमको जितमा कप्तान दीपेन्द्रले अर्धशतक प्रहार गरे ।",
-      "published": "2026-10-28T14:47:41+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar",
-        "Khabarhub"
-      ],
-      "id": "5a242ac24e357ca9",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 112.0,
-      "story_size": 2
     },
     {
       "title": "मलेसिया रोजगारीबारे भ्रामक सूचना नफैलाउन श्रम मन्त्रालयको आग्रह",
@@ -330,7 +526,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 107.9,
+      "score": 92.1,
       "story_size": 2
     },
     {
@@ -348,7 +544,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.8,
+      "score": 89.0,
       "story_size": 1,
       "image_local": "images/news_8357bd849f4c13f89c90.webp"
     },
@@ -367,7 +563,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.8,
+      "score": 87.0,
       "story_size": 1,
       "image_local": "images/news_17025de19367f8154d68.jpg"
     },
@@ -386,9 +582,28 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.1,
+      "score": 86.3,
       "story_size": 1,
       "image_local": "images/news_b7faab2e1de9dffff67a.jpg"
+    },
+    {
+      "title": "नभसुरक्षामा नेपाली सेना सक्रिय",
+      "link": "https://www.ratopati.com/story/601906/nepali-army-active-in-air-security",
+      "description": "काठमाडौँ । नेपाली सेनाको हवाई सेवाले दुई लाख घण्टाभन्दा बढी समय वायुयान र हेलिकप्टर उडाएर नभसुरक्षामा पनि उल्लेखनीय कार्य गर्दै आएको छ । दुई लाख घण्टा विमान उडान पूरा गरेको अवसरमा प्रधान सेनापति अशोक राज सिग्देलले",
+      "published": "2026-10-28T17:30:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://rpcdn.ratopati.com/media/albums/nepal-army-logo_0wtjVIzuTd.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "9602f81f383b3ecb",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 86.0,
+      "story_size": 1,
+      "image_local": "images/news_beab834d28c31a5e3fcf.jpg"
     },
     {
       "title": "सुदूरपश्चिमको ‘दशा कटाउने’ जित",
@@ -405,7 +620,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.8,
+      "score": 85.0,
       "story_size": 1
     },
     {
@@ -423,7 +638,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.0,
+      "score": 83.2,
       "story_size": 1
     },
     {
@@ -441,7 +656,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.8,
+      "score": 83.0,
       "story_size": 1,
       "image_local": "images/news_4952fe68112a3fafab2f.jpg"
     },
@@ -460,7 +675,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.9,
+      "score": 82.1,
       "story_size": 1,
       "image_local": "images/news_6c25450287e4123af3a5.jpg"
     },
@@ -479,7 +694,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.8,
+      "score": 82.0,
       "story_size": 1
     },
     {
@@ -497,7 +712,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.8,
+      "score": 82.0,
       "story_size": 1,
       "image_local": "images/news_42966ecac84ffcfd6138.jpg"
     },
@@ -516,7 +731,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.7,
+      "score": 81.9,
       "story_size": 1
     },
     {
@@ -534,7 +749,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.5,
+      "score": 81.7,
       "story_size": 1
     },
     {
@@ -552,7 +767,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.5,
+      "score": 81.7,
       "story_size": 1,
       "image_local": "images/news_f5a94c161615e3adb161.jpg"
     },
@@ -571,7 +786,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.4,
+      "score": 81.6,
       "story_size": 1
     },
     {
@@ -589,27 +804,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.3,
+      "score": 81.5,
       "story_size": 1
-    },
-    {
-      "title": "प्रकृति र ग्रामीण सौन्दर्यले भरिएको जुम्लाको लिताकोट गाउँ",
-      "link": "https://gorkhapatraonline.com/news/227543",
-      "description": "प्रेमराज सिम्खडाकालीकोट, कार्तिक ११ गते । कर्णाली प्रदेशको जुम्ला जिल्लास्थित तातोपानी गाउँपालिका–३, लिताकोट प्राकृतिक सौन्दर्य, हरियाली र ग्रामीण जीवनशैलीले भरिपूर्ण सुन्दर गाउँ ह...",
-      "published": "2026-10-28T22:04:34+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/389325/conversions/jumla-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "a6717e27fff47b18",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 97.1,
-      "story_size": 1,
-      "image_local": "images/news_d2c39e81513dfe4da3a1.jpg"
     },
     {
       "title": "१० बजे १० समाचार : सिद्धान्त भुलेर धर्म–राजनीतिको पछाडि दलहरू, छिमेकीसँग सम्बन्ध बढाउँदै रास्वपा–सरकार",
@@ -626,7 +822,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.8,
+      "score": 81.0,
       "story_size": 1,
       "image_local": "images/news_4a721b7fdf5c65d68604.webp"
     },
@@ -645,7 +841,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.8,
+      "score": 81.0,
       "story_size": 1,
       "image_local": "images/news_f89475994c570c4bea4e.webp"
     },
@@ -664,7 +860,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.5,
+      "score": 80.7,
       "story_size": 1,
       "image_local": "images/news_ab72c9ec60d364b2dce9.webp"
     },
@@ -683,7 +879,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.4,
+      "score": 80.6,
       "story_size": 1
     },
     {
@@ -701,25 +897,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.8,
-      "story_size": 1
-    },
-    {
-      "title": "पोखराविरुद्धको जितपछि सुदूरपश्चिमका पाण्डेले के भने ?",
-      "link": "https://baahrakhari.com/detail/505945",
-      "description": "",
-      "published": "2026-10-28T22:25:35+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "0f87934bbc3031b1",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 95.5,
+      "score": 80.0,
       "story_size": 1
     },
     {
@@ -737,7 +915,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.3,
+      "score": 79.5,
       "story_size": 1
     },
     {
@@ -755,25 +933,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.3,
-      "story_size": 1
-    },
-    {
-      "title": "‘पहिले धारा–पोखरी मासेर भवन ठड्याइयो, अब मल होइन पार्क चाहियो’",
-      "link": "https://www.onlinekhabar.com/2026/10/2045592/earlier-buildings-were-erected-by-destroying-streams-and-ponds-now-we-need-a-park-not-a-mall",
-      "description": "जेनजी आन्दोलनमा जलेर भत्काइँदै गरेको जग्गामा के बन्छ त ? अहिले नागरिकलाई चासोको विषय बनेको छ । पोखरा महानगरका मेयर धनराज आचार्य भने अझै पनि पार्किङसहितको बहुतले भवन बनाउने योजनामा छन् ।",
-      "published": "2026-10-28T16:35:50+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "273cfad0de4f146e",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 95.2,
+      "score": 79.5,
       "story_size": 1
     },
     {
@@ -791,9 +951,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.2,
+      "score": 79.5,
       "story_size": 1,
       "image_local": "images/news_92044c04318c68f4a8d3.jpg"
+    },
+    {
+      "title": "‘पहिले धारा–पोखरी मासेर भवन ठड्याइयो, अब मल होइन पार्क चाहियो’",
+      "link": "https://www.onlinekhabar.com/2026/10/2045592/earlier-buildings-were-erected-by-destroying-streams-and-ponds-now-we-need-a-park-not-a-mall",
+      "description": "जेनजी आन्दोलनमा जलेर भत्काइँदै गरेको जग्गामा के बन्छ त ? अहिले नागरिकलाई चासोको विषय बनेको छ । पोखरा महानगरका मेयर धनराज आचार्य भने अझै पनि पार्किङसहितको बहुतले भवन बनाउने योजनामा छन् ।",
+      "published": "2026-10-28T16:35:50+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "273cfad0de4f146e",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 79.4,
+      "story_size": 1
     },
     {
       "title": "रविको निवासमा प्रधानमन्त्री बालेनका चार घण्टा",
@@ -810,7 +988,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.0,
+      "score": 79.2,
       "story_size": 1
     },
     {
@@ -828,7 +1006,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.0,
+      "score": 79.2,
       "story_size": 1
     },
     {
@@ -846,7 +1024,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.9,
+      "score": 79.1,
       "story_size": 1
     },
     {
@@ -864,7 +1042,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.9,
+      "score": 79.1,
       "story_size": 1
     },
     {
@@ -882,7 +1060,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.8,
+      "score": 79.0,
       "story_size": 1,
       "image_local": "images/news_485979f76799a9706245.webp"
     },
@@ -901,7 +1079,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.7,
+      "score": 78.9,
       "story_size": 1
     },
     {
@@ -919,7 +1097,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.6,
+      "score": 78.8,
       "story_size": 1
     },
     {
@@ -937,7 +1115,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.5,
+      "score": 78.7,
       "story_size": 1
     },
     {
@@ -955,7 +1133,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.4,
+      "score": 78.6,
       "story_size": 1
     },
     {
@@ -973,7 +1151,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.1,
+      "score": 78.3,
       "story_size": 1,
       "image_local": "images/news_7304aadd39f133f8f421.webp"
     },
@@ -992,7 +1170,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.7,
+      "score": 77.9,
       "story_size": 1,
       "image_local": "images/news_8266827b216ebb22a2d6.jpg"
     },
@@ -1011,7 +1189,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.3,
+      "score": 77.5,
       "story_size": 1,
       "image_local": "images/news_0f601deb352342034a9e.webp"
     },
@@ -1030,7 +1208,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.1,
+      "score": 77.3,
       "story_size": 1
     },
     {
@@ -1048,7 +1226,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.7,
+      "score": 76.9,
       "story_size": 1,
       "image_local": "images/news_7f299ce110c39b86c2df.jpg"
     },
@@ -1067,7 +1245,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.5,
+      "score": 75.7,
       "story_size": 1,
       "image_local": "images/news_1d9d5a220a92814e78a6.webp"
     },
@@ -1086,7 +1264,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.8,
+      "score": 75.0,
       "story_size": 1
     },
     {
@@ -1104,7 +1282,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.7,
+      "score": 74.9,
       "story_size": 1,
       "image_local": "images/news_523405e538a95faea78d.webp"
     },
@@ -1123,7 +1301,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.4,
+      "score": 74.6,
       "story_size": 1,
       "image_local": "images/news_115d41440ff4f5bc9eb1.webp"
     },
@@ -1142,7 +1320,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.1,
+      "score": 74.3,
       "story_size": 1,
       "image_local": "images/news_523405e538a95faea78d.webp"
     },
@@ -1161,7 +1339,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.8,
+      "score": 74.1,
       "story_size": 1,
       "image_local": "images/news_69cea1cda9becc1c757d.jpg"
     },
@@ -1180,7 +1358,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.6,
+      "score": 73.8,
       "story_size": 1,
       "image_local": "images/news_f32721acf53cc1325b0f.jpg"
     },
@@ -1199,25 +1377,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.5,
-      "story_size": 1
-    },
-    {
-      "title": "सुदूरपश्चिमले पोखरालाई हराउँदा मैदान जे देखियो (तस्बिरहरू)",
-      "link": "https://khabarhub.com/2026/28/1041376/",
-      "description": "काठमाडाैं &#8211; नेपाल प्रिमियर लिग (एनपीएल)को तेस्रो संस्करणअन्तर्गत बुधबार भएको खेलमा सुदूरपश्चिम रोयल्सले पोखरा एभेन्जर्सलाई ६ विकेटले पराजित गरेको छ। कीर्तिपुरस्थित त्रिभुवन विश्वविद्यालय क्रिकेट मैदानमा भएको खेलमा सुदूरपश्चिमले पोखराले दिएको लक्ष्य ४ विकेट गुमाएर पूरा गर्‍यो। जितसँगै सुदूरपश्चिमले प्रतियोगितामा पहिलो जित दर्ता गरेको छ। सुदूरपश्चिमको जितसँगै मैदानमा खेलाडीको प्रदर्शन, समर्थकको उत्साह र खेलका रोमाञ्चक क्षणहरू [&#8230;]",
-      "published": "2026-10-28T15:07:37+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "7e0200f9fcf586f2",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 89.3,
+      "score": 73.7,
       "story_size": 1
     },
     {
@@ -1235,7 +1395,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.2,
+      "score": 73.4,
       "story_size": 1,
       "image_local": "images/news_de4ba86729bdca172c52.webp"
     },
@@ -1254,7 +1414,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.1,
+      "score": 73.3,
       "story_size": 1,
       "image_local": "images/news_c83563caf12e81600be4.webp"
     },
@@ -1273,28 +1433,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.8,
+      "score": 73.0,
       "story_size": 1,
       "image_local": "images/news_f6fc89565d23c3fbae30.webp"
-    },
-    {
-      "title": "चक्रवात प्रभाव : अन्नपूर्ण पदयात्रा स्थगित गर्न आग्रह",
-      "link": "https://gorkhapatraonline.com/news/227542",
-      "description": "ठाकुरप्रसाद आचार्य म्याग्दी (बेनी), कात्तिक ११ गते । मौसम विज्ञान विभागले बङ्गालको खाडीमा विकसित भएको अति शक्तिशाली चक्रवात ‘अर्नब’ का कारण प्रतिकूल मौसम हुने चेतावनी दिएपछि म्याग्...",
-      "published": "2026-10-28T19:56:30+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/389323/conversions/Annapurna-panchakunda-tal-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "c98d939d72c49b30",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 88.5,
-      "story_size": 1,
-      "image_local": "images/news_cb84cfda8bf3aca42e7e.jpg"
     },
     {
       "title": "पोखरामाथि सुदूरपश्चिम रोयल्सको शानदार जित",
@@ -1311,7 +1452,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.0,
+      "score": 72.2,
       "story_size": 1
     },
     {
@@ -1329,7 +1470,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.0,
+      "score": 72.2,
+      "story_size": 1
+    },
+    {
+      "title": "दीपेन्द्रको अर्धशतकमा सुदूरपश्चिमको पहिलो जित, पोखरा ६ विकेटले पराजित",
+      "link": "https://www.onlinekhabar.com/2026/10/2046075/sudurpaschims-first-win-with-dipendras-half-century-pokhara-defeated-by-6-wickets",
+      "description": "पोखराले दिएको १४६ रनको लक्ष्य पछ्याएको सुदूरपश्चिमले १६ ओभर ५ बलमा ४ विकेट गुमाएर पूरा गर्‍यो । सुदूरपश्चिमको जितमा कप्तान दीपेन्द्रले अर्धशतक प्रहार गरे ।",
+      "published": "2026-10-28T14:47:41+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "5a242ac24e357ca9",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 72.2,
       "story_size": 1
     },
     {
@@ -1347,7 +1506,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.9,
+      "score": 72.1,
       "story_size": 1
     },
     {
@@ -1365,9 +1524,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.9,
-      "story_size": 1,
-      "image_local": "images/news_dbd04c93a1c9fac34ced.webp"
+      "score": 72.1,
+      "story_size": 1
     },
     {
       "title": "एनपीएल मैदानमा दर्शकको खुसी (तस्वीरहरू)",
@@ -1384,25 +1542,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.2,
-      "story_size": 1
-    },
-    {
-      "title": "टेन्टमा बित्दैछ विस्थापितको जीवन (तस्बिरहरू)",
-      "link": "https://www.setopati.com/social/401449",
-      "description": "बूढीगण्डकी नदीमा आएको बाढीले गोरखाको आरूघाट गाउँपालिका–५ स्थित शान्तिबजार बस्ती डुबानमा परेपछि स्थानीय बासिन्दा विस्थापित भएका छन्।",
-      "published": "2026-10-28T20:02:00+05:45",
-      "source": "Setopati",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Setopati"
-      ],
-      "id": "cf3af6d71f973e0d",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 85.9,
+      "score": 70.4,
       "story_size": 1
     },
     {
@@ -1420,7 +1560,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.7,
+      "score": 67.9,
       "story_size": 1
     },
     {
@@ -1438,7 +1578,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.1,
+      "score": 66.3,
       "story_size": 1
     },
     {
@@ -1456,7 +1596,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.9,
+      "score": 66.1,
       "story_size": 1
     },
     {
@@ -1474,7 +1614,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.8,
+      "score": 66.0,
       "story_size": 1
     },
     {
@@ -1492,7 +1632,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.7,
+      "score": 65.9,
       "story_size": 1
     },
     {
@@ -1510,7 +1650,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.7,
+      "score": 65.9,
       "story_size": 1
     },
     {
@@ -1528,7 +1668,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.9,
+      "score": 65.1,
       "story_size": 1
     },
     {
@@ -1546,7 +1686,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.8,
+      "score": 65.0,
       "story_size": 1
     },
     {
@@ -1564,7 +1704,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.7,
+      "score": 64.9,
       "story_size": 1
     },
     {
@@ -1582,7 +1722,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.6,
+      "score": 64.8,
       "story_size": 1
     },
     {
@@ -1600,7 +1740,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.5,
+      "score": 64.7,
       "story_size": 1
     },
     {
@@ -1618,7 +1758,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.2,
+      "score": 64.4,
       "story_size": 1
     },
     {
@@ -1636,7 +1776,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.7,
+      "score": 63.9,
       "story_size": 1
     },
     {
@@ -1654,7 +1794,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.5,
+      "score": 63.7,
       "story_size": 1
     },
     {
@@ -1672,7 +1812,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.4,
+      "score": 63.6,
       "story_size": 1
     },
     {
@@ -1690,7 +1830,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.1,
+      "score": 63.3,
       "story_size": 1
     },
     {
@@ -1708,7 +1848,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.0,
+      "score": 63.2,
       "story_size": 1
     },
     {
@@ -1726,7 +1866,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.4,
+      "score": 62.6,
       "story_size": 1
     },
     {
@@ -1744,7 +1884,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.1,
+      "score": 62.3,
       "story_size": 1
     },
     {
@@ -1762,7 +1902,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.9,
+      "score": 62.1,
       "story_size": 1
     },
     {
@@ -1780,7 +1920,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.7,
+      "score": 61.9,
       "story_size": 1
     },
     {
@@ -1798,7 +1938,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.5,
+      "score": 61.7,
       "story_size": 1
     },
     {
@@ -1816,7 +1956,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.0,
+      "score": 61.2,
       "story_size": 1
     },
     {
@@ -1834,7 +1974,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.8,
+      "score": 61.0,
       "story_size": 1
     },
     {
@@ -1852,7 +1992,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.8,
+      "score": 61.0,
       "story_size": 1
     },
     {
@@ -1870,7 +2010,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.6,
+      "score": 60.8,
       "story_size": 1
     },
     {
@@ -1888,7 +2028,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.4,
+      "score": 60.6,
       "story_size": 1
     },
     {
@@ -1906,7 +2046,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.9,
+      "score": 60.1,
       "story_size": 1
     },
     {
@@ -1924,7 +2064,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.9,
+      "score": 60.1,
       "story_size": 1
     },
     {
@@ -1942,7 +2082,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.7,
+      "score": 59.9,
       "story_size": 1
     },
     {
@@ -1960,7 +2100,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.3,
+      "score": 59.5,
       "story_size": 1
     },
     {
@@ -1978,7 +2118,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.8,
+      "score": 59.0,
       "story_size": 1
     },
     {
@@ -1996,7 +2136,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.6,
+      "score": 58.8,
       "story_size": 1
     },
     {
@@ -2014,7 +2154,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.6,
+      "score": 58.8,
       "story_size": 1
     },
     {
@@ -2032,7 +2172,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.9,
+      "score": 58.1,
       "story_size": 1
     },
     {
@@ -2050,7 +2190,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.6,
+      "score": 57.8,
       "story_size": 1
     },
     {
@@ -2068,7 +2208,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.7,
+      "score": 56.9,
       "story_size": 1
     },
     {
@@ -2086,7 +2226,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.2,
+      "score": 55.4,
       "story_size": 1
     },
     {
@@ -2104,7 +2244,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.8,
+      "score": 55.0,
       "story_size": 1
     },
     {
@@ -2122,97 +2262,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.7,
-      "story_size": 1
-    },
-    {
-      "title": "ओलीको आरोप- सरकार बेलगाम फासीवादतर्फ अघि बढ्यो",
-      "link": "https://www.onlinekhabar.com/2026/10/2045714/olis-accusation-the-government-is-moving-towards-unbridled-fascism",
-      "description": "देशको अवस्था थप बिग्रिन नदिन तथा देशलाई कमसेकम स्वतन्त्रता स्वाधीनताको प्रयोग गर्नसक्ने बनाउन आन्दोलनको विकल्प नभएको पनि उनले बताए ।",
-      "published": "2026-10-28T10:27:55+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "19329203394ca734",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 70.6,
-      "story_size": 1
-    },
-    {
-      "title": "शरीरमा सङ्कटकालको डोब छ, राज्यको ढड्डामा नाम छैन",
-      "link": "https://www.onlinekhabar.com/2026/10/2045626/the-body-bears-the-mark-of-a-time-of-crisis-but-the-state-has-no-name-on-its-shoulders",
-      "description": "सङ्कटकालमा सेना र प्रहरीको ज्यादतीबाट सानै उमेरमा यौनहिंसा र शारीरिक यातना भोगेका महिलाहरूसँग अदालतमा पेस गर्ने मेडिकल रिपोर्ट छ, न त साक्षी बस्ने मान्छे नै जीवित छन्। द्वन्द्वपीडित महिलाहरू प्रश्न गर्छन्- ‘हामीले चिन्दै नचिनेका मान्छेविरुद्ध प्रमाण कहाँबाट जुटाउने ?’",
-      "published": "2026-10-28T10:21:11+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "32fd853df55fec65",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 70.2,
-      "story_size": 1
-    },
-    {
-      "title": "स्पेनमा दुई वटा रेल ठोक्किए, दर्जनौंको मृत्यु",
-      "link": "https://www.onlinekhabar.com/2026/10/2045703/two-trains-collide-in-spain-dozens-killed",
-      "description": "११ कात्तिक, काठमाडौं । स्पेनको टोलेडो भन्ने ठाउँमा दुई तीव्र गतिको रेल एकआपसमा ठोक्किएका छन् । उक्त दुर्घटनामा दर्जनौंको मृत्यु भएको सञ्चारमाध्यमहरूले जनाएका छन् । स्थानीय अधिकारीहरूलाई उद्धृत गर्दै स्काइ न्युजले उक्त दुर्घटनामा कम्तीमा ३९ जनाले ज्यान गुमाएको जनाएको छ । यद्यपि उक्त संख्या स्वतन्त्र पुष्टि भने भएको छैन । दुर्घटनाबारे थप विवरण आउन बाँकी [&#8230;]",
-      "published": "2026-10-28T09:54:06+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "d2fbd081996bfb8c",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 68.4,
-      "story_size": 1
-    },
-    {
-      "title": "पहिलो त्रैमासमै खर्ब नाघ्यो निर्यात, चाडबाडले आयातमा उछाल",
-      "link": "https://www.onlinekhabar.com/2026/10/2045700/exports-exceed-rs-1-trillion-in-first-quarter-imports-surge-due-to-festivals",
-      "description": "चाडबाडका कारण आयातमा उस्तै उछाल कायम रह्यो । असोजमा मात्र कुल २ खर्ब ४५ अर्ब २६ करोड रुपैयाँ बराबर वस्तु आयात भएको छ ।",
-      "published": "2026-10-28T09:49:17+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "c705876f6d75a2d1",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 68.1,
-      "story_size": 1
-    },
-    {
-      "title": "एन्फा मुख्यालयको ताला खोलियो, वरिष्ठ उपाध्यक्षले बोलाए बैठक",
-      "link": "https://www.onlinekhabar.com/2026/10/2045692/anfa-headquarters-unlocked-senior-vice-president-calls-meeting",
-      "description": "एन्फाको विधानको धारा ३१(२) बमोजिम कार्यसमितिका एक तिहाइ वा सोभन्दा बढी सदस्यले लिखित माग गरेमा कार्यसमितिको बैठक अनिवार्य रूपमा बोलाउनुपर्ने व्यवस्था छ ।",
-      "published": "2026-10-28T09:39:17+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "36ab575f612a5cc5",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 67.4,
+      "score": 54.9,
       "story_size": 1
     },
     {
@@ -2230,7 +2280,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 61.9,
+      "score": 46.1,
       "story_size": 1
     },
     {
@@ -2248,43 +2298,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 56.4,
-      "story_size": 1
-    },
-    {
-      "title": "कसैको पनि बहुमत नपुगे इजरेलमा कसरी गठन हुन्छ सरकार",
-      "link": "https://www.bbc.com/nepali/articles/crpdg8wg1xp1o?at_medium=RSS&at_campaign=rss",
-      "description": "सन् १९४८ मा स्थापना भएयता इजरेलमा सधैँ गठबन्धन सरकारहरूको शासन रहँदै आएको छ।",
-      "published": "2026-10-28T02:47:30+00:00",
-      "source": "BBC Nepali",
-      "category": "politics",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7447/live/d93b21d0-d26f-11f1-b441-2b33b063138f.jpg",
-      "related_sources": [
-        "BBC Nepali"
-      ],
-      "id": "cb7a19b55b651239",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 42.9,
-      "story_size": 1
-    },
-    {
-      "title": "आजैबाट देखिन सक्छ नेपालमा समुद्री आँधी 'अर्णव'को असर, शुक्रवार उत्कर्षमा पुग्ने",
-      "link": "https://www.bbc.com/nepali/articles/cve8rwjw74ggo?at_medium=RSS&at_campaign=rss",
-      "description": "नेपालसम्म आइपुग्दा समुद्री आँधी अर्णवको वेग घटे पनि यसले नेपालको हिमाली क्षेत्रमा धेरै हिउँ पार्न सक्ने मौसमविद्हरूले बताएका छन्।",
-      "published": "2026-10-28T01:18:54+00:00",
-      "source": "BBC Nepali",
-      "category": "business",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1398/live/6495fd50-d21a-11f1-8f84-ebd3099fed63.jpg",
-      "related_sources": [
-        "BBC Nepali"
-      ],
-      "id": "fa6c25038551cdb7",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 37.0,
+      "score": 40.7,
       "story_size": 1
     },
     {
@@ -2303,6 +2317,42 @@
       "verified": false,
       "local": true,
       "score": 28,
+      "story_size": 1
+    },
+    {
+      "title": "कसैको पनि बहुमत नपुगे इजरेलमा कसरी गठन हुन्छ सरकार",
+      "link": "https://www.bbc.com/nepali/articles/crpdg8wg1xp1o?at_medium=RSS&at_campaign=rss",
+      "description": "सन् १९४८ मा स्थापना भएयता इजरेलमा सधैँ गठबन्धन सरकारहरूको शासन रहँदै आएको छ।",
+      "published": "2026-10-28T02:47:30+00:00",
+      "source": "BBC Nepali",
+      "category": "politics",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7447/live/d93b21d0-d26f-11f1-b441-2b33b063138f.jpg",
+      "related_sources": [
+        "BBC Nepali"
+      ],
+      "id": "cb7a19b55b651239",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 27.1,
+      "story_size": 1
+    },
+    {
+      "title": "आजैबाट देखिन सक्छ नेपालमा समुद्री आँधी 'अर्णव'को असर, शुक्रवार उत्कर्षमा पुग्ने",
+      "link": "https://www.bbc.com/nepali/articles/cve8rwjw74ggo?at_medium=RSS&at_campaign=rss",
+      "description": "नेपालसम्म आइपुग्दा समुद्री आँधी अर्णवको वेग घटे पनि यसले नेपालको हिमाली क्षेत्रमा धेरै हिउँ पार्न सक्ने मौसमविद्हरूले बताएका छन्।",
+      "published": "2026-10-28T01:18:54+00:00",
+      "source": "BBC Nepali",
+      "category": "business",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1398/live/6495fd50-d21a-11f1-8f84-ebd3099fed63.jpg",
+      "related_sources": [
+        "BBC Nepali"
+      ],
+      "id": "fa6c25038551cdb7",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 21.2,
       "story_size": 1
     },
     {
@@ -2713,60 +2763,6 @@
         "Lokaantar"
       ],
       "id": "bc8ba816dcf67214",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "शिक्षामन्त्रीसँग स्विट्जरल्यान्डका राजदूतको भेट",
-      "link": "http://lokaantar.com/story/332094/2026/10/28/meeting-",
-      "description": "शिक्षा तथा खेलकुदमन्त्री सस्मित पोखरेलसँग नेपालका लागि स्विट्जरल्यान्डका राजदूत ड्यानीएल मेउलीले शिष्टाचार भेट गरेकी छिन् ।सिंहदरबारस्थित&nbsp;मन्त्रालयमा भएको भेटमा&nbsp;उनीहरूबीच द्विपक्षीय सम्बन्ध, बाढी पहिरोबाट भएको क्षतिप्रति संवेदना तथा शिक्षा क्षेत्रको आगामी सहकार्यबारे छलफल भएको थियो । मन्त्री पोखरेलले मुलुकको शैक्षिक उन्नयनमा स्विस सरकारबाट गरेको सहयोगप्रति कृतज्ञता ज्ञापन गरे ।मन्त्री पोखरेलले प्राविधिक शिक्षा तथा व्यावसायिक तालिम (टीभेट)सम्बन्धी नयाँ ऐन निर्माणको प्रक्रिया अन्तिम चरणम",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "e8f69a763e7460ed",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "इजरायलमा सरकार गठनका लागि अरब दल विपक्षीसँग वार्तामा",
-      "link": "http://lokaantar.com/story/332093/2026/10/28/isreal-",
-      "description": "इजरायलमा संसदीय निर्वाचनपछि प्रधानमन्त्री बेन्जामिन नेतान्याहूलाई सत्ताबाट हटाउन अरब नेतृत्वका दलहरू विपक्षीसँग वार्तामा जुटेका छन्।अरब समुदायको प्रतिनिधित्व गर्ने ताल, बालाद र हदाश दल सम्मिलित &lsquo;जोइन्ट लिस्ट&rsquo; गठबन्धनले विपक्षीलाई संसदीय समर्थन दिन सक्ने वरिष्ठ अरब सांसद अहमद तिबीले बताएका छन्। तर, गठबन्धन औपचारिक रूपमा सरकारमा सहभागी हुने सम्भावना कम रहेको उनको भनाइ छ।तिबीका अनुसार अरब अल्पसङ्ख्यक समुदायमाथिको अपराध नियन्त्रण, घर भत्काउने कार्य रोक्ने, पूर्वाधार विकास र घृणाजन्य गतिव",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "464e2f4d506fcc20",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "गैरकानूनी कार्यमा संलग्न रहेको आरोपमा १० जना विदेशी पक्राउ",
-      "link": "http://lokaantar.com/story/332092/2026/10/28/arrest-",
-      "description": "पर्यटक भिसामा नेपाल आएर क्रिश्चियन मिशनका लागि स्वास्थ्य शिविर सञ्चालन गर्ने दश विदेशी नागरिक पक्राउ परेका छन् ।मोरङको कानेपोखरी गाउँपालिका&ndash;७, बरगाछीमा क्रिश्चियन धार्मिक गतिविधि प्रचारमा संलग्न रहेको &lsquo;मर्सी डेभलपमेन्ट&rsquo; नामक संस्थाले पर्यटक भिसामा आएका विदेशी चिकित्सकसहित स्वास्थ्य शिविर सञ्चालन गरेको कारण दश जना विदेशी नागरिकहरूको कागजात जफत गरी अध्यागमन विभाग पठाइएको गृहमन्त्रालयले जनाएको छ ।शिविरमा आवश्यक अनुमति नलिई पर्यटक भिसामा आएका विदेशी नागरिक संलग्न भएकाले विदेशी नागर",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "world",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "d8b281df857a2cfd",
       "source_count": 1,
       "verified": false,
       "local": false,

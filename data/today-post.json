@@ -1,26 +1,153 @@
 {
   "date_np": "2026-10-29",
-  "generated_at": "2026-10-28T20:18:42.541393+00:00",
+  "generated_at": "2026-10-29T00:15:18.581064+00:00",
   "items": [
     {
-      "title": "१२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार",
-      "link": "https://www.ratopati.com/story/601908/12-news-at-12-these-are-todays-top-news-stories",
-      "description": "काठमाडाैँ । आज दिनभरका मुख्य १२ घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति ‘१२ बजे १ई समाचार’मा प्रस्तुत गरेका छौँ– कालोपत्रे सडक विस्थापित गर्ने सरकारी नीति सरकारले सडक कालोपत्रे गर्न बिटुमिनको प्रयोग निरुत्साहित गर्ने नीति अघि सारेको छ। कालोपत्रे",
-      "published": "2026-10-28T18:15:00+00:00",
-      "source": "Ratopati",
+      "title": "नेपालतिर सोझियो ‘अर्णव’ चक्रवात",
+      "link": "https://gorkhapatraonline.com/news/227555",
+      "description": "काठमाडौँ, कात्तिक १२ गते । बङ्गालको खाडीमा विकसित भएको शक्तिशाली ‘अर्णव’ चक्रवात भारतको आन्ध्र प्रदेशको विशाखापट्टनम र यानमको तटीय क्षेत्रमा बुधबार प्रवेश गरेको छ । चक्रवातले भारतक...",
+      "published": "2026-10-29T05:35:36+05:45",
+      "source": "Gorkhapatra Online",
       "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/12-news-1_NqQsnoDHv7.webp",
+      "image": "https://gorkhapatraonline.com/storage/media/389340/conversions/Untitled-1-original.jpg",
       "related_sources": [
-        "Ratopati"
+        "Gorkhapatra Online"
       ],
-      "id": "fcc285cb6518a7cf",
+      "id": "ec5330f15bfc26a9",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.8,
+      "score": 111.4,
       "story_size": 1,
-      "image_local": "images/news_8357bd849f4c13f89c90.webp"
+      "image_local": "images/news_05c3705b13dd702843d5.jpg"
+    },
+    {
+      "title": "सडक बन्यो बिस्कुन र फुटपाथ पसल",
+      "link": "https://gorkhapatraonline.com/news/227554",
+      "description": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक १२ गते । सामान्यत सडक दुर्घटनाको मुख्य कारण चालकको लापर्बाही मान्ने आमबुझाइ छ तर त्यसविपरीत ग्रामीण भेगका सडकमा सुकाइने अन्नबाली र छाडा चौपाया...",
+      "published": "2026-10-29T05:28:20+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/389339/conversions/road-saftey-illustration-keshabraj-khanal-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "0f2487e42c2d58fd",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.9,
+      "story_size": 1,
+      "image_local": "images/news_64a9583d3122ad943a19.jpg"
+    },
+    {
+      "title": "होटलमा पानी थप्ने काम गर्थे, अहिले अस्ट्रेलियामा दुई रेस्टुरेन्ट र क्याफेका मालिक",
+      "link": "https://www.setopati.com/global/australia/401466",
+      "description": "नयाँ चप्पल फाट्ला भनेर लगाउनसमेत डराउने उनले बाल्यकालमा चरम अभाव भोगे। २०० रूपैयाँ बोकेर भारत गएका थिए उनले होटलमा पानी थप्ने काम गरे। यो यात्रा अगाडि बढ्दै चीनमा आफ्नै रेस्टुरेन्ट खोल्नेसम्म पुग्यो। अहिले अस्ट्रेलियामा दुई रेस्टुरेन्ट र एउटा क्याफे चलाउँछन्। उनी कसरी यहाँसम्म आइपुगे?",
+      "published": "2026-10-29T05:59:32+05:45",
+      "source": "Setopati",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "bf876d7c49083d75",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.0,
+      "story_size": 1
+    },
+    {
+      "title": "मानव–हात्ती द्वन्द्व न्यूनीकरणका लागि सुरक्षा कार्ययोजना पुनरावलोकन",
+      "link": "https://khabarhub.com/2026/29/1041411/",
+      "description": "झापा– झापामा मानव–हात्ती द्वन्द्वका घटना बढ्दै गएपछि त्यसबाट हुने मानवीय तथा भौतिक क्षति न्यूनीकरणका लागि जिल्ला प्रशासनले सुरक्षा कार्ययोजनाको पुनरावलोकन सुरु गरेको छ । यही कात्तिक ३ गते जङ्गली हात्तीको आक्रमणबाट बाह्रदशी गाउँपालिका–२ जनता चोककी ७० वर्षीया लजुमा खातुनको मृत्यु भएपछि प्रशासनले कार्ययोजनाको प्रभावकारिता समीक्षा गर्न थालेको हो । प्रमुख जिल्ला अधिकारी श्रवणकुमार पोखरेलको अग्रसरतामा [&#8230;]",
+      "published": "2026-10-29T00:07:40+00:00",
+      "source": "Khabarhub",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "54fa5de494e12e3e",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.5,
+      "story_size": 1
+    },
+    {
+      "title": "सुरु भयो नेपालमा ‘अर्नब’को प्रभाव, आज कहाँ–कहाँ हुनेछ भारी वर्षा ?",
+      "link": "https://baahrakhari.com/detail/505950",
+      "description": "",
+      "published": "2026-10-29T05:52:05+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "16b71cd0f6340576",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.5,
+      "story_size": 1
+    },
+    {
+      "title": "कांग्रेस केन्द्रीय सदस्य र पदाधिकारीको शपथग्रहण आज",
+      "link": "https://www.onlinekhabar.com/2026/10/2046084/swearing-in-of-congress-central-members-and-office-bearers-today",
+      "description": "आजै बस्ने केन्द्रीय समितिको बैठकबाट बाँकी सदस्य मनोनीत गर्ने तयारी छ ।",
+      "published": "2026-10-29T00:00:28+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "9e31b7df32e07e24",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.0,
+      "story_size": 1
+    },
+    {
+      "title": "एनपीएल : काठमाडौँ र जनकपुर तथा कर्णाली र विराटनगर भिड्दै",
+      "link": "https://khabarhub.com/2026/29/1041198/",
+      "description": "काठमाडौँ &#8211; नेपाल प्रिमियर लिग (एनपीएल) अन्तर्गत आज दुई खेल हुँदैछन् । पहिलो खेलमा जनकपुर बोल्ट्स र काठमाडौँ गोर्खाज भिड्दै छन् । यो खेल दिउँसो १२ : ३० बजे त्रिवि क्रिकेट मैदान कीर्तिपुरमा सुरु हुनेछ । पहिलो खेलमा पराजित भएकाे जनकपुर पहिलो जितको खोजीमा हुनेछ । पहिलो खेलमा जनकपुर कर्णाली याक्ससँग १९ रनले पराजित भएको [&#8230;]",
+      "published": "2026-10-28T23:53:21+00:00",
+      "source": "Khabarhub",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "3830f7728dbbb44a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.5,
+      "story_size": 1
+    },
+    {
+      "title": "प्रहरीको पोशाक खरिदसम्बन्धी अध्ययन उपसमितिको बैठक आज बस्दै",
+      "link": "https://www.onlinekhabar.com/2026/10/2046106/study-subcommittee-meeting-on-police-uniform-procurement-to-be-held-today",
+      "description": "१२ कात्तिक, काठमाडौं । निर्वाचन प्रहरी, नेपाल प्रहरी र सशस्त्र प्रहरी बलको पोशाक खरिदसम्बन्धी अध्ययन उपसमितिको दोस्रो बैठक आज बस्दै छ । बैठक आज बिहान ९ बजे सिंहदरबारमा बस्ने तय भएको छ । गत १६ असोजमा प्रतिनिधिसभा अन्तर्गतको सार्वजनिक लेखा समितिको बैठकले निर्वाचन प्रहरीको पोशाक खरिदबारे अध्ययन गर्न रास्वपा सांसद मनिष झाको नेतृत्वमा उपसमिति गठन [&#8230;]",
+      "published": "2026-10-28T23:45:06+00:00",
+      "source": "OnlineKhabar",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "46cf322757cf4f8f",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.0,
+      "story_size": 1
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. १२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/601908/12-news-at-12-these-are-todays-top-news-stories\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. नेपालतिर सोझियो ‘अर्णव’ चक्रवात\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/227555\n\n2. सडक बन्यो बिस्कुन र फुटपाथ पसल\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/227554\n\n3. होटलमा पानी थप्ने काम गर्थे, अहिले अस्ट्रेलियामा दुई रेस्टुरेन्ट र क्याफेका मालिक\nस्रोत: Setopati\nhttps://www.setopati.com/global/australia/401466\n\n4. मानव–हात्ती द्वन्द्व न्यूनीकरणका लागि सुरक्षा कार्ययोजना पुनरावलोकन\nस्रोत: Khabarhub\nhttps://khabarhub.com/2026/29/1041411/\n\n5. सुरु भयो नेपालमा ‘अर्नब’को प्रभाव, आज कहाँ–कहाँ हुनेछ भारी वर्षा ?\nस्रोत: Baahrakhari\nhttps://baahrakhari.com/detail/505950\n\n6. कांग्रेस केन्द्रीय सदस्य र पदाधिकारीको शपथग्रहण आज\nस्रोत: OnlineKhabar\nhttps://www.onlinekhabar.com/2026/10/2046084/swearing-in-of-congress-central-members-and-office-bearers-today\n\n7. एनपीएल : काठमाडौँ र जनकपुर तथा कर्णाली र विराटनगर भिड्दै\nस्रोत: Khabarhub\nhttps://khabarhub.com/2026/29/1041198/\n\n8. प्रहरीको पोशाक खरिदसम्बन्धी अध्ययन उपसमितिको बैठक आज बस्दै\nस्रोत: OnlineKhabar\nhttps://www.onlinekhabar.com/2026/10/2046106/study-subcommittee-meeting-on-police-uniform-procurement-to-be-held-today\n\n— I Am From Hetauda"
 }
