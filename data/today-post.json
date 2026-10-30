@@ -1,163 +1,161 @@
 {
-  "date_np": "2026-10-30",
-  "generated_at": "2026-10-30T15:58:14.108696+00:00",
+  "date_np": "2026-10-31",
+  "generated_at": "2026-10-30T20:40:34.646363+00:00",
   "items": [
     {
-      "title": "बाढीमा यात्रुबाहक बस फस्यो, ३० यात्रुको सकुशल उद्धार",
-      "link": "https://www.ratopati.com/story/602322/passenger-bus-gets-stuck-in-flood-30-passengers-rescued-safely",
-      "description": "धनकुटा । ताप्लेजुङबाट काठमाडौँका लागि छुटेको यात्रुबाहक बस शुक्रबार अपराह्न तमोर करिडोरअन्तर्गत पाँचथर र धनकुटाको सीमावर्ती क्षेत्र नावा खोलामा फसेको छ । निरन्तरको वर्षाका कारण खोलामा बाढी आएपछि जोखिम मोलेर खोला पार गर्न खोज्दा बस बीचमै",
-      "published": "2026-10-30T15:40:40+00:00",
+      "title": "बेगनास ताल किनारमा सुरु भयो ‘फिस फेस्टिभल’",
+      "link": "https://www.ratopati.com/story/602348/fish-festival-begins-on-the-banks-of-begnas-lake",
+      "description": "कास्की । पोखराको दोस्रो ठुलो बेगनास तालको किनारमा शुक्रबारदेखि ‘फिस फेस्टिभल’ सुरु भएको छ । होटल तथा रेस्टुरेन्ट एसोसिएसन लेखनाथले आयोजनामा तालको पहिचानलाई स्थानीय माछा, रैथाने खानपान र मौलिक संस्कृतिसँग जोड्दै पर्यटन प्रवर्द्धन गर्ने उद्देश्यले",
+      "published": "2026-10-30T19:45:00+00:00",
       "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/EpNo9okGcb.png",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/begnas-lake_Hs5HiEbHSs.jpg",
       "related_sources": [
         "Ratopati",
-        "Gorkhapatra Online",
-        "Kendrabindu"
-      ],
-      "id": "737c07c36d5fae5e",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 145.9,
-      "story_size": 3,
-      "image_local": "images/news_f006db1def2dae225597.png"
-    },
-    {
-      "title": "दुग्ध विकास संस्थानका तत्कालीन महाप्रबन्धकसहित आठजना पक्राउ",
-      "link": "https://www.thahakhabar.com/detail/311129",
-      "description": "",
-      "published": "2026-10-30T21:01:49+05:45",
-      "source": "Thaha Khabar",
-      "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/CIB-1793373362.jpg",
-      "related_sources": [
-        "Thaha Khabar",
-        "Gorkhapatra Online",
         "Khabarhub"
       ],
-      "id": "f5f022c3160c8783",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 144.3,
-      "story_size": 3,
-      "image_local": "images/news_c24d92a6951bd2579f5d.jpg"
-    },
-    {
-      "title": "पक्राउ परेका सबै पत्रकार रिहा",
-      "link": "https://khabarhub.com/2026/30/1042342/",
-      "description": "काठमाडौं – समाचार कक्षबाट पक्राउ परेका सबै पत्रकार रिहा भएका छन्। सञ्चारमन्त्री विक्रम तिमल्सिनाले शुक्रबार राति सामाजिक सञ्जालमार्फत पक्राउ परेका सबै पत्रकार रिहा भइसकेको जानकारी दिएका हुन् । उनले सरकार प्रेस स्वतन्त्रताप्रति पूर्ण प्रतिबद्ध रहेको उल्लेख गर्दै प्रेस स्वतन्त्रता र जिम्मेवार पत्रकारिता लोकतन्त्रका आधारस्तम्भ भएको बताएका छन् । शुक्रबार प्रहरीले पत्रकार विश्वमणि सुवेदी, मोटिभेट न्युजका [&#8230;]",
-      "published": "2026-10-30T14:59:20+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
-        "Thaha Khabar",
-        "Ratopati"
-      ],
-      "id": "d4968f4356250421",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 140.1,
-      "story_size": 3
-    },
-    {
-      "title": "रास्वपा सचेतकले भने- पुलिस स्टेट बन्द गर",
-      "link": "https://baahrakhari.com/detail/506148",
-      "description": "",
-      "published": "2026-10-30T21:28:00+05:45",
-      "source": "Baahrakhari",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari",
-        "OnlineKhabar"
-      ],
-      "id": "131c0258f20c9629",
+      "id": "19584501ecc30ac1",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.0,
-      "story_size": 2
+      "score": 133.3,
+      "story_size": 2,
+      "image_local": "images/news_0ae44e12c9e8254ad797.jpg"
     },
     {
-      "title": "पक्राउ परेका सबै पत्रकार रिहा भए : सञ्चारमन्त्री",
-      "link": "https://baahrakhari.com/detail/506145",
-      "description": "",
-      "published": "2026-10-30T20:52:42+05:45",
-      "source": "Baahrakhari",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari",
-        "OnlineKhabar"
-      ],
-      "id": "25ed5f6ffb1ed326",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 130.7,
-      "story_size": 2
-    },
-    {
-      "title": "कान्ति राजमार्गमा दुई दिन रात्रिकालीन सवारी आवागमन बन्द",
-      "link": "https://kendrabindu.com/news/567661/",
-      "description": "हेटौँडा । अविरल वर्षाका कारण बाढीपहिरोको जोखिम बढेपछि मकवानपुर हुँदै काठमाडौँ जोड्ने कान्ति राजमार्गमा दुई दिन रात्रिकालीन सवारी आवागमन बन्द गरिएको छ । जिल्ला प्रशासन कार्यालय मकवानपुरले आज र भोलि (कात्तिक १३ र १४ गते) बेलुकी ५ः०० बजेदेखि बिहान ५ः०० बजेसम्म कान्ति राजमार्गमा सवारी आवागमनमा रोक लगाएको सहायक प्रमुख जिल्ला अधिकारी शेषकान्त पौडेलले जानकारी दिए [&#8230;]",
-      "published": "2026-10-30T12:38:48+00:00",
-      "source": "Kendrabindu",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Kendrabindu"
-      ],
-      "id": "55ce2e13f5cb57fe",
-      "source_count": 1,
-      "verified": false,
-      "local": true,
-      "score": 114.7,
-      "story_size": 1
-    },
-    {
-      "title": "सभापति रवि लामिछानेलाई रक्षा बमको सुझाव– अब पार्टीले सुशासनको नारा नलगाउँदा हुन्छ",
-      "link": "https://nepalsamaya.com/detail/147411",
-      "description": "",
-      "published": "2026-10-30T21:34:58+05:45",
-      "source": "Nepal Samaya",
-      "category": "nepal",
-      "image": "https://nepalsamaya.com/uploads/posts/web-posts_762065ac-1793375315.png",
-      "related_sources": [
-        "Nepal Samaya"
-      ],
-      "id": "37e65d9b3d5cdd33",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 112.5,
-      "story_size": 1,
-      "image_local": "images/news_126a78e63f8455b8cbf0.png"
-    },
-    {
-      "title": "नावा खोलामा पानीको बहाव बढेपछि तमोर कोरिडोर अवरुद्ध",
-      "link": "https://www.ratopati.com/story/602323/tamor-corridor-blocked-after-water-flow-increases-in-nawa-river",
-      "description": "पाँचथर । निरन्तरको वर्षापछि पाँचथरको नावा खोलामा पानीको बहाव बढेसँगै तमोर कोरिडोरअन्तर्गतको सडक अवरुद्ध भएको छ । सडकमाथि पुल निर्माण हुन बाँकी रहेकामा यसअघि खोलाबाट सवारीसाधन पार गरिन्थ्यो । निरन्तरको वर्षाका कारण खोलामा पानीको बहाव",
-      "published": "2026-10-30T15:47:37+00:00",
+      "title": "एनएफएलमा तीन नयाँ क्लब थपिने",
+      "link": "https://www.ratopati.com/story/602345/three-new-clubs-will-be-added-to-the-nfl",
+      "description": "काठमाडौँ । नेपाल फुटबल लिग (एनएफएल) ले तीन नयाँ क्लब थप्ने प्रक्रिया अघि बढाएको छ । लिगले विराटनगर, धरान, जनकपुर, वीरगन्ज, हेटौँडा, भक्तपुर, नेपालगन्ज, सुर्खेतलगायत सहरलाई आफ्नो प्रतिनिधित्व गर्ने फुटबल क्लब स्थापनाका लागि बोलपत्र पेस",
+      "published": "2026-10-30T18:52:40+00:00",
       "source": "Ratopati",
       "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/pachtaar-_9tzrt0gkje_qgva0pbajj_XJ2GAoeG33.webp",
+      "image": "https://npcdn.ratopati.com/media/news/football_5hGp1rQVqw.jpg",
+      "related_sources": [
+        "Ratopati",
+        "Khabarhub"
+      ],
+      "id": "96448e39795d87b2",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 129.8,
+      "story_size": 2,
+      "image_local": "images/news_c3637160b0025d5f8b63.jpg"
+    },
+    {
+      "title": "सामाजिक समस्यासँग जुधिरहेकी पार्वतीले नागरिकता पाएपछि ...",
+      "link": "https://www.ratopati.com/story/602349/parvati-who-is-struggling-with-social-problems-is-happy-after-receiving-citizenship",
+      "description": "झापा । श्रीमान्को मृत्युपछि आर्थिक तथा सामाजिक समस्यासँग जुधिरहेकस् शिवसताक्षी नगरपालिका–८ की पार्वती ऋषिदेवका लागि नेपाली नागरिकता प्राप्ति नयाँ आशा बनेको छ । नागरिकता नहुँदा राज्यको सामाजिक सुरक्षा सुविधाबाट वञ्चित रहेकी उनले अब एकल महिला भत्ता",
+      "published": "2026-10-30T20:15:00+00:00",
+      "source": "Ratopati",
+      "category": "tech",
+      "image": "https://npcdn.ratopati.com/media/news/jhapa__dhzolqasr2_QnjZRO8TPN.webp",
       "related_sources": [
         "Ratopati"
       ],
-      "id": "d6e416de4fbaeb72",
+      "id": "6fed2f81b995a1d8",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.3,
+      "score": 111.3,
       "story_size": 1,
-      "image_local": "images/news_c9e3976c8f8f442eb19f.webp"
+      "image_local": "images/news_968e2f5456e5cf33b994.webp"
+    },
+    {
+      "title": "नेपालगन्ज रङ्गशालामा पूर्वाधार भएपनि संरक्षणको अभाव",
+      "link": "https://www.ratopati.com/story/602347/nepalgunj-stadium-has-infrastructure-but-lacks-protection",
+      "description": "बाँके । नेपालगन्जको रङ्गशालामा खेलकुद पूर्वाधार भएपनि उचित प्रयोग र संरक्षणको अभाव देखिएको छ । खेलकुद पूर्वाधारलाई खेलाडी उत्पादनको श्रोत मानिएपनि यसबाट खेलाडी उत्पादन हुन नसक्दा खेलाडी अभावमा पूर्वाधारको संरक्षण हुन नसकेको हो । पौडी खेलका एसिएन",
+      "published": "2026-10-30T19:30:00+00:00",
+      "source": "Ratopati",
+      "category": "tech",
+      "image": "https://npcdn.ratopati.com/media/news/banke-district-map_buY1dHpxrb.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "fa2d64144f1b4487",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.3,
+      "story_size": 1,
+      "image_local": "images/news_f1294488164050056e9d.jpg"
+    },
+    {
+      "title": "पर्यटकीय याम सुरु भएसँगै सामुदायिक घरबासमा विदेशी पाहुना",
+      "link": "https://www.ratopati.com/story/602346/as-the-tourist-season-begins-foreign-guests-flock-to-community-homes",
+      "description": "बागलुङ । आँखैअगाडि दन्तेलहरझैँ देखिने हिमशृङ्खला, अर्ग्यानिक खानाका परिकार, ग्रामीण जीवनशैली र न्यानो आतिथ्य भकुण्डेस्थित सामुदायिक घरबास (होमस्टे)को मुख्य आकर्षण हुन् । यिनै विशेषताका कारण बागलुङको भकुण्डेस्थित अतिथि सत्कार सामुदायिक घरबासमा स्वदेशीमात्र नभई विदेशी पर्यटकसमेत",
+      "published": "2026-10-30T19:06:28+00:00",
+      "source": "Ratopati",
+      "category": "world",
+      "image": "https://npcdn.ratopati.com/media/news/baglung-map_saube82urq.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "3460bd7d8b34d340",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 106.7,
+      "story_size": 1,
+      "image_local": "images/news_8aceecd1910b59ebb890.jpg"
+    },
+    {
+      "title": "वन क्षेत्रका समस्या समाधानका लागि प्रदेश सरकारको ध्यानाकर्षण",
+      "link": "https://www.ratopati.com/story/602344/attention-of-the-provincial-government-drawn-to-solving-problems-in-the-forest-sector",
+      "description": "सुदूरपश्चिम । सुदूरपश्चिममा कार्यरत विभिन्न वन उपभोक्ता समूहले वन क्षेत्रमा देखिएका समस्या समाधानका लागि प्रदेश सरकारको ध्यानाकर्षण गराएका छन् । ती समूहको सुदूरपश्चिम प्रदेशस्तरीय आन्दोलन परिचालन समन्वय समितिका पदाधिकारीले शुक्रबार मुख्यमन्त्री खगराज भट्टलाई २४बुँदे ज्ञापनपत्र बुझाउँदै",
+      "published": "2026-10-30T18:34:00+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/cm-office-sudurpaschim-(2)_0L8mzQiGiG.png",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "e5fd27d457540238",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 104.6,
+      "story_size": 1,
+      "image_local": "images/news_587db2aa81b2cde9009f.png"
+    },
+    {
+      "title": "खानेपानी तथा सरसफाइ अवस्थाको प्रतिवेदन सार्वजनिक",
+      "link": "https://www.ratopati.com/story/602343/report-on-water-supply-and-sanitation-status-made-public",
+      "description": "ललितपुर । राष्ट्रिय तथ्याङ्क कार्यालयले देशभरका ७५३ वटै स्थानीय तहको खानेपानी, सरसफाइ तथा स्वच्छता (वास) अवस्थाको विश्लेषण गरी तयार पारेको सूचकाङ्क सहितको तथ्याङ्क प्रतिवेदन सार्वजनिक गरेको छ । राष्ट्रिय तथ्याङ्क कार्यालयले शुक्रबार ललितपुरमा आयोजना गरेको कार्यक्रममा",
+      "published": "2026-10-30T18:23:47+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/rastriya-tathyank-karyalaya_1KDrSncyuT.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "fe129ca867b6e1ec",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 103.9,
+      "story_size": 1,
+      "image_local": "images/news_b5b6a7f49cf5b5678262.jpg"
+    },
+    {
+      "title": "१२ बजे १२ समाचार : प्रहरी विज्ञप्तिको भोलिपल्टै पत्रकारमाथि धावा, सीमा नाका खुलाउन चीनको आनाकानी",
+      "link": "https://www.ratopati.com/story/602342/12-oclock-12-news-attack-on-journalists-the-day-after-police-statement-chinas-reluctance-to-open-border-with-nepal",
+      "description": "काठमाडौँ । आज दिनभरका मुख्य १२ घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति ‘१२ बजे १२ समाचार’मा प्रस्तुत गरेका छौँ– १. सुनकोशी–मरिनका आयोजना प्रमुख र महानिर्देशक सुरक्षा नियन्त्रणमा राष्ट्रिय गौरवको आयोजनाका रूपमा रहेको सुनकोशी–मरिन डाइभर्सन बहुउद्देश्यीय आयोजनाको ठेक्का प्रक्रिया",
+      "published": "2026-10-30T18:15:21+00:00",
+      "source": "Ratopati",
+      "category": "society",
+      "image": "https://npcdn.ratopati.com/media/news/12-news_iQJYCbeCZY.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "e835a4dd12e8a70c",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 103.3,
+      "story_size": 1,
+      "image_local": "images/news_867fb0fde9265eab8dd4.webp"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. बाढीमा यात्रुबाहक बस फस्यो, ३० यात्रुको सकुशल उद्धार\nस्रोत: Ratopati, Gorkhapatra Online, Kendrabindu\nhttps://www.ratopati.com/story/602322/passenger-bus-gets-stuck-in-flood-30-passengers-rescued-safely\n\n2. दुग्ध विकास संस्थानका तत्कालीन महाप्रबन्धकसहित आठजना पक्राउ\nस्रोत: Thaha Khabar, Gorkhapatra Online, Khabarhub\nhttps://www.thahakhabar.com/detail/311129\n\n3. पक्राउ परेका सबै पत्रकार रिहा\nस्रोत: Khabarhub, Thaha Khabar, Ratopati\nhttps://khabarhub.com/2026/30/1042342/\n\n4. रास्वपा सचेतकले भने- पुलिस स्टेट बन्द गर\nस्रोत: Baahrakhari, OnlineKhabar\nhttps://baahrakhari.com/detail/506148\n\n5. पक्राउ परेका सबै पत्रकार रिहा भए : सञ्चारमन्त्री\nस्रोत: Baahrakhari, OnlineKhabar\nhttps://baahrakhari.com/detail/506145\n\n6. कान्ति राजमार्गमा दुई दिन रात्रिकालीन सवारी आवागमन बन्द\nस्रोत: Kendrabindu\nhttps://kendrabindu.com/news/567661/\n\n7. सभापति रवि लामिछानेलाई रक्षा बमको सुझाव– अब पार्टीले सुशासनको नारा नलगाउँदा हुन्छ\nस्रोत: Nepal Samaya\nhttps://nepalsamaya.com/detail/147411\n\n8. नावा खोलामा पानीको बहाव बढेपछि तमोर कोरिडोर अवरुद्ध\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602323/tamor-corridor-blocked-after-water-flow-increases-in-nawa-river\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. बेगनास ताल किनारमा सुरु भयो ‘फिस फेस्टिभल’\nस्रोत: Ratopati, Khabarhub\nhttps://www.ratopati.com/story/602348/fish-festival-begins-on-the-banks-of-begnas-lake\n\n2. एनएफएलमा तीन नयाँ क्लब थपिने\nस्रोत: Ratopati, Khabarhub\nhttps://www.ratopati.com/story/602345/three-new-clubs-will-be-added-to-the-nfl\n\n3. सामाजिक समस्यासँग जुधिरहेकी पार्वतीले नागरिकता पाएपछि ...\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602349/parvati-who-is-struggling-with-social-problems-is-happy-after-receiving-citizenship\n\n4. नेपालगन्ज रङ्गशालामा पूर्वाधार भएपनि संरक्षणको अभाव\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602347/nepalgunj-stadium-has-infrastructure-but-lacks-protection\n\n5. पर्यटकीय याम सुरु भएसँगै सामुदायिक घरबासमा विदेशी पाहुना\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602346/as-the-tourist-season-begins-foreign-guests-flock-to-community-homes\n\n6. वन क्षेत्रका समस्या समाधानका लागि प्रदेश सरकारको ध्यानाकर्षण\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602344/attention-of-the-provincial-government-drawn-to-solving-problems-in-the-forest-sector\n\n7. खानेपानी तथा सरसफाइ अवस्थाको प्रतिवेदन सार्वजनिक\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602343/report-on-water-supply-and-sanitation-status-made-public\n\n8. १२ बजे १२ समाचार : प्रहरी विज्ञप्तिको भोलिपल्टै पत्रकारमाथि धावा, सीमा नाका खुलाउन चीनको आनाकानी\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602342/12-oclock-12-news-attack-on-journalists-the-day-after-police-statement-chinas-reluctance-to-open-border-with-nepal\n\n— I Am From Hetauda"
 }
