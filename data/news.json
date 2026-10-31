@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T20:29:03.449605+00:00",
+  "updated_at": "2026-10-31T23:39:49.233502+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -25,38 +25,35 @@
       "image": "https://gorkhapatraonline.com/storage/media/389774/conversions/WhatsApp-Image-2026-10-31-at-20.43.04-original.jpg",
       "related_sources": [
         "Gorkhapatra Online",
-        "Thaha Khabar",
-        "Ratopati"
+        "Thaha Khabar"
       ],
       "id": "b020945d2371f654",
-      "source_count": 3,
+      "source_count": 2,
       "verified": true,
       "local": true,
-      "score": 153.0,
-      "story_size": 3,
+      "score": 130.3,
+      "story_size": 2,
       "image_local": "images/news_8d2ede462a916001a42f.jpg"
     },
     {
-      "title": "जुगल-२ हिमालमा पहिलोपटक स्पेनी आरोहीको सफल आरोहण",
-      "link": "https://www.thahakhabar.com/detail/311184",
-      "description": "",
-      "published": "2026-10-31T21:49:00+05:45",
-      "source": "Thaha Khabar",
+      "title": "एसियाली राजमार्ग निर्माणमा अव्यवस्था, यात्रु र स्थानीयवासीलाई सास्ती",
+      "link": "https://www.ratopati.com/story/602542/disruption-in-asian-highway-construction-suffering-for-travelers-and-locals",
+      "description": "झापा । पूर्व–पश्चिम राजमार्गअन्तर्गत एसियाली राजमार्गका रूपमा स्तरोन्नति भइरहेको काँकडभिट्टा–लौकही सडक खण्डको निर्माणलाई व्यवस्थित गरी यात्रुमैत्री बनाउन जनप्रतिनिधि, राजनीतिक दल र स्थानीयवासीले माग गरेका छन् । एसियाली विकास बैंकको वित्तीय सहयोगमा झापाको काँकडभिट्टादेखि सुनसरीको लौकहीसम्मको ९५",
+      "published": "2026-10-31T21:00:00+00:00",
+      "source": "Ratopati",
       "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/Jugal-2-1793462627.jpg",
+      "image": "https://npcdn.ratopati.com/media/news/asian_highway_npl_pct-(6)_FBUOnST5rH.jpg",
       "related_sources": [
-        "Thaha Khabar",
         "Ratopati",
-        "OnlineKhabar",
         "Lokaantar"
       ],
-      "id": "0e272e9a2104ec43",
-      "source_count": 4,
+      "id": "a29ae47e6adce6c2",
+      "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 139.3,
-      "story_size": 4,
-      "image_local": "images/news_f6916583f06f86f392ec.jpg"
+      "score": 126.3,
+      "story_size": 2,
+      "image_local": "images/news_07a706f9368d457049a9.jpg"
     },
     {
       "title": "वैदेशिक रोजगारीको प्रलोभनमा ७० लाख ठगी गर्ने दुई जना पक्राउ",
@@ -75,9 +72,30 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 131.2,
+      "score": 118.5,
       "story_size": 3,
       "image_local": "images/news_80d7b1160715535fd93f.jpg"
+    },
+    {
+      "title": "जुगल-२ हिमालमा पहिलोपटक स्पेनी आरोहीको सफल आरोहण",
+      "link": "https://www.thahakhabar.com/detail/311184",
+      "description": "",
+      "published": "2026-10-31T21:49:00+05:45",
+      "source": "Thaha Khabar",
+      "category": "nepal",
+      "image": "https://www.thahakhabar.com/uploads/posts/Jugal-2-1793462627.jpg",
+      "related_sources": [
+        "Thaha Khabar",
+        "OnlineKhabar",
+        "Lokaantar"
+      ],
+      "id": "0e272e9a2104ec43",
+      "source_count": 3,
+      "verified": true,
+      "local": false,
+      "score": 116.6,
+      "story_size": 3,
+      "image_local": "images/news_f6916583f06f86f392ec.jpg"
     },
     {
       "title": "पदमपोखरीमा व्यावसायिक मेवाखेतीबाट किसानको आम्दानी बढ्दै",
@@ -94,9 +112,104 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 129.1,
+      "score": 116.4,
       "story_size": 1,
       "image_local": "images/news_da7ca2f263f80f8528f1.jpg"
+    },
+    {
+      "title": "आइतबार कुन राशिका लागि शुभ ? हेर्नुहोस् राशिफल",
+      "link": "https://www.ratopati.com/story/602545/which-zodiac-sign-is-auspicious-for-sunday-see-horoscope",
+      "description": "आजको पञ्चाङ्ग वि.सं.२०८३ साल कार्तिक १५ गते । आइतबार । इस्वी सन् २०२६ नोभेम्बर १ तारिख । नेपाल संवत् ११४६ । रौद्र संवत्सर । दक्षिणायन । शरद ऋतु । श्रीशाके १९४८ । कार्तिक कृष्णपक्ष । तिथि–सप्तमी,",
+      "published": "2026-10-31T23:15:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/horoscope_68mF8G6CaS.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "60ad4f353b731608",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.3,
+      "story_size": 1,
+      "image_local": "images/news_0801267ae47ce997ddb8.jpg"
+    },
+    {
+      "title": "नापी कार्यालयद्वारा ४८ लाख राजस्व सङ्कलन",
+      "link": "https://www.ratopati.com/story/602546/survey-office-collects-rs-48-million-in-revenue",
+      "description": "दाङ । दाङस्थित नापी कार्यालय तुलसीपुरले एक वर्षमा ४८ लाख बढी राजस्व सङ्कलन गरेको छ । कार्यालयका सूचना अधिकारी प्रेमबहादुर खड्काका अनुसार गत आर्थिक वर्ष २०८२/८३ मा रु ४८ लाख सात हजार ४६५ राजस्व सङ्कलन",
+      "published": "2026-10-31T23:00:00+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://npcdn.ratopati.com/media/news/dang-map_yCoTeipd67.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "68e7cb38f3d40387",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.3,
+      "story_size": 1,
+      "image_local": "images/news_4c68a54660a24f360397.jpg"
+    },
+    {
+      "title": "नेपालगन्ज भन्सारबाट तीन महिनामा पाँच अर्ब २४ करोड राजस्व",
+      "link": "https://www.ratopati.com/story/602544/nepalgunj-customs-generates-rs-524-billion-in-revenue-in-three-months",
+      "description": "बाँके । नेपालगन्ज भन्सार कार्यालयले चालु आर्थिक वर्षको पहिलो तीन महिनामा रु पाँच अर्ब २४ करोड बढी राजस्व सङ्कलन गरेको छ । चालु आर्थिक वर्ष २०८३/८४ को साउन, भदौ र असोज गरी तीन महिनामा रु पाँच",
+      "published": "2026-10-31T22:38:15+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://npcdn.ratopati.com/media/news/7nepalgunj-bhansar-2_hvomwzt9rl_H8Q0p6Bvur.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "2daa29ddde086563",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.9,
+      "story_size": 1,
+      "image_local": "images/news_4a294a0131c18d254456.jpg"
+    },
+    {
+      "title": "अलाभेसमाथि बार्सिलोनाको फराकिलो जित, शीर्ष स्थान कायमै",
+      "link": "https://www.ratopati.com/story/602543/barcelonas-comprehensive-win-over-alaves-keeps-them-at-the-top",
+      "description": "काठमाडौँ । स्पेनिस ला लिगा फुटबलमा बार्सिलोनाले डिपोर्टिभो अलाभेसमाथि ६–१ गोलको शानदार र फराकिलो जित हात पारेको छ । बार्सिलोनाको जितमा राफिन्हा र लामीन यामालले दुई–दुई गोल गरे भने फर्मीन लोपेज र एन्थोनी गोर्डनले एकरएक गोलको",
+      "published": "2026-10-31T22:35:13+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/barca_ykMoNOXZGz.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "084ef14a967af850",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.7,
+      "story_size": 1,
+      "image_local": "images/news_090e3d4cee9d59f230aa.webp"
+    },
+    {
+      "title": "कस्तो रहला यो साताको तपाईंको भाग्य ?",
+      "link": "https://www.ratopati.com/story/602540/how-was-your-luck-this-week",
+      "description": "कार्तिक १५ गते आइतबारदेखि २१ गते शनिबारसम्मको साप्ताहिक राशिफल । मेष (चू,चे,चो,ला,लि,लू,ले,लो,अ) सोमबारसम्मको समय मध्यम रहेकोले घर परिवार तथा आफन्तका बिच देखिने तिक्तता हल गर्दै राम्रा काम गर्न सकिनेछ । बिलासी तथा भौतिक वस्तुको प्रयोग गर्दा",
+      "published": "2026-10-31T21:15:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/horoscope_vLkWHGsooW.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "a345ba04156877f5",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 103.3,
+      "story_size": 1,
+      "image_local": "images/news_7567420e3a67fdab3a94.webp"
     },
     {
       "title": "अवरुद्ध जोमसोम–कोरला सडक सञ्चालन",
@@ -114,8 +227,27 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 114.5,
+      "score": 101.7,
       "story_size": 2
+    },
+    {
+      "title": "सीर्सिया नदीमा फोहर विसर्जन गर्न प्रतिबन्ध लगाइने",
+      "link": "https://www.ratopati.com/story/602541/garbage-dumping-in-sirsia-river-to-be-banned",
+      "description": "पर्सा । सर्वदलीय/सर्वपक्षीय बैठकले आसन्न छठपर्वका अवसरमा बर्तालुको सुविधाका लागि पूजा अवधिभर विभिन्न उद्योगबाट गरिने विभिन्न चिज वस्तु/पदार्थ एवं फोहर विसर्जनलाई पूर्ण रूपमा रोक्ने निर्णय गरेको छ । प्रमुख जिल्ला अधिकारी भोला दाहालको अध्यक्षतामा शनिबार यहाँ",
+      "published": "2026-10-31T20:35:40+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/parsa-district-map_0ZIfD6x5iq.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "9924d20831a2637a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 100.7,
+      "story_size": 1,
+      "image_local": "images/news_3d09985f46097fe41b26.jpg"
     },
     {
       "title": "भारतका विपक्षी दलद्वारा निर्वाचन आयुक्तमाथि ‘प्रतीकात्मक महाभियोग’को अभ्यास",
@@ -132,7 +264,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.7,
+      "score": 100.0,
       "story_size": 1,
       "image_local": "images/news_0a63ce8ed4f042192ba3.jpg"
     },
@@ -151,7 +283,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.8,
+      "score": 97.1,
       "story_size": 1,
       "image_local": "images/news_928cc8d99c988409b181.jpg"
     },
@@ -170,7 +302,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.5,
+      "score": 96.8,
       "story_size": 1,
       "image_local": "images/news_2e42dc09697fce8781c8.webp"
     },
@@ -189,7 +321,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.5,
+      "score": 95.8,
       "story_size": 1,
       "image_local": "images/news_32f1bbf999c87ac748c4.jpg"
     },
@@ -208,7 +340,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.5,
+      "score": 93.8,
       "story_size": 1,
       "image_local": "images/news_6018b0cb94f950c07a0d.webp"
     },
@@ -227,7 +359,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.2,
+      "score": 93.5,
       "story_size": 1,
       "image_local": "images/news_3747465d9ca25353595d.webp"
     },
@@ -246,7 +378,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.9,
+      "score": 93.1,
       "story_size": 1,
       "image_local": "images/news_f5d245b3e33570e33b45.jpg"
     },
@@ -266,7 +398,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 105.8,
+      "score": 93.1,
       "story_size": 3
     },
     {
@@ -284,7 +416,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.4,
+      "score": 91.6,
       "story_size": 1,
       "image_local": "images/news_e1081d0c69036993bc87.webp"
     },
@@ -303,7 +435,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.2,
+      "score": 91.5,
       "story_size": 1,
       "image_local": "images/news_e4e3b89cfabdb96ca217.jpg"
     },
@@ -322,7 +454,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.1,
+      "score": 91.4,
       "story_size": 1,
       "image_local": "images/news_0cca12733bd6ab4575b1.webp"
     },
@@ -341,7 +473,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.9,
+      "score": 90.2,
       "story_size": 1,
       "image_local": "images/news_902911cd4d86a12ede25.webp"
     },
@@ -360,7 +492,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.1,
+      "score": 89.3,
       "story_size": 1,
       "image_local": "images/news_b1ba792278a747ed90ab.jpg"
     },
@@ -379,7 +511,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.6,
+      "score": 88.9,
       "story_size": 1,
       "image_local": "images/news_f11f9a2374499e24f33d.jpg"
     },
@@ -398,7 +530,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.4,
+      "score": 88.7,
       "story_size": 1,
       "image_local": "images/news_117579cabd82aa568df4.jpg"
     },
@@ -417,7 +549,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.4,
+      "score": 88.7,
       "story_size": 1,
       "image_local": "images/news_b4de92249fa7dd61b170.webp"
     },
@@ -436,7 +568,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.0,
+      "score": 88.3,
       "story_size": 1,
       "image_local": "images/news_5daa2a89b2d12566cdb1.webp"
     },
@@ -455,7 +587,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 100.5,
+      "score": 87.7,
       "story_size": 1,
       "image_local": "images/news_af557e122cdd137b25c2.jpg"
     },
@@ -474,7 +606,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.2,
+      "score": 87.5,
       "story_size": 1
     },
     {
@@ -492,7 +624,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.1,
+      "score": 87.4,
       "story_size": 1,
       "image_local": "images/news_51d20a2b0a692c356424.webp"
     },
@@ -511,7 +643,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.1,
+      "score": 87.4,
       "story_size": 1,
       "image_local": "images/news_f7d0d6b538eb0332800e.jpg"
     },
@@ -530,7 +662,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.7,
+      "score": 85.9,
       "story_size": 1,
       "image_local": "images/news_a31222a991f58b3e49f0.webp"
     },
@@ -549,7 +681,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.2,
+      "score": 85.5,
       "story_size": 1,
       "image_local": "images/news_d1d9c41dbc61fa1ab751.webp"
     },
@@ -568,7 +700,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.8,
+      "score": 85.1,
       "story_size": 1,
       "image_local": "images/news_563fb900fb1851d91d75.jpg"
     },
@@ -587,7 +719,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.6,
+      "score": 84.9,
       "story_size": 1,
       "image_local": "images/news_95f3c10dddc7e05448fe.jpg"
     },
@@ -606,7 +738,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.4,
+      "score": 84.6,
       "story_size": 1,
       "image_local": "images/news_a3ff7f77da5437b6a56a.webp"
     },
@@ -625,7 +757,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.4,
+      "score": 84.6,
       "story_size": 1,
       "image_local": "images/news_96b4bfb3fe8a574ffc96.jpg"
     },
@@ -644,7 +776,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.3,
+      "score": 84.6,
       "story_size": 1,
       "image_local": "images/news_c81bde910a9bec470a9c.jpg"
     },
@@ -663,7 +795,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.8,
+      "score": 84.1,
       "story_size": 1,
       "image_local": "images/news_84068d210e4411952da2.webp"
     },
@@ -682,7 +814,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.7,
+      "score": 84.0,
       "story_size": 1
     },
     {
@@ -700,28 +832,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.4,
+      "score": 83.7,
       "story_size": 1,
       "image_local": "images/news_db8b128786cdcf8aec58.jpg"
-    },
-    {
-      "title": "विराटनगर किंग्सले बनायो पाँच ओभरमै १०५ रन",
-      "link": "https://www.ratopati.com/story/602518/biratnagar-kings-scored-105-runs-in-five-overs",
-      "description": "काठमाडौँ । विराटनगर किंग्सले सुदूरपश्चिम रोयल्सलाई १०६ रनको लक्ष्य दिएको छ । त्रिवि क्रकेट मैदान कीर्तिपुरमा वर्षाले प्रभावित बनेको खेल छोट्याएर ५ ओभरमा झारिएको थियो । जहाँ टस हारेर पहिला ब्याटिङमा उत्रिएको विराटनगरले २ विकेटको क्षतिमा",
-      "published": "2026-10-31T16:16:25+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/biratngar_shejN38VPL.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "687ea2a8ef712c17",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 96.2,
-      "story_size": 1,
-      "image_local": "images/news_a31222a991f58b3e49f0.webp"
     },
     {
       "title": "विराटनगरको पहिलो जित, सुदूरपश्चिम ३५ रनले निराश",
@@ -738,7 +851,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.1,
+      "score": 83.4,
       "story_size": 1
     },
     {
@@ -756,7 +869,44 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.1,
+      "score": 83.4,
+      "story_size": 1
+    },
+    {
+      "title": "विराटनगर किंग्सले बनायो पाँच ओभरमै १०५ रन",
+      "link": "https://www.ratopati.com/story/602518/biratnagar-kings-scored-105-runs-in-five-overs",
+      "description": "काठमाडौँ । विराटनगर किंग्सले सुदूरपश्चिम रोयल्सलाई १०६ रनको लक्ष्य दिएको छ । त्रिवि क्रकेट मैदान कीर्तिपुरमा वर्षाले प्रभावित बनेको खेल छोट्याएर ५ ओभरमा झारिएको थियो । जहाँ टस हारेर पहिला ब्याटिङमा उत्रिएको विराटनगरले २ विकेटको क्षतिमा",
+      "published": "2026-10-31T16:16:25+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/biratngar_shejN38VPL.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "687ea2a8ef712c17",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 83.4,
+      "story_size": 1,
+      "image_local": "images/news_a31222a991f58b3e49f0.webp"
+    },
+    {
+      "title": "पाँच ओभरको खेलमा विराटनगरको धमाका, सुदूरपश्चिम ३५ रनले हार्‍यो",
+      "link": "https://www.setopati.com/sports/npl/401719",
+      "description": "नेपाल प्रिमियर लिग (एनपिएल) मा विराटनगर किंग्सले वर्षाले प्रभावित खेलमा सुदूरपश्चिम रोयल्सलाई ३५ रनले पराजित गरेको छ। विराटनगरले प्रतियोगितामा पहिलो जित दर्ता गरेको हो।",
+      "published": "2026-10-31T22:44:00+05:45",
+      "source": "Setopati",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "4b3f15a9d784826c",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 83.3,
       "story_size": 1
     },
     {
@@ -774,27 +924,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.1,
+      "score": 83.3,
       "story_size": 1,
       "image_local": "images/news_db855883a98be7ee1a17.webp"
-    },
-    {
-      "title": "पाँच ओभरको खेलमा विराटनगरको धमाका, सुदूरपश्चिम ३५ रनले हार्‍यो",
-      "link": "https://www.setopati.com/sports/npl/401719",
-      "description": "नेपाल प्रिमियर लिग (एनपिएल) मा विराटनगर किंग्सले वर्षाले प्रभावित खेलमा सुदूरपश्चिम रोयल्सलाई ३५ रनले पराजित गरेको छ। विराटनगरले प्रतियोगितामा पहिलो जित दर्ता गरेको हो।",
-      "published": "2026-10-31T22:44:00+05:45",
-      "source": "Setopati",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Setopati"
-      ],
-      "id": "4b3f15a9d784826c",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 96.0,
-      "story_size": 1
     },
     {
       "title": "रसेल चम्कँदा विराटनगरले सुदूरपश्चिमलाई हरायो",
@@ -811,7 +943,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.8,
+      "score": 83.1,
       "story_size": 1
     },
     {
@@ -829,7 +961,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.9,
+      "score": 82.2,
       "story_size": 1,
       "image_local": "images/news_6cfb372138130d9060db.jpg"
     },
@@ -848,7 +980,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.9,
+      "score": 82.2,
       "story_size": 1,
       "image_local": "images/news_6d27d6e7b54bd8fabd81.jpg"
     },
@@ -867,27 +999,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.7,
+      "score": 82.0,
       "story_size": 1
-    },
-    {
-      "title": "पत्रकार पक्राउ गर्नु प्रेस स्वतन्त्रता विरोधी काम हो",
-      "link": "https://gorkhapatraonline.com/news/227846",
-      "description": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक १४ गते । राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) ले समाचार लेखेकै आधारमा पत्रकारलाई पक्राउ गरिएको विषयमा छलफल गर्दै छानबिन गर्न आग्रह गरेको छ । श...",
-      "published": "2026-10-31T21:31:24+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/389768/conversions/RSP-1-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "27310553d386d74a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 94.2,
-      "story_size": 1,
-      "image_local": "images/news_b84292a67e68fe7a5083.jpg"
     },
     {
       "title": "सिलु हेरेपछि म भन्थेँ– ठूली हुन्छु, बिहे गर्छु तर आफ्नो श्रीमानसँग गोसाइँकुण्ड कहिल्यै जान्नँ!",
@@ -904,7 +1017,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.1,
+      "score": 81.4,
       "story_size": 1
     },
     {
@@ -922,8 +1035,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.1,
+      "score": 81.4,
       "story_size": 1
+    },
+    {
+      "title": "पत्रकार पक्राउ गर्नु प्रेस स्वतन्त्रता विरोधी काम हो",
+      "link": "https://gorkhapatraonline.com/news/227846",
+      "description": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक १४ गते । राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) ले समाचार लेखेकै आधारमा पत्रकारलाई पक्राउ गरिएको विषयमा छलफल गर्दै छानबिन गर्न आग्रह गरेको छ । श...",
+      "published": "2026-10-31T21:31:24+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/389768/conversions/RSP-1-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "27310553d386d74a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 81.4,
+      "story_size": 1,
+      "image_local": "images/news_b84292a67e68fe7a5083.jpg"
     },
     {
       "title": "५ ओभरमा १०६ रनको लक्ष्य पछ्याएको सुदूरपश्चिमले गुमायो पहिलो विकेट",
@@ -940,27 +1072,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.0,
+      "score": 81.3,
       "story_size": 1
-    },
-    {
-      "title": "आर्थिक लेखक तथा पत्रकार रिसव गौतम ‘शब्दयात्रा हरिगोपाल प्रधान कदरपत्र’बाट सम्मानित",
-      "link": "https://www.ratopati.com/story/602516/economic-writer-and-journalist-rishab-gautam-honored-with-shabdyatra-harigopal-pradhan-commendation",
-      "description": "काठमाडौँ । शब्दयात्रा प्रकाशनले लेखन तथा पत्रकारिताको क्षेत्रमा योगदान दिएबापत आर्थिक लेखक, विश्लेषक तथा पत्रकार रिसव गौतमलाई २०८३ सालको ‘शब्दयात्रा हरिगोपाल प्रधान कदरपत्र’ प्रदान गरेको छ। शब्दयात्रा प्रकाशनले शनिबार बनेपास्थित आफ्नै सभाकक्षमा आयोजना गरेको ‘शब्द साधना प्रस्तुतिकरण,",
-      "published": "2026-10-31T15:35:16+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/samman2_0krtLspxTt.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "ce956d173bb3f911",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 93.4,
-      "story_size": 1,
-      "image_local": "images/news_90d320ede9fbca407e9c.webp"
     },
     {
       "title": "पाँच ओभरमै विराटनगरको विस्फोटक ब्याटिङ, सुदूरपश्चिमविरुद्ध १०५ रन",
@@ -977,7 +1090,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.3,
+      "score": 80.6,
       "story_size": 1
     },
     {
@@ -995,7 +1108,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.3,
+      "score": 80.6,
       "story_size": 1
     },
     {
@@ -1013,7 +1126,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.2,
+      "score": 80.4,
       "story_size": 1
     },
     {
@@ -1031,7 +1144,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.1,
+      "score": 80.4,
       "story_size": 1
     },
     {
@@ -1049,7 +1162,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.1,
+      "score": 80.4,
       "story_size": 1
     },
     {
@@ -1067,7 +1180,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.1,
+      "score": 80.3,
       "story_size": 1
     },
     {
@@ -1085,7 +1198,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.0,
+      "score": 80.3,
       "story_size": 1
     },
     {
@@ -1103,7 +1216,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.0,
+      "score": 80.3,
       "story_size": 1
     },
     {
@@ -1121,7 +1234,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.0,
+      "score": 80.3,
       "story_size": 1
     },
     {
@@ -1139,7 +1252,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.0,
+      "score": 80.2,
       "story_size": 1
     },
     {
@@ -1157,7 +1270,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.9,
+      "score": 80.2,
       "story_size": 1
     },
     {
@@ -1175,7 +1288,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.8,
+      "score": 80.1,
       "story_size": 1
     },
     {
@@ -1193,7 +1306,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.8,
+      "score": 80.0,
       "story_size": 1
     },
     {
@@ -1211,84 +1324,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.7,
+      "score": 80.0,
       "story_size": 1
-    },
-    {
-      "title": "व्यक्तिगत घटना दर्ता प्रणालीबाट मतदाता नामावली अद्यावधिक गरिने",
-      "link": "https://www.ratopati.com/story/602514/voter-rolls-will-be-updated-through-the-personal-incident-registration-system",
-      "description": "काठमाडौँ । निर्वाचन आयोगले राष्ट्रिय परिचयपत्र तथा पञ्जीकरण विभागबाट विवरण लिएर मतदाता नामावली अद्यावधिक तथा विवरण प्रमाणीकरण गर्ने भएको छ । निर्वाचन आयोग र विभागबीच व्यक्तिगत घटना दर्ता तथा सामाजिक सुरक्षा व्यवस्थापन सूचना प्रणालीमा रहेका विवरण",
-      "published": "2026-10-31T15:24:46+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/narayan-prasad-bhattarai_M30cVyr2Yq.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "ebceed7791883165",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 92.7,
-      "story_size": 1,
-      "image_local": "images/news_de30f15767625d6e207d.jpg"
-    },
-    {
-      "title": "सुदूरपश्चिमले जित्यो टस, पहिला बलिङ गर्ने",
-      "link": "https://www.ratopati.com/story/602513/sudurpaschim-won-the-toss-and-elected-to-bowl-first",
-      "description": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करणमा शनिबार हुने खेलमा सुदूरपश्चिमले टस जितेको छ । कीर्तिपुरस्थित त्रिवि क्रिकेट अन्तर्राष्ट्रिय क्रिकेट मैदानमा हुने विराटनगरसँगको खेलमा सुदूरपश्चिमले टस जितेर बलिङ राजेको छ । विराटनगर किङ्स र सुदूरपश्चिम",
-      "published": "2026-10-31T15:24:22+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/npl-darshak1-2_fvaLaLCgxs.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "4ace2adc1a5f7898",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 92.7,
-      "story_size": 1,
-      "image_local": "images/news_cc4f0fe1af5a364bcb96.webp"
-    },
-    {
-      "title": "बेलायती प्रधानमन्त्री दासत्वको माफी माग्नका लागि तयार, क्षतिपूर्ति दिने कुरा अस्वीकार",
-      "link": "https://www.ratopati.com/story/602512/british-pm-ready-to-apologize-for-slavery-rules-out-compensation",
-      "description": "लण्डन । प्रधानमन्त्री एन्डी बर्नह्यामले शनिबार बेलायतले ट्रान्सएट्लान्टिक दास व्यापारमा खेलेको भूमिकाका लागि औपचारिक माफी माग्न आफू तयार रहेको बताएका छन्। उनले उक्त भूमिकाका लागि राज्यका तर्फबाट माफी माग्न तयार रहेको बताए पनि आर्थिक क्षतिपूर्ति",
-      "published": "2026-10-31T15:23:10+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/andy-burnham_r9vLtv6pru.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "309ca56137df365a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 92.6,
-      "story_size": 1,
-      "image_local": "images/news_93d7d4d08e75d9ff5566.jpg"
-    },
-    {
-      "title": "चाडपर्वलाई ध्यानमा राख्दै पेट्रोलियम पदार्थको मूल्य यथावत्",
-      "link": "https://www.ratopati.com/story/602511/petroleum-prices-remain-unchanged-in-view-of-the-festive-season",
-      "description": "काठमाडौँ । नेपाल आयल निगमले पेट्रोलियम पदार्थको खुद्रा बिक्री मूल्य यथावत् राख्ने निर्णय गरेको छ । इन्डियन आयल कर्पोरेसन (आईओसी) बाट नयाँ खरिद मूल्य प्राप्त भए तापनि आसन्न चाडपर्व तथा आम उपभोक्ताको हितलाई मध्यनजर गर्दै मूल्य नबढाइएको",
-      "published": "2026-10-31T15:22:39+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/petrol_DbIuGukCdC.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "d27ef229a7722350",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 92.6,
-      "story_size": 1,
-      "image_local": "images/news_da5efce1df67334ebfcf.jpg"
     },
     {
       "title": "संविधान र डेमोक्रेसीभन्दा माथि कोही माईका लाल छैन– रवि लामिछाने",
@@ -1305,7 +1342,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.5,
+      "score": 78.8,
       "story_size": 1
     },
     {
@@ -1323,7 +1360,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.5,
+      "score": 78.8,
       "story_size": 1
     },
     {
@@ -1341,7 +1378,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 91.3,
+      "score": 78.6,
       "story_size": 1
     },
     {
@@ -1359,7 +1396,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.0,
+      "score": 77.2,
       "story_size": 1
     },
     {
@@ -1377,7 +1414,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.7,
+      "score": 76.9,
       "story_size": 1
     },
     {
@@ -1395,7 +1432,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.2,
+      "score": 76.5,
       "story_size": 1
     },
     {
@@ -1413,7 +1450,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.0,
+      "score": 74.2,
       "story_size": 1
     },
     {
@@ -1431,7 +1468,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.2,
+      "score": 72.5,
       "story_size": 1
     },
     {
@@ -1449,7 +1486,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.8,
+      "score": 72.0,
       "story_size": 1
     },
     {
@@ -1467,7 +1504,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.7,
+      "score": 72.0,
       "story_size": 1
     },
     {
@@ -1485,7 +1522,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.5,
+      "score": 71.7,
       "story_size": 1
     },
     {
@@ -1503,7 +1540,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.8,
+      "score": 71.1,
       "story_size": 1
     },
     {
@@ -1521,7 +1558,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.1,
+      "score": 70.4,
       "story_size": 1
     },
     {
@@ -1539,7 +1576,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.9,
+      "score": 70.2,
       "story_size": 1
     },
     {
@@ -1557,7 +1594,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.6,
+      "score": 69.8,
       "story_size": 1
     },
     {
@@ -1575,7 +1612,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.3,
+      "score": 69.6,
       "story_size": 1
     },
     {
@@ -1593,7 +1630,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.3,
+      "score": 69.6,
       "story_size": 1
     },
     {
@@ -1611,7 +1648,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.1,
+      "score": 69.4,
       "story_size": 1
     },
     {
@@ -1629,7 +1666,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.6,
+      "score": 68.8,
       "story_size": 1
     },
     {
@@ -1647,7 +1684,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.6,
+      "score": 68.8,
       "story_size": 1
     },
     {
@@ -1665,7 +1702,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.1,
+      "score": 68.3,
       "story_size": 1
     },
     {
@@ -1683,7 +1720,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.0,
+      "score": 68.3,
       "story_size": 1
     },
     {
@@ -1701,7 +1738,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.8,
+      "score": 68.1,
       "story_size": 1
     },
     {
@@ -1719,7 +1756,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.3,
+      "score": 67.6,
       "story_size": 1
     },
     {
@@ -1737,7 +1774,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.1,
+      "score": 67.3,
       "story_size": 1
     },
     {
@@ -1755,7 +1792,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.0,
+      "score": 67.2,
       "story_size": 1
     },
     {
@@ -1773,7 +1810,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.9,
+      "score": 67.2,
       "story_size": 2
     },
     {
@@ -1791,7 +1828,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.2,
+      "score": 66.5,
       "story_size": 1
     },
     {
@@ -1809,7 +1846,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.9,
+      "score": 66.2,
       "story_size": 1
     },
     {
@@ -1827,7 +1864,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.4,
+      "score": 65.7,
       "story_size": 1
     },
     {
@@ -1845,7 +1882,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.3,
+      "score": 65.6,
       "story_size": 1
     },
     {
@@ -1863,7 +1900,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.7,
+      "score": 65.0,
       "story_size": 1
     },
     {
@@ -1881,7 +1918,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.3,
+      "score": 64.5,
       "story_size": 1
     },
     {
@@ -1899,7 +1936,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.2,
+      "score": 64.5,
       "story_size": 1
     },
     {
@@ -1917,7 +1954,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.9,
+      "score": 64.2,
       "story_size": 1
     },
     {
@@ -1935,7 +1972,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.4,
+      "score": 63.6,
       "story_size": 1
     },
     {
@@ -1953,7 +1990,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.1,
+      "score": 63.4,
       "story_size": 1
     },
     {
@@ -1971,7 +2008,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.5,
+      "score": 61.8,
       "story_size": 1
     },
     {
@@ -1989,7 +2026,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.7,
+      "score": 61.0,
       "story_size": 1
     },
     {
@@ -2007,7 +2044,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.7,
+      "score": 61.0,
       "story_size": 1
     },
     {
@@ -2025,7 +2062,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.1,
+      "score": 60.4,
       "story_size": 1
     },
     {
@@ -2043,7 +2080,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.8,
+      "score": 60.1,
       "story_size": 1
     },
     {
@@ -2061,7 +2098,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.3,
+      "score": 59.6,
       "story_size": 1
     },
     {
@@ -2079,7 +2116,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.9,
+      "score": 59.1,
       "story_size": 1
     },
     {
@@ -2097,7 +2134,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.4,
+      "score": 58.7,
       "story_size": 1
     },
     {
@@ -2115,7 +2152,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.1,
+      "score": 57.4,
       "story_size": 1
     },
     {
@@ -2133,7 +2170,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.0,
+      "score": 57.3,
       "story_size": 1
     },
     {
@@ -2151,7 +2188,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.8,
+      "score": 56.1,
       "story_size": 1
     },
     {
@@ -2169,7 +2206,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.4,
+      "score": 55.7,
       "story_size": 1
     },
     {
@@ -2187,7 +2224,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.0,
+      "score": 54.3,
       "story_size": 1
     },
     {
@@ -2205,7 +2242,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.4,
+      "score": 53.7,
       "story_size": 1
     },
     {
@@ -2223,7 +2260,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 63.8,
+      "score": 51.0,
       "story_size": 1
     },
     {
@@ -2241,7 +2278,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 62.8,
+      "score": 50.1,
       "story_size": 1
     },
     {
@@ -2259,7 +2296,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 62.4,
+      "score": 49.7,
       "story_size": 1
     },
     {
@@ -2277,7 +2314,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 62.4,
+      "score": 49.7,
       "story_size": 1
     },
     {
@@ -2295,7 +2332,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 61.7,
+      "score": 48.9,
       "story_size": 1
     },
     {
@@ -2313,7 +2350,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 57.5,
+      "score": 44.7,
       "story_size": 1
     },
     {
@@ -2331,7 +2368,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 48.3,
+      "score": 35.6,
       "story_size": 1
     },
     {
@@ -2349,7 +2386,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 48.1,
+      "score": 35.3,
       "story_size": 1
     },
     {
@@ -2367,7 +2404,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 47.1,
+      "score": 34.3,
       "story_size": 1
     },
     {
@@ -2385,7 +2422,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 45.3,
+      "score": 32.6,
       "story_size": 1
     },
     {
@@ -2403,7 +2440,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 40.9,
+      "score": 28.2,
       "story_size": 1
     },
     {
@@ -2421,7 +2458,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 40.7,
+      "score": 27.9,
       "story_size": 1
     },
     {
@@ -2724,42 +2761,6 @@
         "Lokaantar"
       ],
       "id": "4352205fbcc64a79",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "विराटनगरले सुदूरपश्चिमलाई दियो १०६ रनको लक्ष्य",
-      "link": "http://lokaantar.com/story/332292/2026/10/31/npl-",
-      "description": "नेपाल प्रिमियर लिग (एनपीएल) अन्तर्गत शनिबारको खेलमा विराटनगर किंग्सले सुदूरपश्चिम रोयल्सलाई १०६ रनको लक्ष्य दिएको छ ।कीर्तिपुरस्थित त्रिवि क्रिकेट मैदानमा टस हारेर पहिले ब्याटिङ गरेको विराटनगरले निर्धारित ५ ओभरमा २ विकेट गुमाएर १०५ रन बनाएको हो ।विराटनगरका शहान जयसूर्याले ११ बलमा ३९ रन बनाए । उनले २ चौका र ५ छक्का प्रहार गरे । लोकेश बमले १० बलमा २५ रन जोड्दा आन्द्रे रसेल १० बलमा २९ रन बनाएर अविजित रहे ।सुदूरपश्चिमका अविनाश बोहराले २ विकेट लिए । उनले २ ओभरमा २८ रन खर्चिए ।&nbsp;अब सुदूरपश्चिमले ज",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "aecf647f812478be",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "एसियाली राजमार्ग निर्माणमा अव्यवस्था, यात्रु र स्थानीयवासीलाई सास्ती",
-      "link": "http://lokaantar.com/story/332291/2026/10/31/road-",
-      "description": "पूर्व&ndash;पश्चिम राजमार्गअन्तर्गत एसियाली राजमार्गका रूपमा स्तरोन्नति भइरहेको काँकडभिट्टा&ndash;लौकही सडक खण्डको निर्माण अव्यवस्थित हुँदा यात्रु र स्थानीयवासीले सास्ती भोग्नुपरेको छ ।९५ किलोमिटर लामो सडक स्तरोन्नतिका क्रममा अव्यवस्थित डाइभर्सन, खाल्डाखुल्डी, हिलो र धुलोका कारण दुर्घटनाको जोखिम बढेको भन्दै जनप्रतिनिधि, राजनीतिक दल र स्थानीयवासीले निर्माणलाई व्यवस्थित बनाउन माग गरेका छन् ।झापा क्षेत्र नं. २ की सांसद एवं निवर्तमान उपसभामुख इन्दिरा रानामगरले आयोजना प्रतिनिधि, निर्माण व्यवसायी र ट्",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "6e20fc4171ef1180",
       "source_count": 1,
       "verified": false,
       "local": false,

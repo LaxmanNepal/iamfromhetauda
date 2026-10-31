@@ -1,7 +1,27 @@
 {
   "date_np": "2026-11-01",
-  "generated_at": "2026-10-31T20:29:03.452312+00:00",
+  "generated_at": "2026-10-31T23:39:49.236096+00:00",
   "items": [
+    {
+      "title": "एसियाली राजमार्ग निर्माणमा अव्यवस्था, यात्रु र स्थानीयवासीलाई सास्ती",
+      "link": "https://www.ratopati.com/story/602542/disruption-in-asian-highway-construction-suffering-for-travelers-and-locals",
+      "description": "झापा । पूर्व–पश्चिम राजमार्गअन्तर्गत एसियाली राजमार्गका रूपमा स्तरोन्नति भइरहेको काँकडभिट्टा–लौकही सडक खण्डको निर्माणलाई व्यवस्थित गरी यात्रुमैत्री बनाउन जनप्रतिनिधि, राजनीतिक दल र स्थानीयवासीले माग गरेका छन् । एसियाली विकास बैंकको वित्तीय सहयोगमा झापाको काँकडभिट्टादेखि सुनसरीको लौकहीसम्मको ९५",
+      "published": "2026-10-31T21:00:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/asian_highway_npl_pct-(6)_FBUOnST5rH.jpg",
+      "related_sources": [
+        "Ratopati",
+        "Lokaantar"
+      ],
+      "id": "a29ae47e6adce6c2",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 126.3,
+      "story_size": 2,
+      "image_local": "images/news_07a706f9368d457049a9.jpg"
+    },
     {
       "title": "पदमपोखरीमा व्यावसायिक मेवाखेतीबाट किसानको आम्दानी बढ्दै",
       "link": "https://www.ratopati.com/story/602538/farmers-income-increasing-from-commercial-fruit-farming-in-padampokhari",
@@ -17,143 +37,124 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 129.1,
+      "score": 116.4,
       "story_size": 1,
       "image_local": "images/news_da7ca2f263f80f8528f1.jpg"
     },
     {
-      "title": "भारतका विपक्षी दलद्वारा निर्वाचन आयुक्तमाथि ‘प्रतीकात्मक महाभियोग’को अभ्यास",
-      "link": "https://www.ratopati.com/story/602539/indias-opposition-parties-practice-symbolic-impeachment-of-election-commissioner",
-      "description": "काठमाडौँ । भारतका राजनीतिक विपक्षी दलहरूले शनिबार निर्वाचन आयुक्तको ‘प्रतीकात्मक महाभियोग’ को अभ्यास गरेका छन् । उनीहरूले मतदाता सूची संशोधनमा भएको भनिएको अनियमितताको विरोधमा यो कदम चालेका हुन् । संशोधनले सत्तारूढ दललाई अनुचित फाइदा पुर्‍याउन सक्ने",
-      "published": "2026-10-31T20:25:06+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://rpcdn.ratopati.com/media/albums/india_flag_ZY8MWFezR1.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "3a199e518693423a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 112.7,
-      "story_size": 1,
-      "image_local": "images/news_0a63ce8ed4f042192ba3.jpg"
-    },
-    {
-      "title": "कर्णालीको रैथाने उत्पादन र माटो दुवै जोगाउनुपर्छ: मुख्यमन्त्री",
-      "link": "https://www.ratopati.com/story/602537/karnalis-indigenous-products-and-soil-should-be-protected-chief-minister",
-      "description": "कर्णाली । कर्णाली प्रदेश सरकारका मुख्यमन्त्री मङ्गलबहादुर शाहीले कर्णालीको रैथाने उत्पादन र माटो दुवै जोगाउनुपर्ने बताएका छन् । लेकबेसी नगरपालिका सुर्खेतमा अवस्थित कृषि अनुसन्धान केन्द्र दशरथपुरको आजको निरीक्षण भ्रमणपछि त्यहाँका अधिकारीहरूसँगको छलफलमा मुख्यमन्त्री शाहीले कर्णालीका रैथाने",
-      "published": "2026-10-31T19:40:37+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/mangalbahadur-shahi_nacBUUJvWL.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "a4498d75c2d296d0",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.8,
-      "story_size": 1,
-      "image_local": "images/news_928cc8d99c988409b181.jpg"
-    },
-    {
-      "title": "१० खेलाडीमा सीमित क्रिस्टल प्यालेसमाथि टोटनहमको सहज जित",
-      "link": "https://www.ratopati.com/story/602536/tottenham-ease-to-victory-over-10-man-crystal-palace",
-      "description": "काठमाडौँ । इङ्ग्लिस प्रिमियर लिग फुटबलमा टोटनहम हट्सपरले क्रिस्टल प्यालेसमाथि २-० गोलको जित निकालेको छ । खेलको १३ औँ मिनेटमै क्रिस्टल प्यालेसका जिन-फिलिप मटेटाले रातो कार्ड खाँदै मैदान छाडेपछि प्यालेस १० खेलाडीमा सीमित हुन पुगेको थियो",
-      "published": "2026-10-31T19:36:16+00:00",
-      "source": "Ratopati",
-      "category": "sports",
-      "image": "https://npcdn.ratopati.com/media/news/tottenham_diTxGLN5BD.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "baa2100ec67c26e4",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.5,
-      "story_size": 1,
-      "image_local": "images/news_2e42dc09697fce8781c8.webp"
-    },
-    {
-      "title": "स्याउ विकास बोर्डको स्थापनाका लागि राय सुझाव माग",
-      "link": "https://www.ratopati.com/story/602535/request-for-opinions-and-suggestions-for-the-establishment-of-an-apple-development-board",
-      "description": "जुम्ला । कर्णाली प्रदेशमा स्याउ विकास बोर्डको स्थापना तथा सञ्चालन सम्बन्धमा जुम्लाका सरोकारवालासँग शनिबार राय सुझावको माग गरिएको छ । स्याउ संसदीय स्याउ सरोकार समूहको अयोजना तथा कर्णाली प्रदेश सरकार भूमि व्यवस्था, कृषि तथा सहकारी मन्त्रालयको",
-      "published": "2026-10-31T19:21:22+00:00",
+      "title": "आइतबार कुन राशिका लागि शुभ ? हेर्नुहोस् राशिफल",
+      "link": "https://www.ratopati.com/story/602545/which-zodiac-sign-is-auspicious-for-sunday-see-horoscope",
+      "description": "आजको पञ्चाङ्ग वि.सं.२०८३ साल कार्तिक १५ गते । आइतबार । इस्वी सन् २०२६ नोभेम्बर १ तारिख । नेपाल संवत् ११४६ । रौद्र संवत्सर । दक्षिणायन । शरद ऋतु । श्रीशाके १९४८ । कार्तिक कृष्णपक्ष । तिथि–सप्तमी,",
+      "published": "2026-10-31T23:15:00+00:00",
       "source": "Ratopati",
       "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/karnali-krishi-mantralaya1711676151_9dLrv7wi2R.jpg",
+      "image": "https://npcdn.ratopati.com/media/news/horoscope_68mF8G6CaS.jpg",
       "related_sources": [
         "Ratopati"
       ],
-      "id": "c84db5ce57ed5ce3",
+      "id": "60ad4f353b731608",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.5,
+      "score": 111.3,
       "story_size": 1,
-      "image_local": "images/news_32f1bbf999c87ac748c4.jpg"
+      "image_local": "images/news_0801267ae47ce997ddb8.jpg"
     },
     {
-      "title": "लेभान्टेलाई हराउँदै एट्लेटिको ला लिगाको शीर्ष स्थानमा",
-      "link": "https://www.ratopati.com/story/602534/atletico-beats-levante-to-go-top-of-la-liga",
-      "description": "काठमाडौँ । स्पेनिस ला लिगा फुटबलमा एट्लेटिको म्याड्रिडले लेभान्टेमाथि २–० गोलको जित निकालेको छ । एट्लेटिकोको जितमा अलेहान्द्रो ग्रिमाल्डो र गियुलियानो सिमिओनीले एकरएक गोल गरे । खेलको ३६ औँ मिनेटमा ग्रिमाल्डोले गोल गर्दै एट्लेटिकोलाई सुरुवाती अग्रता दिलाएका",
-      "published": "2026-10-31T18:51:11+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/atletico_3i1roeC4iA.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "242bda41c09d0cb2",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 106.5,
-      "story_size": 1,
-      "image_local": "images/news_6018b0cb94f950c07a0d.webp"
-    },
-    {
-      "title": "लिड्समाथि बर्नमाउथको सहज जित",
-      "link": "https://www.ratopati.com/story/602533/bournemouth-ease-to-victory-over-leeds",
-      "description": "काठमाडौँ । इङ्ग्लिस प्रिमियर लिग फुटबलमा बर्नमाउथले लिड्समाथि २–० गोलको जित निकालेको छ । बर्नमाउथलाई जित दिलाउन इभानिल्सन र अमिन अदलीले एक–एक गोल गरे । नेपाली समय अनुसार शनिबार राति सम्पन्न खेलको ३१ औँ मिनेटमा इभानिल्सनले गोल",
-      "published": "2026-10-31T18:47:30+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/premier-league_35Yf6TLBR5.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "5697eb9426e6a9b2",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 106.2,
-      "story_size": 1,
-      "image_local": "images/news_3747465d9ca25353595d.webp"
-    },
-    {
-      "title": "उत्तर कोरियालाई ‘पूर्णरूपमा’ परमाणु निःशस्त्रीकरणको प्रतिबद्धता जनाए",
-      "link": "https://www.ratopati.com/story/602532/north-korea-committed-to-complete-denuclearization",
-      "description": "काठमाडौँ । अमेरिका, दक्षिण कोरिया र जापानले शनिबार उत्तर कोरियालाई ‘पूर्णरूपमा परमाणु निःशस्त्रीकरण’ गराउने आफ्नो प्रतिबद्धता दोहोर्‍याएका छन् । प्योङयाङले वाशिङटनसँग सम्भावित वार्ताअघि निःशस्त्रीकरण अस्वीकार गरिरहेको छ । अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प र उत्तर कोरियाली नेता किम",
-      "published": "2026-10-31T18:41:42+00:00",
+      "title": "नापी कार्यालयद्वारा ४८ लाख राजस्व सङ्कलन",
+      "link": "https://www.ratopati.com/story/602546/survey-office-collects-rs-48-million-in-revenue",
+      "description": "दाङ । दाङस्थित नापी कार्यालय तुलसीपुरले एक वर्षमा ४८ लाख बढी राजस्व सङ्कलन गरेको छ । कार्यालयका सूचना अधिकारी प्रेमबहादुर खड्काका अनुसार गत आर्थिक वर्ष २०८२/८३ मा रु ४८ लाख सात हजार ४६५ राजस्व सङ्कलन",
+      "published": "2026-10-31T23:00:00+00:00",
       "source": "Ratopati",
       "category": "business",
-      "image": "https://npcdn.ratopati.com/media/news/north-korea-flags_k3jIPCT1Zb.jpg",
+      "image": "https://npcdn.ratopati.com/media/news/dang-map_yCoTeipd67.jpg",
       "related_sources": [
         "Ratopati"
       ],
-      "id": "7f6a3224a60eeb68",
+      "id": "68e7cb38f3d40387",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.9,
+      "score": 110.3,
       "story_size": 1,
-      "image_local": "images/news_f5d245b3e33570e33b45.jpg"
+      "image_local": "images/news_4c68a54660a24f360397.jpg"
+    },
+    {
+      "title": "नेपालगन्ज भन्सारबाट तीन महिनामा पाँच अर्ब २४ करोड राजस्व",
+      "link": "https://www.ratopati.com/story/602544/nepalgunj-customs-generates-rs-524-billion-in-revenue-in-three-months",
+      "description": "बाँके । नेपालगन्ज भन्सार कार्यालयले चालु आर्थिक वर्षको पहिलो तीन महिनामा रु पाँच अर्ब २४ करोड बढी राजस्व सङ्कलन गरेको छ । चालु आर्थिक वर्ष २०८३/८४ को साउन, भदौ र असोज गरी तीन महिनामा रु पाँच",
+      "published": "2026-10-31T22:38:15+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://npcdn.ratopati.com/media/news/7nepalgunj-bhansar-2_hvomwzt9rl_H8Q0p6Bvur.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "2daa29ddde086563",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.9,
+      "story_size": 1,
+      "image_local": "images/news_4a294a0131c18d254456.jpg"
+    },
+    {
+      "title": "अलाभेसमाथि बार्सिलोनाको फराकिलो जित, शीर्ष स्थान कायमै",
+      "link": "https://www.ratopati.com/story/602543/barcelonas-comprehensive-win-over-alaves-keeps-them-at-the-top",
+      "description": "काठमाडौँ । स्पेनिस ला लिगा फुटबलमा बार्सिलोनाले डिपोर्टिभो अलाभेसमाथि ६–१ गोलको शानदार र फराकिलो जित हात पारेको छ । बार्सिलोनाको जितमा राफिन्हा र लामीन यामालले दुई–दुई गोल गरे भने फर्मीन लोपेज र एन्थोनी गोर्डनले एकरएक गोलको",
+      "published": "2026-10-31T22:35:13+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/barca_ykMoNOXZGz.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "084ef14a967af850",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.7,
+      "story_size": 1,
+      "image_local": "images/news_090e3d4cee9d59f230aa.webp"
+    },
+    {
+      "title": "कस्तो रहला यो साताको तपाईंको भाग्य ?",
+      "link": "https://www.ratopati.com/story/602540/how-was-your-luck-this-week",
+      "description": "कार्तिक १५ गते आइतबारदेखि २१ गते शनिबारसम्मको साप्ताहिक राशिफल । मेष (चू,चे,चो,ला,लि,लू,ले,लो,अ) सोमबारसम्मको समय मध्यम रहेकोले घर परिवार तथा आफन्तका बिच देखिने तिक्तता हल गर्दै राम्रा काम गर्न सकिनेछ । बिलासी तथा भौतिक वस्तुको प्रयोग गर्दा",
+      "published": "2026-10-31T21:15:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/horoscope_vLkWHGsooW.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "a345ba04156877f5",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 103.3,
+      "story_size": 1,
+      "image_local": "images/news_7567420e3a67fdab3a94.webp"
+    },
+    {
+      "title": "सीर्सिया नदीमा फोहर विसर्जन गर्न प्रतिबन्ध लगाइने",
+      "link": "https://www.ratopati.com/story/602541/garbage-dumping-in-sirsia-river-to-be-banned",
+      "description": "पर्सा । सर्वदलीय/सर्वपक्षीय बैठकले आसन्न छठपर्वका अवसरमा बर्तालुको सुविधाका लागि पूजा अवधिभर विभिन्न उद्योगबाट गरिने विभिन्न चिज वस्तु/पदार्थ एवं फोहर विसर्जनलाई पूर्ण रूपमा रोक्ने निर्णय गरेको छ । प्रमुख जिल्ला अधिकारी भोला दाहालको अध्यक्षतामा शनिबार यहाँ",
+      "published": "2026-10-31T20:35:40+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/parsa-district-map_0ZIfD6x5iq.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "9924d20831a2637a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 100.7,
+      "story_size": 1,
+      "image_local": "images/news_3d09985f46097fe41b26.jpg"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. पदमपोखरीमा व्यावसायिक मेवाखेतीबाट किसानको आम्दानी बढ्दै\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602538/farmers-income-increasing-from-commercial-fruit-farming-in-padampokhari\n\n2. भारतका विपक्षी दलद्वारा निर्वाचन आयुक्तमाथि ‘प्रतीकात्मक महाभियोग’को अभ्यास\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602539/indias-opposition-parties-practice-symbolic-impeachment-of-election-commissioner\n\n3. कर्णालीको रैथाने उत्पादन र माटो दुवै जोगाउनुपर्छ: मुख्यमन्त्री\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602537/karnalis-indigenous-products-and-soil-should-be-protected-chief-minister\n\n4. १० खेलाडीमा सीमित क्रिस्टल प्यालेसमाथि टोटनहमको सहज जित\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602536/tottenham-ease-to-victory-over-10-man-crystal-palace\n\n5. स्याउ विकास बोर्डको स्थापनाका लागि राय सुझाव माग\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602535/request-for-opinions-and-suggestions-for-the-establishment-of-an-apple-development-board\n\n6. लेभान्टेलाई हराउँदै एट्लेटिको ला लिगाको शीर्ष स्थानमा\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602534/atletico-beats-levante-to-go-top-of-la-liga\n\n7. लिड्समाथि बर्नमाउथको सहज जित\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602533/bournemouth-ease-to-victory-over-leeds\n\n8. उत्तर कोरियालाई ‘पूर्णरूपमा’ परमाणु निःशस्त्रीकरणको प्रतिबद्धता जनाए\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602532/north-korea-committed-to-complete-denuclearization\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. एसियाली राजमार्ग निर्माणमा अव्यवस्था, यात्रु र स्थानीयवासीलाई सास्ती\nस्रोत: Ratopati, Lokaantar\nhttps://www.ratopati.com/story/602542/disruption-in-asian-highway-construction-suffering-for-travelers-and-locals\n\n2. पदमपोखरीमा व्यावसायिक मेवाखेतीबाट किसानको आम्दानी बढ्दै\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602538/farmers-income-increasing-from-commercial-fruit-farming-in-padampokhari\n\n3. आइतबार कुन राशिका लागि शुभ ? हेर्नुहोस् राशिफल\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602545/which-zodiac-sign-is-auspicious-for-sunday-see-horoscope\n\n4. नापी कार्यालयद्वारा ४८ लाख राजस्व सङ्कलन\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602546/survey-office-collects-rs-48-million-in-revenue\n\n5. नेपालगन्ज भन्सारबाट तीन महिनामा पाँच अर्ब २४ करोड राजस्व\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602544/nepalgunj-customs-generates-rs-524-billion-in-revenue-in-three-months\n\n6. अलाभेसमाथि बार्सिलोनाको फराकिलो जित, शीर्ष स्थान कायमै\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602543/barcelonas-comprehensive-win-over-alaves-keeps-them-at-the-top\n\n7. कस्तो रहला यो साताको तपाईंको भाग्य ?\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602540/how-was-your-luck-this-week\n\n8. सीर्सिया नदीमा फोहर विसर्जन गर्न प्रतिबन्ध लगाइने\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602541/garbage-dumping-in-sirsia-river-to-be-banned\n\n— I Am From Hetauda"
 }
