@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T20:40:34.643769+00:00",
+  "updated_at": "2026-10-31T00:08:35.338923+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -33,7 +33,7 @@
       "source_count": 4,
       "verified": true,
       "local": false,
-      "score": 146.7,
+      "score": 132.8,
       "story_size": 4,
       "image_local": "images/news_ee2fdf569f128dae0589.jpg"
     },
@@ -55,7 +55,7 @@
       "source_count": 4,
       "verified": true,
       "local": false,
-      "score": 144.1,
+      "score": 130.2,
       "story_size": 4
     },
     {
@@ -74,7 +74,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.3,
+      "score": 119.4,
       "story_size": 2,
       "image_local": "images/news_0ae44e12c9e8254ad797.jpg"
     },
@@ -94,51 +94,159 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 129.8,
+      "score": 115.9,
       "story_size": 2,
       "image_local": "images/news_c3637160b0025d5f8b63.jpg"
     },
     {
-      "title": "बाढीमा यात्रुबाहक बस फस्यो, ३० यात्रुको सकुशल उद्धार",
-      "link": "https://www.ratopati.com/story/602322/passenger-bus-gets-stuck-in-flood-30-passengers-rescued-safely",
-      "description": "धनकुटा । ताप्लेजुङबाट काठमाडौँका लागि छुटेको यात्रुबाहक बस शुक्रबार अपराह्न तमोर करिडोरअन्तर्गत पाँचथर र धनकुटाको सीमावर्ती क्षेत्र नावा खोलामा फसेको छ । निरन्तरको वर्षाका कारण खोलामा बाढी आएपछि जोखिम मोलेर खोला पार गर्न खोज्दा बस बीचमै",
-      "published": "2026-10-30T15:40:40+00:00",
+      "title": "कञ्चनपुरमा धान उत्पादनमा वृद्धि हुने प्रक्षेपण",
+      "link": "https://www.ratopati.com/story/602358/paddy-production-projected-to-increase-in-kanchanpur",
+      "description": "कञ्चनपुर । कञ्चनपुरमा यस वर्ष धान उत्पादनमा वृद्धि वृद्धि हुने प्रक्षेपण गरिएको छ । कृषि ज्ञान केन्द्रका सूचना अधिकारी धर्मबहादुर साउँदले यस वर्ष कञ्चनपुरमा १ दशमलव १९ प्रतिशतले धान उत्पादनमा वृद्धि भएको जानकारी दिए । गत",
+      "published": "2026-10-30T23:54:39+00:00",
       "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/EpNo9okGcb.png",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/dhan_Zif4ys3f2f.webp",
       "related_sources": [
-        "Ratopati",
-        "Gorkhapatra Online",
-        "Kendrabindu"
+        "Ratopati"
       ],
-      "id": "737c07c36d5fae5e",
-      "source_count": 3,
-      "verified": true,
+      "id": "e0f6390c9c5b4b14",
+      "source_count": 1,
+      "verified": false,
       "local": false,
-      "score": 127.0,
-      "story_size": 3,
-      "image_local": "images/news_f006db1def2dae225597.png"
+      "score": 112.1,
+      "story_size": 1,
+      "image_local": "images/news_d7c5602d476093b78bc3.webp"
     },
     {
-      "title": "दुग्ध विकास संस्थानका तत्कालीन महाप्रबन्धकसहित आठजना पक्राउ",
-      "link": "https://www.thahakhabar.com/detail/311129",
-      "description": "",
-      "published": "2026-10-30T21:01:00+05:45",
-      "source": "Thaha Khabar",
+      "title": "सिँचाइ गर्न विद्युत् सेवा विस्तार",
+      "link": "https://www.ratopati.com/story/602357/expanding-electricity-service-for-irrigation",
+      "description": "सुनसरी । सुनसरीको देवानगञ्ज गाउँपालिकाले किसानलाई सिँचाइमा सहज पहुँच पुर्‍याउँदै कृषि उत्पादनको लागत घटाउने उद्देश्यले खेतखेतमा विद्युत् विस्तारको कामलाई अन्तिम चरणमा पुर्‍याएको छ । नेपाल विद्युत् प्राधिकरण र गाउँपालिकाको साझेदारीमा करिब रु ३० करोडको लगानीमा सञ्चालन",
+      "published": "2026-10-30T23:45:43+00:00",
+      "source": "Ratopati",
       "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/CIB-1793373362.jpg",
+      "image": "https://npcdn.ratopati.com/media/news/Op3Bh9j0gH.jpg",
       "related_sources": [
-        "Thaha Khabar",
-        "Gorkhapatra Online",
+        "Ratopati"
+      ],
+      "id": "462d5d84ae270c12",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.5,
+      "story_size": 1,
+      "image_local": "images/news_2054e66197cf36470fe4.jpg"
+    },
+    {
+      "title": "शनिबार यस्तो छ विदेशी मुद्राको विनिमयदर",
+      "link": "https://www.ratopati.com/story/602356/this-is-the-foreign-exchange-rate-on-saturday",
+      "description": "काठमाडौँ । नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमय दर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५१ रुपैयाँ ६३ पैसा र बिक्रीदर १५२ रुपैयाँ २३ पैसा निर्धारण गरिएको छ",
+      "published": "2026-10-30T23:45:00+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://rpcdn.ratopati.com/media/albums/forex_3HNlavACP4.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "6224d3cc4e7b6e4a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.4,
+      "story_size": 1,
+      "image_local": "images/news_172e31f280004e3751b5.jpg"
+    },
+    {
+      "title": "त्रिविलाई बक्यौता उठाउन सकस",
+      "link": "https://gorkhapatraonline.com/news/227752",
+      "description": "काठमाडौँ, कात्तिक १४ गते । त्रिभुवन विश्वविद्यालय (त्रिवि) ले विभिन्न संस्थालाई भाडामा दिएको जग्गा तथा संरचनाबाट सम्झौता अनुसार लिनुपर्ने रकम उठाउन कठिन भएको छ । आन्तरिक आम्दानी घट...",
+      "published": "2026-10-31T05:28:55+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/389639/conversions/registraroffice_2023_05_04_08_14_47-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "7334eb5bd9771ef6",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.4,
+      "story_size": 1,
+      "image_local": "images/news_23cc4ee09c2c3400c666.jpg"
+    },
+    {
+      "title": "शनिबारका लागि विदेशी मुद्राको विनिमयदर निर्धारण",
+      "link": "https://khabarhub.com/2026/31/1042375/",
+      "description": "काठमाडौँ– नेपाल राष्ट्र बैंकले आज (शनिबार)का लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५१ रुपैयाँ ६३ पैसा र बिक्रीदर १५२ रुपैयाँ २३ पैसा निर्धारण गरिएको छ । युरोपियन युरो एकको खरिददर १६९ रुपैयाँ ८६ पैसा र बिक्रीदर १७० रुपैयाँ ५४ पैसा, युके पाउन्ड स्ट्रलिङ एकको खरिददर २०३ [&#8230;]",
+      "published": "2026-10-31T00:08:10+00:00",
+      "source": "Khabarhub",
+      "category": "business",
+      "image": "",
+      "related_sources": [
         "Khabarhub"
       ],
-      "id": "f5f022c3160c8783",
-      "source_count": 3,
-      "verified": true,
+      "id": "07ad77b43609da4c",
+      "source_count": 1,
+      "verified": false,
       "local": false,
-      "score": 125.4,
-      "story_size": 3,
-      "image_local": "images/news_c24d92a6951bd2579f5d.jpg"
+      "score": 110.0,
+      "story_size": 1
+    },
+    {
+      "title": "निरन्तर वर्षाले खेतमा पाकेको धान ढलेपछि...",
+      "link": "https://www.ratopati.com/story/602355/after-the-continuous-rains-caused-the-ripe-rice-to-fall-in-the-fields",
+      "description": "भोजपुर । धान पाकेर भित्राउने समयमा मौसम प्रतिकूल बनेर निरन्तर वर्षा हुन थालेपछि जिल्लाका किसान चिन्तित बनेका छन् । खेतमा धान पाकेर पहेँलपुर भएको अवस्थामा वर्षा र असिनाको जोखिम बढेपछि किसानलाई समयमै बाली काटेर सुरक्षित",
+      "published": "2026-10-30T23:23:51+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/dhan-bhijeko_7DAUmTbyXz.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "95b019e57ae2e480",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.0,
+      "story_size": 1,
+      "image_local": "images/news_615e416774971f39cdc1.webp"
+    },
+    {
+      "title": "आज शनिबार, शनिदेवको पूजा गर्नुहोस्",
+      "link": "https://khabarhub.com/2026/31/1042373/",
+      "description": "काठमाडौँ– आज २०८३ साल कात्तिक १४ गते शनिबार सन् २०२६ अक्टोबर ३१ तारिख। कार्तिक कृष्ण पक्षको षष्ठी तिथि। विश्व सहरीकरण दिवस । आज शनिबार भएकाले शनिदेवलाई खुशी पारेर तपाईंले आफ्नो जीवनमा नयाँ ऊर्जा ल्याउन सक्नुहुन्छ। शनिदेवको व्रत बस्नुभन्दा पहिले शनिदेवसँग जोडिएका केही महत्वपूर्ण कुराबारे जानकारी लिनु आवश्यक हुन्छ। शनि देवलाई एक महत्त्वपूर्ण देवता भनिएको छ [&#8230;]",
+      "published": "2026-10-31T00:03:42+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "11686912ba3598c5",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.7,
+      "story_size": 1
+    },
+    {
+      "title": "शनिबार कुन राशिका लागि शुभ ? हेर्नुहोस् राशिफल",
+      "link": "https://www.ratopati.com/story/602352/which-zodiac-sign-is-auspicious-on-saturday-see-horoscope",
+      "description": "आजको पञ्चाङ्ग वि.सं.२०८३ साल कार्तिक १४ गते । शनिबार । इस्वी सन् २०२६ अक्टोबर ३१ तारिख । नेपाल संवत् ११४६ । रौद्र संवत्सर । दक्षिणायन । शरद ऋतु । श्रीशाके १९४८ । कार्तिक कृष्णपक्ष । तिथि–षष्ठी,",
+      "published": "2026-10-30T23:15:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/horoscope_yWVgb1BJAO.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "054e090e54bf5d1a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.4,
+      "story_size": 1,
+      "image_local": "images/news_2650b0a7cbeed83b26dd.jpg"
     },
     {
       "title": "नेपालका आठ हजार मिटरमाथिका हिमाललाई अन्तर्राष्ट्रिय मान्यता दिलाउन पहल",
@@ -156,8 +264,102 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 123.2,
+      "score": 109.3,
       "story_size": 2
+    },
+    {
+      "title": "आज २०८३ साल कात्तिक १४ गते शनिबारको राशिफल",
+      "link": "https://khabarhub.com/2026/31/1042352/",
+      "description": "काठमाडौँ – २०८३ साल कात्तिक १४ गते शनिबार सन् २०२६ अक्टोबर ३१ तारिख। कार्तिक कृष्ण पक्षको षष्ठी तिथि। विश्व सहरीकरण दिवस । नक्षत्र अनुसार १२ वटा राशि हुन्छन्। चन्द्रमा अनुसार राशि र नक्षत्रका पद अनुसार नाम राखिन्छ। त्यही आधारमा व्यक्तिको दैनिकीको विषयमा भविष्यवाणी हुन्छ। खबरहबका लागि ज्योतिष पण्डित सूर्यनाथ लुइटेलले तयार पार्नुभएको आजको फलादेशः मेष [&#8230;]",
+      "published": "2026-10-30T23:48:38+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "47590a4df5f1e587",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.7,
+      "story_size": 1
+    },
+    {
+      "title": "धनकुटामा मौरीपालनतर्फ बढ्दो आकर्षण: कम मिहिनेतमै लाखौँ आम्दानी",
+      "link": "https://www.ratopati.com/story/602354/growing-attraction-towards-beekeeping-in-dhankuta-earn-lakhs-of-rupees-with-little-effort",
+      "description": "धनकुटा । कुनै समय खेतीपातीका लागि उपयोग हुन नसकेर त्यत्तिकै छाडिएका जङ्गलका बिचका चट्टानी भूभाग अहिले धनकुटाका केही किसानका लागि आम्दानीको नयाँ आधार बनेका छन् । जहाँ अन्नबाली उत्पादनको सम्भावना कम छ, त्यहीँ अहिले मौरीका",
+      "published": "2026-10-30T22:58:56+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://npcdn.ratopati.com/media/news/0ZaXDiLzGY.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "8ea2b50b37ea0e7d",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.4,
+      "story_size": 1,
+      "image_local": "images/news_ffe5473dfa9fd94ec60a.jpg"
+    },
+    {
+      "title": "आवासीय विद्यालय सञ्चालन गर्न महायज्ञ आयोजना",
+      "link": "https://www.ratopati.com/story/602353/mahayagya-organized-to-run-residential-schools",
+      "description": "म्याग्दी । जिल्लाको मंगला गाउँपालिका–१ कुहुँमा रहेको दिपशिखा माध्यमिक विद्यालयलाई आवासीयमा रूपान्तरण गर्ने उद्देश्यले आर्थिक स्रोत जुटाउन महायज्ञ आयोजना गरिएको छ । यही कात्तिक २६ देखि आगामी मङ्सिर ३ गतेसम्म कुहुँस्थित विद्यालय परिसरमा सञ्चालन हुने ‘म्याग्दी",
+      "published": "2026-10-30T22:54:32+00:00",
+      "source": "Ratopati",
+      "category": "society",
+      "image": "https://rpcdn.ratopati.com/media/albums/myagdi_Yxx1IewRfU.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "4b3432453c8c83f0",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.1,
+      "story_size": 1,
+      "image_local": "images/news_dbce385863c9420be26d.jpg"
+    },
+    {
+      "title": "‘अब नारायणीमा मोटरबोट सञ्चालनको शैली बदल्नुपर्छ ’",
+      "link": "https://www.ratopati.com/story/602351/now-the-style-of-motorboat-operation-in-narayani-must-change",
+      "description": "चितवन । नारायणी नदीमा मोटरबोट चढ्ने पर्यटकको आकर्षण घट्दै गएपछि व्यवसायीले सञ्चालनको परम्परागत शैली परिवर्तन गरी नयाँपन दिनुपर्ने आवश्यकता औँल्याएका छन् । नारायणी नदीमा विगतका वर्षमा मोटरबोट चढ्न पर्यटकको भीड लाग्ने गरे पनि पछिल्लो समय आकर्षण",
+      "published": "2026-10-30T22:42:02+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://rpcdn.ratopati.com/media/albums/narayani-river_3_GsAL72WrTp.JPG",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "50b3bc5e4b2bd686",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 107.2,
+      "story_size": 1,
+      "image_local": "images/news_3f54cad11f940b0274a3.jpg"
+    },
+    {
+      "title": "फूल आयतमा रोक लगाएपछि व्यावसायिक फूलखेतीमा किसानको आकर्षण बढ्दै",
+      "link": "https://www.ratopati.com/story/602350/farmers-attraction-to-commercial-floriculture-increases-after-ban-on-flower-imports",
+      "description": "बाँके । भारतीय फूल आयतमा रोक लगाएसँगै बाँकेमा व्यावसायिक फूलखेतीमा किसानको आकर्षण बढ्दै गएको छ । नेपालगन्ज, कोहलपुर, खजुरा र जानकी गाउँपालिकामा किसानले यो वर्ष व्यावसायिक फूल खेती गरेको फ्लोरी कल्चर एसोसिएसन नेपालकी केन्द्रीय सदस्य तथा",
+      "published": "2026-10-30T22:35:53+00:00",
+      "source": "Ratopati",
+      "category": "tech",
+      "image": "https://npcdn.ratopati.com/media/news/03-sayapatri-marigold-flower-tanahu_npl_binoddhungana-13_3KrZHHBHCD.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "04f3c90ec56c3215",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 106.8,
+      "story_size": 1,
+      "image_local": "images/news_4bb6da284e9b1f42d835.webp"
     },
     {
       "title": "आठ हजार मिटरमाथिका नेपालका थप ६ वटा हिमाललाई अन्ताराष्ट्रिय मान्यता दिलाउन पहल",
@@ -175,9 +377,49 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 120.1,
+      "score": 106.2,
       "story_size": 2,
       "image_local": "images/news_3d83a3f8f5cc1f947a08.jpg"
+    },
+    {
+      "title": "दुग्ध विकास संस्थानका तत्कालीन महाप्रबन्धकसहित आठजना पक्राउ",
+      "link": "https://www.thahakhabar.com/detail/311129",
+      "description": "",
+      "published": "2026-10-30T21:01:00+05:45",
+      "source": "Thaha Khabar",
+      "category": "nepal",
+      "image": "https://www.thahakhabar.com/uploads/posts/CIB-1793373362.jpg",
+      "related_sources": [
+        "Thaha Khabar",
+        "Gorkhapatra Online"
+      ],
+      "id": "f5f022c3160c8783",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 101.5,
+      "story_size": 2,
+      "image_local": "images/news_c24d92a6951bd2579f5d.jpg"
+    },
+    {
+      "title": "बाढीमा यात्रुबाहक बस फस्यो, ३० यात्रुको सकुशल उद्धार",
+      "link": "https://gorkhapatraonline.com/news/227749",
+      "description": "धनकुटा, कात्तिक १३ गते । ताप्लेजुङबाट काठमाडौँका लागि छुटेको यात्रुबाहक बस शुक्रबार अपराह्न तमोर करिडोरअन्तर्गत पाँचथर र धनकुटाको सीमावर्ती क्षेत्र नावा खोलामा फसेको छ ।निरन्तरको व...",
+      "published": "2026-10-30T20:48:23+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "society",
+      "image": "https://gorkhapatraonline.com/storage/media/389634/conversions/bus-55-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online",
+        "Kendrabindu"
+      ],
+      "id": "d4b1189b2a6c4b3d",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 100.7,
+      "story_size": 2,
+      "image_local": "images/news_aa78e0d8b56217218fe6.jpg"
     },
     {
       "title": "सामाजिक समस्यासँग जुधिरहेकी पार्वतीले नागरिकता पाएपछि ...",
@@ -194,28 +436,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.3,
+      "score": 97.4,
       "story_size": 1,
       "image_local": "images/news_968e2f5456e5cf33b994.webp"
-    },
-    {
-      "title": "पक्राउ परेका सबै पत्रकार रिहा",
-      "link": "https://khabarhub.com/2026/30/1042342/",
-      "description": "काठमाडौं – समाचार कक्षबाट पक्राउ परेका सबै पत्रकार रिहा भएका छन्। सञ्चारमन्त्री विक्रम तिमल्सिनाले शुक्रबार राति सामाजिक सञ्जालमार्फत पक्राउ परेका सबै पत्रकार रिहा भइसकेको जानकारी दिएका हुन् । उनले सरकार प्रेस स्वतन्त्रताप्रति पूर्ण प्रतिबद्ध रहेको उल्लेख गर्दै प्रेस स्वतन्त्रता र जिम्मेवार पत्रकारिता लोकतन्त्रका आधारस्तम्भ भएको बताएका छन् । शुक्रबार प्रहरीले पत्रकार विश्वमणि सुवेदी, मोटिभेट न्युजका [&#8230;]",
-      "published": "2026-10-30T14:59:20+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
-        "Thaha Khabar"
-      ],
-      "id": "d4968f4356250421",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 111.3,
-      "story_size": 2
     },
     {
       "title": "नेपालगन्ज रङ्गशालामा पूर्वाधार भएपनि संरक्षणको अभाव",
@@ -232,7 +455,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.3,
+      "score": 94.4,
       "story_size": 1,
       "image_local": "images/news_f1294488164050056e9d.jpg"
     },
@@ -251,7 +474,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.7,
+      "score": 92.9,
       "story_size": 1,
       "image_local": "images/news_8aceecd1910b59ebb890.jpg"
     },
@@ -270,7 +493,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.6,
+      "score": 90.7,
       "story_size": 1,
       "image_local": "images/news_587db2aa81b2cde9009f.png"
     },
@@ -289,7 +512,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.9,
+      "score": 90.0,
       "story_size": 1,
       "image_local": "images/news_b5b6a7f49cf5b5678262.jpg"
     },
@@ -308,7 +531,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.3,
+      "score": 89.5,
       "story_size": 1,
       "image_local": "images/news_867fb0fde9265eab8dd4.webp"
     },
@@ -327,7 +550,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.7,
+      "score": 86.8,
       "story_size": 1,
       "image_local": "images/news_c90dd302513c712599f5.jpg"
     },
@@ -346,7 +569,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.5,
+      "score": 85.6,
       "story_size": 1,
       "image_local": "images/news_08dc2771c47316f6a43d.jpg"
     },
@@ -365,7 +588,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.4,
+      "score": 85.5,
       "story_size": 1,
       "image_local": "images/news_6c49ac22ac556085c193.webp"
     },
@@ -384,7 +607,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.7,
+      "score": 84.9,
       "story_size": 1
     },
     {
@@ -402,7 +625,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.2,
+      "score": 84.3,
       "story_size": 1,
       "image_local": "images/news_0b582a4ea4493f65b049.jpg"
     },
@@ -421,7 +644,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.0,
+      "score": 84.2,
       "story_size": 1
     },
     {
@@ -439,7 +662,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.9,
+      "score": 84.0,
       "story_size": 1,
       "image_local": "images/news_f6fc89565d23c3fbae30.webp"
     },
@@ -458,7 +681,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.6,
+      "score": 83.7,
       "story_size": 1,
       "image_local": "images/news_3ecf365449bb7c2b80cd.jpg"
     },
@@ -477,7 +700,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.2,
+      "score": 83.3,
       "story_size": 1,
       "image_local": "images/news_55038defed140eacaf59.webp"
     },
@@ -496,7 +719,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.9,
+      "score": 83.0,
       "story_size": 1,
       "image_local": "images/news_ffd0520c0880b3530688.jpg"
     },
@@ -515,7 +738,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.6,
+      "score": 82.8,
       "story_size": 1,
       "image_local": "images/news_940a358328a653721d9c.jpg"
     },
@@ -534,7 +757,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.5,
+      "score": 82.6,
       "story_size": 1,
       "image_local": "images/news_01dd539149a7e5e6e661.jpg"
     },
@@ -553,7 +776,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.4,
+      "score": 82.5,
       "story_size": 1,
       "image_local": "images/news_1d834e6d2b74f552c75e.jpg"
     },
@@ -572,7 +795,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.2,
+      "score": 82.4,
       "story_size": 1,
       "image_local": "images/news_8e2c27447272eaabac3d.png"
     },
@@ -591,7 +814,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.2,
+      "score": 82.3,
       "story_size": 1,
       "image_local": "images/news_1e5b7c8c99622462f82d.jpg"
     },
@@ -610,7 +833,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.1,
+      "score": 82.2,
       "story_size": 1,
       "image_local": "images/news_b69e5fe8faf1e709d113.jpg"
     },
@@ -629,27 +852,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.0,
+      "score": 82.2,
       "story_size": 1,
       "image_local": "images/news_b521cf9af9a5809772c4.webp"
-    },
-    {
-      "title": "कान्ति राजमार्गमा दुई दिन रात्रिकालीन सवारी आवागमन बन्द",
-      "link": "https://kendrabindu.com/news/567661/",
-      "description": "हेटौँडा । अविरल वर्षाका कारण बाढीपहिरोको जोखिम बढेपछि मकवानपुर हुँदै काठमाडौँ जोड्ने कान्ति राजमार्गमा दुई दिन रात्रिकालीन सवारी आवागमन बन्द गरिएको छ । जिल्ला प्रशासन कार्यालय मकवानपुरले आज र भोलि (कात्तिक १३ र १४ गते) बेलुकी ५ः०० बजेदेखि बिहान ५ः०० बजेसम्म कान्ति राजमार्गमा सवारी आवागमनमा रोक लगाएको सहायक प्रमुख जिल्ला अधिकारी शेषकान्त पौडेलले जानकारी दिए [&#8230;]",
-      "published": "2026-10-30T12:38:48+00:00",
-      "source": "Kendrabindu",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Kendrabindu"
-      ],
-      "id": "55ce2e13f5cb57fe",
-      "source_count": 1,
-      "verified": false,
-      "local": true,
-      "score": 95.9,
-      "story_size": 1
     },
     {
       "title": "पत्रकार पक्राउ गर्न समाचार कक्षमै प्रहरी, महासङ्घले दियो आन्दोलनको चेतावनी",
@@ -666,85 +871,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.8,
+      "score": 82.0,
       "story_size": 1,
       "image_local": "images/news_3d3c1ea61bc540b4b17b.webp"
     },
     {
-      "title": "कोरला क्षेत्रमा पाँच सय कन्टेनर थन्किए",
-      "link": "https://www.ratopati.com/story/602328/five-hundred-containers-stranded-in-korla-area",
-      "description": "मुस्ताङ । प्रतिकूल मौसमका कारण नेपाल–चीन सीमाको कोरला नाका क्षेत्रमा ५०० बढी कन्टेनर भन्सार जाँचपास तथा मालसामान ढुवानीका लागि थन्किएका छन् । ती कन्टेनर दसैँपछि बेनी–जोमसोम–कोरला सडकमार्ग हुँदै चिनियाँ मालवस्तु ढुवानी गर्न कोरला नाका क्षेत्र",
-      "published": "2026-10-30T16:18:55+00:00",
-      "source": "Ratopati",
+      "title": "कान्ति राजमार्गमा दुई दिन रात्रिकालीन सवारी आवागमन बन्द",
+      "link": "https://kendrabindu.com/news/567661/",
+      "description": "हेटौँडा । अविरल वर्षाका कारण बाढीपहिरोको जोखिम बढेपछि मकवानपुर हुँदै काठमाडौँ जोड्ने कान्ति राजमार्गमा दुई दिन रात्रिकालीन सवारी आवागमन बन्द गरिएको छ । जिल्ला प्रशासन कार्यालय मकवानपुरले आज र भोलि (कात्तिक १३ र १४ गते) बेलुकी ५ः०० बजेदेखि बिहान ५ः०० बजेसम्म कान्ति राजमार्गमा सवारी आवागमनमा रोक लगाएको सहायक प्रमुख जिल्ला अधिकारी शेषकान्त पौडेलले जानकारी दिए [&#8230;]",
+      "published": "2026-10-30T12:38:48+00:00",
+      "source": "Kendrabindu",
       "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/korala-naka_xOiUMnY25u.jpg",
+      "image": "",
       "related_sources": [
-        "Ratopati"
+        "Kendrabindu"
       ],
-      "id": "9bfe510a609c89cc",
+      "id": "55ce2e13f5cb57fe",
       "source_count": 1,
       "verified": false,
-      "local": false,
-      "score": 95.6,
-      "story_size": 1,
-      "image_local": "images/news_6ffc640a5156150d65ae.jpg"
-    },
-    {
-      "title": "१० बजे १० समाचार : प्रेस स्वतन्त्रतामाथि सरकारी हस्तक्षेप, ‘नयाँ–पुराना’ भाष्यले द्वन्द्वकाे खतरा",
-      "link": "https://www.ratopati.com/story/602327/10-news-at-10-government-interference-in-press-freedom-new-old-commentary-risks-conflict",
-      "description": "काठमाडौँ । आज २०८३ साल कात्तिक १३ गते शुक्रबार । आज दिनभरका मुख्य १० घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति ‘१० बजे १० समाचार’मा प्रस्तुत गरेका छौँ– प्रेस स्वतन्त्रतामाथि सरकारी हस्तक्षेप समाचार कक्षबाट पक्राउ परेका सबै पत्रकार रिहा",
-      "published": "2026-10-30T16:14:27+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/bbb_fUPrj0ALGn.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "980c015999129ddb",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 95.3,
-      "story_size": 1,
-      "image_local": "images/news_9199fb37a2c4d3be1816.webp"
-    },
-    {
-      "title": "राज्यका गतिविधिले ‘सत्ता कब्जा’ को सङ्केत देखियो : रवीन्द्र मिश्र",
-      "link": "https://www.ratopati.com/story/602326/state-activities-show-signs-of-power-grab-rabindra-mishra",
-      "description": "काठमाडौँ । राप्रपाका पूर्वउपाध्यक्ष रवीन्द्र मिश्रले हालै देशमा घटेका विभिन्न घटनाक्रमप्रति गम्भीर असन्तुष्टि व्यक्त गर्दै राज्यका गतिविधिले ‘सत्ता कब्जा’ को सङ्केत देखाएको बताएका छन्। शुक्रबार केही पत्रकार पक्राउ परेर रिहा भए लगत्तै सामाजिक सञ्जाल फेसबुकमा",
-      "published": "2026-10-30T16:13:04+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/rabindra-mishra_AkBka2yYSm.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "ba13e866d64e58ad",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 95.2,
-      "story_size": 1,
-      "image_local": "images/news_72e80fbc37ed8e41235f.jpg"
-    },
-    {
-      "title": "लक्षण नदेखिँदै ठुलो आन्द्राको क्यान्सर पत्ता लगाउन सकिन्छ ? कोलोनोस्कोपीबारे जान्नैपर्ने कुरा",
-      "link": "https://www.ratopati.com/story/602325/can-colon-cancer-be-detected-without-symptoms-what-you-need-to-know-about-colonoscopy",
-      "description": "काठमाडौँ। हामीमध्ये धेरैलाई पेट दुख्ने, ग्यास्ट्रिक हुने, कब्जियत हुने वा दिसामा रगत देखिने समस्या सामान्य लाग्छ। विशेष गरी दिसामा रगत देखिएमा धेरैले यसलाई पाइल्स (अर्श) को समस्या ठानेर आफैँ औषधि खाने वा लामो समयसम्म उपचार",
-      "published": "2026-10-30T16:11:25+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/yukt-narayan-regmi_KvT7YnjuRc.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "0a7f1250f93620c8",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 95.1,
-      "story_size": 1,
-      "image_local": "images/news_a3c17c5548c2c7d182b6.webp"
+      "local": true,
+      "score": 82.0,
+      "story_size": 1
     },
     {
       "title": "काठमाडौँमा अतिक्रमित ३०२ रोपनी जग्गा सरकारको नाममा फिर्ता",
@@ -761,47 +908,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.4,
+      "score": 80.5,
       "story_size": 1,
       "image_local": "images/news_57bb72632219aadc4b5e.jpg"
-    },
-    {
-      "title": "वनमा लुकाइएको भरुवा बन्दुक बरामद",
-      "link": "https://www.ratopati.com/story/602324/a-loaded-gun-hidden-in-the-forest-was-recovered",
-      "description": "कपिलवस्तु । कपिलवस्तुको वाणगङ्गा नगरपालिका–९ स्थित सामुदायिक वनबाट प्रहरीले चार नाल भरुवा बन्दुक बरामद गरेको छ । वाणगङ्गा नगरपालिका–९ भर्लावासस्थित खुतखुते सामुदायिक वनको लहरे उकालीमा लुकाइछिपाइ राखिएको अवस्थामा प्रहरीले बन्दुक बरामद गरेको हो । जिल्ला प्रहरी",
-      "published": "2026-10-30T15:58:37+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://rpcdn.ratopati.com/media/albums/kapilbastu_hpUAuzFK1J.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "54c30345030f9c6f",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 94.2,
-      "story_size": 1,
-      "image_local": "images/news_e3ed6644423582fb1289.jpg"
-    },
-    {
-      "title": "नावा खोलामा पानीको बहाव बढेपछि तमोर कोरिडोर अवरुद्ध",
-      "link": "https://www.ratopati.com/story/602323/tamor-corridor-blocked-after-water-flow-increases-in-nawa-river",
-      "description": "पाँचथर । निरन्तरको वर्षापछि पाँचथरको नावा खोलामा पानीको बहाव बढेसँगै तमोर कोरिडोरअन्तर्गतको सडक अवरुद्ध भएको छ । सडकमाथि पुल निर्माण हुन बाँकी रहेकामा यसअघि खोलाबाट सवारीसाधन पार गरिन्थ्यो । निरन्तरको वर्षाका कारण खोलामा पानीको बहाव",
-      "published": "2026-10-30T15:47:37+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/pachtaar-_9tzrt0gkje_qgva0pbajj_XJ2GAoeG33.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "d6e416de4fbaeb72",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 93.5,
-      "story_size": 1,
-      "image_local": "images/news_c9e3976c8f8f442eb19f.webp"
     },
     {
       "title": "जिप १५० मिटरमुनि खस्यो, ३ जनाको मृत्यु",
@@ -818,7 +927,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.3,
+      "score": 79.4,
       "story_size": 1
     },
     {
@@ -836,27 +945,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.9,
+      "score": 79.0,
       "story_size": 1
-    },
-    {
-      "title": "प्रेस स्वतन्त्रतामाथिको दमन लोकतन्त्रमाथिकै प्रहार : कुलमान घिसिङ",
-      "link": "https://www.ratopati.com/story/602321/suppression-of-press-freedom-is-an-attack-on-democracy-kulman-ghising",
-      "description": "काठमाडौँ। उज्यालो नेपाल पार्टीका अध्यक्ष कुलमान घिसिङले समाचार लेखेकै आधारमा सञ्चारमाध्यम र पत्रकारमाथि गरिएको धरपकड, हस्तक्षेप तथा दमनको निन्दा गरेका छन्। उनले प्रेस स्वतन्त्रतामाथिको हस्तक्षेप लोकतान्त्रिक मूल्य–मान्यता विपरीत भएको उल्लेख गर्दै यस्ता गतिविधि तत्काल रोक्न सरकारसँग",
-      "published": "2026-10-30T15:39:10+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/kulman-ghising_QWI4T13B4X.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "135cea37563dc992",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 92.9,
-      "story_size": 1,
-      "image_local": "images/news_df27dd28d67bae6eeea7.webp"
     },
     {
       "title": "दुग्ध विकास संस्थानका पूर्वमहाप्रबन्धकसहित आठ जना पक्राउ",
@@ -873,27 +963,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.8,
+      "score": 78.9,
       "story_size": 1
-    },
-    {
-      "title": "गण्डकीका सदस्य सचिवले मनपरी पदक बाँडे, सरकारले कारबाही गर्न लागेपछि अदालत पुगे",
-      "link": "https://www.ratopati.com/story/602320/gandaki-member-secretary-distributes-medals-arbitrarily-reaches-court-after-government-takes-action",
-      "description": "पोखरा। गण्डकी प्रदेश खेलकुद परिषद्ले वितरण गरेको प्रदेश खेलकुद पदक विवाद अदालतमा पुगेको छ । सरकारले सदस्य सचिव सहित संलग्नलाई स्पष्टीकरण सोधेपछि सम्भावित कारबाही रोक्न परिषद्का सदस्य सचिव श्रीधर शर्मा अदालत पुगेका हुन् । उनले दायर",
-      "published": "2026-10-30T15:35:17+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/ad_SvUPeMc1Av.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "9dc1fbec0934a795",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 92.7,
-      "story_size": 1,
-      "image_local": "images/news_1b3ca2609f70130041a7.webp"
     },
     {
       "title": "कन्टेन्ट क्रियटरमार्फत पर्यटन प्रवर्द्धन गर्दै पर्टन बोर्ड",
@@ -910,7 +981,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.4,
+      "score": 78.5,
       "story_size": 1,
       "image_local": "images/news_0d2848d3c8fb5a28a3d1.jpg"
     },
@@ -929,7 +1000,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.1,
+      "score": 78.2,
       "story_size": 1
     },
     {
@@ -947,7 +1018,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.8,
+      "score": 77.9,
       "story_size": 1
     },
     {
@@ -965,7 +1036,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.7,
+      "score": 77.8,
       "story_size": 1
     },
     {
@@ -983,7 +1054,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.7,
+      "score": 77.8,
+      "story_size": 1
+    },
+    {
+      "title": "कानुनविपरीत पत्रकार पक्राउ र ‘ह्यारेसमेन्ट’ बन्द गर : गगन थापा",
+      "link": "https://www.onlinekhabar.com/2026/10/2047643/arrest-journalists-illegally-and-stop-harassment-gagan-thapa",
+      "description": "नेपाली कांग्रेसका सभापति गगनकुमार थापाले विभिन्न सञ्चारगृहमा प्रहरी प्रवेश गरी पत्रकारहरूलाई नियन्त्रणमा लिने अनि जनदबाबपछि मात्र रिहाइ गर्ने प्रवृत्तिप्रति नेपाली कांग्रेसको गम्भीर ध्यानाकर्षण भएको बताएका छन्।",
+      "published": "2026-10-30T16:03:15+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "6b38be6164f481c3",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 77.7,
       "story_size": 1
     },
     {
@@ -1001,27 +1090,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.6,
+      "score": 77.7,
       "story_size": 1,
       "image_local": "images/news_8da349bdc08869cb7b6a.jpg"
-    },
-    {
-      "title": "कानुनविपरीत पत्रकार पक्राउ र ‘ह्यारेसमेन्ट’ बन्द गर : गगन थापा",
-      "link": "https://www.onlinekhabar.com/2026/10/2047643/arrest-journalists-illegally-and-stop-harassment-gagan-thapa",
-      "description": "नेपाली कांग्रेसका सभापति गगनकुमार थापाले विभिन्न सञ्चारगृहमा प्रहरी प्रवेश गरी पत्रकारहरूलाई नियन्त्रणमा लिने अनि जनदबाबपछि मात्र रिहाइ गर्ने प्रवृत्तिप्रति नेपाली कांग्रेसको गम्भीर ध्यानाकर्षण भएको बताएका छन्।",
-      "published": "2026-10-30T16:03:15+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "6b38be6164f481c3",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 91.5,
-      "story_size": 1
     },
     {
       "title": "प्रधानमन्त्री/गृहमन्त्रीसँग जिम्मेवारी लिन, आइजिपीमाथि छानबिन गर्न जेनजी फ्रन्टको माग",
@@ -1038,7 +1109,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.5,
+      "score": 77.6,
       "story_size": 1
     },
     {
@@ -1056,7 +1127,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.4,
+      "score": 77.6,
       "story_size": 1
     },
     {
@@ -1074,7 +1145,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.4,
+      "score": 77.5,
       "story_size": 1
     },
     {
@@ -1092,7 +1163,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.4,
+      "score": 77.5,
       "story_size": 1
     },
     {
@@ -1110,7 +1181,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.3,
+      "score": 77.4,
       "story_size": 1
     },
     {
@@ -1128,7 +1199,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.3,
+      "score": 77.4,
       "story_size": 1
     },
     {
@@ -1146,7 +1217,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.3,
+      "score": 77.4,
       "story_size": 1
     },
     {
@@ -1164,7 +1235,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.3,
+      "score": 77.4,
       "story_size": 1
     },
     {
@@ -1182,7 +1253,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.2,
+      "score": 77.3,
       "story_size": 1
     },
     {
@@ -1200,7 +1271,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.2,
+      "score": 77.3,
       "story_size": 1
     },
     {
@@ -1218,7 +1289,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.2,
+      "score": 77.3,
       "story_size": 1
     },
     {
@@ -1236,7 +1307,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.1,
+      "score": 77.2,
       "story_size": 1
     },
     {
@@ -1254,7 +1325,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.0,
+      "score": 77.1,
       "story_size": 1
     },
     {
@@ -1272,7 +1343,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.0,
+      "score": 77.1,
       "story_size": 1
     },
     {
@@ -1290,7 +1361,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.0,
+      "score": 77.1,
       "story_size": 1
     },
     {
@@ -1308,7 +1379,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.9,
+      "score": 77.0,
       "story_size": 1
     },
     {
@@ -1326,7 +1397,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.8,
+      "score": 76.9,
       "story_size": 1
     },
     {
@@ -1344,7 +1415,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.7,
+      "score": 76.8,
       "story_size": 1
     },
     {
@@ -1362,7 +1433,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.3,
+      "score": 76.4,
       "story_size": 1
     },
     {
@@ -1380,27 +1451,28 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.8,
+      "score": 75.9,
       "story_size": 1,
       "image_local": "images/news_4e2239e6f4e44bc9ddcd.jpg"
     },
     {
-      "title": "पत्रकार पक्राउ र सञ्चारमाध्यममा धरपकडप्रति युनियनको भर्त्सना",
-      "link": "https://www.onlinekhabar.com/2026/10/2047659/union-condemns-arrest-of-journalists-and-crackdown-on-media-outlets",
-      "description": "नेपाल प्रेस युनियनले समाचार प्रकाशन तथा प्रसारणकै विषयलाई लिएर पत्रकार पक्राउ गरिएको र सञ्चारगृहमा प्रहरी प्रवेश गरी धरपकडको प्रयास गरिएको घटनाको भर्त्सना गरेको छ।",
-      "published": "2026-10-30T15:29:58+00:00",
-      "source": "OnlineKhabar",
+      "title": "पक्राउ परेका सबै पत्रकार रिहा",
+      "link": "https://www.thahakhabar.com/detail/311128",
+      "description": "",
+      "published": "2026-10-30T20:36:00+05:45",
+      "source": "Thaha Khabar",
       "category": "nepal",
-      "image": "",
+      "image": "https://www.thahakhabar.com/uploads/posts/Vikram-Timilsena-1793371855.jpg",
       "related_sources": [
-        "OnlineKhabar"
+        "Thaha Khabar"
       ],
-      "id": "032adbe90d6ee32f",
+      "id": "796a973a24460a8c",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.3,
-      "story_size": 1
+      "score": 75.8,
+      "story_size": 1,
+      "image_local": "images/news_6545d4b0fb8d3a8e24ef.jpg"
     },
     {
       "title": "तीन जना कर्मचारीको बिदाइ",
@@ -1417,9 +1489,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.3,
+      "score": 75.5,
       "story_size": 1,
       "image_local": "images/news_83f2e2e91fff4a1e178c.jpg"
+    },
+    {
+      "title": "पत्रकार पक्राउ र सञ्चारमाध्यममा धरपकडप्रति युनियनको भर्त्सना",
+      "link": "https://www.onlinekhabar.com/2026/10/2047659/union-condemns-arrest-of-journalists-and-crackdown-on-media-outlets",
+      "description": "नेपाल प्रेस युनियनले समाचार प्रकाशन तथा प्रसारणकै विषयलाई लिएर पत्रकार पक्राउ गरिएको र सञ्चारगृहमा प्रहरी प्रवेश गरी धरपकडको प्रयास गरिएको घटनाको भर्त्सना गरेको छ।",
+      "published": "2026-10-30T15:29:58+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "032adbe90d6ee32f",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 75.4,
+      "story_size": 1
     },
     {
       "title": "मिडियाका मुख थुन्ने गतिविधि सह्य छैनन् : क्रान्तिशिखा धिताल",
@@ -1436,7 +1526,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.2,
+      "score": 75.3,
       "story_size": 1
     },
     {
@@ -1454,7 +1544,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.9,
+      "score": 75.1,
       "story_size": 1
     },
     {
@@ -1472,26 +1562,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.2,
-      "story_size": 1,
-      "image_local": "images/news_4de2e5fdd72b488b428f.jpg"
-    },
-    {
-      "title": "सिँचाइ र नदी नियन्त्रणमा गति : मनसुनअघि ८० भन्दा बढी आपतकालीन ठेक्का",
-      "link": "https://khabarhub.com/2026/30/1042347/",
-      "description": "काठमाडौं – ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्रालयअन्तर्गतको जलस्रोत तथा सिँचाइ विभागले चालु आर्थिक वर्ष २०८३/८४ को सुरुवाती महिनामै सिँचाइ विस्तार, नदी नियन्त्रण र जल उत्पन्न विपद् व्यवस्थापनका काममा उल्लेखनीय गति लिएको छ । विभागको प्रगति विवरणअनुसार भदौ मसान्तसम्म राष्ट्रिय गौरवका आयोजना, सिँचाइ तथा जलस्रोत व्यवस्थापन आयोजना, सिँचाइ व्यवस्थापन कार्यालय र भूमिगत जल सिँचाइ आयोजनाहरूबाट गरी [&#8230;]",
-      "published": "2026-10-30T15:08:36+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "ee8cc43bfff60ce0",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 87.9,
+      "score": 74.3,
       "story_size": 1
     },
     {
@@ -1509,9 +1580,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.2,
-      "story_size": 1,
-      "image_local": "images/news_7db4c305db3be1ab105c.jpg"
+      "score": 73.4,
+      "story_size": 1
     },
     {
       "title": "उद्धार गरिएका बालबालिका अभिभावकको जिम्मामा",
@@ -1528,7 +1598,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.6,
+      "score": 72.7,
       "story_size": 1
     },
     {
@@ -1546,7 +1616,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.4,
+      "score": 71.6,
       "story_size": 1
     },
     {
@@ -1564,7 +1634,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.3,
+      "score": 70.4,
       "story_size": 1
     },
     {
@@ -1582,7 +1652,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.9,
+      "score": 70.1,
       "story_size": 1
     },
     {
@@ -1600,7 +1670,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.8,
+      "score": 69.9,
       "story_size": 1
     },
     {
@@ -1618,7 +1688,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.4,
+      "score": 69.6,
       "story_size": 1
     },
     {
@@ -1636,7 +1706,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.4,
+      "score": 69.5,
       "story_size": 1
     },
     {
@@ -1654,7 +1724,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.1,
+      "score": 69.2,
       "story_size": 1
     },
     {
@@ -1672,7 +1742,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.8,
+      "score": 68.9,
       "story_size": 1
     },
     {
@@ -1690,7 +1760,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.3,
+      "score": 68.5,
       "story_size": 1
     },
     {
@@ -1708,7 +1778,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.1,
+      "score": 68.2,
       "story_size": 1
     },
     {
@@ -1726,7 +1796,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.8,
+      "score": 67.9,
       "story_size": 1
     },
     {
@@ -1744,7 +1814,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.7,
+      "score": 67.8,
       "story_size": 1
     },
     {
@@ -1762,7 +1832,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.7,
+      "score": 67.8,
       "story_size": 1
     },
     {
@@ -1780,7 +1850,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.5,
+      "score": 67.6,
       "story_size": 1
     },
     {
@@ -1798,7 +1868,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.4,
+      "score": 67.6,
       "story_size": 1
     },
     {
@@ -1816,7 +1886,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.3,
+      "score": 67.5,
       "story_size": 1
     },
     {
@@ -1834,7 +1904,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.3,
+      "score": 67.4,
       "story_size": 1
     },
     {
@@ -1852,7 +1922,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.1,
+      "score": 67.3,
       "story_size": 1
     },
     {
@@ -1870,7 +1940,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.8,
+      "score": 67.0,
       "story_size": 1
     },
     {
@@ -1888,7 +1958,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.8,
+      "score": 66.9,
       "story_size": 1
     },
     {
@@ -1906,7 +1976,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.4,
+      "score": 66.5,
       "story_size": 1
     },
     {
@@ -1924,7 +1994,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.2,
+      "score": 66.3,
       "story_size": 1
     },
     {
@@ -1942,7 +2012,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.1,
+      "score": 66.3,
       "story_size": 1
     },
     {
@@ -1960,7 +2030,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.8,
+      "score": 65.9,
       "story_size": 1
     },
     {
@@ -1978,7 +2048,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.5,
+      "score": 65.6,
       "story_size": 1
     },
     {
@@ -1996,7 +2066,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.4,
+      "score": 65.5,
       "story_size": 1
     },
     {
@@ -2014,25 +2084,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.6,
-      "story_size": 1
-    },
-    {
-      "title": "एक सय २० फर्म तथा कम्पनी कालोसूचीमा",
-      "link": "https://gorkhapatraonline.com/news/227742",
-      "description": "काठमाडौँ, कात्तिक १३ गते । सार्वजनिक खरिद प्रक्रियालाई जवाफदेही र विश्वसनीय बनाउने नेपाल सरकारको लक्ष्यअनुरुप सार्वजनिक खरिद अनुगमन कार्यालयले गत चैत १३ यता एक सय २० वटा फर्म तथा क...",
-      "published": "2026-10-30T17:45:49+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/389623/conversions/PPMO-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "5e30013f4637186f",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 78.4,
+      "score": 64.7,
       "story_size": 1
     },
     {
@@ -2050,7 +2102,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.3,
+      "score": 64.4,
       "story_size": 1
     },
     {
@@ -2068,7 +2120,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.7,
+      "score": 63.8,
       "story_size": 1
     },
     {
@@ -2086,7 +2138,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.0,
+      "score": 63.2,
       "story_size": 1
     },
     {
@@ -2104,7 +2156,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.0,
+      "score": 63.1,
       "story_size": 1
     },
     {
@@ -2122,7 +2174,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.9,
+      "score": 63.1,
       "story_size": 1
     },
     {
@@ -2140,7 +2192,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.8,
+      "score": 62.9,
       "story_size": 1
     },
     {
@@ -2158,7 +2210,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.8,
+      "score": 62.9,
       "story_size": 1
     },
     {
@@ -2176,7 +2228,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.3,
+      "score": 62.4,
       "story_size": 1
     },
     {
@@ -2194,7 +2246,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.7,
+      "score": 61.8,
       "story_size": 1
     },
     {
@@ -2212,7 +2264,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.3,
+      "score": 61.4,
       "story_size": 1
     },
     {
@@ -2230,7 +2282,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.2,
+      "score": 61.3,
       "story_size": 1
     },
     {
@@ -2248,7 +2300,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.0,
+      "score": 61.1,
       "story_size": 1
     },
     {
@@ -2266,7 +2318,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.9,
+      "score": 61.1,
       "story_size": 1
     },
     {
@@ -2284,7 +2336,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.9,
+      "score": 61.0,
       "story_size": 1
     },
     {
@@ -2302,7 +2354,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.6,
+      "score": 59.7,
       "story_size": 1
     },
     {
@@ -2320,7 +2372,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.6,
+      "score": 58.7,
       "story_size": 1
     },
     {
@@ -2338,7 +2390,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.4,
+      "score": 58.6,
       "story_size": 1
     },
     {
@@ -2356,7 +2408,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 65.8,
+      "score": 52.0,
       "story_size": 1
     },
     {
@@ -2374,7 +2426,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 57.0,
+      "score": 43.1,
       "story_size": 1
     },
     {
@@ -2392,25 +2444,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 42.3,
-      "story_size": 1
-    },
-    {
-      "title": "नयाँ व्यवस्थाले आयोजनाहरूको लागत बढ्ने, सरकारलाई विज्ञका सुझाव कस्ता",
-      "link": "https://www.bbc.com/nepali/articles/crje54np1w8po?at_medium=RSS&at_campaign=rss",
-      "description": "सोलोडोलो सबै आयोजनाको हकमा मूल्य समायोजन गरिएमा राज्यमाथि थप आर्थिक भार पर्ने जानकारहरूको तर्क छ।",
-      "published": "2026-10-30T01:29:20+00:00",
-      "source": "BBC Nepali",
-      "category": "politics",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e698/live/cf919180-d389-11f1-a701-fddedf244c16.jpg",
-      "related_sources": [
-        "BBC Nepali"
-      ],
-      "id": "aa463d98c33e3912",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 36.3,
+      "score": 28.4,
       "story_size": 1
     },
     {
@@ -2429,6 +2463,24 @@
       "verified": false,
       "local": true,
       "score": 28,
+      "story_size": 1
+    },
+    {
+      "title": "नयाँ व्यवस्थाले आयोजनाहरूको लागत बढ्ने, सरकारलाई विज्ञका सुझाव कस्ता",
+      "link": "https://www.bbc.com/nepali/articles/crje54np1w8po?at_medium=RSS&at_campaign=rss",
+      "description": "सोलोडोलो सबै आयोजनाको हकमा मूल्य समायोजन गरिएमा राज्यमाथि थप आर्थिक भार पर्ने जानकारहरूको तर्क छ।",
+      "published": "2026-10-30T01:29:20+00:00",
+      "source": "BBC Nepali",
+      "category": "politics",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e698/live/cf919180-d389-11f1-a701-fddedf244c16.jpg",
+      "related_sources": [
+        "BBC Nepali"
+      ],
+      "id": "aa463d98c33e3912",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 22.4,
       "story_size": 1
     },
     {
@@ -2713,60 +2765,6 @@
         "Lokaantar"
       ],
       "id": "1c1121c9372db2c6",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "समाचार कक्षबाटै पक्राउ परेका पत्रकार विश्वमणि सुवेदी साढे ३ घण्टापछि रिहा",
-      "link": "http://lokaantar.com/story/332234/2026/10/30/bishwamani-subedi-",
-      "description": "नेपाल प्रेसका पत्रकार विश्वमणि सुवेदी रिहा भएका छन् ।&nbsp;समाचार कक्षबाटै&nbsp;पक्राउ परेका पत्रकार&nbsp;सुवेदी करिब&nbsp;साढे ३ घण्टापछि रिहा भएका हुन् ।&nbsp;सादा पोशाकका प्रहरीले शुक्रबार समाचार कक्षमै प्रवेश गरेर सुवेदीलाई नियन्त्रणमा लिएको थियो ।",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "world",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "52a6393de783dae8",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "पत्रकारलाई पक्राउ गरिएको घटनामा रास्वपाको आपत्ति, विनासर्त रिहा गर्न माग",
-      "link": "http://lokaantar.com/story/332233/2026/10/30/rsp-",
-      "description": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा)ले समाचार लेखेकै आधारमा विभिन्न सञ्चारमाध्यमका पत्रकारलाई कार्यालयबाटै नियन्त्रणमा लिएको तथा अन्य पत्रकारको खोजी भइरहेकोप्रति ध्यानाकर्षण भएको जनाएको छ।रास्वपाले प्रेस स्वतन्त्रतामाथिको प्रहार नागरिकको सुसूचित हुन पाउने मौलिक अधिकारमाथिकै कुठाराघात भएको उल्लेख गर्दै पत्रकारमाथि धरपकड गर्नु विधिको शासनको उल्लङ्घन भएको जनाएको छ।पार्टीले प्रकाशित समाचार सामग्रीप्रति कसैको विमति वा कानूनी प्रश्न भए त्यसको निरुपण राज्यले स्थापित गरेका विधि, न्यायिक प्रक्रिया र वैधा",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "449435359c09477a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "पत्रकार मैनालीलाई भोलि ब्यूरोमा उपस्थित हुन मौखिक आदेश दिँदै नयाँ पत्रिकाबाट फर्कियो प्रहरी",
-      "link": "http://lokaantar.com/story/332232/2026/10/30/nabaraj-mainali-",
-      "description": "पत्रकार नवराज मैनालीलाई खोज्दै नयाँ पत्रिका दैनिकको कार्यालयमा पुगेका प्रहरीहरू साढे दुई घण्टापछि फर्किएका छन् ।पत्रकार मैनालीलाई भोलि बिहान १० बजे साइबर ब्यूरोमा उपस्थित हुन मौखिक आदेश दिँदै प्रहरीहरू फर्किएका हुन् ।मैनाली खोज्दै शुक्रबार साँझ नयाँ पत्रिकाको कार्यालय पुगेको&nbsp;प्रहरी टोली भोलि बिहान १० बजे&nbsp;ब्यूरोमा हाजिर हुन भन्दै फर्किएको हो।",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "4c3a2e8d062fa853",
       "source_count": 1,
       "verified": false,
       "local": false,

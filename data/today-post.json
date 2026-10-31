@@ -1,6 +1,6 @@
 {
   "date_np": "2026-10-31",
-  "generated_at": "2026-10-30T20:40:34.646363+00:00",
+  "generated_at": "2026-10-31T00:08:35.340559+00:00",
   "items": [
     {
       "title": "बेगनास ताल किनारमा सुरु भयो ‘फिस फेस्टिभल’",
@@ -18,7 +18,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.3,
+      "score": 119.4,
       "story_size": 2,
       "image_local": "images/news_0ae44e12c9e8254ad797.jpg"
     },
@@ -38,124 +38,123 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 129.8,
+      "score": 115.9,
       "story_size": 2,
       "image_local": "images/news_c3637160b0025d5f8b63.jpg"
     },
     {
-      "title": "सामाजिक समस्यासँग जुधिरहेकी पार्वतीले नागरिकता पाएपछि ...",
-      "link": "https://www.ratopati.com/story/602349/parvati-who-is-struggling-with-social-problems-is-happy-after-receiving-citizenship",
-      "description": "झापा । श्रीमान्को मृत्युपछि आर्थिक तथा सामाजिक समस्यासँग जुधिरहेकस् शिवसताक्षी नगरपालिका–८ की पार्वती ऋषिदेवका लागि नेपाली नागरिकता प्राप्ति नयाँ आशा बनेको छ । नागरिकता नहुँदा राज्यको सामाजिक सुरक्षा सुविधाबाट वञ्चित रहेकी उनले अब एकल महिला भत्ता",
-      "published": "2026-10-30T20:15:00+00:00",
-      "source": "Ratopati",
-      "category": "tech",
-      "image": "https://npcdn.ratopati.com/media/news/jhapa__dhzolqasr2_QnjZRO8TPN.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "6fed2f81b995a1d8",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 111.3,
-      "story_size": 1,
-      "image_local": "images/news_968e2f5456e5cf33b994.webp"
-    },
-    {
-      "title": "नेपालगन्ज रङ्गशालामा पूर्वाधार भएपनि संरक्षणको अभाव",
-      "link": "https://www.ratopati.com/story/602347/nepalgunj-stadium-has-infrastructure-but-lacks-protection",
-      "description": "बाँके । नेपालगन्जको रङ्गशालामा खेलकुद पूर्वाधार भएपनि उचित प्रयोग र संरक्षणको अभाव देखिएको छ । खेलकुद पूर्वाधारलाई खेलाडी उत्पादनको श्रोत मानिएपनि यसबाट खेलाडी उत्पादन हुन नसक्दा खेलाडी अभावमा पूर्वाधारको संरक्षण हुन नसकेको हो । पौडी खेलका एसिएन",
-      "published": "2026-10-30T19:30:00+00:00",
-      "source": "Ratopati",
-      "category": "tech",
-      "image": "https://npcdn.ratopati.com/media/news/banke-district-map_buY1dHpxrb.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "fa2d64144f1b4487",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 108.3,
-      "story_size": 1,
-      "image_local": "images/news_f1294488164050056e9d.jpg"
-    },
-    {
-      "title": "पर्यटकीय याम सुरु भएसँगै सामुदायिक घरबासमा विदेशी पाहुना",
-      "link": "https://www.ratopati.com/story/602346/as-the-tourist-season-begins-foreign-guests-flock-to-community-homes",
-      "description": "बागलुङ । आँखैअगाडि दन्तेलहरझैँ देखिने हिमशृङ्खला, अर्ग्यानिक खानाका परिकार, ग्रामीण जीवनशैली र न्यानो आतिथ्य भकुण्डेस्थित सामुदायिक घरबास (होमस्टे)को मुख्य आकर्षण हुन् । यिनै विशेषताका कारण बागलुङको भकुण्डेस्थित अतिथि सत्कार सामुदायिक घरबासमा स्वदेशीमात्र नभई विदेशी पर्यटकसमेत",
-      "published": "2026-10-30T19:06:28+00:00",
-      "source": "Ratopati",
-      "category": "world",
-      "image": "https://npcdn.ratopati.com/media/news/baglung-map_saube82urq.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "3460bd7d8b34d340",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 106.7,
-      "story_size": 1,
-      "image_local": "images/news_8aceecd1910b59ebb890.jpg"
-    },
-    {
-      "title": "वन क्षेत्रका समस्या समाधानका लागि प्रदेश सरकारको ध्यानाकर्षण",
-      "link": "https://www.ratopati.com/story/602344/attention-of-the-provincial-government-drawn-to-solving-problems-in-the-forest-sector",
-      "description": "सुदूरपश्चिम । सुदूरपश्चिममा कार्यरत विभिन्न वन उपभोक्ता समूहले वन क्षेत्रमा देखिएका समस्या समाधानका लागि प्रदेश सरकारको ध्यानाकर्षण गराएका छन् । ती समूहको सुदूरपश्चिम प्रदेशस्तरीय आन्दोलन परिचालन समन्वय समितिका पदाधिकारीले शुक्रबार मुख्यमन्त्री खगराज भट्टलाई २४बुँदे ज्ञापनपत्र बुझाउँदै",
-      "published": "2026-10-30T18:34:00+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/cm-office-sudurpaschim-(2)_0L8mzQiGiG.png",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "e5fd27d457540238",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 104.6,
-      "story_size": 1,
-      "image_local": "images/news_587db2aa81b2cde9009f.png"
-    },
-    {
-      "title": "खानेपानी तथा सरसफाइ अवस्थाको प्रतिवेदन सार्वजनिक",
-      "link": "https://www.ratopati.com/story/602343/report-on-water-supply-and-sanitation-status-made-public",
-      "description": "ललितपुर । राष्ट्रिय तथ्याङ्क कार्यालयले देशभरका ७५३ वटै स्थानीय तहको खानेपानी, सरसफाइ तथा स्वच्छता (वास) अवस्थाको विश्लेषण गरी तयार पारेको सूचकाङ्क सहितको तथ्याङ्क प्रतिवेदन सार्वजनिक गरेको छ । राष्ट्रिय तथ्याङ्क कार्यालयले शुक्रबार ललितपुरमा आयोजना गरेको कार्यक्रममा",
-      "published": "2026-10-30T18:23:47+00:00",
+      "title": "कञ्चनपुरमा धान उत्पादनमा वृद्धि हुने प्रक्षेपण",
+      "link": "https://www.ratopati.com/story/602358/paddy-production-projected-to-increase-in-kanchanpur",
+      "description": "कञ्चनपुर । कञ्चनपुरमा यस वर्ष धान उत्पादनमा वृद्धि वृद्धि हुने प्रक्षेपण गरिएको छ । कृषि ज्ञान केन्द्रका सूचना अधिकारी धर्मबहादुर साउँदले यस वर्ष कञ्चनपुरमा १ दशमलव १९ प्रतिशतले धान उत्पादनमा वृद्धि भएको जानकारी दिए । गत",
+      "published": "2026-10-30T23:54:39+00:00",
       "source": "Ratopati",
       "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/rastriya-tathyank-karyalaya_1KDrSncyuT.jpg",
+      "image": "https://npcdn.ratopati.com/media/news/dhan_Zif4ys3f2f.webp",
       "related_sources": [
         "Ratopati"
       ],
-      "id": "fe129ca867b6e1ec",
+      "id": "e0f6390c9c5b4b14",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.9,
+      "score": 112.1,
       "story_size": 1,
-      "image_local": "images/news_b5b6a7f49cf5b5678262.jpg"
+      "image_local": "images/news_d7c5602d476093b78bc3.webp"
     },
     {
-      "title": "१२ बजे १२ समाचार : प्रहरी विज्ञप्तिको भोलिपल्टै पत्रकारमाथि धावा, सीमा नाका खुलाउन चीनको आनाकानी",
-      "link": "https://www.ratopati.com/story/602342/12-oclock-12-news-attack-on-journalists-the-day-after-police-statement-chinas-reluctance-to-open-border-with-nepal",
-      "description": "काठमाडौँ । आज दिनभरका मुख्य १२ घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति ‘१२ बजे १२ समाचार’मा प्रस्तुत गरेका छौँ– १. सुनकोशी–मरिनका आयोजना प्रमुख र महानिर्देशक सुरक्षा नियन्त्रणमा राष्ट्रिय गौरवको आयोजनाका रूपमा रहेको सुनकोशी–मरिन डाइभर्सन बहुउद्देश्यीय आयोजनाको ठेक्का प्रक्रिया",
-      "published": "2026-10-30T18:15:21+00:00",
+      "title": "सिँचाइ गर्न विद्युत् सेवा विस्तार",
+      "link": "https://www.ratopati.com/story/602357/expanding-electricity-service-for-irrigation",
+      "description": "सुनसरी । सुनसरीको देवानगञ्ज गाउँपालिकाले किसानलाई सिँचाइमा सहज पहुँच पुर्‍याउँदै कृषि उत्पादनको लागत घटाउने उद्देश्यले खेतखेतमा विद्युत् विस्तारको कामलाई अन्तिम चरणमा पुर्‍याएको छ । नेपाल विद्युत् प्राधिकरण र गाउँपालिकाको साझेदारीमा करिब रु ३० करोडको लगानीमा सञ्चालन",
+      "published": "2026-10-30T23:45:43+00:00",
       "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/12-news_iQJYCbeCZY.webp",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/Op3Bh9j0gH.jpg",
       "related_sources": [
         "Ratopati"
       ],
-      "id": "e835a4dd12e8a70c",
+      "id": "462d5d84ae270c12",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.3,
+      "score": 111.5,
       "story_size": 1,
-      "image_local": "images/news_867fb0fde9265eab8dd4.webp"
+      "image_local": "images/news_2054e66197cf36470fe4.jpg"
+    },
+    {
+      "title": "शनिबार यस्तो छ विदेशी मुद्राको विनिमयदर",
+      "link": "https://www.ratopati.com/story/602356/this-is-the-foreign-exchange-rate-on-saturday",
+      "description": "काठमाडौँ । नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमय दर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५१ रुपैयाँ ६३ पैसा र बिक्रीदर १५२ रुपैयाँ २३ पैसा निर्धारण गरिएको छ",
+      "published": "2026-10-30T23:45:00+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://rpcdn.ratopati.com/media/albums/forex_3HNlavACP4.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "6224d3cc4e7b6e4a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.4,
+      "story_size": 1,
+      "image_local": "images/news_172e31f280004e3751b5.jpg"
+    },
+    {
+      "title": "त्रिविलाई बक्यौता उठाउन सकस",
+      "link": "https://gorkhapatraonline.com/news/227752",
+      "description": "काठमाडौँ, कात्तिक १४ गते । त्रिभुवन विश्वविद्यालय (त्रिवि) ले विभिन्न संस्थालाई भाडामा दिएको जग्गा तथा संरचनाबाट सम्झौता अनुसार लिनुपर्ने रकम उठाउन कठिन भएको छ । आन्तरिक आम्दानी घट...",
+      "published": "2026-10-31T05:28:55+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/389639/conversions/registraroffice_2023_05_04_08_14_47-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "7334eb5bd9771ef6",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.4,
+      "story_size": 1,
+      "image_local": "images/news_23cc4ee09c2c3400c666.jpg"
+    },
+    {
+      "title": "शनिबारका लागि विदेशी मुद्राको विनिमयदर निर्धारण",
+      "link": "https://khabarhub.com/2026/31/1042375/",
+      "description": "काठमाडौँ– नेपाल राष्ट्र बैंकले आज (शनिबार)का लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५१ रुपैयाँ ६३ पैसा र बिक्रीदर १५२ रुपैयाँ २३ पैसा निर्धारण गरिएको छ । युरोपियन युरो एकको खरिददर १६९ रुपैयाँ ८६ पैसा र बिक्रीदर १७० रुपैयाँ ५४ पैसा, युके पाउन्ड स्ट्रलिङ एकको खरिददर २०३ [&#8230;]",
+      "published": "2026-10-31T00:08:10+00:00",
+      "source": "Khabarhub",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "07ad77b43609da4c",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.0,
+      "story_size": 1
+    },
+    {
+      "title": "निरन्तर वर्षाले खेतमा पाकेको धान ढलेपछि...",
+      "link": "https://www.ratopati.com/story/602355/after-the-continuous-rains-caused-the-ripe-rice-to-fall-in-the-fields",
+      "description": "भोजपुर । धान पाकेर भित्राउने समयमा मौसम प्रतिकूल बनेर निरन्तर वर्षा हुन थालेपछि जिल्लाका किसान चिन्तित बनेका छन् । खेतमा धान पाकेर पहेँलपुर भएको अवस्थामा वर्षा र असिनाको जोखिम बढेपछि किसानलाई समयमै बाली काटेर सुरक्षित",
+      "published": "2026-10-30T23:23:51+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/dhan-bhijeko_7DAUmTbyXz.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "95b019e57ae2e480",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.0,
+      "story_size": 1,
+      "image_local": "images/news_615e416774971f39cdc1.webp"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. बेगनास ताल किनारमा सुरु भयो ‘फिस फेस्टिभल’\nस्रोत: Ratopati, Khabarhub\nhttps://www.ratopati.com/story/602348/fish-festival-begins-on-the-banks-of-begnas-lake\n\n2. एनएफएलमा तीन नयाँ क्लब थपिने\nस्रोत: Ratopati, Khabarhub\nhttps://www.ratopati.com/story/602345/three-new-clubs-will-be-added-to-the-nfl\n\n3. सामाजिक समस्यासँग जुधिरहेकी पार्वतीले नागरिकता पाएपछि ...\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602349/parvati-who-is-struggling-with-social-problems-is-happy-after-receiving-citizenship\n\n4. नेपालगन्ज रङ्गशालामा पूर्वाधार भएपनि संरक्षणको अभाव\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602347/nepalgunj-stadium-has-infrastructure-but-lacks-protection\n\n5. पर्यटकीय याम सुरु भएसँगै सामुदायिक घरबासमा विदेशी पाहुना\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602346/as-the-tourist-season-begins-foreign-guests-flock-to-community-homes\n\n6. वन क्षेत्रका समस्या समाधानका लागि प्रदेश सरकारको ध्यानाकर्षण\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602344/attention-of-the-provincial-government-drawn-to-solving-problems-in-the-forest-sector\n\n7. खानेपानी तथा सरसफाइ अवस्थाको प्रतिवेदन सार्वजनिक\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602343/report-on-water-supply-and-sanitation-status-made-public\n\n8. १२ बजे १२ समाचार : प्रहरी विज्ञप्तिको भोलिपल्टै पत्रकारमाथि धावा, सीमा नाका खुलाउन चीनको आनाकानी\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602342/12-oclock-12-news-attack-on-journalists-the-day-after-police-statement-chinas-reluctance-to-open-border-with-nepal\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. बेगनास ताल किनारमा सुरु भयो ‘फिस फेस्टिभल’\nस्रोत: Ratopati, Khabarhub\nhttps://www.ratopati.com/story/602348/fish-festival-begins-on-the-banks-of-begnas-lake\n\n2. एनएफएलमा तीन नयाँ क्लब थपिने\nस्रोत: Ratopati, Khabarhub\nhttps://www.ratopati.com/story/602345/three-new-clubs-will-be-added-to-the-nfl\n\n3. कञ्चनपुरमा धान उत्पादनमा वृद्धि हुने प्रक्षेपण\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602358/paddy-production-projected-to-increase-in-kanchanpur\n\n4. सिँचाइ गर्न विद्युत् सेवा विस्तार\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602357/expanding-electricity-service-for-irrigation\n\n5. शनिबार यस्तो छ विदेशी मुद्राको विनिमयदर\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602356/this-is-the-foreign-exchange-rate-on-saturday\n\n6. त्रिविलाई बक्यौता उठाउन सकस\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/227752\n\n7. शनिबारका लागि विदेशी मुद्राको विनिमयदर निर्धारण\nस्रोत: Khabarhub\nhttps://khabarhub.com/2026/31/1042375/\n\n8. निरन्तर वर्षाले खेतमा पाकेको धान ढलेपछि...\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602355/after-the-continuous-rains-caused-the-ripe-rice-to-fall-in-the-fields\n\n— I Am From Hetauda"
 }
