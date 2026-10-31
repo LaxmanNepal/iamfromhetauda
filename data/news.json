@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T17:13:26.530480+00:00",
+  "updated_at": "2026-10-31T20:29:03.449605+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -15,6 +15,27 @@
     "Gorkhapatra Online"
   ],
   "items": [
+    {
+      "title": "थामी भाषाको राष्ट्रिय गीत सार्वजनिक",
+      "link": "https://gorkhapatraonline.com/news/227853",
+      "description": "काठमाडौँ, कात्तिक १४ गते । नेपाल थामी समाजले पहिलो पटक थामी भाषामा तयार गरेको राष्ट्रिय गीत सार्वजनिक गरेको छ ।समाजको २७औँ वार्षिक साधारणसभाका अवसरमा आज बागमती प्रदेशसभा सदस्य ठूला...",
+      "published": "2026-10-31T23:14:39+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/389774/conversions/WhatsApp-Image-2026-10-31-at-20.43.04-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online",
+        "Thaha Khabar",
+        "Ratopati"
+      ],
+      "id": "b020945d2371f654",
+      "source_count": 3,
+      "verified": true,
+      "local": true,
+      "score": 153.0,
+      "story_size": 3,
+      "image_local": "images/news_8d2ede462a916001a42f.jpg"
+    },
     {
       "title": "जुगल-२ हिमालमा पहिलोपटक स्पेनी आरोहीको सफल आरोहण",
       "link": "https://www.thahakhabar.com/detail/311184",
@@ -33,30 +54,9 @@
       "source_count": 4,
       "verified": true,
       "local": false,
-      "score": 152.4,
+      "score": 139.3,
       "story_size": 4,
       "image_local": "images/news_f6916583f06f86f392ec.jpg"
-    },
-    {
-      "title": "अवरुद्ध जोमसोम–कोरला सडक सञ्चालन",
-      "link": "https://www.onlinekhabar.com/2026/10/2048121/jomsom-korla-road-operation-blocked",
-      "description": "१४ कात्तिक, मुस्ताङ । भारी वर्षाले अवरुद्ध जोमसोम–कोरला सडक मर्मतपछि सञ्चालनमा आएको छ । अर्नब चक्रवात प्रभावका कारण शुक्रबार रातिदेखि परेको भारी वर्षाले बारागुङ मुक्तिक्षेत्र–३ चैले सडक भासिदा आज बिहानैदेखि अवरुद्ध भएको थियो । यसअघि ‘ग्याबिन वाल’ले उकासेर सडक स्तरोन्नति गरिएकामा गएरातिको भारी वर्षाले क्षति पुर्‍याएको बेनी–जोमसोम–कोरला सडकका आयोजना प्रमुख तेजस्वी शर्माले जानकारी दिए । [&#8230;]",
-      "published": "2026-10-31T15:36:00+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar",
-        "Ratopati",
-        "Gorkhapatra Online",
-        "Khabarhub"
-      ],
-      "id": "50c2114690ac6c56",
-      "source_count": 4,
-      "verified": true,
-      "local": false,
-      "score": 147.5,
-      "story_size": 4
     },
     {
       "title": "वैदेशिक रोजगारीको प्रलोभनमा ७० लाख ठगी गर्ने दुई जना पक्राउ",
@@ -75,49 +75,180 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 144.3,
+      "score": 131.2,
       "story_size": 3,
       "image_local": "images/news_80d7b1160715535fd93f.jpg"
     },
     {
-      "title": "थामी भाषाको राष्ट्रिय गीत सार्वजनिक",
-      "link": "https://www.thahakhabar.com/detail/311183",
-      "description": "",
-      "published": "2026-10-31T21:38:24+05:45",
-      "source": "Thaha Khabar",
+      "title": "पदमपोखरीमा व्यावसायिक मेवाखेतीबाट किसानको आम्दानी बढ्दै",
+      "link": "https://www.ratopati.com/story/602538/farmers-income-increasing-from-commercial-fruit-farming-in-padampokhari",
+      "description": "बागमती । हेटौँडा उपमहानगरपालिका–१३ पदमपोखरीका किसान व्यावसायिक मेवाखेतीमा आकर्षित भएका छन् । मेवाखेतीबाट राम्रो आम्दानी हुन थालेपछि यहाँका १०० भन्दा बढी किसान यस व्यवसायमा आबद्ध भएका छन् । आधामार कृषक समूहका अध्यक्ष फेन्चु लामाका अनुसार पदमपोखरीमा",
+      "published": "2026-10-31T20:00:51+00:00",
+      "source": "Ratopati",
       "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/1-1793461996.jpg",
+      "image": "https://npcdn.ratopati.com/media/news/mewa-7_U770xJ6VdH.jpg",
       "related_sources": [
-        "Thaha Khabar",
         "Ratopati"
       ],
-      "id": "7c5eb9b1b1a821a1",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 131.7,
-      "story_size": 2,
-      "image_local": "images/news_39da68aa386bdec0863f.jpg"
+      "id": "d263b4067da2b15f",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 129.1,
+      "story_size": 1,
+      "image_local": "images/news_da7ca2f263f80f8528f1.jpg"
     },
     {
-      "title": "तीन दशकपछि संयुक्त राष्ट्रसङ्घको सोमालियामा जारी राजनीतिक अभियान अन्त्य",
-      "link": "https://www.ratopati.com/story/602506/un-ends-political-mission-in-somalia-after-three-decades",
-      "description": "सोमबालिया । संयुक्त राष्ट्रसङ्घको सोमालियाका लागि रहँदै आएको राजनीतिक अभियान दुई वर्षे सङ्क्रमणकालपछि शनिबार समाप्त भएको छ। यसले पूर्वी अफ्रिकी राष्ट्रमा तीन दशकभन्दा बढी समयदेखि चलेको संयुक्त राष्ट्रसङ्घको शान्ति निर्माण कार्यको अध्याय बन्द गरेको छ। युएनसोमलाई",
-      "published": "2026-10-31T15:10:32+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/57038a93-f0f9-49c7-a298-f7175fe3_RgtTMZ9mlo.webp",
+      "title": "अवरुद्ध जोमसोम–कोरला सडक सञ्चालन",
+      "link": "https://www.onlinekhabar.com/2026/10/2048121/jomsom-korla-road-operation-blocked",
+      "description": "१४ कात्तिक, मुस्ताङ । भारी वर्षाले अवरुद्ध जोमसोम–कोरला सडक मर्मतपछि सञ्चालनमा आएको छ । अर्नब चक्रवात प्रभावका कारण शुक्रबार रातिदेखि परेको भारी वर्षाले बारागुङ मुक्तिक्षेत्र–३ चैले सडक भासिदा आज बिहानैदेखि अवरुद्ध भएको थियो । यसअघि ‘ग्याबिन वाल’ले उकासेर सडक स्तरोन्नति गरिएकामा गएरातिको भारी वर्षाले क्षति पुर्‍याएको बेनी–जोमसोम–कोरला सडकका आयोजना प्रमुख तेजस्वी शर्माले जानकारी दिए । [&#8230;]",
+      "published": "2026-10-31T15:36:00+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
       "related_sources": [
-        "Ratopati",
-        "Kendrabindu"
+        "OnlineKhabar",
+        "Khabarhub"
       ],
-      "id": "48af783fbaa2a358",
+      "id": "50c2114690ac6c56",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 128.8,
-      "story_size": 2,
-      "image_local": "images/news_f508a25214cdc23933fd.webp"
+      "score": 114.5,
+      "story_size": 2
+    },
+    {
+      "title": "भारतका विपक्षी दलद्वारा निर्वाचन आयुक्तमाथि ‘प्रतीकात्मक महाभियोग’को अभ्यास",
+      "link": "https://www.ratopati.com/story/602539/indias-opposition-parties-practice-symbolic-impeachment-of-election-commissioner",
+      "description": "काठमाडौँ । भारतका राजनीतिक विपक्षी दलहरूले शनिबार निर्वाचन आयुक्तको ‘प्रतीकात्मक महाभियोग’ को अभ्यास गरेका छन् । उनीहरूले मतदाता सूची संशोधनमा भएको भनिएको अनियमितताको विरोधमा यो कदम चालेका हुन् । संशोधनले सत्तारूढ दललाई अनुचित फाइदा पुर्‍याउन सक्ने",
+      "published": "2026-10-31T20:25:06+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://rpcdn.ratopati.com/media/albums/india_flag_ZY8MWFezR1.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "3a199e518693423a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.7,
+      "story_size": 1,
+      "image_local": "images/news_0a63ce8ed4f042192ba3.jpg"
+    },
+    {
+      "title": "कर्णालीको रैथाने उत्पादन र माटो दुवै जोगाउनुपर्छ: मुख्यमन्त्री",
+      "link": "https://www.ratopati.com/story/602537/karnalis-indigenous-products-and-soil-should-be-protected-chief-minister",
+      "description": "कर्णाली । कर्णाली प्रदेश सरकारका मुख्यमन्त्री मङ्गलबहादुर शाहीले कर्णालीको रैथाने उत्पादन र माटो दुवै जोगाउनुपर्ने बताएका छन् । लेकबेसी नगरपालिका सुर्खेतमा अवस्थित कृषि अनुसन्धान केन्द्र दशरथपुरको आजको निरीक्षण भ्रमणपछि त्यहाँका अधिकारीहरूसँगको छलफलमा मुख्यमन्त्री शाहीले कर्णालीका रैथाने",
+      "published": "2026-10-31T19:40:37+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/mangalbahadur-shahi_nacBUUJvWL.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "a4498d75c2d296d0",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.8,
+      "story_size": 1,
+      "image_local": "images/news_928cc8d99c988409b181.jpg"
+    },
+    {
+      "title": "१० खेलाडीमा सीमित क्रिस्टल प्यालेसमाथि टोटनहमको सहज जित",
+      "link": "https://www.ratopati.com/story/602536/tottenham-ease-to-victory-over-10-man-crystal-palace",
+      "description": "काठमाडौँ । इङ्ग्लिस प्रिमियर लिग फुटबलमा टोटनहम हट्सपरले क्रिस्टल प्यालेसमाथि २-० गोलको जित निकालेको छ । खेलको १३ औँ मिनेटमै क्रिस्टल प्यालेसका जिन-फिलिप मटेटाले रातो कार्ड खाँदै मैदान छाडेपछि प्यालेस १० खेलाडीमा सीमित हुन पुगेको थियो",
+      "published": "2026-10-31T19:36:16+00:00",
+      "source": "Ratopati",
+      "category": "sports",
+      "image": "https://npcdn.ratopati.com/media/news/tottenham_diTxGLN5BD.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "baa2100ec67c26e4",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.5,
+      "story_size": 1,
+      "image_local": "images/news_2e42dc09697fce8781c8.webp"
+    },
+    {
+      "title": "स्याउ विकास बोर्डको स्थापनाका लागि राय सुझाव माग",
+      "link": "https://www.ratopati.com/story/602535/request-for-opinions-and-suggestions-for-the-establishment-of-an-apple-development-board",
+      "description": "जुम्ला । कर्णाली प्रदेशमा स्याउ विकास बोर्डको स्थापना तथा सञ्चालन सम्बन्धमा जुम्लाका सरोकारवालासँग शनिबार राय सुझावको माग गरिएको छ । स्याउ संसदीय स्याउ सरोकार समूहको अयोजना तथा कर्णाली प्रदेश सरकार भूमि व्यवस्था, कृषि तथा सहकारी मन्त्रालयको",
+      "published": "2026-10-31T19:21:22+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/karnali-krishi-mantralaya1711676151_9dLrv7wi2R.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "c84db5ce57ed5ce3",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.5,
+      "story_size": 1,
+      "image_local": "images/news_32f1bbf999c87ac748c4.jpg"
+    },
+    {
+      "title": "लेभान्टेलाई हराउँदै एट्लेटिको ला लिगाको शीर्ष स्थानमा",
+      "link": "https://www.ratopati.com/story/602534/atletico-beats-levante-to-go-top-of-la-liga",
+      "description": "काठमाडौँ । स्पेनिस ला लिगा फुटबलमा एट्लेटिको म्याड्रिडले लेभान्टेमाथि २–० गोलको जित निकालेको छ । एट्लेटिकोको जितमा अलेहान्द्रो ग्रिमाल्डो र गियुलियानो सिमिओनीले एकरएक गोल गरे । खेलको ३६ औँ मिनेटमा ग्रिमाल्डोले गोल गर्दै एट्लेटिकोलाई सुरुवाती अग्रता दिलाएका",
+      "published": "2026-10-31T18:51:11+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/atletico_3i1roeC4iA.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "242bda41c09d0cb2",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 106.5,
+      "story_size": 1,
+      "image_local": "images/news_6018b0cb94f950c07a0d.webp"
+    },
+    {
+      "title": "लिड्समाथि बर्नमाउथको सहज जित",
+      "link": "https://www.ratopati.com/story/602533/bournemouth-ease-to-victory-over-leeds",
+      "description": "काठमाडौँ । इङ्ग्लिस प्रिमियर लिग फुटबलमा बर्नमाउथले लिड्समाथि २–० गोलको जित निकालेको छ । बर्नमाउथलाई जित दिलाउन इभानिल्सन र अमिन अदलीले एक–एक गोल गरे । नेपाली समय अनुसार शनिबार राति सम्पन्न खेलको ३१ औँ मिनेटमा इभानिल्सनले गोल",
+      "published": "2026-10-31T18:47:30+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/premier-league_35Yf6TLBR5.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "5697eb9426e6a9b2",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 106.2,
+      "story_size": 1,
+      "image_local": "images/news_3747465d9ca25353595d.webp"
+    },
+    {
+      "title": "उत्तर कोरियालाई ‘पूर्णरूपमा’ परमाणु निःशस्त्रीकरणको प्रतिबद्धता जनाए",
+      "link": "https://www.ratopati.com/story/602532/north-korea-committed-to-complete-denuclearization",
+      "description": "काठमाडौँ । अमेरिका, दक्षिण कोरिया र जापानले शनिबार उत्तर कोरियालाई ‘पूर्णरूपमा परमाणु निःशस्त्रीकरण’ गराउने आफ्नो प्रतिबद्धता दोहोर्‍याएका छन् । प्योङयाङले वाशिङटनसँग सम्भावित वार्ताअघि निःशस्त्रीकरण अस्वीकार गरिरहेको छ । अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प र उत्तर कोरियाली नेता किम",
+      "published": "2026-10-31T18:41:42+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://npcdn.ratopati.com/media/news/north-korea-flags_k3jIPCT1Zb.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "7f6a3224a60eeb68",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 105.9,
+      "story_size": 1,
+      "image_local": "images/news_f5d245b3e33570e33b45.jpg"
     },
     {
       "title": "सुन्दरीजलबाट सिन्धुपाल्चोक र नुवाकोट जाने सडक अवरुद्ध",
@@ -135,8 +266,179 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 118.9,
+      "score": 105.8,
       "story_size": 3
+    },
+    {
+      "title": "देशभरका विपद्का घटनामा एकको मृत्यु, दुई घाइते, लाखौँको क्षति",
+      "link": "https://www.ratopati.com/story/602531/one-dead-two-injured-millions-in-damage-in-disasters-across-the-country",
+      "description": "काठमाडौँ । देशभर भएका १७ वटा विपद्का घटनामा परी एक जनाको मृत्यु भएको छ भने दुई जना घाइते भएका छन् । आगलागी, बाढी, पहिरो, सर्पदंश र जनावरको आक्रमणलगायतका घटनाबाट तीन चौपायासमेत प्रभावित भएका छन् । राष्ट्रिय",
+      "published": "2026-10-31T18:19:15+00:00",
+      "source": "Ratopati",
+      "category": "society",
+      "image": "https://npcdn.ratopati.com/media/news/bipad_K1MTVLWec3.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "4076370b2a711589",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 104.4,
+      "story_size": 1,
+      "image_local": "images/news_e1081d0c69036993bc87.webp"
+    },
+    {
+      "title": "देशभरका विपद्का घटनामा एक जनाको मृत्यु, दुई घाइते",
+      "link": "https://gorkhapatraonline.com/news/227855",
+      "description": "काठमाडौँ, कात्तिक १४ गते । देशभर भएका १७ वटा विपद्का घटनामा परी एक जनाको मृत्यु भएको छ भने दुई घाइते भएका छन् । आगलागी, बाढी, पहिरो, सर्पदंश, जनावरको आक्रमणलगायतका घटनाबाट तीन चौपा...",
+      "published": "2026-11-01T00:02:21+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "society",
+      "image": "https://gorkhapatraonline.com/storage/media/389778/conversions/60f796ef2ced0_60c1578255fc5_Untitled-1-(1)-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "a6b8d176fd84dba2",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 104.2,
+      "story_size": 1,
+      "image_local": "images/news_e4e3b89cfabdb96ca217.jpg"
+    },
+    {
+      "title": "१२ बजे १२ समाचार : विराटनगरको पहिलो जित, एसईई र रजिस्ट्रेसनका नाममा सरकारी दोहोरो चरित्र",
+      "link": "https://www.ratopati.com/story/602530/12-oclock-12-news-biratnagars-first-victory-governments-double-standards-in-the-name-of-see-and-registration",
+      "description": "काठमाडौँ । आज दिनभरका मुख्य १२ घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति ‘१२ बजे १२ समाचार’मा प्रस्तुत गरेका छौँ– १. एसईई र रजिस्ट्रेसनका नाममा सरकारी दोहोरो चरित्र नेपालको वर्तमान संविधान धारा ३१ मा माध्यमिक तह (कक्षा १२) सम्मको",
+      "published": "2026-10-31T18:15:20+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/12-news_snr0ZcVg5q.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "32102d1884b8ca6f",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 104.1,
+      "story_size": 1,
+      "image_local": "images/news_0cca12733bd6ab4575b1.webp"
+    },
+    {
+      "title": "विवाद, अन्योल र पाँच ओभरको नाटकीय खेल : विराटनगरको पहिलो जित",
+      "link": "https://www.ratopati.com/story/602529/controversy-confusion-and-a-dramatic-five-over-match-biratnagars-first-win-sudurpaschim-defeated-by-35-runs",
+      "description": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपीएल) अन्तर्गत शनिबार विराटनगर किङ्स र सुदूरपश्चिम रोयल्सबिचको खेल मैदानको अवस्थालाई लिएर उत्पन्न विवाद, लामो अन्योल र पाँच ओभरको रोमाञ्चक प्रतिस्पर्धापछि टुङ्गिएको छ । वर्षाका कारण निर्धारित समयमा सुरु हुन",
+      "published": "2026-10-31T17:58:08+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/npl-cover_kwlLdS7D2a.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "ce8a7eb881ddc739",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 102.9,
+      "story_size": 1,
+      "image_local": "images/news_902911cd4d86a12ede25.webp"
+    },
+    {
+      "title": "युवाहरूलाई लक्षित गर्दै निःशुल्क अनलाइन एआई तालिम सञ्चालन हुँदै",
+      "link": "https://www.ratopati.com/story/602528/free-online-ai-training-being-conducted-targeting-youth",
+      "description": "काठमाडौँ। युवाहरूलाई ‘एआई’ सम्बन्धी व्यावहारिक सीप प्रदान गर्ने उद्देश्यले सरकारले निःशुल्क अनलाइन तालिम सञ्चालन गर्ने भएको छ । युवा, श्रम तथा रोजगार मन्त्रालयअन्तर्गतको राष्ट्रिय व्यावसायिक प्रशिक्षण प्रतिष्ठानमार्फत ‘एआईको प्रभावकारी प्रयोग तथा प्रम्प्ट लेखन’ विषयमा उक्त",
+      "published": "2026-10-31T17:44:59+00:00",
+      "source": "Ratopati",
+      "category": "tech",
+      "image": "https://npcdn.ratopati.com/media/news/yuwa-thaha-shram_2HqtOvzQcW.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "e81832df789cc38a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 102.1,
+      "story_size": 1,
+      "image_local": "images/news_b1ba792278a747ed90ab.jpg"
+    },
+    {
+      "title": "एनपिएलः सुदूरपश्चिम रोयल्सविरुद्ध विराटनगर किङ्सको सहज जित",
+      "link": "https://gorkhapatraonline.com/news/227852",
+      "description": "काठमाडौँ, कात्तिक १४ गते । विराटनगर किङ्सले तेस्रो संस्करणको नेपाल प्रिमियर लिग (एनपिएल) टी–२० क्रिकेट प्रतियोगितामा पहिलो जित दर्ता गरेको छ । पहिलो जित निकाल्ने क्रममा विराटनगरले...",
+      "published": "2026-10-31T23:23:20+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/389777/conversions/Lokash-Dhami_KTM_RSS_14_IMG_6673-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "979994a75d79b805",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 101.6,
+      "story_size": 1,
+      "image_local": "images/news_f11f9a2374499e24f33d.jpg"
+    },
+    {
+      "title": "गंगाजलीमा आदिबासी जनजाति साहित्य महोत्सव",
+      "link": "https://gorkhapatraonline.com/news/227854",
+      "description": "गोरखापत्र अनलाइनगंगाजली (सप्तरी), कात्तिक १४ गते । मधेस प्रदेश प्रमुख सुरेन्द्र लाभले साहित्य र कलाले समाज जोड्ने काम गर्ने हुनाले यसको संरक्षण र प्रवर्धनमा सबैले ध्यान दिनुपर्ने ब...",
+      "published": "2026-10-31T23:20:21+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/389776/conversions/s-4-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "e4b195538598b332",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 101.4,
+      "story_size": 1,
+      "image_local": "images/news_117579cabd82aa568df4.jpg"
+    },
+    {
+      "title": "मैदानमा खेल्न तयार थियौँ, खेल हुनुपर्छ भन्ने हाम्रो चाहना थियो : सन्दीप लामिछाने",
+      "link": "https://www.ratopati.com/story/602527/we-were-ready-to-play-on-the-field-we-wanted-the-game-to-happen-sandeep-lamichhane",
+      "description": "काठमाडौँ । विराटनगर किङ्सका कप्तान सन्दीप लामिछानेले आफूहरू मैदानमा खेल्न तयार रहे पनि अन्तिम निर्णय आयोजक र खेलका अफिसियल्सको हातमा रहेको बताएका छन् । शनिबार सुदूरपश्चिम रोयल्सविरुद्धको खेल वर्षाका कारण प्रभावित भएपछि कप्तान लामिछानेले खेलाडीहरू खेल्न",
+      "published": "2026-10-31T17:35:19+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/sandeep-lamichane_XuVkxkBtJz.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "10466898c96e64a1",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 101.4,
+      "story_size": 1,
+      "image_local": "images/news_b4de92249fa7dd61b170.webp"
+    },
+    {
+      "title": "फ्रान्स, इटाली र जर्मनीमा युवा आक्रोश : महँगी र कमजोर सेवाले सडकमा उतार्‍यो",
+      "link": "https://www.ratopati.com/story/602526/youth-anger-in-france-italy-and-germany-high-prices-and-poor-services-bring-people-to-the-streets",
+      "description": "काठमाडौँ । युरोपका तीन प्रमुख अर्थतन्त्र फ्रान्स, इटाली र जर्मनीमा जीवनयापनको बढ्दो लागत, कमजोर सार्वजनिक सेवा र युवापुस्ताले भोगिरहेका आर्थिक कठिनाइविरुद्ध प्रदर्शन चर्किएका छन् । तीनै देशका आन्दोलनमा महँगी र सरकारप्रतिको असन्तुष्टि साझा मुद्दा बनेका",
+      "published": "2026-10-31T17:29:16+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/france_31yu6J2Kya.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "0e12685ac646277d",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 101.0,
+      "story_size": 1,
+      "image_local": "images/news_5daa2a89b2d12566cdb1.webp"
     },
     {
       "title": "गत आर्थिक वर्षमा सबभन्दा बढी आर्थिक वृद्धि बागमती हुँदा कम मधेशमा, अन्य प्रदेशको कति?",
@@ -153,9 +455,65 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 113.5,
+      "score": 100.5,
       "story_size": 1,
       "image_local": "images/news_af557e122cdd137b25c2.jpg"
+    },
+    {
+      "title": "सुदूरपश्चिमले खेल्न आनाकानी गर्दा सन्दीपको स्पष्ट धारणा–क्रिकेट खेल्न आएका हौँ भने मैदानमै खेल्नुपर्छ",
+      "link": "https://www.setopati.com/sports/npl/401720",
+      "description": "नेपाल प्रिमियर लिग (एनपिएल) मा सुदूरपश्चिम रोयल्सविरुद्ध जित निकालेपछि विराटनगर किंग्सका कप्तान सन्दीप लामिछानेले जस्तोसुकै परिस्थितिमा पनि मैदानमै खेलेर नतिजा निकाल्नुपर्ने बताएका छन्।",
+      "published": "2026-10-31T23:47:00+05:45",
+      "source": "Setopati",
+      "category": "sports",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "c3014ce318727304",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 100.2,
+      "story_size": 1
+    },
+    {
+      "title": "धनगढीमा एनपीएल क्रेज : सुदूरपश्चिमको खेल हेर्न पार्क मोडमा दर्शकको घुइँचो (तस्बिरहरू)",
+      "link": "https://www.ratopati.com/story/602525/npl-craze-in-dhangadhi-spectators-flock-to-park-mode-to-watch-the-far-west-game-photo-feature",
+      "description": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपीएल) को रौनक यति बेला कीर्तिपुरको मैदानमा मात्र सीमित छैन, देशका प्रमुख सहरहरूमा पनि यसको क्रेज देखिन थालेको छ । एनपीएलअन्तर्गत शनिबार राति सम्पन्न सुदूरपश्चिम रोयल्स र विराटनगर किङ्सबिच भएको रोमाञ्चक",
+      "published": "2026-10-31T17:15:57+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/npl-dhangadi_5_a1xk6EKjNX.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "bbaa0a6d0fbf7f12",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 100.1,
+      "story_size": 1,
+      "image_local": "images/news_51d20a2b0a692c356424.webp"
+    },
+    {
+      "title": "उत्कृष्ट दुग्ध उत्पादक किसान सम्मानित",
+      "link": "https://gorkhapatraonline.com/news/227851",
+      "description": "अमरराज नहर्कीतनहुँ, कात्तिक १४ गते । तनहुँ जिल्लाका उत्कृष्ट दुग्ध उत्पादक किसानलाई नगद पुरस्कारसहित सम्मान गरिएको छ । तनहुँ जिल्ला दुग्ध उत्पादक सहकारी सङ्घ लिमिटेड, दमौलीको ३१औँ...",
+      "published": "2026-10-31T23:00:56+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/389773/conversions/IMG_7428%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%9F-%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A4%BE%E0%A4%A8-%E0%A4%AA%E0%A5%81%E0%A4%B7%E0%A5%8D%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%9C-%E0%A4%AE%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B0-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "436cb3f173e014c3",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 100.1,
+      "story_size": 1,
+      "image_local": "images/news_f7d0d6b538eb0332800e.jpg"
     },
     {
       "title": "सुदूरपश्चिम रोयल्सविरुद्ध विराटनगरको शानदार जित",
@@ -172,7 +530,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.7,
+      "score": 98.7,
       "story_size": 1,
       "image_local": "images/news_a31222a991f58b3e49f0.webp"
     },
@@ -191,7 +549,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.2,
+      "score": 98.2,
       "story_size": 1,
       "image_local": "images/news_d1d9c41dbc61fa1ab751.webp"
     },
@@ -210,7 +568,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.8,
+      "score": 97.8,
       "story_size": 1,
       "image_local": "images/news_563fb900fb1851d91d75.jpg"
     },
@@ -229,7 +587,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.6,
+      "score": 97.6,
       "story_size": 1,
       "image_local": "images/news_95f3c10dddc7e05448fe.jpg"
     },
@@ -248,7 +606,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.4,
+      "score": 97.4,
       "story_size": 1,
       "image_local": "images/news_a3ff7f77da5437b6a56a.webp"
     },
@@ -267,7 +625,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.4,
+      "score": 97.4,
       "story_size": 1,
       "image_local": "images/news_96b4bfb3fe8a574ffc96.jpg"
     },
@@ -286,7 +644,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.4,
+      "score": 97.3,
       "story_size": 1,
       "image_local": "images/news_c81bde910a9bec470a9c.jpg"
     },
@@ -305,7 +663,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.9,
+      "score": 96.8,
       "story_size": 1,
       "image_local": "images/news_84068d210e4411952da2.webp"
     },
@@ -324,7 +682,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.8,
+      "score": 96.7,
       "story_size": 1
     },
     {
@@ -342,15 +700,34 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.4,
+      "score": 96.4,
       "story_size": 1,
       "image_local": "images/news_db8b128786cdcf8aec58.jpg"
+    },
+    {
+      "title": "विराटनगर किंग्सले बनायो पाँच ओभरमै १०५ रन",
+      "link": "https://www.ratopati.com/story/602518/biratnagar-kings-scored-105-runs-in-five-overs",
+      "description": "काठमाडौँ । विराटनगर किंग्सले सुदूरपश्चिम रोयल्सलाई १०६ रनको लक्ष्य दिएको छ । त्रिवि क्रकेट मैदान कीर्तिपुरमा वर्षाले प्रभावित बनेको खेल छोट्याएर ५ ओभरमा झारिएको थियो । जहाँ टस हारेर पहिला ब्याटिङमा उत्रिएको विराटनगरले २ विकेटको क्षतिमा",
+      "published": "2026-10-31T16:16:25+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/biratngar_shejN38VPL.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "687ea2a8ef712c17",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 96.2,
+      "story_size": 1,
+      "image_local": "images/news_a31222a991f58b3e49f0.webp"
     },
     {
       "title": "विराटनगरको पहिलो जित, सुदूरपश्चिम ३५ रनले निराश",
       "link": "https://baahrakhari.com/detail/506226",
       "description": "",
-      "published": "2026-10-31T22:46:45+05:45",
+      "published": "2026-10-31T22:46:00+05:45",
       "source": "Baahrakhari",
       "category": "nepal",
       "image": "",
@@ -361,7 +738,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.2,
+      "score": 96.1,
       "story_size": 1
     },
     {
@@ -379,44 +756,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.2,
-      "story_size": 1
-    },
-    {
-      "title": "विराटनगर किंग्सले बनायो पाँच ओभरमै १०५ रन",
-      "link": "https://www.ratopati.com/story/602518/biratnagar-kings-scored-105-runs-in-five-overs",
-      "description": "काठमाडौँ । विराटनगर किंग्सले सुदूरपश्चिम रोयल्सलाई १०६ रनको लक्ष्य दिएको छ । त्रिवि क्रकेट मैदान कीर्तिपुरमा वर्षाले प्रभावित बनेको खेल छोट्याएर ५ ओभरमा झारिएको थियो । जहाँ टस हारेर पहिला ब्याटिङमा उत्रिएको विराटनगरले २ विकेटको क्षतिमा",
-      "published": "2026-10-31T16:16:25+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/biratngar_shejN38VPL.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "687ea2a8ef712c17",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.2,
-      "story_size": 1,
-      "image_local": "images/news_a31222a991f58b3e49f0.webp"
-    },
-    {
-      "title": "पाँच ओभरको खेलमा विराटनगरको धमाका, सुदूरपश्चिम ३५ रनले हार्‍यो",
-      "link": "https://www.setopati.com/sports/npl/401719",
-      "description": "नेपाल प्रिमियर लिग (एनपिएल) मा विराटनगर किंग्सले वर्षाले प्रभावित खेलमा सुदूरपश्चिम रोयल्सलाई ३५ रनले पराजित गरेको छ। विराटनगरले प्रतियोगितामा पहिलो जित दर्ता गरेको हो।",
-      "published": "2026-10-31T22:44:00+05:45",
-      "source": "Setopati",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Setopati"
-      ],
-      "id": "4b3f15a9d784826c",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.1,
+      "score": 96.1,
       "story_size": 1
     },
     {
@@ -434,9 +774,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.1,
+      "score": 96.1,
       "story_size": 1,
       "image_local": "images/news_db855883a98be7ee1a17.webp"
+    },
+    {
+      "title": "पाँच ओभरको खेलमा विराटनगरको धमाका, सुदूरपश्चिम ३५ रनले हार्‍यो",
+      "link": "https://www.setopati.com/sports/npl/401719",
+      "description": "नेपाल प्रिमियर लिग (एनपिएल) मा विराटनगर किंग्सले वर्षाले प्रभावित खेलमा सुदूरपश्चिम रोयल्सलाई ३५ रनले पराजित गरेको छ। विराटनगरले प्रतियोगितामा पहिलो जित दर्ता गरेको हो।",
+      "published": "2026-10-31T22:44:00+05:45",
+      "source": "Setopati",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "4b3f15a9d784826c",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 96.0,
+      "story_size": 1
     },
     {
       "title": "रसेल चम्कँदा विराटनगरले सुदूरपश्चिमलाई हरायो",
@@ -453,7 +811,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.9,
+      "score": 95.8,
       "story_size": 1
     },
     {
@@ -471,7 +829,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.0,
+      "score": 94.9,
       "story_size": 1,
       "image_local": "images/news_6cfb372138130d9060db.jpg"
     },
@@ -490,7 +848,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.9,
+      "score": 94.9,
       "story_size": 1,
       "image_local": "images/news_6d27d6e7b54bd8fabd81.jpg"
     },
@@ -509,43 +867,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.8,
-      "story_size": 1
-    },
-    {
-      "title": "सिलु हेरेपछि म भन्थेँ– ठूली हुन्छु, बिहे गर्छु तर आफ्नो श्रीमानसँग गोसाइँकुण्ड कहिल्यै जान्नँ!",
-      "link": "https://www.setopati.com/opinion/401716",
-      "description": "हाम्रा पुर्खाहरूले कथा सुनाउन आजको जस्तो ठूलो पर्दा वा आधुनिक प्रविधि प्रयोग गर्नुपर्दैनथ्यो। उनीहरूसँग आफ्नै माध्यम थिए।",
-      "published": "2026-10-31T22:16:00+05:45",
-      "source": "Setopati",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Setopati"
-      ],
-      "id": "f9e9a959dad2f1df",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 107.2,
-      "story_size": 1
-    },
-    {
-      "title": "विराटनगरविरुद्ध सुदूरपश्चिमले पहिलो बलमै विकेट गुमायो",
-      "link": "https://baahrakhari.com/detail/506224",
-      "description": "",
-      "published": "2026-10-31T22:16:00+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "62b87d1b2d78b18e",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 107.2,
+      "score": 94.7,
       "story_size": 1
     },
     {
@@ -563,9 +885,45 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.2,
+      "score": 94.2,
       "story_size": 1,
       "image_local": "images/news_b84292a67e68fe7a5083.jpg"
+    },
+    {
+      "title": "सिलु हेरेपछि म भन्थेँ– ठूली हुन्छु, बिहे गर्छु तर आफ्नो श्रीमानसँग गोसाइँकुण्ड कहिल्यै जान्नँ!",
+      "link": "https://www.setopati.com/opinion/401716",
+      "description": "हाम्रा पुर्खाहरूले कथा सुनाउन आजको जस्तो ठूलो पर्दा वा आधुनिक प्रविधि प्रयोग गर्नुपर्दैनथ्यो। उनीहरूसँग आफ्नै माध्यम थिए।",
+      "published": "2026-10-31T22:16:00+05:45",
+      "source": "Setopati",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "f9e9a959dad2f1df",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 94.1,
+      "story_size": 1
+    },
+    {
+      "title": "विराटनगरविरुद्ध सुदूरपश्चिमले पहिलो बलमै विकेट गुमायो",
+      "link": "https://baahrakhari.com/detail/506224",
+      "description": "",
+      "published": "2026-10-31T22:16:00+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "62b87d1b2d78b18e",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 94.1,
+      "story_size": 1
     },
     {
       "title": "५ ओभरमा १०६ रनको लक्ष्य पछ्याएको सुदूरपश्चिमले गुमायो पहिलो विकेट",
@@ -582,7 +940,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.1,
+      "score": 94.0,
       "story_size": 1
     },
     {
@@ -600,7 +958,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.5,
+      "score": 93.4,
       "story_size": 1,
       "image_local": "images/news_90d320ede9fbca407e9c.webp"
     },
@@ -619,7 +977,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.4,
+      "score": 93.3,
       "story_size": 1
     },
     {
@@ -637,7 +995,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.4,
+      "score": 93.3,
       "story_size": 1
     },
     {
@@ -655,7 +1013,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.2,
+      "score": 93.2,
       "story_size": 1
     },
     {
@@ -673,7 +1031,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.2,
+      "score": 93.1,
       "story_size": 1
     },
     {
@@ -691,7 +1049,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.1,
+      "score": 93.1,
       "story_size": 1
     },
     {
@@ -709,7 +1067,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.1,
+      "score": 93.1,
       "story_size": 1
     },
     {
@@ -727,7 +1085,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.1,
+      "score": 93.0,
       "story_size": 1
     },
     {
@@ -745,7 +1103,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.1,
+      "score": 93.0,
       "story_size": 1
     },
     {
@@ -763,7 +1121,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.1,
+      "score": 93.0,
       "story_size": 1
     },
     {
@@ -781,7 +1139,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.0,
+      "score": 93.0,
       "story_size": 1
     },
     {
@@ -799,7 +1157,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.0,
+      "score": 92.9,
       "story_size": 1
     },
     {
@@ -817,7 +1175,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.9,
+      "score": 92.8,
       "story_size": 1
     },
     {
@@ -835,7 +1193,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.8,
+      "score": 92.8,
+      "story_size": 1
+    },
+    {
+      "title": "सडक निर्माणमा ‘सेतोपत्र’ बहस : महँगो प्रविधि, तर टिकाउ",
+      "link": "https://www.onlinekhabar.com/2026/10/2047549/white-paper-debate-on-road-construction-expensive-technology-but-durable",
+      "description": "स्वदेशी उत्पादित सिमेन्ट खपत बढाउन सरकारले पटक–पटक सेतोपत्र सडकको नीति लिए पनि ठोस कार्यान्वयन भने हुन सकेको छैन । नयाँ निर्देशिका मार्फत सरकारले पुन: सेतोपत्र सडकको अवधारणा अगाडि बढाएको छ ।",
+      "published": "2026-10-31T16:09:14+00:00",
+      "source": "OnlineKhabar",
+      "category": "tech",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "e3e04dc7b2dda0fc",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 92.7,
       "story_size": 1
     },
     {
@@ -853,7 +1229,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.8,
+      "score": 92.7,
       "story_size": 1,
       "image_local": "images/news_de30f15767625d6e207d.jpg"
     },
@@ -872,27 +1248,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.8,
+      "score": 92.7,
       "story_size": 1,
       "image_local": "images/news_cc4f0fe1af5a364bcb96.webp"
-    },
-    {
-      "title": "सडक निर्माणमा ‘सेतोपत्र’ बहस : महँगो प्रविधि, तर टिकाउ",
-      "link": "https://www.onlinekhabar.com/2026/10/2047549/white-paper-debate-on-road-construction-expensive-technology-but-durable",
-      "description": "स्वदेशी उत्पादित सिमेन्ट खपत बढाउन सरकारले पटक–पटक सेतोपत्र सडकको नीति लिए पनि ठोस कार्यान्वयन भने हुन सकेको छैन । नयाँ निर्देशिका मार्फत सरकारले पुन: सेतोपत्र सडकको अवधारणा अगाडि बढाएको छ ।",
-      "published": "2026-10-31T16:09:14+00:00",
-      "source": "OnlineKhabar",
-      "category": "tech",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "e3e04dc7b2dda0fc",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 105.7,
-      "story_size": 1
     },
     {
       "title": "बेलायती प्रधानमन्त्री दासत्वको माफी माग्नका लागि तयार, क्षतिपूर्ति दिने कुरा अस्वीकार",
@@ -909,7 +1267,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.7,
+      "score": 92.6,
       "story_size": 1,
       "image_local": "images/news_93d7d4d08e75d9ff5566.jpg"
     },
@@ -928,85 +1286,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.6,
+      "score": 92.6,
       "story_size": 1,
       "image_local": "images/news_da5efce1df67334ebfcf.jpg"
-    },
-    {
-      "title": "बैंकक सम्मेलनमा सहभागी भई ऊर्जा मन्त्री विराजभक्त श्रेष्ठ स्वदेश फिर्ता",
-      "link": "https://www.ratopati.com/story/602509/energy-minister-biraj-bhakta-shrestha-returns-home-after-attending-the-bangkok-conference",
-      "description": "काठमाडौँ । ऊर्जा, जलस्रोत तथा सिँचाइमन्त्री विराजभक्त श्रेष्ठ थाइल्याण्डको बैंककमा आयोजित अन्तरराष्ट्रिय सम्मेलनमा सहभागी भएर आज स्वदेश फर्किएका छन्। संयुक्त राष्ट्रसङ्घीय एसिया तथा प्रशान्त क्षेत्रका लागि आर्थिक तथा सामाजिक आयोग (यूएन-ईएससीएपी) द्वारा आयोजित ‘दिगो विकासका लागि अन्तरिक्ष",
-      "published": "2026-10-31T15:19:27+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/biraj-bhakta_HElxaxsUgG.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "64446fc30e732503",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 105.4,
-      "story_size": 1,
-      "image_local": "images/news_32c6b60d4b4ad0f85044.webp"
-    },
-    {
-      "title": "एसईई र रजिस्ट्रेसनका नाममा सरकारी दोहोरो चरित्र : नियमावली विपरीत राजस्व असुली",
-      "link": "https://www.ratopati.com/story/602497/governments-double-standards-in-the-name-of-see-and-registration-revenue-collection-contrary-to-regulations",
-      "description": "काठमाडौँ । नेपालको वर्तमान संविधान धारा ३१ मा माध्यमिक तह (कक्षा १२) सम्मको शिक्षा निःशुल्क हुने स्पष्ट व्यवस्था भए पनि सरकार आफैँले विद्यार्थीबाट दर्जनभन्दा बढी शीर्षकमा बर्सेनि गैरकानुनी शुल्क असुल गर्दै आएको छ । अनिवार्य तथा",
-      "published": "2026-10-31T15:15:00+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/badhi-student-(14)_tWG7QDpAe2.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "9a5f72468c5eb4e0",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 105.1,
-      "story_size": 1,
-      "image_local": "images/news_366cb16c4eca3fd7bf53.webp"
-    },
-    {
-      "title": "सुदूरपश्चिम र विराटनगरबिच खेल हुने, टस राति ९ बजे",
-      "link": "https://www.ratopati.com/story/602507/the-match-will-be-played-between-sudurpaschim-and-biratnagar-the-toss-will-be-at-9-pm",
-      "description": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपीएल) अन्तर्गत सुदूरपश्चिम रोयल्स र विराटनगर किङ्सबीचको खेलको टस राति ९ बजे हुने भएको छ । त्रिवि अन्तर्राष्ट्रिय क्रिकेट मैदानको खराब अवस्थाका कारण निर्धारित समयमा खेल सुरु हुन नसकेपछि टसको समय",
-      "published": "2026-10-31T15:12:44+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/npl-darshak1-1_wTasubrob2.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "3914bf89530e39de",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 105.0,
-      "story_size": 1,
-      "image_local": "images/news_4774e4e6293cf886006a.webp"
-    },
-    {
-      "title": "बडीमालिकामा हिमपातमा फसेका एक पर्यटकको हेलिकप्टरबाट उद्धार",
-      "link": "https://www.ratopati.com/story/602505/tourist-trapped-in-snowfall-in-badimalika-rescued-by-helicopter",
-      "description": "बाजुरा । धार्मिक तथा पर्यटकीय क्षेत्र बडीमालिकामा हिमपातपछि फसेका दुई जना पर्यटकमध्ये एक जनाको नेपाली सेनाको हेलिकप्टरमार्फत उद्धार गरिएको छ। भारी हिमपातका कारण बडीमालिकास्थित त्रिवेणी पाटनमा फसेका कञ्चनपुरको कृष्णपुर नगरपालिका-२ का २१ वर्षीय सागर कार्कीको उद्धार",
-      "published": "2026-10-31T15:08:17+00:00",
-      "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/sujanyapragiyabajura_rss_14_whatsappimage2026-10-31at60358pm_6cBGosleqA.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "f64ef26668091523",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 104.7,
-      "story_size": 1,
-      "image_local": "images/news_7eba48b6ae6839eb61f6.webp"
     },
     {
       "title": "संविधान र डेमोक्रेसीभन्दा माथि कोही माईका लाल छैन– रवि लामिछाने",
@@ -1023,7 +1305,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.6,
+      "score": 91.5,
       "story_size": 1
     },
     {
@@ -1041,27 +1323,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.5,
+      "score": 91.5,
       "story_size": 1
-    },
-    {
-      "title": "१० खेलाडीमा समेटिएको म्यानचेस्टर युनाइटेडमाथि चेल्सीको सहज जित",
-      "link": "https://www.ratopati.com/story/602504/chelsea-comfortably-beat-10-man-manchester-united",
-      "description": "लन्डन । इंग्लिस प्रिमियर लिग फुटबलमा चेल्सीले म्यानचेस्टर युनाइटेडमाथि २–० गोलको सहज जित हात पारेको छ। घरेलु मैदानमा उत्कृष्ट प्रदर्शन गर्दै चेल्सीले शनिबार राति महत्त्वपूर्ण ३ अंक बटुलेर लिग तालिकाको चौथो स्थानमा उक्लिन सफल भएको छ भने",
-      "published": "2026-10-31T15:01:58+00:00",
-      "source": "Ratopati",
-      "category": "sports",
-      "image": "https://npcdn.ratopati.com/media/news/premier-league_OiJU18Fsmd.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "8b1e1bd4d191b672",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 104.3,
-      "story_size": 1,
-      "image_local": "images/news_83c0fd77cc38b6b95a76.webp"
     },
     {
       "title": "कुलेखानीको जलसतह बढेपछि उच्च सतर्कता अपनाउन सर्लाही प्रशासनको आग्रह",
@@ -1078,27 +1341,8 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 104.3,
+      "score": 91.3,
       "story_size": 1
-    },
-    {
-      "title": "क्रिकेट नभएपछि मैदानमै फुटबल र भलिबल खेल्न थाले खेलाडी",
-      "link": "https://www.ratopati.com/story/602503/players-started-playing-football-and-volleyball-on-the-field-after-there-was-no-cricket",
-      "description": "काठमाडौं । दिनभर वर्षाले अवरुद्ध भएको नेपाल प्रिमियर लिग (एनपीएल) अन्तर्गत शनिबारको खेल स्थगित हुने भएपछि मैदानमा रहेका खेलाडीले फुटबल र भलिबल खेल्न थालेका छन् । विराटनगर किङ्स र सुदूरपश्चिम रोयल्सबिचको खेल आउटफिल्डको अवस्थालाई लिएर विवाद",
-      "published": "2026-10-31T14:49:35+00:00",
-      "source": "Ratopati",
-      "category": "sports",
-      "image": "https://npcdn.ratopati.com/media/news/tu-volleyball_KPBlxn2QvH.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "15b3c3419765898f",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 103.4,
-      "story_size": 1,
-      "image_local": "images/news_6999f32c4c7db00bc797.webp"
     },
     {
       "title": "टस जितेको सुदूरपश्चिमले पहिले फिल्डिङ गर्दै",
@@ -1115,25 +1359,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.0,
-      "story_size": 1
-    },
-    {
-      "title": "लामो रस्साकस्सीपछि विराटनगरविरूद्ध सुदूरपश्चिम खेल्न तयार, ५ ओभरको खेलमा विराटनगर ब्याटिङमा",
-      "link": "https://www.setopati.com/sports/npl/401714",
-      "description": "नेपाल प्रिमियर लिग (एनपिएल) अन्तर्गत विराटनगर किंग्स र सुदूरपश्चिम रोयल्सबीच अन्ततः खेल हुने भएको छ।",
-      "published": "2026-10-31T21:10:00+05:45",
-      "source": "Setopati",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Setopati"
-      ],
-      "id": "df907d2ad817ad0a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 102.8,
+      "score": 90.0,
       "story_size": 1
     },
     {
@@ -1151,27 +1377,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.7,
+      "score": 89.7,
       "story_size": 1
-    },
-    {
-      "title": "लोकसेवा तयारी : २८ औँ श्रृङ्खलामा १७ वटा वस्तुगत प्रश्नोत्तर",
-      "link": "https://gorkhapatraonline.com/news/227845",
-      "description": "काठमाडौँ, कात्तिक १४ गते । गोरखापत्रको लोकसेवा तयारी विशेष कार्यक्रमको २८ औँ श्रृङ्खलामा १७ वटा वस्तुगत प्रश्नोत्तर समावेश छन् । गोरखापत्र अनलाइनका लागि सपना थामी, मनोजरत्न शाही र...",
-      "published": "2026-10-31T20:23:46+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/389772/conversions/Loksewa-sketch-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "fb9217c14d6de37d",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 102.7,
-      "story_size": 1,
-      "image_local": "images/news_6cab8b21a92727ec7ab8.jpg"
     },
     {
       "title": "सुदूरपश्चिम र विराटनगरबीचको खेलमा अन्योल, सुदूरपश्चिमका खेलाडीले मैदान छाडे",
@@ -1188,103 +1395,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.3,
+      "score": 89.2,
       "story_size": 1
-    },
-    {
-      "title": "त्रिविमा खेल सुरु गर्न दबाब : कसैले मोबाइलको टर्च बाले, कसैले देउसीभैलो भट्याए",
-      "link": "https://www.ratopati.com/story/602502/pressure-to-start-sports-at-tribhuvan-university-some-turned-on-mobile-flashlights-others-threw-deusi-bhailo",
-      "description": "काठमाडौँ । वर्षाका कारण ढिला गरी सुरु हुन लागेको नेपाल प्रिमियर लिग (एनपीएल) अन्तर्गत सुदूरपश्चिम रोयल्स र विराटनगर किंग्सबीचको खेलमा अझै टस हुन सकेको छैन । सुदूरपश्चिम रोयल्सले टस गर्न आनाकानी गरेपछि खेल सुरु हुन थप",
-      "published": "2026-10-31T14:28:21+00:00",
-      "source": "Ratopati",
-      "category": "tech",
-      "image": "https://npcdn.ratopati.com/media/news/npl-darshak_63URDLQwHL.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "78fd490d1f16a409",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 102.0,
-      "story_size": 1,
-      "image_local": "images/news_ac7f38d5a5d5807fe240.webp"
-    },
-    {
-      "title": "चाउचाउ निर्यातमा फड्को, मोटरसाइकल, तयारी कपडा र टाइल आयात ओरालो",
-      "link": "https://www.ratopati.com/story/602485/noodle-exports-surge-motorcycle-ready-made-garment-and-tile-imports-decline",
-      "description": "विराटनगर । चालु आर्थिक वर्ष २०८३/८४ को पहिलो त्रैमासिक (साउन–असोज) अवधिमा विराटनगर भन्सार नाका हुँदै हुने वैदेशिक व्यापारको आकारमा उल्लेख्य वृद्धि भएको छ। गत आर्थिक वर्षको सोही अवधिको तुलनामा यस वर्ष औद्योगिक कच्चा पदार्थ, इन्धन तथा निर्माण",
-      "published": "2026-10-31T14:15:00+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/bhansar-biratnagar-import_DSdHCkF1Z1.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "0d2b292edb99f4e2",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 101.1,
-      "story_size": 1,
-      "image_local": "images/news_718b77891c7ce5511c21.webp"
-    },
-    {
-      "title": "एनपीएल : खेल सुरु हुन ढिलाइ भएपछि समर्थकले भट्याए देउसीभैलो",
-      "link": "https://www.ratopati.com/story/602501/npl-fans-storm-deusivhailo-after-match-start-delay",
-      "description": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपीएल) अन्तर्गत विराटनगर किङ्स र सुदूरपश्चिम रोयल्सबिचको खेल सुरु हुन ढिलाइ भएपछि समर्थकले देउसीभैलो शैलीमा भट्याउन थालेका छन् । त्रिवि अन्तर्राष्ट्रिय क्रिकेट मैदानमा खेल हेर्न पुगेका समर्थकले तिहारको देउसीभैलोको भाकामा खेल",
-      "published": "2026-10-31T14:08:55+00:00",
-      "source": "Ratopati",
-      "category": "tech",
-      "image": "https://npcdn.ratopati.com/media/news/tu-ground-lights-npl-2_dskEPpJ7dh.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "70f0693fe500b598",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 100.7,
-      "story_size": 1,
-      "image_local": "images/news_30e9b3191a6387386f6a.webp"
-    },
-    {
-      "title": "टस गर्न सुदूरपश्चिमको आनाकानी, खेल सुरु हुन ढिलाइ",
-      "link": "https://www.ratopati.com/story/602500/sudurpaschims-reluctance-to-toss-delays-start-of-match",
-      "description": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपीएल) अन्तर्गत विराटनगर किङ्स र सुदूरपश्चिम रोयल्सबिचको खेल सुरु हुन ढिलाइ भएको छ । निर्धारित समय बितिसक्दा पनि टस हुन सकेको छैन । सुदूरपश्चिम रोयल्सका कप्तान दीपेन्द्रसिंह ऐरीले केही संकेत गरिरहेका",
-      "published": "2026-10-31T14:02:01+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/tu-ground-lights-npl-4_rxbkeOtdKM.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "9a8281be25f38636",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 100.3,
-      "story_size": 1,
-      "image_local": "images/news_de36386dce4a6960ba3b.webp"
-    },
-    {
-      "title": "डेभिड वार्नरले सोमबार कर्णाली याक्सविरुद्ध खेल्ने",
-      "link": "https://www.ratopati.com/story/602499/david-warner-to-play-against-karnali-yaks-on-monday",
-      "description": "काठमाडौं । नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करणमा काठमाडौँ गोर्खाजमा आबद्ध भएका अस्ट्रेलियाका अनुभवी ब्याटर डेभिड वार्नर कात्तिक १६ गते सोमबार मैदानमा उत्रिने भएका छन् । काठमाडौँ गोर्खाजले आफ्नो आधिकारिक फेसबुक पेजमार्फत वार्नरलाई मैदानमा हेर्न",
-      "published": "2026-10-31T14:00:23+00:00",
-      "source": "Ratopati",
-      "category": "business",
-      "image": "https://npcdn.ratopati.com/media/news/david-warner_px1WI4cgPX.png",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "6f440b6f300ccacd",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 100.2,
-      "story_size": 1,
-      "image_local": "images/news_d94006fa52a9fd692fd9.png"
     },
     {
       "title": "सुदूरपश्चिम र विराटनगरको खेल हुनेमा अन्यौल",
@@ -1301,103 +1413,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.0,
+      "score": 87.0,
       "story_size": 1
-    },
-    {
-      "title": "कांग्रेस सभापति थापाले भोलि समसामयिक विषयमा पार्टीको धारणा सार्वजनिक गर्ने",
-      "link": "https://www.ratopati.com/story/602498/nepali-congress-president-thapa-to-make-partys-views-on-current-issues-public-tomorrow",
-      "description": "काठमाडौँ । नेपाली कांग्रेसका सभापति गगनकुमार थापाले मुलुकको समसामयिक राजनीतिक परिस्थितिबारे विशेष सम्बोधन गर्ने भएका छन् । पार्टी केन्द्रीय कार्यालयका अनुसार भोलि दिउँसो २ बजे केन्द्रीय कार्यालय, सानेपामा सभापति थापाले सम्बोधन गर्न लागेका हुन् । नेपाली कांग्रेसका",
-      "published": "2026-10-31T13:54:21+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/gagan-thapa-1_HAIX4LKzL4.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "ef3787dc7f491f44",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 99.7,
-      "story_size": 1,
-      "image_local": "images/news_37143f763f094c3088fa.webp"
-    },
-    {
-      "title": "अध्यक्ष ओलीद्वारा संविधानसभा सदस्य तामाङको निधनप्रति श्रद्धाञ्जली व्यक्त",
-      "link": "https://gorkhapatraonline.com/news/227843",
-      "description": "काठमाडौँ, कात्तिक १४ गते । नेपाल कम्युनिष्ट पार्टी (एमाले) का अध्यक्ष केपी शर्मा ओलीले संविधानसभा सदस्य छोवाङ तेञ्जेन तामाङको निधनमा श्रद्धाञ्जली व्यक्त गर्नुभएको छ । सो पार्टीका प...",
-      "published": "2026-10-31T19:38:57+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/389757/conversions/Kp-oli-speech-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "80f2442e744d2d36",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 99.7,
-      "story_size": 1,
-      "image_local": "images/news_cdc19182de1ead7234c0.jpg"
-    },
-    {
-      "title": "सञ्चारकर्मीमाथि भएको व्यवहारको छानबिन गरी दोषीमाथि कारबाही गर्न रास्वपाको निर्देशन",
-      "link": "https://gorkhapatraonline.com/news/227842",
-      "description": "काठमाडौँ, कात्तिक १४ गते । राष्ट्रिय स्वतन्त्र पार्टीले पत्रकार सञ्चारकर्मीमाथि समाचारका विषयलाई लिएर सोधपुछ तथा समाचार कक्षमा प्रहरी प्रवेश गरी भएका गतिविधिको छानबिन गरी दोषीलाई य...",
-      "published": "2026-10-31T19:30:58+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "politics",
-      "image": "https://gorkhapatraonline.com/storage/media/389756/conversions/Jagadish-Kharel-Byte-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "27f964311da5fd6d",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 99.2,
-      "story_size": 1,
-      "image_local": "images/news_3477ab77c6c9d710aeee.jpg"
-    },
-    {
-      "title": "कांग्रेसको नयाँ कार्यसमितिका के छन् कार्ययोजना ?",
-      "link": "https://www.ratopati.com/story/602482/what-is-the-action-plan-of-the-new-congress-working-committee",
-      "description": "काठमाडौँ । नेपाली कांग्रेसको १५औँ महाधिवेशनबाट निर्वाचित केन्द्रीय कार्यसमितिको पहिलो बैठक बिहीबार पार्टी केन्द्रीय कार्यालय सानेपामा बस्यो । पार्टीका पदाधिकारी तथा केन्द्रीय सदस्यहरूलाई निर्वाचन समितिको रोहवरमा पद तथा गोपनीयताको शपथ गराएपछि बसेको बैठकमा नवनिर्वाचित सभापति गगन",
-      "published": "2026-10-31T13:45:00+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/gagan-thapa_4BhE8xd6bd.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "000eed59454be790",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 99.1,
-      "story_size": 1,
-      "image_local": "images/news_d9a7017cdbb34e8d66f1.webp"
-    },
-    {
-      "title": "कांग्रेस केन्द्रीय कार्यसमिति बैठक आइतबार",
-      "link": "https://gorkhapatraonline.com/news/227841",
-      "description": "ललितपुर, कात्तिक १४ गते । नेपाली कांग्रेस केन्द्रीय कार्यसमितिको बैठक आइतबार बस्ने भएको छ ।पार्टीका कार्यवाहक मुख्यसचिव कृष्णप्रसाद दुलालले दिनुभएको जानकारी अनुसार पार्टीको केन्द्र...",
-      "published": "2026-10-31T19:23:25+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "politics",
-      "image": "https://gorkhapatraonline.com/storage/media/389755/conversions/congress-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "5b1b01b45c619448",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 98.7,
-      "story_size": 1,
-      "image_local": "images/news_397986963808194197aa.jpg"
     },
     {
       "title": "अमेरिका र इजरायललाई इरानको चेतावनी- फेरि युद्धको कल्पना नगर्नू",
@@ -1414,7 +1431,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.3,
+      "score": 85.2,
       "story_size": 1
     },
     {
@@ -1432,7 +1449,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.8,
+      "score": 84.8,
       "story_size": 1
     },
     {
@@ -1450,7 +1467,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.8,
+      "score": 84.7,
       "story_size": 1
     },
     {
@@ -1468,7 +1485,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.5,
+      "score": 84.5,
       "story_size": 1
     },
     {
@@ -1486,7 +1503,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.9,
+      "score": 83.8,
       "story_size": 1
     },
     {
@@ -1504,7 +1521,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.2,
+      "score": 83.1,
       "story_size": 1
     },
     {
@@ -1522,7 +1539,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.9,
+      "score": 82.9,
+      "story_size": 1
+    },
+    {
+      "title": "तीन दशकपछि संयुक्त राष्ट्रसङ्घको सोमालियामा जारी राजनीतिक अभियान अन्त्य",
+      "link": "https://kendrabindu.com/world/567944/",
+      "description": "नैरोबी । संयुक्त राष्ट्रसङ्घको सोमालियाका लागि रहँदै आएको राजनीतिक अभियान दुई वर्षे सङ्क्रमणकालपछि शनिबार समाप्त भएको छ । यसले पूर्वी अफ्रिकी राष्ट्रमा तीन दशकभन्दा बढी समयदेखि चलेको संयुक्त राष्ट्रसङ्घको शान्ति निर्माण कार्यको अध्याय बन्द गरेको छ । युएनसोमलाई संयुक्त राष्ट्रसङ्घ सुरक्षा परिषद्ले सन् २०१३ मा स्थापना गरेको थियो। यसले सोमाली अधिकारीहरूलाई दुई दशकभन्दा बढीको द्वन्द्वपछि [&#8230;]",
+      "published": "2026-10-31T13:37:12+00:00",
+      "source": "Kendrabindu",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "5cadbf7cad58633e",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 82.6,
       "story_size": 1
     },
     {
@@ -1540,7 +1575,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.3,
+      "score": 82.3,
       "story_size": 1
     },
     {
@@ -1558,7 +1593,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.3,
+      "score": 82.3,
       "story_size": 1
     },
     {
@@ -1576,7 +1611,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.1,
+      "score": 82.1,
       "story_size": 1
     },
     {
@@ -1594,7 +1629,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.6,
+      "score": 81.6,
       "story_size": 1
     },
     {
@@ -1612,7 +1647,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.6,
+      "score": 81.6,
       "story_size": 1
     },
     {
@@ -1630,7 +1665,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.1,
+      "score": 81.1,
       "story_size": 1
     },
     {
@@ -1648,7 +1683,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.0,
+      "score": 81.0,
       "story_size": 1
     },
     {
@@ -1666,7 +1701,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.9,
+      "score": 80.8,
       "story_size": 1
     },
     {
@@ -1684,7 +1719,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.4,
+      "score": 80.3,
       "story_size": 1
     },
     {
@@ -1702,7 +1737,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.1,
+      "score": 80.1,
       "story_size": 1
     },
     {
@@ -1720,7 +1755,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.0,
+      "score": 80.0,
       "story_size": 1
     },
     {
@@ -1738,7 +1773,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.9,
+      "score": 79.9,
       "story_size": 2
     },
     {
@@ -1756,7 +1791,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.3,
+      "score": 79.2,
       "story_size": 1
     },
     {
@@ -1774,7 +1809,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.9,
+      "score": 78.9,
       "story_size": 1
     },
     {
@@ -1792,7 +1827,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.5,
+      "score": 78.4,
       "story_size": 1
     },
     {
@@ -1810,7 +1845,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.3,
+      "score": 78.3,
       "story_size": 1
     },
     {
@@ -1828,7 +1863,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.8,
+      "score": 77.7,
       "story_size": 1
     },
     {
@@ -1846,7 +1881,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.3,
+      "score": 77.3,
       "story_size": 1
     },
     {
@@ -1864,7 +1899,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.3,
+      "score": 77.2,
       "story_size": 1
     },
     {
@@ -1882,7 +1917,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.0,
+      "score": 76.9,
       "story_size": 1
     },
     {
@@ -1900,7 +1935,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.4,
+      "score": 76.4,
       "story_size": 1
     },
     {
@@ -1918,7 +1953,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.1,
+      "score": 76.1,
       "story_size": 1
     },
     {
@@ -1936,7 +1971,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.6,
+      "score": 74.5,
       "story_size": 1
     },
     {
@@ -1954,7 +1989,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.8,
+      "score": 73.7,
       "story_size": 1
     },
     {
@@ -1972,7 +2007,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.7,
+      "score": 73.7,
       "story_size": 1
     },
     {
@@ -1990,7 +2025,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.1,
+      "score": 73.1,
       "story_size": 1
     },
     {
@@ -2008,7 +2043,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.9,
+      "score": 72.8,
       "story_size": 1
     },
     {
@@ -2026,7 +2061,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.4,
+      "score": 72.3,
       "story_size": 1
     },
     {
@@ -2044,7 +2079,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.9,
+      "score": 71.9,
       "story_size": 1
     },
     {
@@ -2062,7 +2097,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.5,
+      "score": 71.4,
       "story_size": 1
     },
     {
@@ -2080,7 +2115,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.2,
+      "score": 70.1,
       "story_size": 1
     },
     {
@@ -2098,7 +2133,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.1,
+      "score": 70.0,
       "story_size": 1
     },
     {
@@ -2116,7 +2151,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.9,
+      "score": 68.8,
       "story_size": 1
     },
     {
@@ -2134,7 +2169,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.5,
+      "score": 68.4,
       "story_size": 1
     },
     {
@@ -2152,7 +2187,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.0,
+      "score": 67.0,
       "story_size": 1
     },
     {
@@ -2170,7 +2205,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.5,
+      "score": 66.4,
       "story_size": 1
     },
     {
@@ -2188,7 +2223,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.8,
+      "score": 63.8,
       "story_size": 1
     },
     {
@@ -2206,7 +2241,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.9,
+      "score": 62.8,
       "story_size": 1
     },
     {
@@ -2224,7 +2259,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.4,
+      "score": 62.4,
       "story_size": 1
     },
     {
@@ -2242,7 +2277,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.4,
+      "score": 62.4,
       "story_size": 1
     },
     {
@@ -2260,7 +2295,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.7,
+      "score": 61.7,
       "story_size": 1
     },
     {
@@ -2278,7 +2313,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.5,
+      "score": 57.5,
       "story_size": 1
     },
     {
@@ -2296,7 +2331,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 61.4,
+      "score": 48.3,
       "story_size": 1
     },
     {
@@ -2314,7 +2349,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 61.1,
+      "score": 48.1,
       "story_size": 1
     },
     {
@@ -2332,7 +2367,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 60.1,
+      "score": 47.1,
       "story_size": 1
     },
     {
@@ -2350,7 +2385,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 58.4,
+      "score": 45.3,
       "story_size": 1
     },
     {
@@ -2368,7 +2403,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 53.9,
+      "score": 40.9,
       "story_size": 1
     },
     {
@@ -2386,7 +2421,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 53.7,
+      "score": 40.7,
       "story_size": 1
     },
     {
@@ -2725,42 +2760,6 @@
         "Lokaantar"
       ],
       "id": "6e20fc4171ef1180",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "ऊर्जामन्त्री श्रेष्ठ स्वदेश फर्किए",
-      "link": "http://lokaantar.com/story/332290/2026/10/31/urja-",
-      "description": "ऊर्जा, जलस्रोत तथा सिँचाइमन्त्री विराजभक्त श्रेष्ठ थाइल्याण्डको बैंककमा आयोजित अन्तर्राष्ट्रिय सम्मेलनमा सहभागी भएर शनिबार स्वदेश फर्किएका छन् ।संयुक्त राष्ट्रसङ्घीय एसिया तथा प्रशान्त क्षेत्रका लागि आर्थिक तथा सामाजिक आयोग (यूएन&ndash;ईएससीएपी) द्वारा आयोजित दिगो विकासका लागि अन्तरिक्ष प्रविधिको उपयोगसम्बन्धी पाँचौँ मन्त्रीस्तरीय सम्मेलनमा सहभागी हुन उनी मङ्गलबार बैंकक गएका थिए ।सम्मेलनमा मन्त्री श्रेष्ठले नेपालले भोगेका जलवायुजन्य विपद्, हिमाली क्षेत्रको उत्थानशीलता र विपद् पूर्वसूचना प्रणाली",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "a54486a32fc7b316",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "सुदूरपश्चिमले जित्यो टस, पहिले बलिङ गर्ने",
-      "link": "http://lokaantar.com/story/332288/2026/10/31/game-",
-      "description": "पाल प्रिमियर लिग (एनपीएल) अन्तर्गत शनिबार विराटनगर किंग्सविरुद्धको खेलमा सुदूरपश्चिम रोयल्सले टस जितेर पहिले बलिङ गर्ने निर्णय गरेको छ ।वर्षाका कारण मैदान भिजेपछि निर्धारित समयमा सुरु हुन नसकेको खेल ५ ओभरमा झारिएको छ । आउटफिल्डको अवस्था र खेलाडीको सुरक्षालाई लिएर सुदूरपश्चिमले असहमति जनाएपछि खेल सुरु हुन ढिलाइ भएको थियो ।अहिले विवाद समाधान गरेर ९ बजे टस भएको हो ।&nbsp;&nbsp;अब दुवै टोलीले पाँच&ndash;पाँच ओभर खेल्नेछन् ।",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "6f67ca95dc3bb36a",
       "source_count": 1,
       "verified": false,
       "local": false,
