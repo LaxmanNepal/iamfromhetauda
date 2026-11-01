@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T16:41:50.602022+00:00",
+  "updated_at": "2026-11-01T20:52:16.995256+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -16,83 +16,63 @@
   ],
   "items": [
     {
-      "title": "देशभर ४३ विपद्का घटना, १३ जना घाइते",
-      "link": "https://www.ratopati.com/story/602693/43-disaster-incidents-across-the-country-13-injured",
-      "description": "काठमाडौँ। देशभर पछिल्लो केही दिनमा भएका ४३ वटा विपद्का घटनामा परी १३ जना घाइते भएका छन्। ती घटनाबाट तीन चौपायामा क्षति पुग्नुका साथै रु नौ लाख ४० हजार बराबरको आर्थिक क्षति भएको छ। राष्ट्रिय विपद्",
-      "published": "2026-11-01T14:29:04+00:00",
-      "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/rastriya-bipad-jokhim-nyunikaran_aeophb8pd5_FLk4WDHs23.jpg",
-      "related_sources": [
-        "Ratopati",
-        "OnlineKhabar",
-        "Gorkhapatra Online",
-        "Lokaantar"
-      ],
-      "id": "be6e074ea950138a",
-      "source_count": 4,
-      "verified": true,
-      "local": false,
-      "score": 148.2,
-      "story_size": 4,
-      "image_local": "images/news_dd179eacbdea4999a4a7.jpg"
-    },
-    {
       "title": "राहदानी लिन सदरमुकाम धाउनुपर्ने बाध्यता हट्यो",
-      "link": "https://www.ratopati.com/story/602715/the-obligation-to-go-to-the-district-headquarters-to-obtain-a-passport-has-been-eliminated",
-      "description": "पाल्पा । राहदानी लिन सदरमुकाम तानसेन पुग्नुपर्ने सोच बनाइरहेका रम्भा गाउँपालिका–का सुमित बाह्रघरेका लागि एक दिन अप्रत्याशित खुसीको खबर आयो । उनको घरमा अचानक हुलाकका कर्मचारी आइपुगे । उनीहरूको हातमा थियो, बाह्रघरेकै राहदानी । घरमै आमाबुवासँग",
-      "published": "2026-11-01T16:25:31+00:00",
-      "source": "Ratopati",
+      "link": "https://gorkhapatraonline.com/news/227964",
+      "description": "पाल्पा, कात्तिक १५ गते । राहदानी लिन सदरमुकाम तानसेन पुग्नुपर्ने सोच बनाइरहेका रम्भा गाउँपालिका–का सुमित बाह्रघरेका लागि एक दिन अप्रत्याशित खुसीको खबर आयो । उहाँको घरमा अचानक हुलाक...",
+      "published": "2026-11-01T23:11:43+05:45",
+      "source": "Gorkhapatra Online",
       "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/passport_iBrnFdfJUK.jpg",
+      "image": "https://gorkhapatraonline.com/storage/media/389928/conversions/Untitled-1-original.jpg",
       "related_sources": [
+        "Gorkhapatra Online",
         "Ratopati",
         "Khabarhub"
       ],
-      "id": "368d90fa3d355075",
-      "source_count": 2,
+      "id": "53ff3e1d62398c4f",
+      "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 135.9,
-      "story_size": 2,
-      "image_local": "images/news_a47c11087a51a03fdbfb.jpg"
+      "score": 133.3,
+      "story_size": 3,
+      "image_local": "images/news_17108e591ae2dc9cfabf.jpg"
     },
     {
-      "title": "ट्रम्प भने : इरानका अझै पनि ‘एकाध लक्ष्य’ नियन्त्रणमा लिन बाँकी छ",
-      "link": "https://khabarhub.com/2026/01/1043155/",
-      "description": "वाशिङ्टन – अमेरिकाले इरानको धेरै सैन्य क्षमता नष्ट गरेको तर अझै एक–दुई लक्ष्य ‘सम्हाल्न’ बाँकी रहेको राष्ट्रपति डोनाल्ड ट्रम्पले शनिबार बताएका छन् । तेहरानले आक्रमण भएमा जवाफी कारबाही गर्ने चेतावनी दिएको छ । राष्ट्रपति ट्रम्पले फेब्रुअरीमा अमेरिका र इजरायलले सुरु गरेको युद्ध अन्त्य गर्न इरानसँगको वार्ता ‘सहज रूपमा नै चलिरहेको’ तर उनीहरू ‘धेरै भरपर्दो नभएको’ [&#8230;]",
-      "published": "2026-11-01T15:59:05+00:00",
+      "title": "आँबुखैरेनीमा माइक्रो दुर्घटना, चालकसहित ११ जना घाइते",
+      "link": "https://baahrakhari.com/detail/506312",
+      "description": "",
+      "published": "2026-11-01T23:33:08+05:45",
+      "source": "Baahrakhari",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari",
+        "Ratopati",
+        "Khabarhub"
+      ],
+      "id": "dc73c5e94b9b22d6",
+      "source_count": 3,
+      "verified": true,
+      "local": false,
+      "score": 131.7,
+      "story_size": 3
+    },
+    {
+      "title": "एनपीएल खेल्न नेपाल आइपुगे डेभिड वार्नर (तस्बिरहरू)",
+      "link": "https://khabarhub.com/2026/01/1043164/",
+      "description": "काठमाडौं &#8211; अस्ट्रेलियाका स्टार क्रिकेटर डेभिड वार्नर नेपाल आइपुगेका छन् । नेपाल प्रिमियर लिग (एनपीएल)को तेस्रो संस्करण खेल्न उनी आइतबार नेपाल आएका हुन् । वार्नरले यस संस्करणमा काठमाडौं गोर्खाजबाट खेल्नेछन् । उनको आगमनसँगै काठमाडौं गोर्खाजको टोली थप बलियो हुने अपेक्षा गरिएको छ । काठमाडौं गोर्खाजले वार्नरलाई सोमबार हुने कर्णाली याक्सविरुद्धको खेलमा मैदान उतार्ने तयारी गरेको [&#8230;]",
+      "published": "2026-11-01T17:05:04+00:00",
       "source": "Khabarhub",
-      "category": "world",
+      "category": "nepal",
       "image": "",
       "related_sources": [
         "Khabarhub",
         "Ratopati"
       ],
-      "id": "f373218503c1de7a",
+      "id": "f1094d58eac0b172",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 131.2,
-      "story_size": 2
-    },
-    {
-      "title": "पहिरोका कारण मङ्गलामा १६६ परिवार प्रभावित",
-      "link": "https://khabarhub.com/2026/01/1043153/",
-      "description": "म्याग्दी – गत असोज महिनाको दोस्रो साता परेको निरन्तरको झरीपछिको विपद्का कारण म्याग्दीको मङ्गला गाउँपालिकामा १६६ परिवार प्रभावित भएका छन् । गाउँपालिकाले सङ्कलन गरेको विवरणअनुसार पाँच वटा वडा रहेको मङ्गलामा १७ घरमा पूर्ण क्षति, ७७ घरमा उच्च र ७२ घर जोखिममा परेका हुन् । पहिरो, बाढी र कटानका कारण क्षति पुगेका परिवारलाई अस्थायी बसोबास, राहत [&#8230;]",
-      "published": "2026-11-01T15:51:39+00:00",
-      "source": "Khabarhub",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
-        "Thaha Khabar"
-      ],
-      "id": "38c557d00ec7286e",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 130.7,
+      "score": 118.9,
       "story_size": 2
     },
     {
@@ -111,7 +91,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 130.0,
+      "score": 113.3,
       "story_size": 2
     },
     {
@@ -130,7 +110,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 128.7,
+      "score": 112.0,
       "story_size": 2
     },
     {
@@ -148,7 +128,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 127.5,
+      "score": 110.8,
       "story_size": 1,
       "image_local": "images/news_cdc7c6306cdd45a62362.webp"
     },
@@ -167,29 +147,85 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 127.2,
+      "score": 110.5,
       "story_size": 1,
       "image_local": "images/news_03af33c67531d29df9cb.webp"
     },
     {
-      "title": "जीवन सुनुवार निर्देशित ‘भकुण्डे भूत’ ले जित्यो सर्ट भिडियो च्यालेञ्जको अवार्ड",
-      "link": "https://www.ratopati.com/story/602689/bhakunde-bhoot-directed-by-jeevan-sunuwar-wins-the-short-video-challenge-award",
-      "description": "काठमाडौँ। जीवन सुनुवार निर्देशित ‘भकुण्डे भूत’ ले १ लाख सहितको सर्ट भिडियो च्यालेञ्जको अवार्ड प्राप्त गरेको छ । काठमाडौँ महानगरपालिकाले काठमाडौँ फिल्म फेस्टिभल अन्तर्गत आह्वान गरेको ‘माइ कल्चर, माइ हेरिटेज’ शीर्षकमा प्राप्त भएका सर्ट भिडियोमध्ये निर्णायक",
-      "published": "2026-11-01T14:00:54+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/sunita_kkZ4EWonqG.webp",
+      "title": "देशभर ४३ विपद्का घटना, १३ जना घाइते",
+      "link": "https://www.onlinekhabar.com/2026/11/2048836/43-disaster-incidents-across-the-country-13-injured",
+      "description": "देशभर पछिल्लो केही दिनमा भएका ४३ वटा विपद्का घटनामा परी १३ जना घाइते भएका छन् ।",
+      "published": "2026-11-01T14:20:19+00:00",
+      "source": "OnlineKhabar",
+      "category": "society",
+      "image": "",
       "related_sources": [
-        "Ratopati",
-        "OnlineKhabar"
+        "OnlineKhabar",
+        "Lokaantar"
       ],
-      "id": "e58baedba7ab878e",
+      "id": "353be1cf99841cd3",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 126.3,
-      "story_size": 2,
-      "image_local": "images/news_5919f77b6e4e71e9f689.webp"
+      "score": 107.9,
+      "story_size": 2
+    },
+    {
+      "title": "राष्ट्रिय गौरवका सिँचाइ आयोजनाबाट थप १५० हेक्टर जमिन सिँचाइ",
+      "link": "https://nepalsamaya.com/detail/147461",
+      "description": "",
+      "published": "2026-11-02T00:52:00+05:45",
+      "source": "Nepal Samaya",
+      "category": "nepal",
+      "image": "https://nepalsamaya.com/uploads/posts/Sikta1783220177-1793519651.jpg",
+      "related_sources": [
+        "Nepal Samaya"
+      ],
+      "id": "0d89cd178a37bd89",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 106.0,
+      "story_size": 1,
+      "image_local": "images/news_193f17f4cec6badf5250.jpg"
+    },
+    {
+      "title": "वैदिक विश्वविद्यालयको आवश्यकतामा जोड",
+      "link": "https://www.ratopati.com/story/602734/emphasis-on-the-need-for-a-vedic-university",
+      "description": "काठमाडौँ । ऋषिमुनिको तपोभूमि नेपालमा वैदिक विश्वविद्यालय स्थापनाको सङ्कल्प सान्दर्भिक भएकाले कार्यान्वयनमा लैजानुपर्नेमा जोड दिइएको छ । श्री गजेन्द्रमोक्ष वैदिक विश्वविद्यालय स्थापनाका लागि नवलपरासीस्थित गजेन्द्रमोक्षधाममा आगामी मङ्सिर १ गतेदेखि २९ गतेसम्म गजेन्द्रमोक्ष नारायण वैभव विराट महायज्ञ",
+      "published": "2026-11-01T19:00:00+00:00",
+      "source": "Ratopati",
+      "category": "society",
+      "image": "https://npcdn.ratopati.com/media/setting/banner-image_sPOGzj8QHe.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "b9d344b6467aa860",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 105.5,
+      "story_size": 1,
+      "image_local": "images/news_31088225b6e74eec8103.jpg"
+    },
+    {
+      "title": "२४ घण्टामा देशभर सवारी दुर्घटनामा ४ को मृत्यु, १०९ जना घाइते",
+      "link": "https://nepalsamaya.com/detail/147460",
+      "description": "",
+      "published": "2026-11-02T00:37:00+05:45",
+      "source": "Nepal Samaya",
+      "category": "society",
+      "image": "https://nepalsamaya.com/uploads/posts/Accident9848-1785827438.jpg",
+      "related_sources": [
+        "Nepal Samaya"
+      ],
+      "id": "7c0442545eadf424",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 105.0,
+      "story_size": 1,
+      "image_local": "images/news_b2e1179017173ed5cb60.jpg"
     },
     {
       "title": "प्रधानमन्त्रीको चेतावनी : एक-दुई जना उम्किन्छु भनेर सपना नदेखे हुन्छ",
@@ -207,46 +243,216 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 121.6,
+      "score": 104.9,
       "story_size": 2
     },
     {
-      "title": "देउवा पक्षले बनायो श्रृजना मल्ललाई नेविसंघ अध्यक्ष",
-      "link": "https://kendrabindu.com/politics/568221/",
-      "description": "काठमाडौं । नेपाली कांग्रेसका पूर्वसभापति शेरबहादुर देउवा पक्षले नेपाल विद्यार्थी संघ (नेविसंघ) को अध्यक्षमा श्रृजना मल्ललाई मनोनीत गरेको छ। देउवा पक्षको १५औँ महाधिवेशन तयारी समितिका संयोजक प्रा. डा. शशांक कोइरालाले मल्ललाई अध्यक्षमा मनोनीत गरेका हुन्। कात्तिक १२ गतेको निर्णयअनुसार अध्यक्षको जिम्मेवारी पाएकी मल्ललाई आगामी ६ महिनाभित्र नेविसंघको महाधिवेशन सम्पन्न गर्न भनिएको छ। कांग्रेसका स्थापित मूल्य [&#8230;]",
-      "published": "2026-11-01T13:24:01+00:00",
-      "source": "Kendrabindu",
-      "category": "nepal",
-      "image": "",
+      "title": "कुनैपनि राजनीतिक दलको सदस्य नभएर मैंले ठूलो गल्ती गरें : डा.सुरेन्द्र केसी",
+      "link": "https://nepalsamaya.com/detail/147459",
+      "description": "",
+      "published": "2026-11-02T00:24:00+05:45",
+      "source": "Nepal Samaya",
+      "category": "politics",
+      "image": "https://nepalsamaya.com/uploads/posts/photo-1_db6048ef-1793517204.jpg",
       "related_sources": [
-        "Kendrabindu",
-        "Setopati"
+        "Nepal Samaya"
       ],
-      "id": "97bcb4ea0cb44f5e",
-      "source_count": 2,
-      "verified": true,
+      "id": "c2420dc9f2b0d850",
+      "source_count": 1,
+      "verified": false,
       "local": false,
-      "score": 120.8,
-      "story_size": 2
+      "score": 104.1,
+      "story_size": 1,
+      "image_local": "images/news_ab7ed5b8aeceb865dca3.jpg"
     },
     {
-      "title": "मकवानपुरका अध्यक्षसँग राप्रपाले माग्यो स्पष्टीकरण",
-      "link": "https://www.ratopati.com/story/602688/rpp-seeks-clarification-from-makawanpur-chairperson",
-      "description": "काठमाडौँ। राष्ट्रिय प्रजातन्त्र पार्टी(राप्रपा)को केन्द्रीय अनुशासन समितिले पार्टीबाट निलम्बनमा परेका बागमती प्रदेशका तीन मन्त्री तथा संसदीय दलका नेता उद्धव थापालाई पार्टीको कार्यक्रममा सहभागी गराएको विषयमा राप्रपा मकवानपुरका अध्यक्ष ऋषिलाल श्रेष्ठसँग स्पष्टीकरण मागेको छ। श्रेष्ठले आफ्नो अध्यक्षतामा",
-      "published": "2026-11-01T13:56:03+00:00",
+      "title": "सगरमाथा क्लबलाई अन्तर्राष्ट्रिय स्विमिङ च्याम्पियनसिपको उपाधि",
+      "link": "https://www.ratopati.com/story/602732/sagarmatha-club-wins-international-swimming-championship-title",
+      "description": "बाँके । तेस्रो नेपालगन्ज अन्तर्राष्ट्रिय स्विमिङ च्याम्पियनसिपको उपाधि ललितपुरको सगरमाथा स्विमिङ क्लबले जितेको छ । नेपाल पौडी सङ्घको प्राविधिक सहयोगमा नेपालगन्ज स्विमिङ क्लबको आयोजनामा भएको दुई दिने प्रतियोगितामा सगरमाथाले ४२९ अङ्क ल्याएर प्रथम भएको हो",
+      "published": "2026-11-01T18:30:04+00:00",
       "source": "Ratopati",
-      "category": "business",
-      "image": "https://npcdn.ratopati.com/media/news/raprapa_C7pNOZK0AM.png",
+      "category": "world",
+      "image": "https://npcdn.ratopati.com/media/news/swim_I8VWYHRTXe.webp",
       "related_sources": [
         "Ratopati"
       ],
-      "id": "67ce997cbc74e10b",
+      "id": "3d4cd04cb286cd80",
       "source_count": 1,
       "verified": false,
-      "local": true,
-      "score": 120.0,
+      "local": false,
+      "score": 103.5,
       "story_size": 1,
-      "image_local": "images/news_6cd7ec91efe4841fcfd0.png"
+      "image_local": "images/news_9fed2664e10a6040dffb.webp"
+    },
+    {
+      "title": "लिभरपुलमाथि आर्सनलको जित, शीर्ष स्थान कायमै",
+      "link": "https://www.ratopati.com/story/602733/arsenals-win-over-liverpool-keeps-them-at-the-top",
+      "description": "काठमाडौँ । इङ्लिस प्रिमियर लिग अन्तर्गत भएको खेलमा आर्सनलले लिभरपुलमाथि १–० गोलको महत्त्वपूर्ण जित हात पारेको छ । खेलमा आर्सनलका लागि काई हार्भाट्सले गरेको एकमात्र गोल नै निर्णायक बन्यो । उनले खेलको १६ औँ मिनेटमा गोल",
+      "published": "2026-11-01T18:29:35+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/aresnal_RcV54pRzYZ.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "c72058c3f49800a6",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 103.5,
+      "story_size": 1,
+      "image_local": "images/news_3f8b44232b87184bcdef.webp"
+    },
+    {
+      "title": "बङ्गालको खाडीमा विकसित नयाँ चक्रवातले नेपालको मौसममा प्रभाव नपार्ने",
+      "link": "https://nepalsamaya.com/detail/147458",
+      "description": "",
+      "published": "2026-11-02T00:09:00+05:45",
+      "source": "Nepal Samaya",
+      "category": "society",
+      "image": "https://nepalsamaya.com/uploads/posts/Arnav1793105059-1793161540.jpg",
+      "related_sources": [
+        "Nepal Samaya"
+      ],
+      "id": "b14d171b40fc133e",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 103.1,
+      "story_size": 1,
+      "image_local": "images/news_84e92bc81ed5ea1881f7.jpg"
+    },
+    {
+      "title": "कालीगण्डकी बाढीको भएन अध्ययन",
+      "link": "https://gorkhapatraonline.com/news/227966",
+      "description": "ठाकुरप्रसाद आचार्य म्याग्दी, कात्तिक १५ गते । गत असोज दोस्रो साता कालीगण्डकी नदीमा आएको विनासकारी बाढीले म्याग्दी, पर्वत, बागलुङ र स्याङ्जाका विभिन्न क्षेत्रमा अरबौँ रुपियाँ बराबरक...",
+      "published": "2026-11-02T00:03:51+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "society",
+      "image": "https://gorkhapatraonline.com/storage/media/389930/conversions/kaligandaki-badi--(1)-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "d4f389aef7d147fb",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 102.8,
+      "story_size": 1,
+      "image_local": "images/news_c96819dd6fe04a292fff.jpg"
+    },
+    {
+      "title": "आर्थिक अनियमिततामा संलग्नलाई छुट हुँदैन: प्रमुख काफ्ले",
+      "link": "https://www.ratopati.com/story/602731/those-involved-in-financial-irregularities-will-not-be-spared-chief-kafle",
+      "description": "काठमाडौँ । काठमाडौँ उपत्यका ट्राफिक प्रहरी कार्यालयका प्रमुख एवं प्रहरी वरिष्ठ उपरीक्षक सुरेशप्रसाद काफ्लेले आर्थिक अनियमितता तथा प्रहरी आचरण विपरीत कार्यमा संलग्न हुने ट्राफिक प्रहरी कर्मचारीलाई कुनै छुट नदिइने बताएका छन् । कार्यालयले आइतबार आयोजना गरेको",
+      "published": "2026-11-01T18:17:04+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/N9v7CGbNCf.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "f1238225b972f479",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 102.7,
+      "story_size": 1,
+      "image_local": "images/news_953bb21e7b8b802db434.jpg"
+    },
+    {
+      "title": "१२ बजे १२ समाचार : सुनकोशी मरिणमा बालेन टिमको स्वार्थदेखि महाभियोग प्रस्तावको तयारीले तरङ्गसम्म",
+      "link": "https://www.ratopati.com/story/602730/12-oclock-12-news-from-the-selfishness-of-the-balen-team-in-sunkoshi-marine-to-the-preparations-for-the-impeachment-motion-the-waves",
+      "description": "काठमाडौँ । आज दिनभरका मुख्य १२ घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति ‘१२ बजे १२ समाचार’मा प्रस्तुत गरेका छौँ– १. नाटकीय रूपमा रद्द भयो सुनकोशी मरिन आयोजनाको ठेक्का राष्ट्रिय गौरवको आयोजना सुनकोशी मरिन डाइभर्सन बहुउद्देश्यीय आयोजनाको ठेक्का प्रक्रिया",
+      "published": "2026-11-01T18:15:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/12-news_5HlUsKjcmV.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "e80be35f8087b4bd",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 102.5,
+      "story_size": 1,
+      "image_local": "images/news_72317782a1c79ad0eb24.webp"
+    },
+    {
+      "title": "पार्टीलाई जनतासँग जोडेर रूपान्तरण गर्नुपर्छः पूर्वमन्त्री भुसाल",
+      "link": "https://gorkhapatraonline.com/news/227967",
+      "description": "ललितपुर, कात्तिक १५ गते । नेपाली कम्युनिस्ट पार्टी (नेकपा) की नेतृ पम्फा भुसालले जनताको समस्या समाधानमा सक्रिय हुँदै पार्टीलाई जनतासँग जोडेर रूपान्तरण गर्नुपर्ने बताउनुभएको छ ।सो प...",
+      "published": "2026-11-01T23:57:25+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "politics",
+      "image": "https://gorkhapatraonline.com/storage/media/389931/conversions/IMG_20261101_133840-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "551dc8eeb69c467d",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 102.4,
+      "story_size": 1,
+      "image_local": "images/news_f33f2479bfc6706a465d.jpg"
+    },
+    {
+      "title": "देश ठूलो संकटतर्फ उन्मुख भइरहेको संकेत देखियो- डा. बाबुराम भट्टराई",
+      "link": "https://nepalsamaya.com/detail/147456",
+      "description": "",
+      "published": "2026-11-01T23:49:00+05:45",
+      "source": "Nepal Samaya",
+      "category": "nepal",
+      "image": "https://nepalsamaya.com/uploads/posts/baburam bhattarai4441695114557.jpg",
+      "related_sources": [
+        "Nepal Samaya"
+      ],
+      "id": "0dd85c26e4e63fab",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 101.8,
+      "story_size": 1
+    },
+    {
+      "title": "जाडो बढेसँगै ‘भक्का’ को व्यापार फस्टाउँदै",
+      "link": "https://gorkhapatraonline.com/news/227963",
+      "description": "झापा, कात्तिक १५ गते । चिसो मौसम सुरु भएसँगै झापा, मोरङ, सुनसरीलगायत पूर्वी तराईका जिल्लामा रैथाने खाजा ‘भक्का’ को व्यापार फस्टाउन थालेको छ । राजवंशी भाषामा ‘भक्का’ भनिने आदिवासी स...",
+      "published": "2026-11-01T23:44:26+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/389927/conversions/bhakka-byapari-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "4ec01971535d1a17",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 101.5,
+      "story_size": 1,
+      "image_local": "images/news_0ac9a6dee59043a7fb60.jpg"
+    },
+    {
+      "title": "खैरो हिरोइनसहित दुई जना पक्राउ",
+      "link": "https://www.ratopati.com/story/602729/two-arrested-with-brown-heroin",
+      "description": "भक्तपुर । जिल्ला प्रहरी परिसर भक्तपुरले प्रतिबन्धित लागुऔषधसहित दुई जनालाई पक्राउ गरेको छ । प्रहरीले आइतबार मध्यपुरथिमि नगरपालिका–२ दिव्यश्वरी प्लानिङ क्षेत्रबाट चेकजाँच गर्ने क्रममा लागुऔषधसहित दुई जनालई पक्राउ गरेको जिल्ला प्रहरी परिसर भक्तपुरका सूचना अधिकारी दीपककुमार",
+      "published": "2026-11-01T17:51:33+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/two-arrest-jail_vasZWTNXwT.png",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "6eeefe1dc9a2baec",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 101.0,
+      "story_size": 1,
+      "image_local": "images/news_8de750f32e13ada2db1f.png"
     },
     {
       "title": "भक्तपुरमा क्याथल्याबसहित मुटु रोगको उपचार सेवा सञ्चालन गर्न आवश्यक : मुख्यमन्त्री थापामगर",
@@ -263,7 +469,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 116.9,
+      "score": 100.2,
       "story_size": 1
     },
     {
@@ -281,17 +487,203 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 116.7,
+      "score": 99.9,
+      "story_size": 1
+    },
+    {
+      "title": "देशभर सात हजार ६८८ विपद्का घटना, ४०२ जनाको मृत्यु",
+      "link": "https://www.ratopati.com/story/602728/7688-disaster-incidents-across-the-country-402-deaths",
+      "description": "काठमाडौँ । गत वैशाखदेखि कात्तिक १५ गतेसम्म देशभर सात हजार ६८८ वटा विपद्का घटना भएका छन् । ती घटनामा परी ४०२ जनाको मृत्यु भएको छ भने १७ जना अझै बेपत्ता रहेका छन् । राष्ट्रिय विपद् जोखिम",
+      "published": "2026-11-01T17:30:18+00:00",
+      "source": "Ratopati",
+      "category": "society",
+      "image": "https://npcdn.ratopati.com/media/news/bipad_K1MTVLWec3.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "059ce6324ac4b955",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 99.6,
+      "story_size": 1,
+      "image_local": "images/news_e1081d0c69036993bc87.webp"
+    },
+    {
+      "title": "मध्यावधि चुनावमा ट्रम्पको अग्निपरीक्षा, सिनेटका यी १० सिटमा किन छ नजर ?",
+      "link": "https://baahrakhari.com/detail/506313",
+      "description": "",
+      "published": "2026-11-01T23:52:51+05:45",
+      "source": "Baahrakhari",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "293a1885830bc169",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 99.1,
+      "story_size": 1
+    },
+    {
+      "title": "रेसिङ सान्टान्डरमाथि रियल मड्रिडको सहज जित",
+      "link": "https://www.ratopati.com/story/602727/real-madrid-ease-to-victory-over-racing-santander",
+      "description": "काठमाडौँ । स्पेनिस ला लिगा फुटबल प्रतियोगिता अन्तर्गत आइतबार राति भएको खेलमा रियल मड्रिडले रेसिङ सान्टान्डरमाथि ३–० गोलको सहज जित हात पारेको छ । सान्टान्डरको घरेलु मैदानमा भएको खेलमा रियल मड्रिडले पहिलो हाफमै तीन गोल गर्दै",
+      "published": "2026-11-01T17:22:27+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/real-madrid_BtQLp0G85S.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "7e0fcbe12ca0eb8d",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 99.0,
+      "story_size": 1,
+      "image_local": "images/news_2ecd222481a183d137e0.webp"
+    },
+    {
+      "title": "नेपालगन्ज भन्सारमा राजस्व सङ्कलन वृद्धि",
+      "link": "https://gorkhapatraonline.com/news/227965",
+      "description": "सिराज खाननेपालगन्ज, कात्तिक १५ गते । पश्चिम नेपालकै ठुलो भन्सार कार्यालयमध्ये एक नेपालगन्ज भन्सार कार्यालयले चालु आर्थिक वर्षको पहिलो तीन महिनामा पाँच अर्ब २४ करोड बढी राजस्व सङ्कल...",
+      "published": "2026-11-01T22:46:27+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "business",
+      "image": "https://gorkhapatraonline.com/storage/media/389929/conversions/nepalgunj-bhansar-ICP-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "b47df36229686fd4",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 97.6,
+      "story_size": 1,
+      "image_local": "images/news_f479e7ef8a20d95edbd2.jpg"
+    },
+    {
+      "title": "जिशन अलाम कर्णाली याक्समा अनुबन्ध",
+      "link": "https://www.ratopati.com/story/602724/zeeshan-alam-signs-contract-with-karnali-yaks",
+      "description": "काठमाडौँ । कर्णाली याक्सले तेस्रो नेपाल प्रिमियर लिग (एनपिएल) को लागि टेस्ट राष्ट्र बङ्गलादेशका युवा ब्याटर जिशन अलामलाई अनुबन्ध गरेको छ । आइतबार जिशनलाई बाँकी खेलको लागि अनुबन्ध गरेको कर्णाली याक्स स्पोर्ट्स प्रा.लीका अध्यक्ष गृहेन्द्र घिमिरेले",
+      "published": "2026-11-01T17:01:22+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://npcdn.ratopati.com/media/news/jisan-alam-karnali-yaks_8aBeUIbiWp.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "7e0b05e286bd674b",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 97.6,
+      "story_size": 1,
+      "image_local": "images/news_1769411ce79261bee55e.webp"
+    },
+    {
+      "title": "सिन्धुलीको फिक्कलमा टिपर दुर्घटना, चारजना घाइते",
+      "link": "https://baahrakhari.com/detail/506311",
+      "description": "",
+      "published": "2026-11-01T23:13:54+05:45",
+      "source": "Baahrakhari",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "b3997926b13a8453",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 96.5,
+      "story_size": 1
+    },
+    {
+      "title": "डा. गोविन्द केसीको जीवन रक्षाका लागि अविलम्ब वार्ता गर्न नेपाल चिकित्सक सङ्घको माग",
+      "link": "https://www.ratopati.com/story/602720/nepal-medical-association-demands-immediate-talks-to-save-dr-govinda-kcs-life",
+      "description": "काठमाडौँ । नेपाल चिकित्सक सङ्घले चिकित्सा शिक्षा तथा स्वास्थ्य क्षेत्रको सुधारको माग राख्दै विगत चार दिनदेखि आमरण अनशनमा रहेका प्रा. डा. गोविन्द केसीको जीवन रक्षाका लागि सरकारसँग अविलम्ब वार्ता गर्न जोडदार माग गरेको छ । सङ्घले",
+      "published": "2026-11-01T16:44:34+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/govinda-kc_svjJtjAdiD.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "7217a359de7dda50",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 96.5,
+      "story_size": 1,
+      "image_local": "images/news_b2d020093124d52aac4a.webp"
+    },
+    {
+      "title": "चिनियाँ कम्युनिस्ट पार्टीले अधिकारीहरूमाथि निगरानी बढाउने",
+      "link": "https://www.ratopati.com/story/602719/chinese-communist-party-to-increase-surveillance-of-officials",
+      "description": "बेइजिङ । चिनियाँ कम्युनिस्ट पार्टी (सीसीपी) ले आफ्ना अधिकारीहरूको सम्पत्ति र अनलाइन गतिविधिमाथि कडा निगरानी बढाउने तयारी गरेको छ । आइतबार सार्वजनिक भएको एक पार्टी दस्तावेजमा आफ्ना अधिकारीहरूको सम्पत्ति र अनलाइन गतिविधिमाथि निगरानी बढाउने खाका",
+      "published": "2026-11-01T16:42:21+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://rpcdn.ratopati.com/media/albums/xi_jinping_iW6NCVp5tc.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "2f342304d508173d",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 96.4,
+      "story_size": 1,
+      "image_local": "images/news_7ab263a0d5764ae0379f.jpg"
+    },
+    {
+      "title": "भ्रष्टको शासन हटाउँछु भन्थे, भयको शासन चलाउन थाले",
+      "link": "https://www.onlinekhabar.com/2026/11/2048877/they-said-they-would-remove-the-corrupt-regime-but-instead-they-started-implementing-a-reign-of-fear",
+      "description": "फेसबुक पेजहरूको प्रवद्र्धनमा उदाएका प्रधानमन्त्री बालेन शाह सत्ताको दुरुपयोग गर्दै पत्रकारहरूमाथि धरपकड गरिरहेका छन् । प्रश्नहरूको तेजोबध गरेर भयको शासन चलाउने उनको चाहना यतिखेर विपक्षी र कतिपय नागरिकहरूको आलोचनाको केन्द्रमा छ ।",
+      "published": "2026-11-01T17:25:24+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "339689978ef91f71",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 96.2,
+      "story_size": 1
+    },
+    {
+      "title": "लगातार दोस्रो खेलमा चलेन पोखराको ब्याटिङ",
+      "link": "https://www.onlinekhabar.com/2026/11/2048885/pokharas-batting-failed-for-the-second-consecutive-match",
+      "description": "बलिङमा तुलनात्मक रूपमा राम्रो प्रदर्शन गरेको पोखराले ब्याटिङमा भने फेरि निराशाजनक प्रदर्शन गर्‍यो।",
+      "published": "2026-11-01T17:24:17+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "ac0313e185f1f4f7",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 96.2,
       "story_size": 1
     },
     {
       "title": "ट्राईब्रेकरमा न्यू यूस्टार सुनसरीले चित्लाङलाई ४-२ अन्तरले हराउदै सेमिफाइनलमा प्रवेश",
       "link": "https://gorkhapatraonline.com/news/227961",
-      "description": "बिन्द्र वाम्बुले राईउदयपुर, कात्तिक १५ गते। गाईघाट फूटबल समूहको आयोजनामा शनिबारदेखि जारी प्रथम त्रियुगा अन्तर्राष्ट्रिय आमन्त्रण गोल्डकप फुटबल प्रतियोगिताअन्तर्गत आईतवार भएको खेलम...",
+      "description": "बिन्द्र वाम्बुले राईउदयपुर, कात्तिक १५ गते। गाईघाट फूटबल समूहको आयोजनामा शनिबारदेखि जारी प्रथम त्रियुगा अन्तर्राष्ट्रिय आमन्त्रण गोल्डकप फुटबल प्रतियोगिताअन्तर्गत आइतबार भएको खेलमा...",
       "published": "2026-11-01T22:23:07+05:45",
       "source": "Gorkhapatra Online",
       "category": "business",
-      "image": "https://gorkhapatraonline.com/storage/media/389925/conversions/1000019392-original.jpg",
+      "image": "https://gorkhapatraonline.com/storage/media/389926/conversions/1000019392-original.jpg",
       "related_sources": [
         "Gorkhapatra Online"
       ],
@@ -299,9 +691,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.8,
+      "score": 96.1,
       "story_size": 1,
-      "image_local": "images/news_751b7908bc2fbb55b5c4.jpg"
+      "image_local": "images/news_32d892e437c02afa3371.jpg"
     },
     {
       "title": "‘आत्मानन्द गोल्डकप’ मङ्सिरमा",
@@ -318,7 +710,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.4,
+      "score": 95.7,
       "story_size": 1,
       "image_local": "images/news_d652e30d6e1367d6d255.jpg"
     },
@@ -337,7 +729,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.3,
+      "score": 95.6,
       "story_size": 1,
       "image_local": "images/news_7d974959e2a8d566e7e8.jpg"
     },
@@ -356,9 +748,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.1,
+      "score": 95.4,
       "story_size": 1,
       "image_local": "images/news_3d09985f46097fe41b26.jpg"
+    },
+    {
+      "title": "फेरि पनि प्रधानमन्त्री कार्यालयको खतरनाक हस्तक्षेप",
+      "link": "https://www.setopati.com/politics/401781",
+      "description": "प्रधानमन्त्री र उनको टिमले हामीले सबै जानेका छौं, हामी मात्रै ठिक छौं र अरू सबै बदमास छन् भन्ने मानसिकताबाट काम गरेको देखियो। पासपोर्ट प्रकरणमा र अहिले पनि प्रधानमन्त्री कार्यालयको त्यही मानसिकताले काम गरेको छ।",
+      "published": "2026-11-01T22:53:52+05:45",
+      "source": "Setopati",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "dd15741a964a9b69",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 95.1,
+      "story_size": 1
     },
     {
       "title": "१० बजे १० समाचार : फेसबुकमा बालेनको चेतावनी, सरकारको नियतमाथि कांग्रेसको प्रश्न",
@@ -375,7 +785,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.3,
+      "score": 94.5,
       "story_size": 1,
       "image_local": "images/news_dbfb83463298cfeddd6f.webp"
     },
@@ -394,7 +804,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.1,
+      "score": 94.4,
       "story_size": 1,
       "image_local": "images/news_55c56d65f658b4e89ec9.webp"
     },
@@ -413,7 +823,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.1,
+      "score": 94.3,
       "story_size": 1,
       "image_local": "images/news_5209a1ead3c18063a404.jpg"
     },
@@ -432,9 +842,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.8,
+      "score": 94.1,
       "story_size": 1,
       "image_local": "images/news_99e628c2307294af4726.jpg"
+    },
+    {
+      "title": "जिशन आलाम कर्णाली याक्समा अनुबन्ध",
+      "link": "https://baahrakhari.com/detail/506310",
+      "description": "",
+      "published": "2026-11-01T22:35:59+05:45",
+      "source": "Baahrakhari",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "0f9ff0ee042a1e77",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 93.9,
+      "story_size": 1
     },
     {
       "title": "हाईस दुर्घटनामा ११ घाइते",
@@ -451,7 +879,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.6,
+      "score": 93.9,
       "story_size": 1,
       "image_local": "images/news_70520afc05dbada8213c.jpg"
     },
@@ -470,7 +898,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.4,
+      "score": 93.7,
       "story_size": 1,
       "image_local": "images/news_986416a2f466bf405568.jpg"
     },
@@ -489,28 +917,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.4,
+      "score": 93.7,
       "story_size": 1,
       "image_local": "images/news_151a52d23b85255c466a.webp"
     },
     {
-      "title": "कर्णालीमा जलस्रोत मन्त्रालयकै बजेट फ्रिज हुने जोखिम, खर्चमा सबैभन्दा पछाडि",
-      "link": "https://nepalsamaya.com/detail/147441",
-      "description": "",
-      "published": "2026-11-01T21:47:00+05:45",
-      "source": "Nepal Samaya",
-      "category": "business",
-      "image": "https://nepalsamaya.com/uploads/posts/photo-3_668c128e-1793502124.jpg",
+      "title": "भद्रपुरले जित्यो अन्तरराष्ट्रिय हक्की प्रतियोगिताको उपाधि",
+      "link": "https://khabarhub.com/2026/01/1043160/",
+      "description": "झापा – पहिलोपटक जिल्लामा सञ्चालित ‘प्रथम अन्तरराष्ट्रिय नकआउट हक्की प्रतियोगिता’ को उपाधि आयोजक भद्रपुर नगर हक्की सङ्घको टिमले जितेको छ । पुहाँतु जनज्योति माविको खेल मैदानमा आज सम्पन्न फाइनल खेलमा भारतको आरके रोय अफ हक्की एकाडेमी भारतलाई ४–२ गोल अन्तरले अन्तरले पराजित गर्दै भद्रपुरले उपाधि जितेको हो । उपाधिसँगै भद्रपुर नगर हक्की सङ्घले रु दुई [&#8230;]",
+      "published": "2026-11-01T16:43:09+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
       "related_sources": [
-        "Nepal Samaya"
+        "Khabarhub"
       ],
-      "id": "b1c17bbbf8a02441",
+      "id": "0405c4b77ff04159",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.4,
-      "story_size": 1,
-      "image_local": "images/news_117578c836a364e7583e.jpg"
+      "score": 93.4,
+      "story_size": 1
     },
     {
       "title": "साउदी एआई कम्पनीमा अरामकोको ४९ प्रतिशत सेयर रहने",
@@ -527,9 +954,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.1,
+      "score": 93.4,
       "story_size": 1,
       "image_local": "images/news_5fdb2b4f1896666d59f4.jpg"
+    },
+    {
+      "title": "इंग्लिस स्टार मोइन अलीको साथले तृतराजलाई दियो आत्मविश्वास, जनकपुरको जितमा बने नायक",
+      "link": "https://www.setopati.com/sports/npl/401784",
+      "description": "नेपाल प्रिमियर लिग (एनपिएल) मा जनकपुर बोल्ट्सलाई पोखरा एभेन्जर्सविरुद्ध जित दिलाउन महत्वपूर्ण योगदान गरेका तृतराज दासले अनुभवी खेलाडी मोइन अलीसँगको साझेदारीबाट आफूले धेरै सिक्ने अवसर पाएको बताएका छन्।",
+      "published": "2026-11-01T22:26:00+05:45",
+      "source": "Setopati",
+      "category": "world",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "2efa6baf212ba56e",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 93.3,
+      "story_size": 1
     },
     {
       "title": "नयाँ पुस्तामा सामाजिक मूल्य मान्यता कमजोर हुँदै गएको छ: महासचिव पोखरेल",
@@ -546,7 +991,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.0,
+      "score": 93.3,
       "story_size": 1,
       "image_local": "images/news_ff7ee959fbcb3141cfad.jpg"
     },
@@ -565,7 +1010,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.7,
+      "score": 93.0,
       "story_size": 1,
       "image_local": "images/news_ba026176e91072834ed4.jpg"
     },
@@ -584,7 +1029,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.3,
+      "score": 92.6,
       "story_size": 1
     },
     {
@@ -602,28 +1047,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.7,
+      "score": 92.0,
       "story_size": 1,
       "image_local": "images/news_e24197f790052a1dab49.webp"
-    },
-    {
-      "title": "राष्ट्रसंघको महासचिवमा टर्कीले अघि सार्‍यो पूर्व विदेशमन्त्री",
-      "link": "https://nepalsamaya.com/detail/147438",
-      "description": "",
-      "published": "2026-11-01T21:16:00+05:45",
-      "source": "Nepal Samaya",
-      "category": "politics",
-      "image": "https://nepalsamaya.com/uploads/posts/feridun1793458447-1793500955.jpg",
-      "related_sources": [
-        "Nepal Samaya"
-      ],
-      "id": "5e6bd1b7a02ee185",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 108.3,
-      "story_size": 1,
-      "image_local": "images/news_62d92d7ee7c97b12102b.jpg"
     },
     {
       "title": "विमानका सामग्री जुटाएर जसले बनाए घरमै फर्स्ट क्लास क्याबिन",
@@ -640,28 +1066,28 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.3,
+      "score": 91.6,
       "story_size": 1,
       "image_local": "images/news_8aa30b6460b4f6381a92.webp"
     },
     {
-      "title": "एनपिएलः पोखरा एभेन्जर्सविरुद्ध जनकपुर बोल्ट्सको जित",
-      "link": "https://gorkhapatraonline.com/news/227956",
-      "description": "काठमाडौँ, कात्तिक १५ गते । काठमाडौँमा जारी तेस्रो संस्करणको नेपाल प्रिमियर लिग (एनपिएल) टी–२० क्रिकेट प्रतियोगितामा जनकपुर बोल्ट्सले लगातार दोस्रो जित निकालेको छ । दोस्रो जित दर्ता...",
-      "published": "2026-11-01T21:15:10+05:45",
-      "source": "Gorkhapatra Online",
+      "title": "जनकपुर बोल्ट्स ९ रनले विजयी, पोखराको हार",
+      "link": "https://www.thahakhabar.com/detail/311237",
+      "description": "",
+      "published": "2026-11-01T21:14:00+05:45",
+      "source": "Thaha Khabar",
       "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/389917/conversions/KRB_KTM-_U3A8742-original.jpg",
+      "image": "https://www.thahakhabar.com/uploads/posts/Janakpur-1793551442.jpg",
       "related_sources": [
-        "Gorkhapatra Online"
+        "Thaha Khabar"
       ],
-      "id": "13504e0efa3d7c9b",
+      "id": "81dccfa3fc7d9dde",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.3,
+      "score": 91.5,
       "story_size": 1,
-      "image_local": "images/news_74b6741d34e7fb63ac54.jpg"
+      "image_local": "images/news_6724154ee8ef177e9027.jpg"
     },
     {
       "title": "सरकारको मनमौजी शैलीविरुद्ध उत्रिँदै कांग्रेस",
@@ -678,7 +1104,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.0,
+      "score": 91.3,
       "story_size": 1
     },
     {
@@ -696,7 +1122,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.0,
+      "score": 91.3,
       "story_size": 1
     },
     {
@@ -714,27 +1140,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.0,
+      "score": 91.3,
       "story_size": 1,
       "image_local": "images/news_082417112a0861671fdb.webp"
-    },
-    {
-      "title": "भ्रष्टको शासन हटाउँछु भन्थे, भयको शासन चलाउन थाले",
-      "link": "https://www.onlinekhabar.com/2026/11/2048877/they-said-they-would-remove-the-corrupt-regime-but-instead-they-started-implementing-a-reign-of-fear",
-      "description": "फेसबुक पेजहरूको प्रवद्र्धनमा उदाएका प्रधानमन्त्री बालेन शाह सत्ताको दुरुपयोग गर्दै पत्रकारहरूमाथि धरपकड गरिरहेका छन् । प्रश्नहरूको तेजोबध गरेर भयको शासन चलाउने उनको चाहना यतिखेर विपक्षी र कतिपय नागरिकहरूको आलोचनाको केन्द्रमा छ ।",
-      "published": "2026-11-01T16:09:24+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "339689978ef91f71",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 107.9,
-      "story_size": 1
     },
     {
       "title": "फलफूलमा अस्वाभाविक मूल्यवृद्धि, बजारमा व्यापारीको मनोमानी",
@@ -751,7 +1159,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.8,
+      "score": 91.1,
       "story_size": 1
     },
     {
@@ -769,7 +1177,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.8,
+      "score": 91.1,
       "story_size": 1
     },
     {
@@ -787,7 +1195,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.7,
+      "score": 91.0,
       "story_size": 1
     },
     {
@@ -805,7 +1213,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.6,
+      "score": 90.9,
       "story_size": 1
     },
     {
@@ -823,7 +1231,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.6,
+      "score": 90.9,
       "story_size": 1
     },
     {
@@ -841,25 +1249,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.5,
-      "story_size": 1
-    },
-    {
-      "title": "जनकपुरसँगको पराजयपछि पोखराका विपिन खत्री- साझेदारीमा राम्रो हुन सकेन",
-      "link": "https://baahrakhari.com/detail/506308",
-      "description": "",
-      "published": "2026-11-01T21:48:15+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "03157273bd6c0e48",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 107.5,
+      "score": 90.8,
       "story_size": 1
     },
     {
@@ -877,7 +1267,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.4,
+      "score": 90.7,
       "story_size": 1,
       "image_local": "images/news_e2fea0763df22b693074.webp"
     },
@@ -896,7 +1286,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.3,
+      "score": 90.6,
       "story_size": 1
     },
     {
@@ -914,7 +1304,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.3,
+      "score": 90.6,
       "story_size": 1
     },
     {
@@ -932,7 +1322,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.2,
+      "score": 90.5,
+      "story_size": 1
+    },
+    {
+      "title": "ट्रम्प भने : इरानका अझै पनि ‘एकाध लक्ष्य’ नियन्त्रणमा लिन बाँकी छ",
+      "link": "https://khabarhub.com/2026/01/1043155/",
+      "description": "वाशिङ्टन – अमेरिकाले इरानको धेरै सैन्य क्षमता नष्ट गरेको तर अझै एक–दुई लक्ष्य ‘सम्हाल्न’ बाँकी रहेको राष्ट्रपति डोनाल्ड ट्रम्पले शनिबार बताएका छन् । तेहरानले आक्रमण भएमा जवाफी कारबाही गर्ने चेतावनी दिएको छ । राष्ट्रपति ट्रम्पले फेब्रुअरीमा अमेरिका र इजरायलले सुरु गरेको युद्ध अन्त्य गर्न इरानसँगको वार्ता ‘सहज रूपमा नै चलिरहेको’ तर उनीहरू ‘धेरै भरपर्दो नभएको’ [&#8230;]",
+      "published": "2026-11-01T15:59:05+00:00",
+      "source": "Khabarhub",
+      "category": "world",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "f373218503c1de7a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 90.5,
       "story_size": 1
     },
     {
@@ -950,7 +1358,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.1,
+      "score": 90.4,
       "story_size": 1
     },
     {
@@ -968,7 +1376,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.1,
+      "score": 90.4,
       "story_size": 1,
       "image_local": "images/news_bcfe7c06fa1b42a53396.webp"
     },
@@ -987,25 +1395,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.0,
-      "story_size": 1
-    },
-    {
-      "title": "स्याङ्जामा ट्याक्टर दुर्घटना : एकजनाको मृत्यु, चार घाइते",
-      "link": "https://baahrakhari.com/detail/506307",
-      "description": "",
-      "published": "2026-11-01T21:40:17+05:45",
-      "source": "Baahrakhari",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "195b031abd290ff8",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 106.9,
+      "score": 90.3,
       "story_size": 1
     },
     {
@@ -1023,9 +1413,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.8,
+      "score": 90.1,
       "story_size": 1,
       "image_local": "images/news_268b6873cdd1f0b29577.jpg"
+    },
+    {
+      "title": "पहिरोका कारण मङ्गलामा १६६ परिवार प्रभावित",
+      "link": "https://khabarhub.com/2026/01/1043153/",
+      "description": "म्याग्दी – गत असोज महिनाको दोस्रो साता परेको निरन्तरको झरीपछिको विपद्का कारण म्याग्दीको मङ्गला गाउँपालिकामा १६६ परिवार प्रभावित भएका छन् । गाउँपालिकाले सङ्कलन गरेको विवरणअनुसार पाँच वटा वडा रहेको मङ्गलामा १७ घरमा पूर्ण क्षति, ७७ घरमा उच्च र ७२ घर जोखिममा परेका हुन् । पहिरो, बाढी र कटानका कारण क्षति पुगेका परिवारलाई अस्थायी बसोबास, राहत [&#8230;]",
+      "published": "2026-11-01T15:51:39+00:00",
+      "source": "Khabarhub",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "38c557d00ec7286e",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 90.0,
+      "story_size": 1
     },
     {
       "title": "जनकपुरले पाेखरालाई हराउँदा मैदानमा जे देखियाे, तस्बिरहरू",
@@ -1042,65 +1450,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.6,
+      "score": 89.9,
       "story_size": 1,
       "image_local": "images/news_1736dc6db496c1ddca1e.webp"
-    },
-    {
-      "title": "‘काठमाडौं कथा नै कथामा बाँचेको सहर हो’ : कार्यवाहक प्रमुख डंगोल [भिडियो]",
-      "link": "https://nepalsamaya.com/detail/147449",
-      "description": "",
-      "published": "2026-11-01T20:47:37+05:45",
-      "source": "Nepal Samaya",
-      "category": "nepal",
-      "image": "https://nepalsamaya.com/uploads/posts/photo-21_a2f86b13-1793506641.jpg",
-      "related_sources": [
-        "Nepal Samaya"
-      ],
-      "id": "72d19f4af6bad887",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 106.4,
-      "story_size": 1,
-      "image_local": "images/news_76465e791a678eb03330.jpg"
-    },
-    {
-      "title": "सरकार नियन्त्रणमुखी बाटोमा अघि बढ्यो : सह–महामन्त्री शिवाकोटी [भिडियो]",
-      "link": "https://nepalsamaya.com/detail/147448",
-      "description": "",
-      "published": "2026-11-01T20:46:01+05:45",
-      "source": "Nepal Samaya",
-      "category": "politics",
-      "image": "https://nepalsamaya.com/uploads/posts/photo-2_70cd7b00-1793506551.jpg",
-      "related_sources": [
-        "Nepal Samaya"
-      ],
-      "id": "2bd10e8123d366b2",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 106.3,
-      "story_size": 1
-    },
-    {
-      "title": "स्थानीय उत्पादन, पर्यटन र हस्तकलाको प्रवर्द्धनमा संघ प्रतिबद्ध छ:नवीन मंगल जोशी [भिडियो]",
-      "link": "https://nepalsamaya.com/detail/147447",
-      "description": "",
-      "published": "2026-11-01T20:44:33+05:45",
-      "source": "Nepal Samaya",
-      "category": "nepal",
-      "image": "https://nepalsamaya.com/uploads/posts/photo-12_29ae4176-1793506324.jpg",
-      "related_sources": [
-        "Nepal Samaya"
-      ],
-      "id": "4cfa8ff66992e14e",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 106.2,
-      "story_size": 1,
-      "image_local": "images/news_cc00f2750548a91064db.jpg"
     },
     {
       "title": "जनकपुर ९ रनले विजयी, पोखराको लगातार दोस्रो हार",
@@ -1117,7 +1469,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.1,
+      "score": 89.4,
       "story_size": 1,
       "image_local": "images/news_4c0d7252feaee6ce18c9.webp"
     },
@@ -1136,64 +1488,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.2,
+      "score": 88.5,
       "story_size": 1
-    },
-    {
-      "title": "इजरायल, सर्बिया र ब्राजिलको चुनावी नतिजाले ट्रम्पलाई झट्का !",
-      "link": "https://baahrakhari.com/detail/506300",
-      "description": "",
-      "published": "2026-11-01T21:13:32+05:45",
-      "source": "Baahrakhari",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "199054e8c50c711d",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 105.1,
-      "story_size": 1
-    },
-    {
-      "title": "बीपी राजमार्गमा यातायात पुनः सञ्चालन, अवरुद्ध सबै सडक खुले",
-      "link": "https://www.ratopati.com/story/602694/traffic-resumes-on-bp-highway-all-blocked-roads-reopened",
-      "description": "काठमाडौँ। अविरल वर्षाका कारण रोशी खोलामा आएको बाढीले सडक कटान गर्दा अवरुद्ध बनेको बीपी राजमार्गमा यातायात सेवा पुनः सञ्चालनमा आएको छ । निर्माणाधीन बीपी राजमार्गअन्तर्गत पिप्ले र गिम्दीबेसी क्षेत्रमा रोशी खोलाले सडक कटान गरेपछि यातायात अवरुद्ध",
-      "published": "2026-11-01T14:29:46+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/kk_IznZudLIjy.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "952dfa8eb78a9630",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 104.2,
-      "story_size": 1,
-      "image_local": "images/news_2ca973b984c1e482538d.webp"
-    },
-    {
-      "title": "फोन उठाउनुअघि कसले र किन फोन गर्दैछ भन्ने जानकारी दिने नेपाली एप सार्वजनिक",
-      "link": "https://www.ratopati.com/story/602692/nepali-app-released-that-lets-you-know-who-is-calling-and-why-before-you-pick-up-the-phone",
-      "description": "काठमाडौँ । कुनै पनि व्यक्तिको फोन उठाउनुभन्दा अगाडि नै कसले र कुन प्रयोजनका लागि सम्पर्क गर्दैछ भन्ने पूर्वजानकारी दिने स्वदेशी सञ्चार अनुप्रयोग (एप) ‘कालेक्सा’ (Callexa) सार्वजनिक गरिएको छ । नेपाली प्राविधिकहरूकै सीप र प्रयासमा निर्माण गरिएको यस",
-      "published": "2026-11-01T14:20:05+00:00",
-      "source": "Ratopati",
-      "category": "tech",
-      "image": "https://npcdn.ratopati.com/media/news/callexa-photo_p4OzdUVjrk.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "5908f07b45cfd251",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 103.6,
-      "story_size": 1,
-      "image_local": "images/news_6a2601e605a92dc84d9c.webp"
     },
     {
       "title": "मोइन अलीको कसिलो बलिङ, पोखरालाई १३८ रनमै रोक्दै जनकपुर विजयी",
@@ -1210,25 +1506,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.4,
-      "story_size": 1
-    },
-    {
-      "title": "जनकपुरको लागतार दोस्रो जित, तृतराज दासको अर्धशतक",
-      "link": "https://baahrakhari.com/detail/506306",
-      "description": "",
-      "published": "2026-11-01T20:48:00+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "afeab82a48425341",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 103.4,
+      "score": 86.7,
       "story_size": 1
     },
     {
@@ -1246,103 +1524,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.2,
+      "score": 86.5,
       "story_size": 1
-    },
-    {
-      "title": "‘न्यायाधीशले बिचौलिया भनिएका व्यक्ति भेट्नु सेटिङका लागि होइन'",
-      "link": "https://www.ratopati.com/story/602621/the-judges-meeting-with-the-so-called-middleman-is-not-for-setting-up-but-to-understand-the-reality",
-      "description": "काठमाडौँ । नेपाल बार एसोसिएसनका अध्यक्ष प्रा. डा. विजयप्रसाद मिश्रले सर्वोच्च अदालतका न्यायाधीशहरूले बिचौलिया भनिएका व्यक्तिलाई होटलमा भेटेको विषयलाई अहिलेको सन्दर्भमा अस्वाभाविक र असामान्य मान्न नसकिने बताएका छन् । न्यायाधीशहरू व्यक्तिगत स्वार्थ वा लेनदेनका लागि",
-      "published": "2026-11-01T14:15:00+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/bijay-mishra-banner_O7uM5UTjDH.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "ef82a04a57fd60b4",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 103.2,
-      "story_size": 1,
-      "image_local": "images/news_81252639ee79667bb40f.webp"
-    },
-    {
-      "title": "पोखरा एभेन्जर्सले गुमायो पाँचाैँ विकेट",
-      "link": "https://www.ratopati.com/story/602691/pokhara-avengers-lost-five-wickets",
-      "description": "काठमाडौँ। नेपाल प्रिमियर लिग(एनपीएल)अन्तर्गत जनकपुर बाेल्ट्ससँगकाे खेलमा पोखरा एभेन्जर्सले पाँच विकेट गुमाएको छ । आइतबार त्रिवि अन्तर्राष्ट्रिय क्रिकेट मैदान कीर्तिपुरमा जारी खेलमा पोखराले पाँचै विकेटको रूपमा अर्जुन घर्तीलाई गुमाएको हाे। उनी १५ बलमा ७ रन बनाएर",
-      "published": "2026-11-01T14:13:08+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/pk_WepONBWxWr.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "e8be441d81e5cb47",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 103.1,
-      "story_size": 1,
-      "image_local": "images/news_ddd5ab6cdd81ef08633e.webp"
-    },
-    {
-      "title": "लोकतान्त्रिक मूल्य र मान्यता विपरीत हुने कुनै पनि गतिविधि स्वीकार्य हुँदैनः सभापति थापा",
-      "link": "https://gorkhapatraonline.com/news/227954",
-      "description": "ललितपुर, कात्तिक १५ गते । नेपाली कांग्रेसका सभापति गगनकुमार थापाले लोकतान्त्रिक मूल्य र मान्यताविपरीत हुने कुनै पनि गतिविधि कांग्रेसलाई स्वीकार्य नहुने बताउनुभएको छ ।नेपाली कांग्र...",
-      "published": "2026-11-01T19:49:31+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/389914/conversions/1793530185988-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "6b024be9c01f6a2b",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 102.5,
-      "story_size": 1,
-      "image_local": "images/news_d224dc19268c98583619.jpg"
-    },
-    {
-      "title": "गुरागाईंको राजीनामा प्रकरण : सुशासन समितिले बोलायो बैठक, छानबिनको निर्णय गर्न सक्ने",
-      "link": "https://www.ratopati.com/story/602690/guragains-resignation-case-good-governance-committee-convenes-meeting-may-decide-on-investigation",
-      "description": "विराटनगर । कोशी प्रदेश लोकसेवा आयोगका अध्यक्ष महेन्द्रप्रसाद गुरागाईंले दिएको राजीनामा र राजीनामा दिनु अगाडि उनको विषयमा उठेका प्रश्नको विषयमा छलफल गर्न कोशी प्रदेशको योजना तथा सुशासन समितिले बैठक बोलाएको छ । गुरागाईंप्रति विभिन्न आर्थिक तथा पदीय",
-      "published": "2026-11-01T14:03:46+00:00",
-      "source": "Ratopati",
-      "category": "business",
-      "image": "https://npcdn.ratopati.com/media/news/guragain-1_QaQSlkjJeO.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "3d2d5ca8e9791315",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 102.5,
-      "story_size": 1,
-      "image_local": "images/news_9d168abdba7f8009bf5b.webp"
-    },
-    {
-      "title": "हिउँले सेताम्मे इम्जा !",
-      "link": "https://gorkhapatraonline.com/news/227950",
-      "description": "सोलुखुम्बु, कात्तिक १५ गते । आज दिउँसो जलविज्ञान तथा जलस्रोत अनुसन्धान (सीएचडब्लूआरआर) द्वारा जडित स्वचालित क्यामेरा स्टेशनले इम्जा हिमतालको सुन्दर दृश्य कैद गर्‍यो। ताजा हिमपातले...",
-      "published": "2026-11-01T19:42:21+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/389912/conversions/c1850ba7-4801-47df-8b22-bcc454011a08-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "cd9dcf5362aff3bc",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 102.1,
-      "story_size": 1,
-      "image_local": "images/news_00fb5470023e025de075.jpg"
     },
     {
       "title": "दशौँ राष्ट्रिय खेलकुदको तयारी तीव्रः मन्त्री पोखरेल र कर्णालीका मुख्यमन्त्री शाहीबीच छलफल",
@@ -1359,46 +1542,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.2,
+      "score": 84.5,
       "story_size": 1
-    },
-    {
-      "title": "फलेवासका ११ वटै वडामा सुविधासम्पन्न भवन",
-      "link": "https://gorkhapatraonline.com/news/227953",
-      "description": "साजन परियारपर्वत, कात्तिक १६ गते । पर्वतको फलेवास नगरपालिकाका ११ वटै वडामा आफ्नै सुविधासम्पन्न वडा कार्यालय भवन निर्माण हुने भएका छन् । निर्माण हुन बाँकी खानीगाउँस्थित वडा नं. ५ र...",
-      "published": "2026-11-01T19:29:34+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/389911/conversions/phalewas-nagarpalika-pic-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "411a3975531f0a0e",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 101.2,
-      "story_size": 1,
-      "image_local": "images/news_d10fbd3c370d912a2199.jpg"
-    },
-    {
-      "title": "दशौँ राष्ट्रिय खेलकुदको तयारीबारे छलफल",
-      "link": "https://www.ratopati.com/story/602687/discussion-on-preparations-for-the-10th-national-games",
-      "description": "काठमाडौँ। दशौँ राष्ट्रिय खेलकुद प्रतियोगिताको तयारीका विषयमा शिक्षा तथा खेलकुदमन्त्री सस्मित पोखरेलले कर्णाली प्रदेशका मुख्यमन्त्री मङ्गलबहादुर शाही र सामाजिक विकासमन्त्री जितबहादुर मल्लसँग छलफल गरेका छन्। कर्णाली प्रदेशमा आगामी मङ्सिर १६ देखि २७ गतेसम्म आयोजना गर्ने तय",
-      "published": "2026-11-01T13:42:40+00:00",
-      "source": "Ratopati",
-      "category": "sports",
-      "image": "https://npcdn.ratopati.com/media/news/discuss_oHUbHNRgTs.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "3372f4763b5aa7b8",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 101.1,
-      "story_size": 1,
-      "image_local": "images/news_60e67e2b874b085e1291.webp"
     },
     {
       "title": "धान नफलेपछि माडीका किसान चिन्तित",
@@ -1415,80 +1560,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.9,
-      "story_size": 1
-    },
-    {
-      "title": "पोखराले गुमायो सातौँ विकेट",
-      "link": "https://khabarhub.com/2026/01/1043125/",
-      "description": "काठमाडौं- नेपाल प्रिमियर लिग एनपीएलमा जनकपुर बोल्ट्स र पोखरा एभेन्जर्सबीच प्रतिस्पर्धा भइरहेको छ । आइतबार जारी खेलमा जनकपुरले पोखरासामु १ सय ४८ रनको लक्ष्य प्रस्तुत गरेको छ । जवाफी ब्याटिङ गरिरहेको पोखराले सातौँ विकेट गुमाएको छ । खेलको १३ ओभर २ बलमा पोखराका मोहम्मद सैफुद्दिन आउट भए । यसअघि कीर्तिपुरस्थित त्रिवि अन्तर्राष्ट्रिय क्रिकेट रंगशालामा टस [&#8230;]",
-      "published": "2026-11-01T14:19:38+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "6377780b6101fd62",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 100.5,
-      "story_size": 1
-    },
-    {
-      "title": "प्रधानमन्त्री बालेनले भने– एक, दुई जना उम्किन्छु भनेर सपना नदेखे हुन्छ",
-      "link": "https://www.ratopati.com/story/602686/prime-minister-balen-said-dont-dream-of-one-or-two-people-escaping",
-      "description": "काठमाडौँ। प्रधानमन्त्री वालेन्द्र(बालेन) शाहले सही समय आएपछि सबैको गलत समय आउने बताएका छन्। आइतबार सामाजिक सञ्जाल फेसबुकमा स्ट्याटस लेख्दै प्रधानमन्त्री शाहले यस्तो बताएका हुन् । उनले एक,दुई जनालाई उम्किन्छु भनेर सपना नदेख्न समेत आग्रह गरेका",
-      "published": "2026-11-01T13:32:53+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/balen-dhah_ksUzkmHaO6.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "66f0e1647846bcc1",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 100.4,
-      "story_size": 1,
-      "image_local": "images/news_60b731d4dc86abb87848.webp"
-    },
-    {
-      "title": "आजका समाचार : एनपीएलमा दर्शकको उत्साह, मजाक गर्दै प्रधानमन्त्रीका सल्लाहकार, सरकारको कार्यशैलीप्रति गगनको असन्तुष्टि र महँगीविरुद्ध युरोपमा आन्दोलन",
-      "link": "https://khabarhub.com/2026/01/1043083/",
-      "description": "पत्रकारको सूची बाहिरिएको दाबीमा कुमार बेनको व्याङ्ग्य- २८ जनामा को-को पर्‍या हो ? शुक्रबार पत्रकारमाथि प्रहरीले गरेको धरपकड र हस्तक्षेपको घटनालाई लिएर सरकारको सर्वत्र आलोचना भइरहेको छ । यता प्रधानमन्त्रीका प्रमुख राजनीतिक सल्लाहकार कुमार बेनले भने यो गम्भीर विषयमा व्याङ्ग्य गर्दै टिप्पणी गरेका छन्। आइतबार दिउँसो सामाजिक सञ्जाल फेसबुकमार्फत उनले २० जना पत्रकारलाई मेन्सन गर्दै [&#8230;]",
-      "published": "2026-11-01T14:16:17+00:00",
-      "source": "Khabarhub",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "c6f3ac1422695b43",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 100.3,
-      "story_size": 1
-    },
-    {
-      "title": "पोखराले गुमायो छैठौँ विकेट",
-      "link": "https://khabarhub.com/2026/01/1043120/",
-      "description": "काठमाडौं- नेपाल प्रिमियर लिग एनपीएलमा जनकपुर बोल्ट्स र पोखरा एभेन्जर्सबीच प्रतिस्पर्धा भइरहेको छ । आइतबार जारी खेलमा जनकपुरले पोखरासामु १ सय ४८ रनको लक्ष्य प्रस्तुत गरेको छ । जवाफी ब्याटिङ गरिरहेको पोखराले छैठौँ विकेट गुमाएको छ । खेलको १२ ओभर २ बलमा पोखराका किरण ठगुन्ना आउट भए । उनी ५ बल खेलेर १५ रन जोड्दै [&#8230;]",
-      "published": "2026-11-01T14:14:26+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "d21c79151fee5ef5",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 100.2,
+      "score": 84.2,
       "story_size": 1
     },
     {
@@ -1506,25 +1578,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.2,
-      "story_size": 1
-    },
-    {
-      "title": "सुनकोशी मरिणमा बालेन टिमको त्यो स्वार्थ, ...अनि रद्द भयो ठेक्का",
-      "link": "https://www.ratopati.com/story/602684/the-balen-teams-selfishness-in-sunkoshi-marineand-the-contract-was-canceled",
-      "description": "काठमाडौँ । राष्ट्रिय गौरवको आयोजना सुनकोशी मरिण डाइभर्सन बहुउद्देश्यीय आयोजनाको नयाँ ठेक्का (टेन्डर) प्रक्रिया नाटकीय रूपमा रद्द भएको छ । करिब १६ अर्बको ठेक्का रद्द गर्नुअघि सिँचाई विभागका महानिर्देशक दिनेश रजौरिया र सुनकोसी मरिण डाइभर्सन आयोजनाका",
-      "published": "2026-11-01T13:26:27+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/sunkoshi-balen-sunil_Cl1baOsQuG.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "edfbc35b38b5db42",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 100.0,
+      "score": 83.5,
       "story_size": 1
     },
     {
@@ -1542,25 +1596,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.9,
-      "story_size": 1
-    },
-    {
-      "title": "देउवा समूह प्युठानको जिल्ला सभापतिमा देवेन्द्र वर्मा सर्वसम्मत निर्वाचित",
-      "link": "https://www.ratopati.com/story/602683/devendra-verma-unanimously-elected-as-deuba-group-pyuthan-district-president",
-      "description": "प्युठान। नेपाली कांग्रेसको शेरबहादुर देउवा समूहको प्युठान जिल्ला अधिवेशनबाट देवेन्द्र वर्मा जिल्ला सभापतिमा सर्वसम्मत निर्वाचित भएका छन्। अधिवेशनले जिल्ला कार्यसमितिका पदाधिकारीसहित ३५ सदस्यीय जिल्ला कार्यसमिति र ३५ जना महाधिवेशन प्रतिनिधि सर्वसम्मत चयन गरेको निर्वाचन अधिकृत अधिवक्ता",
-      "published": "2026-11-01T13:25:37+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/b_SyuAJzhN6R.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "36978c1704306bde",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 99.9,
+      "score": 83.2,
       "story_size": 1
     },
     {
@@ -1578,7 +1614,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.8,
+      "score": 83.1,
       "story_size": 1
     },
     {
@@ -1596,7 +1632,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.6,
+      "score": 82.9,
       "story_size": 1
     },
     {
@@ -1614,7 +1650,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.2,
+      "score": 82.5,
       "story_size": 1
     },
     {
@@ -1632,7 +1668,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.4,
+      "score": 81.7,
       "story_size": 1
     },
     {
@@ -1650,7 +1686,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.4,
+      "score": 81.7,
+      "story_size": 1
+    },
+    {
+      "title": "गाँजा खेती र औद्योगिक उत्पादन नियमन गर्ने नियम तीन महिनाभित्र बनाउन सर्वोच्चको परमादेश",
+      "link": "https://www.setopati.com/politics/401771",
+      "description": "सर्वोच्च अदालतले गाँजाको औषधीय, वैज्ञानिक तथा औद्योगिक प्रयोजनका लागि नियन्त्रित खेती र उत्पादनको व्यवस्था मिलाउन सरकारका नाममा परमादेश जारी गरेको छ।",
+      "published": "2026-11-01T19:22:00+05:45",
+      "source": "Setopati",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "62dfb3725f5bde21",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 81.0,
       "story_size": 1
     },
     {
@@ -1668,7 +1722,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.3,
+      "score": 80.6,
       "story_size": 1
     },
     {
@@ -1686,7 +1740,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.9,
+      "score": 80.2,
+      "story_size": 1
+    },
+    {
+      "title": "देउवा पक्षले बनायो श्रृजना मल्ललाई नेविसंघ अध्यक्ष",
+      "link": "https://kendrabindu.com/politics/568221/",
+      "description": "काठमाडौं । नेपाली कांग्रेसका पूर्वसभापति शेरबहादुर देउवा पक्षले नेपाल विद्यार्थी संघ (नेविसंघ) को अध्यक्षमा श्रृजना मल्ललाई मनोनीत गरेको छ। देउवा पक्षको १५औँ महाधिवेशन तयारी समितिका संयोजक प्रा. डा. शशांक कोइरालाले मल्ललाई अध्यक्षमा मनोनीत गरेका हुन्। कात्तिक १२ गतेको निर्णयअनुसार अध्यक्षको जिम्मेवारी पाएकी मल्ललाई आगामी ६ महिनाभित्र नेविसंघको महाधिवेशन सम्पन्न गर्न भनिएको छ। कांग्रेसका स्थापित मूल्य [&#8230;]",
+      "published": "2026-11-01T13:24:01+00:00",
+      "source": "Kendrabindu",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "97bcb4ea0cb44f5e",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 80.1,
       "story_size": 1
     },
     {
@@ -1704,7 +1776,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.4,
+      "score": 79.7,
       "story_size": 1
     },
     {
@@ -1722,7 +1794,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.3,
+      "score": 79.6,
       "story_size": 1
     },
     {
@@ -1740,7 +1812,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.3,
+      "score": 79.6,
       "story_size": 1
     },
     {
@@ -1758,7 +1830,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.4,
+      "score": 78.7,
       "story_size": 1
     },
     {
@@ -1776,7 +1848,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.2,
+      "score": 78.5,
       "story_size": 1
     },
     {
@@ -1794,25 +1866,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.1,
-      "story_size": 1
-    },
-    {
-      "title": "तृतराजको अर्धशतकमा जनकपुरको १४७ रन, १५ रन मात्रै दिएर पोखराका शकिबले लिए ३ विकेट",
-      "link": "https://www.setopati.com/sports/npl/401778",
-      "description": "नेपाल प्रिमियर लिग (एनपिएल) अन्तर्गत आइतबार जनकपुर बोल्ट्सले पोखरा एभेन्जर्ससामु १४८ रनको लक्ष्य प्रस्तुत गरेको छ।",
-      "published": "2026-11-01T18:41:00+05:45",
-      "source": "Setopati",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Setopati"
-      ],
-      "id": "dc026b466a86b08d",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 95.0,
+      "score": 78.4,
       "story_size": 1
     },
     {
@@ -1830,7 +1884,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.9,
+      "score": 78.2,
       "story_size": 1
     },
     {
@@ -1848,7 +1902,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.8,
+      "score": 78.1,
       "story_size": 1
     },
     {
@@ -1866,7 +1920,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.7,
+      "score": 78.0,
       "story_size": 1
     },
     {
@@ -1884,7 +1938,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.7,
+      "score": 78.0,
       "story_size": 1
     },
     {
@@ -1902,7 +1956,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.6,
+      "score": 76.9,
       "story_size": 1
     },
     {
@@ -1920,25 +1974,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.1,
-      "story_size": 1
-    },
-    {
-      "title": "'भकुण्डे भूत' ले जित्यो 'माइ कल्चर, माइ हेरिटेज' अवार्ड",
-      "link": "https://www.setopati.com/art/art-activity/401775",
-      "description": "च्यालेन्जमा प्राप्त ३५ वटा भिडिओ प्राप्त भएका थिए। विजेतालाई आइतबार अवार्ड प्रदान गरिएको हो।",
-      "published": "2026-11-01T18:05:00+05:45",
-      "source": "Setopati",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Setopati"
-      ],
-      "id": "13d46cb7630f1417",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 92.6,
+      "score": 76.4,
       "story_size": 1
     },
     {
@@ -1956,7 +1992,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.6,
+      "score": 75.8,
       "story_size": 1
     },
     {
@@ -1974,7 +2010,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.5,
+      "score": 75.8,
       "story_size": 1
     },
     {
@@ -1992,7 +2028,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.1,
+      "score": 75.4,
       "story_size": 1
     },
     {
@@ -2010,7 +2046,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.7,
+      "score": 75.0,
       "story_size": 1
     },
     {
@@ -2028,7 +2064,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.2,
+      "score": 74.5,
       "story_size": 1
     },
     {
@@ -2046,7 +2082,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.9,
+      "score": 74.2,
       "story_size": 1
     },
     {
@@ -2064,7 +2100,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.1,
+      "score": 73.4,
       "story_size": 1
     },
     {
@@ -2082,7 +2118,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.1,
+      "score": 73.4,
       "story_size": 1
     },
     {
@@ -2100,7 +2136,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.3,
+      "score": 72.5,
       "story_size": 1
     },
     {
@@ -2118,7 +2154,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.0,
+      "score": 72.3,
       "story_size": 1
     },
     {
@@ -2136,7 +2172,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.0,
+      "score": 72.3,
       "story_size": 1
     },
     {
@@ -2154,7 +2190,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.8,
+      "score": 72.1,
       "story_size": 1
     },
     {
@@ -2172,7 +2208,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.6,
+      "score": 70.9,
+      "story_size": 1
+    },
+    {
+      "title": "जीवन सुनुवारको ‘भकुण्डे भूत’ ले जित्यो सर्ट भिडियो च्यालेञ्जको अवार्ड",
+      "link": "https://www.onlinekhabar.com/2026/11/2048589/jeevan-sunuwars-bhakunde-bhoot-wins-short-video-challenge-award",
+      "description": "काठमाडौं फिल्म फेस्टिभलमा ‘सर्ट फिल्म च्यालेन्ज’ अवार्ड जीवन सुनुवार निर्देशित ‘भकुण्डे भुत’ले जितेको छ। ‘माइ कल्चर, माइ हेरिटेज’ शीर्षकमा प्राप्त भएका सर्ट भिडियोमध्ये निर्णायक मण्डलबाट छानिएका परम्परागत विश्वास तथा रहस्यमा आधारित ४ मिनेट ५५ सेकेन्डको भिडियोले अवार्ड जितेको हो। यस च्यालेन्जका लागि ३५ वटा भिडियो प्राप्त भएका थिए। च्यालेन्जमा अनुभव श्रेष्ठले निर्देशन गरेको ‘द सोल [&#8230;]",
+      "published": "2026-11-01T10:55:36+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "2349bd072e735550",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 70.2,
       "story_size": 1
     },
     {
@@ -2190,7 +2244,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.6,
+      "score": 69.9,
       "story_size": 1
     },
     {
@@ -2208,7 +2262,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.1,
+      "score": 69.4,
       "story_size": 1
     },
     {
@@ -2226,7 +2280,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.4,
+      "score": 68.7,
       "story_size": 1
     },
     {
@@ -2244,7 +2298,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.2,
+      "score": 68.5,
       "story_size": 1
     },
     {
@@ -2262,7 +2316,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.6,
+      "score": 67.9,
       "story_size": 1
     },
     {
@@ -2280,7 +2334,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.2,
+      "score": 67.5,
       "story_size": 1
     },
     {
@@ -2298,7 +2352,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.7,
+      "score": 67.0,
       "story_size": 1
     },
     {
@@ -2316,25 +2370,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.5,
-      "story_size": 1
-    },
-    {
-      "title": "किन महिलामाथि हुने हिंसा अझै रोकिएको छैन ?",
-      "link": "https://www.onlinekhabar.com/2026/11/2047495/why-hasnt-violence-against-women-stopped-yet",
-      "description": "​२१औँ शताब्दीको यो नवीन युगमा के महिलाहरू पूर्णरूपमा सुरक्षित छन् ? के उनीहरू मानसिकरूपमा सबल, पारिवारिक छत्रछायाँमा खुसी र पूर्ण स्वाभिमानी हुन सकेका छन् ? यी र यस्तै ज्वलन्त प्रश्नहरू आज म तेर्स्याउन चाहन्छु । समाजमा परिवर्तनका ठूला नाराहरू लगाइरहँदा यथार्थको धरातलमा महिलाहरूले भोगिरहेका पीडाका प्रतिनिधि घटनाहरूले हाम्रो सभ्य समाजको असली मुहार छर्लङ्ग पारेका छन् [&#8230;]",
-      "published": "2026-11-01T10:01:20+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "7d064ddcdef4f83f",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 83.3,
+      "score": 66.8,
       "story_size": 1
     },
     {
@@ -2352,7 +2388,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.1,
+      "score": 61.4,
       "story_size": 1
     },
     {
@@ -2370,7 +2406,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 62.5,
+      "score": 45.8,
       "story_size": 1
     },
     {
@@ -2388,7 +2424,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 58.2,
+      "score": 41.5,
       "story_size": 1
     },
     {
@@ -2406,7 +2442,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 55.7,
+      "score": 39.0,
       "story_size": 1
     },
     {
@@ -2727,42 +2763,6 @@
         "Lokaantar"
       ],
       "id": "0dcd115427731391",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "स्थानीय जनशक्ति अभावमा तराईका मजदुरको भरमा हेटौँडाका किसान",
-      "link": "http://lokaantar.com/story/332355/2026/11/1/hetauda-",
-      "description": "हेटौँडाका किसानले धान भित्र्याउन तराईका जिल्लाबाट आउने मजदुरको भर पर्नुपर्ने अवस्था आएको छ। कृषिप्रति युवाको घट्दो आकर्षण र रोजगारीका लागि विदेश पलायन बढेसँगै स्थानीयस्तरमा कृषि मजदुरको अभाव हुन थालेको हो।विगत केही वर्षदेखि धान रोप्ने र भित्र्याउने समयमा सर्लाही, बारा, पर्सालगायत जिल्लाबाट मजदुर बोलाउनुपर्ने अवस्था रहेको स्थानीयवासी बताउँछन्।हेटौँडाको कमाने, चौघडा, चुच्चेखोला र हटियालगायत क्षेत्रमा तराईका जिल्लाबाट आएका मजदुरले धान भित्र्याउन सहयोग गरिरहेका छन्।स्थानीय श्रीप्रसाद न्यौपानेका अनुस",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "942a212fcd41796b",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 10,
-      "story_size": 1
-    },
-    {
-      "title": "वालिङमा ट्याक्टर दुर्घटना हुँदा एक जनाको मृत्यु, चार घाइते",
-      "link": "http://lokaantar.com/story/332354/2026/11/1/accident-",
-      "description": "स्याङ्जाको वालिङमा ट्याक्टर दुर्घटना हुँदा एक जनाको मृत्यु भएको छ भने चार जना घाइते भएका छन्।पर्वतको हुवासबाट वालिङतर्फ आउँदै गरेको ग १ त ५७६९ नम्बरको ट्याक्टर दुर्घटना हुँदा त्यसमा सवार वालिङ नगरपालिका&ndash;१० का ६१ वर्षीय नन्दलाल बुढामगरको मृत्यु भएको हो।जिल्ला प्रहरी कार्यालय स्याङ्जाका सूचना अधिकारी रमेशदत्त अवस्थीका अनुसार दुर्घटनामा घाइते भएका बुढामगरको गह्रौँ प्राथमिक अस्पताल वालिङमा उपचारका क्रममा मृत्यु भएको हो।दुर्घटनामा ट्याक्टर चालक दाङको शान्तिनगर गाउँपालिका&ndash;१ का ३७ वर्षीय धन",
-      "published": "",
-      "source": "Lokaantar",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "Lokaantar"
-      ],
-      "id": "6536392e07c55d3b",
       "source_count": 1,
       "verified": false,
       "local": false,
