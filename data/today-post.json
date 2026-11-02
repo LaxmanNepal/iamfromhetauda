@@ -1,159 +1,162 @@
 {
   "date_np": "2026-11-02",
-  "generated_at": "2026-11-01T20:52:16.997638+00:00",
+  "generated_at": "2026-11-02T00:28:29.444477+00:00",
   "items": [
     {
-      "title": "राष्ट्रिय गौरवका सिँचाइ आयोजनाबाट थप १५० हेक्टर जमिन सिँचाइ",
-      "link": "https://nepalsamaya.com/detail/147461",
+      "title": "आँबुखैरेनीमा माइक्रो दुर्घटना, चालकसहित ११ जना घाइते",
+      "link": "https://www.thahakhabar.com/detail/311240",
       "description": "",
-      "published": "2026-11-02T00:52:00+05:45",
-      "source": "Nepal Samaya",
+      "published": "2026-11-02T06:04:53+05:45",
+      "source": "Thaha Khabar",
+      "category": "society",
+      "image": "https://www.thahakhabar.com/uploads/posts/accient-photo-1793578783.jpg",
+      "related_sources": [
+        "Thaha Khabar",
+        "Baahrakhari",
+        "Ratopati",
+        "Khabarhub"
+      ],
+      "id": "c7450397277483ba",
+      "source_count": 4,
+      "verified": true,
+      "local": false,
+      "score": 156.4,
+      "story_size": 4,
+      "image_local": "images/news_23b92c0fd45ac1abe341.jpg"
+    },
+    {
+      "title": "स्याङ्जामा दुई लाख ४९ हजार मतदाता कायम",
+      "link": "https://khabarhub.com/2026/02/1043184/",
+      "description": "स्याङ्जा– जिल्ला निर्वाचन कार्यालय स्याङ्जाले दुई हजार ५७२ मतदाताको नाम मतदाता नामावलीबाट हटाएको छ । कार्यालयले असोजमा सम्पन्न गरेको मतदाता नामावली अद्यावधिक कार्यक्रमअनुसार मृत्यु भएका र दोहोरो नामावली भएकाको नाम मतदाता सूचीबाट हटाएको हो । जिल्ला निर्वाचन कार्यालय स्याङ्जाका प्रमुख श्रीराम थापाका अनुसार एक हजार ३०८ जना मृत्यु भएका र एक हजार २६४ जना दोहोरो [&#8230;]",
+      "published": "2026-11-02T00:02:00+00:00",
+      "source": "Khabarhub",
       "category": "nepal",
-      "image": "https://nepalsamaya.com/uploads/posts/Sikta1783220177-1793519651.jpg",
+      "image": "",
       "related_sources": [
-        "Nepal Samaya"
-      ],
-      "id": "0d89cd178a37bd89",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 106.0,
-      "story_size": 1,
-      "image_local": "images/news_193f17f4cec6badf5250.jpg"
-    },
-    {
-      "title": "वैदिक विश्वविद्यालयको आवश्यकतामा जोड",
-      "link": "https://www.ratopati.com/story/602734/emphasis-on-the-need-for-a-vedic-university",
-      "description": "काठमाडौँ । ऋषिमुनिको तपोभूमि नेपालमा वैदिक विश्वविद्यालय स्थापनाको सङ्कल्प सान्दर्भिक भएकाले कार्यान्वयनमा लैजानुपर्नेमा जोड दिइएको छ । श्री गजेन्द्रमोक्ष वैदिक विश्वविद्यालय स्थापनाका लागि नवलपरासीस्थित गजेन्द्रमोक्षधाममा आगामी मङ्सिर १ गतेदेखि २९ गतेसम्म गजेन्द्रमोक्ष नारायण वैभव विराट महायज्ञ",
-      "published": "2026-11-01T19:00:00+00:00",
-      "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/setting/banner-image_sPOGzj8QHe.jpg",
-      "related_sources": [
+        "Khabarhub",
         "Ratopati"
       ],
-      "id": "b9d344b6467aa860",
-      "source_count": 1,
-      "verified": false,
+      "id": "47e007932301d026",
+      "source_count": 2,
+      "verified": true,
       "local": false,
-      "score": 105.5,
-      "story_size": 1,
-      "image_local": "images/news_31088225b6e74eec8103.jpg"
+      "score": 132.2,
+      "story_size": 2
     },
     {
-      "title": "२४ घण्टामा देशभर सवारी दुर्घटनामा ४ को मृत्यु, १०९ जना घाइते",
-      "link": "https://nepalsamaya.com/detail/147460",
-      "description": "",
-      "published": "2026-11-02T00:37:00+05:45",
-      "source": "Nepal Samaya",
-      "category": "society",
-      "image": "https://nepalsamaya.com/uploads/posts/Accident9848-1785827438.jpg",
-      "related_sources": [
-        "Nepal Samaya"
-      ],
-      "id": "7c0442545eadf424",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 105.0,
-      "story_size": 1,
-      "image_local": "images/news_b2e1179017173ed5cb60.jpg"
-    },
-    {
-      "title": "कुनैपनि राजनीतिक दलको सदस्य नभएर मैंले ठूलो गल्ती गरें : डा.सुरेन्द्र केसी",
-      "link": "https://nepalsamaya.com/detail/147459",
-      "description": "",
-      "published": "2026-11-02T00:24:00+05:45",
-      "source": "Nepal Samaya",
-      "category": "politics",
-      "image": "https://nepalsamaya.com/uploads/posts/photo-1_db6048ef-1793517204.jpg",
-      "related_sources": [
-        "Nepal Samaya"
-      ],
-      "id": "c2420dc9f2b0d850",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 104.1,
-      "story_size": 1,
-      "image_local": "images/news_ab7ed5b8aeceb865dca3.jpg"
-    },
-    {
-      "title": "सगरमाथा क्लबलाई अन्तर्राष्ट्रिय स्विमिङ च्याम्पियनसिपको उपाधि",
-      "link": "https://www.ratopati.com/story/602732/sagarmatha-club-wins-international-swimming-championship-title",
-      "description": "बाँके । तेस्रो नेपालगन्ज अन्तर्राष्ट्रिय स्विमिङ च्याम्पियनसिपको उपाधि ललितपुरको सगरमाथा स्विमिङ क्लबले जितेको छ । नेपाल पौडी सङ्घको प्राविधिक सहयोगमा नेपालगन्ज स्विमिङ क्लबको आयोजनामा भएको दुई दिने प्रतियोगितामा सगरमाथाले ४२९ अङ्क ल्याएर प्रथम भएको हो",
-      "published": "2026-11-01T18:30:04+00:00",
-      "source": "Ratopati",
-      "category": "world",
-      "image": "https://npcdn.ratopati.com/media/news/swim_I8VWYHRTXe.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "3d4cd04cb286cd80",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 103.5,
-      "story_size": 1,
-      "image_local": "images/news_9fed2664e10a6040dffb.webp"
-    },
-    {
-      "title": "लिभरपुलमाथि आर्सनलको जित, शीर्ष स्थान कायमै",
-      "link": "https://www.ratopati.com/story/602733/arsenals-win-over-liverpool-keeps-them-at-the-top",
-      "description": "काठमाडौँ । इङ्लिस प्रिमियर लिग अन्तर्गत भएको खेलमा आर्सनलले लिभरपुलमाथि १–० गोलको महत्त्वपूर्ण जित हात पारेको छ । खेलमा आर्सनलका लागि काई हार्भाट्सले गरेको एकमात्र गोल नै निर्णायक बन्यो । उनले खेलको १६ औँ मिनेटमा गोल",
-      "published": "2026-11-01T18:29:35+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/aresnal_RcV54pRzYZ.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "c72058c3f49800a6",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 103.5,
-      "story_size": 1,
-      "image_local": "images/news_3f8b44232b87184bcdef.webp"
-    },
-    {
-      "title": "बङ्गालको खाडीमा विकसित नयाँ चक्रवातले नेपालको मौसममा प्रभाव नपार्ने",
-      "link": "https://nepalsamaya.com/detail/147458",
-      "description": "",
-      "published": "2026-11-02T00:09:00+05:45",
-      "source": "Nepal Samaya",
-      "category": "society",
-      "image": "https://nepalsamaya.com/uploads/posts/Arnav1793105059-1793161540.jpg",
-      "related_sources": [
-        "Nepal Samaya"
-      ],
-      "id": "b14d171b40fc133e",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 103.1,
-      "story_size": 1,
-      "image_local": "images/news_84e92bc81ed5ea1881f7.jpg"
-    },
-    {
-      "title": "कालीगण्डकी बाढीको भएन अध्ययन",
-      "link": "https://gorkhapatraonline.com/news/227966",
-      "description": "ठाकुरप्रसाद आचार्य म्याग्दी, कात्तिक १५ गते । गत असोज दोस्रो साता कालीगण्डकी नदीमा आएको विनासकारी बाढीले म्याग्दी, पर्वत, बागलुङ र स्याङ्जाका विभिन्न क्षेत्रमा अरबौँ रुपियाँ बराबरक...",
-      "published": "2026-11-02T00:03:51+05:45",
+      "title": "ऐनको प्रभावकारिता मापन गर्न संसदीय पहल",
+      "link": "https://gorkhapatraonline.com/news/227972",
+      "description": "काठमाडौँ, कात्तिक १६ गते । संसद्ले कानुन निर्माण गरेपछि त्यसको कार्यान्वयन प्रभावकारिताको मूल्याङ्कन गर्ने प्रक्रिया अघि बढ्ने भएको छ । राष्ट्रिय सभाको विधायन व्यवस्थापन समितिले छ...",
+      "published": "2026-11-02T06:12:09+05:45",
       "source": "Gorkhapatra Online",
-      "category": "society",
-      "image": "https://gorkhapatraonline.com/storage/media/389930/conversions/kaligandaki-badi--(1)-original.jpg",
+      "category": "politics",
+      "image": "https://gorkhapatraonline.com/storage/media/389936/conversions/bidhayen-bewastha-samiti-1698673014-original.jpg",
       "related_sources": [
         "Gorkhapatra Online"
       ],
-      "id": "d4f389aef7d147fb",
+      "id": "cccf1527d1cdcacb",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.8,
+      "score": 112.9,
       "story_size": 1,
-      "image_local": "images/news_c96819dd6fe04a292fff.jpg"
+      "image_local": "images/news_9fb1657349e63648d04c.jpg"
+    },
+    {
+      "title": "युक्रेनको एयर रेड अलर्ट एप ह्याक: किभमा विकीरण र आणविक हमलाको झटो सूचनाले सन्त्रास",
+      "link": "https://www.ratopati.com/story/602751/ukraines-air-raid-alert-app-hacked-kyiv-panics-over-false-reports-of-radiation-and-nuclear-attack",
+      "description": "किभ । युक्रेनको हवाइ हमलासम्बन्धी पूर्वसूचना दिने ‘एयर रेड अलर्ट’ एप आइतबार ह्याक भएको छ। एप ह्याक भएसँगै केही समयका लागि राजधानी किभमा विकीरणको खतरा रहेको झुटा सन्देश प्रवाह भएको युक्रेनी वायुसेनाले जनाएको हो। टेलिग्राममा सन्देश जारी गर्दै",
+      "published": "2026-11-02T00:26:19+00:00",
+      "source": "Ratopati",
+      "category": "tech",
+      "image": "https://npcdn.ratopati.com/media/news/1d2513e0-d646-11f1-b441-2b33b063138fjpg_Ny2PF6jJZd.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "f9e919d8b4605378",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.9,
+      "story_size": 1,
+      "image_local": "images/news_11d58a81815c53474542.webp"
+    },
+    {
+      "title": "युद्धविरामको एक वर्षपछि पनि गाजामा इजरायली आक्रमण जारी : बालकसहित आठ जनाको मृत्यु",
+      "link": "https://www.ratopati.com/story/602750/israeli-attacks-on-gaza-continue-a-year-after-ceasefire-eight-people-including-a-child-killed",
+      "description": "गाजा । एक वर्षअघि भएको युद्धविरामका बाबजुद गाजामा इजरायलले गरेको पछिल्लो आक्रमणमा परी एक बालकसहित कम्तीमा आठ जनाको मृत्यु भएको अस्पतालहरूले जनाएका छन्। उत्तरी गाजा सहरको अल-रिमाल क्षेत्रस्थित काइरो स्कुल नजिकै नागरिकको समूहलाई लक्षित गरी गरिएको मिसाइल",
+      "published": "2026-11-02T00:22:52+00:00",
+      "source": "Ratopati",
+      "category": "world",
+      "image": "https://npcdn.ratopati.com/media/news/gaja_2SoFcv122o.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "f31797832cbbee4f",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.6,
+      "story_size": 1,
+      "image_local": "images/news_9d78134593541c901ba3.webp"
+    },
+    {
+      "title": "शिक्षा विधेयकमाथि छलफल",
+      "link": "https://gorkhapatraonline.com/news/227971",
+      "description": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक १६ गते । छलफलको चरणमा रहेको विद्यालय शिक्षा विधेयक सबै पक्षलाई सर्वमान्य हुने गरी टुङ्ग्याउने तयारीमा शिक्षा तथा खेलकुद मन्त्रालय लागेको छ । श...",
+      "published": "2026-11-02T06:07:24+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "politics",
+      "image": "https://gorkhapatraonline.com/storage/media/389935/conversions/bidhyak-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "d1afa1a59255201d",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.6,
+      "story_size": 1,
+      "image_local": "images/news_fb3dac503724723fd25e.jpg"
+    },
+    {
+      "title": "अपराजित कर्णालीलाई रोक्ने काठमाडौँको दाउ, सुदूरपश्चिमलाई जित्नैपर्ने दबाब",
+      "link": "https://www.ratopati.com/story/602703/kathmandus-bet-to-stop-undefeated-karnali-pressure-to-win-over-sudurpaschim",
+      "description": "काठमाडौँ । तेस्रो संस्करणको नेपाल प्रिमियर लिग (एनपीएल) क्रिकेटमा सोमबार दुई खेल हुँदैछन् । कीर्तिपुरस्थित त्रिवि अन्तर्राष्ट्रिय क्रिकेट मैदानमा हुने पहिलो खेलमा कर्णाली याक्स र काठमाडौँ गोर्खाज आमनेसामने हुनेछन् । दोस्रो खेलमा चितवन राइनोज र सुदूरपश्चिम",
+      "published": "2026-11-02T00:15:00+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://npcdn.ratopati.com/media/news/npl_6AuQiwfthB.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "2834319b75ab99b8",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.1,
+      "story_size": 1,
+      "image_local": "images/news_a078155b206270df5faa.webp"
+    },
+    {
+      "title": "रेल सञ्जालप्रति चीन सकारात्मक",
+      "link": "https://gorkhapatraonline.com/news/227970",
+      "description": "काठमाडौँ, कात्तिक १६ गते । केरुङ–काठमाडौँ अन्तरदेशीय रेलमार्ग निर्माण गर्न विस्तृत परियोजना प्रतिवेदन (डिपिआर) बनाउने विषयमा नेपाल र चीनबिच घनीभूत छलफल भएको छ । नेपाली टोली चीन गएर...",
+      "published": "2026-11-02T05:58:19+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "world",
+      "image": "https://gorkhapatraonline.com/storage/media/389934/conversions/1-Kerung-Rel-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "e3e3f3b90570b951",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.0,
+      "story_size": 1,
+      "image_local": "images/news_2b847e3bc4c01ce03014.jpg"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. राष्ट्रिय गौरवका सिँचाइ आयोजनाबाट थप १५० हेक्टर जमिन सिँचाइ\nस्रोत: Nepal Samaya\nhttps://nepalsamaya.com/detail/147461\n\n2. वैदिक विश्वविद्यालयको आवश्यकतामा जोड\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602734/emphasis-on-the-need-for-a-vedic-university\n\n3. २४ घण्टामा देशभर सवारी दुर्घटनामा ४ को मृत्यु, १०९ जना घाइते\nस्रोत: Nepal Samaya\nhttps://nepalsamaya.com/detail/147460\n\n4. कुनैपनि राजनीतिक दलको सदस्य नभएर मैंले ठूलो गल्ती गरें : डा.सुरेन्द्र केसी\nस्रोत: Nepal Samaya\nhttps://nepalsamaya.com/detail/147459\n\n5. सगरमाथा क्लबलाई अन्तर्राष्ट्रिय स्विमिङ च्याम्पियनसिपको उपाधि\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602732/sagarmatha-club-wins-international-swimming-championship-title\n\n6. लिभरपुलमाथि आर्सनलको जित, शीर्ष स्थान कायमै\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602733/arsenals-win-over-liverpool-keeps-them-at-the-top\n\n7. बङ्गालको खाडीमा विकसित नयाँ चक्रवातले नेपालको मौसममा प्रभाव नपार्ने\nस्रोत: Nepal Samaya\nhttps://nepalsamaya.com/detail/147458\n\n8. कालीगण्डकी बाढीको भएन अध्ययन\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/227966\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. आँबुखैरेनीमा माइक्रो दुर्घटना, चालकसहित ११ जना घाइते\nस्रोत: Thaha Khabar, Baahrakhari, Ratopati\nhttps://www.thahakhabar.com/detail/311240\n\n2. स्याङ्जामा दुई लाख ४९ हजार मतदाता कायम\nस्रोत: Khabarhub, Ratopati\nhttps://khabarhub.com/2026/02/1043184/\n\n3. ऐनको प्रभावकारिता मापन गर्न संसदीय पहल\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/227972\n\n4. युक्रेनको एयर रेड अलर्ट एप ह्याक: किभमा विकीरण र आणविक हमलाको झटो सूचनाले सन्त्रास\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602751/ukraines-air-raid-alert-app-hacked-kyiv-panics-over-false-reports-of-radiation-and-nuclear-attack\n\n5. युद्धविरामको एक वर्षपछि पनि गाजामा इजरायली आक्रमण जारी : बालकसहित आठ जनाको मृत्यु\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602750/israeli-attacks-on-gaza-continue-a-year-after-ceasefire-eight-people-including-a-child-killed\n\n6. शिक्षा विधेयकमाथि छलफल\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/227971\n\n7. अपराजित कर्णालीलाई रोक्ने काठमाडौँको दाउ, सुदूरपश्चिमलाई जित्नैपर्ने दबाब\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602703/kathmandus-bet-to-stop-undefeated-karnali-pressure-to-win-over-sudurpaschim\n\n8. रेल सञ्जालप्रति चीन सकारात्मक\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/227970\n\n— I Am From Hetauda"
 }
