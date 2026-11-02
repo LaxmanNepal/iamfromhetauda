@@ -1,165 +1,159 @@
 {
-  "date_np": "2026-11-02",
-  "generated_at": "2026-11-02T16:37:09.646463+00:00",
+  "date_np": "2026-11-03",
+  "generated_at": "2026-11-02T23:42:51.844397+00:00",
   "items": [
     {
-      "title": "अक्टोबरमा एक लाख ३२ हजार विदेशी पर्यटक नेपाल भित्रिए",
-      "link": "https://www.ratopati.com/story/602951/132000-foreign-tourists-entered-nepal-in-october",
-      "description": "काठमाडौँ । सन् २०२६ को अक्टोबरमा एक लाख ३२ हजार ८१४ विदेशी पर्यटक नेपाल भित्रिएका छन् । नेपाल पर्यटन बोर्डले दिएको जानकारीअनुसार गत वर्षको अक्टोबर महिनाको तुलनामा यसवर्ष चार हजार बढी विदेशी पर्यटक नेपाल भित्रिएका",
-      "published": "2026-11-02T16:30:08+00:00",
-      "source": "Ratopati",
-      "category": "world",
-      "image": "https://npcdn.ratopati.com/media/news/tourist_VESmmhswgy.webp",
-      "related_sources": [
-        "Ratopati",
-        "Baahrakhari",
-        "Khabarhub",
-        "Lokaantar"
-      ],
-      "id": "dfecaac845044cd5",
-      "source_count": 4,
-      "verified": true,
-      "local": false,
-      "score": 156.6,
-      "story_size": 4,
-      "image_local": "images/news_d52606f74e9cc78158e1.webp"
-    },
-    {
-      "title": "धनगढी उपमहानगरले १६३ ज्येष्ठ नागरिकलाई मुक्तिनाथ दर्शनका लागि पठायो",
-      "link": "https://www.ratopati.com/story/602946/dhangadhi-sub-metropolitan-city-sends-163-senior-citizens-to-visit-muktinath",
-      "description": "सुदूरपश्चिम। कैलालीको धनगढी उपमहानगरपालिकाले ‘मुक्तिनाथ दर्शन’ कार्यक्रमअन्तर्गत १६३ ज्येष्ठ नागरिकलाई दर्शनका लागि त्यसतर्फ पठाएको छ। धार्मिक पर्यटन प्रवर्द्धनसँगै ज्येष्ठ नागरिकलाई तीर्थयात्राको अवसर प्रदान गर्ने उद्देश्यले सुरु गरिएको कार्यक्रमको निरन्तरता दिई आज ज्येष्ठ नागरिकलाई त्यसतर्फ पठाइएको नगरपालिकाले",
-      "published": "2026-11-02T16:01:40+00:00",
+      "title": "माग्रीभिरको कडा चट्टान छिचोलियोः सडक सञ्जालमा पहुँच हुने आशा",
+      "link": "https://www.ratopati.com/story/602968/the-hard-rock-of-magrivir-has-been-broken-through-hope-for-access-to-the-road-network",
+      "description": "मुगु । गमगढी–नाक्चेलाग्ना सडकअन्तर्गत मुगुम कार्मारोङ गाउँपालिकाको माग्रीभिरमा रहेको करिब ३०० मिटर लामो कडा चट्टान छिचोलिएको छ । नेपाली सेनाको सहयोगमा चट्टान काट्ने काम सम्पन्न भएपछि यस क्षेत्रका बासिन्दाको सडक पहुँचको वर्षौंदेखिको सपना साकार हुने",
+      "published": "2026-11-02T19:00:00+00:00",
       "source": "Ratopati",
       "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/dhangadi-upamahanagar_XxSUlGUhmH.jpg",
+      "image": "https://npcdn.ratopati.com/media/news/sadak-parewadanda_qizcUgXb9N.webp",
       "related_sources": [
         "Ratopati",
-        "Lokaantar"
-      ],
-      "id": "2e24cef97a16a99a",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 134.7,
-      "story_size": 2,
-      "image_local": "images/news_768cc2df1488699fa33d.jpg"
-    },
-    {
-      "title": "सालका रुख अवैध रुपमा कटान",
-      "link": "https://nepalsamaya.com/detail/147499",
-      "description": "",
-      "published": "2026-11-02T21:27:37+05:45",
-      "source": "Nepal Samaya",
-      "category": "nepal",
-      "image": "https://nepalsamaya.com/uploads/posts/202611021820-e8c3e8fe-0510-4929-947d-cf87576073ac_medium-1793634143.jpg",
-      "related_sources": [
-        "Nepal Samaya",
-        "OnlineKhabar"
-      ],
-      "id": "ee446a70b05e1515",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 133.4,
-      "story_size": 2,
-      "image_local": "images/news_a889ad8c31107f20b164.jpg"
-    },
-    {
-      "title": "भारतका विदेश सचिव मिस्री नेपाल भ्रमणमा आउँदै",
-      "link": "https://www.thahakhabar.com/detail/311301",
-      "description": "",
-      "published": "2026-11-02T21:19:39+05:45",
-      "source": "Thaha Khabar",
-      "category": "world",
-      "image": "https://www.thahakhabar.com/uploads/posts/mishri-1793632045.jpg",
-      "related_sources": [
-        "Thaha Khabar",
-        "Khabarhub"
-      ],
-      "id": "2a39c54e6d2917aa",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 132.9,
-      "story_size": 2,
-      "image_local": "images/news_ff9ef45fa74c0f25ba59.jpg"
-    },
-    {
-      "title": "कोरला नाका हुँदै तीन हजार ७२५ मेट्रिकटन चिनियाँ फलफूल आयात",
-      "link": "https://khabarhub.com/2026/02/1043743/",
-      "description": "मुस्ताङ – नेपाल–चीन उत्तरी कोरला नाका हुँदै आइतबारसम्म तीन हजार ७२५ मेट्रिकटन फलफूल चीनतर्फबाट आयात भएको छ । गत भदौ २० गतेदेखि कोरला नाकाबाट चिनियाँ फलफूलजन्य मालवस्तु नेपाल भित्रिन थालेको हो । यो नाकाबाट हालसम्म ११ किसिमका फलफूल चीनबाट नेपालतर्फ भित्रिएका कोरला नाकास्थित लोमान्थाङ(४ न्हेचुङमा रहेको क्वारेन्टाइन कार्यालयले जानकारी दिएको छ । रसुवाको भोटेकोशीमा आएको [&#8230;]",
-      "published": "2026-11-02T16:08:57+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
-        "Ratopati"
-      ],
-      "id": "1e82b345bc33456c",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 132.1,
-      "story_size": 2
-    },
-    {
-      "title": "सुनकोशी–मरिण आयोजनाको ठेक्का प्रक्रिया तत्काल अघि बढाउन प्रधानमन्त्री कार्यालयको निर्देशन",
-      "link": "https://khabarhub.com/2026/02/1043716/",
-      "description": "काठमाडौं – प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालयले सुनकोशी–मरिण डाइभर्सन बहुउद्देश्यीय राष्ट्रिय गौरवको आयोजनाको ठेक्का प्रक्रिया संशोधित ऐन तथा नियमावलीअनुसार तत्काल सुरु गर्न ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्रालयलाई निर्देशन दिएको छ । सिंहदरबारस्थित प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालयमा आज बिहान बसेको बैठकमा उक्त निर्देशन दिइएको हो । बैठकमा मन्त्रालयले राष्ट्रिय गौरवको आयोजनालाई निर्धारित समयमै सम्पन्न गर्न आवश्यक प्रक्रिया [&#8230;]",
-      "published": "2026-11-02T15:44:15+00:00",
-      "source": "Khabarhub",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
-        "Lokaantar"
-      ],
-      "id": "adfd6753d043c18b",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 130.5,
-      "story_size": 2
-    },
-    {
-      "title": "सूचनाको हक कार्यान्वयनबारे दुईदिने कार्यशाला",
-      "link": "https://gorkhapatraonline.com/news/228079",
-      "description": "अनिल पराजुलीहेटौँडा, कात्तिक १६ गते । बागमती प्रदेश सूचना पुनरावेदन समितिको आयोजनामा सूचनाको हक कार्यान्वयन र व्यवहारिक पक्षबारे दुईदिने क्षमता अभिवृद्धि तालिम तथा कार्यशाला सोमबार...",
-      "published": "2026-11-02T22:13:09+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/390085/conversions/suchana_hetauda-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "a851c576de8f11fb",
-      "source_count": 1,
-      "verified": false,
-      "local": true,
-      "score": 130.4,
-      "story_size": 1,
-      "image_local": "images/news_531e35038f2ca73cef9c.jpg"
-    },
-    {
-      "title": "चितवनले सुदूरपश्चिमलाई दियो १३० रनको लक्ष्य",
-      "link": "https://www.onlinekhabar.com/2026/11/2049546/chitwan-sets-a-target-of-130-runs-for-sudurpaschim",
-      "description": "२७ रनमा २ विकेट गुमाएको अवस्थामा चितवनका लागि रवि बोपारा र डाविड मालानले ३५ रनको साझेदारी गरेका थिए । यस्तै बोपाराले चौथो विकेटका लागि कप्तान सिकन्दर राजासँग ३२ रनको साझेदारी गरेका थिए ।",
-      "published": "2026-11-02T13:09:59+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar",
         "Kendrabindu"
       ],
-      "id": "9e249862227b79d3",
+      "id": "77dcbd9964647229",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 120.2,
-      "story_size": 2
+      "score": 118.2,
+      "story_size": 2,
+      "image_local": "images/news_8dc37648306dc1b06dd3.webp"
+    },
+    {
+      "title": "असी वर्षे वृद्धको सुपारीखेती ...",
+      "link": "https://www.ratopati.com/story/602977/an-eighty-year-old-mans-betel-nut-farming",
+      "description": "सुनसरी । उमेरले ८० वर्ष पुगेका इनरुवा नगरपालिका–४ महेन्द्र चोकका गोविन्दबहादुर कार्कीको जाँगर भने अझै तन्नेरीको जस्तै छ । उनी बिहानदेखि बेलुकासम्म आफ्नै सुपारी बगानमा समय बिताउँछन् । डेढ बिघा क्षेत्रफलमा फैलिएको उनको सुपारी बगानको",
+      "published": "2026-11-02T23:30:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/supari-(2)_hN4rwskxnG.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "278151a2b3558a62",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.2,
+      "story_size": 1,
+      "image_local": "images/news_a4c0e929b195af4c3a14.jpg"
+    },
+    {
+      "title": "कस्तो रहला तपाईँको दिन ? हेर्नुहोस् आजकाे राशिफल",
+      "link": "https://www.ratopati.com/story/602980/how-was-your-day-check-out-todays-horoscope",
+      "description": "आजको पञ्चाङ्ग वि.सं.२०८३ साल कार्तिक १७ गते । मंगलबार । इस्वी सन् २०२६ नोभेम्बर ३ तारिख । नेपाल संवत् ११४६ । रौद्र संवत्सर । दक्षिणायन । शरद ऋतु । श्रीशाके १९४८ । कार्तिक कृष्णपक्ष । तिथि–नवमी,",
+      "published": "2026-11-02T23:15:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/horoscope_68mF8G6CaS.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "27953422df2f772f",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.2,
+      "story_size": 1,
+      "image_local": "images/news_0801267ae47ce997ddb8.jpg"
+    },
+    {
+      "title": "बागलुङमा एकै पटक १५ बेलिब्रिज निर्माण हुँदै",
+      "link": "https://www.ratopati.com/story/602984/15-bailey-bridges-being-constructed-at-once-in-baglung",
+      "description": "बागलुङ । बागलुङमा गण्डकी प्रदेश सरकारले एकै पटक १५ वटा बेलिब्रिज निर्माण गर्ने भएको छ । पक्की पुलको अभावमा वर्षायाममा सवारी आवागमनमा समस्या हुँदै आएका ग्रामीण सडकका साना तथा मझौला खोलामा बेलिब्रिज निर्माण गर्न लागिएको",
+      "published": "2026-11-02T23:10:31+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/belly-bridge_1VJqQ9mNS8.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "6e07c1f035b40b6e",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.9,
+      "story_size": 1,
+      "image_local": "images/news_05496e3c7bdc2ab6b7b7.jpg"
+    },
+    {
+      "title": "दीपावली र छठ: माटो बेचेर पर्व खर्च जुटाउँदै स्थानीय",
+      "link": "https://www.ratopati.com/story/602982/diwali-and-chhath-locals-raise-funds-for-festivals-by-selling-soil",
+      "description": "महोत्तरी । भर्खरै दसैँ सकेका मधेसका बस्तीमा दीपावली र छठ पर्वको चहलपहल सुरु भएको छ । मधेसका महोत्तरीसहितका मिथिला क्षेत्रमा यी पर्व मन फुकाएर मनाउने गरिन्छ । यी पर्वले मधेसका बस्ती चलायमान हुन्छन् । दीपावली",
+      "published": "2026-11-02T23:01:21+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://rpcdn.ratopati.com/media/albums/mahottori_i63oSlecr4.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "bf758a65696e049f",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.2,
+      "story_size": 1,
+      "image_local": "images/news_be1b1dba77f745352f05.jpg"
+    },
+    {
+      "title": "विपद् प्रभावितलाई करिब रु १७ लाख नगद राहत वितरण",
+      "link": "https://www.ratopati.com/story/602983/approximately-rs-17-million-in-cash-relief-distributed-to-disaster-victims",
+      "description": "म्याग्दी । म्याग्दी, पर्वत र बागलुङमा विपद् परी आफन्त गुमाएका, प्रभावित स्थानीय तह र समुदायलाई करिब रु १७ लाख राहत सहयोग गरिएको छ । पुनमगर समाज नेपाल र बेलायतको सहकार्यमा सङ्कलन भएको रु १६ लाख ७४",
+      "published": "2026-11-02T22:59:55+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://rpcdn.ratopati.com/media/albums/myagdi_Yxx1IewRfU.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "6420822139dc069d",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.1,
+      "story_size": 1,
+      "image_local": "images/news_dbce385863c9420be26d.jpg"
+    },
+    {
+      "title": "आज २०८३ साल कात्तिक १७ गते मंगलबारको राशिफल",
+      "link": "https://khabarhub.com/2026/03/1043749/",
+      "description": "काठमाडौँ – २०८३ साल कात्तिक १७ गते मंगलबार सन् २०२६ नोभेम्बर ३ तारिख। कार्तिक कृष्ण पक्षको नवमी तिथि। नक्षत्र अनुसार १२ वटा राशि हुन्छन्। चन्द्रमा अनुसार राशि र नक्षत्रका पद अनुसार नाम राखिन्छ। त्यही आधारमा व्यक्तिको दैनिकीको विषयमा भविष्यवाणी हुन्छ। खबरहबका लागि ज्योतिष पण्डित सूर्यनाथ लुइटेलले तयार पार्नुभएको आजको फलादेशः मेष : दिन राम्रो छ। [&#8230;]",
+      "published": "2026-11-02T23:37:30+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "87ffa6505d42edae",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.7,
+      "story_size": 1
+    },
+    {
+      "title": "मौसम खुलेसँगै धान थन्क्याउन व्यस्त बने भोजपुरका किसान",
+      "link": "https://www.ratopati.com/story/602981/bhojpur-farmers-busy-storing-paddy-as-weather-improves",
+      "description": "भोजपुर । निरन्तर वर्षापछि मौसममा सुधार आएसँगै भोजपुरका किसानलाई धानबाली भित्र्याउने चटारो परेको छ । वर्षाका कारण रोकिएको धान काट्ने र थन्क्याउने काममा मौसम खुलेसँगै किसान बिहानैदेखि खेतबारीमा व्यस्त हुन थालेका हुन् । धान पाकेर खेतमा",
+      "published": "2026-11-02T22:53:53+00:00",
+      "source": "Ratopati",
+      "category": "society",
+      "image": "https://npcdn.ratopati.com/media/news/7Uw1okR5K8.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "69aa0338e983c8a0",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.7,
+      "story_size": 1,
+      "image_local": "images/news_24b101e4a293195c8bfe.jpg"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. अक्टोबरमा एक लाख ३२ हजार विदेशी पर्यटक नेपाल भित्रिए\nस्रोत: Ratopati, Baahrakhari, Khabarhub\nhttps://www.ratopati.com/story/602951/132000-foreign-tourists-entered-nepal-in-october\n\n2. धनगढी उपमहानगरले १६३ ज्येष्ठ नागरिकलाई मुक्तिनाथ दर्शनका लागि पठायो\nस्रोत: Ratopati, Lokaantar\nhttps://www.ratopati.com/story/602946/dhangadhi-sub-metropolitan-city-sends-163-senior-citizens-to-visit-muktinath\n\n3. सालका रुख अवैध रुपमा कटान\nस्रोत: Nepal Samaya, OnlineKhabar\nhttps://nepalsamaya.com/detail/147499\n\n4. भारतका विदेश सचिव मिस्री नेपाल भ्रमणमा आउँदै\nस्रोत: Thaha Khabar, Khabarhub\nhttps://www.thahakhabar.com/detail/311301\n\n5. कोरला नाका हुँदै तीन हजार ७२५ मेट्रिकटन चिनियाँ फलफूल आयात\nस्रोत: Khabarhub, Ratopati\nhttps://khabarhub.com/2026/02/1043743/\n\n6. सुनकोशी–मरिण आयोजनाको ठेक्का प्रक्रिया तत्काल अघि बढाउन प्रधानमन्त्री कार्यालयको निर्देशन\nस्रोत: Khabarhub, Lokaantar\nhttps://khabarhub.com/2026/02/1043716/\n\n7. सूचनाको हक कार्यान्वयनबारे दुईदिने कार्यशाला\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/228079\n\n8. चितवनले सुदूरपश्चिमलाई दियो १३० रनको लक्ष्य\nस्रोत: OnlineKhabar, Kendrabindu\nhttps://www.onlinekhabar.com/2026/11/2049546/chitwan-sets-a-target-of-130-runs-for-sudurpaschim\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. माग्रीभिरको कडा चट्टान छिचोलियोः सडक सञ्जालमा पहुँच हुने आशा\nस्रोत: Ratopati, Kendrabindu\nhttps://www.ratopati.com/story/602968/the-hard-rock-of-magrivir-has-been-broken-through-hope-for-access-to-the-road-network\n\n2. असी वर्षे वृद्धको सुपारीखेती ...\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602977/an-eighty-year-old-mans-betel-nut-farming\n\n3. कस्तो रहला तपाईँको दिन ? हेर्नुहोस् आजकाे राशिफल\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602980/how-was-your-day-check-out-todays-horoscope\n\n4. बागलुङमा एकै पटक १५ बेलिब्रिज निर्माण हुँदै\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602984/15-bailey-bridges-being-constructed-at-once-in-baglung\n\n5. दीपावली र छठ: माटो बेचेर पर्व खर्च जुटाउँदै स्थानीय\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602982/diwali-and-chhath-locals-raise-funds-for-festivals-by-selling-soil\n\n6. विपद् प्रभावितलाई करिब रु १७ लाख नगद राहत वितरण\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602983/approximately-rs-17-million-in-cash-relief-distributed-to-disaster-victims\n\n7. आज २०८३ साल कात्तिक १७ गते मंगलबारको राशिफल\nस्रोत: Khabarhub\nhttps://khabarhub.com/2026/03/1043749/\n\n8. मौसम खुलेसँगै धान थन्क्याउन व्यस्त बने भोजपुरका किसान\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/602981/bhojpur-farmers-busy-storing-paddy-as-weather-improves\n\n— I Am From Hetauda"
 }
