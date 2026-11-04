@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T14:50:45.148070+00:00",
+  "updated_at": "2026-11-04T21:11:23.725291+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -16,71 +16,112 @@
   ],
   "items": [
     {
-      "title": "पदयात्रा अनुमति उल्लंघन गर्ने ट्रेकिङ एजेन्सीलाई ५० हजार जरिवाना",
-      "link": "https://www.thahakhabar.com/detail/311421",
-      "description": "",
-      "published": "2026-11-04T20:17:00+05:45",
-      "source": "Thaha Khabar",
-      "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/Fine-1793802659.jpg",
+      "title": "नेप्सेको प्रमुख कार्यकारी अधिकृतमा प्रताप सुवेदी नियुक्त",
+      "link": "https://khabarhub.com/2026/04/1044680/",
+      "description": "काठमाडौं – सरकारले नेपाल स्टक एक्सचेञ्ज (नेप्से)का प्रमुख कार्यकारी अधिकृतमा प्रताप सुवेदीलाई नियुक्त गरेको छ। अर्थ मन्त्रालयले गठन गरेको छनोट समितिको सिफारिसमा मंगलबार बसेको मन्त्रिपरिषद् बैठकले सुवेदीलाई प्रमुख कार्यकारी अधिकृत पदमा नियुक्त गरेको हो। उनलाई बुधबार अर्थमन्त्री डा।स्वर्णिम वाग्लेले नियुक्ति पत्र प्रदान गर्दै इमानदारीपूर्वक कार्य सम्पादन गर्न निर्देशन दिए।",
+      "published": "2026-11-04T16:26:24+00:00",
+      "source": "Khabarhub",
+      "category": "business",
+      "image": "",
       "related_sources": [
+        "Khabarhub",
+        "Gorkhapatra Online",
         "Thaha Khabar",
-        "Ratopati",
-        "Kendrabindu"
+        "Setopati",
+        "Ratopati"
       ],
-      "id": "8fda34d5bf7843d1",
+      "id": "89552b85d927bca2",
+      "source_count": 5,
+      "verified": true,
+      "local": false,
+      "score": 145.0,
+      "story_size": 5
+    },
+    {
+      "title": "नेपाल बिमा प्राधिकरणको अध्यक्षमा थापा नियुक्त",
+      "link": "https://gorkhapatraonline.com/news/228330",
+      "description": "काठमाडौँ, कात्तिक १८ गते । सरकारले नेपाल बिमा प्राधिकरणको अध्यक्षमा राजनविक्रम थापालाई नियुक्त गरेको छ ।अर्थ मन्त्रालयले गठन गरेको छनोट समितिको सिफारिसको आधारमा मङ्गलबार बसेको मन्त...",
+      "published": "2026-11-04T23:46:42+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "business",
+      "image": "https://gorkhapatraonline.com/storage/media/390462/conversions/1000116976-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online",
+        "Khabarhub",
+        "Thaha Khabar"
+      ],
+      "id": "7f6c73e2384b26d4",
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 145.8,
-      "story_size": 4,
-      "image_local": "images/news_ab141fc19b660c603da9.jpg"
+      "score": 134.4,
+      "story_size": 3,
+      "image_local": "images/news_21d139f31cbefa656b85.jpg"
     },
     {
-      "title": "सङ्खुवासभा गोल्डकप फुटबल : काठमाडौँलाई हराउँदै सुनसरी फाइनलमा",
-      "link": "https://www.ratopati.com/story/603379/sankhuwasabha-gold-cup-football-sunsari-defeats-kathmandu-to-reach-final",
-      "description": "सङ्खुवासभा। सङ्खुवासभाको खाँदबारी नगरपालिका–३ मानेभञ्याङमा सञ्चालन भइरहेको सङ्खुवासभा गोल्डकप फुलटबल प्रतियोगितामा सुनसरीको न्यू स्टार क्लब फाइनलमा प्रवेश गरेको छ। बुधबार सम्पन्न पहिलो सेमिफाइनल खेलमा प्लानिङ ब्वाइजलाई ट्राइबेकरमा ६–५ गोल अन्तरले पराजित गर्दै न्यू स्टारले उपाधि यात्रालाई",
-      "published": "2026-11-04T14:32:27+00:00",
-      "source": "Ratopati",
-      "category": "sports",
-      "image": "https://npcdn.ratopati.com/media/news/1YQPCDvHoC.jpg",
-      "related_sources": [
-        "Ratopati",
-        "Khabarhub"
-      ],
-      "id": "2abbfdd263d496c8",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 135.8,
-      "story_size": 2,
-      "image_local": "images/news_d8d22ddc696b9ff16d7c.jpg"
-    },
-    {
-      "title": "नेपाल टेलिकमको खरिद प्रक्रियाबारे भ्रमपूर्ण समाचार नफैलाउन आग्रह",
-      "link": "https://www.ratopati.com/story/603373/request-to-not-spread-misleading-news-about-nepal-telecoms-procurement-process",
-      "description": "काठमाडौँ। नेपाल टेलिकमले आफ्नो खरिद प्रक्रियाबारे केही सञ्चारमाध्यममा प्रकाशित तथा प्रसारित समाचारहरू भ्रमपूर्ण र अपुष्ट रहेको भन्दै त्यस्ता समाचार सम्प्रेषण नगर्न आग्रह गरेको छ। कम्पनीले बुधबार जारी गरेको प्रेस विज्ञप्तिमार्फत पछिल्लो समय विभिन्न सञ्चारमाध्यममा कम्पनीको खरिद",
-      "published": "2026-11-04T14:10:05+00:00",
+      "title": "कालोपत्रे उप्किएको १६ वर्षपछि जयराम–हलेसी सडक मर्मत हुने",
+      "link": "https://www.ratopati.com/story/603404/jayaram-halesi-road-to-be-repaired-16-years-after-blacktop-eroded",
+      "description": "खोटाङ । मध्यपहाडी लोकमार्गअन्तर्गत खोटाङको जयरामघाट–हलेसी सडक कालोपत्रे उप्किएर जीर्ण बनेको १६ वर्षपछि मर्मत हुने भएको छ । सडक मर्मतका लागि रु सात करोड २१ लाखको लागतमा ठेक्का सम्झौता भएको छ । दूधकोशीस्थित जयरामघाटदेखि त्रिधार्मिकस्थल हलेसीसम्मको",
+      "published": "2026-11-04T18:22:48+00:00",
       "source": "Ratopati",
       "category": "nepal",
-      "image": "https://rpcdn.ratopati.com/archived-media/NTC_Logo.jpg",
+      "image": "https://npcdn.ratopati.com/media/news/khotang-map_aF2zEZSUAf.jpg",
       "related_sources": [
         "Ratopati",
-        "Kendrabindu"
+        "OnlineKhabar"
       ],
-      "id": "5255d6d0f3d15316",
+      "id": "7dcd92f1d9ec1745",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 134.3,
+      "score": 125.8,
       "story_size": 2,
-      "image_local": "images/news_f6b05e6c7ff86bc93f48.jpg"
+      "image_local": "images/news_6347c468f2e7462addb5.jpg"
     },
     {
-      "title": "त्रिविको सात सय रोपनी भन्दा बढी जग्गा फिर्ता",
-      "link": "https://baahrakhari.com/detail/506601",
+      "title": "प्रदेशस्तरीय कराते छनोटमा मकवानपुरका खेलाडीको वर्चस्व",
+      "link": "https://www.ratopati.com/story/603408/makawanpur-players-dominate-in-provincial-level-karate-selection",
+      "description": "मकवानपुर । दसौँ राष्ट्रिय खेलकुद प्रतियोगिताको तयारी स्वरूप हेटौँडामा आयोजित बागमती प्रदेशस्तरीय ‘फुलकन्ट्याक्ट कराते’ छनोट प्रतियोगितामा मकवानपुरका खेलाडीले उत्कृष्ट प्रदर्शन गरेका छन् । प्रतियोगिताबाट छनोट भएका १४ खेलाडीमध्ये मकवानपुरका ६ खेलाडीले विभिन्न तौल समूह तथा कातामा",
+      "published": "2026-11-04T19:15:00+00:00",
+      "source": "Ratopati",
+      "category": "sports",
+      "image": "https://npcdn.ratopati.com/media/news/karate_FJFU2Z8TIq.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "20f044773f845268",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 123.3,
+      "story_size": 1,
+      "image_local": "images/news_1f62bc8e311e9acfcc1d.jpg"
+    },
+    {
+      "title": "अफगानी नागरिकको निर्वासन रोक्न अमेरिकी अदालतको आदेश",
+      "link": "https://www.ratopati.com/story/603397/us-court-orders-halting-deportation-of-afghan-national",
+      "description": "काठमाडौँ । अमेरिकी सङ्घीय अदालतले पाकिस्तान हुँदै १५० भन्दा बढी अफगानी नागरिकलाई स्वदेश फर्काउने राष्ट्रपति डोनाल्ड ट्रम्प प्रशासनको योजना रोकेको छ । निर्वासनले पूर्वअमेरिकी सहयोगी र उनीहरूका परिवारको ज्यान जोखिममा पार्न सक्ने भन्दै अधिकारवादी समूहहरूले",
+      "published": "2026-11-04T17:31:46+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://rpcdn.ratopati.com/archived-media/american-flag-2a2.jpg",
+      "related_sources": [
+        "Ratopati",
+        "OnlineKhabar"
+      ],
+      "id": "7747e7605e8a9c30",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 122.4,
+      "story_size": 2,
+      "image_local": "images/news_1a18f983a62519b7bbe2.jpg"
+    },
+    {
+      "title": "नेपाल प्रत्यायन केन्द्र स्थापना",
+      "link": "https://baahrakhari.com/detail/506615",
       "description": "",
-      "published": "2026-11-04T20:31:32+05:45",
+      "published": "2026-11-04T23:57:26+05:45",
       "source": "Baahrakhari",
       "category": "nepal",
       "image": "",
@@ -88,32 +129,1169 @@
         "Baahrakhari",
         "Ratopati"
       ],
-      "id": "89fd0efff555808f",
+      "id": "4802ab18f39ae762",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.7,
+      "score": 122.1,
       "story_size": 2
     },
     {
-      "title": "कालोपत्र उप्किएको १६ वर्षपछि जयराम–हलेसी सडक मर्मत हुने",
-      "link": "https://gorkhapatraonline.com/news/228309",
-      "description": "खोटाङ, कात्तिक १८ गते । मध्यपहाडी लोकमार्गअन्तर्गत खोटाङको जयरामघाट–हलेसी सडक कालोपत्र उप्किएर जीर्ण बनेको १६ वर्षपछि मर्मत हुने भएको छ । सडक मर्मतका लागि रु सात करोड २१ लाखको लागत...",
-      "published": "2026-11-04T17:42:16+05:45",
-      "source": "Gorkhapatra Online",
+      "title": "रोहिङ्ग्या नरसंहार मुद्दामा नोभेम्बर १९ मा फैसला आउने",
+      "link": "https://www.ratopati.com/story/603396/verdict-in-rohingya-genocide-case-to-be-delivered-on-november-19",
+      "description": "काठमाडौँ । संयुक्त राष्ट्रसङ्घको सर्वोच्च अदालत अन्तर्राष्ट्रिय न्यायालय (आइसीजे) ले म्यान्मामा रोहिङ्ग्या मुस्लिममाथि भएको दमन नरसंहार हो वा होइन भन्ने विषयमा नोभेम्बर १९ मा ऐतिहासिक फैसला सुनाउने भएको छ । गाम्बियाले सन् २०१९ मा म्यान्माविरुद्ध सन् १९४८",
+      "published": "2026-11-04T17:27:08+00:00",
+      "source": "Ratopati",
       "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/390438/conversions/Jayaram-Halesi-Sadak-{Khotang}-original.jpg",
+      "image": "https://npcdn.ratopati.com/media/news/icj_7B08Is7B8h.gif",
       "related_sources": [
-        "Gorkhapatra Online",
+        "Ratopati",
         "OnlineKhabar"
       ],
-      "id": "4d0fe7c660ab8f58",
+      "id": "99f5ffd1433ab305",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 125.5,
+      "score": 122.1,
       "story_size": 2,
-      "image_local": "images/news_b5c6dd75a23932ce92fb.jpg"
+      "image_local": "images/news_cd5e0bbfd3921b99aebc.jpg"
+    },
+    {
+      "title": "संवेदनशील सूचनाको पूर्ण गोपनीयता कायम गर्न केसीको निर्देशन",
+      "link": "https://baahrakhari.com/detail/506613",
+      "description": "",
+      "published": "2026-11-04T23:29:27+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari",
+        "Khabarhub"
+      ],
+      "id": "60b6b1c3c1d43a20",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 120.2,
+      "story_size": 2
+    },
+    {
+      "title": "बिर्तामोडमा आगलागीबाट ६ करोड बराबरको क्षति",
+      "link": "https://baahrakhari.com/detail/506612",
+      "description": "",
+      "published": "2026-11-04T23:11:20+05:45",
+      "source": "Baahrakhari",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari",
+        "Khabarhub"
+      ],
+      "id": "cf8a2fb20e23159b",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 119.0,
+      "story_size": 2
+    },
+    {
+      "title": "अमेरिकी नीतिमा परिवर्तनको आशा गर्नु भ्रम हो : इरानी सर्वोच्च नेता",
+      "link": "https://www.ratopati.com/story/603390/expecting-a-change-in-us-policy-is-a-delusion-iranian-supreme-leader",
+      "description": "इरानका सर्वोच्च नेता मोजताबा खामेनीले अमेरिकी नीतिमा परिवर्तन आउने अपेक्षा गर्नु भ्रमपूर्ण रहेको बताएका छन् । अमेरिकी मध्यावधि निर्वाचनमा राष्ट्रपति डोनाल्ड ट्रम्पको दललाई धक्का लागेको केही घण्टापछि बुधबार उनले यस्तो टिप्पणी गरेका हुन् । आफ्नो वेबसाइटमा",
+      "published": "2026-11-04T15:52:41+00:00",
+      "source": "Ratopati",
+      "category": "world",
+      "image": "https://npcdn.ratopati.com/media/news/mojtaba-khameni_9yy487iRIy.jpg",
+      "related_sources": [
+        "Ratopati",
+        "Khabarhub"
+      ],
+      "id": "977410509653eb9d",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 115.8,
+      "story_size": 2,
+      "image_local": "images/news_9ddc201f51e0acfbb622.jpg"
+    },
+    {
+      "title": "प्रदेश प्रमुखसमक्ष आदिवासी जनजाति आयोगको सातौँ वार्षिक प्रतिवेदन पेस",
+      "link": "https://gorkhapatraonline.com/news/228326",
+      "description": "बागमती, कात्तिक १८ गते । बागमती प्रदेश प्रमुख दीपकप्रसाद देवकोटासमक्ष आदिवासी जनजाति आयोगले आर्थिक वर्ष २०८२ र ८३ मा सम्पादन गरेका कामकारबाही समेटिएको सातौँ वार्षिक प्रतिवेदन पेस ग...",
+      "published": "2026-11-04T22:31:25+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/390458/conversions/pradesh-pramukh-devkota-18-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "7f27068599e8ee5d",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 113.4,
+      "story_size": 1,
+      "image_local": "images/news_bb0ab20dc8a9d5d7018f.jpg"
+    },
+    {
+      "title": "प्लास्टिकका फूलमाला प्रयोग नगर्न उपमहानगरको आग्रह",
+      "link": "https://gorkhapatraonline.com/news/228324",
+      "description": "सरिता दाहालमकवानपुर, कात्तिक १८ गते । तिहार लगायतको चाडपर्वको अवसरमा प्लास्टिक तथा कृत्रिम फूलमालाको प्रयोग बढ्दै गएपछि हेटौंडा उपमहनगरपालिकाले बजारमा निगरानी बढाएको छ । प्राकृतिक...",
+      "published": "2026-11-04T22:17:13+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/390452/conversions/hetauda-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "4cc3e1db71ea885d",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 112.4,
+      "story_size": 1,
+      "image_local": "images/news_ee264ba7150af61a9d25.jpg"
+    },
+    {
+      "title": "बीमा प्राधिकरणका अध्यक्षमा राजनविक्रम थापा नियुक्त",
+      "link": "https://www.setopati.com/kinmel/economy/402031",
+      "description": "नवनियुक्त अध्यक्ष थापा नेपाल राष्ट्र बैंकका कार्यकारी निर्देशक हुन्। उनी राष्ट्र बैंकको संस्थागत योजना तथा जोखिम व्यवस्थापन विभागमा कार्यरत थिए।",
+      "published": "2026-11-04T21:15:00+05:45",
+      "source": "Setopati",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Setopati",
+        "OnlineKhabar"
+      ],
+      "id": "a9d848e0875c76d9",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 111.3,
+      "story_size": 2
+    },
+    {
+      "title": "बाजुरामा सिँचाइ सुविधा विस्तार, २३ प्रतिशत जमिन सिञ्चित",
+      "link": "https://www.ratopati.com/story/603406/irrigation-facilities-expanded-in-bajura-23-percent-of-land-irrigated",
+      "description": "बाजुरा । जिल्लामा पछिल्लो समय सिँचाइ सुविधा विस्तार हुँदै गएको छ । गत वर्षसम्म जिल्लामा कुल खेतीयोग्य जमिनमध्ये करिब ८० प्रतिशतमा खेती हुँदै आएकामा यस वर्ष तीन प्रतिशतले सिँचाइ सुविधा वृद्धि भएको छ । कृषि ज्ञान",
+      "published": "2026-11-04T19:30:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/bajura_p4f28qgojq_GTbkl6JXnV.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "8a0bde6343a14fe0",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 106.3,
+      "story_size": 1,
+      "image_local": "images/news_c7b88cb664cd653f1843.jpg"
+    },
+    {
+      "title": "बार्सिलोनालाई ठुलो धक्का : चोटका कारण रोड्रि करिब एक महिना मैदान बाहिर रहने",
+      "link": "https://www.ratopati.com/story/603407/barcelona-suffer-major-blow-as-rodri-out-for-about-a-month-due-to-injury",
+      "description": "काठमाडौँ । स्पेनिस क्लब बार्सिलोनाका मुख्य मिडफिल्डर रोड्रि हर्नान्डेज चोटका कारण करिब एक महिना मैदान बाहिर रहने भएका छन् । क्लबले आधिकारिक रूपमा उनको चोटको पुष्टि गरेको हो । होल्डिङ मिडफिल्डर रोड्रिको अनुपस्थितिले बार्सिलोनाको रणनीतिक योजनामा",
+      "published": "2026-11-04T19:00:12+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://npcdn.ratopati.com/media/news/rodri_6WCLOYhJTA.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "dc26e9868a45f5ad",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 104.3,
+      "story_size": 1,
+      "image_local": "images/news_64dd9804f9fc2187dd64.webp"
+    },
+    {
+      "title": "चीनमा बिक्री घटेपछि बीएमडब्लूले रोजगारी कटौती बढाउने",
+      "link": "https://www.ratopati.com/story/603403/bmw-to-increase-job-cuts-as-sales-fall-in-china",
+      "description": "काठमाडौँ । विश्वकै ठुलो सवारीसाधन बजार चीनमा तीव्र प्रतिस्पर्धा र घट्दो मागका कारण तेस्रो त्रैमासिक नाफामा गिरावट आएपछि जर्मन कार निर्माता कम्पनी बीएमडब्लूले योजनाअनुसारको रोजगारी कटौतीलाई थप तीव्र बनाउने जनाएको छ । कम्पनीका प्रमुख कार्यकारी मिलान नेदेल्कोभिकले",
+      "published": "2026-11-04T18:45:00+00:00",
+      "source": "Ratopati",
+      "category": "world",
+      "image": "https://rpcdn.ratopati.com/media/albums/BMW_fUYYBiGs3J.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "ce24f5054d82be87",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 103.3,
+      "story_size": 1,
+      "image_local": "images/news_05d2d8701ca6e117f544.jpg"
+    },
+    {
+      "title": "बडीमालिकामा प्लास्टिकजन्य फूलमाला निषेध",
+      "link": "https://www.ratopati.com/story/603402/plastic-flower-garlands-banned-in-badimalika",
+      "description": "बाजुरा । बडीमालिका नगरपालिकाले तिहारलाई लक्षित गर्दै नगर क्षेत्रभित्र प्लास्टिकजन्य फूलमाला तथा सजावटका सामग्री बिक्री वितरणमा रोक लगाएको छ । नगरपालिकाले सूचना जारी गर्दै तिहारको समयमा प्लास्टिकजन्य फूल, माला तथा सोही प्रकृतिका सजावटका सामग्री बिक्री वितरण",
+      "published": "2026-11-04T18:30:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/plastic-flower-(8)_Dfkwa8n9SX.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "44b984864c5a8d5f",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 102.3,
+      "story_size": 1,
+      "image_local": "images/news_374f20b5c460f4b19af3.jpg"
+    },
+    {
+      "title": "लेगुवाका केही किराना पसलमा अखाद्य वस्तु बिक्रीमा",
+      "link": "https://www.ratopati.com/story/603405/non-food-items-on-sale-at-some-grocery-stores-in-legua",
+      "description": "धनकुटा । लेगुवाका केही किराना तथा खुद्रा पसलमा उपभोक्ताको स्वास्थ्यसँग प्रत्यक्ष जोडिएका अखाद्य वस्तु बिक्रीमा राखिएको भेटिएको छ । चाडपर्वसँगै बजारमा किनमेलको चहलपहल बढिरहेकै बेला धनकुटाको महालक्ष्मी नगरपालिका–५ स्थित लेगुवाको व्यापारीले अखाद्य वस्तु बिक्री वितरण गरेको",
+      "published": "2026-11-04T18:26:01+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/dhankuta-district-map_Q3j5Bh0XHN.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "d82be4d32a9ad674",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 102.0,
+      "story_size": 1,
+      "image_local": "images/news_dfabb60c84a62f1c6244.jpg"
+    },
+    {
+      "title": "१२ बजे १२ समाचार: यस्ता छन् आजका प्रमुख समाचार",
+      "link": "https://www.ratopati.com/story/603399/12-news-at-12-these-are-todays-top-news-stories",
+      "description": "काठमाडौँ । आज दिनभरका मुख्य १२ घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति ‘१२ बजे १२ समाचार’मा प्रस्तुत गरेका छौँ। प्रहरी नेतृत्व परिवर्तन नेपाल प्रहरीको नेतृत्व परिवर्तन गर्ने सरकारको निर्णयले ३० वर्षअघिको प्रहरी प्रशासनमा भएको उथलपुथललाई पुनः स्मरण गराएको",
+      "published": "2026-11-04T18:15:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/12-am-final_viqawbfig2-(1)_fam6WtIhIE.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "72822657316a0863",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 101.3,
+      "story_size": 1,
+      "image_local": "images/news_e6051b04792cc7059ae6.jpg"
+    },
+    {
+      "title": "मनमोहक रणबाङको फाँट र धान काट्न व्यस्त किसान (फोटो फिचर)",
+      "link": "https://gorkhapatraonline.com/news/228321",
+      "description": "ठाकुरप्रसाद आचार्य म्याग्दी,कात्तिक १८ गते । म्याग्दीको मंगला गाउँपालिका–२ स्थित रणबाङको मनमोहक फाँट पाकेको धानले पहेँलपुर बनेको छ । सफा मौसमसँगै धानखेतमा स्थानीय किसानलाई धान काटे...",
+      "published": "2026-11-04T23:54:23+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/390450/conversions/20261103_080650-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "d14344cf3ed0f8a1",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 100.9,
+      "story_size": 1,
+      "image_local": "images/news_46d41c4f25310b333bcb.jpg"
+    },
+    {
+      "title": "सख्खरको उचित भाउ पाउने आसमा उखु पेल्दै किसान",
+      "link": "https://gorkhapatraonline.com/news/228328",
+      "description": "महोत्तरी, कात्तिक १८ गते । दीपावली र छठ पर्व नजिकिएका छन् । यी दुवै पर्व मिष्टान्न परिकार बनाइने/खाइने पर्व हुन् । पर्वको यो परम्परा बुझेका महोत्तरीसहितका मिथिला क्षेत्रका उखु खेती...",
+      "published": "2026-11-04T23:46:54+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/390459/conversions/1000130757-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "deb326fa8076f356",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 100.4,
+      "story_size": 1,
+      "image_local": "images/news_705580a659bab5e8f469.jpg"
+    },
+    {
+      "title": "ग्रिनल्याण्डमा अमेरिकी सैन्य उपस्थिति विस्तार गर्ने सम्झौता अनुमोदन",
+      "link": "https://www.ratopati.com/story/603401/agreement-to-expand-us-military-presence-in-greenland-approved",
+      "description": "काठमाडौँ । ग्रिनल्याण्डको संसद्ले अमेरिका र डेनमार्कसँग भएको सुरक्षा सम्झौता अनुमोदन गरेको छ । रणनीतिक रूपमा महत्त्वपूर्ण आर्कटिक क्षेत्रस्थित यस टापुमा सुरक्षा सहकार्य विस्तार गर्ने र अमेरिकी सैन्य उपस्थिति बढाउने उद्देश्यले गरिएको सम्झौतालाई संसदीय समर्थन प्राप्त",
+      "published": "2026-11-04T17:57:57+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/greenland_y6VeOdNZHN.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "539697832a71928a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 100.1,
+      "story_size": 1,
+      "image_local": "images/news_491d498fb05dec54a48f.webp"
+    },
+    {
+      "title": "मन्त्री मेहतासँग जापानी राजदूत तोरुको शिष्टाचार भेट",
+      "link": "https://www.ratopati.com/story/603400/japanese-ambassador-toru-pays-courtesy-call-on-minister-mehta",
+      "description": "काठमाडौँ । स्वास्थ्य तथा खाद्य स्वच्छतामन्त्री निशा मेहतासँग नेपालका लागि जापानका राजदूत माएदा तोरुल शिष्टाचार भेट गरेका छन् । मन्त्रालयमा ऊनीहरूबिच भएको भेटमा नेपाल र जापानबिचको सम्बन्ध, आपसी सहकार्य तथा स्वास्थ्य क्षेत्रमा सहयोग विस्तारका सम्भावित क्षेत्रबारे",
+      "published": "2026-11-04T17:54:41+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://rpcdn.ratopati.com/media/albums/nepal_japan_bvFwNKepUw.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "827e1db9c85df285",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 99.9,
+      "story_size": 1,
+      "image_local": "images/news_846db4d75e493c7b9350.jpg"
+    },
+    {
+      "title": "बिर्तामोडमा आगलागी, ६ करोडको क्षति",
+      "link": "https://gorkhapatraonline.com/news/228325",
+      "description": "लीलाराज खड्का बिर्तामोड, कार्तिक १८ गते । झापाको बिर्तामोडमा भएको आगलागीबाट करिब ६ करोड बराबरको भौतिक क्षति भएको छ ।बुधवार बिहान १०ः४० बजे बिर्तामोड ४ स्थित राजेश मण्डलको दुई तले घ...",
+      "published": "2026-11-04T23:36:39+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "business",
+      "image": "https://gorkhapatraonline.com/storage/media/390453/conversions/ajlagi-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "65e937ecd169fdf1",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 99.7,
+      "story_size": 1,
+      "image_local": "images/news_37ccead1292928af4360.jpg"
+    },
+    {
+      "title": "‘विपद् व्यवस्थापनको आगामी योजनामा विज्ञान र नयाँ प्रविधि जोड्नुपर्छ’",
+      "link": "https://gorkhapatraonline.com/news/228319",
+      "description": "काठमाडौँ, कात्तिक १८ गते । यसपालिको मनसुनले धेरै कुराहरु सिकाएको भन्दै यो सिकाईको आधारमा आगामी विपद् व्यवस्थापनको योजना बनाउनुपर्नेमा सरोकारवालाहरुले जोड दिएका छन् । प्राधिकरणमा आज...",
+      "published": "2026-11-04T23:34:14+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "tech",
+      "image": "https://gorkhapatraonline.com/storage/media/390463/conversions/9108a575-b82f-4208-a680-53b15a02c3b2-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "af8757792ca1d63a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 99.6,
+      "story_size": 1,
+      "image_local": "images/news_fecace43bfe069edc4a0.jpg"
+    },
+    {
+      "title": "इटहरीमा नेपथ्यको ऐतिहासिक कन्सर्ट सम्पन्न : १० हजारभन्दा बढी दर्शक झुमे (तस्बिरहरू)",
+      "link": "https://www.ratopati.com/story/603398/nepathyas-historic-concert-in-itahari-more-than-10000-spectators-were-enthralled-photos",
+      "description": "इटहरी । नेपाली साङ्गीतिक क्षेत्रको लोकप्रिय लोक–रक ब्यान्ड नेपथ्यले इटहरीमा पहिलो पटक भव्य साङ्गीतिक प्रस्तुति दिएको छ । इटहरी रङ्गशालामा मंगलबार सम्पन्न ‘नेपथ्य इन कन्सर्ट २०२६’ मा १० हजारभन्दा बढी दर्शकको उत्साहजनक उपस्थिति रहेको थियो",
+      "published": "2026-11-04T17:43:06+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/nepathya-1_p38wK55Y1B.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "2721cd949e40ba8d",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 99.1,
+      "story_size": 1,
+      "image_local": "images/news_b78db1e5f964cf38e6e6.webp"
+    },
+    {
+      "title": "बेनी–दरवाङ–मुना सडकको बालौटेमा अस्थायी सडक निर्माण सुरु",
+      "link": "https://gorkhapatraonline.com/news/228329",
+      "description": "ठाकुरप्रसाद आचार्यम्याग्दी, कात्तिक १८ गते । गत असोजको दोस्रो साता आएको अविरल वर्षाका कारण म्याग्दी नदीमा आएको बाढीले क्षतिग्रस्त भएको बेनी–दरबाङ–मुना सडक अन्तर्गत बालौटेमा अवरुद्ध...",
+      "published": "2026-11-04T22:58:07+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/390461/conversions/beni-darbang-sadak-balaute-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "594a80cf435d6296",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 97.1,
+      "story_size": 1,
+      "image_local": "images/news_403936a43bc7880c081e.jpg"
+    },
+    {
+      "title": "इटहरीमा नेपथ्यको कन्सर्ट सम्पन्न, झुमे दर्शक",
+      "link": "https://baahrakhari.com/detail/506614",
+      "description": "",
+      "published": "2026-11-04T23:39:36+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "73905f1a43739428",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 96.9,
+      "story_size": 1
+    },
+    {
+      "title": "तिहारका लागि १५९१ भेडा च्याङ्ग्रा मुस्ताङबाट बेँसी झारिए",
+      "link": "https://www.ratopati.com/story/603395/1591-sheep-brought-down-from-chyangra-mustang-for-tihar",
+      "description": "मुस्ताङ । तिहारका लागि मुस्ताङबाट एक हजार ५९१ भेडा च्याङ्ग्रा बेँसी झारिएका छन् । उक्त भेडा च्याङ्ग्रा तिहारका लागि बिक्री गर्न उपल्लो मुस्ताङ र डोल्पाबाट बेँसीतर्फ झारिएको हो । यहाँस्थित कृषि तथा पशु विकास कार्यालयका अनुसार",
+      "published": "2026-11-04T16:56:01+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/veda-sheep_MPph8GE5Zx.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "71becb9601ec33b0",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 96.0,
+      "story_size": 1,
+      "image_local": "images/news_d6982a1aaa31576ba477.jpg"
+    },
+    {
+      "title": "हिजो आईजीपी फेर्दा एमालेका लागि सुखद रहेन, रास्वपा सरकारले पाठ सिकेन : शंकर",
+      "link": "https://www.thahakhabar.com/detail/311428",
+      "description": "",
+      "published": "2026-11-04T22:21:30+05:45",
+      "source": "Thaha Khabar",
+      "category": "politics",
+      "image": "https://www.thahakhabar.com/uploads/posts/shankar-pokharel-1785742043.jpg",
+      "related_sources": [
+        "Thaha Khabar"
+      ],
+      "id": "d8ead1a41456ec0e",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 94.7,
+      "story_size": 1,
+      "image_local": "images/news_af7069c2fdbcf1dfd763.jpg"
+    },
+    {
+      "title": "बैतडीमा जिप दुर्घटनाः एक महिलाको घटनास्थलमै मृत्यु, ६ जना घाइते",
+      "link": "https://gorkhapatraonline.com/news/228323",
+      "description": "गोकर्ण दयाल बैतडी, कात्तिक १८ गते । पाटन–पञ्चेश्वर सडकखण्ड अन्तर्गत बैतडीको मेलौलीमा जिप दुर्घटना हुँदा एक महिलाको घटनास्थलमै मृत्यु भएको छ भने अन्य ६ जना घाइते भएका छन् ।जिल्ला प...",
+      "published": "2026-11-04T22:21:07+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "society",
+      "image": "https://gorkhapatraonline.com/storage/media/390454/conversions/28925-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "a51181d24bd984e7",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 94.7,
+      "story_size": 1,
+      "image_local": "images/news_79adce527e8e91a4fe54.jpg"
+    },
+    {
+      "title": "सरकारसँग सांसद रन्जु दर्शनाको प्रश्न : डा. केसीका माग सम्बोधन नगर्ने भए सहमति किन गरियो ?",
+      "link": "https://www.ratopati.com/story/603394/mp-ranju-darshanas-question-to-the-government-if-dr-kcs-demands-were-not-to-be-addressed-why-was-the-agreement-made",
+      "description": "काठमाडौँ । राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) की सांसद रन्जु दर्शनाले चिकित्सा शिक्षा सुधारका अभियन्ता डा. गोविन्द केसीसँग भएका सहमति कार्यान्वयन नगरेको भन्दै आफ्नै नेतृत्व संलग्न सरकारमाथि सार्वजनिक रूपमा प्रश्न उठाएकी छन् । बुधबार सामाजिक सञ्जाल फेसबुकमार्फत",
+      "published": "2026-11-04T16:35:08+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/ranju-darshana-(15)_XQdHuk0uZS.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "8f500f9702275d8b",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 94.6,
+      "story_size": 1,
+      "image_local": "images/news_aca5175d84cf5f2e2e67.jpg"
+    },
+    {
+      "title": "सरकार जनताको समस्याभन्दा राजनीतिक खिचातानीमा केन्द्रित : विश्वप्रकाश शर्माको [भिडियो]",
+      "link": "https://nepalsamaya.com/detail/147577",
+      "description": "",
+      "published": "2026-11-04T22:12:49+05:45",
+      "source": "Nepal Samaya",
+      "category": "politics",
+      "image": "https://nepalsamaya.com/uploads/posts/Bishwa_21793793865-1793797604.jpg",
+      "related_sources": [
+        "Nepal Samaya"
+      ],
+      "id": "52719b6d950845c0",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 94.1,
+      "story_size": 1,
+      "image_local": "images/news_cb5675b596350e67a0d7.jpg"
+    },
+    {
+      "title": "मेलमिलापमार्फत छिटो न्याय दिन सरकारको जोड, अदालतको मुद्दाको चाप घटाउने लक्ष्य [भिडियो]",
+      "link": "https://nepalsamaya.com/detail/147576",
+      "description": "",
+      "published": "2026-11-04T22:12:06+05:45",
+      "source": "Nepal Samaya",
+      "category": "politics",
+      "image": "https://nepalsamaya.com/themes/nepalsamaya/images/default.png",
+      "related_sources": [
+        "Nepal Samaya"
+      ],
+      "id": "c36a05a7f4dc48b7",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 94.1,
+      "story_size": 1,
+      "image_local": "images/news_5e6b5d68f12ac3f61471.png"
+    },
+    {
+      "title": "नागरिकले न्यायका लागि वर्षौं कुर्नुपर्ने अवस्था अन्त्य गर्नुपर्छ : मन्त्री गौतम [भिडियो]",
+      "link": "https://nepalsamaya.com/detail/147575",
+      "description": "",
+      "published": "2026-11-04T22:11:25+05:45",
+      "source": "Nepal Samaya",
+      "category": "politics",
+      "image": "https://nepalsamaya.com/uploads/posts/photo_0ccc4e12-1793809577.jpg",
+      "related_sources": [
+        "Nepal Samaya"
+      ],
+      "id": "886a4b0a7a13a4d0",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 94.0,
+      "story_size": 1,
+      "image_local": "images/news_a45f60855f78ab9325bc.jpg"
+    },
+    {
+      "title": "प्रहरी कर्मचारीका गुनासा सुन्न तत्काल संयन्त्र बनाउँछु : आईजीपी केसी [भिडियो]",
+      "link": "https://nepalsamaya.com/detail/147574",
+      "description": "",
+      "published": "2026-11-04T22:10:12+05:45",
+      "source": "Nepal Samaya",
+      "category": "business",
+      "image": "https://nepalsamaya.com/uploads/posts/photo-28_5f921546-1793809143.jpg",
+      "related_sources": [
+        "Nepal Samaya"
+      ],
+      "id": "2adf528d4c3c0f0b",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 94.0,
+      "story_size": 1,
+      "image_local": "images/news_2fcd9ba44ad72e2ef421.jpg"
+    },
+    {
+      "title": "भेट्रान्स फुटबलको सेमिफाइनल समीकरण पूरा",
+      "link": "https://baahrakhari.com/detail/506611",
+      "description": "",
+      "published": "2026-11-04T22:52:18+05:45",
+      "source": "Baahrakhari",
+      "category": "sports",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "3e8eaa23e1510790",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 93.8,
+      "story_size": 1
+    },
+    {
+      "title": "को हुन् नवनियुक्त प्रहरी महानिरीक्षक डा.मनोज केसी?",
+      "link": "https://www.thahakhabar.com/detail/311427",
+      "description": "प्रहरी महानिरीक्षक केसी प्रवल जनसेवा श्री, गोरखा दक्षिणबाहु चौथो, संयुक्त राष्ट्र संघ पदक, वीरेन्द्र ऐश्वर्य सेवा पदक लगायतका विभूषणबाट विभूषित छन्।",
+      "published": "2026-11-04T22:07:00+05:45",
+      "source": "Thaha Khabar",
+      "category": "society",
+      "image": "https://www.thahakhabar.com/uploads/posts/IGP-1793796910.jpg",
+      "related_sources": [
+        "Thaha Khabar"
+      ],
+      "id": "9876afde5fb23961",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 93.7,
+      "story_size": 1,
+      "image_local": "images/news_a0e336311c2a3179d3f6.jpg"
+    },
+    {
+      "title": "नवनियुक्त आईजीपी केसीलाई गृहमन्त्रीको निर्देशन- 'नागरिक र प्रहरीबीचको ग्याप अब रहनुहुन्न' [भिडियो]",
+      "link": "https://nepalsamaya.com/detail/147573",
+      "description": "",
+      "published": "2026-11-04T22:04:18+05:45",
+      "source": "Nepal Samaya",
+      "category": "politics",
+      "image": "https://nepalsamaya.com/uploads/posts/photo-35_bb39750e-1793809143.jpg",
+      "related_sources": [
+        "Nepal Samaya"
+      ],
+      "id": "84b76b80c72a6205",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 93.6,
+      "story_size": 1,
+      "image_local": "images/news_1cb8d33989473705e083.jpg"
+    },
+    {
+      "title": "१० बजे १० समाचार : प्रहरी नेतृत्वमा केसीकाे इन्ट्री, नयाँ मोडमा न्यायालय, रास्वपा निष्क्रिय",
+      "link": "https://www.ratopati.com/story/603391/10-news-at-10-kcs-entry-into-police-leadership-judiciary-in-a-new-mode-rsp-inactive",
+      "description": "आज २०८३ कात्तिक महिनाकाे १८ गते बुधबार। आज दिनभरका मुख्य १० घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति ‘१० बजे १० समाचार’मा प्रस्तुत गरेका छौँ। प्रहरी नेतृत्व परिवर्तन नेपाल प्रहरीको नेतृत्व परिवर्तन गर्ने सरकारको निर्णयले ३० वर्षअघिको प्रहरी प्रशासनमा",
+      "published": "2026-11-04T16:15:00+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/brifing_GxAv4dwIGN.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "d89d77f0c6fa1224",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 93.3,
+      "story_size": 1,
+      "image_local": "images/news_fc3d5ecdf335531622e1.webp"
+    },
+    {
+      "title": "हेड्क्वार्टरमा आईजीपीको ब्रिफिङ : काखापाखा गरिँदैन, कसैसँग प्रतिशोध साँधिदैन",
+      "link": "https://www.ratopati.com/story/603392/igps-briefing-at-headquarters-no-taunts-no-retaliation-against-anyone",
+      "description": "काठमाडौं । प्रहरीको ३४औँ महानिरीक्षक (आईजीपी)मा नियुक्त भएका डा. मनोज केसीले कमान्ड सम्हालेका छन् । दर्ज्यानी चिह्न लगाएसँगै बुधबारदेखी उनले ७९ हजार ५३१ फौजको कमान्ड सम्हालेका हुन् । पदभार सम्हालेसँगै आईजीपी केसीले प्रहरी हेर्डक्वार्टरबाट देशभरका युनिट",
+      "published": "2026-11-04T16:12:44+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/manoj-kc_9CsHB5LJ2j.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "f6aebdf2f291b586",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 93.1,
+      "story_size": 1,
+      "image_local": "images/news_18ae60076be3423d1cf7.webp"
+    },
+    {
+      "title": "बिर्तामोडमा आगलागी, ६ करोड बराबरको क्षति",
+      "link": "https://www.ratopati.com/story/603388/fire-in-birtamod-damage-worth-rs-60-million",
+      "description": "भद्रपुर । झापाको बिर्तामोडमा आज भएको आगलागीबाट करिब रु छ करोड बराबरको क्षति भएको छ । आगलागीबाट इलेक्ट्रोनिक पसल, फार्मेसी र दुईतले पक्की घर पूर्णरूपमा जलेर नष्ट भएका छन् । बिर्तामोड नगरपालिका–४ स्थित सिद्धार्थ होटलनजिकै रहेको",
+      "published": "2026-11-04T15:39:16+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://npcdn.ratopati.com/media/news/jhapa__dhzolqasr2_QnjZRO8TPN.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "eaf5850936a539f3",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 90.9,
+      "story_size": 1,
+      "image_local": "images/news_968e2f5456e5cf33b994.webp"
+    },
+    {
+      "title": "मिठाइ कति सुरक्षित ?",
+      "link": "https://www.onlinekhabar.com/2026/11/2050568/how-safe-are-sweets-433-shops-outside-standards",
+      "description": "यसपालि भने सरकारले विगतका गल्ती र कमजोरी सुधार्ने भन्दै तिहार लक्षित मिठाई पसलमाथि कडा निगरानी र नयाँ मापदण्ड लागु गरेको छ ।",
+      "published": "2026-11-04T16:13:27+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "e700bd3964380b31",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 90.2,
+      "story_size": 1
+    },
+    {
+      "title": "कथा सुन्दै बालबालिकाले निःशुल्क पढ्न र घर लैजान पाउने पुस्तकालय",
+      "link": "https://www.ratopati.com/story/603387/a-library-where-children-can-read-and-take-home-stories-for-free",
+      "description": "ललितपुर । सहरमा बालबालिकाले खेल्दै, रमाउँदै पढ्न पाउने पुस्तकालयको अभाव छ । उनीहरूको सिर्जनात्मक क्षमता अभिवृद्धिका लागि पाठ्यक्रम बाहिरका पुस्तकको अध्ययन पनि उत्तिकै जरुरी हुन्छ । बालबालिकाको सर्वाङ्गीण विकासका लागि विद्यालयको पढाइ र पाठ्यक्रम मात्र",
+      "published": "2026-11-04T15:28:26+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/thumbnail-anuradha_lt8w2wE77f.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "cfb035f34ac31bd0",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 90.2,
+      "story_size": 1,
+      "image_local": "images/news_7f93ac5e4b7ea2f43d31.webp"
+    },
+    {
+      "title": "३० वर्षअघिको खेल दोहोर्‍याउँदै सरकारले प्रहरीभित्र मच्चायो भद्रगोल",
+      "link": "https://www.onlinekhabar.com/2026/11/2051159/the-government-created-chaos-within-the-police-force-by-repeating-the-game-of-30-years-ago",
+      "description": "प्रहरी विवादको दृश्यमा दानबहादुर कार्की र मनोज केसी देखिए पनि रास्वपाभित्रको आन्तरिक झगडा योभन्दा निकै गहिरो छ । प्रधानमन्त्री बालेन शाह र रास्वपा सभापति रवि लामिछानेका भिन्न रुचिहरू सम्भवतः गृहमन्त्री सुदनले आकलन पनि गर्न सकेका छैनन् ।",
+      "published": "2026-11-04T16:12:39+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "041dabf55e378d07",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 90.1,
+      "story_size": 1
+    },
+    {
+      "title": "प्रहरीको ३४औं आईजीपी बनेका मनोज केसी को हुन् ?",
+      "link": "https://www.onlinekhabar.com/2026/11/2050915/who-is-manoj-kc-who-has-become-the-34th-igp-of-nepal-police",
+      "description": "दानबहादुर कार्कीलाई हटाएर दोस्रो नम्बरका एआईजी राजन अधिकारीलाई समेत नदिई सरकारले तेस्रो नम्बरका केसीलाई आईजीपी बनाएको हो ।",
+      "published": "2026-11-04T16:11:51+00:00",
+      "source": "OnlineKhabar",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "1c63aa15da09d1c9",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 90.1,
+      "story_size": 1
+    },
+    {
+      "title": "प्रधानमन्त्रीको भारत भ्रमण : एजेन्डा छन्, तयारी छैन",
+      "link": "https://www.onlinekhabar.com/2026/11/2051178/prime-ministers-visit-to-india-agenda-no-preparations",
+      "description": "भारतीय विदेश सचिव मिश्रीले गरेका समग्र कुराकानी र अहिलेसम्मको प्रगति हेर्दा मंसिरमा हुने प्रधानमन्त्री बालेन्द्र शाहको भारत भ्रमणका लागि एजेन्डाहरुको सूची लामो, तयारी भने फितलो देखिएको छ ।",
+      "published": "2026-11-04T16:10:49+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "20efe6173d90a9eb",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 90.0,
+      "story_size": 1
+    },
+    {
+      "title": "ओलीले खुम्च्याए शंकर पोखरेलको भूमिका",
+      "link": "https://www.onlinekhabar.com/2026/11/2050645/oli-downplays-shankar-pokharels-role",
+      "description": "केन्द्रीय कमिटीबाट अनुमोदित ओलीको राजनीतिक निष्कर्ष कार्यान्वयनका निम्ति हुन लागेको राष्ट्रिय भेलामा महासचिव शंकर पोखरेल भने भूमिकाविहीन जस्तै बन्दैछन् ।",
+      "published": "2026-11-04T16:09:30+00:00",
+      "source": "OnlineKhabar",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "77bd62f3e956353c",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 89.9,
+      "story_size": 1
+    },
+    {
+      "title": "मिश्रीको नेपाल भ्रमण : भोटेकोशी विपद्पछिको पुनर्निर्माणमा सघाउने भारतको इच्छा",
+      "link": "https://www.onlinekhabar.com/2026/11/2051184/mishris-visit-to-nepal-indias-desire-to-help-in-reconstruction-after-the-bhotekoshi-disaster",
+      "description": "प्रधानमन्त्री वालेन्द्र शाहको भारत भ्रमणको तयारीका लागि आएका भारतीय विदेश सचिव विक्रम मिश्रीले बुधबार काठमाडौं उत्रे लगत्तै शीर्ष भेटघाट गरे । उनले चार जना मन्त्रीसँग भेटे । समकक्षी परराष्ट्र सचिव अमृत राईसँग द्पक्षीय मुद्दाहरूमा छलफल गरे ।",
+      "published": "2026-11-04T16:08:32+00:00",
+      "source": "OnlineKhabar",
+      "category": "tech",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "5a5718339664d92c",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 89.8,
+      "story_size": 1
+    },
+    {
+      "title": "आफ्नै प्रशासनिक भवन बनाउन असफल पोखरा महानगर",
+      "link": "https://www.onlinekhabar.com/2026/11/2051123/pokhara-metropolitan-city-fails-to-build-its-own-administrative-building",
+      "description": "पुरानो भवन रहेको ठाउँमा बहुतले भवन बनाउने योजना बुनिरहेको महानगरले आफैं पनि धेरै ठाउँमा व्यापारिक भवन बनाएर भाडा खाइरहेको छ । तर आफैं भने प्रशासनिक भवनविहीन छ ।",
+      "published": "2026-11-04T16:07:20+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "3bb6eee7a7eed0da",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 89.8,
+      "story_size": 1
+    },
+    {
+      "title": "प्रधानमन्त्रीको भारत भ्रमणको तयारी तीव्र, एजेन्डाबारे भारतीय विदेश सचिवको छलफल",
+      "link": "https://www.ratopati.com/story/603386/preparations-for-prime-ministers-visit-to-india-intensify-indian-foreign-secretary-discusses-agenda",
+      "description": "काठमाडौँ। परराष्ट्र सचिव अमृत राईको निमन्त्रणामा नेपाल भ्रमणमा रहेका भारतीय विदेश सचिव विक्रम मिस्रीले प्रधानमन्त्री वालेन्द्र (बालेन) शाहको आसन्न भारत भ्रमणका एजेन्डाबारे व्यापक छलफल गरेका छन्। नेपाल भ्रमणका क्रममा उनले बुधबार दिनभर नेपाल सरकारका विभिन्न मन्त्रीहरूसँग",
+      "published": "2026-11-04T15:22:12+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/amrit_Ok6sxZ5zI5.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "658bf3d773371b7f",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 89.8,
+      "story_size": 1,
+      "image_local": "images/news_8d0c91d831aaa1e7ad7f.webp"
+    },
+    {
+      "title": "गोविन्द केसीको आन्दोलनमा टेकेर सत्तामा पुगे, कुर्सी पाएपछि साथ छाडे",
+      "link": "https://www.onlinekhabar.com/2026/11/2050989/he-came-to-power-by-relying-on-govinda-kcs-movement-but-left-after-getting-the-chair",
+      "description": "हिजो डा. गोविन्द केसीको पक्षमा सडकमा उत्रिनेहरूलाई आज एउटा सीधा प्रश्न छ – उनीहरू त्यतिबेला जनताको स्वास्थ्य र शिक्षाका लागि लडेका थिए कि सत्तामा पुग्ने राजनीतिक यात्रा लागि ।",
+      "published": "2026-11-04T16:06:28+00:00",
+      "source": "OnlineKhabar",
+      "category": "tech",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "c19d07669181e535",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 89.7,
+      "story_size": 1
+    },
+    {
+      "title": "नेकपा एमाले मधेश सरकारमा फर्किन लागेको हो ?",
+      "link": "https://www.onlinekhabar.com/2026/11/2050844/is-the-cpn-uml-going-to-return-to-the-madhesh-government",
+      "description": "मधेश सरकारमा सहकार्य गर्नेबारे कांग्रेस सभापति गगन थापा र एमाले अध्यक्ष केपी ओलीबीच छलफल भएको छ ।",
+      "published": "2026-11-04T16:05:11+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "68268a2b1bd3df77",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 89.6,
+      "story_size": 1
+    },
+    {
+      "title": "देउवा पक्षको खोटाङ सभापतिमा रोजन राई",
+      "link": "https://www.onlinekhabar.com/2026/11/2051218/rojan-rai-elected-as-khotang-chairman-of-deuba-faction",
+      "description": "यसअघि देउवा पक्षले राईलाई १५ औं महाधिवेसन तयारी समितिको जिल्ला संयोजकको जिम्मेवारी दिएको थियो ।",
+      "published": "2026-11-04T16:05:02+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "9c1a574dc4222c08",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 89.6,
+      "story_size": 1
+    },
+    {
+      "title": "गाेविन्द केसीद्वारा सरकारी टाेलीसँग वार्ता गर्न अस्वीकार, राजनीतिक नेतृत्वकै टोली चाहिने",
+      "link": "https://www.ratopati.com/story/603385/govinda-kc-refuses-to-negotiate-with-government-team-says-political-leadership-team-needed",
+      "description": "काठमाडौँ। डा. गोविन्द केसीले सरकारद्वारा वार्ताका लागि पठाइएको टोलीसँग वार्ता गर्न अस्वीकार गरेका छन्। बुधबार साँझ वार्ताका लागि शिक्षण अस्पताल पुगेको सरकारी टोलीलाई डा. केसीले आफ्नो अडान सुनाउँदै फिर्ता पठाएका हुन्। डा. केसीले शिक्षा मन्त्री वा प्रधानमन्त्रीको",
+      "published": "2026-11-04T15:19:28+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/dr-govinda-kc_nepal-photo-library-6_66srTgJPPZ.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "342769be85432ca4",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 89.6,
+      "story_size": 1,
+      "image_local": "images/news_cdcffc3f7d9c230c522a.webp"
+    },
+    {
+      "title": "सरकारको बेरुजु साढे १० अर्ब बढी, संरचना र कागजातमा आगजनीले अझ बढायो",
+      "link": "https://www.onlinekhabar.com/2026/11/2051153/governments-deficit-exceeds-10-5-billion-further-increased-by-arson-of-structures-and-documents",
+      "description": "गत आवमा भएको जेनजी आन्दोलन र त्यसबाट सार्वजनिक सवारीसाधन, सरकारी कागजात तथा भौतिक सम्पत्तिमा पुगेको क्षतिले बेरुजु रकम बढाएको विश्लेषण महालेखाले गरेको छ ।",
+      "published": "2026-11-04T16:04:06+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "39753c4e14719371",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 89.5,
+      "story_size": 1
+    },
+    {
+      "title": "ओली-थापा संवादको अन्तर्य : मधेश सरकारदेखि विपक्षी मोर्चाबन्दीसम्म",
+      "link": "https://www.onlinekhabar.com/2026/11/2051119/the-oli-thapa-dialogue-from-the-madhesh-government-to-the-oppositions-frontline",
+      "description": "विशेष महाधिवेशनबाट गगन सभापति निर्वाचित भएको र ओलीको सम्बन्ध तत्कालीन सभापति शेरबहादुर देउवासँग घनिष्ठ रहेकाले पनि यो भेटवार्तालाई चासोका साथ हेरिएको छ ।",
+      "published": "2026-11-04T16:02:24+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "ce9bc47445adf9f7",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 89.4,
+      "story_size": 1
+    },
+    {
+      "title": "एकीकृत ‘एन्टी साइबर स्क्याम सेन्टर’ ले शुक्रबारदेखि काम थाल्ने, उजुरी गर्न हटलाइन",
+      "link": "https://www.onlinekhabar.com/2026/11/2051143/integrated-anti-cyber-scam-center-to-start-operations-from-friday-hotline-to-file-complaints",
+      "description": "सेन्टरमा प्रहरीसँगै राष्ट्र बैंक, बैंक तथा वित्तीय संस्था, भुक्तानी प्रणाली तथा सेवा सञ्चालक, दूरसञ्चार सेवा प्रदायक निकायका कर्मचारी एकै स्थानमा बसेर काम गर्नेछन् ।",
+      "published": "2026-11-04T16:00:52+00:00",
+      "source": "OnlineKhabar",
+      "category": "tech",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "0f3217eeacd147e4",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 89.3,
+      "story_size": 1
+    },
+    {
+      "title": "सडकका तीन सय आयोजना समस्याग्रस्त सूचीमा, १५० वटा ठेक्का तोडिए",
+      "link": "https://www.ratopati.com/story/603376/300-road-projects-on-problematic-list-150-contracts-terminated",
+      "description": "काठमाडौँ । वर्षौँदेखि अलपत्र र रुग्ण अवस्थामा रहेका विकास आयोजनाहरूलाई गति दिने भन्दै सरकारले धमाधम ठेक्का तोडिरहेको छ । काम नगर्ने र राज्यको स्रोत ओगटेर बस्ने निर्माण व्यवसायीविरुद्ध निर्मम बन्दै सडक विभागले पछिल्लो ६ महिनामा",
+      "published": "2026-11-04T15:15:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/sadak_qfbnuTa2DL.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "3e4f07de95cae8bd",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 89.3,
+      "story_size": 1,
+      "image_local": "images/news_8116509f7266c373a96f.webp"
+    },
+    {
+      "title": "सबै प्रहरी एक ढिक्का भई काम गर्नु आवश्यक छ : आईजीपी केसी",
+      "link": "https://www.onlinekhabar.com/2026/11/2051215/all-police-officers-need-to-work-together-igp-kc",
+      "description": "संगठनको मूल्यमान्यता र प्रतिष्ठालाई मनन गर्दै सकारात्मक सोचका साथ सबै प्रहरी कर्मचारीहरूले आफूलाई साथ दिनेमा आईजीपी केसीले विश्वास व्यक्त गरे ।",
+      "published": "2026-11-04T15:59:05+00:00",
+      "source": "OnlineKhabar",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "c067123b9ebf3cbf",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 89.2,
+      "story_size": 1
+    },
+    {
+      "title": "भारतीय सेनाको अग्निपथमा संशोधन, अग्निवीरले थप दुई वर्ष जागिर खान पाउने",
+      "link": "https://www.onlinekhabar.com/2026/11/2051223/amendment-to-the-indian-armys-agnipath-agniveer-will-be-able-to-work-for-two-more-years",
+      "description": "सन् २०२२ भारतमा अग्निपथ योजना लागु भएपछि भारतीय सेनामा नेपालीहरूको भर्ती रोकिएको थियो । अग्निपथ अनुसार भर्ती भएकाहरू मध्ये ७५ प्रतिशतको जागिर चार वर्षपछि सकिन्थ्यो ।",
+      "published": "2026-11-04T15:58:51+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "c215f90cc2d4f736",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 89.2,
+      "story_size": 1
+    },
+    {
+      "title": "आगलागीबाट छ करोडको क्षति, सातवटा दमकलले बल्लबल्ल निभायो",
+      "link": "https://www.thahakhabar.com/detail/311424",
+      "description": "",
+      "published": "2026-11-04T20:56:32+05:45",
+      "source": "Thaha Khabar",
+      "category": "business",
+      "image": "https://www.thahakhabar.com/uploads/posts/n-1793805080.jpg",
+      "related_sources": [
+        "Thaha Khabar"
+      ],
+      "id": "7a4e7fcd0fbcee07",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 89.0,
+      "story_size": 1,
+      "image_local": "images/news_f854a3f77c78cc42a466.jpg"
+    },
+    {
+      "title": "अमेरिकी चुनावमा विश्वबहादुर शाह विजयी",
+      "link": "https://www.setopati.com/global/america/402033",
+      "description": "अमेरिकाको न्यु ह्याम्पसायर राज्यको प्रतिनिधिसभा सदस्य निर्वाचनमा नेपाली मूलका विश्वबहादुर शाह विजयी भएका छन्।",
+      "published": "2026-11-04T21:36:00+05:45",
+      "source": "Setopati",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "b73a5d3eef8ab5ab",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 88.7,
+      "story_size": 1
+    },
+    {
+      "title": "बैतडीमा जिप दुर्घटना हुँदा एक महिलाको मृत्यु, ६ जना घाइते",
+      "link": "https://www.onlinekhabar.com/2026/11/2051212/one-woman-dies-six-injured-in-jeep-accident-in-baitadi",
+      "description": "डडेलधुरा सदरमुकामबाट बैतडीको पञ्चेश्वरतर्फ जाँदै गरेको सुदूरपश्चिम प्रदेश ०१–००१ ज १६३८ नम्बरको जिप अनियन्त्रित भई सडकबाट करिब ३५ मिटर तल खसेको जिल्ला प्रहरी कार्यालय बैतडीले जनाएको छ ।",
+      "published": "2026-11-04T15:50:59+00:00",
+      "source": "OnlineKhabar",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "3b8ca2e21f5364c9",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 88.7,
+      "story_size": 1
+    },
+    {
+      "title": "नयाँ आईजीपी नियुक्ति रास्वपाको होइन, सरकारको निर्णय हो : कवीन्द्र बुर्लाकोटी",
+      "link": "https://www.onlinekhabar.com/2026/11/2051209/the-appointment-of-a-new-igp-is-a-decision-of-the-government-not-the-rsp-kavindra-burlakoti",
+      "description": "सरकारले आजै नेपाल प्रहरीको आईजीपीबाट दानबहादुर कार्कीलाई हटाएर डा. मनोज केसीलाई नियुक्त गरेको छ ।",
+      "published": "2026-11-04T15:45:07+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "68b3e4d8854c2036",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 88.3,
+      "story_size": 1
+    },
+    {
+      "title": "सरकारलाई जवाफदेहिताका आधारमा अघि बढ्न कांग्रेसको आग्रह",
+      "link": "https://khabarhub.com/2026/04/1044674/",
+      "description": "ललितपुर – नेपाली कांग्रेसले सञ्चारमाध्यमको स्वतन्त्रता, पत्रकारको सुरक्षा र लोकतान्त्रिक संस्थाको स्वायत्तता कायम राख्दै सरकारलाई विधिको शासन, पारदर्शिता र जवाफदेहिताका आधारमा अघि बढ्न आग्रह गरेको छ । नेपाली कांग्रेस केन्द्रीय कार्यालयमा आयोजित आकस्मिक पत्रकार सम्मेलनमा पार्टीका तर्फबाट धारणा सार्वजनिक गर्दै वरिष्ठ उपसभापति विश्वप्रकाश शर्माले सञ्चारकर्मीलाई प्रतिपक्षका विषयमा मात्र नभई सत्तापक्षका गतिविधि र सरकारका निर्णयमाथि पनि [&#8230;]",
+      "published": "2026-11-04T15:42:12+00:00",
+      "source": "Khabarhub",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "813c26fe8458574b",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 88.1,
+      "story_size": 1
+    },
+    {
+      "title": "दिपक भट्टको मुद्दामा सर्वोच्चले माग्यो विशेष र उच्च अदालतबाट मिसिल",
+      "link": "https://www.setopati.com/politics/402032",
+      "description": "बुधबार न्यायाधीशहरू शारंगा सुवेदी र नित्यानन्द पाण्डेयको इजलासले विशेष अदालत र उच्च अदालतबाट मिसिल झिकाउन आदेश गरेको हो।",
+      "published": "2026-11-04T21:25:00+05:45",
+      "source": "Setopati",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "530a1c349789366b",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 87.9,
+      "story_size": 1
+    },
+    {
+      "title": "सरकारले गठन गरेको टोलीसँग वार्ता गर्न डा. गोविन्द केसीद्वारा अस्वीकार",
+      "link": "https://www.onlinekhabar.com/2026/11/2051203/dr-govinda-kc-refuses-to-negotiate-with-the-government-formed-team",
+      "description": "बुधबार साँझ वार्ताका लागि शिक्षण अस्पताल पुगेको टोलीलाई डा. केसीले यही सन्देश दिँदै फिर्ता पठाइदिएका छन् ।",
+      "published": "2026-11-04T15:35:51+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "396c755d95a2be35",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 87.7,
+      "story_size": 1
     },
     {
       "title": "ऐन कार्यान्वयनको परीक्षण गर्ने संसदीय अभ्यास संस्थागत हुँदै",
@@ -130,7 +1308,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.7,
+      "score": 87.3,
       "story_size": 1,
       "image_local": "images/news_19b46ebf8ee41e21f21b.webp"
     },
@@ -149,28 +1327,63 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.6,
+      "score": 87.2,
       "story_size": 1,
       "image_local": "images/news_b46a07507156b0563a6e.webp"
     },
     {
-      "title": "आईजीपीबाट कार्की आउट-केसी इन, फिर्ता हुँदै सहकारीको रकम, ट्रम्पलाई धक्का",
-      "link": "https://www.thahakhabar.com/detail/311422",
-      "description": "",
-      "published": "2026-11-04T20:25:50+05:45",
-      "source": "Thaha Khabar",
-      "category": "world",
-      "image": "https://www.thahakhabar.com/uploads/posts/wbZceumBTzc-HD-1793803165.jpg",
+      "title": "नेप्सेको सीईओमा प्रताप सुवेदी नियुक्त",
+      "link": "https://www.onlinekhabar.com/2026/11/2051200/pratap-subedi-appointed-as-ceo-of-nepse",
+      "description": "सरकारले नेपाल स्टक एक्सचेञ्ज (नेप्से) को प्रमुख कार्यकारी अधिकृत(सीईओ)मा प्रताप सुवेदीलाई नियुक्त गरेको छ ।",
+      "published": "2026-11-04T15:27:26+00:00",
+      "source": "OnlineKhabar",
+      "category": "business",
+      "image": "",
       "related_sources": [
-        "Thaha Khabar"
+        "OnlineKhabar"
       ],
-      "id": "bef915e38a0b8d83",
+      "id": "53545d4aea967440",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.4,
-      "story_size": 1,
-      "image_local": "images/news_966b30f3a80e873abd2e.jpg"
+      "score": 87.1,
+      "story_size": 1
+    },
+    {
+      "title": "निक्षेप तथा कर्जा सुरक्षण कोषको सीईओमा पिताम्बर भण्डारी नियुक्त",
+      "link": "https://www.onlinekhabar.com/2026/11/2051197/pitambar-bhandari-appointed-ceo-of-deposit-and-credit-guarantee-fund",
+      "description": "सरकारले निक्षेप तथा कर्जा सुरक्षण कोषको कार्यकारी अधिकृत(सीईओ)मा पिताम्बर भण्डारीलाई नियुक्त गरेको छ ।",
+      "published": "2026-11-04T15:23:13+00:00",
+      "source": "OnlineKhabar",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "842b6693fdd42114",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 86.8,
+      "story_size": 1
+    },
+    {
+      "title": "निक्षेप तथा कर्जा सुरक्षण कोषका प्रमुख कार्यकारी अधिकृतमा पिताम्बर भण्डारी नियुक्त",
+      "link": "https://www.setopati.com/kinmel/economy/402030",
+      "description": "मंगलबार बसेको मन्त्रिपरिषद बैठकले अर्थ मन्त्रालयको सिफारिसमा भण्डारीलाई प्रमुख कार्यकारी अधिकृतमा नियुक्त गर्ने निर्णय गरेको हो।",
+      "published": "2026-11-04T21:08:00+05:45",
+      "source": "Setopati",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "8b682dd722e0ad53",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 86.8,
+      "story_size": 1
     },
     {
       "title": "विशेष पद सिर्जना गरेर हटाइएका तीन दृष्टान्त, पुरानाभन्दा फरक देखिएनन् बालेन",
@@ -187,28 +1400,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.1,
+      "score": 86.8,
       "story_size": 1,
       "image_local": "images/news_8396722f1057c9d88d34.webp"
-    },
-    {
-      "title": "तिहारमा निर्वाधरुपमा विद्युत आपूर्ति सुनिश्चित गर्न मन्त्रीका निर्देशन",
-      "link": "https://www.thahakhabar.com/detail/311420",
-      "description": "",
-      "published": "2026-11-04T20:20:00+05:45",
-      "source": "Thaha Khabar",
-      "category": "politics",
-      "image": "https://www.thahakhabar.com/uploads/posts/1000204774-1793802277.jpg",
-      "related_sources": [
-        "Thaha Khabar"
-      ],
-      "id": "f8e7ab618deb52fa",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 112.0,
-      "story_size": 1,
-      "image_local": "images/news_b14385c16944ec8f9fba.jpg"
     },
     {
       "title": "इजरायलको निर्वाचनमा धाँधली नभएको आयोगको निष्कर्ष",
@@ -225,198 +1419,46 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.0,
+      "score": 86.6,
       "story_size": 1,
       "image_local": "images/news_d201e27dcecffb34cdd8.jpg"
     },
     {
-      "title": "सडक छेउमा फुलेको फूल (फोटो फिचर)",
-      "link": "https://gorkhapatraonline.com/news/228312",
-      "description": "सन्तोष सुवेदीपाख्रीबास, (धनकुटा) कात्तिक १८ गते । धनकुटा नगरपालिका–४, देव्रेबासस्थित सडक छेउमा फुलेको पहेँलो फूल यतिबेला सबैको रोजाइमा पर्न थालेको छ । सडक छेउमा फुलेको फूलले सौन्दर...",
-      "published": "2026-11-04T20:14:49+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/390448/conversions/DSC04207-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "1b258c9b7f91e05a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 111.6,
-      "story_size": 1,
-      "image_local": "images/news_3abcccc657e5adb11f7e.jpg"
-    },
-    {
-      "title": "नातिलाई सपिङ गराउन भाटभटेनी पुगे एमाले अध्यक्ष ओली",
-      "link": "https://www.ratopati.com/story/603378/uml-chairman-oli-reaches-bhatbhateni-to-take-his-grandson-shopping",
-      "description": "काठमाडौँ। नेकपा एमालेका अध्यक्ष एवं पूर्वप्रधानमन्त्री केपी शर्मा ओली नातिलाई सपिङ गराउन भक्तपुरको राधेराधेस्थित भाटभटेनी सुपरमार्केट पुगेका छन्। पार्टी कार्यालयबाट फर्किने क्रममा ओली आज दिउँसो नातिसहित भाटभटेनी पुगेका हुन्। आकस्मिक पुगेका ओलीलाई भाटभटेनीका कर्मचारीहरूले स्वागत गरेका",
-      "published": "2026-11-04T14:28:42+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/kp_fC7zNhZ4XR.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "99ccdec66d24810e",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 111.6,
-      "story_size": 1,
-      "image_local": "images/news_af511c526288dbc83ece.webp"
-    },
-    {
-      "title": "बेनीमा चौथो बौद्ध कप फुटबल प्रतियोगिता सुरु",
-      "link": "https://www.ratopati.com/story/603377/fourth-buddhist-cup-football-tournament-begins-in-beni",
-      "description": "म्याग्दी। म्याग्दीको बेनीमा रु दुई लाख २२ हजार २२२ पुरस्कार राशिको चौथो बौद्ध कप खुला फुटबल प्रतियोगिता बुधबारदेखि सुरु भएको छ । बौद्ध युवा क्लबको आयोजनामा बेनीस्थित खुलामञ्च खेलमैदानमा पाँच दिनसम्म सञ्चालन हुने प्रतियोगितामा विभागीय नेपाल",
-      "published": "2026-11-04T14:26:41+00:00",
+      "title": "सङ्खुवासभा गोल्डकप फुटबल : काठमाडौँलाई हराउँदै सुनसरी फाइनलमा",
+      "link": "https://www.ratopati.com/story/603379/sankhuwasabha-gold-cup-football-sunsari-defeats-kathmandu-to-reach-final",
+      "description": "सङ्खुवासभा। सङ्खुवासभाको खाँदबारी नगरपालिका–३ मानेभञ्याङमा सञ्चालन भइरहेको सङ्खुवासभा गोल्डकप फुलटबल प्रतियोगितामा सुनसरीको न्यू स्टार क्लब फाइनलमा प्रवेश गरेको छ। बुधबार सम्पन्न पहिलो सेमिफाइनल खेलमा प्लानिङ ब्वाइजलाई ट्राइबेकरमा ६–५ गोल अन्तरले पराजित गर्दै न्यू स्टारले उपाधि यात्रालाई",
+      "published": "2026-11-04T14:32:27+00:00",
       "source": "Ratopati",
       "category": "sports",
-      "image": "https://npcdn.ratopati.com/media/news/SwUK2WqZgG.jpg",
+      "image": "https://npcdn.ratopati.com/media/news/1YQPCDvHoC.jpg",
       "related_sources": [
         "Ratopati"
       ],
-      "id": "aa8d691ee9ff832c",
+      "id": "2abbfdd263d496c8",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.4,
+      "score": 86.4,
       "story_size": 1,
-      "image_local": "images/news_1aa1ef36f2e7ebfa62de.jpg"
+      "image_local": "images/news_d8d22ddc696b9ff16d7c.jpg"
     },
     {
-      "title": "तीन महिनामा चार किलोभन्दा बढी ब्राउनसुगर बरामद",
-      "link": "https://gorkhapatraonline.com/news/228318",
-      "description": "सिराज खान नेपालगन्ज, कात्तिक १८ गते । भारतीय सीमानामा रहेको बाँके जिल्लामा लागुऔषध कारोबार तथा ओसारपसारका घटना निरन्तर बढ्दै गएको जिल्ला प्रहरी कार्यालय बाँकेको तथ्याङ्क छ । पछिल्ल...",
-      "published": "2026-11-04T20:01:13+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/390447/conversions/baramad-lagu-ausadh-brounsugar-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "9c1d49a2de6d37d1",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 110.7,
-      "story_size": 1,
-      "image_local": "images/news_449b242562c292da56cf.jpg"
-    },
-    {
-      "title": "वर्षौँदेखिको प्रयास अब कानुनी बाटोमा",
-      "link": "https://www.ratopati.com/story/603371/years-of-effort-now-on-the-legal-path",
-      "description": "काठमाडौँ । नेपालमा गाँजाखेतीलाई वैधानिक मान्यता दिनुपर्ने आवाज उठ्न थालेको वर्षौँ बितिसकेको छ । राजनीतिक वृत्त, संसद् र सडकदेखि प्राज्ञिक बहससम्म सीमित रहेको यो विषयले अब भने ठोस कानुनी बाटो तय गरेको छ । सर्वोच्च अदालतले",
-      "published": "2026-11-04T14:15:00+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/gaja-kheti_fZKvR1noKw.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "772677b7aed7521c",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 110.6,
-      "story_size": 1,
-      "image_local": "images/news_c190140a07ea73f729c9.webp"
-    },
-    {
-      "title": "एरिकाको खेल विकासमा तीन लाख रुपैयाँ सहयोग",
-      "link": "https://www.ratopati.com/story/603374/three-lakh-rupees-support-for-ericas-sports-development",
-      "description": "काठमाडौँ। नेपाली कराते खेलाडी एरिका गुरुङले खेल विकास र अन्तर्राष्ट्रिय प्रतियोगिताको तयारीका लागि करिब तीन लाख रुपैयाँ आर्थिक सहयोग प्राप्त गरेकी छन्। अस्ट्रेलियाको सिड्नीस्थित यात्रा रन क्लबले एरिकाको खेल विकासमा सहयोग पुर्‍याउने उद्देश्यले सञ्चालन गरेको आर्थिक सङ्कलन",
-      "published": "2026-11-04T14:14:57+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/areka_FXo852GRqc.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "3b5a8d3fda98df60",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 110.6,
-      "story_size": 1,
-      "image_local": "images/news_49cf0eae548d651ac8c6.webp"
-    },
-    {
-      "title": "स्रोत नखुलेको ४४ लाख ६४ हजारभन्दा बढी रकमसहित दुईजना पक्राउ",
-      "link": "https://www.thahakhabar.com/detail/311419",
-      "description": "",
-      "published": "2026-11-04T19:54:00+05:45",
-      "source": "Thaha Khabar",
-      "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/Nepali-currency-1793801370.jpg",
-      "related_sources": [
-        "Thaha Khabar"
-      ],
-      "id": "1af08f510afcaa84",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 110.2,
-      "story_size": 1,
-      "image_local": "images/news_4488815b05a6f90b73c0.jpg"
-    },
-    {
-      "title": "निःशुल्क हेलिकोप्टर उद्धारले जोगायो आमा र बच्चाको ज्यान",
-      "link": "https://gorkhapatraonline.com/news/228317",
-      "description": "राजकुमार भट्टराईखोटाङ, कात्तिक १८ गते । खोटाङमा सुत्केरी व्यथा लागेको गर्भवती महिलाको हेलिकोप्टरबाट उद्धार गरेपछि आमा र बच्चाको ज्यान जोगिएको छ । सुत्केरी बेथा लागेर खोटेहाङ गाउँपा...",
-      "published": "2026-11-04T19:48:41+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "society",
-      "image": "https://gorkhapatraonline.com/storage/media/390446/conversions/mahila-uddar-khotang-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "2f3d0f714ebc81cc",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.9,
-      "story_size": 1,
-      "image_local": "images/news_3c7125ea63b9b49e66b6.jpg"
-    },
-    {
-      "title": "अमेरिकी नीतिमा परिवर्तनको आशा गर्नु भ्रम हो : इरानी सर्वोच्च नेता",
-      "link": "https://khabarhub.com/2026/04/1044669/",
-      "description": "तेहरान – इरानका सर्वोच्च नेता मोजताबा खामेनीले अमेरिकी नीतिमा परिवर्तन आउने अपेक्षा गर्नु भ्रमपूर्ण रहेको बताएका छन् । अमेरिकी मध्यावधि निर्वाचनमा राष्ट्रपति डोनाल्ड ट्रम्पको दललाई धक्का लागेको केही घण्टापछि बुधबार उनले यस्तो टिप्पणी गरेका हुन् । आफ्नो वेबसाइटमा प्रकाशित लिखित सन्देशमा खामेनीले अमेरिकी राजनीतिक दल वा नेतृत्वमा परिवर्तन हुँदैमा इरानप्रतिको अमेरिकी नीति बदलिन्छ भन्ने सोच [&#8230;]",
-      "published": "2026-11-04T14:47:05+00:00",
+      "title": "पाकिस्तानमा टीटीपीका दुई शङ्कास्पद सदस्य मारिए",
+      "link": "https://khabarhub.com/2026/04/1044672/",
+      "description": "इस्लामाबाद – पाकिस्तानको उत्तरपश्चिमी खैबर पख्तुनख्वा प्रान्तमा प्रहरीले गरेको कारबाहीमा आत्मघाती आक्रमणकारीसहित दुई आतङ्ककारी मारिएका छन् भने अर्का एक जना घाइते भएका छन् । प्रहरीका अनुसार लाक्की मारवत जिल्लामा कालो सिसा भएको एउटा शङ्कास्पद सवारीसाधन रहेको सूचना पाएपछि कारबाही अघि बढाइएको थियो । प्रहरी टोली घटनास्थलमा पुग्नासाथ सवारीसाधनमा रहेका शङ्कास्पद व्यक्तिहरूले गोली चलाएका थिए । [&#8230;]",
+      "published": "2026-11-04T15:06:06+00:00",
       "source": "Khabarhub",
-      "category": "world",
+      "category": "nepal",
       "image": "",
       "related_sources": [
         "Khabarhub"
       ],
-      "id": "145932b8e3ee0fed",
+      "id": "f1a61e52085c644b",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.8,
+      "score": 85.7,
       "story_size": 1
-    },
-    {
-      "title": "मधेसमा अहिले नै बहुमत गुमेको भन्नु हतार हुन्छ : विश्वप्रकाश शर्मा",
-      "link": "https://www.thahakhabar.com/detail/311418",
-      "description": "",
-      "published": "2026-11-04T19:47:56+05:45",
-      "source": "Thaha Khabar",
-      "category": "world",
-      "image": "https://www.thahakhabar.com/uploads/posts/1793792266-1j3dF-1793794160.jpg",
-      "related_sources": [
-        "Thaha Khabar"
-      ],
-      "id": "57c1cdc711eb68dc",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.8,
-      "story_size": 1,
-      "image_local": "images/news_691c2caf47fb9ae163dd.jpg"
     },
     {
       "title": "त्रिविको ७०५ रोपनी जग्गा फिर्ता",
@@ -433,155 +1475,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.5,
-      "story_size": 1
-    },
-    {
-      "title": "बाँके र बर्दियाका तीन अलपत्र आयोजनाको ठेक्का तोडियो",
-      "link": "https://www.ratopati.com/story/603372/contracts-for-three-stalled-projects-in-banke-and-bardiya-terminated",
-      "description": "काठमाडाैँ। निर्धारित समयमा निर्माण कार्य सम्पन्न हुन नसकी अलपत्र अवस्थामा रहेका बाँके र बर्दियाका तीन वटा विकास आयोजनाको ठेक्का तोडिएको छ। पूर्वाधार विकास मन्त्रालयअन्तर्गत नेपालगञ्ज डिभिजनबाट सञ्चालित आयोजनाहरूको काम पटक–पटक म्याद थप गर्दा समेत अघि बढ्न",
-      "published": "2026-11-04T13:57:40+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/sadak_dzAAWmpVMZ.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "4fdb2da8bf3b2e65",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.5,
-      "story_size": 1,
-      "image_local": "images/news_e9e13795e0c8bcaaf687.webp"
-    },
-    {
-      "title": "नेपाल प्रत्यायन केन्द्र औपचारिक सञ्चालनमा",
-      "link": "https://gorkhapatraonline.com/news/228316",
-      "description": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक १८ गते । नेपाली उद्योगहरूलाई प्रतिस्पर्धी बनाउनुका साथै उपभोक्तालाई गुणस्तरीय र सुरक्षित वस्तु तथा सेवा सुनिश्चित गर्ने उद्देश्यले स्थापित ‘ने...",
-      "published": "2026-11-04T19:41:20+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/390445/conversions/3e0853cd-a8ef-40bd-a5c0-559accdbae14-(1)-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "79753004817259cb",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.4,
-      "story_size": 1,
-      "image_local": "images/news_d62ac9a34d57248a486b.jpg"
-    },
-    {
-      "title": "बिर्तामोडमा आगलागीबाट छ करोड बराबरको क्षति",
-      "link": "https://khabarhub.com/2026/04/1044665/",
-      "description": "झापा – झापाको बिर्तामोडमा आज भएको आगलागीबाट करिब रु छ करोड बराबरको क्षति भएको छ । आगलागीबाट इलेक्ट्रोनिक पसल, फार्मेसी र दुईतले पक्की घर पूर्णरूपमा जलेर नष्ट भएका छन् । बिर्तामोड नगरपालिका–४ स्थित सिद्धार्थ होटलनजिकै रहेको राजेश मण्डलको घरमा आगलागी भएको थियो । घरको दोस्रो तलामा विद्युत् सर्ट भएर आगलागी भएको हुन सक्ने प्रारम्भिक अनुमान [&#8230;]",
-      "published": "2026-11-04T14:39:33+00:00",
-      "source": "Khabarhub",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "ee529fbde2813616",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.3,
-      "story_size": 1
-    },
-    {
-      "title": "हरिवंश अभिनीत ‘पाँच पाण्डव’को प्रदर्शन रोक्न गृह मन्त्रालयको निर्देशन",
-      "link": "https://baahrakhari.com/detail/506600",
-      "description": "",
-      "published": "2026-11-04T20:23:00+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "5bf95885fb5eac3e",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.2,
-      "story_size": 1
-    },
-    {
-      "title": "स्रोत नखुलेको नगदसहित दुई जना पक्राउ",
-      "link": "https://www.ratopati.com/story/603370/two-arrested-with-undisclosed-cash",
-      "description": "रौतहट । रौतहट प्रहरीले स्रोत नखुलेको ४४ लाख ६४ हजार ६०५ रुपैयाँ नगदसहित दुई जनालाई नियन्त्रणमा लिएको छ। भारतबाट नेपालतर्फ मोटरसाइकलमा लुकाएर ल्याउँदै गरेको ३० लाख रुपैयाँ र गौरस्थित एक व्यापारिक प्रतिष्ठानबाट थप १४ लाख ६४",
-      "published": "2026-11-04T13:50:29+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/two-arrest-jail_vasZWTNXwT.png",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "2b1f813df509c439",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.0,
-      "story_size": 1,
-      "image_local": "images/news_8de750f32e13ada2db1f.png"
-    },
-    {
-      "title": "तिहारमा कुन दिन कस्तो रहनेछ मौसम ?",
-      "link": "https://baahrakhari.com/detail/506599",
-      "description": "",
-      "published": "2026-11-04T20:18:10+05:45",
-      "source": "Baahrakhari",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "3b967e4f855c56c9",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 108.8,
-      "story_size": 1
-    },
-    {
-      "title": "राजेश एकलको शब्द र सङ्गीतमा 'लम्क लम्क' बोलको राष्ट्रिय गीत सार्वजनिक",
-      "link": "https://www.ratopati.com/story/603369/national-song-lamk-lamk-lyrics-and-music-by-rajesh-ekal-released",
-      "description": "काठमाडौँ । म्युजिक नेपालले 'लम्क लम्क..' बोलको राष्ट्रिय गीत बजारमा ल्याएको छ। राजेश एकलको शब्द तथा सङ्गीतमा सजिएको यस देशभक्तिपूर्ण गीतमा गायक सञ्जय खड्गी र गायिका प्राश्ना शाक्यले आफ्नो स्वर दिएका छन्। गीतले सम्पूर्ण नेपालीहरूलाई एकजुट",
-      "published": "2026-11-04T13:47:14+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/aa_5rshaGug5q.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "edae570a97eeec32",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 108.8,
-      "story_size": 1,
-      "image_local": "images/news_8ff6bd0b0137c9543d71.webp"
-    },
-    {
-      "title": "३० वर्षअघिको खेल दोहोर्‍याउँदै सरकारले प्रहरीभित्र मच्चायो भद्रगोल",
-      "link": "https://www.onlinekhabar.com/2026/11/2051159/the-government-created-chaos-within-the-police-force-by-repeating-the-game-of-30-years-ago",
-      "description": "प्रहरी विवादको दृश्यमा दानबहादुर कार्की र मनोज केसी देखिए पनि रास्वपाभित्रको आन्तरिक झगडा योभन्दा निकै गहिरो छ । प्रधानमन्त्री बालेन शाह र रास्वपा सभापति रवि लामिछानेका भिन्न रुचिहरू सम्भवतः गृहमन्त्री सुदनले आकलन पनि गर्न सकेका छैनन् ।",
-      "published": "2026-11-04T14:31:39+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "041dabf55e378d07",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 108.7,
+      "score": 84.1,
       "story_size": 1
     },
     {
@@ -599,178 +1493,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.7,
+      "score": 83.3,
       "story_size": 1
-    },
-    {
-      "title": "नेपाल टेलिकमको सहुलियतदरको फाइबर इन्टरनेटमा ग्राहकको आकर्षण, तीन सातामै ११ हजारभन्दा बढी जोडिए",
-      "link": "https://www.ratopati.com/story/603368/nepal-telecoms-subsidized-fiber-internet-attracts-customers-more-than-11000-connected-in-three-weeks",
-      "description": "काठमाडौँ। नेपाल टेलिकमले सहुलियत दरमा उपलब्ध गराउन थालेको फाइबर इन्टरनेट सेवाप्रति ग्राहकको आकर्षण बढेको छ । गत असोज ३० गतेदेखि सुरु गरिएको सहुलियतदरको इन्टरनेट सेवा १८ दिनको अवधिमा ११ हजार ७६४ नयाँ ग्राहकले लिएका छन्",
-      "published": "2026-11-04T13:46:37+00:00",
-      "source": "Ratopati",
-      "category": "tech",
-      "image": "https://npcdn.ratopati.com/media/news/ntc_fBNEWvqQgm.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "a63ed4c7d91f6263",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 108.7,
-      "story_size": 1,
-      "image_local": "images/news_4008a36feef884e865cd.jpg"
-    },
-    {
-      "title": "फुलकोर्टको छानबिन आह्वानपछि नयाँ मोडमा न्यायालय",
-      "link": "https://www.ratopati.com/story/603359/court-takes-new-turn-after-calling-for-full-court-investigation",
-      "description": "काठमाडौँ । बिचौलियासँगको अवाञ्छित संवाद, गोप्य भेटघाट र आर्थिक लेनदेनको गम्भीर आरोपमा सर्वोच्च अदालतका बहालवाला प्रधानन्यायाधीश डा. मनोजकुमार शर्मा र न्यायाधीश हरिप्रसाद फुयाँल मुछिएपछि उत्पन्न न्यायिक संकटले नयाँ मोड लिएको छ । गत सोमबार बसेको सर्वोच्च",
-      "published": "2026-11-04T13:45:00+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/hari-sarobochch_pXeDTxEaSX.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "73453d58df3133de",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 108.6,
-      "story_size": 1,
-      "image_local": "images/news_c23a8fc15b46253b38c9.webp"
-    },
-    {
-      "title": "ऊर्जामन्त्री श्रेष्ठ र भारतीय विदेश सचिव मिस्रीबिच भेटवार्ता",
-      "link": "https://www.ratopati.com/story/603367/energy-minister-shrestha-meets-with-indian-foreign-secretary-misri",
-      "description": "काठमाडौँ। ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्री विराजभक्त श्रेष्ठ र नेपाल भ्रमणमा रहेका भारतीय विदेश सचिव विक्रम मिस्रीबिच भेटवार्ता भएको छ। भेटमा नेपाल–भारत ऊर्जा सहकार्य, विद्युत् व्यापार र जलविद्युत् आयोजना विकासका विषयमा महत्त्वपूर्ण छलफल भएको छ। भेटका क्रममा",
-      "published": "2026-11-04T13:43:29+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/vet_uVs9Ajc4mA.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "dd2a14c538070691",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 108.5,
-      "story_size": 1,
-      "image_local": "images/news_3aaaeb2578fe2fd4b3bf.webp"
-    },
-    {
-      "title": "चाडपर्वमा निर्बाध विद्युत् आपूर्ति सुनिश्चित गर्न ऊर्जामन्त्रीकाे निर्देशन",
-      "link": "https://www.ratopati.com/story/603366/energy-minister-directs-to-ensure-uninterrupted-power-supply-during-festivals",
-      "description": "काठमाडौँ। ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्री बिराज भक्त श्रेष्ठले चाडपर्वमा निर्बाध विद्युत् आपूर्ति सुनिश्चित गर्ने र त्यसलगत्तै सुरु हुने सुख्खायामको विद्युत् व्यवस्थापनका लागि पूर्वतयारी तथा योजनाबद्ध कामलाई प्राथमिकतामा राख्न मातहतका निकायलाई निर्देशन दिएका छन्। मन्त्री श्रेष्ठले",
-      "published": "2026-11-04T13:39:55+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/birajbhakta_MqRd5pSCm6.png",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "fe3fe9c6f9a71cfb",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 108.3,
-      "story_size": 1,
-      "image_local": "images/news_6863ff6d3cc70d71d73f.png"
-    },
-    {
-      "title": "चाडपर्वमा निर्बाध विद्युत् आपूर्तिको व्यवस्था मिलाउन मन्त्री श्रेष्ठको निर्देशन",
-      "link": "https://gorkhapatraonline.com/news/228315",
-      "description": "काठमाडौँ, कात्तिक १७ गते । ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्री विराज भक्त श्रेष्ठले चाडपर्वमा निर्बाध विद्युत् आपूर्ति सुनिश्चित गर्ने र त्यसलगत्तै सुरु हुने सुख्खायामको विद्युत् व्य...",
-      "published": "2026-11-04T19:24:13+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "politics",
-      "image": "https://gorkhapatraonline.com/storage/media/390444/conversions/WhatsApp-Image-2026-11-04-at-19.02.10-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "04a8d40870b1415d",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 108.3,
-      "story_size": 1,
-      "image_local": "images/news_c101b765423792a65e6e.jpg"
-    },
-    {
-      "title": "अभिषेकले अस्ट्रेलियन ओपनको छनोट खेल्ने",
-      "link": "https://www.ratopati.com/story/603365/abhishek-to-play-in-australian-open-qualifiers",
-      "description": "काठमाडौँ। नेपाली टेनिस खेलाडी अभिषेक बास्तोला अस्ट्रेलियन ओपन २०२७ को एसिया/प्यासिफिक वाइल्ड कार्ड प्लेअफमा प्रतिस्पर्धा गर्ने भएका छन् । चीनको छेन्दुमा नोभेम्बर २३ देखि २८ सम्म आयोजना हुने प्रतियोगितामा अभिषेकले नेपालको प्रतिनिधित्व गर्नेछन् । नेपाल खेलकुद",
-      "published": "2026-11-04T13:35:16+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/abhisek_nviwAD1AGE.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "411ba92af9340517",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 108.0,
-      "story_size": 1,
-      "image_local": "images/news_ded4f574141db9e0222d.webp"
-    },
-    {
-      "title": "प्रहरी र नागरिकबीचको दूरी घटाउने गरी काम गर्न नवनियुक्त आइजिपी केसीलाई गृहमन्त्री गुरूङको निर्देशन",
-      "link": "https://www.setopati.com/politics/402028",
-      "description": "",
-      "published": "2026-11-04T20:02:41+05:45",
-      "source": "Setopati",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Setopati"
-      ],
-      "id": "8dac6111fdf5ee30",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 107.8,
-      "story_size": 1
-    },
-    {
-      "title": "सांसद आशिकाले थर्काइन् थाक्रेका वडाध्यक्ष",
-      "link": "https://www.ratopati.com/story/603364/mp-ashika-shocked-thankre-ward-chairperson",
-      "description": "काठमाडौँ । धादिङ क्षेत्र नम्बर १ बाट प्रतिनिधिसभा सदस्यमा निर्वाचित आशिका तामाङले थाँक्रे वडा नम्बर ३ का वडाध्यक्ष विजय तामाङमाथि अभद्र व्यवहार गरेकी छन् । बुधबार स्थानीय बाटो अनुगमनको क्रममा वडा कार्यालय पुगेकी सांसद आशिकाले वडा",
-      "published": "2026-11-04T13:32:37+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/ashika_KrheIqBH7Y.png",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "bca80ec46b7a144e",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 107.8,
-      "story_size": 1,
-      "image_local": "images/news_fb9e8ac78aa5dbe36088.png"
-    },
-    {
-      "title": "प्रदेश प्रमुख पर्शुराम खापुङको पाँच वर्षे बेदाग यात्रा",
-      "link": "https://www.ratopati.com/story/603363/provincial-chief-parshuram-khapungs-five-year-flawless-journey",
-      "description": "विराटनगर । तीव्र राजनीतिक खिचातानी र अस्थिरताको केन्द्र बनेको कोशी प्रदेशमा प्रदेश प्रमुख पर्शुराम खापुङले भने लगातार अभिभावकीय गरिमा, संवैधानिक निष्पक्षता र शालीनताको उच्च नमुना प्रस्तुत गरे । उनै खापुङको कार्यकाल आगामी २४ गते सकिँदैन। तत्कालीन",
-      "published": "2026-11-04T13:30:32+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/khapung_5hlkbFheRo.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "e923e2c2fdec017f",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 107.7,
-      "story_size": 1,
-      "image_local": "images/news_fc0580e01ba16246a07d.webp"
     },
     {
       "title": "आजका समाचार : नवनियुक्त आईजीपीलाई दर्ज्यानी चिन्ह, सरकारलाई कांग्रेसको चेतावनी, मिश्री नेपालमा र मध्यावधि चुनावमा डेमोक्र्याटको जित",
@@ -787,7 +1511,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.6,
+      "score": 82.2,
       "story_size": 1
     },
     {
@@ -805,7 +1529,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.3,
+      "score": 81.9,
       "story_size": 1
     },
     {
@@ -823,63 +1547,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.3,
+      "score": 81.9,
       "story_size": 1
-    },
-    {
-      "title": "चाडपर्वमा विद्युत् आपूर्ति अवरुद्ध हुन नदिन ऊर्जामन्त्रीको निर्देशन",
-      "link": "https://khabarhub.com/2026/04/1044658/",
-      "description": "काठमाडौँ&#8211; ऊर्जा, जलस्रोत तथा सिँचाइमन्त्री विराजभक्त श्रेष्ठले तिहार तथा छठ पर्वमा विद्युत् आपूर्ति नियमित र अवरोधरहित बनाउन नेपाल विद्युत् प्राधिकरणलाई निर्देशन दिएका छन् । प्राधिकरण सञ्चालक समितिको बैठकअघि आज कार्यकारी निर्देशक तथा कर्मचारीहरूसँगको छलफलमा मन्त्री श्रेष्ठले चाडपर्वका समयमा बढ्न सक्ने विद्युत् मागको पूर्वानुमान र विश्लेषण गरी आवश्यक व्यवस्था मिलाउन निर्देशन दिएका हुन् । उनले मागअनुसार [&#8230;]",
-      "published": "2026-11-04T14:07:49+00:00",
-      "source": "Khabarhub",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "3482c7a1467db2f5",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 107.2,
-      "story_size": 1
-    },
-    {
-      "title": "सरकारको बेरुजु साढे १० अर्ब बढी, संरचना र कागजातमा आगजनीले अझ बढायो",
-      "link": "https://www.onlinekhabar.com/2026/11/2051153/governments-deficit-exceeds-10-5-billion-further-increased-by-arson-of-structures-and-documents",
-      "description": "गत आवमा भएको जेनजी आन्दोलन र त्यसबाट सार्वजनिक सवारीसाधन, सरकारी कागजात तथा भौतिक सम्पत्तिमा पुगेको क्षतिले बेरुजु रकम बढाएको विश्लेषण महालेखाले गरेको छ ।",
-      "published": "2026-11-04T14:07:06+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "39753c4e14719371",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 107.1,
-      "story_size": 1
-    },
-    {
-      "title": "प्रहरी नेतृत्व परिवर्तनप्रति नागरिक समूहको आपत्ति",
-      "link": "https://www.ratopati.com/story/603362/citizen-groups-object-to-police-leadership-change",
-      "description": "काठमाडौँ। प्रहरी महानिरीक्षक दानबहादुर कार्कीलाई जिम्मेवारीबाट हटाएर एआईजी डा. मनोज केसीलाई नयाँ जिम्मेवारी दिने सरकारको निर्णयप्रति नागरिक समूहले आपत्ति जनाएको छ। समूहले प्रहरी सङ्गठनलाई राजनीतिक स्वार्थअनुकूल सञ्चालन गर्ने प्रयास बन्द गर्न सरकारलाई खबरदारी गरेको छ। नागरिक समूहका",
-      "published": "2026-11-04T13:22:22+00:00",
-      "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/manoj-kc_9CsHB5LJ2j.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "796641151f7f9898",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 107.1,
-      "story_size": 1,
-      "image_local": "images/news_18ae60076be3423d1cf7.webp"
     },
     {
       "title": "रौतहटमा स्रोत नखुलेको ४४ लाख रकम भेटियो, दुई जना पक्राउ",
@@ -896,7 +1565,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.0,
+      "score": 81.6,
       "story_size": 1
     },
     {
@@ -914,100 +1583,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.7,
+      "score": 81.4,
       "story_size": 1
-    },
-    {
-      "title": "नेपाल वैदेशिक लगानीका लागि आकर्षक गन्तव्य : परराष्ट्रमन्त्री",
-      "link": "https://www.ratopati.com/story/603361/nepal-is-an-attractive-destination-for-foreign-investment-foreign-minister",
-      "description": "काठमाडौँ। परराष्ट्रमन्त्री शिशिर खनालले नेपाललाई उदीयमान अर्थतन्त्र र वैदेशिक लगानीका लागि आकर्षक गन्तव्यका रूपमा प्रवर्द्धन गर्नुपर्ने बताएका छन्। बुधबार परराष्ट्र मन्त्रालयले आयोजना गरेकाे ‘नेपाल–अमेरिका लगानी तथा व्यापार प्रवर्द्धन र निजी क्षेत्रबिच भ्रमण आदानप्रदान’ विषयक अन्तरक्रिया कार्यक्रममा",
-      "published": "2026-11-04T13:16:41+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/sisir-khanal_ZnMpXTDogd.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "736fd853933bbaf4",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 106.7,
-      "story_size": 1,
-      "image_local": "images/news_4ff8baf72af4169bdabd.webp"
-    },
-    {
-      "title": "भय र भ्रमको शासन बन्द गर्न सरकारलाई कांग्रेसको आग्रह",
-      "link": "https://baahrakhari.com/detail/506598",
-      "description": "",
-      "published": "2026-11-04T19:44:15+05:45",
-      "source": "Baahrakhari",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "c753f23418cc9ff5",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 106.6,
-      "story_size": 1
-    },
-    {
-      "title": "बेनीमा चौथो बौद्ध कप फुटबल प्रतियोगिता, विजेतालाई २ लाख २२ हजार पुरस्कार",
-      "link": "https://khabarhub.com/2026/04/1044651/",
-      "description": "म्याग्दी &#8211; म्याग्दीको बेनीमा चौथो बौद्ध कप खुला फुटबल प्रतियोगिता मंगलबारदेखि सुरु भएको छ । प्रतियोगिताको विजेताले २ लाख २२ हजार २२२ रुपैयाँ पुरस्कार प्राप्त गर्नेछ । बौद्ध युवा क्लबको आयोजनामा बेनीस्थित खुलामञ्च खेलमैदानमा सुरु भएको प्रतियोगिता पाँच दिनसम्म सञ्चालन हुनेछ । प्रतियोगितामा विभागीय टोली नेपाल पुलिस क्लबसहित १४ टोली सहभागी छन् । प्रतियोगिताको गण्डकी [&#8230;]",
-      "published": "2026-11-04T13:58:19+00:00",
-      "source": "Khabarhub",
-      "category": "sports",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "c38ac6a08c7fe4b3",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 106.5,
-      "story_size": 1
-    },
-    {
-      "title": "नेपाली मूलका ह्यारी भण्डारीको अमेरिकी राज्य संसदमा तेस्रो पटक जित",
-      "link": "https://www.setopati.com/global/america/402027",
-      "description": "अमेरिकाको राज्यस्तरीय विधायक (स्टेट लेजिस्लेचर) निर्वाचनमा डेमोक्रेटिक पार्टीका तर्फबाट चुनावी मैदानमा उत्रिएका नेपाली मूलका डा.ह्यारी भण्डारीले तेस्रो पटक जित हासिल गरेका छन्।",
-      "published": "2026-11-04T19:39:47+05:45",
-      "source": "Setopati",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Setopati"
-      ],
-      "id": "8ae98bac9384f025",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 106.3,
-      "story_size": 1
-    },
-    {
-      "title": "गृहमन्त्रीबाट नवनियुक्त प्रहरी महानिरीक्षक केसीलाई दर्ज्यानी चिह्न प्रदान",
-      "link": "https://gorkhapatraonline.com/news/228314",
-      "description": "काठमाडौँ, कात्तिक १८ गते । गृहमन्त्री सुधन गुरुङले नवनियुक्त प्रहरी महानिरीक्षक डा. मनोजकुमार केसीलाई दर्ज्यानी चिह्न प्रदान गर्नुभएको छ । गृह मन्त्रालयमा आज आयोजित कार्यक्रममा मन्...",
-      "published": "2026-11-04T18:54:08+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "politics",
-      "image": "https://gorkhapatraonline.com/storage/media/390443/conversions/WhatsApp-Image-2026-11-04-at-18.21.56-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "ac5885d8a1f33887",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 106.2,
-      "story_size": 1,
-      "image_local": "images/news_430ecdf2252f1e1c1d86.jpg"
     },
     {
       "title": "अमेरिकामा डेमोक्र्याट्सको विजयोत्सव",
@@ -1024,100 +1601,26 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.2,
-      "story_size": 1,
-      "image_local": "images/news_b795a3158e0ead0636f9.jpg"
-    },
-    {
-      "title": "‘कोप-३१ मा नेपालको अर्थपूर्ण सहभागिता अपरिहार्य’",
-      "link": "https://khabarhub.com/2026/04/1044644/",
-      "description": "प्रधानमन्त्रीले कोप-३१ सम्मेलनमा सहभागिता नजनाउने हुनुभएको छ । सामान्यतया राष्ट्रसंघीय महासभाको तुलनामा जलवायुकेन्द्रित कोप सम्मेलन धेरै ठूलो हुन्छ । यसमा हुने नेताहरूको सम्बोधन सम्बन्धित राष्ट्रका बैठक कक्षहरूमा तुरुन्तै सम्प्रेषण हुन्छ । यदि भिसा सहजीकरण भएमा यस पटकको सम्मेलनमा एक लाखभन्दा बढी मानिसहरूको सहभागिता रहने अनुमान छ । विगतमा नेपालबाट जाने आधिकारिक प्रतिनिधिमण्डल तथा एनजीओका प्रतिनिधिहरूले [&#8230;]",
-      "published": "2026-11-04T13:52:12+00:00",
-      "source": "Khabarhub",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "8e2d4dfc77a90410",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 106.1,
+      "score": 80.9,
       "story_size": 1
     },
     {
-      "title": "खरिद प्रक्रियाबारेका समाचार भ्रमपूर्ण : नेपाल टेलिकम",
-      "link": "https://khabarhub.com/2026/04/1044647/",
-      "description": "कााठमाडौँ&#8211; नेपाल टेलिकमले आफ्नो खरिद प्रक्रियाबारे विभिन्न सञ्चारमाध्यममा प्रकाशित तथा प्रसारित समाचार भ्रमपूर्ण र अपुष्ट रहेको दाबी गर्दै आधिकारिक सूचना पुष्टि गरेर मात्रै समाचार सम्प्रेषण गर्न आग्रह गरेको छ । कम्पनीले मंगलबार प्रेस विज्ञप्ति जारी गर्दै पछिल्लो समय खरिद प्रक्रियासम्बन्धी भ्रमपूर्ण तथा अपुष्ट समाचारहरू सार्वजनिक भइरहेको भन्दै गम्भीर ध्यानाकर्षण भएको जनाएको हो । टेलिकमले प्रचलित [&#8230;]",
-      "published": "2026-11-04T13:51:25+00:00",
-      "source": "Khabarhub",
+      "title": "पदयात्रा अनुमति उल्लङ्घन गर्ने ट्रेकिङ एजेन्सीलाई ५० हजार जरिवाना",
+      "link": "https://kendrabindu.com/nigrani/569224/",
+      "description": "काठमाडौं । पदयात्रासम्बन्धी कानुन उल्लङ्घन गरेर विदेशी पर्यटकलाई निषेधित क्षेत्रमा लैजान खोज्ने ट्रेकिङ एजेन्सीलाई रु ५० हजार जरिवाना गरिएको छ । बेल्जियमका दुई नागरिकलाई पदयात्रा अनुमति नलिई डोल्पोबुद्ध गाउँपालिकातर्फ लैजान खोजेको आरोपमा गरिमा भ्वायज ट्राभल्स टुर्स एण्ड ट्रेक्स प्रालिलाई अध्यागमन ऐन, २०४९ को दफा १०९४० बमोजिम जरिवाना गरिएको अध्यागमन विभागले जनाएको छ । जिल्ला प्रशासन [&#8230;]",
+      "published": "2026-11-04T13:48:29+00:00",
+      "source": "Kendrabindu",
       "category": "nepal",
       "image": "",
       "related_sources": [
-        "Khabarhub"
+        "Kendrabindu"
       ],
-      "id": "dbca8559c2dd74db",
+      "id": "7e4b16280c37be39",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.1,
-      "story_size": 1
-    },
-    {
-      "title": "सिंहदरबारमा रमिता चलिरहेको छ : विश्वप्रकाश शर्मा",
-      "link": "https://nepalsamaya.com/detail/147571",
-      "description": "",
-      "published": "2026-11-04T18:51:55+05:45",
-      "source": "Nepal Samaya",
-      "category": "world",
-      "image": "https://nepalsamaya.com/uploads/posts/Bishwa_21793793865-1793797604.jpg",
-      "related_sources": [
-        "Nepal Samaya"
-      ],
-      "id": "11a24a1b4b1edebf",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 106.1,
-      "story_size": 1,
-      "image_local": "images/news_cb5675b596350e67a0d7.jpg"
-    },
-    {
-      "title": "ओलीले खुम्च्याए शंकर पोखरेलको भूमिका",
-      "link": "https://www.onlinekhabar.com/2026/11/2050645/oli-downplays-shankar-pokharels-role",
-      "description": "केन्द्रीय कमिटीबाट अनुमोदित ओलीको राजनीतिक निष्कर्ष कार्यान्वयनका निम्ति हुन लागेको राष्ट्रिय भेलामा महासचिव शंकर पोखरेल भने भूमिकाविहीन जस्तै बन्दैछन् ।",
-      "published": "2026-11-04T13:47:30+00:00",
-      "source": "OnlineKhabar",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "77bd62f3e956353c",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 105.8,
-      "story_size": 1
-    },
-    {
-      "title": "एकीकृत ‘एन्टी साइबर स्क्याम सेन्टर’ ले शुक्रबारदेखि काम थाल्ने, उजुरी गर्न हटलाइन",
-      "link": "https://www.onlinekhabar.com/2026/11/2051143/integrated-anti-cyber-scam-center-to-start-operations-from-friday-hotline-to-file-complaints",
-      "description": "सेन्टरमा प्रहरीसँगै राष्ट्र बैंक, बैंक तथा वित्तीय संस्था, भुक्तानी प्रणाली तथा सेवा सञ्चालक, दूरसञ्चार सेवा प्रदायक निकायका कर्मचारी एकै स्थानमा बसेर काम गर्नेछन् ।",
-      "published": "2026-11-04T13:46:52+00:00",
-      "source": "OnlineKhabar",
-      "category": "tech",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "0f3217eeacd147e4",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 105.8,
-      "story_size": 1
+      "score": 80.5,
+      "story_size": 2
     },
     {
       "title": "सरकारले दानबहादुर कार्कीलाई हटाएर मनोज केसीलाई आईजीपी बनाउनुको अर्थ",
@@ -1134,82 +1637,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.7,
-      "story_size": 1,
-      "image_local": "images/news_34f55a9906855b582540.jpg"
-    },
-    {
-      "title": "नागरिक सेवाका क्षेत्रमा प्रभावकारी रूपमा काम गर्न गृहमन्त्रीको निर्देशन",
-      "link": "https://www.ratopati.com/story/603358/home-ministers-directive-to-work-effectively-in-the-field-of-civil-services",
-      "description": "काठमाडौँ। गृहमन्त्री सुधन गुरुङले शान्ति सुरक्षा, अपराध नियन्त्रण, विपद् व्यवस्थापन र नागरिक सेवाका क्षेत्रमा प्रभावकारी रूपमा काम गर्न प्रहरीलाई निर्देशन दिएका छन्। बुधबार नवनियुक्त आईजीपी डा.मनोज केसीलाई दर्ज्यानी चिन्ह प्रदान गर्दै उनले प्रहरी सङ्गठनले नागरिकसँग कसरी",
-      "published": "2026-11-04T13:01:17+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/1-igp-manoj-kc-npl-2_NKdy87Rg3p.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "80c7f40eb81e72d3",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 105.7,
-      "story_size": 1,
-      "image_local": "images/news_d9e494c280b9b59d99f6.webp"
-    },
-    {
-      "title": "अन्नपूर्ण आधार शिविर जाने पदमार्गमा पर्यटक सूचना केन्द्र स्थापना",
-      "link": "https://gorkhapatraonline.com/news/228313",
-      "description": "म्याग्दी समाचारदाता म्याग्दी, कात्तिक १८ गते । म्याग्दीको अन्नपूर्ण गाउँपालिका–४ नारच्याङस्थित मौरिस हर्जोग पदमार्गको प्रवेशद्वार बाँस्कोटमा अन्नपूर्ण प्रथम हिमालको आधार शिविर जाने...",
-      "published": "2026-11-04T18:45:24+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/390442/conversions/annapurna-suchana-kendra--(3)-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "b8e7637b396abf4e",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 105.7,
-      "story_size": 1,
-      "image_local": "images/news_57f56972ef3acae2ad12.jpg"
-    },
-    {
-      "title": "नेकपा एमाले मधेश सरकारमा फर्किन लागेको हो ?",
-      "link": "https://www.onlinekhabar.com/2026/11/2050844/is-the-cpn-uml-going-to-return-to-the-madhesh-government",
-      "description": "मधेश सरकारमा सहकार्य गर्नेबारे कांग्रेस सभापति गगन थापा र एमाले अध्यक्ष केपी ओलीबीच छलफल भएको छ ।",
-      "published": "2026-11-04T13:45:11+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "68268a2b1bd3df77",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 105.6,
-      "story_size": 1
-    },
-    {
-      "title": "प्रहरीको ३४औं आईजीपी बनेका मनोज केसी को हुन् ?",
-      "link": "https://www.onlinekhabar.com/2026/11/2050915/who-is-manoj-kc-who-has-become-the-34th-igp-of-nepal-police",
-      "description": "दानबहादुर कार्कीलाई हटाएर दोस्रो नम्बरका एआईजी राजन अधिकारीलाई समेत नदिई सरकारले तेस्रो नम्बरका केसीलाई आईजीपी बनाएको हो ।",
-      "published": "2026-11-04T13:43:51+00:00",
-      "source": "OnlineKhabar",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "1c63aa15da09d1c9",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 105.6,
+      "score": 80.4,
       "story_size": 1
     },
     {
@@ -1227,99 +1655,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.6,
+      "score": 80.2,
       "story_size": 1
     },
     {
-      "title": "मुद्दा र कार्यशैलीमा अनेकताका बिच गगनको ‘कटसी’ पोलिसी",
-      "link": "https://www.ratopati.com/story/603327/gagans-cut-throat-policy-amid-diversity-in-issues-and-working-style",
-      "description": "काठमाडौँ । बिचौलिया इनम सापकोटा ‘इनम’ प्रकरण ‘कनेक्सन’ले राज्यका विभिन्न अङ्ग र हाई प्रोफाइलको टाउको दुखाइ भइरहेको बेला एमाले अध्यक्ष केपी शर्मा ओली र नेपाली कांग्रेसका सभापति गगन थापाबिचको भेटवार्ताले राजनीतिमा अर्को तरङ्ग पैदा गरेको",
-      "published": "2026-11-04T13:00:00+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/oli-gagan-1_XKQEwEETAu.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "85bbc4174db4818d",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 105.6,
-      "story_size": 1,
-      "image_local": "images/news_6611a4bb0cf7cf9a8c8b.webp"
-    },
-    {
-      "title": "क्रिकेटरलाई टिप्स दिने निश्चल",
-      "link": "https://baahrakhari.com/detail/506596",
-      "description": "",
-      "published": "2026-11-04T19:28:34+05:45",
-      "source": "Baahrakhari",
-      "category": "sports",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "b8a8490d630f9dc1",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 105.5,
-      "story_size": 1
-    },
-    {
-      "title": "नागरिकमा डर होइन, भरोसा जगाउने गरी काम गर्छु : नवनियुक्त आईजीपी केसी",
-      "link": "https://www.ratopati.com/story/603357/i-will-work-to-instill-trust-not-fear-among-citizens-newly-appointed-igp-kc",
-      "description": "काठमाडौँ। नवनियुक्त ३४औँ प्रहरी महानिरीक्षक (आईजीपी) डा. मनोज केसीले नागरिकमा डर होइन, भरोसा पैदा हुने गरी नेपाल प्रहरीले काम गर्नुपर्ने बताएका छन्। बुधबार गृह मन्त्रालयमा आयोजित दर्ज्यानी चिह्न प्रदान कार्यक्रममा बोल्दै आईजीपी केसीले अपराध नियन्त्रण, साइबर",
-      "published": "2026-11-04T12:53:07+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/manoj-kc_9CsHB5LJ2j.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "8b86c4dd626571a8",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 105.2,
-      "story_size": 1,
-      "image_local": "images/news_18ae60076be3423d1cf7.webp"
-    },
-    {
-      "title": "गाडी पूजा गरेर मन्त्रालयबाट बाहिरिए आइजिपी केसी",
-      "link": "https://www.setopati.com/social/402026",
-      "description": "",
-      "published": "2026-11-04T19:16:37+05:45",
-      "source": "Setopati",
+      "title": "खरिद प्रक्रियाबारे भ्रमपूर्ण समाचार नफैलाउन नेपाल टेलिकमको आग्रह",
+      "link": "https://kendrabindu.com/news/569222/",
+      "description": "काठमाडौं । नेपाल टेलिकमले आफ्नो खरिद प्रक्रियाबारे केही सञ्चारमाध्यममा प्रकाशित तथा प्रसारित समाचारहरू भ्रमपूर्ण र अपुष्ट रहेको भन्दै त्यस्ता समाचार सम्प्रेषण नगर्न आग्रह गरेको छ। कम्पनीले आज जारी गरेको प्रेस विज्ञप्तिमार्फत पछिल्लो समय विभिन्न सञ्चारमाध्यममा कम्पनीको खरिद प्रक्रियासम्बन्धी भ्रमपूर्ण तथा अपुष्ट समाचारहरू प्रकाशन तथा प्रसारण भइरहेकाप्रति गम्भीर ध्यानाकर्षण भएको जनाएको हो । नेपाल टेलिकम कम्पनी [&#8230;]",
+      "published": "2026-11-04T13:38:21+00:00",
+      "source": "Kendrabindu",
       "category": "nepal",
       "image": "",
       "related_sources": [
-        "Setopati"
+        "Kendrabindu"
       ],
-      "id": "7c6cf2e5f7f360e6",
+      "id": "915e20106cec9f75",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.7,
-      "story_size": 1
-    },
-    {
-      "title": "आफ्नै प्रशासनिक भवन बनाउन असफल पोखरा महानगर",
-      "link": "https://www.onlinekhabar.com/2026/11/2051123/pokhara-metropolitan-city-fails-to-build-its-own-administrative-building",
-      "description": "पुरानो भवन रहेको ठाउँमा बहुतले भवन बनाउने योजना बुनिरहेको महानगरले आफैं पनि धेरै ठाउँमा व्यापारिक भवन बनाएर भाडा खाइरहेको छ । तर आफैं भने प्रशासनिक भवनविहीन छ ।",
-      "published": "2026-11-04T13:31:20+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "3bb6eee7a7eed0da",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 104.7,
+      "score": 79.8,
       "story_size": 1
     },
     {
@@ -1337,25 +1691,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.4,
-      "story_size": 1
-    },
-    {
-      "title": "ओली-थापा संवादको अन्तर्य : मधेश सरकारदेखि विपक्षी मोर्चाबन्दीसम्म",
-      "link": "https://www.onlinekhabar.com/2026/11/2051119/the-oli-thapa-dialogue-from-the-madhesh-government-to-the-oppositions-frontline",
-      "description": "विशेष महाधिवेशनबाट गगन सभापति निर्वाचित भएको र ओलीको सम्बन्ध तत्कालीन सभापति शेरबहादुर देउवासँग घनिष्ठ रहेकाले पनि यो भेटवार्तालाई चासोका साथ हेरिएको छ ।",
-      "published": "2026-11-04T13:25:24+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "ce9bc47445adf9f7",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 104.3,
+      "score": 79.1,
       "story_size": 1
     },
     {
@@ -1373,7 +1709,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.3,
+      "score": 78.9,
       "story_size": 1
     },
     {
@@ -1391,44 +1727,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.2,
-      "story_size": 1
-    },
-    {
-      "title": "देउवा कांग्रेस खोटाङको अधिवेशनबाट सभापतिमा रोजन राई निर्विरोध",
-      "link": "https://www.ratopati.com/story/603356/rojan-rai-elected-unopposed-as-deuba-congress-khotang-president",
-      "description": "खोटाङ । नेपाली कांग्रेस देउवा पक्षको खोटाङको जिल्ला अधिवेशनबाट जिल्ला कार्यसमितिको सभापति पदमा रोजन राई निर्विरोध निर्वाचित भएका छन् । पार्टीभित्रको आन्तरिक सहमति र समन्वयका आधारमा राईको नेतृत्वमा नयाँ कार्यसमिति चयन भएको कांग्रेस नेता भूपेन्द्र",
-      "published": "2026-11-04T12:33:51+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/khotang-congress_DugArEDGpq.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "aeda22e2f6e304a9",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 103.9,
-      "story_size": 1,
-      "image_local": "images/news_0aae7d94cd6312db4517.webp"
-    },
-    {
-      "title": "नक्कली भुटानी शरणार्थी अनुसन्धान ब्युँताएका मनोज केसी बने प्रहरी महानिरीक्षक",
-      "link": "https://www.setopati.com/politics/402000",
-      "description": "बुधबार बसेको मन्त्रिपरिषद् बैठकले दानबहादुर कार्कीलाई प्रहरी प्रमुखबाट हटाएर केसीलाई नियुक्त गर्ने निर्णय गरेको हो। कार्कीलाई प्रधानमन्त्रीको विशेष सुरक्षा सल्लाहकारको जिम्मेवारी दिइएको छ।",
-      "published": "2026-11-04T19:00:00+05:45",
-      "source": "Setopati",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "Setopati"
-      ],
-      "id": "6d02168ae5019c76",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 103.6,
+      "score": 78.8,
       "story_size": 1
     },
     {
@@ -1446,27 +1745,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.6,
+      "score": 78.2,
       "story_size": 1
-    },
-    {
-      "title": "सुनकोशी–मरिन ठेक्का रद्द प्रकरण : निर्माण कम्पनी अदालत गए के हुन्छ ?",
-      "link": "https://www.ratopati.com/story/603335/sunkoshi-marin-contract-cancellation-case-what-happens-if-the-construction-company-goes-to-court",
-      "description": "काठमाडौँ। प्रधानमन्त्री वालेन्द्र (बालेन) शाहको सचिवालयले सिँचाइ विभागका महानिर्देशक दिनेश रजौरिया र आयोजना प्रमुख कृष्णप्रसाद रिजाललाई नियन्त्रणमा लिएको घटना लगत्तै सुनकोशी–मरिन डाइभर्सन बहुउद्देश्यीय आयोजनाको ठेक्का रद्द गरिएको छ। उक्त ठेक्का रद्द गर्न प्रधानमन्त्रीको सचिवालयको ठाडो हस्तक्षेप",
-      "published": "2026-11-04T12:30:00+00:00",
-      "source": "Ratopati",
-      "category": "business",
-      "image": "https://npcdn.ratopati.com/media/news/sunkoshi-marin_sItE2wrsew.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "215cf00ff625e414",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 103.6,
-      "story_size": 1,
-      "image_local": "images/news_ab0e813861225f3de030.webp"
     },
     {
       "title": "प्रहरी र नागरिकबीचको दूरी अन्त्य गर्न आईजीपीलाई गृहमन्त्रीको निर्देशन",
@@ -1483,27 +1763,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.5,
+      "score": 78.1,
       "story_size": 1
-    },
-    {
-      "title": "कांग्रेसले सरकारविरूद्ध राजनीतिक र कानुनी प्रतिवाद गर्ने",
-      "link": "https://www.ratopati.com/story/603355/congress-will-launch-political-and-legal-resistance-against-the-government",
-      "description": "काठमाडौँ। नेपाली कांग्रेसले सरकार पूर्णतः स्वेच्छाचारी र निरङ्कुश बन्दै गएको आरोप लगाउँदै ‘भय र भ्रमको शासन’ तत्काल बन्द गर्न चेतावनी दिएको छ। महामन्त्री प्रदीप पौडेलले बुधबार वक्तव्य जारी गर्दै राज्य संयन्त्रको दुरुपयोग, प्रतिपक्षको आवाज दबाउने षड्यन्त्र",
-      "published": "2026-11-04T12:28:38+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/congress_6PWPtznfiC.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "b03d20dea368a99a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 103.5,
-      "story_size": 1,
-      "image_local": "images/news_fee46633c76827c4f216.webp"
     },
     {
       "title": "नेपाल र भारतका विदेश सचिवस्तरीय द्विपक्षीय बैठक सम्पन्न",
@@ -1520,7 +1781,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.2,
+      "score": 77.8,
       "story_size": 1
     },
     {
@@ -1538,25 +1799,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.7,
-      "story_size": 1
-    },
-    {
-      "title": "हुम्ला कांग्रेसका नेता शाही रास्वपा प्रवेश",
-      "link": "https://gorkhapatraonline.com/news/228311",
-      "description": "हुम्ला समाचारदाताहुम्ला, कात्तिक १८ गते । नेपाली कांग्रेस हुम्लाका नेता मंगलबहादुर शाही राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश गर्नु भएको छ । पार्टीले कारबाही फुकुवा गरेको एक वर्षपछि...",
-      "published": "2026-11-04T17:57:42+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "politics",
-      "image": "https://gorkhapatraonline.com/storage/media/390440/conversions/886725952_122157589407133161_292878411722601841_n-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "cc440c7c88ee67d9",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 102.5,
+      "score": 77.3,
       "story_size": 1
     },
     {
@@ -1574,25 +1817,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.4,
-      "story_size": 1
-    },
-    {
-      "title": "गोविन्द केसीको आन्दोलनमा टेकेर सत्तामा पुगे, कुर्सी पाएपछि साथ छाडे",
-      "link": "https://www.onlinekhabar.com/2026/11/2050989/he-came-to-power-by-relying-on-govinda-kcs-movement-but-left-after-getting-the-chair",
-      "description": "हिजो डा. गोविन्द केसीको पक्षमा सडकमा उत्रिनेहरूलाई आज एउटा सीधा प्रश्न छ – उनीहरू त्यतिबेला जनताको स्वास्थ्य र शिक्षाका लागि लडेका थिए कि सत्तामा पुग्ने राजनीतिक यात्रा लागि ।",
-      "published": "2026-11-04T12:55:28+00:00",
-      "source": "OnlineKhabar",
-      "category": "tech",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "c19d07669181e535",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 102.3,
+      "score": 77.0,
       "story_size": 1
     },
     {
@@ -1610,7 +1835,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.2,
+      "score": 76.8,
       "story_size": 1
     },
     {
@@ -1628,25 +1853,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.7,
-      "story_size": 1
-    },
-    {
-      "title": "नयाँ झोला पाएपछि विद्यार्थी खुसी",
-      "link": "https://gorkhapatraonline.com/news/228310",
-      "description": "जानु पाण्डेकपिलवस्तु, कात्तिक १८ गते । पढाइका लागि विद्यालय पुगेका विद्यार्थीको हातमा नयाँ झोला र शैक्षिक सामग्री पाएपछि खुसी भएका छन् । कपिलवस्तुको बुद्धभूमि नगरपालिका –२ गोरुसिङ्...",
-      "published": "2026-11-04T17:46:29+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "tech",
-      "image": "https://gorkhapatraonline.com/storage/media/390439/conversions/school-bag-bitaran-kapilvastu-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "adaecd6bf4b42514",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 101.7,
+      "score": 76.3,
       "story_size": 1
     },
     {
@@ -1664,7 +1871,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.6,
+      "score": 76.2,
       "story_size": 1
     },
     {
@@ -1682,25 +1889,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.5,
-      "story_size": 1
-    },
-    {
-      "title": "कांग्रेसले भन्यो- सिंहदरबारमा आज रमिता छ",
-      "link": "https://www.setopati.com/politics/402024",
-      "description": "‘आज सिंहदरबार र बालुवाटारमा रमिता चलिरहेको छ,’ उनले भने, ‘यो देशका मतदाताले विश्वास र आशा गरेर दिएको मतको सरकारले सम्मान गरिरहेको छैन।’",
-      "published": "2026-11-04T18:25:00+05:45",
-      "source": "Setopati",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Setopati"
-      ],
-      "id": "14d11e44888b2fe6",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 101.3,
+      "score": 76.2,
       "story_size": 1
     },
     {
@@ -1718,7 +1907,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.2,
+      "score": 75.9,
       "story_size": 1
     },
     {
@@ -1736,7 +1925,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.2,
+      "score": 75.8,
       "story_size": 1
     },
     {
@@ -1754,7 +1943,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.1,
+      "score": 75.8,
       "story_size": 1
     },
     {
@@ -1772,7 +1961,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.0,
+      "score": 75.6,
       "story_size": 1
     },
     {
@@ -1790,7 +1979,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.5,
+      "score": 75.1,
       "story_size": 1
     },
     {
@@ -1808,7 +1997,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.5,
+      "score": 75.1,
       "story_size": 1
     },
     {
@@ -1826,7 +2015,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.2,
+      "score": 74.8,
       "story_size": 1
     },
     {
@@ -1844,7 +2033,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.1,
+      "score": 74.7,
       "story_size": 1
     },
     {
@@ -1862,7 +2051,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.8,
+      "score": 74.4,
       "story_size": 1
     },
     {
@@ -1880,7 +2069,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.4,
+      "score": 74.0,
       "story_size": 1
     },
     {
@@ -1898,7 +2087,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.2,
+      "score": 73.9,
       "story_size": 1
     },
     {
@@ -1916,7 +2105,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.1,
+      "score": 73.7,
       "story_size": 1
     },
     {
@@ -1934,7 +2123,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.8,
+      "score": 73.5,
       "story_size": 1
     },
     {
@@ -1952,7 +2141,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.8,
+      "score": 73.5,
       "story_size": 1
     },
     {
@@ -1970,7 +2159,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.8,
+      "score": 73.4,
       "story_size": 1
     },
     {
@@ -1988,25 +2177,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.7,
-      "story_size": 1
-    },
-    {
-      "title": "अफगानी नागरिकको निर्वासन रोक्न अमेरिकी अदालतको आदेश",
-      "link": "https://www.onlinekhabar.com/2026/11/2051024/us-court-orders-halting-deportation-of-afghan-national",
-      "description": "१८ कात्तिक, वासिङ्टन (रासस/एएफपी) । अमेरिकी सङ्घीय अदालतले पाकिस्तान हुँदै १५० भन्दा बढी अफगानी नागरिकलाई स्वदेश फर्काउने राष्ट्रपति डोनाल्ड ट्रम्प प्रशासनको योजना रोकेको छ । निर्वासनले पूर्वअमेरिकी सहयोगी र उनीहरूका परिवारको ज्यान जोखिममा पार्न सक्ने भन्दै अधिकारवादी समूहहरूले विरोध गरेपछि अदालतले यस्तो आदेश दिएको हो । न्युयोर्कस्थित जिल्ला अदालतकी न्यायाधीश भ्यालेरी क्याप्रोनीले यस साता कुनै [&#8230;]",
-      "published": "2026-11-04T11:59:04+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "ddf7514e7aabb4d2",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 98.6,
+      "score": 73.4,
       "story_size": 1
     },
     {
@@ -2024,7 +2195,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.4,
+      "score": 73.1,
       "story_size": 1
     },
     {
@@ -2042,25 +2213,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.2,
-      "story_size": 1
-    },
-    {
-      "title": "रोहिङ्ग्या नरसंहार मुद्दामा नोभेम्बर १९ मा फैसला आउने",
-      "link": "https://www.onlinekhabar.com/2026/11/2051015/verdict-in-rohingya-genocide-case-to-be-delivered-on-november-19",
-      "description": "गाम्बियाले सन् २०१९ मा म्यान्माविरुद्ध सन् १९४८ को नरसंहार महासन्धि उल्लङ्घन गरेको आरोपमा मुद्दा दायर गरेको थियो ।",
-      "published": "2026-11-04T11:49:41+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "3f5fc1e5b95602cc",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 97.9,
+      "score": 72.9,
       "story_size": 1
     },
     {
@@ -2078,7 +2231,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.5,
+      "score": 72.1,
       "story_size": 1
     },
     {
@@ -2096,7 +2249,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.4,
+      "score": 72.1,
       "story_size": 1
     },
     {
@@ -2114,7 +2267,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.3,
+      "score": 71.9,
       "story_size": 1
     },
     {
@@ -2132,97 +2285,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.1,
-      "story_size": 1
-    },
-    {
-      "title": "नवीकरणीय ऊर्जालाई उत्पादन, रोजगारी र आर्थिक समृद्धिको आधार बनाउनुपर्छ : ऊर्जामन्त्री श्रेष्ठ",
-      "link": "https://nepalsamaya.com/detail/147570",
-      "description": "",
-      "published": "2026-11-04T16:34:29+05:45",
-      "source": "Nepal Samaya",
-      "category": "politics",
-      "image": "https://nepalsamaya.com/uploads/posts/photo-1_0b8ff064-1793789349.jpg",
-      "related_sources": [
-        "Nepal Samaya"
-      ],
-      "id": "ee956d8f317599be",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 96.9,
-      "story_size": 1
-    },
-    {
-      "title": "बलिउड अभिनेत्रीहरूले ‘पटका नपड्काउनु’ भन्दा किन चर्काइयो बहस ?",
-      "link": "https://www.onlinekhabar.com/2026/11/2050984/why-did-bollywood-actresses-statement-about-not-cracking-firecrackers-spark-a-heated-debate",
-      "description": "एकथरीले दिपावलीको उत्सव मनाइरहँदा अर्कोथरीका लागि पटका आतंक बन्छ । प्रकृति र प्राणीबीचको घनिष्ठतालाई उजागर गर्ने यो पर्वमा पटकाले धेरैलाई अत्याउने गर्छ । बुढापाका, सुत्केरी र साना बालबच्चाहरू यसको मारमा पर्ने गर्छन् । सबैभन्दा बढी चाहिँ यसले कुकुर, काग, परेवालगायत मानव बस्तीमा आश्रय लिने पशुपन्छीलाई तर्साउने गर्छ । ध्वनि र वायु प्रदूषणका लागि त यो [&#8230;]",
-      "published": "2026-11-04T11:28:43+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "8a87de6e7a81923d",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 96.6,
-      "story_size": 1
-    },
-    {
-      "title": "स्थानीय तहबाटै स्वास्थ्य बीमामा सामूहिक आबद्धता र नवीकरण गर्न सकिने",
-      "link": "https://www.onlinekhabar.com/2026/11/2050986/group-affiliation-and-renewal-of-health-insurance-can-be-done-at-the-local-level",
-      "description": "बोर्डले एचआईबी ई–पोर्टलमार्फत प्रदेश तथा स्थानीय तहका लागि डिजिटल सामूहिक आबद्धता र नवीकरण सेवा सञ्चालनमा ल्याएको हो ।",
-      "published": "2026-11-04T11:21:53+00:00",
-      "source": "OnlineKhabar",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "36cd3d539a77bc63",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 96.1,
-      "story_size": 1
-    },
-    {
-      "title": "आकाशमा चील देख्दा किन डराउँथे पुर्खा ? मानिसका बच्चासमेत शिकार बन्ने त्यो समय",
-      "link": "https://www.onlinekhabar.com/2026/11/2050969/why-were-our-ancestors-afraid-when-they-saw-an-eagle-in-the-sky-that-time-when-even-human-children-became-prey",
-      "description": "करिब २८ लाख वर्षअघि दक्षिण अफ्रिकाको घाँसे मैदानमा तीन वर्षजतिको एउटा बालक घुमिरहेको थियो । ऊ ‘अस्ट्रेलोपिथेकस अफ्रिकानस’ प्रजातिको थियो । दाँतसमेत भर्खर पलाउँदै गरेका ती बालक खेलिरहेको समयमा माथि आकाशबाट आएको एउटा विशाल शिकारी पन्छीले झम्टियो र मार्‍यो । त्यो बालकलाई कुन पन्छीले शिकार बनाएको थियो भन्ने यकिन छैन । तर उसको आँखामुनि भेटिएका [&#8230;]",
-      "published": "2026-11-04T11:20:53+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "c6e93926b182741f",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 96.0,
-      "story_size": 1
-    },
-    {
-      "title": "नयाँ आईजीपी नियुक्तिबारे ‌‌ओलीको टिप्पणी- अह्राएको काम गर्छन् भनेर बनाएको होला",
-      "link": "https://www.onlinekhabar.com/2026/11/2050981/olis-comments-on-the-appointment-of-new-igps-they-were-probably-made-to-do-the-job-they-were-qualified-for",
-      "description": "बुधबार पार्टी कार्यालयमा पत्रकारहरूले सोधेको प्रश्नमा ओलीले भने- 'उहाँहरूले अर्‍हाएको काम गर्छन् भनेर बनाएको होला ।'",
-      "published": "2026-11-04T11:17:06+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "335078444e1f6bb8",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 95.8,
+      "score": 71.8,
       "story_size": 1
     },
     {
@@ -2240,187 +2303,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.2,
-      "story_size": 1
-    },
-    {
-      "title": "मेरो सम्पत्ति छानबिन होस्, गल्ती देखिए विपक्षीको घरमा भाँडा माझ्न तयार छु : राजेन्द्र लिङ्देन",
-      "link": "https://www.onlinekhabar.com/2026/11/2050976/let-my-assets-be-investigated-i-am-ready-to-clean-the-dishes-at-the-opponents-house-if-any-mistakes-are-found-rajendra-lingden",
-      "description": "‘नेताहरूको सम्पत्ति छानबिन हुनुपर्छ भन्ने आवाज संसद्देखि निरन्तर उठाउँदै आएको छु । सबैभन्दा पहिले आफ्नै र राष्ट्रिय प्रजातन्त्र पार्टीका अध्यक्षको सम्पत्ति छानबिन गर्नुपर्छ भन्ने मेरो माग आज पनि कायम छ । छानबिनबाट भ्रष्टाचार प्रमाणित भए जुनसुकै सजाय भोग्न तयार छु,’ उनले भने, ‘",
-      "published": "2026-11-04T11:05:36+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "9c7223d168ed1801",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 95.0,
-      "story_size": 1
-    },
-    {
-      "title": "प्रधानमन्त्रीको भारत भ्रमणमा हुनुपर्ने पहलबारे छलफल गर्न उत्सुक छु : मिश्री",
-      "link": "https://www.onlinekhabar.com/2026/11/2050970/i-am-eager-to-discuss-initiatives-to-be-taken-during-the-prime-ministers-visit-to-india-mishri",
-      "description": "१८ कात्तिक, काठमाडौं । भारतीय विदेश सचिव विक्रम मिश्रीले भोटेकोशी बाढीबाट क्षतिग्रस्त नेपालको पूर्वाधार पुनर्निर्माण तथा पुनःस्थापनाका लागि सहयोग गर्न भारत तयार रहेको बताएका छन् । बुधबार नेपालको भ्रमणका क्रममा परराष्ट्र सचिव अमृतबहादुर राईसहितको नेपाली प्रतिनिधिमण्डलसँगको छलफलमा उनले बाढीबाट नेपालका पूर्वाधारमा ठूलो क्षति पुगेको उल्लेख गर्दै पुनर्निर्माणका लागि भारत सहयोग गर्न इच्छुक रहेको बताएका हुन् [&#8230;]",
-      "published": "2026-11-04T10:54:52+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "b0379e65140d0f4c",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 94.3,
-      "story_size": 1
-    },
-    {
-      "title": "सुदूरपश्चिममा तत्काल प्रदेश सभाको बैठक बोलाउन कांग्रेसको माग",
-      "link": "https://www.onlinekhabar.com/2026/11/2050966/nepali-congress-demands-immediate-provincial-assembly-meeting-in-sudurpaschim",
-      "description": "कांग्रेस संसदीय दलका नेता कमलबहादुर शाहको अध्यक्षतामा बसेको बैठकले प्रदेश सभाको बैठक तत्काल बोलाउन सभामुखलाई अनुरोध गर्न निर्णय गरेको हो ।",
-      "published": "2026-11-04T10:46:07+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "002021db27b315e5",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 93.7,
-      "story_size": 1
-    },
-    {
-      "title": "१ करोडसम्मका देवानी विवादमा अदालत जानुअघि मेलमिलापको प्रस्ताव",
-      "link": "https://www.onlinekhabar.com/2026/11/2050958/proposal-for-mediation-before-going-to-court-in-civil-disputes-up-to-rs-10-million",
-      "description": "उनका अनुसार सबै विवाद त्यसरी जान सक्दैनन् । तर देवानी प्रकृतिका एक करोडसम्म बिगो भएका मुद्दामा अदालतमा आउनुभन्दा अगाडि आफ्नै पालिका, आफ्नै वडामा विवाद समाधानको प्रयास गर्न सकिन्छ ।",
-      "published": "2026-11-04T10:45:49+00:00",
-      "source": "OnlineKhabar",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "3c45fe46abeb9615",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 93.7,
-      "story_size": 1
-    },
-    {
-      "title": "के कम वीर्य निस्कँदैमा शुक्रकीट पनि कम हुन्छन् ?",
-      "link": "https://www.onlinekhabar.com/2026/11/2050862/does-low-ejaculation-also-mean-low-sperm-count",
-      "description": "पुरुषको प्रजनन क्षमताबारे कुरा गर्दा वीर्य र शुक्रकीटलाई प्रायः एउटै अर्थमा बुझ्ने गरिन्छ । कतिपय पुरुषलाई वीर्य कम निस्किएमा शुक्रकीटको संख्या पनि कम हुन्छ भन्ने लाग्न सक्छ । तर यी दुई फरक कुरा हुन् । वीर्यको मात्रा सामान्य भए पनि शुक्रकीटको संख्या कम हुन सक्छ । त्यस्तै, वीर्य कम निस्किँदैमा शुक्रकीटको संख्या पनि कम छ [&#8230;]",
-      "published": "2026-11-04T10:42:17+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "a0c254c2267589ee",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 93.5,
-      "story_size": 1
-    },
-    {
-      "title": "अर्थमन्त्री वाग्ले र भारतीय विदेश सचिव मिश्रीबीच भेट",
-      "link": "https://www.onlinekhabar.com/2026/11/2050960/finance-minister-wagle-meets-with-indian-foreign-secretary-mishri",
-      "description": "१८ कात्तिक, काठमाडौं । अर्थमन्त्री डा.स्वर्णिम वाग्ले र नेपाल भ्रमणमा रहेका भारतका विदेश सचिव विक्रम मिश्रीबीच शिष्टाचार भेटवार्ता भएको छ । अर्थमन्त्री डा.वाग्ले र विदेश सचिव मिश्री बीच आज अर्थ मन्त्रालयमा भेटवार्ता भएको हो । भेटमा उनीहरूले दुई देशबीच आर्थिक सहकार्यका विभित्र विषयमा छलफल भएको सचिवालयले जनाएको छ । सो क्रममा अर्थसचिव डा.घनश्याम उपाध्यायसहित परराष्ट्र [&#8230;]",
-      "published": "2026-11-04T10:35:54+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "72ed79581290714d",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 93.0,
-      "story_size": 1
-    },
-    {
-      "title": "आईजीपी हटाएकोबारे रास्वपा प्रवक्ताले भने- पार्टीले सरकारलाई कुनै व्यक्ति राख वा हटाऊ भनेको छैन",
-      "link": "https://www.onlinekhabar.com/2026/11/2050938/regarding-the-removal-of-the-igp-the-rsp-spokesperson-said-the-party-has-not-asked-the-government-to-retain-or-remove-any-person",
-      "description": "सत्तारुढ दल रास्वपाका प्रवक्ता जगदीश खरेलले सरकारलाई कुनै व्यक्ति हटाउ वा राख भनेर कुनै निर्देशन दिएको बताएका छ । सरकारका प्रवक्ता सस्मित पोखरेलले आइजीपी दानबहादुर कार्कीलाई पार्टीको निर्देशन अनुसार पनि जिम्मेवारी फेरिएको बताएका थिए ।",
-      "published": "2026-11-04T10:25:34+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "cf5e9725b7842d21",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 92.3,
-      "story_size": 1
-    },
-    {
-      "title": "डा. गोविन्द केसीसँग वार्ता गर्न सरकारद्वारा चार सदस्यीय समिति गठन",
-      "link": "https://www.onlinekhabar.com/2026/11/2050948/government-forms-four-member-committee-to-hold-talks-with-dr-govinda-kc",
-      "description": "चिकित्सा शिक्षा सुधारका अभियन्ता प्राडा. गोविन्द केसीसँग वार्ता गर्न सरकारले चार सदस्यीय समिति गठन गरेको छ ।",
-      "published": "2026-11-04T10:23:42+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "94f8e116676c63f5",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 92.2,
-      "story_size": 1
-    },
-    {
-      "title": "८ हजार मिटरभन्दा अग्ला थप ६ हिमाललाई अन्तर्राष्ट्रिय मान्यता दिलाउन नेपालको पहल",
-      "link": "https://nepalsamaya.com/detail/147568",
-      "description": "",
-      "published": "2026-11-04T14:04:00+05:45",
-      "source": "Nepal Samaya",
-      "category": "world",
-      "image": "https://nepalsamaya.com/uploads/posts/himal546-1793776848.jpg",
-      "related_sources": [
-        "Nepal Samaya"
-      ],
-      "id": "91435f858194d7e8",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 86.9,
-      "story_size": 1
-    },
-    {
-      "title": "अमेरिकाको दुवै सदनमा रिपब्लिकनले बहुमत गुमायो, संकटमा ट्रम्प",
-      "link": "https://nepalsamaya.com/detail/147566",
-      "description": "",
-      "published": "2026-11-04T13:33:00+05:45",
-      "source": "Nepal Samaya",
-      "category": "world",
-      "image": "https://nepalsamaya.com/uploads/posts/Trump_51793771480-1793776148.jpg",
-      "related_sources": [
-        "Nepal Samaya"
-      ],
-      "id": "6016c6dbce3b0b94",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 84.8,
+      "score": 69.8,
       "story_size": 1
     },
     {
@@ -2438,25 +2321,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.3,
-      "story_size": 1
-    },
-    {
-      "title": "चितवनमा बाघको आक्रमणबाट एक जनाको मृत्यु, आक्रमण गर्ने बाघ नियन्त्रणमा",
-      "link": "https://nepalsamaya.com/detail/147569",
-      "description": "",
-      "published": "2026-11-04T13:14:15+05:45",
-      "source": "Nepal Samaya",
-      "category": "nepal",
-      "image": "https://nepalsamaya.com/uploads/posts/Tiger1793776477-1793777336.jpg",
-      "related_sources": [
-        "Nepal Samaya"
-      ],
-      "id": "3e07168f9be920c4",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 83.6,
+      "score": 58.9,
       "story_size": 1
     },
     {
@@ -2474,7 +2339,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.1,
+      "score": 57.8,
       "story_size": 1
     },
     {
@@ -2492,7 +2357,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 59.7,
+      "score": 34.3,
       "story_size": 1
     },
     {
