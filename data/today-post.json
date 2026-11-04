@@ -1,157 +1,163 @@
 {
   "date_np": "2026-11-04",
-  "generated_at": "2026-11-04T00:10:04.474814+00:00",
+  "generated_at": "2026-11-04T06:30:24.236944+00:00",
   "items": [
     {
-      "title": "पार गर्न छिटो, टोल तिर्न सास्ती",
-      "link": "https://gorkhapatraonline.com/news/228210",
-      "description": "काठमाडौँ, कात्तिक १८ गते । सडक उपयोग दस्तुर सङ्कलनका लागि ‘रेडियो आवृत्ति पहिचान’ (रेडियो फ्रिक्वेन्सी आइडेन्टिफिकेसन, आरएफआइडी) प्रविधि कार्यान्वयनमा आउन नसकेपछि मुलुककै पहिलो अत्...",
-      "published": "2026-11-04T05:43:48+05:45",
-      "source": "Gorkhapatra Online",
+      "title": "राष्ट्रपति पौडेलद्वारा दक्षिणकाली मन्दिरमा पूजाअर्चना",
+      "link": "https://www.ratopati.com/story/603260/president-poudel-offers-prayers-at-dakshinkali-temple",
+      "description": "काठमाडौँ । राष्ट्रपति रामचन्द्र पौडेलले आज बिहान प्रसिद्ध धार्मिकस्थल दक्षिणकाली मन्दिरमा पूजाअर्चना गरेका छन् । राष्ट्रपति पौडेलले दक्षिणकाली मन्दिरको दर्शन गरी पूजाअर्चना गरेर पुजारीबाट टीकाप्रसाद ग्रहण गरेका छन् । राष्ट्रपति पौडेलसहित प्रथम महिला सविता पौडेललाई मन्दिर",
+      "published": "2026-11-04T06:00:37+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/LUWW3ZmLg1.jpg",
+      "related_sources": [
+        "Ratopati",
+        "Kendrabindu",
+        "Gorkhapatra Online"
+      ],
+      "id": "f0e683842a5fcbe7",
+      "source_count": 3,
+      "verified": true,
+      "local": false,
+      "score": 145.0,
+      "story_size": 3,
+      "image_local": "images/news_2e0b1c294844a6ede958.jpg"
+    },
+    {
+      "title": "उत्तर कोरियाद्वारा क्षेप्यास्त्र प्रक्षेपण",
+      "link": "https://www.ratopati.com/story/603262/north-korea-launches-missile",
+      "description": "सियोल । उत्तर कोरियाले बुधबार आफ्नो पूर्वी तटबाट समुद्रतर्फ अज्ञात क्षेप्यास्त्र प्रक्षेपण गरेको दक्षिण कोरियाली सेनाले जनाएको छ । अमेरिकासँगको सम्भावित कूटनीतिक संवाद र ह्याकिङसम्बन्धी आरोपबीच प्योङयाङले हतियार परीक्षणलाई निरन्तरता दिएको हो । अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले",
+      "published": "2026-11-04T06:04:28+00:00",
+      "source": "Ratopati",
       "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/390293/conversions/Naagdhunga-Tunnel_DSC629-original.jpg",
+      "image": "https://npcdn.ratopati.com/media/news/Ori3BOhb8K.jpg",
+      "related_sources": [
+        "Ratopati",
+        "Kendrabindu"
+      ],
+      "id": "bac757eeab12207d",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 135.3,
+      "story_size": 2,
+      "image_local": "images/news_95516542cc40611cb01e.jpg"
+    },
+    {
+      "title": "जलजलाका विपद् प्रभावित क्षेत्रको भौगर्भिक अध्ययन",
+      "link": "https://gorkhapatraonline.com/news/228264",
+      "description": "म्याग्दी, कात्तिक १८ गते । पछिल्लो मनसुनजन्य विपद् बाट प्रभावित बनेको म्याग्दीको सदरमुकाम बेनी बजारसँगै रहेको पर्वतको जलजला गाउँपालिकामा पहिरोग्रस्त क्षेत्रको भौगर्भिक अध्ययन गरिएक...",
+      "published": "2026-11-04T11:42:20+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "society",
+      "image": "https://gorkhapatraonline.com/storage/media/390364/conversions/Jaljala-Jeayological-Servay-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online",
+        "OnlineKhabar"
+      ],
+      "id": "4710fa660bf3723e",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 134.8,
+      "story_size": 2,
+      "image_local": "images/news_372ccdd63dca934330e9.jpg"
+    },
+    {
+      "title": "बझाङमा जीप दुर्घटना: दुई जनाको मृत्यु, ६ जना गम्भीर घाइते",
+      "link": "https://nepalsamaya.com/detail/147562",
+      "description": "",
+      "published": "2026-11-04T11:40:49+05:45",
+      "source": "Nepal Samaya",
+      "category": "society",
+      "image": "https://nepalsamaya.com/uploads/posts/Bajhang1793770739-1793771734.jpg",
+      "related_sources": [
+        "Nepal Samaya",
+        "Kendrabindu"
+      ],
+      "id": "93d0a3ce9e64fafb",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 134.7,
+      "story_size": 2,
+      "image_local": "images/news_209400128d947d3674af.jpg"
+    },
+    {
+      "title": "उदयपुर कारागारमा क्षमताभन्दा चार गुणा बढी कैदीबन्दी",
+      "link": "https://kendrabindu.com/news/569025/",
+      "description": "उदयपुर । उदयपुर कारागारमा क्षमताभन्दा झन्डै चार गुणा बढी कैदीबन्दी राखिँदा उनीहरूको दैनिक जीवन कष्टकर बनेको छ । साठ्ठी जनाको क्षमता रहेको चार दशक पुरानो जीर्ण भवनमा हाल २३२ कैदीबन्दी कोचिएर बस्न बाध्य छन् । कारागार प्रशासक बैकुण्ठराज रेग्मीका अनुसार कारागारमा २१८ पुरुष र १४ महिला कैदीबन्दी छन् । क्षमताभन्दा अत्यधिक सङ्ख्यामा कैदीबन्दी राख्नुपर्दा खाने, [&#8230;]",
+      "published": "2026-11-04T05:57:06+00:00",
+      "source": "Kendrabindu",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu",
+        "Ratopati"
+      ],
+      "id": "144b87841dd14011",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 131.8,
+      "story_size": 2
+    },
+    {
+      "title": "मध्यावधि निर्वाचनमा इरान युद्धको पनि प्रभाव परेको ट्रम्पको स्वीकारोक्ति",
+      "link": "https://www.ratopati.com/story/603269/trump-admits-iran-war-had-an-impact-on-midterm-elections",
+      "description": "अमेरिका । अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले मध्यावधि निर्वाचनमा रिपब्लिकन पार्टीले व्यहोरेको हारमा इरानसँगको युद्ध र त्यसका कारण बढेको इन्धनको मूल्यले पनि भूमिका खेलेको स्वीकार गरेका छन् । फक्स न्युजसँगको अन्तर्वार्तामा ट्रम्पले इरानका केही क्षेत्रमा अमेरिकी आक्रमणको",
+      "published": "2026-11-04T06:28:25+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/donald-trump_b38Op3spB6.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "dde1e20af5322380",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.9,
+      "story_size": 1,
+      "image_local": "images/news_ddf95e3e6fc5a14b0db2.webp"
+    },
+    {
+      "title": "कानुनको शासन र नैतिक आचरण सुशासनका आधार हुन्ः राष्ट्रपति पौडेल",
+      "link": "https://gorkhapatraonline.com/news/228267",
+      "description": "काठमाडौँ, कात्तिक १८ गते । राष्ट्रपति रामचन्द्र पौडेलले सार्वजनिक स्रोतसाधनको सदुपयोग, भ्रष्टाचारप्रति शून्य सहनशीलता, कानुनको शासन र नैतिक आचरण सुशासनको आधार भएको बताउनुभएको छ । द...",
+      "published": "2026-11-04T12:13:24+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "politics",
+      "image": "https://gorkhapatraonline.com/storage/media/390367/conversions/1000215576-original.jpg",
       "related_sources": [
         "Gorkhapatra Online"
       ],
-      "id": "bc7a1c2b730ed824",
+      "id": "7beba1c0faa5fd85",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.3,
+      "score": 112.9,
       "story_size": 1,
-      "image_local": "images/news_b7b4aaa1b3ca819c74e6.jpg"
+      "image_local": "images/news_c4615e2476faa2fa467e.jpg"
     },
     {
-      "title": "च्याउ खेतीले देखाएको आत्मनिर्भरताको बाटो",
-      "link": "https://www.ratopati.com/story/603213/the-path-to-self-reliance-shown-by-mushroom-farming",
-      "description": "कञ्चनपुर । कञ्चनपुरको भीमदत्त नगरपालिका–६ वनगाउँका एकल महिला पार्वती थापा व्यावसायिक च्याउ खेतीबाट आत्मनिर्भर बनेकी छन् । विसं २०६९ मा श्रीमान् गुमाएपछि उनले आत्मनिर्भर बन्न च्याउ खेती सुरु गरिन् । सात वर्षअघि सामान्य जानकारीका आधारमा च्याउ",
-      "published": "2026-11-03T23:54:39+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/VvX8KwNb4v.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "b2b0bc0cabe8b805",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 112.0,
-      "story_size": 1,
-      "image_local": "images/news_f5c56532d51b2eb0290d.jpg"
-    },
-    {
-      "title": "वन क्षेत्रका कारण मुन्दुम पदमार्गमा घरबास निर्माणमा समस्या",
-      "link": "https://www.ratopati.com/story/603212/problems-in-housing-construction-on-mundum-trekking-route-due-to-forest-area",
-      "description": "भोजपुर । मुन्दुम पदमार्ग क्षेत्रमा पर्यटकको बसाइ सहज बनाउन आवश्यक घरबास (होमस्टे) तथा अन्य पूर्वाधार निर्माणमा वनसम्बन्धी कानुनी व्यवस्थाका कारण समस्या भएको स्थानीय जनप्रतिनिधिले बताएका छन् । पदमार्गको अधिकांश क्षेत्र वनभित्र पर्ने भएकाले पर्यटकको खानपान",
-      "published": "2026-11-03T23:48:39+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/bWKFaJMqYa.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "0c0b0e4427c370b7",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 111.6,
-      "story_size": 1,
-      "image_local": "images/news_6bda441026431ccd92c3.jpg"
-    },
-    {
-      "title": "आजका लागि तोकियो विदेशी मुद्राको विनिमय दर",
-      "link": "https://www.ratopati.com/story/603210/foreign-currency-exchange-rates-set-for-today",
-      "description": "काठमाडौँ । नेपाल राष्ट्र बैङ्कले आजका लागि विदेशी मुद्राको विनिमय दर निर्धारण गरेको छ । राष्ट्र बैङ्कका अनुसार अमेरिकी डलर एकको खरिददर १५१ रुपैयाँ २९ पैसा र बिक्रीदर १५१ रुपैयाँ ८९ पैसा निर्धारण गरिएको छ",
-      "published": "2026-11-03T23:45:00+00:00",
-      "source": "Ratopati",
+      "title": "फूल फुल्यो, आम्दानीको आशा पलायो; तर बजारको भर छैन",
+      "link": "https://www.thahakhabar.com/detail/311387",
+      "description": "",
+      "published": "2026-11-04T12:12:48+05:45",
+      "source": "Thaha Khabar",
       "category": "business",
-      "image": "https://npcdn.ratopati.com/media/news/forex_g5zWyL63Qc.webp",
+      "image": "https://www.thahakhabar.com/uploads/posts/flower-1793773565.png",
       "related_sources": [
-        "Ratopati"
+        "Thaha Khabar"
       ],
-      "id": "51b106344706d553",
+      "id": "ead17c3d903a9231",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.3,
-      "story_size": 1,
-      "image_local": "images/news_f2c6dcc1e8de2c3cb7a1.webp"
-    },
-    {
-      "title": "मनाङ भ्रमणमा भारतीय पर्यटकको आकर्षण बढ्दो",
-      "link": "https://www.ratopati.com/story/603205/indian-tourists-attraction-to-manang-is-increasing",
-      "description": "मनाङ । अन्नपूर्ण पदमार्ग तथा मनाङ भ्रमणमा भारतीय पर्यटकको आकर्षण बढ्दै गएको छ । सन् २०२६ को अक्टोबरसम्म पाँच हजार ४९ भारतीय पर्यटकले भ्रमण गरेका छन् । अन्नपूर्ण संरक्षण आयोजना एकाइ मनाङका प्रमुख ढकबहादुर भुजेलले अक्टोबरसम्म",
-      "published": "2026-11-03T23:30:00+00:00",
-      "source": "Ratopati",
-      "category": "business",
-      "image": "https://npcdn.ratopati.com/media/news/tourist-manag_bOMAhx41Tw.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "3d723075bddd13e4",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 110.3,
-      "story_size": 1,
-      "image_local": "images/news_437784fbe287ae388155.jpg"
-    },
-    {
-      "title": "विशेष गाउँसभाबाट थप बजेट विनियोजन",
-      "link": "https://www.ratopati.com/story/603208/additional-budget-allocation-from-special-village-assembly",
-      "description": "म्याग्दी । धवलागिरि गाउँपालिकाको मङ्गलबार मुनामा सम्पन्न २७औँ विशेष गाउँसभाले चालु आर्थिक वर्ष २०८३/८४ को बजेट संशोधन गरेको छ । सभाले पुँजीगत शीर्षकमा विभिन्न योजनाका लागि थप बजेट विनियोजन गर्दै चालु आर्थिक वर्षको कुल बजेटको आकार",
-      "published": "2026-11-03T23:23:22+00:00",
-      "source": "Ratopati",
-      "category": "business",
-      "image": "https://npcdn.ratopati.com/media/news/dhaulagiri-gaupalika-2_fyCQqTPOmD.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "0fb533712fb04c1b",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.9,
-      "story_size": 1,
-      "image_local": "images/news_42e757a9bba9867191e2.jpg"
-    },
-    {
-      "title": "‘जलवायु परिवर्तनको असर न्यूनीकरण, विपद् व्यवस्थापन क्षेत्रमा अर्थपूर्ण युवा सहभागिता चाहिन्छ’",
-      "link": "https://khabarhub.com/2026/04/1044227/",
-      "description": "मैले युवा र क्लाइमेट चेन्जमा आजसम्म बोलेको छैन, पहिलो पटक बोल्दै छु । जलवायु परिवर्तन र वातावरण सुरक्षाका क्षेत्रमा लामो समयदेखि प्राध्यापन र अनुसन्धान गर्दै आएको छु। काठमाडौँ विश्वविद्यालयमा विगत १५ वर्षदेखि जलवायु परिवर्तन, विपद् जोखिम व्यवस्थापन र विकास अध्ययन पढाउँदै गर्दा तथा देशका विभिन्न सहरहरू घुम्दा हाम्रा सहरी संरचना र विकासका ढाँचाहरूमा गम्भीर प्रश्नहरू [&#8230;]",
-      "published": "2026-11-04T00:04:08+00:00",
-      "source": "Khabarhub",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "9092640f9aef0bbe",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.6,
-      "story_size": 1
-    },
-    {
-      "title": "बुधबारका लागि तोकियो विदेशी मुद्राको विनिमयदर",
-      "link": "https://khabarhub.com/2026/04/1044264/",
-      "description": "काठमाडौँ– नेपाल राष्ट्र बैङ्कले आजका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैङ्कका अनुसार अमेरिकी डलर एकको खरिददर १५१ रुपैयाँ २९ पैसा र बिक्रीदर १५१ रुपैयाँ ८९ पैसा निर्धारण गरिएको छ । युरोपियन युरो एकको खरिददर १६९ रुपैयाँ १९ पैसा र बिक्रीदर १६९ रुपैयाँ ८६ पैसा, युके पाउन्ड स्ट्रलिङ एकको खरिददर २०२ रुपैयाँ [&#8230;]",
-      "published": "2026-11-04T00:01:17+00:00",
-      "source": "Khabarhub",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "01979392c92d702d",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.4,
+      "score": 112.9,
       "story_size": 1
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. पार गर्न छिटो, टोल तिर्न सास्ती\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/228210\n\n2. च्याउ खेतीले देखाएको आत्मनिर्भरताको बाटो\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/603213/the-path-to-self-reliance-shown-by-mushroom-farming\n\n3. वन क्षेत्रका कारण मुन्दुम पदमार्गमा घरबास निर्माणमा समस्या\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/603212/problems-in-housing-construction-on-mundum-trekking-route-due-to-forest-area\n\n4. आजका लागि तोकियो विदेशी मुद्राको विनिमय दर\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/603210/foreign-currency-exchange-rates-set-for-today\n\n5. मनाङ भ्रमणमा भारतीय पर्यटकको आकर्षण बढ्दो\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/603205/indian-tourists-attraction-to-manang-is-increasing\n\n6. विशेष गाउँसभाबाट थप बजेट विनियोजन\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/603208/additional-budget-allocation-from-special-village-assembly\n\n7. ‘जलवायु परिवर्तनको असर न्यूनीकरण, विपद् व्यवस्थापन क्षेत्रमा अर्थपूर्ण युवा सहभागिता चाहिन्छ’\nस्रोत: Khabarhub\nhttps://khabarhub.com/2026/04/1044227/\n\n8. बुधबारका लागि तोकियो विदेशी मुद्राको विनिमयदर\nस्रोत: Khabarhub\nhttps://khabarhub.com/2026/04/1044264/\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. राष्ट्रपति पौडेलद्वारा दक्षिणकाली मन्दिरमा पूजाअर्चना\nस्रोत: Ratopati, Kendrabindu, Gorkhapatra Online\nhttps://www.ratopati.com/story/603260/president-poudel-offers-prayers-at-dakshinkali-temple\n\n2. उत्तर कोरियाद्वारा क्षेप्यास्त्र प्रक्षेपण\nस्रोत: Ratopati, Kendrabindu\nhttps://www.ratopati.com/story/603262/north-korea-launches-missile\n\n3. जलजलाका विपद् प्रभावित क्षेत्रको भौगर्भिक अध्ययन\nस्रोत: Gorkhapatra Online, OnlineKhabar\nhttps://gorkhapatraonline.com/news/228264\n\n4. बझाङमा जीप दुर्घटना: दुई जनाको मृत्यु, ६ जना गम्भीर घाइते\nस्रोत: Nepal Samaya, Kendrabindu\nhttps://nepalsamaya.com/detail/147562\n\n5. उदयपुर कारागारमा क्षमताभन्दा चार गुणा बढी कैदीबन्दी\nस्रोत: Kendrabindu, Ratopati\nhttps://kendrabindu.com/news/569025/\n\n6. मध्यावधि निर्वाचनमा इरान युद्धको पनि प्रभाव परेको ट्रम्पको स्वीकारोक्ति\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/603269/trump-admits-iran-war-had-an-impact-on-midterm-elections\n\n7. कानुनको शासन र नैतिक आचरण सुशासनका आधार हुन्ः राष्ट्रपति पौडेल\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/228267\n\n8. फूल फुल्यो, आम्दानीको आशा पलायो; तर बजारको भर छैन\nस्रोत: Thaha Khabar\nhttps://www.thahakhabar.com/detail/311387\n\n— I Am From Hetauda"
 }
