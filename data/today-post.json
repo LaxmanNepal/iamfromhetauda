@@ -1,165 +1,45 @@
 {
-  "date_np": "2026-11-06",
-  "generated_at": "2026-11-06T17:42:00.551474+00:00",
+  "date_np": "2026-11-07",
+  "generated_at": "2026-11-06T22:25:19.111824+00:00",
   "items": [
     {
-      "title": "तिहार बिदामा निगमको डिपो खुला रहने",
-      "link": "https://baahrakhari.com/detail/506816",
-      "description": "",
-      "published": "2026-11-06T23:13:05+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari",
-        "Khabarhub",
-        "OnlineKhabar",
-        "Kendrabindu"
-      ],
-      "id": "277bd66df0e957e5",
-      "source_count": 4,
-      "verified": true,
-      "local": false,
-      "score": 153.1,
-      "story_size": 4
-    },
-    {
-      "title": "लगानी तथा पूर्वाधारसम्बन्धी कानुन संशोधनबारे निजी क्षेत्रसँग छलफल",
-      "link": "https://www.thahakhabar.com/detail/311561",
-      "description": "",
-      "published": "2026-11-06T22:28:22+05:45",
-      "source": "Thaha Khabar",
-      "category": "business",
-      "image": "https://www.thahakhabar.com/uploads/posts/chalphal-1793983396.jpg",
-      "related_sources": [
-        "Thaha Khabar",
-        "OnlineKhabar"
-      ],
-      "id": "b0351233e9bfc5a6",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 133.1,
-      "story_size": 2,
-      "image_local": "images/news_46d1624b32a0df89cad4.jpg"
-    },
-    {
-      "title": "न्यायाधीश नियुक्तिमा ‘करियर जज’लाई प्राथमिकता दिनुपर्छ : वर्षमान पुन",
-      "link": "https://baahrakhari.com/detail/506815",
-      "description": "",
-      "published": "2026-11-06T22:57:40+05:45",
-      "source": "Baahrakhari",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari",
-        "OnlineKhabar"
-      ],
-      "id": "65cbae72a6913242",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 132.1,
-      "story_size": 2
-    },
-    {
-      "title": "सुदूरपश्चिम दोस्रो र चितवन तेस्रो स्थानमा उक्लिए, पोखराको लगातार चौथो हार",
-      "link": "https://www.ratopati.com/story/603841/npl-sudurpaschim-moves-up-to-second-and-chitwan-to-third-place-pokharas-fourth-consecutive-loss",
-      "description": "काठमाडौँ। नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करणअन्तर्गत शुक्रबार भएका दुई खेलमा सुदूरपश्चिम रोयल्स र चितवन राइनोजले जित निकालेका छन् । पहिलो खेलमा सुदूरपश्चिमले कर्णाली याक्सलाई ३९ रनले पराजित गर्दा दोस्रो खेलमा चितवनले पोखरा एभेन्जर्सलाई",
-      "published": "2026-11-06T15:56:59+00:00",
+      "title": "घरेलु मदिराको बिक्री वितरणमा संलग्न नहुन अनुरोध",
+      "link": "https://www.ratopati.com/story/603853/request-not-to-engage-in-the-sale-and-distribution-of-domestic-liquor",
+      "description": "पर्सा । प्रहरीले अवैध घरेलु मदिरा उत्पादन गर्ने भट्टी नष्ट गरेको छ । वीरगन्ज महानगरपालिका–१५ भिष्वाडाँडामा सञ्चालित अवैध घरेलु मदिरा उत्पादन गर्ने भट्टी आज नष्ट गरिएको हो । जिल्ला प्रहरी कार्यालयबाट खटिएको प्रहरी टोलीले मदिरा बनाउने",
+      "published": "2026-11-06T18:30:00+00:00",
       "source": "Ratopati",
       "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/npllll_cRIY11GJtc.webp",
-      "related_sources": [
-        "Ratopati",
-        "OnlineKhabar"
-      ],
-      "id": "7b45eefafca96b80",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 130.0,
-      "story_size": 2,
-      "image_local": "images/news_ef206fad65e2c6e068f8.webp"
-    },
-    {
-      "title": "बूढानीलकण्ठमा कृषक सम्मेलन सुरु",
-      "link": "https://www.thahakhabar.com/detail/311559",
-      "description": "नगरप्रमुख अधिकारीले नगरपालिकाभित्र उत्पादित स्थानीय तथा रैथाने कृषि र पशुजन्य उत्पादनको प्रवर्द्धन गर्ने उद्देश्यले कृषक सम्मेलन तथा प्रदर्शनी आयोजना गरिएको बताए।",
-      "published": "2026-11-06T21:39:16+05:45",
-      "source": "Thaha Khabar",
-      "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/krishi-1793980426.jpg",
-      "related_sources": [
-        "Thaha Khabar",
-        "Ratopati"
-      ],
-      "id": "415ae97861cf0918",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 129.8,
-      "story_size": 2,
-      "image_local": "images/news_739b6db2be41aad216c6.jpg"
-    },
-    {
-      "title": "चाडपर्वको समयमा अवाञ्छित गतिविधि हुन नदिन थप क्रियाशील हुनुपर्छ : प्रहरी महानिरीक्षक केसी",
-      "link": "https://khabarhub.com/2026/06/1045600/",
-      "description": "काठमाडौं – प्रहरी महानिरीक्षक डा मनोजकुमार केसीले तिहार, छठलगायत चाडपर्वहरूको समयमा कुनै पनि अवाञ्छित गतिविधि हुन नदिन चाडपर्व लक्षित विशेष सुरक्षा योजना अवलम्बन गर्दै प्रहरी कर्मचारी थप क्रियाशील हुनुपर्ने बताएका छन् । नेपाल प्रहरी प्रधान कार्यालयबाट भर्चुअल माध्यमद्वारा दीपावली, नेपाल संवत्, छठलगायत पर्वको समयमा अपनाउनुपर्ने सुरक्षा संवेदनशीलता एवं समसामयिक विषयवस्तुका सम्बन्धमा आज प्रहरी कर्मचारीलाई निर्देशन [&#8230;]",
-      "published": "2026-11-06T16:20:28+00:00",
-      "source": "Khabarhub",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
-        "Ratopati"
-      ],
-      "id": "e691424233b97019",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 128.6,
-      "story_size": 2
-    },
-    {
-      "title": "भोटेकोशी बाढीपीडितलाई सहयोग गर्न रेडक्रस र गोसाइँकुण्ड गाउँपालिकाबीच सम्झौता",
-      "link": "https://www.thahakhabar.com/detail/311558",
-      "description": "",
-      "published": "2026-11-06T21:14:00+05:45",
-      "source": "Thaha Khabar",
-      "category": "tech",
-      "image": "https://www.thahakhabar.com/uploads/posts/trisuli-badhi-1787982910.png",
-      "related_sources": [
-        "Thaha Khabar",
-        "Khabarhub"
-      ],
-      "id": "3e629ba6fca3527f",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 128.2,
-      "story_size": 2,
-      "image_local": "images/news_cbea15c103fdf2cb9552.png"
-    },
-    {
-      "title": "हिउँदे बाली र बाढी प्रभावित क्षेत्रका लागि १ हजार ५०० मेट्रिक टन रासायनिक मल उपलब्ध गराइने",
-      "link": "https://www.ratopati.com/story/603848/1500-metric-tons-of-chemical-fertilizer-will-be-provided-for-winter-crops-and-flood-affected-areas",
-      "description": "काठमाडौँ । बागमती प्रदेशमा हिउँदे बाली लगाउने किसान तथा बाढी प्रभावित क्षेत्रका कृषकलाई लक्षित गरी १ हजार ५०० मेट्रिक टन रासायनिक मल उपलब्ध गराइने भएको छ। रासायनिक मल आपूर्ति तथा वितरण व्यवस्थापन समितिको मिति बिहीबार(कात्तिक १९)",
-      "published": "2026-11-06T16:34:00+00:00",
-      "source": "Ratopati",
-      "category": "society",
-      "image": "https://rpcdn.ratopati.com/media/albums/urea-mal_ETxzwSAXcY.jpg",
+      "image": "https://npcdn.ratopati.com/media/news/parsa-district-map_0ZIfD6x5iq.jpg",
       "related_sources": [
         "Ratopati"
       ],
-      "id": "653a6d9b529c3256",
+      "id": "f7f6d0a55595ba75",
       "source_count": 1,
       "verified": false,
-      "local": true,
-      "score": 126.5,
+      "local": false,
+      "score": 97.3,
       "story_size": 1,
-      "image_local": "images/news_118dbd71addf95ff8f78.jpg"
+      "image_local": "images/news_3d09985f46097fe41b26.jpg"
+    },
+    {
+      "title": "१२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार",
+      "link": "https://www.ratopati.com/story/603852/12-news-at-12-these-are-todays-top-news-stories",
+      "description": "काठमाडौँ । आज दिनभरका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति रातोपाटी ब्रिफिङमा १२ बजे १२ समाचार लिएर आएका छौँ- १. सरकारको माइण्ड गेम पछिल्लो ४८ घण्टामा सिंहदरबारदेखि सानेपासम्म राजनीतिक तापक्रम ह्वात्तै बढ्यो । त्यसको केन्द्रमा एउटा विवादास्पद अडियो",
+      "published": "2026-11-06T18:15:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/12-am-final_viqawbfig2_epxbu1cpos_Fcr2kOI51t.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "f1479c500482354e",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 96.3,
+      "story_size": 1,
+      "image_local": "images/news_b7c1d13d7978a1a639a3.jpg"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. तिहार बिदामा निगमको डिपो खुला रहने\nस्रोत: Baahrakhari, Khabarhub, OnlineKhabar\nhttps://baahrakhari.com/detail/506816\n\n2. लगानी तथा पूर्वाधारसम्बन्धी कानुन संशोधनबारे निजी क्षेत्रसँग छलफल\nस्रोत: Thaha Khabar, OnlineKhabar\nhttps://www.thahakhabar.com/detail/311561\n\n3. न्यायाधीश नियुक्तिमा ‘करियर जज’लाई प्राथमिकता दिनुपर्छ : वर्षमान पुन\nस्रोत: Baahrakhari, OnlineKhabar\nhttps://baahrakhari.com/detail/506815\n\n4. सुदूरपश्चिम दोस्रो र चितवन तेस्रो स्थानमा उक्लिए, पोखराको लगातार चौथो हार\nस्रोत: Ratopati, OnlineKhabar\nhttps://www.ratopati.com/story/603841/npl-sudurpaschim-moves-up-to-second-and-chitwan-to-third-place-pokharas-fourth-consecutive-loss\n\n5. बूढानीलकण्ठमा कृषक सम्मेलन सुरु\nस्रोत: Thaha Khabar, Ratopati\nhttps://www.thahakhabar.com/detail/311559\n\n6. चाडपर्वको समयमा अवाञ्छित गतिविधि हुन नदिन थप क्रियाशील हुनुपर्छ : प्रहरी महानिरीक्षक केसी\nस्रोत: Khabarhub, Ratopati\nhttps://khabarhub.com/2026/06/1045600/\n\n7. भोटेकोशी बाढीपीडितलाई सहयोग गर्न रेडक्रस र गोसाइँकुण्ड गाउँपालिकाबीच सम्झौता\nस्रोत: Thaha Khabar, Khabarhub\nhttps://www.thahakhabar.com/detail/311558\n\n8. हिउँदे बाली र बाढी प्रभावित क्षेत्रका लागि १ हजार ५०० मेट्रिक टन रासायनिक मल उपलब्ध गराइने\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/603848/1500-metric-tons-of-chemical-fertilizer-will-be-provided-for-winter-crops-and-flood-affected-areas\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. घरेलु मदिराको बिक्री वितरणमा संलग्न नहुन अनुरोध\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/603853/request-not-to-engage-in-the-sale-and-distribution-of-domestic-liquor\n\n2. १२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/603852/12-news-at-12-these-are-todays-top-news-stories\n\n— I Am From Hetauda"
 }

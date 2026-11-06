@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T17:42:00.548942+00:00",
+  "updated_at": "2026-11-06T22:25:19.109764+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -33,8 +33,27 @@
       "source_count": 4,
       "verified": true,
       "local": false,
-      "score": 153.1,
+      "score": 134.2,
       "story_size": 4
+    },
+    {
+      "title": "काठमाडौं २४ घण्टा खुलाउने तयारी",
+      "link": "https://baahrakhari.com/detail/506817",
+      "description": "",
+      "published": "2026-11-06T23:56:03+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari",
+        "Khabarhub"
+      ],
+      "id": "5ecd75ab10eb145f",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 117.1,
+      "story_size": 2
     },
     {
       "title": "लगानी तथा पूर्वाधारसम्बन्धी कानुन संशोधनबारे निजी क्षेत्रसँग छलफल",
@@ -52,7 +71,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.1,
+      "score": 114.2,
       "story_size": 2,
       "image_local": "images/news_46d1624b32a0df89cad4.jpg"
     },
@@ -72,7 +91,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 132.1,
+      "score": 113.2,
       "story_size": 2
     },
     {
@@ -91,7 +110,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 130.0,
+      "score": 111.1,
       "story_size": 2,
       "image_local": "images/news_ef206fad65e2c6e068f8.webp"
     },
@@ -111,7 +130,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 129.8,
+      "score": 110.9,
       "story_size": 2,
       "image_local": "images/news_739b6db2be41aad216c6.jpg"
     },
@@ -131,7 +150,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 128.6,
+      "score": 109.7,
       "story_size": 2
     },
     {
@@ -150,7 +169,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 128.2,
+      "score": 109.2,
       "story_size": 2,
       "image_local": "images/news_cbea15c103fdf2cb9552.png"
     },
@@ -169,7 +188,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 126.5,
+      "score": 107.6,
       "story_size": 1,
       "image_local": "images/news_118dbd71addf95ff8f78.jpg"
     },
@@ -189,8 +208,65 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 119.8,
+      "score": 100.9,
       "story_size": 2
+    },
+    {
+      "title": "घरेलु मदिराको बिक्री वितरणमा संलग्न नहुन अनुरोध",
+      "link": "https://www.ratopati.com/story/603853/request-not-to-engage-in-the-sale-and-distribution-of-domestic-liquor",
+      "description": "पर्सा । प्रहरीले अवैध घरेलु मदिरा उत्पादन गर्ने भट्टी नष्ट गरेको छ । वीरगन्ज महानगरपालिका–१५ भिष्वाडाँडामा सञ्चालित अवैध घरेलु मदिरा उत्पादन गर्ने भट्टी आज नष्ट गरिएको हो । जिल्ला प्रहरी कार्यालयबाट खटिएको प्रहरी टोलीले मदिरा बनाउने",
+      "published": "2026-11-06T18:30:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/parsa-district-map_0ZIfD6x5iq.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "f7f6d0a55595ba75",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 97.3,
+      "story_size": 1,
+      "image_local": "images/news_3d09985f46097fe41b26.jpg"
+    },
+    {
+      "title": "१२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार",
+      "link": "https://www.ratopati.com/story/603852/12-news-at-12-these-are-todays-top-news-stories",
+      "description": "काठमाडौँ । आज दिनभरका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति रातोपाटी ब्रिफिङमा १२ बजे १२ समाचार लिएर आएका छौँ- १. सरकारको माइण्ड गेम पछिल्लो ४८ घण्टामा सिंहदरबारदेखि सानेपासम्म राजनीतिक तापक्रम ह्वात्तै बढ्यो । त्यसको केन्द्रमा एउटा विवादास्पद अडियो",
+      "published": "2026-11-06T18:15:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/12-am-final_viqawbfig2_epxbu1cpos_Fcr2kOI51t.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "f1479c500482354e",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 96.3,
+      "story_size": 1,
+      "image_local": "images/news_b7c1d13d7978a1a639a3.jpg"
+    },
+    {
+      "title": "धान जोनमा पाँच हजार मेट्रिक टन उत्पादन बढ्ने अनुमान",
+      "link": "https://gorkhapatraonline.com/news/228556",
+      "description": "शालिग्राम नेपाल चितवन, कात्तिक २० गते । चितवनको धान जोनमा यस वर्ष धान उत्पादन पाँच हजार मेट्रिक टनले बढ्ने अनुमान गरिएको छ । गत वर्ष आठ हजार ५०० हेक्टर क्षेत्रफलमा ४५ हजार मेट्रिक...",
+      "published": "2026-11-06T23:33:54+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/390779/conversions/dhan-1-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "b25c863dc47da354",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 94.6,
+      "story_size": 1,
+      "image_local": "images/news_a5d87ed949ef6244c111.jpg"
     },
     {
       "title": "प्रस्तावित सर्वोच्च अदालतका न्यायाधीशविरुद्धका उजुरीमाथि संसदीय सुनुवाइ समितिमा छलफल",
@@ -207,7 +283,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.8,
+      "score": 93.9,
       "story_size": 1,
       "image_local": "images/news_ed9f8324b24c5bde0694.jpg"
     },
@@ -226,7 +302,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.2,
+      "score": 93.3,
       "story_size": 1,
       "image_local": "images/news_5bc803d1e88af88c3d27.webp"
     },
@@ -245,7 +321,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.7,
+      "score": 92.8,
       "story_size": 1,
       "image_local": "images/news_ab66ec5483a897ab253e.jpg"
     },
@@ -264,9 +340,45 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.7,
+      "score": 92.8,
       "story_size": 1,
       "image_local": "images/news_f82d95607f17e3616bb3.jpg"
+    },
+    {
+      "title": "पोखरा ११ बन्यो नागार्जुन भेट्रान्स फुटबलको च्याम्पियन",
+      "link": "https://www.onlinekhabar.com/2026/11/2053086/pokhara-11-becomes-champion-of-nagarjuna-veterans-football",
+      "description": "२० कात्तिक, काठमाडौं । पोखरा ११ ले तेस्रो नागार्जुन भेट्रान्स फुटबल प्रतियोगिताको उपाधि जितेको छ। शुक्रबार मध्यपुर थिमि मैदानमा भएको फाइनलमा विभागीय टोली त्रिभुवन आर्मी फुटबल क्लबलाई ४–० गोलले पराजित गर्दै पोखरा च्याम्पियन बनेको हो। पोखराको जितमा डेनिम राई, सुवीनकुमार श्रेष्ठ र सुरेन्द्र तामाङले पहिलो हाफमा गोल गरे। दोस्रो हाफमा गंगाबहादुर तामाङले थप एक गोल [&#8230;]",
+      "published": "2026-11-06T17:53:30+00:00",
+      "source": "OnlineKhabar",
+      "category": "sports",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "12bbaf9bc3f68838",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 91.9,
+      "story_size": 1
+    },
+    {
+      "title": "बालबालिकाका हरेक 'हठ' पूरा गर्ने कि उचित सीमामा 'हुन्न' भन्ने ?",
+      "link": "https://baahrakhari.com/detail/506809",
+      "description": "",
+      "published": "2026-11-06T23:35:49+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "0a1b249c3a19e814",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 91.7,
+      "story_size": 1
     },
     {
       "title": "विपद्पछिको पुनर्निर्माणका लागि ४ देखि ५ अर्ब डलर आवश्यक पर्ने देखिन्छ : अर्थमन्त्री [भिडियो]",
@@ -283,7 +395,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.4,
+      "score": 91.5,
       "story_size": 1,
       "image_local": "images/news_80007fcdaa0d45250f5a.jpg"
     },
@@ -302,7 +414,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.3,
+      "score": 91.4,
       "story_size": 1,
       "image_local": "images/news_40d6b5f8fdfb1ab8b08c.jpg"
     },
@@ -321,7 +433,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.1,
+      "score": 91.2,
       "story_size": 1,
       "image_local": "images/news_065571248ce3e51cbaee.jpg"
     },
@@ -340,7 +452,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.0,
+      "score": 91.1,
       "story_size": 1,
       "image_local": "images/news_ebba1d00f0d9fca74163.jpg"
     },
@@ -359,7 +471,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.5,
+      "score": 90.6,
       "story_size": 1,
       "image_local": "images/news_004b6cfb5ed8ee045b46.jpg"
     },
@@ -378,7 +490,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.2,
+      "score": 90.3,
       "story_size": 1
     },
     {
@@ -396,7 +508,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.9,
+      "score": 90.0,
       "story_size": 1
     },
     {
@@ -414,7 +526,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.5,
+      "score": 89.6,
       "story_size": 1,
       "image_local": "images/news_8f710e5a1423a4a86c65.jpg"
     },
@@ -433,7 +545,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.5,
+      "score": 88.6,
       "story_size": 1,
       "image_local": "images/news_62fd363dafccd82131e8.jpg"
     },
@@ -452,7 +564,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.2,
+      "score": 88.3,
       "story_size": 1,
       "image_local": "images/news_c0c2e48ccdb1073d81af.webp"
     },
@@ -471,7 +583,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.0,
+      "score": 88.1,
       "story_size": 1,
       "image_local": "images/news_ae28929d4a867a2faa0e.webp"
     },
@@ -490,7 +602,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.0,
+      "score": 88.0,
       "story_size": 1,
       "image_local": "images/news_11c370fcbe33bb689e85.jpg"
     },
@@ -509,7 +621,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.7,
+      "score": 87.8,
       "story_size": 1
     },
     {
@@ -527,7 +639,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.7,
+      "score": 87.8,
       "story_size": 1,
       "image_local": "images/news_b663c971e709f316aebb.jpg"
     },
@@ -546,7 +658,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.6,
+      "score": 87.7,
       "story_size": 1
     },
     {
@@ -564,7 +676,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.3,
+      "score": 87.4,
       "story_size": 1,
       "image_local": "images/news_dfbf5043b0365017070a.webp"
     },
@@ -583,27 +695,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.2,
+      "score": 86.2,
       "story_size": 1,
       "image_local": "images/news_11a96eac5c273869dd00.webp"
-    },
-    {
-      "title": "अदालतलगायत राज्यका संस्थालाई कमजोर बनाउने गतिविधि रोकौँ : रवि लामिछाने",
-      "link": "https://baahrakhari.com/detail/506813",
-      "description": "",
-      "published": "2026-11-06T22:12:50+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "88ad73e8edc151b0",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 105.1,
-      "story_size": 1
     },
     {
       "title": "लागुऔषध कारोबारीको आरोपमा सशस्त्रका दुई सुरक्षाकर्मीसहित चार जना पक्राउ",
@@ -620,7 +714,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.6,
+      "score": 85.7,
       "story_size": 1,
       "image_local": "images/news_8de750f32e13ada2db1f.png"
     },
@@ -639,7 +733,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.3,
+      "score": 85.4,
       "story_size": 1,
       "image_local": "images/news_8e5f12faefeeaea7c4cd.jpg"
     },
@@ -658,27 +752,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.2,
+      "score": 85.3,
       "story_size": 1,
       "image_local": "images/news_e49654475e5357a97494.webp"
-    },
-    {
-      "title": "कर्णालीमा स्याउ विकास बोर्ड गठनको तयारी, विधेयक प्रदेशसभामा लगिने",
-      "link": "https://baahrakhari.com/detail/506812",
-      "description": "",
-      "published": "2026-11-06T21:57:00+05:45",
-      "source": "Baahrakhari",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "6610620609053f46",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 104.0,
-      "story_size": 1
     },
     {
       "title": "कर्णालीका खराब सूचक सुधारमा ध्यान दिन मुख्यमन्त्री शाहीको सुझाव",
@@ -695,7 +771,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.6,
+      "score": 84.7,
       "story_size": 1,
       "image_local": "images/news_b7db7dabe414df0df9f1.jpeg"
     },
@@ -714,7 +790,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.5,
+      "score": 84.6,
       "story_size": 1,
       "image_local": "images/news_68b0ee6a0739ba7b2877.webp"
     },
@@ -733,7 +809,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.9,
+      "score": 84.0,
       "story_size": 1,
       "image_local": "images/news_ce0f0f4555fdbe7aa1c5.webp"
     },
@@ -752,7 +828,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.6,
+      "score": 83.7,
       "story_size": 1
     },
     {
@@ -770,7 +846,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.5,
+      "score": 83.6,
       "story_size": 1,
       "image_local": "images/news_fe9ccb18381a2fcb687d.webp"
     },
@@ -789,7 +865,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.4,
+      "score": 83.5,
       "story_size": 1
     },
     {
@@ -807,7 +883,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.3,
+      "score": 83.4,
       "story_size": 1
     },
     {
@@ -825,7 +901,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.3,
+      "score": 83.4,
       "story_size": 1
     },
     {
@@ -843,7 +919,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.2,
+      "score": 83.3,
       "story_size": 1
     },
     {
@@ -861,28 +937,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.2,
+      "score": 83.3,
       "story_size": 1,
       "image_local": "images/news_3b1e598efb8942724621.jpg"
-    },
-    {
-      "title": "‘कर्णालीको बालमृत्युदर, कुपोषण, पुड्कोपना र बालविवाहजस्ता सूचकाङ्कलाई सुधार गर्न केन्द्र सरकारले हेर्नुपर्छ’",
-      "link": "https://www.ratopati.com/story/603833/the-central-government-should-look-into-improving-indicators-like-infant-mortality-rate-malnutrition-stunting-and-child-marriage-in-karnali",
-      "description": "सुर्खेत। कर्णालीका मुख्यमन्त्री मंगलबहादुर शाहीले कर्णालीको बालमृत्युदर, कुपोषण, पुड्कोपना र बालविवाहजस्ता सूचकाङ्कलाई सुधार गर्न केन्द्र सरकारले विशेष ध्यान दिनुपर्ने बताएका छन्। शुक्रबार मुख्यमन्त्री कार्यालयमा केन्द्रीय महिला, बालबालिका तथा सामाजिक सुरक्षामन्त्री सीता बादीसँगको भेटका क्रममा उनले यो",
-      "published": "2026-11-06T14:58:52+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/vett_IQ6crr1TCC.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "7428c3287920dd80",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 102.2,
-      "story_size": 1,
-      "image_local": "images/news_4f48462e834a218ec3a6.webp"
     },
     {
       "title": "रसुवा बाढी : अर्थतन्त्रमा पौने ५ खर्ब क्षति, पुनरुत्थानमा ७ खर्ब आवश्यक",
@@ -899,7 +956,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.1,
+      "score": 83.2,
       "story_size": 1
     },
     {
@@ -917,8 +974,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.1,
+      "score": 83.2,
       "story_size": 1
+    },
+    {
+      "title": "‘कर्णालीको बालमृत्युदर, कुपोषण, पुड्कोपना र बालविवाहजस्ता सूचकाङ्कलाई सुधार गर्न केन्द्र सरकारले हेर्नुपर्छ’",
+      "link": "https://www.ratopati.com/story/603833/the-central-government-should-look-into-improving-indicators-like-infant-mortality-rate-malnutrition-stunting-and-child-marriage-in-karnali",
+      "description": "सुर्खेत। कर्णालीका मुख्यमन्त्री मंगलबहादुर शाहीले कर्णालीको बालमृत्युदर, कुपोषण, पुड्कोपना र बालविवाहजस्ता सूचकाङ्कलाई सुधार गर्न केन्द्र सरकारले विशेष ध्यान दिनुपर्ने बताएका छन्। शुक्रबार मुख्यमन्त्री कार्यालयमा केन्द्रीय महिला, बालबालिका तथा सामाजिक सुरक्षामन्त्री सीता बादीसँगको भेटका क्रममा उनले यो",
+      "published": "2026-11-06T14:58:52+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/vett_IQ6crr1TCC.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "7428c3287920dd80",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 83.2,
+      "story_size": 1,
+      "image_local": "images/news_4f48462e834a218ec3a6.webp"
     },
     {
       "title": "सर्पबाट कोआलाको बच्चा जोगाउन महिलाले गरिन् सहयोग",
@@ -935,7 +1011,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.1,
+      "score": 83.2,
       "story_size": 1,
       "image_local": "images/news_995d44650c96e00e82d5.jpg"
     },
@@ -954,25 +1030,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.0,
-      "story_size": 1
-    },
-    {
-      "title": "महँगी, इरान युद्धदेखि आईसीईको धरपकडसम्म : ट्रम्प पराजयका ५ कारण",
-      "link": "https://www.onlinekhabar.com/2026/11/2052349/from-inflation-iran-war-to-ice-arrests-5-reasons-for-trumps-defeat",
-      "description": "समाचार संस्था एपीको निर्वाचनपछिको मतदाता सर्वेक्षणले पनि आर्थिक असन्तुष्टि, सरकारी भ्रष्टाचार र राष्ट्रपतिको कार्यशैलीप्रतिको निराशालाई रिपब्लिकन पराजयका प्रमुख पृष्ठभूमिका रूपमा देखाएको छ।",
-      "published": "2026-11-06T15:40:58+00:00",
-      "source": "OnlineKhabar",
-      "category": "world",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "f87283f2cd66cc22",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 102.0,
+      "score": 83.1,
       "story_size": 1
     },
     {
@@ -990,9 +1048,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.0,
+      "score": 83.1,
       "story_size": 1,
       "image_local": "images/news_284202508f715dc3382f.webp"
+    },
+    {
+      "title": "महँगी, इरान युद्धदेखि आईसीईको धरपकडसम्म : ट्रम्प पराजयका ५ कारण",
+      "link": "https://www.onlinekhabar.com/2026/11/2052349/from-inflation-iran-war-to-ice-arrests-5-reasons-for-trumps-defeat",
+      "description": "समाचार संस्था एपीको निर्वाचनपछिको मतदाता सर्वेक्षणले पनि आर्थिक असन्तुष्टि, सरकारी भ्रष्टाचार र राष्ट्रपतिको कार्यशैलीप्रतिको निराशालाई रिपब्लिकन पराजयका प्रमुख पृष्ठभूमिका रूपमा देखाएको छ।",
+      "published": "2026-11-06T15:40:58+00:00",
+      "source": "OnlineKhabar",
+      "category": "world",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "f87283f2cd66cc22",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 83.0,
+      "story_size": 1
     },
     {
       "title": "सरकारको सामूहिक प्रतिवादको तयारीमा विपक्षी, के गर्लान् हर्क साम्पाङ ?",
@@ -1009,7 +1085,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.8,
+      "score": 82.9,
       "story_size": 1
     },
     {
@@ -1027,7 +1103,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.7,
+      "score": 82.8,
       "story_size": 1
     },
     {
@@ -1045,7 +1121,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.6,
+      "score": 82.7,
       "story_size": 1
     },
     {
@@ -1063,7 +1139,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.6,
+      "score": 82.7,
       "story_size": 1,
       "image_local": "images/news_0845a37fe245abcc9366.webp"
     },
@@ -1082,7 +1158,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.4,
+      "score": 82.5,
       "story_size": 1
     },
     {
@@ -1100,7 +1176,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.3,
+      "score": 82.4,
       "story_size": 1,
       "image_local": "images/news_fc2821413ab153202d14.webp"
     },
@@ -1119,7 +1195,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.3,
+      "score": 82.4,
       "story_size": 1,
       "image_local": "images/news_33ea14805ce2ef93e1d9.webp"
     },
@@ -1138,7 +1214,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.2,
+      "score": 82.3,
       "story_size": 1,
       "image_local": "images/news_f537b89d170b20780917.jpg"
     },
@@ -1157,7 +1233,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.9,
+      "score": 82.0,
       "story_size": 1,
       "image_local": "images/news_cdcffc3f7d9c230c522a.webp"
     },
@@ -1176,27 +1252,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.8,
+      "score": 81.9,
       "story_size": 1,
       "image_local": "images/news_8ce32cad67c34cda382f.webp"
-    },
-    {
-      "title": "काठमाडौं २४ घण्टा खुलाउने तयारी",
-      "link": "https://khabarhub.com/2026/06/1045595/",
-      "description": "काठमाडौं – जिल्ला प्रशासन कार्यालय काठमाडौँले ठमेलमात्र नभई समग्र काठमाडौँलाई २४ घण्टा सञ्चालन गर्ने विषयमा अध्ययन गरिरहेको जनाएको छ । ठमेल पर्यटन विकास परिषद्ले आज आयोजना गरेको शान्ति सुरक्षासम्बन्धी छलफल तथा अन्तक्र्रियामा प्रमुख जिल्ला अधिकारी ईश्वरीप्रसाद पौडेलले काठमाडौँलाई २४ घण्टा सञ्चालन गर्ने विषयमा प्रधानमन्त्री कार्यालय र गृह मन्त्रालयसँग छलफल भइरहेको बताए । उनले ठमेललाई पर्यटकीय [&#8230;]",
-      "published": "2026-11-06T15:21:10+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "95b4ed25265825c1",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 100.6,
-      "story_size": 1
     },
     {
       "title": "दूरसञ्चार सङ्घको महासम्मेलनमा सहभागी हुन सञ्चारमन्त्री तिमिल्सिना कतार जाँदै",
@@ -1213,7 +1271,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.6,
+      "score": 81.7,
       "story_size": 1,
       "image_local": "images/news_916097728d2ce4ef4690.webp"
     },
@@ -1232,46 +1290,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.5,
+      "score": 81.6,
       "story_size": 1
-    },
-    {
-      "title": "कोप–३१ मा नेपालले जलवायु न्याय र पर्वतीय मुद्दालाई सशक्त रूपमा उठाउने",
-      "link": "https://www.ratopati.com/story/603824/nepal-to-strongly-raise-climate-justice-and-mountain-issues-at-cop31",
-      "description": "काठमाडौँ । नेपालले संयुक्त राष्ट्रसङ्घीय जलवायु परिवर्तनसम्बन्धी प्रारूप महासन्धिको ३१औँ सम्मेलन (कोप–३१) मा जलवायु न्याय, पर्वतीय क्षेत्रको संरक्षण तथा जलवायुजन्य विपद्का विषयलाई सशक्त रूपमा उठाउने तयारी गरेको छ । आगामी नोभेम्बर ९ देखि २० तारिख (कात्तिक",
-      "published": "2026-11-06T14:33:16+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/cope-31_wuW353EtE9.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "aa0705c34dc21001",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 100.4,
-      "story_size": 1,
-      "image_local": "images/news_606efcab2f61d707da61.webp"
-    },
-    {
-      "title": "जेनजी आन्दोलनका घाइते सन्तोषको घरमै पुगिन् मन्त्री सीता बादी",
-      "link": "https://www.ratopati.com/story/603823/minister-sita-badi-visits-the-home-of-santosh-who-was-injured-in-the-genji-movement",
-      "description": "सुर्खेत। सङ्घीय सरकारकी महिला, बालबालिका, लैङ्गिक तथा यौनिक अल्पसङ्ख्यक र सामाजिक सुरक्षामन्त्री सीता बादीले जेनजी आन्दोलनका क्रममा घाइते सन्तोष बोहोराको घरमै पुगेर भेटेकी छिन् । शुक्रबार वीरेन्द्रनगर आएकी मन्त्री बादी बोहोराको वीरेन्द्रनगर नगरपालिका–२, भूरेली स्थित निवासमै",
-      "published": "2026-11-06T14:33:02+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/sita_vn4y7o4nu5.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "ef58dc344b416963",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 100.4,
-      "story_size": 1,
-      "image_local": "images/news_ef1da022b2c834354804.webp"
     },
     {
       "title": "एनपीएलमा चितवनको दोस्रो जित, पोखरालाई लगातार चौथो हार",
@@ -1288,7 +1308,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.0,
+      "score": 80.1,
       "story_size": 1
     },
     {
@@ -1306,7 +1326,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.6,
+      "score": 79.6,
       "story_size": 1
     },
     {
@@ -1324,7 +1344,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.3,
+      "score": 78.4,
       "story_size": 1
     },
     {
@@ -1342,7 +1362,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.2,
+      "score": 78.3,
       "story_size": 1
     },
     {
@@ -1360,7 +1380,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.1,
+      "score": 78.2,
       "story_size": 1
     },
     {
@@ -1378,7 +1398,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.1,
+      "score": 78.1,
       "story_size": 1
     },
     {
@@ -1396,7 +1416,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.0,
+      "score": 78.1,
       "story_size": 1
     },
     {
@@ -1414,7 +1434,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.8,
+      "score": 77.9,
       "story_size": 1
     },
     {
@@ -1432,7 +1452,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.5,
+      "score": 76.6,
       "story_size": 1
     },
     {
@@ -1450,7 +1470,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.4,
+      "score": 76.5,
       "story_size": 1
     },
     {
@@ -1468,7 +1488,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.4,
+      "score": 76.5,
       "story_size": 1
     },
     {
@@ -1486,7 +1506,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.0,
+      "score": 75.1,
       "story_size": 1
     },
     {
@@ -1504,9 +1524,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.4,
-      "story_size": 1,
-      "image_local": "images/news_b8b61ceeb0913668c6f5.jpg"
+      "score": 74.5,
+      "story_size": 1
     },
     {
       "title": "क्याम्पसकै कार्यालयमा युवतीमाथि दुर्व्यवहारको आरोप, लेखापाल पक्राउ",
@@ -1523,7 +1542,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.3,
+      "score": 74.4,
       "story_size": 1
     },
     {
@@ -1541,25 +1560,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.1,
-      "story_size": 1
-    },
-    {
-      "title": "दाङमा खाद्यले किसानसँग पाँच हजार क्वीन्टल धान खरिद गर्ने",
-      "link": "https://gorkhapatraonline.com/news/228551",
-      "description": "घोराही समाचारदाताघोराही, कात्तिक २० गते । दाङमा खाद्य व्यवस्था तथा व्यापार कम्पनीले किसानसँग धान खरिद गर्ने भएको छ । कम्पनीको केन्द्रीय कार्यालयबाट प्राप्त निर्देशनअनुसार पाँच हजार...",
-      "published": "2026-11-06T18:24:31+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/390766/conversions/paddy-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "051411d94a0b5131",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 92.9,
+      "score": 74.1,
       "story_size": 1
     },
     {
@@ -1577,7 +1578,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.8,
+      "score": 73.9,
+      "story_size": 1
+    },
+    {
+      "title": "दाङमा खाद्यले किसानसँग पाँच हजार क्वीन्टल धान खरिद गर्ने",
+      "link": "https://gorkhapatraonline.com/news/228551",
+      "description": "घोराही समाचारदाताघोराही, कात्तिक २० गते । दाङमा खाद्य व्यवस्था तथा व्यापार कम्पनीले किसानसँग धान खरिद गर्ने भएको छ । कम्पनीको केन्द्रीय कार्यालयबाट प्राप्त निर्देशनअनुसार पाँच हजार...",
+      "published": "2026-11-06T18:24:31+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/390766/conversions/paddy-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "051411d94a0b5131",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 73.9,
       "story_size": 1
     },
     {
@@ -1595,7 +1614,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.8,
+      "score": 73.9,
       "story_size": 1
     },
     {
@@ -1613,7 +1632,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.7,
+      "score": 73.8,
       "story_size": 1
     },
     {
@@ -1631,7 +1650,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.7,
+      "score": 73.8,
       "story_size": 1
     },
     {
@@ -1649,7 +1668,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.7,
+      "score": 73.8,
       "story_size": 1
     },
     {
@@ -1667,25 +1686,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.6,
-      "story_size": 1
-    },
-    {
-      "title": "लागुपदार्थ सेवन गरेर गाडी चलाउने ११ जना चालकलाई कारवाही",
-      "link": "https://gorkhapatraonline.com/news/228549",
-      "description": "सिराज खान नेपालगन्ज, कात्तिक २० गते । तिहार र छठ जस्ता ठुला चाडपर्व शुरु भइसकेकोले जिल्ला ट्राफिक प्रहरी कार्यालय बाँके र जिल्ला प्रहरी कार्यालय बाँकेले सवारी साधनको चेकजाँच तथा ट...",
-      "published": "2026-11-06T18:19:56+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/390763/conversions/lagu-ausadh-sewan-gareko-chekjanch-gardai-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "319e2b75deaf53b4",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 92.6,
+      "score": 73.6,
       "story_size": 1
     },
     {
@@ -1703,7 +1704,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.5,
+      "score": 73.6,
+      "story_size": 1
+    },
+    {
+      "title": "लागुपदार्थ सेवन गरेर गाडी चलाउने ११ जना चालकलाई कारवाही",
+      "link": "https://gorkhapatraonline.com/news/228549",
+      "description": "सिराज खान नेपालगन्ज, कात्तिक २० गते । तिहार र छठ जस्ता ठुला चाडपर्व शुरु भइसकेकोले जिल्ला ट्राफिक प्रहरी कार्यालय बाँके र जिल्ला प्रहरी कार्यालय बाँकेले सवारी साधनको चेकजाँच तथा ट...",
+      "published": "2026-11-06T18:19:56+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/390763/conversions/lagu-ausadh-sewan-gareko-chekjanch-gardai-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "319e2b75deaf53b4",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 73.6,
       "story_size": 1
     },
     {
@@ -1721,7 +1740,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.3,
+      "score": 73.4,
       "story_size": 1
     },
     {
@@ -1739,7 +1758,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.3,
+      "score": 73.4,
       "story_size": 1
     },
     {
@@ -1757,7 +1776,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.0,
+      "score": 73.1,
       "story_size": 1
     },
     {
@@ -1775,25 +1794,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.0,
-      "story_size": 1
-    },
-    {
-      "title": "तिहारको उत्सवका लागि असनमा किनमेल (फोटो फिचर)",
-      "link": "https://gorkhapatraonline.com/news/228546",
-      "description": "सुजन गुरुङ्ग काठमाडौँ, कात्तिक २० गते । तिहार नजिकिएसँगै काठमाडौँको असन बजारमा भीडभाड निकै बढेको छ ।तिहारका लागि आवश्यक भाइमसला, फूलमाला, दियो, पाला, अन्य पूजा सामग्री, कपडा लगायत...",
-      "published": "2026-11-06T18:07:02+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/390759/conversions/WhatsApp-Image-2026-11-06-at-17.54.17-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "7ffa63e68e3b5b0c",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 91.7,
+      "score": 73.1,
       "story_size": 1
     },
     {
@@ -1811,7 +1812,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.6,
+      "score": 72.7,
       "story_size": 1
     },
     {
@@ -1829,7 +1830,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.6,
+      "score": 72.7,
       "story_size": 1
     },
     {
@@ -1847,7 +1848,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.1,
+      "score": 72.2,
       "story_size": 1
     },
     {
@@ -1865,7 +1866,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.8,
+      "score": 71.9,
       "story_size": 1
     },
     {
@@ -1883,7 +1884,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.8,
+      "score": 71.9,
       "story_size": 1
     },
     {
@@ -1901,7 +1902,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.1,
+      "score": 71.2,
       "story_size": 1
     },
     {
@@ -1919,7 +1920,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.8,
+      "score": 70.9,
       "story_size": 1
     },
     {
@@ -1937,7 +1938,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.2,
+      "score": 70.3,
       "story_size": 1
     },
     {
@@ -1955,7 +1956,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.2,
+      "score": 70.3,
       "story_size": 1
     },
     {
@@ -1973,7 +1974,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.1,
+      "score": 70.2,
       "story_size": 1
     },
     {
@@ -1991,7 +1992,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.1,
+      "score": 70.2,
       "story_size": 1
     },
     {
@@ -2009,7 +2010,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.5,
+      "score": 69.6,
       "story_size": 1
     },
     {
@@ -2027,7 +2028,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.4,
+      "score": 69.5,
       "story_size": 1
     },
     {
@@ -2045,7 +2046,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.4,
+      "score": 69.5,
       "story_size": 1
     },
     {
@@ -2063,7 +2064,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.3,
+      "score": 69.4,
       "story_size": 1
     },
     {
@@ -2081,7 +2082,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.2,
+      "score": 69.3,
       "story_size": 1
     },
     {
@@ -2099,7 +2100,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.6,
+      "score": 68.7,
       "story_size": 1
     },
     {
@@ -2117,7 +2118,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.5,
+      "score": 68.6,
       "story_size": 1
     },
     {
@@ -2135,7 +2136,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.3,
+      "score": 68.4,
       "story_size": 1
     },
     {
@@ -2153,7 +2154,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.0,
+      "score": 68.1,
       "story_size": 1
     },
     {
@@ -2171,7 +2172,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.8,
+      "score": 67.8,
       "story_size": 1
     },
     {
@@ -2189,7 +2190,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.4,
+      "score": 67.5,
       "story_size": 1
     },
     {
@@ -2207,7 +2208,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.2,
+      "score": 67.3,
       "story_size": 1
     },
     {
@@ -2225,7 +2226,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.4,
+      "score": 66.5,
       "story_size": 1
     },
     {
@@ -2243,7 +2244,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.0,
+      "score": 66.0,
       "story_size": 1
     },
     {
@@ -2261,7 +2262,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.8,
+      "score": 64.9,
       "story_size": 1
     },
     {
@@ -2279,7 +2280,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.2,
+      "score": 64.3,
       "story_size": 1
     },
     {
@@ -2297,7 +2298,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.4,
+      "score": 63.5,
       "story_size": 1
     },
     {
@@ -2315,7 +2316,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.1,
+      "score": 63.2,
       "story_size": 1
     },
     {
@@ -2333,7 +2334,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.6,
+      "score": 62.7,
       "story_size": 1
     },
     {
@@ -2351,7 +2352,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.5,
+      "score": 62.6,
       "story_size": 1
     },
     {
@@ -2369,25 +2370,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.4,
-      "story_size": 1
-    },
-    {
-      "title": "मधेश सरकारबाट बाहिरिँदै नेकपा, मन्त्रीहरू राजीनामा बुझाउन जाँदै",
-      "link": "https://www.onlinekhabar.com/2026/11/2052729/ncp-withdraws-from-madhesh-government-ministers-to-submit-resignations",
-      "description": "अर्थमन्त्री संसदीय दलका नेता युवराज भट्टराई, उद्योग पर्यटनमन्त्री कनिष पटेल, गृह सञ्चार तथा कानुन मन्त्री फकिरा महतो र ऊर्जा सिंचाई तथा खानेपानी मन्त्री जवाहर कुशवाहा रहेका छन् ।",
-      "published": "2026-11-06T10:21:20+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "79c6310b73747196",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 80.6,
+      "score": 62.4,
       "story_size": 1
     },
     {
@@ -2405,7 +2388,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 57.2,
+      "score": 38.3,
       "story_size": 1
     },
     {
@@ -2423,7 +2406,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 48.8,
+      "score": 29.9,
       "story_size": 1
     },
     {
