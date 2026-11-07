@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T19:39:59.814791+00:00",
+  "updated_at": "2026-11-07T23:05:42.807182+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -32,9 +32,85 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 127.9,
+      "score": 114.2,
       "story_size": 3,
       "image_local": "images/news_e57901c13905c05c67b6.webp"
+    },
+    {
+      "title": "पाँचधारेमा बौद्ध स्तुपा निर्माणसँगै पर्यटकीय आकर्षण बढ्दै",
+      "link": "https://www.ratopati.com/story/603998/tourist-attraction-increases-with-the-construction-of-a-buddhist-stupa-in-panchdhara",
+      "description": "भोजपुर । भोजपुरको टेम्केमैयुङ गाउँपालिका–९ पाँचधारेमा बौद्ध स्तुपा निर्माणसँगै पर्यटकको आवागमन बढ्न थालेको छ । धार्मिक पर्यटन प्रवर्द्धन तथा धार्मिक सहिष्णुता अभिवृद्धि गर्ने उद्देश्यले स्तुपा निर्माण गरिएपछि पाँचधारेको पर्यटकीय आकर्षण थप बढेको हो । प्राकृतिक सौन्दर्यले",
+      "published": "2026-11-07T23:02:23+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://npcdn.ratopati.com/media/news/01WvaEvsaR.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "7e21fabb8b9f7f3b",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.8,
+      "story_size": 1,
+      "image_local": "images/news_fcf1f5ed472cab135fa7.jpg"
+    },
+    {
+      "title": "आदिवासी रङ्गशाला निर्माण परियोजना अघि बढ्यो",
+      "link": "https://www.ratopati.com/story/603997/indigenous-stadium-construction-project-moves-forward",
+      "description": "झापा । कमल गाउँपालिका–५ मा आदिवासी स्मृति रङ्गशालाका लागि वर्तमान सरकारले बहुवर्षीय परियोजना स्वीकृत गरेपछि रङ्गशाला निर्माणले गति लिने भएको छ । विसं २०६७ वैशाखमा सो स्थानमा रङ्गशाला निर्माण गर्नका लागि तत्कालीन रक्षामन्त्री विद्यादेवी भण्डारीले परियोजना",
+      "published": "2026-11-07T22:49:07+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/jhapa__dhzolqasr2_QnjZRO8TPN.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "6b7826592e498ed9",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.9,
+      "story_size": 1,
+      "image_local": "images/news_968e2f5456e5cf33b994.webp"
+    },
+    {
+      "title": "यो साता यी राशिहरूका लागि लाभको संकेत",
+      "link": "https://www.ratopati.com/story/603995/signs-of-profit-for-these-zodiac-signs-this-week",
+      "description": "कार्तिक २२ गते आइतबारदेखि २८ गते शनिबारसम्मको साप्ताहिक राशिफल मेष (चू,चे,चो,ला,लि,लू,ले,लो,अ) साताको समय राम्रो रहेकोले उत्साह र उमङ्गले समय व्यातित हुनेछ । लामो समयदेखि टाढिएका आफन्त तथा परिवारका सदस्यसँग भेटघाट हुने अवसर मिल्नेछ । मिठामिठा परिकारको",
+      "published": "2026-11-07T22:30:46+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/horoscope_vLkWHGsooW.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "18da8cf2d1b7d50d",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.7,
+      "story_size": 1,
+      "image_local": "images/news_7567420e3a67fdab3a94.webp"
+    },
+    {
+      "title": "भ्यालेन्सियामाथि रियल म्याड्रिडको ३-० को सहज जित",
+      "link": "https://www.ratopati.com/story/603994/real-madrid-comfortably-beat-valencia-3-0",
+      "description": "काठमाडौँ । स्पेनिस ला लिगा अन्तर्गत सम्पन्न खेलमा रियल म्याड्रिडले भ्यालेन्सियामाथि ३-० गोल अन्तरको सहज जित निकालेको छ । भ्रमणकारी टोली रियलको जितमा फेडेरिको भालभर्डे, आर्दा गुलर र किलियन एमबाप्पेले एक-एक गोल गरे । खेलको २८औँ मिनेटमा",
+      "published": "2026-11-07T22:25:11+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/reak-madrid_ypJQnV3wq9.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "4d905de97ead275a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.3,
+      "story_size": 1,
+      "image_local": "images/news_b07587c99869590d35bd.webp"
     },
     {
       "title": "फेवाताल किनारमा मौलिक देउसीभैलो उत्सव हुँदै",
@@ -52,7 +128,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 124.0,
+      "score": 110.2,
       "story_size": 2,
       "image_local": "images/news_ceea6e2ce03652c2755b.jpg"
     },
@@ -72,7 +148,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 122.6,
+      "score": 108.8,
       "story_size": 2
     },
     {
@@ -90,7 +166,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 121.9,
+      "score": 108.2,
       "story_size": 1,
       "image_local": "images/news_e0a28bc4377a1596e1fc.jpg"
     },
@@ -110,7 +186,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 119.7,
+      "score": 105.9,
       "story_size": 2
     },
     {
@@ -129,7 +205,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 117.1,
+      "score": 103.4,
       "story_size": 2
     },
     {
@@ -147,7 +223,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.8,
+      "score": 99.0,
       "story_size": 1,
       "image_local": "images/news_6f74cf46ab96d30b26d6.webp"
     },
@@ -167,7 +243,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 110.2,
+      "score": 96.4,
       "story_size": 2
     },
     {
@@ -185,7 +261,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.8,
+      "score": 95.1,
       "story_size": 1,
       "image_local": "images/news_25f873dc168d8f018862.webp"
     },
@@ -204,7 +280,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.4,
+      "score": 93.6,
       "story_size": 1,
       "image_local": "images/news_45c5e6cd441a7c973428.webp"
     },
@@ -224,7 +300,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 107.2,
+      "score": 93.5,
       "story_size": 2
     },
     {
@@ -242,7 +318,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.2,
+      "score": 92.4,
       "story_size": 1,
       "image_local": "images/news_5f3a45fe161314125fd7.jpg"
     },
@@ -261,7 +337,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.6,
+      "score": 91.9,
       "story_size": 1,
       "image_local": "images/news_94ae0eb7d59856e16e5e.jpg"
     },
@@ -280,7 +356,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.6,
+      "score": 91.9,
       "story_size": 1,
       "image_local": "images/news_643963e9e63093a9f566.jpg"
     },
@@ -299,7 +375,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.9,
+      "score": 91.1,
       "story_size": 1,
       "image_local": "images/news_0ed5ba6c5b8184f84544.jpg"
     },
@@ -318,7 +394,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.9,
+      "score": 91.1,
       "story_size": 1,
       "image_local": "images/news_cb69430cfb171fb1288d.jpg"
     },
@@ -337,7 +413,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.8,
+      "score": 91.0,
       "story_size": 1,
       "image_local": "images/news_e0c7bb012b47e9e4648d.jpg"
     },
@@ -356,7 +432,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.2,
+      "score": 90.5,
       "story_size": 1,
       "image_local": "images/news_d90db3cf901ac833815e.webp"
     },
@@ -375,7 +451,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.9,
+      "score": 90.1,
       "story_size": 1,
       "image_local": "images/news_4a5800ef3b4eaa3b2ac8.jpg"
     },
@@ -394,7 +470,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.5,
+      "score": 89.8,
       "story_size": 1,
       "image_local": "images/news_264d4cda33af507595bb.webp"
     },
@@ -413,7 +489,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.2,
+      "score": 89.5,
       "story_size": 1,
       "image_local": "images/news_73259340edf14893e0a2.webp"
     },
@@ -432,7 +508,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.9,
+      "score": 89.1,
       "story_size": 1,
       "image_local": "images/news_3273c7df3ef8cb7c240d.webp"
     },
@@ -451,7 +527,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.6,
+      "score": 87.8,
       "story_size": 1,
       "image_local": "images/news_19454fbb836e00c35d11.jpg"
     },
@@ -470,7 +546,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.2,
+      "score": 87.5,
       "story_size": 1,
       "image_local": "images/news_ca2661232f6dc740a0e4.webp"
     },
@@ -489,7 +565,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.1,
+      "score": 87.4,
       "story_size": 1,
       "image_local": "images/news_de0862485288c3a35d4d.jpg"
     },
@@ -508,7 +584,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.1,
+      "score": 87.4,
       "story_size": 1,
       "image_local": "images/news_ef1b41502215c9cea417.jpg"
     },
@@ -527,7 +603,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.1,
+      "score": 87.3,
       "story_size": 1,
       "image_local": "images/news_52eef058f102c97dc4d4.webp"
     },
@@ -546,7 +622,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.5,
+      "score": 86.8,
       "story_size": 1,
       "image_local": "images/news_bd4a92c289638b7eb15b.jpg"
     },
@@ -565,7 +641,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.3,
+      "score": 86.6,
       "story_size": 1,
       "image_local": "images/news_b501628e2e138dc61cc4.webp"
     },
@@ -584,7 +660,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.2,
+      "score": 86.5,
       "story_size": 1,
       "image_local": "images/news_57ee3bb475953ad97b58.webp"
     },
@@ -603,7 +679,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.1,
+      "score": 86.4,
       "story_size": 1,
       "image_local": "images/news_f181f2afde672d654684.jpg"
     },
@@ -622,7 +698,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.8,
+      "score": 86.1,
       "story_size": 1
     },
     {
@@ -640,7 +716,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.6,
+      "score": 85.8,
       "story_size": 1,
       "image_local": "images/news_4d20f4064f577c622ec8.jpg"
     },
@@ -659,7 +735,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.4,
+      "score": 85.6,
       "story_size": 1,
       "image_local": "images/news_7683f337ce2db6f6997e.webp"
     },
@@ -678,7 +754,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.9,
+      "score": 85.1,
       "story_size": 1,
       "image_local": "images/news_e3726f3bcd5bfd756eb1.jpg"
     },
@@ -697,7 +773,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.8,
+      "score": 85.1,
       "story_size": 1,
       "image_local": "images/news_1d156f90291435f7a270.jpg"
     },
@@ -716,7 +792,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.8,
+      "score": 85.0,
       "story_size": 1,
       "image_local": "images/news_3fae1f4195364c067061.jpg"
     },
@@ -735,7 +811,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.8,
+      "score": 85.0,
       "story_size": 1,
       "image_local": "images/news_893edb691d92510c08d6.jpg"
     },
@@ -754,7 +830,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.7,
+      "score": 85.0,
       "story_size": 1,
       "image_local": "images/news_16a1e2a4003dc25fa16a.jpg"
     },
@@ -773,7 +849,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.5,
+      "score": 84.8,
       "story_size": 1,
       "image_local": "images/news_fdb7146164af0647ef34.webp"
     },
@@ -792,7 +868,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.5,
+      "score": 83.7,
       "story_size": 1
     },
     {
@@ -810,7 +886,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.7,
+      "score": 82.9,
       "story_size": 1
     },
     {
@@ -828,7 +904,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.2,
+      "score": 82.5,
       "story_size": 1,
       "image_local": "images/news_405aabdbeb3e2dd00cf3.jpg"
     },
@@ -847,7 +923,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.0,
+      "score": 82.3,
       "story_size": 1,
       "image_local": "images/news_f760887d59d797fd7eb5.webp"
     },
@@ -866,7 +942,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.1,
+      "score": 81.3,
       "story_size": 1,
       "image_local": "images/news_2d9515bd28f4f78c83b9.webp"
     },
@@ -885,7 +961,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.9,
+      "score": 81.1,
       "story_size": 1,
       "image_local": "images/news_e8dcf7f46e5ad1aaad34.jpg"
     },
@@ -904,7 +980,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.8,
+      "score": 81.0,
       "story_size": 1,
       "image_local": "images/news_d90db3cf901ac833815e.webp"
     },
@@ -923,7 +999,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.3,
+      "score": 80.6,
       "story_size": 1,
       "image_local": "images/news_313c5a80fd220617f3bd.webp"
     },
@@ -942,7 +1018,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.2,
+      "score": 80.4,
       "story_size": 1
     },
     {
@@ -960,7 +1036,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.1,
+      "score": 80.4,
       "story_size": 1
     },
     {
@@ -978,7 +1054,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.1,
+      "score": 80.3,
       "story_size": 1
     },
     {
@@ -996,25 +1072,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.1,
-      "story_size": 1
-    },
-    {
-      "title": "न्यायाधीशको संसदीय सुनुवाइमा देखिएको अदालतको ‘अनुहार’",
-      "link": "https://www.onlinekhabar.com/2026/11/2053538/the-face-of-the-court-seen-in-the-judges-parliamentary-hearing",
-      "description": "अदालतभित्र बिचौलियाको चलखेल हुन्छ, न्यायाधीश र बिचौलियाबीच साँठगाँठ हुन्छ, राजनीतिक प्रभावमा नियुक्ति हुन्छ र पैसाले न्याय किनबेच हुन्छ भन्नेसम्मका आरोप सार्वजनिक बहसमा सीमित रहेनन् । यस्ता टिप्पणीको लेखाजोखा संसदीय सुनुवाइका क्रममा गरिए ।",
-      "published": "2026-11-07T15:39:11+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "1bbb0bbd341665a8",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 94.0,
+      "score": 80.3,
       "story_size": 1
     },
     {
@@ -1032,28 +1090,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.0,
+      "score": 80.3,
       "story_size": 1,
       "image_local": "images/news_91d796f6d532809f635e.webp"
     },
     {
-      "title": "यमनमा साउदी आक्रमणमा २२ जना मारिएको हुथी समूहको दाबी",
-      "link": "https://www.ratopati.com/story/603970/houthi-group-claims-22-killed-in-saudi-attack-in-yemen",
-      "description": "साउदी अरब गठबन्धन सेनाले गरेको आक्रमणमा यमनको साना प्रान्तमा २२ जना मारिएका हुथी मिडियाले शनिबार जनाएको छ। मारिनेमध्ये अधिकांश महिला र बालबालिका रहेका बताइएको छ। संयुक्त राष्ट्रसङ्घका अनुसार गरिब मुलुक यमनमा फेरि लडाईं सुरु भएपछि एक बर्षको",
-      "published": "2026-11-07T14:54:00+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/yaman_IXEhtC0woq.webp",
+      "title": "न्यायाधीशको संसदीय सुनुवाइमा देखिएको अदालतको ‘अनुहार’",
+      "link": "https://www.onlinekhabar.com/2026/11/2053538/the-face-of-the-court-seen-in-the-judges-parliamentary-hearing",
+      "description": "अदालतभित्र बिचौलियाको चलखेल हुन्छ, न्यायाधीश र बिचौलियाबीच साँठगाँठ हुन्छ, राजनीतिक प्रभावमा नियुक्ति हुन्छ र पैसाले न्याय किनबेच हुन्छ भन्नेसम्मका आरोप सार्वजनिक बहसमा सीमित रहेनन् । यस्ता टिप्पणीको लेखाजोखा संसदीय सुनुवाइका क्रममा गरिए ।",
+      "published": "2026-11-07T15:39:11+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
       "related_sources": [
-        "Ratopati"
+        "OnlineKhabar"
       ],
-      "id": "385ce84a1704dcbf",
+      "id": "1bbb0bbd341665a8",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.0,
-      "story_size": 1,
-      "image_local": "images/news_19813684b73ba686f129.webp"
+      "score": 80.2,
+      "story_size": 1
     },
     {
       "title": "मुख्यमन्त्री शाहीका १०० दिन : पुराना योजनाको निरन्तरता नै उपलब्धि",
@@ -1070,8 +1127,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.9,
+      "score": 80.2,
       "story_size": 1
+    },
+    {
+      "title": "यमनमा साउदी आक्रमणमा २२ जना मारिएको हुथी समूहको दाबी",
+      "link": "https://www.ratopati.com/story/603970/houthi-group-claims-22-killed-in-saudi-attack-in-yemen",
+      "description": "साउदी अरब गठबन्धन सेनाले गरेको आक्रमणमा यमनको साना प्रान्तमा २२ जना मारिएका हुथी मिडियाले शनिबार जनाएको छ। मारिनेमध्ये अधिकांश महिला र बालबालिका रहेका बताइएको छ। संयुक्त राष्ट्रसङ्घका अनुसार गरिब मुलुक यमनमा फेरि लडाईं सुरु भएपछि एक बर्षको",
+      "published": "2026-11-07T14:54:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/yaman_IXEhtC0woq.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "385ce84a1704dcbf",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 80.2,
+      "story_size": 1,
+      "image_local": "images/news_19813684b73ba686f129.webp"
     },
     {
       "title": "अरुन्धती र एनीका पुस्तकमा सम्बन्ध, समाज र ‘आफू’ का कुरा",
@@ -1088,7 +1164,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.9,
+      "score": 80.1,
       "story_size": 1
     },
     {
@@ -1106,7 +1182,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.9,
+      "score": 80.1,
       "story_size": 1
     },
     {
@@ -1124,7 +1200,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.8,
+      "score": 80.0,
       "story_size": 1
     },
     {
@@ -1142,7 +1218,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.7,
+      "score": 80.0,
       "story_size": 1
     },
     {
@@ -1160,7 +1236,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.7,
+      "score": 79.9,
       "story_size": 1
     },
     {
@@ -1178,46 +1254,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.6,
+      "score": 79.9,
       "story_size": 1
-    },
-    {
-      "title": "व्यावसायिक घरानाले लिँदै आएको ग्यास अनुदान अब उपभोक्तालाई",
-      "link": "https://www.ratopati.com/story/603961/gas-subsidy-received-by-commercial-households-will-now-be-extended-to-consumers",
-      "description": "काठमाडौँ । राज्यले सर्वसाधारण नागरिकको भान्सा सहज बनाउन खाना पकाउने (एलपी) ग्यासमा दिँदै आएको अर्बौँ रुपैयाँको अनुदान अब वास्तविक उपभोक्तामै केन्द्रित गरिने भएको छ । वर्षौँदेखि विपन्न तथा आम नागरिकको नाममा राज्यकोषबाट दिइने सहुलियत तारे होटल,",
-      "published": "2026-11-07T14:49:00+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/gas-shortage_lqn67TofEv.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "bac4c36cb1d74997",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 93.6,
-      "story_size": 1,
-      "image_local": "images/news_2f5af5dab6fc716c8525.webp"
-    },
-    {
-      "title": "ग्लोबल आइएमई बैंकले काठमाडौँको उत्तरढोकामा १२ तले अत्याधुनिक कर्पोरेट भवन बनाउँदै, भूमिपूजा सम्पन्न",
-      "link": "https://www.ratopati.com/story/603968/global-ime-bank-is-constructing-a-12-story-state-of-the-art-corporate-building-at-uttardhoka-kathmandu-and-the-groundbreaking-ceremony-has-been-completed",
-      "description": "काठमाडौँ । ग्लोबल आइएमई बैंक लिमिटेडले काठमाडौँको उत्तरढोकामा आफ्नो अत्याधुनिक कर्पोरेटग भवन निर्माणको काम अघि बढाएको छ । शुक्रबार निर्माणस्थलमा आयोजित एक समारोहबिच बैंक सञ्चालक समितिका अध्यक्ष चन्द्रप्रसाद ढकाल र प्रमुख कार्यकारी अधिकृत सुरेन्द्रराज रेग्मीले विधिपूर्वक",
-      "published": "2026-11-07T14:48:26+00:00",
-      "source": "Ratopati",
-      "category": "business",
-      "image": "https://npcdn.ratopati.com/media/news/chandra-dhakal_lOcFTNo25m.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "f26749127e75bbe8",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 93.6,
-      "story_size": 1,
-      "image_local": "images/news_0b835b10b8ed2e84ce14.webp"
     },
     {
       "title": "नेपाली फिल्ममा तिहारका गीत, आज पनि उत्तिकै हिट",
@@ -1234,7 +1272,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.4,
+      "score": 79.7,
       "story_size": 1
     },
     {
@@ -1252,47 +1290,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.2,
+      "score": 79.5,
       "story_size": 1,
       "image_local": "images/news_1d41b2751e59e4d6f5a9.jpg"
-    },
-    {
-      "title": "दिल्लीपछि अब केरल बन्यो सीजेपीको नयाँ केन्द्र",
-      "link": "https://www.ratopati.com/story/603967/after-delhi-kerala-has-now-become-the-new-center-of-cjp",
-      "description": "कोची/भारत । भारतको राजधानी नयाँ दिल्लीस्थित जन्तर–मन्तरमा भएको प्रदर्शनपछि कक्रोच जनता पार्टी (सीजेपी) ले केरलको कोचीमा विरोध प्रदर्शन आयोजना गरेको छ । 'जन्तर–मन्तर एट कोची' नाम दिइएको यस प्रदर्शनमा पार्टीका संस्थापक अभिजित दिपके सहभागी भएका थिए",
-      "published": "2026-11-07T14:37:27+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/cjp-dipke_C3UbpzVWGd.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "35b9a93b7119f44a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 92.9,
-      "story_size": 1,
-      "image_local": "images/news_c9d14aba8ab4b9886a16.webp"
-    },
-    {
-      "title": "प्लास्टिकका ३३६ माला र १४० पुष्पगुच्छा महानगर प्रहरीद्वारा जफत",
-      "link": "https://www.ratopati.com/story/603966/metropolitan-police-seize-336-plastic-garlands-and-140-flower-bouquets",
-      "description": "काठमाडौं । तिहारलाई लक्षित गर्दै काठमाडौं महानगरपालिकाले प्लास्टिकजन्य फूल, माला र पुष्पगुच्छाको बिक्रीमा रोक लगाएको छ । प्रतिबन्धको अवज्ञा गर्दै बिक्री गरिएका ३३६ वटा प्लास्टिकका माला र १४० वटा पुष्पगुच्छा महानगर प्रहरी बलले जफत गरेको",
-      "published": "2026-11-07T14:31:17+00:00",
-      "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/plastic-flower_jaEXskQorX.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "c74a9dddf13c3144",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 92.5,
-      "story_size": 1,
-      "image_local": "images/news_feb53be3c42ba0fdec26.webp"
     },
     {
       "title": "काठमाण्डू दोस्रो स्थानमा उक्लियो, लुम्बिनीको अपराजित यात्रा तोडियो",
@@ -1309,7 +1309,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.5,
+      "score": 77.8,
       "story_size": 1
     },
     {
@@ -1327,7 +1327,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.4,
+      "score": 77.7,
       "story_size": 1
     },
     {
@@ -1345,7 +1345,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.3,
+      "score": 77.6,
       "story_size": 1
     },
     {
@@ -1363,7 +1363,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.3,
+      "score": 77.5,
       "story_size": 1
     },
     {
@@ -1381,7 +1381,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.2,
+      "score": 76.4,
       "story_size": 1
     },
     {
@@ -1399,7 +1399,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.3,
+      "score": 75.5,
       "story_size": 1
     },
     {
@@ -1417,7 +1417,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.4,
+      "score": 74.7,
       "story_size": 1
     },
     {
@@ -1435,7 +1435,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.3,
+      "score": 74.6,
       "story_size": 1
     },
     {
@@ -1453,7 +1453,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.0,
+      "score": 74.3,
       "story_size": 1
     },
     {
@@ -1471,7 +1471,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.8,
+      "score": 74.0,
       "story_size": 1
     },
     {
@@ -1489,7 +1489,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.6,
+      "score": 73.8,
       "story_size": 1
     },
     {
@@ -1507,7 +1507,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.0,
+      "score": 73.2,
       "story_size": 1
     },
     {
@@ -1525,7 +1525,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.3,
+      "score": 72.6,
       "story_size": 1
     },
     {
@@ -1543,7 +1543,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.2,
+      "score": 72.5,
       "story_size": 1
     },
     {
@@ -1561,7 +1561,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.7,
+      "score": 72.0,
       "story_size": 1
     },
     {
@@ -1579,7 +1579,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.1,
+      "score": 71.4,
       "story_size": 1
     },
     {
@@ -1597,7 +1597,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.8,
+      "score": 71.1,
       "story_size": 1
     },
     {
@@ -1615,7 +1615,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.2,
+      "score": 70.4,
       "story_size": 1
     },
     {
@@ -1633,7 +1633,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.9,
+      "score": 70.2,
       "story_size": 1
     },
     {
@@ -1651,7 +1651,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.6,
+      "score": 69.9,
       "story_size": 1
     },
     {
@@ -1669,7 +1669,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.7,
+      "score": 69.0,
       "story_size": 1
     },
     {
@@ -1687,7 +1687,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.1,
+      "score": 68.3,
       "story_size": 1
     },
     {
@@ -1705,7 +1705,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.9,
+      "score": 68.2,
       "story_size": 1
     },
     {
@@ -1723,7 +1723,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.8,
+      "score": 68.1,
       "story_size": 1
     },
     {
@@ -1741,7 +1741,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.3,
+      "score": 67.5,
       "story_size": 1
     },
     {
@@ -1759,7 +1759,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.9,
+      "score": 67.2,
       "story_size": 1
     },
     {
@@ -1777,7 +1777,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.3,
+      "score": 66.6,
       "story_size": 1
     },
     {
@@ -1795,7 +1795,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.9,
+      "score": 66.1,
       "story_size": 1
     },
     {
@@ -1813,7 +1813,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.5,
+      "score": 65.7,
       "story_size": 1
     },
     {
@@ -1831,7 +1831,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.3,
+      "score": 65.6,
       "story_size": 1
     },
     {
@@ -1849,7 +1849,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.9,
+      "score": 65.2,
       "story_size": 1
     },
     {
@@ -1867,7 +1867,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.3,
+      "score": 64.6,
       "story_size": 1
     },
     {
@@ -1885,7 +1885,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.2,
+      "score": 64.4,
       "story_size": 1
     },
     {
@@ -1903,7 +1903,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.1,
+      "score": 64.4,
       "story_size": 1
     },
     {
@@ -1921,7 +1921,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.9,
+      "score": 64.1,
       "story_size": 1
     },
     {
@@ -1939,7 +1939,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.2,
+      "score": 63.5,
       "story_size": 1
     },
     {
@@ -1957,7 +1957,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.1,
+      "score": 63.4,
       "story_size": 1
     },
     {
@@ -1975,7 +1975,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.8,
+      "score": 63.0,
       "story_size": 1
     },
     {
@@ -1993,7 +1993,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.7,
+      "score": 62.9,
       "story_size": 1
     },
     {
@@ -2011,7 +2011,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.1,
+      "score": 62.4,
       "story_size": 1
     },
     {
@@ -2029,7 +2029,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.9,
+      "score": 62.2,
       "story_size": 1
     },
     {
@@ -2047,7 +2047,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.8,
+      "score": 62.0,
       "story_size": 1
     },
     {
@@ -2065,7 +2065,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.9,
+      "score": 61.2,
       "story_size": 1
     },
     {
@@ -2083,7 +2083,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.6,
+      "score": 60.8,
       "story_size": 1
     },
     {
@@ -2101,7 +2101,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.3,
+      "score": 60.5,
       "story_size": 1
     },
     {
@@ -2119,7 +2119,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.0,
+      "score": 60.2,
       "story_size": 1
     },
     {
@@ -2137,7 +2137,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.9,
+      "score": 60.2,
       "story_size": 1
     },
     {
@@ -2155,7 +2155,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.5,
+      "score": 59.7,
       "story_size": 1
     },
     {
@@ -2173,7 +2173,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.1,
+      "score": 58.3,
       "story_size": 1
     },
     {
@@ -2191,7 +2191,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.8,
+      "score": 58.1,
       "story_size": 1
     },
     {
@@ -2209,7 +2209,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.7,
+      "score": 58.0,
       "story_size": 1
     },
     {
@@ -2227,7 +2227,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.2,
+      "score": 57.4,
       "story_size": 1
     },
     {
@@ -2245,7 +2245,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.0,
+      "score": 57.2,
       "story_size": 1
     },
     {
@@ -2263,7 +2263,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.9,
+      "score": 56.2,
       "story_size": 1
     },
     {
@@ -2281,7 +2281,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.6,
+      "score": 55.8,
       "story_size": 1
     },
     {
@@ -2299,7 +2299,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.5,
+      "score": 55.8,
       "story_size": 1
     },
     {
@@ -2317,7 +2317,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.2,
+      "score": 55.4,
       "story_size": 1
     },
     {
@@ -2335,7 +2335,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.0,
+      "score": 55.2,
       "story_size": 1
     },
     {
@@ -2353,7 +2353,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.7,
+      "score": 54.9,
       "story_size": 1
     },
     {
@@ -2371,7 +2371,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.6,
+      "score": 54.9,
       "story_size": 1
     },
     {
@@ -2389,7 +2389,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.3,
+      "score": 54.6,
       "story_size": 1
     },
     {
@@ -2407,7 +2407,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 51.1,
+      "score": 37.3,
       "story_size": 1
     },
     {
@@ -2425,7 +2425,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 44.5,
+      "score": 30.8,
       "story_size": 1
     },
     {
@@ -2443,7 +2443,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 43.9,
+      "score": 30.1,
       "story_size": 1
     },
     {
