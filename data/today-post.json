@@ -1,168 +1,64 @@
 {
-  "date_np": "2026-11-07",
-  "generated_at": "2026-11-07T15:41:37.376783+00:00",
+  "date_np": "2026-11-08",
+  "generated_at": "2026-11-07T19:39:59.817589+00:00",
   "items": [
     {
-      "title": "चितवनमा उत्पादित सयपत्री र मखमली फूलको माला बेलायत, हङ्कङ र दुबई निर्यात",
-      "link": "https://www.ratopati.com/story/603969/garlands-of-centaury-and-velvet-flowers-produced-in-chitwan-exported-to-britain-hong-kong-and-dubai",
-      "description": "चितवन । चितवनमा उत्पादित सयपत्री र मखमली फूल तथा माला बेलायत, हङ्कङ र दुबई निर्यात हुन थालेको छ । पूर्वी चितवनको कालिका नगरपालिका–पदमपुरका चार दाजुभाइले व्यावसायिक रूपमा उत्पादन गरेको फूल तथा माला ती देशमा पठाइएको",
-      "published": "2026-11-07T14:53:20+00:00",
-      "source": "Ratopati",
-      "category": "world",
-      "image": "https://npcdn.ratopati.com/media/news/sayapatri-11_htPiGGlz9j.webp",
-      "related_sources": [
-        "Ratopati",
-        "Khabarhub",
-        "OnlineKhabar"
-      ],
-      "id": "351013ac8c94a743",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 143.8,
-      "story_size": 3,
-      "image_local": "images/news_e57901c13905c05c67b6.webp"
-    },
-    {
-      "title": "साहित्यकार मोतीशोभाका पाँच कृति एकैसाथ विमोचित",
-      "link": "https://nepalsamaya.com/detail/147661",
-      "description": "",
-      "published": "2026-11-07T20:11:53+05:45",
-      "source": "Nepal Samaya",
-      "category": "nepal",
-      "image": "https://nepalsamaya.com/uploads/posts/202611071817-63a6d4f0-e80b-472b-be8f-f512b8933ac4_medium-1794061596.JPG",
-      "related_sources": [
-        "Nepal Samaya",
-        "OnlineKhabar",
-        "Gorkhapatra Online"
-      ],
-      "id": "a5c581f18b1601d3",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 142.1,
-      "story_size": 3,
-      "image_local": "images/news_dc4d62fb769443719405.jpg"
-    },
-    {
-      "title": "फ्रान्समा विद्यार्थी र शिक्षकद्वारा मङ्गलबार पुनः हडतालको आह्वान",
-      "link": "https://www.ratopati.com/story/603964/students-and-teachers-in-france-call-for-another-strike-on-tuesday",
-      "description": "फ्रान्सका विद्यार्थी र शिक्षक समूहहरूले मङ्गलबार हडतालको आह्वान गरेका छन् । उनीहरूले शिक्षा क्षेत्रमा खर्च बढाउन सरकारमाथि दबाब जारी राखेका छन्। फ्रान्समा यस अघि भएका प्रदर्शन हिंसात्मक हुँदा ठूलो सङ्ख्यामा प्रदर्शनकारी र सुरक्षाकर्मीसमेत घाइते भएका थिए । आन्दोलनले",
-      "published": "2026-11-07T14:19:05+00:00",
+      "title": "नटिङघम फरेस्टसँग म्यानचेस्टर सिटी ३–१ ले स्तब्ध",
+      "link": "https://www.ratopati.com/story/603993/manchester-city-stunned-3-1-by-nottingham-forest",
+      "description": "काठमाडौँ । इङ्लिस प्रिमियर लिग अन्तर्गत सम्पन्न खेलमा नटिङघम फरेस्टले बलियो प्रतिद्वन्द्वी म्यानचेस्टर सिटीमाथि ३–१ गोलको सानदार जित निकालेको छ । घरेलु मैदानमा फरेस्टलाई जिताउन लियाम डेलापले दुई गोल गरे भने जायर कुन्हाले एक गोल थपे।",
+      "published": "2026-11-07T19:36:08+00:00",
       "source": "Ratopati",
       "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/france-student-prostest_YWrq1IVoVt.webp",
+      "image": "https://npcdn.ratopati.com/media/news/man-city_oGTI9MsNHA.webp",
       "related_sources": [
-        "Ratopati",
-        "Thaha Khabar",
-        "Khabarhub"
-      ],
-      "id": "fa6979cd52cf23f7",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 141.5,
-      "story_size": 3,
-      "image_local": "images/news_96da8f14674ad980d51d.webp"
-    },
-    {
-      "title": "भोटेकोशी बाढीमा ज्यान गुमाएका र बेपत्ताका सन्तानलाई उच्च शिक्षासम्म निःशुल्क छात्रवृत्ति दिने निर्णय",
-      "link": "https://www.onlinekhabar.com/2026/11/2053565/decision-to-provide-free-scholarships-up-to-higher-education-to-children-of-those-who-lost-their-lives-and-disappeared-in-the-bhotekoshi-flood",
-      "description": "२१ कात्तिक, काठमाडौं । शिक्षा तथा खेलकुद मन्त्रालयले १० भदौको विनाशकारी बाढीमा परी ज्यान गुमाएका र बेपत्ता भएकाका सन्तानलाई पूर्ण छात्रवृत्ति उपलब्ध गराउन मन्त्रीस्तरीय निर्णयमार्फत प्रक्रिया अगाडि बढाएको छ । प्रथम चरणमा २७ जना विद्यार्थीलाई यो छात्रवृत्ति उपलब्ध गराइने निर्णय गरिएको छ भने यसपछि क्रमशः पहिचान गर्दै विभिन्न चरणमा थप विद्यार्थीलाई छात्रवृत्ति दिइँदै जाने शिक्षा [&#8230;]",
-      "published": "2026-11-07T13:42:09+00:00",
-      "source": "OnlineKhabar",
-      "category": "tech",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar",
-        "Ratopati",
-        "Kendrabindu"
-      ],
-      "id": "8cc554d7cf9185dd",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 136.1,
-      "story_size": 3
-    },
-    {
-      "title": "१३ कम्युनिटी फार्मेसीले चिकित्सकको प्रेस्क्रिप्सनबिनै प्रतिजैविक औषधिको बिक्री गरेको भेटियाे",
-      "link": "https://khabarhub.com/2026/07/1045856/",
-      "description": "काठमाडौं – औषधि व्यवस्था विभागले ललितपुरका फार्मेसीमा छड्के अनुगमन गर्दा १३ वटा कम्युनिटी फार्मेसीले चिकित्सकको प्रेस्क्रिप्सनबिना प्रतिजैविक औषधिको बिक्रीवितरण गर्ने गरेको फेला परेको छ । विभागले ललितपुरका १६ वटा कम्युनिटी फार्मेसीको अनुगमन गरेको थियो । औषधि व्यवस्था विभागका महानिर्देशक भरत भट्टराईले ललितपुरका १६ वटा कम्युनिटी फार्मेसीको अनुगमन गर्दा १३ वटामा एन्टिबायोटिक औषधीको बिक्रीवितरण गरेको पाइएको [&#8230;]",
-      "published": "2026-11-07T15:26:03+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
         "Ratopati"
       ],
-      "id": "1c24f358e270acd3",
-      "source_count": 2,
-      "verified": true,
+      "id": "14ae07268f761771",
+      "source_count": 1,
+      "verified": false,
       "local": false,
-      "score": 133.0,
-      "story_size": 2
+      "score": 112.8,
+      "story_size": 1,
+      "image_local": "images/news_6f74cf46ab96d30b26d6.webp"
     },
     {
-      "title": "नेपाली समाजले अब थप घृणा र नकारात्मकता थेग्न सक्दैन : गगन थापा",
-      "link": "https://www.ratopati.com/story/603965/nepali-society-cannot-tolerate-more-hatred-and-negativity-gagan-thapa",
-      "description": "ललितपुर । नेपाली कांग्रेसका सभापति गगनकुमार थापाले नेपाली समाजले अब थप घृणा र नकारात्मकता थेग्न नसक्ने बताएका छन् । समाजलाई एकताबद्ध र गतिशील बनाउन नकारात्मकताभन्दा सकारात्मक सोच, प्रेम, सद्भाव र आपसी विश्वासको मात्रा बढाउनुपर्ने उनको",
-      "published": "2026-11-07T14:21:26+00:00",
-      "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/0czkHmm2aW.jpg",
-      "related_sources": [
-        "Ratopati",
-        "OnlineKhabar"
-      ],
-      "id": "205aee05fa6de93c",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 131.7,
-      "story_size": 2,
-      "image_local": "images/news_43d54e94e24204f19607.jpg"
-    },
-    {
-      "title": "कार्तिक कृष्ण त्रयोदशीः मनाइयो काग तिहार",
-      "link": "https://www.ratopati.com/story/603963/kartik-krishna-trayodashi-crow-tihar-celebrated",
-      "description": "काठमाडौँ । कार्तिक कृष्ण त्रयोदशीका दिनमा मनाइने काग तिहार पर्व आज यमराजको दूतका रुपमा कागलाई पूजासहित मीठामीठा चीज बीज खान दिएर मनाइएको छ । काग तिहार पर्वदेखि नै नेपालीको दोस्रो महान् चाड यमपञ्चक सुरु हुने भएपनि",
-      "published": "2026-11-07T14:17:40+00:00",
+      "title": "काभ्रेमा मतदानस्थल–मतदान केन्द्र हेरफेर प्रक्रिया अघि बढाइँदै",
+      "link": "https://www.ratopati.com/story/603992/the-process-of-changing-polling-stations-and-polling-centers-is-being-carried-out-in-kavre",
+      "description": "काभ्रेपलान्चोक । निर्वाचन आयोगले मतदाता नामावली अद्यावधिकलगायतका निर्वाचनलक्षित प्रक्रिया अघि बढाइरहेका बेला काभ्रेपलान्चोकमा पनि विगतका मतदानस्थल र मतदान केन्द्र पुनरावलोकन प्रक्रिया अघि बढाइने भएको छ । यसका लागि जिल्लास्थित मतदानस्थल तथा मतदान केन्द्र निर्धारण तथा",
+      "published": "2026-11-07T18:37:08+00:00",
       "source": "Ratopati",
       "category": "nepal",
-      "image": "https://rpcdn.ratopati.com/media/albums/kag_tihar_NY0LLL0SBX.jpg",
+      "image": "https://npcdn.ratopati.com/media/news/kavrepalanchok_wpemnfgzgo_sznxzhia8z_G9XRzkVeqL.webp",
       "related_sources": [
-        "Ratopati",
-        "Khabarhub"
+        "Ratopati"
       ],
-      "id": "fca144e0817d6ce2",
-      "source_count": 2,
-      "verified": true,
+      "id": "274a87cae6cbc0a7",
+      "source_count": 1,
+      "verified": false,
       "local": false,
-      "score": 131.4,
-      "story_size": 2,
-      "image_local": "images/news_d86f3c6051b679b2d251.jpg"
+      "score": 108.8,
+      "story_size": 1,
+      "image_local": "images/news_25f873dc168d8f018862.webp"
     },
     {
-      "title": "वार्नरको अर्धशतकमा काठमाडौंले लुम्बिनीलाई दियो १६१ रनको लक्ष्य",
-      "link": "https://kendrabindu.com/sports/570231/",
-      "description": "काठमाडौं । सिद्धार्थ बैंक नेपाल प्रिमियर लिग (एनपीएल)अन्तर्गत काठमाडौं गोर्खाजले लुम्बिनी लायन्सलाई मध्यम लक्ष्य प्रस्तुत गरेकाे छ । कीर्तिपुरमा टस हारेर पहिले ब्याटिङ गरेको काठमाडौं गोर्खाजले निर्धारित २० ओभरमा ८ विकेट गुमाएर १६० रन बनाएको हाे । इनिङ्सको सुरुआतमा ओपनरद्वय साहिल पटेल र डेभिड वार्नरले उत्कृष्ट साझेदारी गर्दै पहिलो विकेटका लागि १०४ रन जाेडेका थिए। [&#8230;]",
-      "published": "2026-11-07T12:57:43+00:00",
-      "source": "Kendrabindu",
+      "title": "१२ बजे १२ समाचार : अपराजित लुम्बिनीको यात्रामा रोक, गगनलाई देउवाको आरोप",
+      "link": "https://www.ratopati.com/story/603991/12-oclock-12-news-travel-to-undefeated-lumbini-suspended-gas-subsidy-received-by-business-houses-now-passed-on-to-consumers",
+      "description": "काठमाडौँ । आज दिनभरका मुख्य मुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति रातोपाटी ब्रिफिङमा १२ बजे १२ समाचार लिएर आएका छौँ – १. सर्वोच्चका प्रस्तावित न्यायाधीशको नाम अनुमोदन सर्वोच्च अदालतको न्यायाधीशमा सिफारिस भएका चारै जनाको नाम संसदीय सुनुवाइ समितिले",
+      "published": "2026-11-07T18:15:00+00:00",
+      "source": "Ratopati",
       "category": "nepal",
-      "image": "",
+      "image": "https://npcdn.ratopati.com/media/news/12-news_JocyxZ4x7i.webp",
       "related_sources": [
-        "Kendrabindu",
-        "OnlineKhabar"
+        "Ratopati"
       ],
-      "id": "e0a63df7ef84fb32",
-      "source_count": 2,
-      "verified": true,
+      "id": "00de750f21cca30d",
+      "source_count": 1,
+      "verified": false,
       "local": false,
-      "score": 123.1,
-      "story_size": 2
+      "score": 107.4,
+      "story_size": 1,
+      "image_local": "images/news_45c5e6cd441a7c973428.webp"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. चितवनमा उत्पादित सयपत्री र मखमली फूलको माला बेलायत, हङ्कङ र दुबई निर्यात\nस्रोत: Ratopati, Khabarhub, OnlineKhabar\nhttps://www.ratopati.com/story/603969/garlands-of-centaury-and-velvet-flowers-produced-in-chitwan-exported-to-britain-hong-kong-and-dubai\n\n2. साहित्यकार मोतीशोभाका पाँच कृति एकैसाथ विमोचित\nस्रोत: Nepal Samaya, OnlineKhabar, Gorkhapatra Online\nhttps://nepalsamaya.com/detail/147661\n\n3. फ्रान्समा विद्यार्थी र शिक्षकद्वारा मङ्गलबार पुनः हडतालको आह्वान\nस्रोत: Ratopati, Thaha Khabar, Khabarhub\nhttps://www.ratopati.com/story/603964/students-and-teachers-in-france-call-for-another-strike-on-tuesday\n\n4. भोटेकोशी बाढीमा ज्यान गुमाएका र बेपत्ताका सन्तानलाई उच्च शिक्षासम्म निःशुल्क छात्रवृत्ति दिने निर्णय\nस्रोत: OnlineKhabar, Ratopati, Kendrabindu\nhttps://www.onlinekhabar.com/2026/11/2053565/decision-to-provide-free-scholarships-up-to-higher-education-to-children-of-those-who-lost-their-lives-and-disappeared-in-the-bhotekoshi-flood\n\n5. १३ कम्युनिटी फार्मेसीले चिकित्सकको प्रेस्क्रिप्सनबिनै प्रतिजैविक औषधिको बिक्री गरेको भेटियाे\nस्रोत: Khabarhub, Ratopati\nhttps://khabarhub.com/2026/07/1045856/\n\n6. नेपाली समाजले अब थप घृणा र नकारात्मकता थेग्न सक्दैन : गगन थापा\nस्रोत: Ratopati, OnlineKhabar\nhttps://www.ratopati.com/story/603965/nepali-society-cannot-tolerate-more-hatred-and-negativity-gagan-thapa\n\n7. कार्तिक कृष्ण त्रयोदशीः मनाइयो काग तिहार\nस्रोत: Ratopati, Khabarhub\nhttps://www.ratopati.com/story/603963/kartik-krishna-trayodashi-crow-tihar-celebrated\n\n8. वार्नरको अर्धशतकमा काठमाडौंले लुम्बिनीलाई दियो १६१ रनको लक्ष्य\nस्रोत: Kendrabindu, OnlineKhabar\nhttps://kendrabindu.com/sports/570231/\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. नटिङघम फरेस्टसँग म्यानचेस्टर सिटी ३–१ ले स्तब्ध\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/603993/manchester-city-stunned-3-1-by-nottingham-forest\n\n2. काभ्रेमा मतदानस्थल–मतदान केन्द्र हेरफेर प्रक्रिया अघि बढाइँदै\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/603992/the-process-of-changing-polling-stations-and-polling-centers-is-being-carried-out-in-kavre\n\n3. १२ बजे १२ समाचार : अपराजित लुम्बिनीको यात्रामा रोक, गगनलाई देउवाको आरोप\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/603991/12-oclock-12-news-travel-to-undefeated-lumbini-suspended-gas-subsidy-received-by-business-houses-now-passed-on-to-consumers\n\n— I Am From Hetauda"
 }
