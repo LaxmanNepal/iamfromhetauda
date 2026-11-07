@@ -1,45 +1,163 @@
 {
   "date_np": "2026-11-07",
-  "generated_at": "2026-11-06T22:25:19.111824+00:00",
+  "generated_at": "2026-11-07T02:16:19.431315+00:00",
   "items": [
     {
-      "title": "घरेलु मदिराको बिक्री वितरणमा संलग्न नहुन अनुरोध",
-      "link": "https://www.ratopati.com/story/603853/request-not-to-engage-in-the-sale-and-distribution-of-domestic-liquor",
-      "description": "पर्सा । प्रहरीले अवैध घरेलु मदिरा उत्पादन गर्ने भट्टी नष्ट गरेको छ । वीरगन्ज महानगरपालिका–१५ भिष्वाडाँडामा सञ्चालित अवैध घरेलु मदिरा उत्पादन गर्ने भट्टी आज नष्ट गरिएको हो । जिल्ला प्रहरी कार्यालयबाट खटिएको प्रहरी टोलीले मदिरा बनाउने",
-      "published": "2026-11-06T18:30:00+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/parsa-district-map_0ZIfD6x5iq.jpg",
+      "title": "डा. गोविन्द केसी र सरकारबीच ६ बुँदे सहमति, तोडियो अनसन",
+      "link": "https://www.setopati.com/politics/402217",
+      "description": "सहमतिसँगै शनिबार राति डा. केसीले आफ्नो २५ औं सत्याग्रह अन्त्य गरेका छन्।",
+      "published": "2026-11-07T07:39:25+05:45",
+      "source": "Setopati",
+      "category": "politics",
+      "image": "",
       "related_sources": [
-        "Ratopati"
+        "Setopati",
+        "Kendrabindu",
+        "Ratopati",
+        "Baahrakhari"
       ],
-      "id": "f7f6d0a55595ba75",
-      "source_count": 1,
-      "verified": false,
+      "id": "95fbd115480b692e",
+      "source_count": 4,
+      "verified": true,
       "local": false,
-      "score": 97.3,
-      "story_size": 1,
-      "image_local": "images/news_3d09985f46097fe41b26.jpg"
+      "score": 152.6,
+      "story_size": 4
     },
     {
-      "title": "१२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार",
-      "link": "https://www.ratopati.com/story/603852/12-news-at-12-these-are-todays-top-news-stories",
-      "description": "काठमाडौँ । आज दिनभरका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति रातोपाटी ब्रिफिङमा १२ बजे १२ समाचार लिएर आएका छौँ- १. सरकारको माइण्ड गेम पछिल्लो ४८ घण्टामा सिंहदरबारदेखि सानेपासम्म राजनीतिक तापक्रम ह्वात्तै बढ्यो । त्यसको केन्द्रमा एउटा विवादास्पद अडियो",
-      "published": "2026-11-06T18:15:00+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/12-am-final_viqawbfig2_epxbu1cpos_Fcr2kOI51t.jpg",
+      "title": "डिजिटल धुनको भीडमा पनि हराएन मादलको ताल",
+      "link": "https://www.thahakhabar.com/detail/311568",
+      "description": "",
+      "published": "2026-11-07T07:23:55+05:45",
+      "source": "Thaha Khabar",
+      "category": "politics",
+      "image": "https://www.thahakhabar.com/uploads/posts/MADAL-1794015527.jpg",
       "related_sources": [
+        "Thaha Khabar",
+        "Khabarhub"
+      ],
+      "id": "bfec895f367b0465",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 134.5,
+      "story_size": 2,
+      "image_local": "images/news_27d9c6dc501ba6df81be.jpg"
+    },
+    {
+      "title": "तिहारका लागि पोखरा आइपुगे भेँडाच्याङ्ग्रा",
+      "link": "https://www.setopati.com/social/402218",
+      "description": "उनका अनुसार रोज्जा च्याङ्ग्राको मूल्य ४० हजार रुपैयाँ पर्छ।",
+      "published": "2026-11-07T07:52:18+05:45",
+      "source": "Setopati",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Setopati",
         "Ratopati"
       ],
-      "id": "f1479c500482354e",
+      "id": "d705c669d1d39505",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 133.4,
+      "story_size": 2
+    },
+    {
+      "title": "इजरायलमा नयाँ प्रधानमन्त्री घोषणा आज, नेतन्याहुले सत्ता गुमाउने सम्भावना",
+      "link": "https://www.thahakhabar.com/detail/311565",
+      "description": "",
+      "published": "2026-11-07T07:02:10+05:45",
+      "source": "Thaha Khabar",
+      "category": "politics",
+      "image": "https://www.thahakhabar.com/uploads/posts/ISRAEL-1794014220.jpg",
+      "related_sources": [
+        "Thaha Khabar",
+        "Kendrabindu"
+      ],
+      "id": "b70f774a0f62405f",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 133.1,
+      "story_size": 2,
+      "image_local": "images/news_3baa4ee0610dc1dff486.jpg"
+    },
+    {
+      "title": "एनपीएलमा आज काठमान्डु गोर्खाजले लुम्बिनी लायन्सको सामना गर्दै",
+      "link": "https://kendrabindu.com/sports/570035/",
+      "description": "काठमाडौं । नेपाल प्रमियर लिग (एनपीएल) मा आज एक खेल मात्रै हुँदैछ । साँझ ५ बजे त्रिवि मैदानमा हुने खेलमा काठमान्डु गोर्खाजले अंकतालिकाको शीर्ष स्थानमा रहेको लुम्बिनी लायन्सको सामना गर्दैछ । लुम्बिनी ७ अंकका साथ शीर्ष स्थानमा छ भने काठमान्डु ४ अंकका साथ चौथो स्थानमा रहेको छ । लुम्बिनी अपराजित छ । ४ खेलमा ३ [&#8230;]",
+      "published": "2026-11-07T02:01:37+00:00",
+      "source": "Kendrabindu",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu",
+        "OnlineKhabar"
+      ],
+      "id": "fee09b8a8e983a59",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 133.0,
+      "story_size": 2
+    },
+    {
+      "title": "‘दलित अधिकारका लागि छुट्टै कानुन’",
+      "link": "https://gorkhapatraonline.com/news/228587",
+      "description": "सुर्खेत समाचारदातासुर्खेत, कात्तिक २१ गते । महिला, बालबालिका, लैङ्गिक तथा यौनिक अल्पसङ्ख्यक र सामाजिक सुरक्षामन्त्री सीता बादीले दलित समुदायको शिक्षा, स्वास्थ्य, रोजगार, आर्थिक सशक...",
+      "published": "2026-11-07T07:59:07+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "politics",
+      "image": "https://gorkhapatraonline.com/storage/media/390812/conversions/minister-dalit-draft-skt-lalit-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "05cc4fc1e0df9dcc",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.3,
+      "score": 112.9,
       "story_size": 1,
-      "image_local": "images/news_b7c1d13d7978a1a639a3.jpg"
+      "image_local": "images/news_abfaf38ca1b9c6f620a3.jpg"
+    },
+    {
+      "title": "बदलिँदो जीवनशैलीले हराउँदै पर्वका मौलिक परम्परा",
+      "link": "https://gorkhapatraonline.com/news/228586",
+      "description": "हेटौँडा, कात्तिक २१ गते । नेपालीहरूले प्रमुख पर्वका रूपमा मनाउँदै आएको यमपञ्चक सुरु भइसकेको छ । यमपञ्चक सुरु हुनुभन्दा साताअघि नै विद्युतीय झिलिमिली बत्तीले सहरी बस्ती झलमल्ल भएका...",
+      "published": "2026-11-07T07:58:39+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "politics",
+      "image": "https://gorkhapatraonline.com/storage/media/390811/conversions/1000144232-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "a4f8e47cacecc62d",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.8,
+      "story_size": 1,
+      "image_local": "images/news_29319d210652cde0ca51.jpg"
+    },
+    {
+      "title": "शुक्लाफाँटाबाट उडान, हिमाचलमा प्रजनन",
+      "link": "https://gorkhapatraonline.com/news/228585",
+      "description": "अविनाश चौधरीधनगढी, कात्तिक २१ गते । नेपालमा स्याटेलाइट जडान गरिएको दुर्लभ डङ्गर गिद्ध अन्तर्राष्ट्रिय सिमाना पार गरेर भारतको हिमाचल प्रदेशमा बच्चा कोरल्नमा व्यस्त रहेको फेला परेको...",
+      "published": "2026-11-07T07:56:25+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/390810/conversions/333-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "c5f70fddb9385cd9",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.7,
+      "story_size": 1,
+      "image_local": "images/news_b8661b2f6cb591e8442c.jpg"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. घरेलु मदिराको बिक्री वितरणमा संलग्न नहुन अनुरोध\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/603853/request-not-to-engage-in-the-sale-and-distribution-of-domestic-liquor\n\n2. १२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/603852/12-news-at-12-these-are-todays-top-news-stories\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. डा. गोविन्द केसी र सरकारबीच ६ बुँदे सहमति, तोडियो अनसन\nस्रोत: Setopati, Kendrabindu, Ratopati\nhttps://www.setopati.com/politics/402217\n\n2. डिजिटल धुनको भीडमा पनि हराएन मादलको ताल\nस्रोत: Thaha Khabar, Khabarhub\nhttps://www.thahakhabar.com/detail/311568\n\n3. तिहारका लागि पोखरा आइपुगे भेँडाच्याङ्ग्रा\nस्रोत: Setopati, Ratopati\nhttps://www.setopati.com/social/402218\n\n4. इजरायलमा नयाँ प्रधानमन्त्री घोषणा आज, नेतन्याहुले सत्ता गुमाउने सम्भावना\nस्रोत: Thaha Khabar, Kendrabindu\nhttps://www.thahakhabar.com/detail/311565\n\n5. एनपीएलमा आज काठमान्डु गोर्खाजले लुम्बिनी लायन्सको सामना गर्दै\nस्रोत: Kendrabindu, OnlineKhabar\nhttps://kendrabindu.com/sports/570035/\n\n6. ‘दलित अधिकारका लागि छुट्टै कानुन’\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/228587\n\n7. बदलिँदो जीवनशैलीले हराउँदै पर्वका मौलिक परम्परा\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/228586\n\n8. शुक्लाफाँटाबाट उडान, हिमाचलमा प्रजनन\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/228585\n\n— I Am From Hetauda"
 }
