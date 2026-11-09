@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T17:54:40.599208+00:00",
+  "updated_at": "2026-11-09T19:06:31.099745+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -31,7 +31,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 132.0,
+      "score": 127.2,
       "story_size": 2,
       "image_local": "images/news_afbfcb55bda112d4cc6f.jpg"
     },
@@ -51,7 +51,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 131.4,
+      "score": 126.7,
       "story_size": 2,
       "image_local": "images/news_d85e86c702df2455e095.jpg"
     },
@@ -71,7 +71,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 130.7,
+      "score": 125.9,
       "story_size": 2
     },
     {
@@ -90,7 +90,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 130.1,
+      "score": 125.4,
       "story_size": 2,
       "image_local": "images/news_7cf4b767e3cc5b174ea2.jpg"
     },
@@ -110,7 +110,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 128.7,
+      "score": 123.9,
       "story_size": 2
     },
     {
@@ -129,9 +129,28 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 124.5,
+      "score": 119.7,
       "story_size": 2,
       "image_local": "images/news_d1eb9dbe55d922319f16.jpg"
+    },
+    {
+      "title": "१२ बजे १२ समाचार : चाडपर्वमा बाहिरियो पैसा, पोखराको पहिलो जित",
+      "link": "https://www.ratopati.com/story/604334/12-oclock-12-news-money-came-out-during-the-festival-pokharas-first-win",
+      "description": "काठमाडौँ । आज दिनभरका मुख्य १२ घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति ‘१२ बजे १२ समाचार’मा प्रस्तुत गरेका छौँ। १. भारतीय फूलमा कडाइ नेपालीहरूको दोस्रो ठूलो चाड तिहार सुरु भइसकेको छ । उज्यालो र फूलैफूलको पर्वका रूपमा चिनिने",
+      "published": "2026-11-09T18:15:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/collage-1-1_TfU6psAjmR.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "5dcfa7c03feeaf68",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.6,
+      "story_size": 1,
+      "image_local": "images/news_4e0ef5dd403c1c26acc8.webp"
     },
     {
       "title": "पर्सामा साढे तीन लाख मूल्य बराबरका ११ थरिका पटका बरामद",
@@ -148,7 +167,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.8,
+      "score": 106.0,
       "story_size": 1,
       "image_local": "images/news_3d09985f46097fe41b26.jpg"
     },
@@ -167,7 +186,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.5,
+      "score": 105.7,
       "story_size": 1,
       "image_local": "images/news_1335403cd88c97331abe.jpg"
     },
@@ -186,9 +205,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.3,
+      "score": 105.5,
       "story_size": 1,
       "image_local": "images/news_7330b2a7ecd3799479be.webp"
+    },
+    {
+      "title": "क्रिकेट मैदान",
+      "link": "https://baahrakhari.com/detail/507005",
+      "description": "",
+      "published": "2026-11-09T23:40:43+05:45",
+      "source": "Baahrakhari",
+      "category": "sports",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "d8f931cf426f96b1",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 105.3,
+      "story_size": 1
     },
     {
       "title": "म्ह: पूजा गरी नेवार समुदायले मनाए नयाँ वर्ष",
@@ -205,7 +242,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.6,
+      "score": 104.8,
       "story_size": 1,
       "image_local": "images/news_7c7cf9bb30cf2326a1ce.jpg"
     },
@@ -224,7 +261,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.3,
+      "score": 104.5,
       "story_size": 1,
       "image_local": "images/news_f1f91745136e839c17e9.jpg"
     },
@@ -243,7 +280,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.0,
+      "score": 104.2,
       "story_size": 1
     },
     {
@@ -261,7 +298,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.2,
+      "score": 103.4,
       "story_size": 1,
       "image_local": "images/news_5cd675ef107d1f9fc24e.jpg"
     },
@@ -280,7 +317,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.1,
+      "score": 103.3,
       "story_size": 1
     },
     {
@@ -298,7 +335,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.1,
+      "score": 103.3,
       "story_size": 1
     },
     {
@@ -316,7 +353,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.0,
+      "score": 103.2,
       "story_size": 1,
       "image_local": "images/news_aab9bbc068d7e32e12f6.jpg"
     },
@@ -335,7 +372,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.9,
+      "score": 103.1,
       "story_size": 1,
       "image_local": "images/news_330426c59a691403aca4.jpg"
     },
@@ -354,7 +391,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.7,
+      "score": 102.9,
       "story_size": 1,
       "image_local": "images/news_9140c1e6294194eb5d8f.jpg"
     },
@@ -373,26 +410,26 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.1,
+      "score": 102.3,
       "story_size": 1,
       "image_local": "images/news_34cfd5983c5ee4880b23.webp"
     },
     {
-      "title": "डेभिड वार्नरको उपस्थितिमा काठमान्डुले भेटाएको लय",
+      "title": "डेभिड वार्नरको उपस्थितिमा काठमान्डुले भेटेकाे लय",
       "link": "https://www.onlinekhabar.com/2026/11/2054913/kathmandu-finds-rhythm-in-david-warners-presence",
       "description": "वार्नरको भूमिका ब्याटिङमा रन बनाउनमा मात्र सीमित छैन। खेलका क्रममा उनले दिने सुझाव र रणनीतिक सल्लाह पनि काठमान्डुका लागि महत्त्वपूर्ण बनेको छ।",
       "published": "2026-11-09T17:06:07+00:00",
       "source": "OnlineKhabar",
-      "category": "nepal",
+      "category": "tech",
       "image": "",
       "related_sources": [
         "OnlineKhabar"
       ],
-      "id": "e498758330fc99cf",
+      "id": "04347e117741bba9",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.8,
+      "score": 102.0,
       "story_size": 1
     },
     {
@@ -410,7 +447,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.8,
+      "score": 102.0,
       "story_size": 1
     },
     {
@@ -428,7 +465,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.7,
+      "score": 101.9,
       "story_size": 1
     },
     {
@@ -446,7 +483,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.5,
+      "score": 101.7,
       "story_size": 1,
       "image_local": "images/news_5709a46645bde74bc972.webp"
     },
@@ -465,7 +502,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.4,
+      "score": 101.6,
       "story_size": 1,
       "image_local": "images/news_f08ee501285cbac8b585.webp"
     },
@@ -484,7 +521,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.0,
+      "score": 101.2,
       "story_size": 1,
       "image_local": "images/news_0f755d02c19b675f119a.webp"
     },
@@ -503,7 +540,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.8,
+      "score": 101.1,
       "story_size": 1,
       "image_local": "images/news_42b93bc56931d585048d.webp"
     },
@@ -522,7 +559,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.7,
+      "score": 100.9,
       "story_size": 1,
       "image_local": "images/news_a8b0ddadcf34894afdef.jpg"
     },
@@ -541,7 +578,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.4,
+      "score": 100.6,
       "story_size": 1
     },
     {
@@ -559,7 +596,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.4,
+      "score": 100.6,
       "story_size": 2,
       "image_local": "images/news_db6e28de5efe47fd7279.webp"
     },
@@ -578,7 +615,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.4,
+      "score": 100.6,
       "story_size": 1,
       "image_local": "images/news_b5ee6b18ae8800c4d103.jpg"
     },
@@ -597,7 +634,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.2,
+      "score": 100.4,
       "story_size": 1,
       "image_local": "images/news_f1f9f68e463c497d9de8.jpg"
     },
@@ -616,7 +653,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.0,
+      "score": 100.2,
       "story_size": 1,
       "image_local": "images/news_70ddf8a40fd5fcc4467e.webp"
     },
@@ -635,7 +672,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.9,
+      "score": 100.1,
       "story_size": 1,
       "image_local": "images/news_2e8faf1f8d1036dc7276.jpg"
     },
@@ -654,7 +691,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.6,
+      "score": 99.9,
       "story_size": 1,
       "image_local": "images/news_4e1f247907969ae98f4a.jpg"
     },
@@ -673,7 +710,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.1,
+      "score": 99.3,
       "story_size": 1,
       "image_local": "images/news_5b12c0af6a7417de2f45.jpg"
     },
@@ -692,25 +729,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.2,
-      "story_size": 1
-    },
-    {
-      "title": "कोप–३१ मा नेपालको प्रस्तावले पायो महत्त्व, आगामी दुई वर्ष संवाद हुने",
-      "link": "https://baahrakhari.com/detail/507002",
-      "description": "",
-      "published": "2026-11-09T21:48:29+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "b76fff92256c32ff",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 102.6,
+      "score": 98.5,
       "story_size": 1
     },
     {
@@ -728,9 +747,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.6,
+      "score": 97.9,
       "story_size": 1,
       "image_local": "images/news_82fc48d463f732177baf.png"
+    },
+    {
+      "title": "कोप–३१ मा नेपालको प्रस्तावले पायो महत्त्व, आगामी दुई वर्ष संवाद हुने",
+      "link": "https://baahrakhari.com/detail/507002",
+      "description": "",
+      "published": "2026-11-09T21:48:29+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "b76fff92256c32ff",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 97.8,
+      "story_size": 1
     },
     {
       "title": "फूलखेतीमा सात गुणा बढी आम्दानी",
@@ -747,7 +784,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.2,
+      "score": 97.4,
       "story_size": 1,
       "image_local": "images/news_04abc876083c23286c9d.jpg"
     },
@@ -766,7 +803,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.7,
+      "score": 96.9,
       "story_size": 1
     },
     {
@@ -784,7 +821,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.6,
+      "score": 96.9,
       "story_size": 1
     },
     {
@@ -802,7 +839,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.6,
+      "score": 96.8,
       "story_size": 1
     },
     {
@@ -820,7 +857,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.6,
+      "score": 96.8,
       "story_size": 1
     },
     {
@@ -838,7 +875,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.6,
+      "score": 96.8,
       "story_size": 1,
       "image_local": "images/news_94b915b73fef3cd2dc1a.webp"
     },
@@ -857,7 +894,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.6,
+      "score": 96.8,
       "story_size": 1,
       "image_local": "images/news_81dd2838389abafd11e9.jpg"
     },
@@ -876,7 +913,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.5,
+      "score": 96.7,
       "story_size": 1
     },
     {
@@ -894,7 +931,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.5,
+      "score": 96.7,
       "story_size": 1
     },
     {
@@ -912,7 +949,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.4,
+      "score": 96.6,
       "story_size": 1
     },
     {
@@ -930,7 +967,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.4,
+      "score": 96.6,
       "story_size": 1,
       "image_local": "images/news_89435e1ff213c7e067ce.webp"
     },
@@ -949,7 +986,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.4,
+      "score": 96.6,
       "story_size": 1,
       "image_local": "images/news_ba7a1f2f3ecf0a356efc.webp"
     },
@@ -968,7 +1005,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.3,
+      "score": 96.5,
       "story_size": 1
     },
     {
@@ -986,7 +1023,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.2,
+      "score": 96.4,
       "story_size": 1
     },
     {
@@ -1004,7 +1041,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.2,
+      "score": 96.4,
       "story_size": 1
     },
     {
@@ -1022,7 +1059,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.1,
+      "score": 96.4,
       "story_size": 1
     },
     {
@@ -1040,7 +1077,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.0,
+      "score": 96.3,
       "story_size": 1,
       "image_local": "images/news_97dfe34b312d3ccbb8fb.webp"
     },
@@ -1059,7 +1096,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.5,
+      "score": 95.7,
       "story_size": 1
     },
     {
@@ -1077,7 +1114,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.4,
+      "score": 95.6,
       "story_size": 1,
       "image_local": "images/news_671d00f6b31622173c6a.webp"
     },
@@ -1096,7 +1133,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.2,
+      "score": 95.4,
       "story_size": 1
     },
     {
@@ -1114,28 +1151,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.2,
+      "score": 95.4,
       "story_size": 1,
       "image_local": "images/news_b2667f4fdb9938b6ac0f.webp"
-    },
-    {
-      "title": "एनपीएलमा गणेश गौतमको डेब्यु विकेट, सिकन्दर राजालाई बनाए सिकार",
-      "link": "https://www.ratopati.com/story/604309/ganesh-gautams-debut-wicket-in-npl-dismissing-sikandar-raja",
-      "description": "काठमाडौँ। नेपाल प्रिमियर लिग (एनपीएल) मा काठमाण्डु गोर्खाजका गणेश गौतमले डेब्यु विकेट लिएका छन् । चितवन राइनोजविरुद्ध बलिङ गर्ने क्रममा गणेशले कप्तान सिकन्दर राजालाई आउट गर्दै प्रतियोगितामा पहिलो विकेट लिएका हुन् । सिकन्दर ३ बलमा २",
-      "published": "2026-11-09T14:34:01+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/ganesh-gautam_fcnNwEqYA1.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "1c86703ac0c0feea",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 99.6,
-      "story_size": 1,
-      "image_local": "images/news_d0ceeb3498ee9f9ad19e.webp"
     },
     {
       "title": "देश डुबाउने र जलाउने दुवै जनताका शत्रु हुन् : प्रेम सुवाल",
@@ -1152,8 +1170,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.5,
+      "score": 94.8,
       "story_size": 1
+    },
+    {
+      "title": "एनपीएलमा गणेश गौतमको डेब्यु विकेट, सिकन्दर राजालाई बनाए सिकार",
+      "link": "https://www.ratopati.com/story/604309/ganesh-gautams-debut-wicket-in-npl-dismissing-sikandar-raja",
+      "description": "काठमाडौँ। नेपाल प्रिमियर लिग (एनपीएल) मा काठमाण्डु गोर्खाजका गणेश गौतमले डेब्यु विकेट लिएका छन् । चितवन राइनोजविरुद्ध बलिङ गर्ने क्रममा गणेशले कप्तान सिकन्दर राजालाई आउट गर्दै प्रतियोगितामा पहिलो विकेट लिएका हुन् । सिकन्दर ३ बलमा २",
+      "published": "2026-11-09T14:34:01+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/ganesh-gautam_fcnNwEqYA1.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "1c86703ac0c0feea",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 94.8,
+      "story_size": 1,
+      "image_local": "images/news_d0ceeb3498ee9f9ad19e.webp"
     },
     {
       "title": "अर्थमन्त्री स्वर्णिम वाग्ले 'टाइम' को जलवायु क्षेत्रका १०० प्रभावशाली व्यक्तित्वको सूचीमा",
@@ -1170,7 +1207,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.5,
+      "score": 94.7,
       "story_size": 1
     },
     {
@@ -1188,7 +1225,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.4,
+      "score": 94.6,
       "story_size": 1,
       "image_local": "images/news_6a94cbd8bef2589f67ea.webp"
     },
@@ -1207,25 +1244,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.2,
-      "story_size": 1
-    },
-    {
-      "title": "तिहारमा ठूलो आवाज निकाल्ने २५ वटा मोटरसाइकल प्रहरी नियन्त्रणमा",
-      "link": "https://www.onlinekhabar.com/2026/11/2054901/police-take-25-motorcycles-under-control-for-making-loud-noise-during-tihar",
-      "description": "तिहार पर्वका समयमा सर्वसाधारण नागरिकलाई सुरक्षित र शान्त वातावरणमा आवागमन गर्ने व्यवस्था मिलाउने उद्देश्यले प्रहरीले चेकजाँच तथा निगरानीलाई तीव्रता दिएको थियो ।",
-      "published": "2026-11-09T15:10:56+00:00",
-      "source": "OnlineKhabar",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "7f9a336f18dd1a3f",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 99.1,
+      "score": 94.4,
       "story_size": 1
     },
     {
@@ -1243,9 +1262,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.1,
+      "score": 94.4,
       "story_size": 1,
       "image_local": "images/news_cd665fd818d35165ec37.jpg"
+    },
+    {
+      "title": "तिहारमा ठूलो आवाज निकाल्ने २५ वटा मोटरसाइकल प्रहरी नियन्त्रणमा",
+      "link": "https://www.onlinekhabar.com/2026/11/2054901/police-take-25-motorcycles-under-control-for-making-loud-noise-during-tihar",
+      "description": "तिहार पर्वका समयमा सर्वसाधारण नागरिकलाई सुरक्षित र शान्त वातावरणमा आवागमन गर्ने व्यवस्था मिलाउने उद्देश्यले प्रहरीले चेकजाँच तथा निगरानीलाई तीव्रता दिएको थियो ।",
+      "published": "2026-11-09T15:10:56+00:00",
+      "source": "OnlineKhabar",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "7f9a336f18dd1a3f",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 94.3,
+      "story_size": 1
     },
     {
       "title": "चितवनले गुमायो तेस्रो विकेट, जितका लागि ४१ बलमा ७४ रन आवश्यक",
@@ -1262,7 +1299,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.0,
+      "score": 94.2,
       "story_size": 1,
       "image_local": "images/news_5136b3322f79fe68438e.webp"
     },
@@ -1281,25 +1318,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.8,
-      "story_size": 1
-    },
-    {
-      "title": "काठमाण्डू शीर्ष स्थानमा उक्लियो, चितवन १० रनले पराजित",
-      "link": "https://baahrakhari.com/detail/507000",
-      "description": "",
-      "published": "2026-11-09T20:50:00+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "b1a74a63271d4b66",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 98.7,
+      "score": 94.0,
       "story_size": 1
     },
     {
@@ -1317,27 +1336,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.7,
+      "score": 93.9,
       "story_size": 1,
       "image_local": "images/news_74b85876a6995ca8d4d1.webp"
-    },
-    {
-      "title": "लगातार चार खेल जित्दै काठमान्डु शीर्ष स्थानमा",
-      "link": "https://www.onlinekhabar.com/2026/11/2054895/kathmandu-takes-top-spot-after-winning-four-consecutive-games",
-      "description": "काठमान्डुले ५ खेलबाट ८ अंक जोडेर शीर्ष स्थानमा उक्लेको हो । यस जितपछि काठमान्डु प्लेअफको निकै नजिक पुगेको छ । चितवनको भने ५ खेलमा यो दोस्रो हार हो र ५ अंकसहित चौथो स्थानमा छ ।",
-      "published": "2026-11-09T15:01:13+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "2826f911b7b46ba9",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 98.4,
-      "story_size": 1
     },
     {
       "title": "परराष्ट्रमन्त्री र इथियोपियाका विदेशमन्त्रीबिच द्विपक्षीय भेटवार्ता",
@@ -1354,9 +1355,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.4,
+      "score": 93.7,
       "story_size": 1,
       "image_local": "images/news_572065e7752e72b9a543.webp"
+    },
+    {
+      "title": "लगातार चार खेल जित्दै काठमान्डु शीर्ष स्थानमा",
+      "link": "https://www.onlinekhabar.com/2026/11/2054895/kathmandu-takes-top-spot-after-winning-four-consecutive-games",
+      "description": "काठमान्डुले ५ खेलबाट ८ अंक जोडेर शीर्ष स्थानमा उक्लेको हो । यस जितपछि काठमान्डु प्लेअफको निकै नजिक पुगेको छ । चितवनको भने ५ खेलमा यो दोस्रो हार हो र ५ अंकसहित चौथो स्थानमा छ ।",
+      "published": "2026-11-09T15:01:13+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "2826f911b7b46ba9",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 93.6,
+      "story_size": 1
     },
     {
       "title": "श्रमिकको तलब बढेको हो ? नयाँ कार्यविधिले व्यवसायी र युनियन दुवै अलमलमा",
@@ -1373,7 +1392,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.4,
+      "score": 93.6,
       "story_size": 1,
       "image_local": "images/news_b8fed55727229f2e4dec.webp"
     },
@@ -1392,27 +1411,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.9,
+      "score": 93.1,
       "story_size": 1
-    },
-    {
-      "title": "तस्बिरमा हेर्नुहाेस् झिलिमिलि टीयू ग्राउण्ड र काठमाडाैँ उपत्यका",
-      "link": "https://www.ratopati.com/story/604303/see-the-shimmering-tu-ground-and-kathmandu-valley-in-the-photo",
-      "description": "काठमाडाैँ। काठमाण्डु गोर्खाज र चितवन राईनोजबिच खेल चलिरहँदा कीर्तिपुरस्थित त्रिवि(टीयू) क्रिकेट रंगशालासहित काठमाडाैँ उपत्यका झिलिमिली देखिएकाे छ।",
-      "published": "2026-11-09T14:00:39+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/tu_oopnBu7xJV.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "2142d49aa6055e3d",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 97.4,
-      "story_size": 1,
-      "image_local": "images/news_6be3542513480ae5b54e.webp"
     },
     {
       "title": "टर्कीमा सार्वजनिक वैज्ञानिक प्रतिवेदनमा नेपालकै विपदको चर्चा",
@@ -1429,7 +1429,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.3,
+      "score": 91.5,
       "story_size": 1
     },
     {
@@ -1447,28 +1447,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.2,
+      "score": 91.4,
       "story_size": 1,
       "image_local": "images/news_6d544f093e45d9ae3127.jpg"
-    },
-    {
-      "title": "स्याफ्रुबेँसीमा आवतजावत सहज",
-      "link": "https://gorkhapatraonline.com/news/228777",
-      "description": "रसुवा, कात्तिक २३ गते । स्याफ्रुबेँसीको काठे पुल निर्माण भएको छ । गत कात्तिक १४ गते भोटेकोशी बाढीले स्याफ्रुबेँसी खोलाको पुल बगाएको थियो । उक्त पुल तीन दिनको निरन्तर प्रयासपछि पुनर...",
-      "published": "2026-11-09T19:23:15+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/391067/conversions/1000119982-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "c1a42518e82ce78b",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 95.9,
-      "story_size": 1,
-      "image_local": "images/news_88b0abbaaef39390e612.jpg"
     },
     {
       "title": "अमेरिकी युद्धपोत ‘थियोडोर रुजवेल्ट’ अर्को साताअघि मध्यपूर्व नपुग्ने",
@@ -1485,8 +1466,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.8,
+      "score": 91.1,
       "story_size": 1
+    },
+    {
+      "title": "स्याफ्रुबेँसीमा आवतजावत सहज",
+      "link": "https://gorkhapatraonline.com/news/228777",
+      "description": "रसुवा, कात्तिक २३ गते । स्याफ्रुबेँसीको काठे पुल निर्माण भएको छ । गत कात्तिक १४ गते भोटेकोशी बाढीले स्याफ्रुबेँसी खोलाको पुल बगाएको थियो । उक्त पुल तीन दिनको निरन्तर प्रयासपछि पुनर...",
+      "published": "2026-11-09T19:23:15+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/391067/conversions/1000119982-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "c1a42518e82ce78b",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 91.1,
+      "story_size": 1,
+      "image_local": "images/news_88b0abbaaef39390e612.jpg"
     },
     {
       "title": "आजका समाचार : मनाइयो गाईतिहार, अर्थमन्त्री टर्कीए प्रस्थान, सरकारप्रति ओलीको आक्रोश, एनपीएल जारी र अमेरीका-इरान वार्ता निष्कर्षविहीन",
@@ -1503,7 +1503,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.3,
+      "score": 90.5,
       "story_size": 1
     },
     {
@@ -1521,7 +1521,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.9,
+      "score": 89.1,
       "story_size": 1
     },
     {
@@ -1539,7 +1539,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.2,
+      "score": 88.4,
       "story_size": 1
     },
     {
@@ -1557,7 +1557,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.5,
+      "score": 87.7,
       "story_size": 1
     },
     {
@@ -1575,7 +1575,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.8,
+      "score": 87.1,
       "story_size": 1
     },
     {
@@ -1593,7 +1593,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.6,
+      "score": 85.9,
       "story_size": 1
     },
     {
@@ -1611,7 +1611,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.5,
+      "score": 85.7,
       "story_size": 1
     },
     {
@@ -1629,7 +1629,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.4,
+      "score": 85.6,
       "story_size": 1
     },
     {
@@ -1647,7 +1647,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.3,
+      "score": 85.5,
       "story_size": 1
     },
     {
@@ -1665,7 +1665,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.5,
+      "score": 84.7,
       "story_size": 1
     },
     {
@@ -1683,7 +1683,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.4,
+      "score": 84.7,
       "story_size": 1
     },
     {
@@ -1701,7 +1701,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.4,
+      "score": 84.6,
       "story_size": 1
     },
     {
@@ -1719,7 +1719,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.3,
+      "score": 84.5,
       "story_size": 1
     },
     {
@@ -1737,7 +1737,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.0,
+      "score": 84.2,
       "story_size": 1
     },
     {
@@ -1755,7 +1755,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.7,
+      "score": 84.0,
       "story_size": 1
     },
     {
@@ -1773,7 +1773,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.7,
+      "score": 83.9,
       "story_size": 1
     },
     {
@@ -1791,7 +1791,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.4,
+      "score": 83.6,
       "story_size": 1
     },
     {
@@ -1809,7 +1809,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.2,
+      "score": 83.4,
       "story_size": 1
     },
     {
@@ -1827,7 +1827,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.0,
+      "score": 83.3,
       "story_size": 1
     },
     {
@@ -1845,7 +1845,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.8,
+      "score": 83.0,
       "story_size": 1
     },
     {
@@ -1863,7 +1863,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.8,
+      "score": 83.0,
       "story_size": 1
     },
     {
@@ -1881,7 +1881,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.0,
+      "score": 82.2,
       "story_size": 1
     },
     {
@@ -1899,7 +1899,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.3,
+      "score": 81.5,
       "story_size": 1
     },
     {
@@ -1917,7 +1917,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.8,
+      "score": 81.1,
       "story_size": 1
     },
     {
@@ -1935,7 +1935,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.6,
+      "score": 80.8,
       "story_size": 1
     },
     {
@@ -1953,7 +1953,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.2,
+      "score": 80.4,
       "story_size": 1
     },
     {
@@ -1971,7 +1971,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.6,
+      "score": 79.8,
       "story_size": 1
     },
     {
@@ -1989,7 +1989,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.9,
+      "score": 79.1,
       "story_size": 1
     },
     {
@@ -2007,7 +2007,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.7,
+      "score": 78.9,
       "story_size": 1
     },
     {
@@ -2025,7 +2025,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.4,
+      "score": 78.6,
       "story_size": 1
     },
     {
@@ -2043,7 +2043,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.2,
+      "score": 77.4,
       "story_size": 1
     },
     {
@@ -2061,7 +2061,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.1,
+      "score": 77.3,
       "story_size": 1
     },
     {
@@ -2079,7 +2079,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.0,
+      "score": 77.2,
       "story_size": 1
     },
     {
@@ -2097,7 +2097,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.7,
+      "score": 76.9,
       "story_size": 1
     },
     {
@@ -2115,7 +2115,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.4,
+      "score": 76.6,
       "story_size": 1
     },
     {
@@ -2133,7 +2133,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.8,
+      "score": 76.1,
       "story_size": 1
     },
     {
@@ -2151,7 +2151,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.5,
+      "score": 75.8,
       "story_size": 1
     },
     {
@@ -2169,7 +2169,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.2,
+      "score": 75.4,
       "story_size": 1
     },
     {
@@ -2187,7 +2187,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.9,
+      "score": 75.1,
       "story_size": 1
     },
     {
@@ -2205,7 +2205,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.5,
+      "score": 74.7,
       "story_size": 1
     },
     {
@@ -2223,7 +2223,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.1,
+      "score": 73.3,
       "story_size": 1
     },
     {
@@ -2241,7 +2241,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.3,
+      "score": 72.5,
       "story_size": 1
     },
     {
@@ -2259,7 +2259,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.3,
+      "score": 72.5,
       "story_size": 1
     },
     {
@@ -2277,7 +2277,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.8,
+      "score": 71.1,
       "story_size": 1
     },
     {
@@ -2295,7 +2295,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.5,
+      "score": 70.7,
       "story_size": 1
     },
     {
@@ -2313,7 +2313,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.6,
+      "score": 69.8,
       "story_size": 1
     },
     {
@@ -2331,7 +2331,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.5,
+      "score": 69.7,
       "story_size": 1
     },
     {
@@ -2349,7 +2349,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.5,
+      "score": 69.7,
       "story_size": 1
     },
     {
@@ -2367,7 +2367,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.7,
+      "score": 68.9,
       "story_size": 1
     },
     {
@@ -2385,7 +2385,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.3,
+      "score": 68.5,
       "story_size": 1
     },
     {
@@ -2403,7 +2403,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.0,
+      "score": 68.2,
       "story_size": 1
     },
     {
@@ -2421,7 +2421,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.8,
+      "score": 68.0,
       "story_size": 1
     },
     {
@@ -2439,7 +2439,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.0,
+      "score": 61.2,
       "story_size": 1
     },
     {
@@ -2457,7 +2457,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 60.5,
+      "score": 55.7,
       "story_size": 1
     },
     {
@@ -2475,7 +2475,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 48.4,
+      "score": 43.6,
       "story_size": 1
     },
     {
@@ -2493,7 +2493,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 47.7,
+      "score": 42.9,
       "story_size": 1
     },
     {
