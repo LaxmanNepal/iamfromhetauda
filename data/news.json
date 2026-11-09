@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T20:43:28.740150+00:00",
+  "updated_at": "2026-11-09T00:07:54.890017+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -15,27 +15,6 @@
     "Gorkhapatra Online"
   ],
   "items": [
-    {
-      "title": "घट्दै मादलको माग, सङ्कटमा परम्परागत पेसा",
-      "link": "https://gorkhapatraonline.com/news/228724",
-      "description": "धनकुटा, कात्तिक २२ गते । तिहार भन्ने बित्तिकै देउसी–भैलो, गीतसङ्गीत र रमाइलोको पर्व भन्ने बुझिन्छ । गाउँघरदेखि सहर बजारसम्म तिहारको उल्लास छाउँदा देउसी–भैलोका भाकासँगै मादलको तालले...",
-      "published": "2026-11-08T23:01:12+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "politics",
-      "image": "https://gorkhapatraonline.com/storage/media/390994/conversions/Image-2026-11-07-at-11.53.28-AM-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online",
-        "Khabarhub",
-        "Ratopati"
-      ],
-      "id": "1aeb5294a79ebc53",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 133.2,
-      "story_size": 3,
-      "image_local": "images/news_1bf5da56ead0fe6d8a3d.jpg"
-    },
     {
       "title": "डोल्पा कारागारबाट फरार थप दुई कैदी पक्राउ",
       "link": "https://gorkhapatraonline.com/news/228719",
@@ -53,9 +32,404 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 131.8,
+      "score": 118.2,
       "story_size": 3,
       "image_local": "images/news_cf1860225c884076021c.jpg"
+    },
+    {
+      "title": "दीपावलीमा केराका थाम बेचेर किसानलाई अतिरिक्त आम्दानी",
+      "link": "https://www.ratopati.com/story/604163",
+      "description": "धनुषा । मिथिला क्षेत्रमा दीपावली पर्व केराखेती गर्ने किसानका लागि अतिरिक्त आम्दानीको अवसर बनेको छ । लक्ष्मीपूजाका दिन घरघरमा केराका थामबाट स्वागतद्वार बनाउने परम्पराका कारण यसको माग बढेपछि किसानले राम्रो आम्दानी गर्न थालेका छन् । स्थानीय",
+      "published": "2026-11-08T23:57:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/tham_CvUwzMVbkI.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "0ff38bf60934a559",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.3,
+      "story_size": 1,
+      "image_local": "images/news_eff7168056299b5a9811.webp"
+    },
+    {
+      "title": "तनहुँमा साढे २ लाखभन्दा बढी पशुपन्छीको बीमा, ६९ करोडको जोखिम सुरक्षण",
+      "link": "https://www.ratopati.com/story/604162/tihar",
+      "description": "तनहुँ । तनहुँमा दुई लाख ६१ हजारभन्दा बढी पशुपन्छी तथा जलचरको बीमा गरिएको छ । पशुधनमा हुन सक्ने जोखिम न्यूनीकरण गरी पशुपालक किसानलाई सम्भावित आर्थिक क्षतिबाट जोगाउने उद्देश्यले जिल्लामा पशु बीमा कार्यक्रम सञ्चालन हुँदै आएको",
+      "published": "2026-11-08T23:42:19+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://rpcdn.ratopati.com/media/albums/cow_farm_baburam_4_sUO50v6NE0.JPG",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "d1e4d0a72285efb2",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.3,
+      "story_size": 1,
+      "image_local": "images/news_a3802746c42da4f38f39.jpg"
+    },
+    {
+      "title": "उत्पादन बढेपछि फूलको मूल्य घट्यो",
+      "link": "https://www.ratopati.com/story/604159",
+      "description": "सुनसरी । यस वर्ष तिहार केही ढिला परेको र मौसम अनुकूल हुँदा स्थानीय फूलको उत्पादन बढेको छ । आपूर्ति पर्याप्त भएपछि मूल्य घटेको छ । गत वर्षको तुलनामा मूल्य घट्दा किसानले लागत मूल्य पाउन कठिन",
+      "published": "2026-11-08T23:40:32+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/28-flower-sales-928_x1SszibcYk.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "36898ef23249b980",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.2,
+      "story_size": 1,
+      "image_local": "images/news_9fe32dce49233481d5b1.webp"
+    },
+    {
+      "title": "आधुनिकताले ओझेलमा पर्दै तिहारका मौलिक परम्परा",
+      "link": "https://www.ratopati.com/story/604161",
+      "description": "भोजपुर । आधुनिक जीवनशैली र प्रविधिको विकाससँगै भोजपुरका गाउँघरमा तिहार मनाउने मौलिक परम्परा क्रमशः हराउँदै जान थालेका छन् । पुस्तौँदेखि चल्दै आएका परम्परागत संस्कार, विधि र स्थानीय सामग्रीको प्रयोग घट्दै जाँदा तिहारको मौलिकता कमजोर बन्दै",
+      "published": "2026-11-08T23:38:12+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/tihar-lighting-14_HO8HGIe1fu.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "c9d05aec6e061b19",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.0,
+      "story_size": 1,
+      "image_local": "images/news_f068f93fd966cbf9362f.webp"
+    },
+    {
+      "title": "सोमबार यस्तो छ विदेशी मुद्राको विनिमय दर",
+      "link": "https://www.ratopati.com/story/604160",
+      "description": "काठमाडौँ । नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमय दर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १४९ रुपैयाँ ९६ पैसा र बिक्रीदर १५० रुपैयाँ ५६ पैसा निर्धारण गरिएको छ",
+      "published": "2026-11-08T23:33:39+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://rpcdn.ratopati.com/media/albums/forex_FMYjdGPO4Y.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "622e557463359e9c",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.7,
+      "story_size": 1,
+      "image_local": "images/news_9c2c4a7c0f4205dc6b29.jpg"
+    },
+    {
+      "title": "रैथाने गाईगोरु पाल्ने चलन हराउँदै",
+      "link": "https://www.ratopati.com/story/604156",
+      "description": "म्याग्दी । म्याग्दीको धवलागिरि गाउँपालिका–३ मुनाका यामप्रसाद पुनले गाई पाल्न छाडेको पाँच वर्ष भयो । करिब तीन दशकसम्म गाई पालेर लेकबेँसी गर्नुभएका पुनले अहिले गाईको सट्टा भैँसी पाल्न थालेका छन् । “थोरै दूध दिने १० वटा",
+      "published": "2026-11-08T23:30:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/cow_kdQKQjf1Eb.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "d278455e3b4b4baa",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.5,
+      "story_size": 1,
+      "image_local": "images/news_15968c04d5974448f818.jpg"
+    },
+    {
+      "title": "रोग र विषादीले मौरीपालन व्यवसाय सङ्कटमा",
+      "link": "https://www.ratopati.com/story/604158",
+      "description": "झापा । ‘मौरी दिदी’ भनेर परिचित शिवसताक्षी नगरपालिका–११ की देवीकुमारी दाहालले पालेका डेढ सय घारका मौरी रोगले मरेका छन् । अब उनको ५० घारमा मात्र मौरी बाँकी छन् । अठार वर्षअघि रु एक हजारको लगानीमा दुई",
+      "published": "2026-11-08T23:26:12+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://npcdn.ratopati.com/media/news/mauri-palan_z6d0hf8H9h.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "45d3fd50282aadb8",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.2,
+      "story_size": 1,
+      "image_local": "images/news_1cfa6bee05afd2eb2f14.jpg"
+    },
+    {
+      "title": "यमपञ्चकको तेस्रो दिन आज गाईको पूजा आराधना गरी मनाइँदै",
+      "link": "https://www.ratopati.com/story/604155/cow-tihar",
+      "description": "काठमाडौँ । यमपञ्चकको तेस्रो दिन आज घर–घरमा गाईको विशेष पूजा आराधना गरी गाई तिहार मनाइँदै छ । वैदिक सनातन कालदेखि नै गाईलाई पवित्र मानी ‘गौमाता’का रूपमा सम्मान र पूजा गर्ने परम्परा रहिआएको छ । तिहारको औँसीको",
+      "published": "2026-11-08T23:22:12+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/cow-puja_JdAONOIbcU.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "e0da8df27bd2ba73",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.0,
+      "story_size": 1,
+      "image_local": "images/news_858722dd69ca45f16aac.jpg"
+    },
+    {
+      "title": "आजदेखि कोप–३१ सुरु: वास्तविकता देखाउँदै नेपालले खोज्ने छ जलवायु न्याय",
+      "link": "https://www.ratopati.com/story/604157",
+      "description": "काठमाडौँ । गत भदौ १० मा भोटेकोशी नदीमा आएको विनाशकारी बाढीले निम्त्याएको क्षतिले नेपाललाई गहिरो पीडा दिएको छ । पीडा भुल्न अझै लामो समय लाग्ला । बाढीमा परी एक हजार ४५० भन्दा बढीको ज्यान गएको",
+      "published": "2026-11-08T23:21:10+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/cope-31_wuW353EtE9.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "c01a411f736705be",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.9,
+      "story_size": 1,
+      "image_local": "images/news_606efcab2f61d707da61.webp"
+    },
+    {
+      "title": "घट्दै मादलको माग, सङ्कटमा परम्परागत पेसा",
+      "link": "https://gorkhapatraonline.com/news/228724",
+      "description": "धनकुटा, कात्तिक २२ गते । तिहार भन्ने बित्तिकै देउसी–भैलो, गीतसङ्गीत र रमाइलोको पर्व भन्ने बुझिन्छ । गाउँघरदेखि सहर बजारसम्म तिहारको उल्लास छाउँदा देउसी–भैलोका भाकासँगै मादलको तालले...",
+      "published": "2026-11-08T23:01:12+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "politics",
+      "image": "https://gorkhapatraonline.com/storage/media/390994/conversions/Image-2026-11-07-at-11.53.28-AM-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online",
+        "Khabarhub"
+      ],
+      "id": "1aeb5294a79ebc53",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 109.6,
+      "story_size": 2,
+      "image_local": "images/news_1bf5da56ead0fe6d8a3d.jpg"
+    },
+    {
+      "title": "कुन राशिलाई शुभ, कुनलाई मध्यम ? हेर्नुहाेस आजको राशिफल",
+      "link": "https://www.ratopati.com/story/604153/which-zodiac-sign-is-auspicious-which-is-average-check-out-todays-horoscope",
+      "description": "आजको पञ्चाङ्ग वि.सं.२०८३ साल कार्तिक २३ गते । सोमबार । इस्वी सन् २०२६ नोभेम्बर ९ तारिख । नेपाल संवत् ११४६ । रौद्र संवत्सर । दक्षिणायन । शरद ऋतु । श्रीशाके १९४८ । कार्तिक कृष्णपक्ष । तिथि–औशी,",
+      "published": "2026-11-08T23:15:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/horoscope_68mF8G6CaS.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "a748ebd1af860cd7",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.5,
+      "story_size": 1,
+      "image_local": "images/news_0801267ae47ce997ddb8.jpg"
+    },
+    {
+      "title": "सोमबारका लागि विदेशी मुद्राको विनिमयदर निर्धारण",
+      "link": "https://khabarhub.com/2026/09/1046216/",
+      "description": "काठमाडौँ– नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १४९ रुपैयाँ ९६ पैसा र बिक्रीदर १५० रुपैयाँ ५६ पैसा निर्धारण गरिएको छ । युरोपियन युरो एकको खरिददर १६७ रुपैयाँ १२ पैसा र बिक्रीदर १६७ रुपैयाँ ७८ पैसा, युके पाउन्ड स्ट्रलिङ एकको खरिददर २०० रुपैयाँ [&#8230;]",
+      "published": "2026-11-08T23:58:10+00:00",
+      "source": "Khabarhub",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "c1453fa7a7bf67c9",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.4,
+      "story_size": 1
+    },
+    {
+      "title": "सप्तरङ्गी पर्व तिहार : पशुपन्छी पूजादेखि भाइटीकासम्म",
+      "link": "https://khabarhub.com/2026/09/1045802/",
+      "description": "काठमाडाैँ &#8211; सप्तरङ्गी तिहार । संसारमा सायदै यस्ता पर्व अरू होलान्, जसमा सातथरीका रङ्ग, दियो-बत्ती र झिलिमिली, देउसी-भैलोको रौनक, सेलरोटीको वासना, धन-ऐश्वर्यकी देवी लक्ष्मीको पूजा-आराधना, घरघरमा रङ्गोलीको सुन्दरता, चङ्गाले भरिएका आकाश, दाजुभाइ र दिदीबहिनीबीचको आपसी प्रेम र स्नेहलाई फलाउने-फुलाउने आधार र निधारमा रङ्गिने सप्तरङ्गी टीका समावेश हुन्छन्। तिहारलाई पशुपन्छीदेखि मानवसम्मको पूजा हुने उज्यालोको पर्व पनि [&#8230;]",
+      "published": "2026-11-08T23:51:56+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "8b867c1df374cf54",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.9,
+      "story_size": 1
+    },
+    {
+      "title": "आज २०८३ साल कात्तिक २३ गते सोमबार राशिफल",
+      "link": "https://khabarhub.com/2026/09/1046198/",
+      "description": "काठमाडौँ – २०८३ साल कात्तिक २३ गते सोमबार सन् २०२६ नोभेम्बर ९ तारिख। कार्तिक कृष्ण पक्षको औंसी तिथि। गाई पूजा र विश्व स्वतन्त्रता दिवस । नक्षत्र अनुसार १२ वटा राशि हुन्छन्। चन्द्रमा अनुसार राशि र नक्षत्रका पद अनुसार नाम राखिन्छ। त्यही आधारमा व्यक्तिको दैनिकीको विषयमा भविष्यवाणी हुन्छ। खबरहबका लागि ज्योतिष पण्डित सूर्यनाथ लुइटेलले तयार पार्नुभएको [&#8230;]",
+      "published": "2026-11-08T23:43:14+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "42a0add822ce5f93",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.4,
+      "story_size": 1
+    },
+    {
+      "title": "जलविद्युत् कम्पनीको सामाजिक उत्तरदायित्वमा जोड",
+      "link": "https://www.ratopati.com/story/604154",
+      "description": "कास्की । कास्कीको मादी गाउँपालिकाले गाउँपालिकाभित्र सञ्चालनमा रहेका जलविद्युत् आयोजनालाई दायरामा ल्याउन पहल सुरु गरेको छ । गाउँपालिकाले सबै जलविद्युत् कम्पनीलाई पालिकामा सूचीकृत गर्ने तयारी गरेको हो । गाउँपालिकाले नेपाल सरकारको कम्पनी कानुनबमोजिम दर्ता भई सञ्चालनमा",
+      "published": "2026-11-08T22:58:57+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://rpcdn.ratopati.com/media/albums/kaski_zVE0A1gexY.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "c83a59f662f01875",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.4,
+      "story_size": 1,
+      "image_local": "images/news_6aac1feeedeb32e7fbcd.jpg"
+    },
+    {
+      "title": "फ्रान्सबाट सुरु भएको प्रदर्शनको लहर युरोपभर कसरी फैलियो ?",
+      "link": "https://www.onlinekhabar.com/2026/11/2054201/how-did-the-wave-of-protests-that-started-in-france-spread-across-europe",
+      "description": "सामान्यतया प्रदर्शनका चक्रहरू करिब २० दिन वा ठूला आन्दोलनहरू ३६ दिनसम्म चल्ने गर्छन्। तर, एसीएलईडीको गणनाअनुसार यो आन्दोलन ४५ दिन पुगिसकेको छ र अझै जारी छ।",
+      "published": "2026-11-08T23:39:23+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "b5323c6a533c30e6",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.1,
+      "story_size": 1
+    },
+    {
+      "title": "साहित्यिक गतिविधि ‘डिजिटल’ बनाउन जोड",
+      "link": "https://www.ratopati.com/story/604152",
+      "description": "म्याग्दी । युवा पुस्तालाई साहित्यप्रति आकर्षित गर्न तथा सिर्जना र कृतिलाई आम पाठकसम्म पुर्याउन साहित्यिक गतिविधिलाई डिजिटल तथा प्रविधिमैत्री बनाउनुपर्नेमा म्याग्दीका साहित्यकारले जोड दिएका छन् । नेपाली साहित्यका महाकवि लक्ष्मीप्रसाद देवकोटाको ११८औँ जन्म जयन्तीका अवसरमा आइतबार",
+      "published": "2026-11-08T22:45:18+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/ugNZhXo9tA.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "ef4602bc81d35cf2",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 107.5,
+      "story_size": 1,
+      "image_local": "images/news_50dc710a7db1bff2872c.jpg"
+    },
+    {
+      "title": "मोबाइलका सामग्री बरामद",
+      "link": "https://www.ratopati.com/story/604151",
+      "description": "रुपन्देही । रुपन्देही प्रहरीले भन्सार छली गरी ल्याइएका रु छ लाखभन्दा बढी मूल्यका मोबाइलका विभिन्न पार्टपुर्जा तथा अन्य सामग्रीसहित मोटरसाइकल बरामद गरेको छ । जिल्ला प्रहरी कार्यालय रुपन्देहीका अनुसार लुम्बिनी सांस्कृतिक नगरपालिका–११ स्थित मसिनाबाट आइतबार इलाका",
+      "published": "2026-11-08T22:41:24+00:00",
+      "source": "Ratopati",
+      "category": "tech",
+      "image": "https://rpcdn.ratopati.com/media/albums/rupandehi_3wohmj8N79.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "764a97f323c263af",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 107.2,
+      "story_size": 1,
+      "image_local": "images/news_17606a6f6387be215ab5.jpg"
+    },
+    {
+      "title": "सडक नाटकमार्फत सुरक्षित मातृत्वबारे सचेतना",
+      "link": "https://www.ratopati.com/story/604150",
+      "description": "हुम्ला । गर्भवती महिला र गर्भमा रहेको शिशुको स्वास्थ्य सुरक्षाका लागि नियमित स्वास्थ्य परीक्षण तथा स्वास्थ्य संस्थामै प्रसूति गराउनुपर्ने सन्देशसहित हुम्लाका विभिन्न समुदायमा सडक नाटकमार्फत जनचेतना फैलाइएको छ । नाटकमा गर्भवती महिलाले गर्भावस्थामा कम्तीमा आठ पटक",
+      "published": "2026-11-08T22:38:55+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/humla-map_1YzcbHeZBF.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "71e58adffa308869",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 107.1,
+      "story_size": 1,
+      "image_local": "images/news_680116586eb32b609a5a.jpg"
+    },
+    {
+      "title": "फर्मीन लोपेज चम्किँदा बार्सिलोनाद्वारा एट्लेटिको म्याड्रिड २-१ ले पराजित",
+      "link": "https://www.ratopati.com/story/604149",
+      "description": "काठमाडौँ । स्पेनिस ला लिगा अन्तर्गत सम्पन्न खेलमा बार्सिलोनाले घरेलु टोली एट्लेटिको म्याड्रिडलाई २–१ गोल अन्तरले पराजित गरेको छ । सुरुवाती अग्रता उल्टाउँदै बार्सिलोनाले रोमाञ्चक पुनरागमन जित दर्ता गरेको हो । खेलको १०औँ मिनेटमा जुलियानो सिमिओनीले",
+      "published": "2026-11-08T22:36:11+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/barca_YKlzuj4guC.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "e51de7b11723316b",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 106.9,
+      "story_size": 1,
+      "image_local": "images/news_b623fe3b9f7aef9f0019.webp"
+    },
+    {
+      "title": "ट्रम्पको टिप्पणी : मध्यावधि निर्वाचन अमेरिकी इतिहासकै ठूलो प्रतिगमन",
+      "link": "https://www.onlinekhabar.com/2026/11/2054198/trumps-comments-midterm-elections-are-the-biggest-setback-in-american-history",
+      "description": "२३ कात्तिक, वासिङ्टन । यो वर्षको अमेरिकी मध्यावधि निर्वाचन अमेरिकाका लागि ‘इतिहासकै ठूलो प्रतिगमन’ भएको अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले आइतबार टिप्पणी गरेका छन् । उनले निर्वाचनमा भएको ठूलो हारबाट अझ बलियो भएर फर्कने प्रतिबद्धता व्यक्त गरेका छन् । डेमोक्र्याटहरूले गत मङ्गलबारको मध्यावधिमा कंग्रेसका दुवै सदनहरू कब्जा गरे जसले ट्रम्पको रिपब्लिकन पार्टीलाई दशकौँदेखि प्रभुत्व जमाएका राज्यहरूमा [&#8230;]",
+      "published": "2026-11-08T23:09:58+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "96f14f97d87ab1f6",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 106.1,
+      "story_size": 1
     },
     {
       "title": "राइफलको गोलीसहित एकजना पक्राउ",
@@ -73,66 +447,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 116.9,
-      "story_size": 2
-    },
-    {
-      "title": "सुन्डीखोलामा पुल निर्माण",
-      "link": "https://www.ratopati.com/story/604124/construction-of-a-bridge-over-sundikhola",
-      "description": "काभ्रे। काभ्रेपलाञ्चोकको धुलिखेल नगरपालिका–१० स्थित सुन्डीखोलामा पुल निर्माण गरिएको छ । रु एक करोड ७९ लाखको लागतमा सो पुल निर्माण गरिएको हो। पूर्वाधार विकास कार्यालय, धुलिखेल र रोशी गाउँपालिका–२ स्थित एम/एस लामा प्रगति निर्माण सेवाबीच पुल",
-      "published": "2026-11-08T14:45:55+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/DT6XY7eTo7.jpg",
-      "related_sources": [
-        "Ratopati",
-        "Nepal Samaya"
-      ],
-      "id": "c589ee352ab830ed",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 113.2,
-      "story_size": 2,
-      "image_local": "images/news_efd903a71b48e64ae451.jpg"
-    },
-    {
-      "title": "सयपत्री फूलबाट वार्षिक चार लाख आम्दानी",
-      "link": "https://www.ratopati.com/story/604122/annual-income-of-4-lakhs-from-the-centaury-flower",
-      "description": "गुल्मी। बढ्दो बसाईसराईका कारण पछिल्लो समयमा गाउँघरमा खेतबारी बाँझिँदै गएका छन्। रोजगारी र अवसरको खोजीमा युवा पुस्ता विदेशिने क्रम बढ्दो छ। तर छत्रकोट गाउँपालिका–२ ग्वाघाकी ५२ वर्षीय लक्ष्मी महत्राले भने अरूले छाडेका बाँझो जग्गामा व्यावसायीक",
-      "published": "2026-11-08T14:41:45+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/sayapatri-19_cI1gUmFpJY.webp",
-      "related_sources": [
-        "Ratopati",
-        "Khabarhub"
-      ],
-      "id": "171ca6bf795c3c69",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 112.9,
-      "story_size": 2,
-      "image_local": "images/news_d719a2cb32c1f40f36ec.webp"
-    },
-    {
-      "title": "सेनेगलमा डुङ्गा डुब्दा २१ आप्रबासीको मृत्यु",
-      "link": "https://www.onlinekhabar.com/2026/11/2054127/21-migrants-die-in-senegal-boat-sinking",
-      "description": "अफ्रिकादेखि युरोपसम्मको खतरनाक एटलान्टिक महासागरको मार्गमा आप्रवासी बोकेको एउटा डुङ्गा दुर्घटनामा परी कम्तीमा २१ जनाको मृत्यु भएको अधिकारीहरूले बताएका छन्।",
-      "published": "2026-11-08T13:42:44+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar",
-        "Khabarhub"
-      ],
-      "id": "7ef5392ea51371cc",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 106.0,
+      "score": 103.3,
       "story_size": 2
     },
     {
@@ -150,7 +465,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.1,
+      "score": 91.5,
       "story_size": 1,
       "image_local": "images/news_38a150fa07f562e27e07.jpg"
     },
@@ -169,7 +484,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.4,
+      "score": 90.7,
       "story_size": 1,
       "image_local": "images/news_8af5e5a624e650efb357.webp"
     },
@@ -188,7 +503,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.1,
+      "score": 90.5,
       "story_size": 1,
       "image_local": "images/news_fbb31238884241fca663.jpg"
     },
@@ -207,7 +522,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.8,
+      "score": 90.1,
       "story_size": 1,
       "image_local": "images/news_831a5952912832e50706.jpg"
     },
@@ -227,7 +542,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 103.5,
+      "score": 89.8,
       "story_size": 2
     },
     {
@@ -245,7 +560,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.1,
+      "score": 89.5,
       "story_size": 1,
       "image_local": "images/news_c57b569b0b11ede3a927.webp"
     },
@@ -264,7 +579,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.2,
+      "score": 88.6,
       "story_size": 1,
       "image_local": "images/news_f1294488164050056e9d.jpg"
     },
@@ -283,7 +598,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.3,
+      "score": 85.7,
       "story_size": 1,
       "image_local": "images/news_f630683fe3a222eee779.webp"
     },
@@ -302,7 +617,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.9,
+      "score": 85.3,
       "story_size": 1,
       "image_local": "images/news_ca54d274c64521b254d6.webp"
     },
@@ -321,7 +636,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.6,
+      "score": 85.0,
       "story_size": 1,
       "image_local": "images/news_64e265f2b876b8278a47.webp"
     },
@@ -340,7 +655,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.4,
+      "score": 84.8,
       "story_size": 1,
       "image_local": "images/news_824d0a5099481dd58e6a.webp"
     },
@@ -359,7 +674,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.4,
+      "score": 84.7,
       "story_size": 1,
       "image_local": "images/news_7afb7f49aeffb5e59328.jpg"
     },
@@ -378,7 +693,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.3,
+      "score": 84.6,
       "story_size": 1
     },
     {
@@ -396,7 +711,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.7,
+      "score": 84.0,
       "story_size": 1,
       "image_local": "images/news_801fc8f510564568c56c.webp"
     },
@@ -415,7 +730,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.0,
+      "score": 83.4,
       "story_size": 1,
       "image_local": "images/news_2d680d8170f2462c6d54.jpg"
     },
@@ -434,7 +749,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.8,
+      "score": 83.2,
       "story_size": 1,
       "image_local": "images/news_ba026176e91072834ed4.jpg"
     },
@@ -453,7 +768,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.6,
+      "score": 82.0,
       "story_size": 1,
       "image_local": "images/news_61e005b7a217dfec4e0f.jpg"
     },
@@ -472,7 +787,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.5,
+      "score": 81.9,
       "story_size": 1,
       "image_local": "images/news_1c27f58beb7469b59129.jpg"
     },
@@ -491,7 +806,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.2,
+      "score": 81.6,
       "story_size": 1
     },
     {
@@ -509,7 +824,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.1,
+      "score": 81.4,
       "story_size": 1,
       "image_local": "images/news_5402032254c09d281cd3.jpg"
     },
@@ -528,7 +843,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.5,
+      "score": 80.9,
       "story_size": 1,
       "image_local": "images/news_ddeb40b39e5062db5501.webp"
     },
@@ -547,7 +862,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.5,
+      "score": 80.8,
       "story_size": 1,
       "image_local": "images/news_4d1c4fcb84a55e7f2c3f.jpg"
     },
@@ -566,27 +881,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.6,
+      "score": 80.0,
       "story_size": 1
-    },
-    {
-      "title": "यू–१९ एसिया कप : भारतलाई ३ विकेटले हराउँदै पाकिस्तान शीर्ष स्थानमा",
-      "link": "https://www.ratopati.com/story/604133/u-19-asia-cup-pakistan-beats-india-by-3-wickets-to-top-spot",
-      "description": "ओमान । ओमानमा जारी एसीसी यू–१९ एसिया कप क्रिकेट प्रतियोगितामा पाकिस्तानले भारतलाई ३ विकेटले पराजित गरेको छ । भारतले दिएको २०९ रनको लक्ष्य पाकिस्तानले ४८.१ ओभरमा ७ विकेट गुमाएर पूरा गर्‍यो । आइतबार दिउँसो पाकिस्तानको जितमा विकेटकिपर ब्याट्सम्यान",
-      "published": "2026-11-08T15:48:14+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/u19-asia-cup_7F9X8o5Hcr.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "e2684975032f876c",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 93.3,
-      "story_size": 1,
-      "image_local": "images/news_47bb9928ed61789dede1.webp"
     },
     {
       "title": "कलंकीबाट राइफलको गोलीसहित एक जना पक्राउ",
@@ -603,47 +899,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.0,
+      "score": 79.4,
       "story_size": 1,
       "image_local": "images/news_a9388762d78ed2ebb40f.jpg"
-    },
-    {
-      "title": "फूल उत्पादन गर्ने किसानका दुःख",
-      "link": "https://www.ratopati.com/story/604132/the-suffering-of-flower-farmers",
-      "description": "भक्तपुर । तिहारमा घरघरमा मखमली र सयपत्री फूलका माला झुन्डिँदा भक्तपुरका फूल उत्पादन गर्ने किसान भने आफ्नो उत्पादन बजार पुर्‍याउन र बिक्री गर्न व्यस्त छन्। महिनौँसम्म गरेको मेहनतपछि फूल टिप्ने, माला उन्ने र बजारसम्म पुर्‍याउने",
-      "published": "2026-11-08T15:42:18+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/afF4lBtoEI.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "2673302c494b2cd2",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 92.9,
-      "story_size": 1,
-      "image_local": "images/news_d24247e568bc183a5a21.jpg"
-    },
-    {
-      "title": "इजिप्ट रेल दुर्घटनामा चार जनाको मृत्यु, ८८ घाइते",
-      "link": "https://www.ratopati.com/story/604131/four-killed-88-injured-in-egypt-train-accident",
-      "description": "काठमाडाैँ । इजिप्टको राजधानीको दक्षिणमा आइतबार दुई रेल एकआपसमा ठोक्किएर भएको दुर्घटनामा कम्तीमा चार जनाको मृत्यु भएको र दर्जनौं घाइते भएका अधिकारीहरूले बताएका छन् । इजिप्टको रेलवे अधिकारीका अनुसार गिजाबाट फायुमतर्फ जाँदै गरेको एउटा रेल कायरोबाट",
-      "published": "2026-11-08T15:31:08+00:00",
-      "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/egypt-train-accident_a39eihf0di.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "490c0d4ca154c134",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 92.2,
-      "story_size": 1,
-      "image_local": "images/news_ba9c0bf86f80a01ba123.webp"
     },
     {
       "title": "नेतान्याहूको सट्टा अरब दलहरूले आइजेनकोटलाई किन रोजे ?",
@@ -660,27 +918,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.4,
+      "score": 77.7,
       "story_size": 1
-    },
-    {
-      "title": "मध्यावधि निर्वाचन अमेरिकाका लागि ‘इतिहासकै ठुलो प्रतिगमन’ हो : डाेनाल्ड ट्रम्प",
-      "link": "https://www.ratopati.com/story/604130/midterm-elections-are-greatest-setback-in-us-history-donald-trump",
-      "description": "काठमाडाैँ । यो बर्षको अमेरिकी मध्यावधि निर्वाचन अमेरिकाका लागि ‘इतिहासकै ठूलो प्रतिगमन’ भएको अमेरिकी राष्ट्रपति डोनल्ड ट्रम्पले आइतबार बताएका छन्। उनले निर्वाचनमा भएको ठुलो हारबाट अझ बलियो भएर फर्कने प्रतिबद्धता व्यक्त गरेका छन्। डेमोक्र्याटहरूले गत मङ्गलबारको",
-      "published": "2026-11-08T15:17:04+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/donald-trump_b38Op3spB6.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "6ba449d4319ef3c1",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 91.2,
-      "story_size": 1,
-      "image_local": "images/news_ddf95e3e6fc5a14b0db2.webp"
     },
     {
       "title": "ट्याक्टरको ठक्करबाट प्रहरी जवानको मृत्यु",
@@ -697,7 +936,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.2,
+      "score": 77.6,
       "story_size": 1,
       "image_local": "images/news_9070a3cfe60876f20685.jpg"
     },
@@ -716,27 +955,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.0,
+      "score": 77.4,
       "story_size": 1
-    },
-    {
-      "title": "लक्ष्मीपूजामा विद्युत्‌काे उच्चतम माग व्यवस्थापन",
-      "link": "https://www.ratopati.com/story/604129/managing-peak-electricity-demand-during-lakshmi-puja",
-      "description": "काठमाडौँ। प्राकृतिक विपद्का कारण विद्युत् उत्पादन तथा प्रसारण प्रणालीमा गम्भीर क्षति पुगे पनि नेपाल विद्युत् प्राधिकरणले यस वर्षको लक्ष्मीपूजाको दिन विद्युतको उच्चतम माग सफलतापूर्वक व्यवस्थापन गरेको छ । आन्तरिक विद्युत् माग पूरा गर्दै भारततर्फ विद्युत् निर्यातसमेत",
-      "published": "2026-11-08T15:13:15+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/b_ovnorkiQjL.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "4b7c567161fa5061",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 91.0,
-      "story_size": 1,
-      "image_local": "images/news_34d6a9a6b02a9a0c2607.webp"
     },
     {
       "title": "१०औँ राष्ट्रिय खेलकुद : कर्णालीमा पहिलो चरणको बन्द प्रशिक्षण सुरु",
@@ -753,7 +973,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.9,
+      "score": 77.3,
       "story_size": 1
     },
     {
@@ -771,7 +991,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.9,
+      "score": 77.3,
       "story_size": 1
     },
     {
@@ -789,28 +1009,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.9,
+      "score": 77.2,
       "story_size": 1,
       "image_local": "images/news_cedf81641b65fcfc6d4b.jpg"
-    },
-    {
-      "title": "रोल्पामा बस दुर्घटना हुँदा १३ जना घाइते",
-      "link": "https://gorkhapatraonline.com/news/228716",
-      "description": "भरत विकरोल्पा, कात्तिक २२ गते । रोल्पा नगरपालिका –६ कुटिवाङस्थित दार्बोट–माडिचौर सडकखण्ड अन्तर्गतको रिम्सक भन्ने स्थिानमा बस दुर्घटना हुँदा १३ जना घाइते भएका छन् ।घर्तीगाउँबाट लिबा...",
-      "published": "2026-11-08T20:52:04+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "society",
-      "image": "https://gorkhapatraonline.com/storage/media/390984/conversions/accident-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "e3396fb62c4e53f2",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 90.6,
-      "story_size": 1,
-      "image_local": "images/news_2614536304758e6be2f7.jpg"
     },
     {
       "title": "युक्रेनमा उद्धारकर्मीमाथि रुसी आक्रमण",
@@ -827,27 +1028,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.5,
+      "score": 76.9,
       "story_size": 1
     },
     {
-      "title": "दिल्लीको गार्मेन्ट कारखानामा भीषण आगलागी, २५ दमकल एकसाथ परिचालन",
-      "link": "https://www.ratopati.com/story/604127/massive-fire-breaks-out-at-delhi-garment-factory-25-fire-engines-mobilized-simultaneously",
-      "description": "नयाँ दिल्ली । भारतको राजधानी दिल्लीस्थित नजफगढको नांगली सकरावतीमा रहेको एक गार्मेन्ट (कपडा) कारखानामा आइतबार साँझ भीषण आगलागी भएको छ । आगो नियन्त्रणमा लिन दिल्ली फायर सर्भिसका २५ वटा दमकल घटनास्थलमा परिचालन गरिएका थिए । दमकल विभागले दिएको",
-      "published": "2026-11-08T15:05:21+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/delhi-fire_tsGCceV7h6.webp",
+      "title": "रोल्पामा बस दुर्घटना हुँदा १३ जना घाइते",
+      "link": "https://gorkhapatraonline.com/news/228716",
+      "description": "भरत विकरोल्पा, कात्तिक २२ गते । रोल्पा नगरपालिका –६ कुटिवाङस्थित दार्बोट–माडिचौर सडकखण्ड अन्तर्गतको रिम्सक भन्ने स्थिानमा बस दुर्घटना हुँदा १३ जना घाइते भएका छन् ।घर्तीगाउँबाट लिबा...",
+      "published": "2026-11-08T20:52:04+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "society",
+      "image": "https://gorkhapatraonline.com/storage/media/390984/conversions/accident-original.jpg",
       "related_sources": [
-        "Ratopati"
+        "Gorkhapatra Online"
       ],
-      "id": "4431e7c35c24eacc",
+      "id": "e3396fb62c4e53f2",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.5,
+      "score": 76.9,
       "story_size": 1,
-      "image_local": "images/news_03e5e86d1eee970f9349.webp"
+      "image_local": "images/news_2614536304758e6be2f7.jpg"
     },
     {
       "title": "लक्ष्मीपूजापछिको उपत्यका चन्द्रागिरिबाट नियाल्दा…",
@@ -864,7 +1065,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.9,
+      "score": 76.3,
       "story_size": 1
     },
     {
@@ -882,7 +1083,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.9,
+      "score": 76.3,
       "story_size": 1
     },
     {
@@ -900,7 +1101,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.8,
+      "score": 76.2,
       "story_size": 1
     },
     {
@@ -918,7 +1119,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.7,
+      "score": 76.1,
       "story_size": 1
     },
     {
@@ -936,7 +1137,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.7,
+      "score": 76.0,
       "story_size": 1
     },
     {
@@ -954,7 +1155,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.6,
+      "score": 76.0,
       "story_size": 1
     },
     {
@@ -972,7 +1173,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.5,
+      "score": 75.9,
       "story_size": 1
     },
     {
@@ -990,7 +1191,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.5,
+      "score": 75.8,
       "story_size": 1
     },
     {
@@ -1008,46 +1209,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.4,
+      "score": 75.8,
       "story_size": 1
-    },
-    {
-      "title": "भारतीय कांग्रेसको चन्दामा ७५ प्रतिशतले गिरावट",
-      "link": "https://www.ratopati.com/story/604126/indian-congress-donations-drop-by-75-percent",
-      "description": "नयाँ दिल्ली । भारतको प्रमुख प्रतिपक्षी दल भारतीय राष्ट्रिय कांग्रेसलाई प्राप्त हुने चन्दा रकममा करिब ७५ प्रतिशतको ठुलो गिरावट आएको छ । निर्वाचन आयोगमा पार्टीले बुझाएको विवरणअनुसार २०२५/२६ मा पार्टीले २० हजार भारतीय रुपैयाँभन्दा बढी रकमका दाताहरूबाट",
-      "published": "2026-11-08T14:49:34+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/rahul-gandhi_Dxyzt3cipj.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "6f826cef3b8b74ca",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 89.4,
-      "story_size": 1,
-      "image_local": "images/news_8d4e34fe7efc55aed5b8.webp"
-    },
-    {
-      "title": "कालिकोटको खाँडाचक्रमा ६ जना विशेषज्ञ चिकित्सकसहित निःशुल्क स्वास्थ्य शिविर, २८४ जना लाभान्वित",
-      "link": "https://www.ratopati.com/story/604125/free-health-camp-with-6-specialist-doctors-in-khandachakra-kalikot-284-people-benefited",
-      "description": "कालिकोट। सामान्य स्वास्थ्य उपचारदेखि विशेषज्ञ चिकित्सकको परामर्श लिनसमेत घण्टौँको यात्रा गर्नुपर्ने बाध्यता रहेको कालिकोटको दुर्गम क्षेत्रमा एक दिने निःशुल्क विशेषज्ञ स्वास्थ्य शिविर सञ्चालन गरिएको छ। रेङ्गिल युनाइटेड क्लब फर सोसियल अवेयरनेसको आयोजना तथा कर्णाली केयर इन्टरनेशनल",
-      "published": "2026-11-08T14:49:16+00:00",
-      "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/photo-2_9VBPGDrsMr.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "03fc948fc4c742c2",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 89.4,
-      "story_size": 1,
-      "image_local": "images/news_b6d4e3d36cb36afbd997.webp"
     },
     {
       "title": "एनपीएल अब ‘बिजनेस एन्ड’ तर्फ, कसको प्लेअफ सम्भावना कति ?",
@@ -1064,7 +1227,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.3,
+      "score": 75.7,
       "story_size": 1
     },
     {
@@ -1082,46 +1245,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.2,
+      "score": 75.5,
       "story_size": 1
     },
     {
-      "title": "इजिप्टमा रेल दुर्घटना, दर्जनौँ घाइते",
-      "link": "https://www.ratopati.com/story/604123/train-accident-in-egypt-dozens-injured",
-      "description": "काठमाडाैँ। इजिप्टको गिजा प्रान्तमा आइतबार दुई रेल एकआपसमा ठोक्किँदा कैयौँ यात्रु घाइते भएका इजिप्टको राष्ट्रिय रेलवे प्राधिकरणले जनाएको छ। काएरो–आस्वानको गिजा–फायुम मार्गमा एउटा रेलले अर्को रेललाई ठक्कर दिँदा दुवै रेलमा रहेका यात्रीहरू घाइते भएका हुन्। दुर्घटनाग्रस्त भएको",
-      "published": "2026-11-08T14:43:52+00:00",
-      "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/setting/banner-image_sPOGzj8QHe.jpg",
+      "title": "सुन्डीखोलामा पुल निर्माण",
+      "link": "https://nepalsamaya.com/detail/147691",
+      "description": "",
+      "published": "2026-11-08T20:28:03+05:45",
+      "source": "Nepal Samaya",
+      "category": "nepal",
+      "image": "https://nepalsamaya.com/uploads/posts/202611082021-84ce60bc-5e3f-43ad-a6c9-333d80889474_medium-1794148974.jpg",
       "related_sources": [
-        "Ratopati"
+        "Nepal Samaya"
       ],
-      "id": "b54900e787eba52c",
+      "id": "858f8d9b12417ba5",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.0,
+      "score": 75.3,
       "story_size": 1,
-      "image_local": "images/news_31088225b6e74eec8103.jpg"
-    },
-    {
-      "title": "दसौँ राष्ट्रिय खेलकुद : कर्णालीमा बन्द प्रशिक्षण सुरु",
-      "link": "https://www.ratopati.com/story/604121/10th-national-games-closed-training-begins-in-karnali",
-      "description": "सुर्खेत । दसौँ राष्ट्रिय खेलकुद प्रतियोगितामा सहभागी हुने कर्णालीका खेलाडीको बन्द प्रशिक्षण सुरु भएको छ।आइतबार सामाजिक विकासमन्त्री जीतबहादुर मल्लले एक कार्यक्रमकाबिच बन्द प्रशिक्षण कार्यक्रमको शुभारम्भ गरेका हुन् । दसौँ राष्ट्रिय खेलकुद मङ्सिर १६ गतेदेखि २७ गतेसम्म",
-      "published": "2026-11-08T14:38:29+00:00",
-      "source": "Ratopati",
-      "category": "sports",
-      "image": "https://npcdn.ratopati.com/media/news/game_Z0sGHdfNmh.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "536f2743c8acfb34",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 88.7,
-      "story_size": 1,
-      "image_local": "images/news_9427251b66199a84e611.webp"
+      "image_local": "images/news_5b1eb1f1b27386174eee.jpg"
     },
     {
       "title": "जेनजी आन्दोलनका क्रममा भागेका बलात्कार मुद्दाका कैदी पक्राउ",
@@ -1138,27 +1282,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.3,
+      "score": 74.7,
       "story_size": 1
-    },
-    {
-      "title": "कलाकारहरूले यसरी मनाए लक्ष्मी पूजा, तस्बिरहरू",
-      "link": "https://www.ratopati.com/story/604120/this-is-how-nepali-artists-celebrated-lakshmi-puja-photos",
-      "description": "काठमाडाैँ। नेपाली कलाकारहरूले हिन्दू धर्मावलम्बीहरूको विशेष पर्व लक्ष्मी पूजा हर्षोल्लासका साथ मनाएका छन्। तिहारको दाेस्राे दिन आइतबार साँझ लक्ष्मी पूजाका अवसरमा कलाकारहरूले आ–आफ्नो घरमा दीप प्रज्वलन, पूजा–आराधना तथा आकर्षक सजावट गरेर पर्व मनाएका हुन्। कलाकारहरूले घरलाई झिलिमिली",
-      "published": "2026-11-08T14:32:51+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/laxmi-puja_tOVXONnz0b.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "977ebee301a3389a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 88.3,
-      "story_size": 1,
-      "image_local": "images/news_de4795f6e5d266dd2642.webp"
     },
     {
       "title": "धनधान्यकी देवी लक्ष्मीको पूजा गरिदै",
@@ -1175,7 +1300,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.2,
+      "score": 74.6,
       "story_size": 1,
       "image_local": "images/news_59b29424c9978201099d.jpg"
     },
@@ -1194,27 +1319,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.9,
+      "score": 74.3,
       "story_size": 1
-    },
-    {
-      "title": "डोल्पा जेलब्रेक घटना : फरार थप दुई कैदीबन्दी पक्राउ",
-      "link": "https://www.ratopati.com/story/604119/dolpa-jailbreak-incident-two-more-absconding-prisoners-arrested",
-      "description": "सुर्खेत । डोल्पा जेलब्रेक गरी फरार भएका थप दुई जना कैदीबन्दी पक्राउ परेका छन्। जिल्ला प्रहरी कार्यालय डोल्पाका अनुसार पक्राउ पर्नेमा जाजरकोट बारेकोट गाउँपालिका–१ घर भएका २५ वर्षीय यज्ञ विक र डोल्पा त्रिपुरासुन्दरी नगरपालिका—४ घर",
-      "published": "2026-11-08T14:18:11+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/dolpa-karagar_ndWIsdwlxk.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "34c8ef5291e2c5f1",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 87.3,
-      "story_size": 1,
-      "image_local": "images/news_e80762bbabab07199990.webp"
     },
     {
       "title": "अछामको गण्डीगाडमा ठेक्काको १६ महिना बित्दा पनि पुल निर्माण अघि बढेन",
@@ -1231,7 +1337,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.2,
+      "score": 73.5,
       "story_size": 1
     },
     {
@@ -1249,7 +1355,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.7,
+      "score": 73.1,
       "story_size": 1
     },
     {
@@ -1267,7 +1373,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.3,
+      "score": 72.6,
       "story_size": 1
     },
     {
@@ -1285,7 +1391,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.1,
+      "score": 72.5,
       "story_size": 1,
       "image_local": "images/news_ebf26424efc181b30ec5.jpg"
     },
@@ -1304,7 +1410,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.9,
+      "score": 72.3,
       "story_size": 1
     },
     {
@@ -1322,9 +1428,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.9,
+      "score": 72.3,
       "story_size": 1,
       "image_local": "images/news_ee4c427a06c223225aef.jpg"
+    },
+    {
+      "title": "सयपत्री फूलबाट वार्षिक चार लाख आम्दानी",
+      "link": "https://khabarhub.com/2026/08/1046196/",
+      "description": "गुल्मी – बढ्दो बसाईसराईका कारण पछिल्लो समयमा गाउँघरमा खेतबारी बाँझिँदै गएका छन् । रोजगारी र अवसरको खोजीमा युवा पुस्ता विदेशिने क्रम बढ्दो छ । तर छत्रकोट गाउँपालिका–२ ग्वाघाकी ५२ वर्षीया लक्ष्मी महत्राले भने अरूले छाडेका बाँझो जग्गामा व्यावसायीक रुपमा फूलखेती गरेर मनग्य आम्दानी गर्दै आएकी छन् । महत्राले विगत पाँच वर्षदेखि बाँझो जग्गामा व्यावसायिक रुपमा [&#8230;]",
+      "published": "2026-11-08T14:38:23+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "b0066f9312561dfa",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 72.0,
+      "story_size": 1
     },
     {
       "title": "नेपाल पहिलो पटक विश्व जलवायु राजनीतिको केन्द्रमा, सागर किनारमा हुँदैछ हिमालको चर्चा",
@@ -1341,7 +1465,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.4,
+      "score": 71.8,
       "story_size": 1
     },
     {
@@ -1359,7 +1483,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.9,
+      "score": 71.2,
       "story_size": 1
     },
     {
@@ -1377,7 +1501,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.4,
+      "score": 70.7,
       "story_size": 1
     },
     {
@@ -1395,7 +1519,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.3,
+      "score": 70.6,
       "story_size": 1
     },
     {
@@ -1413,25 +1537,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.3,
+      "score": 70.6,
       "story_size": 1
     },
     {
-      "title": "तिहारले आपसी एकता बलियो बनाओस्: कांग्रेस सभापति थापा",
-      "link": "https://khabarhub.com/2026/08/1046166/",
-      "description": "काठमाडाैँ &#8211; नेपाली कांग्रेसका सभापति गगन थापाले दीपावली तथा तिहारको पावन अवसरमा स्वदेश तथा विदेशमा रहेका सम्पूर्ण नेपालीहरूमा शुभकामना व्यक्त गरेका छन्। तिहार र दीपावलीका अवसरमा शुभकामना सन्देश जारी गर्दै सभापति थापाले उज्यालो, आत्मीयता र सद्भावको यो पर्वले सबै नेपालीको जीवनमा नयाँ आशा, उत्साह र सकारात्मक ऊर्जा सञ्चार गर्ने विश्वास व्यक्त गरे। सन्देशमा उनले दियोको [&#8230;]",
-      "published": "2026-11-08T13:40:46+00:00",
-      "source": "Khabarhub",
-      "category": "politics",
+      "title": "सेनेगलमा डुङ्गा डुब्दा २१ आप्रबासीको मृत्यु",
+      "link": "https://www.onlinekhabar.com/2026/11/2054127/21-migrants-die-in-senegal-boat-sinking",
+      "description": "अफ्रिकादेखि युरोपसम्मको खतरनाक एटलान्टिक महासागरको मार्गमा आप्रवासी बोकेको एउटा डुङ्गा दुर्घटनामा परी कम्तीमा २१ जनाको मृत्यु भएको अधिकारीहरूले बताएका छन्।",
+      "published": "2026-11-08T13:42:44+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
       "image": "",
       "related_sources": [
-        "Khabarhub"
+        "OnlineKhabar"
       ],
-      "id": "88b102b9b00004fc",
+      "id": "7ef5392ea51371cc",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.8,
+      "score": 68.3,
       "story_size": 1
     },
     {
@@ -1449,7 +1573,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.6,
+      "score": 68.0,
       "story_size": 1
     },
     {
@@ -1467,9 +1591,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.6,
-      "story_size": 1,
-      "image_local": "images/news_70dc17f8c26925508a71.jpg"
+      "score": 68.0,
+      "story_size": 1
     },
     {
       "title": "गोलीसहित एक जना पक्राउ",
@@ -1486,25 +1609,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.5,
-      "story_size": 1
-    },
-    {
-      "title": "लक्ष्मी पूजाको रात झिलिमिली देखियो काठमाडौँ (तस्बिर)",
-      "link": "https://khabarhub.com/2026/08/1046167/",
-      "description": "काठमाडाैँ &#8211; हिन्दु धर्मावलम्बीको दोस्रो ठूलो चाड तिहारअन्तर्गत आज लक्ष्मी पूजा विभिन्न धार्मिक विधिअनुसार मनाइएको छ। लक्ष्मी पूजाको अवसरमा काठमाडौं उपत्यका झिलिमिली बनेको छ। धनधान्य र समृद्धिकी देवी लक्ष्मीको पूजा आराधना गर्दै घर, पसल तथा व्यापारिक प्रतिष्ठानहरूमा दीप प्रज्वलन र आकर्षक बत्तीहरू बालिएका छन् । घरका मूलढोका, झ्याल तथा छतमा रंगीचंगी बत्तीले सजावट गरिएपछि उपत्यकाका [&#8230;]",
-      "published": "2026-11-08T13:34:36+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "49dc8e3df5f40b10",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 81.4,
+      "score": 67.9,
       "story_size": 1
     },
     {
@@ -1522,7 +1627,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.2,
+      "score": 67.5,
       "story_size": 1
     },
     {
@@ -1540,7 +1645,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.1,
+      "score": 66.4,
       "story_size": 1
     },
     {
@@ -1558,7 +1663,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.8,
+      "score": 66.2,
       "story_size": 1
     },
     {
@@ -1576,7 +1681,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.7,
+      "score": 66.1,
       "story_size": 1
     },
     {
@@ -1594,7 +1699,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.4,
+      "score": 65.8,
       "story_size": 1
     },
     {
@@ -1612,7 +1717,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.2,
+      "score": 65.5,
       "story_size": 1
     },
     {
@@ -1630,7 +1735,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.6,
+      "score": 65.0,
       "story_size": 1
     },
     {
@@ -1648,7 +1753,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.4,
+      "score": 64.8,
       "story_size": 1
     },
     {
@@ -1666,7 +1771,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.0,
+      "score": 64.4,
       "story_size": 1
     },
     {
@@ -1684,7 +1789,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.8,
+      "score": 64.1,
       "story_size": 1
     },
     {
@@ -1702,7 +1807,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.7,
+      "score": 64.0,
       "story_size": 1
     },
     {
@@ -1720,7 +1825,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.2,
+      "score": 63.6,
       "story_size": 1
     },
     {
@@ -1738,7 +1843,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.9,
+      "score": 63.3,
       "story_size": 1
     },
     {
@@ -1756,7 +1861,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.8,
+      "score": 63.2,
       "story_size": 1
     },
     {
@@ -1774,7 +1879,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.1,
+      "score": 62.5,
       "story_size": 1
     },
     {
@@ -1792,7 +1897,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.6,
+      "score": 62.0,
       "story_size": 1
     },
     {
@@ -1810,7 +1915,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.3,
+      "score": 61.6,
       "story_size": 1
     },
     {
@@ -1828,7 +1933,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.0,
+      "score": 61.4,
       "story_size": 1
     },
     {
@@ -1846,7 +1951,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.9,
+      "score": 61.3,
       "story_size": 1
     },
     {
@@ -1864,7 +1969,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.6,
+      "score": 61.0,
       "story_size": 1
     },
     {
@@ -1882,7 +1987,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.1,
+      "score": 60.4,
       "story_size": 1
     },
     {
@@ -1900,7 +2005,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.0,
+      "score": 60.3,
       "story_size": 1
     },
     {
@@ -1918,7 +2023,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.8,
+      "score": 60.1,
       "story_size": 1
     },
     {
@@ -1936,7 +2041,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.7,
+      "score": 60.1,
       "story_size": 1
     },
     {
@@ -1954,7 +2059,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.6,
+      "score": 59.9,
       "story_size": 1
     },
     {
@@ -1972,25 +2077,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.2,
-      "story_size": 1
-    },
-    {
-      "title": "मुगुमा स्याउखेती : व्यापारी गाउँमै पुग्दा किसानले पाए राम्रो मूल्य",
-      "link": "https://nepalsamaya.com/detail/147688",
-      "description": "",
-      "published": "2026-11-08T16:29:21+05:45",
-      "source": "Nepal Samaya",
-      "category": "nepal",
-      "image": "https://nepalsamaya.com/uploads/posts/Screenshot-2026-11-08-162901-1794134652.jpg",
-      "related_sources": [
-        "Nepal Samaya"
-      ],
-      "id": "ff1a38a6002ad422",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 73.1,
+      "score": 59.6,
       "story_size": 1
     },
     {
@@ -2008,7 +2095,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.0,
+      "score": 59.4,
+      "story_size": 1
+    },
+    {
+      "title": "मुगुमा स्याउखेती : व्यापारी गाउँमै पुग्दा किसानले पाए राम्रो मूल्य",
+      "link": "https://nepalsamaya.com/detail/147688",
+      "description": "",
+      "published": "2026-11-08T16:29:21+05:45",
+      "source": "Nepal Samaya",
+      "category": "nepal",
+      "image": "https://nepalsamaya.com/uploads/posts/Screenshot-2026-11-08-162901-1794134652.jpg",
+      "related_sources": [
+        "Nepal Samaya"
+      ],
+      "id": "ff1a38a6002ad422",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 59.4,
       "story_size": 1
     },
     {
@@ -2026,7 +2131,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.6,
+      "score": 59.0,
       "story_size": 1
     },
     {
@@ -2044,7 +2149,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.2,
+      "score": 58.6,
       "story_size": 1
     },
     {
@@ -2062,7 +2167,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.1,
+      "score": 58.5,
       "story_size": 1
     },
     {
@@ -2080,7 +2185,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.1,
+      "score": 57.4,
       "story_size": 1
     },
     {
@@ -2098,7 +2203,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.9,
+      "score": 57.3,
       "story_size": 1
     },
     {
@@ -2116,7 +2221,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.8,
+      "score": 57.2,
       "story_size": 1
     },
     {
@@ -2134,7 +2239,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.5,
+      "score": 56.9,
       "story_size": 1
     },
     {
@@ -2152,7 +2257,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.0,
+      "score": 55.4,
       "story_size": 1
     },
     {
@@ -2170,7 +2275,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.8,
+      "score": 55.1,
       "story_size": 1
     },
     {
@@ -2188,7 +2293,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.6,
+      "score": 54.0,
       "story_size": 1
     },
     {
@@ -2206,7 +2311,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.3,
+      "score": 53.7,
       "story_size": 1
     },
     {
@@ -2224,7 +2329,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 65.5,
+      "score": 51.9,
       "story_size": 1
     },
     {
@@ -2242,7 +2347,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 65.3,
+      "score": 51.7,
       "story_size": 1
     },
     {
@@ -2260,7 +2365,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 65.2,
+      "score": 51.6,
       "story_size": 1
     },
     {
@@ -2278,7 +2383,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 64.8,
+      "score": 51.2,
       "story_size": 1
     },
     {
@@ -2296,7 +2401,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 64.0,
+      "score": 50.4,
       "story_size": 1
     },
     {
@@ -2314,43 +2419,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 64.0,
-      "story_size": 1
-    },
-    {
-      "title": "मंसिर मसान्तभित्र ८ कम्पनीका सेयरमा लकइन अवधि सकिने",
-      "link": "https://www.onlinekhabar.com/2026/11/2053946/lock-in-period-for-shares-of-8-companies-to-end-by-mid-mansir",
-      "description": "२२ कात्तिक, काठमाडौं । मंसिर मसान्तभित्र सूचीकृत ८ कम्पनीका सेयरमा विभिन्न पक्षको लकइन अवधि सकिने भएको छ । सामूहिक लगानी कोष, संस्थापक, कर्मचारी तथा प्रभावित स्थानीयको सेयरमा लकइन अवधि रहने गरेको छ । यस्तो सेयरमा लकइन अवधि सकिएपछि बजार मूल्यमै किनबेच गर्न बाटो खुल्छ । जसले बजारमा आपूर्ति बढ्ने र मूल्य घट्न सक्ने जोखिम रहन्छ [&#8230;]",
-      "published": "2026-11-08T09:11:56+00:00",
-      "source": "OnlineKhabar",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "79f88d50e8d761d3",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 63.9,
-      "story_size": 1
-    },
-    {
-      "title": "तिहार बिदामा मुस्ताङ घुम्ने पर्यटक बढ्दै",
-      "link": "https://www.onlinekhabar.com/2026/11/2053945/tourists-visiting-mustang-increasing-during-tihar-holidays",
-      "description": "तिहारको अघि र पछि लामो सरकारी बिदा परेकाले मुस्ताङ घुम्ने पर्यटकको सङ्ख्या बढेका हुन्।",
-      "published": "2026-11-08T09:10:24+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "5cc144b6728d64b1",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 63.8,
+      "score": 50.4,
       "story_size": 1
     },
     {
@@ -2368,7 +2437,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 52.2,
+      "score": 38.5,
       "story_size": 1
     },
     {
@@ -2386,7 +2455,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 48.9,
+      "score": 35.3,
       "story_size": 1
     },
     {
@@ -2404,7 +2473,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 45.7,
+      "score": 32.1,
       "story_size": 1
     },
     {
@@ -2422,7 +2491,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 41.0,
+      "score": 27.3,
       "story_size": 1
     },
     {
@@ -2440,7 +2509,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 39.6,
+      "score": 25.9,
       "story_size": 1
     },
     {
