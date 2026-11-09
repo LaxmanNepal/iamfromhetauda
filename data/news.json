@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T16:54:21.625965+00:00",
+  "updated_at": "2026-11-09T17:51:56.980200+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -16,27 +16,6 @@
   ],
   "items": [
     {
-      "title": "छ सयभन्दा बढी गाईको सामूहिक पूजा",
-      "link": "https://www.thahakhabar.com/detail/311687",
-      "description": "प्रत्येक वर्ष गाई पूजाको अवसरमा यसरी गौशालामा गाईपूजा गर्ने गरिएको फाउन्डेसनका अध्यक्ष भोलानाथ योगीले बताए। सोही अनुरुप यो वर्ष पनि पूजा गरिएको उनको भनाइ थियो।",
-      "published": "2026-11-09T20:31:26+05:45",
-      "source": "Thaha Khabar",
-      "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/gai-1794235034.jpg",
-      "related_sources": [
-        "Thaha Khabar",
-        "Gorkhapatra Online",
-        "Kendrabindu"
-      ],
-      "id": "dc0caeeaf6de985c",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 138.5,
-      "story_size": 3,
-      "image_local": "images/news_d1eb9dbe55d922319f16.jpg"
-    },
-    {
       "title": "सम्झौता अवधिभन्दा १० महिना अगाडि नै बन्यो कटनुखोला पुल",
       "link": "https://www.ratopati.com/story/604330/katanukhola-was-built-10-months-ahead-of-the-contract-period",
       "description": "विराटनगर । मोरङको रतुवामाई नगरपालिकामा विकास आयोजना तोकिएको समयभन्दा १० महिनाअगावै सम्पन्न भएको छ । रतुवामाई–८ स्थित जनता बाँध क्षेत्रमा पर्ने ‘डाम्राभित्ता बजार पूर्व भुल्काडोवा जोड्ने बाटो’अन्तर्गत कटनुखोला पुल निर्माणको काम सम्झौता अवधिभन्दा १० महिनाअघि",
@@ -52,7 +31,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 136.0,
+      "score": 132.2,
       "story_size": 2,
       "image_local": "images/news_afbfcb55bda112d4cc6f.jpg"
     },
@@ -72,9 +51,28 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 135.5,
+      "score": 131.6,
       "story_size": 2,
       "image_local": "images/news_d85e86c702df2455e095.jpg"
+    },
+    {
+      "title": "काँकडभिट्टाबाट असोजमा ९८ करोडको अलैँची निर्यात",
+      "link": "https://baahrakhari.com/detail/507004",
+      "description": "",
+      "published": "2026-11-09T22:50:28+05:45",
+      "source": "Baahrakhari",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari",
+        "Thaha Khabar"
+      ],
+      "id": "c28ad3e24af7c760",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 130.9,
+      "story_size": 2
     },
     {
       "title": "चितवन राइनोजविरुद्ध काठमाण्डु गोर्खाजको जित",
@@ -92,7 +90,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 134.2,
+      "score": 130.3,
       "story_size": 2,
       "image_local": "images/news_7cf4b767e3cc5b174ea2.jpg"
     },
@@ -112,47 +110,141 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 132.7,
+      "score": 128.8,
       "story_size": 2
     },
     {
-      "title": "पश्चिमी टर्कीको स्टिल कारखानामा विस्फोट, तीन जनाको मृत्यु",
-      "link": "https://www.ratopati.com/story/604300/explosion-at-steel-factory-in-western-turkey-kills-three",
-      "description": "काठमाडाैँ । पश्चिमी टर्कीको एक फलाम तथा स्टिल कारखानामा सोमबार भएको विस्फोट र त्यसपछिको आगलागीमा परी तीन जनाको मृत्यु भएको छ भने १० जना कामदार बेपत्ता भएका छन् । बेपत्ताहरूको खोजी तथा उद्धार कार्य जारी",
-      "published": "2026-11-09T13:39:12+00:00",
-      "source": "Ratopati",
+      "title": "छ सयभन्दा बढी गाईको सामूहिक पूजा",
+      "link": "https://www.thahakhabar.com/detail/311687",
+      "description": "प्रत्येक वर्ष गाई पूजाको अवसरमा यसरी गौशालामा गाईपूजा गर्ने गरिएको फाउन्डेसनका अध्यक्ष भोलानाथ योगीले बताए। सोही अनुरुप यो वर्ष पनि पूजा गरिएको उनको भनाइ थियो।",
+      "published": "2026-11-09T20:31:26+05:45",
+      "source": "Thaha Khabar",
       "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/turkey-map_Opp4lB9Hu2.jpg",
+      "image": "https://www.thahakhabar.com/uploads/posts/gai-1794235034.jpg",
       "related_sources": [
-        "Ratopati",
-        "Khabarhub"
+        "Thaha Khabar",
+        "Kendrabindu"
       ],
-      "id": "ead29fb030c231db",
+      "id": "dc0caeeaf6de985c",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 124.0,
+      "score": 124.6,
       "story_size": 2,
-      "image_local": "images/news_e154c9164f606791e20f.jpg"
+      "image_local": "images/news_d1eb9dbe55d922319f16.jpg"
     },
     {
-      "title": "धान बिक्रीको पर्खाइमा बाँकेका किसान",
-      "link": "https://khabarhub.com/2026/09/1046532/",
-      "description": "राँझा (बाँके), २३ कात्तिकः खाद्य व्यवस्था तथा व्यापार कम्पनी लिमिटेडलाई धान बिक्री गर्न स्थानीय किसान प्रतिक्षारत रहे पनि हालसम्म आवश्यक प्रक्रिया सुरु हुन सकेको छैन । लामो समयदेखि सो कम्पनीलाई धान बिक्री गर्दै आएका नेपालगन्ज–१९ का किसान कल्लुबहादुर वलीले यस वर्ष प्रक्रिया सुरु नभएको बताए । खेतबाट धान भित्र्याइसकेका किसान बिक्रीका लागि पर्खाइमा छन् । [&#8230;]",
-      "published": "2026-11-09T13:53:22+00:00",
-      "source": "Khabarhub",
+      "title": "पर्सामा साढे तीन लाख मूल्य बराबरका ११ थरिका पटका बरामद",
+      "link": "https://www.ratopati.com/story/604333/eleven-types-of-firecrackers-worth-rs-35-lakh-seized-in-parsa",
+      "description": "वीरगन्ज । पर्सा प्रहरीले जिल्लामा सञ्चालन गरेको पटका नियन्त्रण अभियानअन्तर्गत तीन दिनको अवधिमा करिब साढे तीन लाख रुपैयाँ बराबरको आतिशबाजीजन्य विस्फोटक पदार्थ (पटका) बरामद गरेको छ । यही २१ गतेदेखि सुरु गरिएको विशेष अभियानका क्रममा ठुलो",
+      "published": "2026-11-09T17:21:07+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/parsa-district-map_0ZIfD6x5iq.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "05881a8874abd0b7",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.0,
+      "story_size": 1,
+      "image_local": "images/news_3d09985f46097fe41b26.jpg"
+    },
+    {
+      "title": "आपसी सद्भाव र राष्ट्रिय एकतालाई थप सुदृढ बनाउनुपर्छ: मन्त्री श्रेष्ठ",
+      "link": "https://gorkhapatraonline.com/news/228785",
+      "description": "काठमाडौँ, कात्तिक २३ गते । ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्री विराज भक्त श्रेष्ठले नेपाल संवत् ११४७ तथा म्हःपूजाको अवसरमा सम्पूर्ण नेपालीमा सुख, शान्ति, सुस्वास्थ्य, एकता र समृद्धिक...",
+      "published": "2026-11-09T23:01:24+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "politics",
+      "image": "https://gorkhapatraonline.com/storage/media/391081/conversions/d17ea595-7fd0-4b95-9da4-ce199170d15f-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "e5c74828b8186aa6",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.6,
+      "story_size": 1,
+      "image_local": "images/news_1335403cd88c97331abe.jpg"
+    },
+    {
+      "title": "गाई संरक्षणका लागि सहयोग जुट्दै",
+      "link": "https://www.ratopati.com/story/604332/gathering-support-for-cow-protection",
+      "description": "कास्की । सडक तथा सार्वजनिक स्थानमा छाडिएका र बेवारिसे अवस्थामा रहेका गाईको संरक्षणका लागि पोखरा महानगरपालिका–१५ मझुवामा सञ्चालित पोखरा गौशाला (गौ सेवा आश्रम) लाई विभिन्न व्यक्ति तथा संस्थाले सहयोग गर्दै आएका छन् । गौशालामा यही कात्तिक",
+      "published": "2026-11-09T17:13:35+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/cow-puja-1020_N12U6YYZYd.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "b16c5da3846d55d8",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.4,
+      "story_size": 1,
+      "image_local": "images/news_7330b2a7ecd3799479be.webp"
+    },
+    {
+      "title": "म्ह: पूजा गरी नेवार समुदायले मनाए नयाँ वर्ष",
+      "link": "https://www.ratopati.com/story/604331/mha-newar-community-celebrates-new-year-with-worship",
+      "description": "भक्तपुर । नेपाल संवत् ११४७ को पहिलो दिन सोमबार भक्तपुरलगायत देशका विभिन्न स्थानमा नेवार समुदायले म्ह: पूजा गरी नयाँ वर्ष मनाएका छन् । नेवार समुदायले प्रत्येक वर्ष तिहारअन्तर्गत गोवर्द्धन पूजाका दिन म्ह: पूजा गर्ने परम्परा छ ।",
+      "published": "2026-11-09T17:03:28+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/BIUEsL77et.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "952e3fc96f51baa2",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.8,
+      "story_size": 1,
+      "image_local": "images/news_7c7cf9bb30cf2326a1ce.jpg"
+    },
+    {
+      "title": "सञ्चारमन्त्री डा. तिमिल्सिना दोहामा",
+      "link": "https://gorkhapatraonline.com/news/228784",
+      "description": "काठमाडौँ, कात्तिक २३ गते । अन्तर्राष्ट्रिय दूरसञ्चार सङ्घ (आइटियु) को महासम्मेलनमा नेपालको प्रतिनिधिमण्डलको नेतृत्व गर्दै कतार पुग्नुभएका सूचना तथा सञ्चारमन्त्री डा. विक्रम तिमिल्...",
+      "published": "2026-11-09T22:44:07+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "politics",
+      "image": "https://gorkhapatraonline.com/storage/media/391080/conversions/678bf920-bf10-4d5a-9ef2-b42973f7d729-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "4a069bf5d09de0fa",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.5,
+      "story_size": 1,
+      "image_local": "images/news_f1f91745136e839c17e9.jpg"
+    },
+    {
+      "title": "कोप–३१ मा नेपालको एजेन्डा स्वीकृत भएन, राति २ बजेसम्म वार्ता गरेर ४ विषयमा समझदारी",
+      "link": "https://www.setopati.com/politics/402358",
+      "description": "टर्कीको अन्ताल्यामा सोमबार सुरू भएको विश्व जलवायु सम्मेलन (कोप–३१) मा नेपाल र भुटानले संयुक्त रूपमा राखेको हिमाली मुद्दालाई छुट्टै औपचारिक एजेन्डा बनाउने प्रस्ताव स्वीकृत भएन।",
+      "published": "2026-11-09T23:25:00+05:45",
+      "source": "Setopati",
       "category": "nepal",
       "image": "",
       "related_sources": [
-        "Khabarhub",
-        "Ratopati"
+        "Setopati"
       ],
-      "id": "e78ed9d22b532733",
-      "source_count": 2,
-      "verified": true,
+      "id": "9de774e43e3e14cc",
+      "source_count": 1,
+      "verified": false,
       "local": false,
-      "score": 122.0,
-      "story_size": 2
+      "score": 109.2,
+      "story_size": 1
     },
     {
       "title": "संस्कृति जोगाउन जुट्दै ज्येष्ठ नागरिकदेखि युवापुस्तासम्म [भिडियो]",
@@ -169,9 +261,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.2,
+      "score": 108.4,
       "story_size": 1,
       "image_local": "images/news_5cd675ef107d1f9fc24e.jpg"
+    },
+    {
+      "title": "गोल्ड कोस्टमा जीसीएनपीएलको तेस्रो संस्करण हुँदै, पाँच टोली सहभागी हुने",
+      "link": "https://www.onlinekhabar.com/2026/11/2054921/the-third-edition-of-the-gcnpl-will-be-held-in-gold-coast-with-five-teams-participating",
+      "description": "गोल्ड कोस्ट, अस्ट्रेलिया । गोल्ड कोस्ट नेप्लिज प्रिमियर लिग (जीसीएनपीएल) को तेस्रो संस्करण सन् २०२७ को मार्चमा आयोजना हुने भएको छ । जीसीएनपीएल निर्देशक किशोर तिवारीले २०२७ मार्चमा प्रतियोगिता गर्ने तयारी भइरहेको जानकारी दिए । अस्ट्रेलियाको क्विन्सल्यान्ड राज्यको गोल्ड कोस्टमा हुने प्रतियोगितामा हिमालयन हिट्स, यति स्ट्राइकर्स, गोल्ड कोस्ट सुपर किड्स, गोर्खा थन्डर्स र सगरमाथा टाइटन्स [&#8230;]",
+      "published": "2026-11-09T17:25:49+00:00",
+      "source": "OnlineKhabar",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "80a746b557c9c0a3",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.3,
+      "story_size": 1
     },
     {
       "title": "नेपाली संस्कृति र चाडपर्वमाथि हमला भइरहेको छ : केपी ओली [भिडियो]",
@@ -188,7 +298,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.1,
+      "score": 108.3,
       "story_size": 1
     },
     {
@@ -206,7 +316,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.0,
+      "score": 108.2,
       "story_size": 1,
       "image_local": "images/news_aab9bbc068d7e32e12f6.jpg"
     },
@@ -225,7 +335,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.9,
+      "score": 108.1,
       "story_size": 1,
       "image_local": "images/news_330426c59a691403aca4.jpg"
     },
@@ -244,28 +354,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.8,
+      "score": 107.9,
       "story_size": 1,
       "image_local": "images/news_9140c1e6294194eb5d8f.jpg"
-    },
-    {
-      "title": "काँकडभिट्टाबाट ९८ करोडको अलैँची निर्यात",
-      "link": "https://www.thahakhabar.com/detail/311691",
-      "description": "",
-      "published": "2026-11-09T22:15:37+05:45",
-      "source": "Thaha Khabar",
-      "category": "business",
-      "image": "https://www.thahakhabar.com/uploads/posts/alaichi-1766805700.jpg",
-      "related_sources": [
-        "Thaha Khabar"
-      ],
-      "id": "6c54bb9278905613",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 111.4,
-      "story_size": 1,
-      "image_local": "images/news_6aa95f106a0a429a2ea7.jpg"
     },
     {
       "title": "इजरायलको नेतृत्वका लागि आइजेनकोटसामु गठबन्धनका कठिन विकल्प",
@@ -282,9 +373,63 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.1,
+      "score": 107.2,
       "story_size": 1,
       "image_local": "images/news_34cfd5983c5ee4880b23.webp"
+    },
+    {
+      "title": "डेभिड वार्नरको उपस्थितिमा काठमान्डुले भेटाएको लय",
+      "link": "https://www.onlinekhabar.com/2026/11/2054913/kathmandu-finds-rhythm-in-david-warners-presence",
+      "description": "वार्नरको भूमिका ब्याटिङमा रन बनाउनमा मात्र सीमित छैन। खेलका क्रममा उनले दिने सुझाव र रणनीतिक सल्लाह पनि काठमान्डुका लागि महत्त्वपूर्ण बनेको छ।",
+      "published": "2026-11-09T17:06:07+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "e498758330fc99cf",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 107.0,
+      "story_size": 1
+    },
+    {
+      "title": "एनपिएलका पिचप्रति बोपाराको असन्तुष्टि, पछिल्लो विकेट भने उत्कृष्ट",
+      "link": "https://www.setopati.com/sports/npl/402359",
+      "description": "बोपाराले यस सिजन एनपिएलमा प्रयोग भएका पिचको गुणस्तरप्रति असन्तुष्टि जनाए।",
+      "published": "2026-11-09T22:51:00+05:45",
+      "source": "Setopati",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Setopati"
+      ],
+      "id": "6e0e0e103febeaba",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 106.9,
+      "story_size": 1
+    },
+    {
+      "title": "पोखरा एभेन्जर्सको ‘सेन्चुरी क्लब’, चारमध्ये तीन शतक पोखराकै खेलाडीको नाममा",
+      "link": "https://www.onlinekhabar.com/2026/11/2054919/pokhara-avengers-century-club-three-out-of-four-centuries-in-the-name-of-pokhara-players",
+      "description": "एनपीएलको तेस्रो संस्करण चलिरहँदा हरेक सिजन शतक हान्ने खेलाडी पोखरा एभेन्जर्सकै छन् । एनपीएल इतिहासमा प्रहार भएका चार शतकमध्ये तीन शतक पोखरा एभेन्जर्सका खेलाडीले बनाएका छन् ।",
+      "published": "2026-11-09T17:04:58+00:00",
+      "source": "OnlineKhabar",
+      "category": "sports",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "2a8fc1cfca02ff09",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 106.9,
+      "story_size": 1
     },
     {
       "title": "एनपीएलमा आज : दुई खेलका चार महत्त्वपूर्ण पक्ष",
@@ -301,7 +446,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.6,
+      "score": 106.7,
       "story_size": 1,
       "image_local": "images/news_5709a46645bde74bc972.webp"
     },
@@ -320,7 +465,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.4,
+      "score": 106.5,
       "story_size": 1,
       "image_local": "images/news_f08ee501285cbac8b585.webp"
     },
@@ -339,7 +484,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.1,
+      "score": 106.2,
       "story_size": 1,
       "image_local": "images/news_0f755d02c19b675f119a.webp"
     },
@@ -358,7 +503,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.9,
+      "score": 106.0,
       "story_size": 1,
       "image_local": "images/news_42b93bc56931d585048d.webp"
     },
@@ -377,27 +522,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.7,
+      "score": 105.9,
       "story_size": 1,
       "image_local": "images/news_a8b0ddadcf34894afdef.jpg"
-    },
-    {
-      "title": "सुन्दर कीर्तिपुर मैदान (फोटो फिचर)",
-      "link": "https://khabarhub.com/2026/09/1046552/",
-      "description": "काठमाडौँ &#8211; नेपाल प्रिमियर लिग (एनपीएल) क्रिकेटअन्तर्गत कीर्तिपुरस्थित त्रिवि अन्तर्राष्ट्रिय क्रिकेट मैदानमा सोमबार भएको २० औँ खेलमा काठमाडाैँ गोर्खाजले चितवन राइनोजलाई १० रनले पराजित गरेको छ। जितसँगै काठमाडाैँ तालिकाको शीर्ष स्थानमा उक्लिएको छ। एनपीएल तेस्रो संस्करणमा सबै टिमले पाँच खेल खेलिसक्दा तालिका रोचक बनेको छ । काठमाडाैँले ५ खेलबाट ४ जित र १ हारसहित ८ [&#8230;]",
-      "published": "2026-11-09T16:45:03+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "3c5d8809d7336a90",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.4,
-      "story_size": 1
     },
     {
       "title": "राम्रो अवस्थामा रहेर पनि विकेट जोगाउन नसक्दा हार बेहोर्नुपर्‍यो : रवि बोपारा",
@@ -414,7 +541,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.4,
+      "score": 105.6,
       "story_size": 2,
       "image_local": "images/news_db6e28de5efe47fd7279.webp"
     },
@@ -433,9 +560,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.4,
+      "score": 105.6,
       "story_size": 1,
       "image_local": "images/news_b5ee6b18ae8800c4d103.jpg"
+    },
+    {
+      "title": "सुन्दर कीर्तिपुर मैदान (फोटो फिचर)",
+      "link": "https://khabarhub.com/2026/09/1046552/",
+      "description": "काठमाडौँ &#8211; नेपाल प्रिमियर लिग (एनपीएल) क्रिकेटअन्तर्गत कीर्तिपुरस्थित त्रिवि अन्तर्राष्ट्रिय क्रिकेट मैदानमा सोमबार भएको २० औँ खेलमा काठमाडाैँ गोर्खाजले चितवन राइनोजलाई १० रनले पराजित गरेको छ। जितसँगै काठमाडाैँ तालिकाको शीर्ष स्थानमा उक्लिएको छ। एनपीएल तेस्रो संस्करणमा सबै टिमले पाँच खेल खेलिसक्दा तालिका रोचक बनेको छ । काठमाडाैँले ५ खेलबाट ४ जित र १ हारसहित ८ [&#8230;]",
+      "published": "2026-11-09T16:45:03+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "3c5d8809d7336a90",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 105.5,
+      "story_size": 1
     },
     {
       "title": "बङ्गलादेशकी निर्वासित पूर्वप्रधानमन्त्री हसिनाले ‘प्रत्यर्पण माग्नुपर्ने'",
@@ -452,7 +597,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.2,
+      "score": 105.3,
       "story_size": 1,
       "image_local": "images/news_f1f9f68e463c497d9de8.jpg"
     },
@@ -471,7 +616,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.1,
+      "score": 105.2,
       "story_size": 1,
       "image_local": "images/news_70ddf8a40fd5fcc4467e.webp"
     },
@@ -490,7 +635,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.0,
+      "score": 105.1,
       "story_size": 1,
       "image_local": "images/news_2e8faf1f8d1036dc7276.jpg"
     },
@@ -509,7 +654,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.7,
+      "score": 104.8,
       "story_size": 1,
       "image_local": "images/news_4e1f247907969ae98f4a.jpg"
     },
@@ -528,7 +673,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.1,
+      "score": 104.3,
       "story_size": 1,
       "image_local": "images/news_5b12c0af6a7417de2f45.jpg"
     },
@@ -547,7 +692,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.3,
+      "score": 103.4,
+      "story_size": 1
+    },
+    {
+      "title": "कोप–३१ मा नेपालको प्रस्तावले पायो महत्त्व, आगामी दुई वर्ष संवाद हुने",
+      "link": "https://baahrakhari.com/detail/507002",
+      "description": "",
+      "published": "2026-11-09T21:48:29+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "b76fff92256c32ff",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 102.8,
       "story_size": 1
     },
     {
@@ -565,27 +728,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.7,
+      "score": 102.8,
       "story_size": 1,
       "image_local": "images/news_82fc48d463f732177baf.png"
-    },
-    {
-      "title": "कोप–३१ मा नेपालको प्रस्तावले पायो महत्त्व, आगामी दुई वर्ष संवाद हुने",
-      "link": "https://baahrakhari.com/detail/507002",
-      "description": "",
-      "published": "2026-11-09T21:48:29+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "b76fff92256c32ff",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 106.6,
-      "story_size": 1
     },
     {
       "title": "फूलखेतीमा सात गुणा बढी आम्दानी",
@@ -602,7 +747,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.2,
+      "score": 102.4,
       "story_size": 1,
       "image_local": "images/news_04abc876083c23286c9d.jpg"
     },
@@ -621,7 +766,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.8,
+      "score": 101.9,
       "story_size": 1
     },
     {
@@ -639,7 +784,43 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.7,
+      "score": 101.8,
+      "story_size": 1
+    },
+    {
+      "title": "९ तहसम्म ट्रान्स्फर भएको पैसा १५ मिनेटमै रोक्का, एन्टिस्क्याम सेन्टरको हटलाइन ‘१२४७’",
+      "link": "https://www.onlinekhabar.com/2026/11/2054500/money-transferred-up-to-9-levels-was-stopped-within-15-minutes-anti-scam-center-hotline-1247",
+      "description": "नेपाल राष्ट्र बैंकका अनुसार स्क्यामरले ९ तहसम्म ट्रान्स्फर गरेको रकम एन्टिस्क्याम सेन्टरले १५ मिनेटमै रोक्का राख्न सफल भएको छ ।",
+      "published": "2026-11-09T15:48:22+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "cb6c97f7397a0009",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 101.8,
+      "story_size": 1
+    },
+    {
+      "title": "टाइम म्यागजिनको जलवायु मुद्दाका प्रभावशाली व्यक्तिको सूचीमा अर्थमन्त्री वाग्ले",
+      "link": "https://www.onlinekhabar.com/2026/11/2054910/finance-minister-wagle-named-in-time-magazines-list-of-influential-people-on-climate-issues",
+      "description": "२३ कात्तिक, काठमाडौं । टाइम म्यागजिनले सन् २०२६ का लागि सार्वजनिक गरेको जलवायु परिवर्तनसम्बन्धी विश्वका १०० प्रभावशाली व्यक्तित्वको सूचीमा नेपालका अर्थमन्त्री डा. स्वर्णिम वाग्ले अटाएका छन् । वाग्लेले भोटेकोशी बाढीपछि जलवायु न्यायका लागि अन्तर्राष्ट्रिय मञ्चहरूमा गरेको पैरवी, जलवायु वित्तका लागि गरेको पहल तथा स्रोत व्यवस्थापन र अन्तर्राष्ट्रिय प्रणालीगत सुधारबारे राखेका विचारलाई महत्त्वपूर्ण मान्दै टाइम म्यागजिनले [&#8230;]",
+      "published": "2026-11-09T15:48:13+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "d91b313b99e9e874",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 101.8,
       "story_size": 1
     },
     {
@@ -657,7 +838,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.7,
+      "score": 101.8,
       "story_size": 1,
       "image_local": "images/news_94b915b73fef3cd2dc1a.webp"
     },
@@ -676,45 +857,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.7,
+      "score": 101.8,
       "story_size": 1,
       "image_local": "images/news_81dd2838389abafd11e9.jpg"
-    },
-    {
-      "title": "९ तहसम्म ट्रान्स्फर भएको पैसा १५ मिनेटमै रोक्का, एन्टिस्क्याम सेन्टरको हटलाइन ‘१२४७’",
-      "link": "https://www.onlinekhabar.com/2026/11/2054500/money-transferred-up-to-9-levels-was-stopped-within-15-minutes-anti-scam-center-hotline-1247",
-      "description": "नेपाल राष्ट्र बैंकका अनुसार स्क्यामरले ९ तहसम्म ट्रान्स्फर गरेको रकम एन्टिस्क्याम सेन्टरले १५ मिनेटमै रोक्का राख्न सफल भएको छ ।",
-      "published": "2026-11-09T15:48:22+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "cb6c97f7397a0009",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 105.6,
-      "story_size": 1
-    },
-    {
-      "title": "टाइम म्यागजिनको जलवायु मुद्दाका प्रभावशाली व्यक्तिको सूचीमा अर्थमन्त्री वाग्ले",
-      "link": "https://www.onlinekhabar.com/2026/11/2054910/finance-minister-wagle-named-in-time-magazines-list-of-influential-people-on-climate-issues",
-      "description": "२३ कात्तिक, काठमाडौं । टाइम म्यागजिनले सन् २०२६ का लागि सार्वजनिक गरेको जलवायु परिवर्तनसम्बन्धी विश्वका १०० प्रभावशाली व्यक्तित्वको सूचीमा नेपालका अर्थमन्त्री डा. स्वर्णिम वाग्ले अटाएका छन् । वाग्लेले भोटेकोशी बाढीपछि जलवायु न्यायका लागि अन्तर्राष्ट्रिय मञ्चहरूमा गरेको पैरवी, जलवायु वित्तका लागि गरेको पहल तथा स्रोत व्यवस्थापन र अन्तर्राष्ट्रिय प्रणालीगत सुधारबारे राखेका विचारलाई महत्त्वपूर्ण मान्दै टाइम म्यागजिनले [&#8230;]",
-      "published": "2026-11-09T15:48:13+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "d91b313b99e9e874",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 105.6,
-      "story_size": 1
     },
     {
       "title": "नेताहरूको स्वार्थले अस्थिर मधेश सरकार",
@@ -731,7 +876,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.6,
+      "score": 101.7,
       "story_size": 1
     },
     {
@@ -749,7 +894,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.5,
+      "score": 101.6,
       "story_size": 1
     },
     {
@@ -767,25 +912,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.4,
-      "story_size": 1
-    },
-    {
-      "title": "एनभिडिया काण्डको केन्द्रमा रहेकी चिनियाँ ‘जासुस’ एलिस ह्वाङ को हुन्?",
-      "link": "https://www.onlinekhabar.com/2026/11/2054660/who-is-alice-huang-the-chinese-spy-at-the-center-of-the-nvidia-scandal",
-      "description": "चिनियाँ व्यवसायी एलिस ह्वाङमाथि बेइजिङको गुप्तचर संस्थासँग सम्बन्ध रहेको र एनभिडियाका प्रमुख कार्यकारी अधिकृतजेन्सेन ह्वाङसँग घनिष्ठ सम्बन्ध राखेको आरोप लागेपछि उनी छानबिन र सूक्ष्म निगरानीको घेरामा परेकी छन्।",
-      "published": "2026-11-09T15:44:18+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "ce97d466dd59ef6a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 105.4,
+      "score": 101.6,
       "story_size": 1
     },
     {
@@ -803,9 +930,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.4,
+      "score": 101.6,
       "story_size": 1,
       "image_local": "images/news_89435e1ff213c7e067ce.webp"
+    },
+    {
+      "title": "एनभिडिया काण्डको केन्द्रमा रहेकी चिनियाँ ‘जासुस’ एलिस ह्वाङ को हुन्?",
+      "link": "https://www.onlinekhabar.com/2026/11/2054660/who-is-alice-huang-the-chinese-spy-at-the-center-of-the-nvidia-scandal",
+      "description": "चिनियाँ व्यवसायी एलिस ह्वाङमाथि बेइजिङको गुप्तचर संस्थासँग सम्बन्ध रहेको र एनभिडियाका प्रमुख कार्यकारी अधिकृतजेन्सेन ह्वाङसँग घनिष्ठ सम्बन्ध राखेको आरोप लागेपछि उनी छानबिन र सूक्ष्म निगरानीको घेरामा परेकी छन्।",
+      "published": "2026-11-09T15:44:18+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "ce97d466dd59ef6a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 101.5,
+      "story_size": 1
     },
     {
       "title": "चितवनलाई हराउँदै शीर्षस्थानमा काठमाण्डु",
@@ -822,7 +967,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.4,
+      "score": 101.5,
       "story_size": 1,
       "image_local": "images/news_ba7a1f2f3ecf0a356efc.webp"
     },
@@ -841,7 +986,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.3,
+      "score": 101.4,
       "story_size": 1
     },
     {
@@ -859,7 +1004,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.2,
+      "score": 101.4,
       "story_size": 1
     },
     {
@@ -877,7 +1022,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.2,
+      "score": 101.3,
       "story_size": 1
     },
     {
@@ -895,7 +1040,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.1,
+      "score": 101.2,
       "story_size": 1,
       "image_local": "images/news_97dfe34b312d3ccbb8fb.webp"
     },
@@ -914,7 +1059,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.6,
+      "score": 100.7,
       "story_size": 1
     },
     {
@@ -932,7 +1077,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.5,
+      "score": 100.6,
       "story_size": 1,
       "image_local": "images/news_671d00f6b31622173c6a.webp"
     },
@@ -951,7 +1096,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.3,
+      "score": 100.4,
       "story_size": 1
     },
     {
@@ -969,7 +1114,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.2,
+      "score": 100.4,
       "story_size": 1,
       "image_local": "images/news_b2667f4fdb9938b6ac0f.webp"
     },
@@ -988,7 +1133,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.7,
+      "score": 99.8,
       "story_size": 1,
       "image_local": "images/news_d0ceeb3498ee9f9ad19e.webp"
     },
@@ -1007,7 +1152,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.6,
+      "score": 99.7,
       "story_size": 1
     },
     {
@@ -1025,7 +1170,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.5,
+      "score": 99.7,
       "story_size": 1
     },
     {
@@ -1043,7 +1188,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.4,
+      "score": 99.5,
       "story_size": 1,
       "image_local": "images/news_6a94cbd8bef2589f67ea.webp"
     },
@@ -1062,7 +1207,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.2,
+      "score": 99.4,
+      "story_size": 1
+    },
+    {
+      "title": "तिहारमा ठूलो आवाज निकाल्ने २५ वटा मोटरसाइकल प्रहरी नियन्त्रणमा",
+      "link": "https://www.onlinekhabar.com/2026/11/2054901/police-take-25-motorcycles-under-control-for-making-loud-noise-during-tihar",
+      "description": "तिहार पर्वका समयमा सर्वसाधारण नागरिकलाई सुरक्षित र शान्त वातावरणमा आवागमन गर्ने व्यवस्था मिलाउने उद्देश्यले प्रहरीले चेकजाँच तथा निगरानीलाई तीव्रता दिएको थियो ।",
+      "published": "2026-11-09T15:10:56+00:00",
+      "source": "OnlineKhabar",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "7f9a336f18dd1a3f",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 99.3,
       "story_size": 1
     },
     {
@@ -1080,27 +1243,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.2,
+      "score": 99.3,
       "story_size": 1,
       "image_local": "images/news_cd665fd818d35165ec37.jpg"
-    },
-    {
-      "title": "तिहारमा ठूलो आवाज निकाल्ने २५ वटा मोटरसाइकल प्रहरी नियन्त्रणमा",
-      "link": "https://www.onlinekhabar.com/2026/11/2054901/police-take-25-motorcycles-under-control-for-making-loud-noise-during-tihar",
-      "description": "तिहार पर्वका समयमा सर्वसाधारण नागरिकलाई सुरक्षित र शान्त वातावरणमा आवागमन गर्ने व्यवस्था मिलाउने उद्देश्यले प्रहरीले चेकजाँच तथा निगरानीलाई तीव्रता दिएको थियो ।",
-      "published": "2026-11-09T15:10:56+00:00",
-      "source": "OnlineKhabar",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "7f9a336f18dd1a3f",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 103.1,
-      "story_size": 1
     },
     {
       "title": "चितवनले गुमायो तेस्रो विकेट, जितका लागि ४१ बलमा ७४ रन आवश्यक",
@@ -1117,7 +1262,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.0,
+      "score": 99.2,
       "story_size": 1,
       "image_local": "images/news_5136b3322f79fe68438e.webp"
     },
@@ -1136,7 +1281,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.8,
+      "score": 98.9,
       "story_size": 1
     },
     {
@@ -1154,7 +1299,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.7,
+      "score": 98.9,
       "story_size": 1
     },
     {
@@ -1172,7 +1317,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.7,
+      "score": 98.9,
       "story_size": 1,
       "image_local": "images/news_74b85876a6995ca8d4d1.webp"
     },
@@ -1191,7 +1336,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.5,
+      "score": 98.6,
       "story_size": 1
     },
     {
@@ -1209,7 +1354,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.5,
+      "score": 98.6,
       "story_size": 1,
       "image_local": "images/news_572065e7752e72b9a543.webp"
     },
@@ -1228,27 +1373,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.4,
+      "score": 98.6,
       "story_size": 1,
       "image_local": "images/news_b8fed55727229f2e4dec.webp"
-    },
-    {
-      "title": "काठमाण्डूविरुद्ध रवि बोपाराको अर्धशतक",
-      "link": "https://baahrakhari.com/detail/506999",
-      "description": "",
-      "published": "2026-11-09T20:40:00+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "47d03b4a1a0634c0",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 102.1,
-      "story_size": 1
     },
     {
       "title": "‘टाइम’ को १०० प्रभावशाली व्यक्तिको सूचीमा अर्थमन्त्री",
@@ -1265,7 +1392,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.0,
+      "score": 98.1,
       "story_size": 1
     },
     {
@@ -1283,28 +1410,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.5,
+      "score": 97.6,
       "story_size": 1,
       "image_local": "images/news_6be3542513480ae5b54e.webp"
-    },
-    {
-      "title": "देउसी–भैलो कार्यक्रममा बालेन सहभागी, ‘कुटुमा कुटु’ गीतमा छमछमी",
-      "link": "https://www.ratopati.com/story/604301/balen-participated-in-the-deusi-bhailo-program-sang-the-song-kutuma-kutu",
-      "description": "काठमाडौँ । प्रधानमन्त्री बालेन शाह तिहारको अवसरमा देउसी–भैलो कार्यक्रममा सहभागी भएर नाचगान गरेका छन् । सोमबार प्रधानमन्त्री शाह देउसी–भैलो कार्यक्रममा सहभागी भएका हुन् । उनले कार्यक्रममा चर्चित गीत ‘कुटुमा कुटु’ मा छमछमी नाच्दै रमाइलो गरेका छन्",
-      "published": "2026-11-09T13:47:25+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/balenn_YGyakWs5Ap.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "ec998bf70b00eecb",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 100.6,
-      "story_size": 1,
-      "image_local": "images/news_1be8caa151b58e7b40c7.webp"
     },
     {
       "title": "टर्कीमा सार्वजनिक वैज्ञानिक प्रतिवेदनमा नेपालकै विपदको चर्चा",
@@ -1321,7 +1429,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.3,
+      "score": 96.5,
       "story_size": 1
     },
     {
@@ -1339,7 +1447,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.2,
+      "score": 96.4,
       "story_size": 1,
       "image_local": "images/news_6d544f093e45d9ae3127.jpg"
     },
@@ -1358,7 +1466,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.0,
+      "score": 96.1,
       "story_size": 1,
       "image_local": "images/news_88b0abbaaef39390e612.jpg"
     },
@@ -1377,7 +1485,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.9,
+      "score": 96.0,
       "story_size": 1
     },
     {
@@ -1395,7 +1503,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.3,
+      "score": 95.5,
+      "story_size": 1
+    },
+    {
+      "title": "धान बिक्रीको पर्खाइमा बाँकेका किसान",
+      "link": "https://khabarhub.com/2026/09/1046532/",
+      "description": "राँझा (बाँके), २३ कात्तिकः खाद्य व्यवस्था तथा व्यापार कम्पनी लिमिटेडलाई धान बिक्री गर्न स्थानीय किसान प्रतिक्षारत रहे पनि हालसम्म आवश्यक प्रक्रिया सुरु हुन सकेको छैन । लामो समयदेखि सो कम्पनीलाई धान बिक्री गर्दै आएका नेपालगन्ज–१९ का किसान कल्लुबहादुर वलीले यस वर्ष प्रक्रिया सुरु नभएको बताए । खेतबाट धान भित्र्याइसकेका किसान बिक्रीका लागि पर्खाइमा छन् । [&#8230;]",
+      "published": "2026-11-09T13:53:22+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "e78ed9d22b532733",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 94.1,
       "story_size": 1
     },
     {
@@ -1413,27 +1539,26 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.3,
+      "score": 93.4,
       "story_size": 1
     },
     {
-      "title": "जलवायु कार्ययोजनाको केन्द्रमा स्वास्थ्यलाई राख्न स्वास्थ्यमन्त्रीको आग्रह",
-      "link": "https://gorkhapatraonline.com/news/228775",
-      "description": "सरोज ढुंगेलकाठमाडौं, कात्तिक २३ गते । स्वास्थ्य तथा खाद्य स्वच्छतामन्त्री निशा मेहताले जलवायु परिवर्तनका कारण उत्पन्न स्वास्थ्य सङ्कट न्यूनीकरणका लागि स्वास्थ्य क्षेत्रलाई राष्ट्रि...",
-      "published": "2026-11-09T18:43:19+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "politics",
-      "image": "https://gorkhapatraonline.com/storage/media/391065/conversions/nisha-mehata-original.jpg",
+      "title": "टर्कीको स्टिल कारखानामा विस्फोट, तीन जनाको मृत्यु, १० बेपत्ता",
+      "link": "https://khabarhub.com/2026/09/1046529/",
+      "description": "इज्मिर &#8211; पश्चिमी टर्कीको एक फलाम तथा स्टिल कारखानामा विस्फोटपछि भएको आगलागीमा परी तीन जनाको मृत्यु भएको छ भने १० जना बेपत्ता भएका छन् । सोमबार इज्मिर प्रान्तको आलियागास्थित हाबास स्टिल कारखानामा विस्फोट हुँदा १४ जना कामदार घाइते भएका छन् । घाइतेमध्ये तीन जनाको अवस्था गम्भीर रहेको प्रान्तीय गभर्नरको कार्यालयले जनाएको छ । कारखानाको भग्नावशेषमा [&#8230;]",
+      "published": "2026-11-09T13:32:24+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
       "related_sources": [
-        "Gorkhapatra Online"
+        "Khabarhub"
       ],
-      "id": "584b5481ee4b89d9",
+      "id": "aba6ae92b3011c58",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.3,
-      "story_size": 1,
-      "image_local": "images/news_43e4c56f47d69f063d16.jpg"
+      "score": 92.7,
+      "story_size": 1
     },
     {
       "title": "मृत्युदण्ड सुनाइएकी हसिनालाई बङ्गलादेशको चुनौती- भारतसँग प्रत्यर्पण माग्नुहोस्",
@@ -1450,7 +1575,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.9,
+      "score": 92.0,
       "story_size": 1
     },
     {
@@ -1468,25 +1593,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.7,
-      "story_size": 1
-    },
-    {
-      "title": "१३ रनमै २ विकेट गुमाएको काठमाडौंले चितवनविरुद्ध बनायो १८० रन",
-      "link": "https://www.setopati.com/sports/npl/402354",
-      "description": "काठमाडौंले सुरुवातमै १३ रन जोड्दा २ विकेट गुमाएको थियो। वार्नर र साहिल पटेल सस्तैमा आउट भएपछि दबाबमा परेको काठमाडौंलाई बोसिस्टो र राशिदको साझेदारीले सम्हाल्यो।",
-      "published": "2026-11-09T18:48:00+05:45",
-      "source": "Setopati",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Setopati"
-      ],
-      "id": "601a97f2b837b44a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 94.6,
+      "score": 90.8,
       "story_size": 1
     },
     {
@@ -1504,7 +1611,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.5,
+      "score": 90.7,
       "story_size": 1
     },
     {
@@ -1522,7 +1629,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.4,
+      "score": 90.6,
       "story_size": 1
     },
     {
@@ -1540,25 +1647,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.4,
-      "story_size": 1
-    },
-    {
-      "title": "दुई हजारभन्दा बढी स्मारक, आठ हजार पुरातात्विक वस्तुको अभिलेखीकरण",
-      "link": "https://www.setopati.com/social/402353",
-      "description": "",
-      "published": "2026-11-09T18:42:50+05:45",
-      "source": "Setopati",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "Setopati"
-      ],
-      "id": "a5e658879c9753ba",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 94.3,
+      "score": 90.5,
       "story_size": 1
     },
     {
@@ -1576,7 +1665,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.5,
+      "score": 89.7,
       "story_size": 1
     },
     {
@@ -1594,7 +1683,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.5,
+      "score": 89.6,
       "story_size": 1
     },
     {
@@ -1612,7 +1701,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.5,
+      "score": 89.6,
       "story_size": 1
     },
     {
@@ -1630,7 +1719,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.3,
+      "score": 89.4,
       "story_size": 1
     },
     {
@@ -1648,7 +1737,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.0,
+      "score": 89.2,
       "story_size": 1
     },
     {
@@ -1666,7 +1755,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.8,
+      "score": 88.9,
       "story_size": 1
     },
     {
@@ -1684,7 +1773,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.7,
+      "score": 88.9,
       "story_size": 1
     },
     {
@@ -1702,7 +1791,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.4,
+      "score": 88.6,
       "story_size": 1
     },
     {
@@ -1720,7 +1809,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.2,
+      "score": 88.3,
       "story_size": 1
     },
     {
@@ -1738,7 +1827,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.1,
+      "score": 88.2,
       "story_size": 1
     },
     {
@@ -1756,7 +1845,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.8,
+      "score": 88.0,
       "story_size": 1
     },
     {
@@ -1774,7 +1863,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.8,
+      "score": 88.0,
       "story_size": 1
     },
     {
@@ -1792,7 +1881,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.1,
+      "score": 87.2,
       "story_size": 1
     },
     {
@@ -1810,7 +1899,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.4,
+      "score": 86.5,
       "story_size": 1
     },
     {
@@ -1828,7 +1917,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.9,
+      "score": 86.0,
       "story_size": 1
     },
     {
@@ -1846,7 +1935,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.7,
+      "score": 85.8,
       "story_size": 1
     },
     {
@@ -1864,7 +1953,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.2,
+      "score": 85.3,
       "story_size": 1
     },
     {
@@ -1882,7 +1971,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.6,
+      "score": 84.8,
       "story_size": 1
     },
     {
@@ -1900,7 +1989,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.9,
+      "score": 84.1,
       "story_size": 1
     },
     {
@@ -1918,7 +2007,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.7,
+      "score": 83.9,
       "story_size": 1
     },
     {
@@ -1936,7 +2025,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.4,
+      "score": 83.5,
       "story_size": 1
     },
     {
@@ -1954,25 +2043,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.2,
-      "story_size": 1
-    },
-    {
-      "title": "बल टेम्परिङ घटनाबारे बोल्दै वार्नरले नेपालबाटै जारी गरे सन्देश",
-      "link": "https://www.onlinekhabar.com/2026/11/2054615/warner-issues-message-from-nepal-speaking-about-ball-tampering-incident",
-      "description": "सन् २०१८ मा दक्षिण अफ्रिकाविरुद्धको टेस्ट खेलमा बलको अवस्था परिवर्तन गर्न स्यान्डपेपर प्रयोग गरेको घटना सार्वजनिक भएपछि तत्कालीन कप्तान स्टिभ स्मिथ, उपकप्तान वार्नर र ब्यानक्रफ्टमाथि कारबाही भएको थियो। क्रिकेट अस्ट्रेलियाले स्मिथ र वार्नरलाई एक वर्ष तथा ब्यानक्रफ्टलाई नौ महिनाका लागि प्रतिबन्ध लगाएको थियो।",
-      "published": "2026-11-09T10:54:58+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "5fbb83b985c33f68",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 86.1,
+      "score": 82.4,
       "story_size": 1
     },
     {
@@ -1990,7 +2061,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.1,
+      "score": 82.3,
+      "story_size": 1
+    },
+    {
+      "title": "बल टेम्परिङ घटनाबारे बोल्दै वार्नरले नेपालबाटै जारी गरे सन्देश",
+      "link": "https://www.onlinekhabar.com/2026/11/2054615/warner-issues-message-from-nepal-speaking-about-ball-tampering-incident",
+      "description": "सन् २०१८ मा दक्षिण अफ्रिकाविरुद्धको टेस्ट खेलमा बलको अवस्था परिवर्तन गर्न स्यान्डपेपर प्रयोग गरेको घटना सार्वजनिक भएपछि तत्कालीन कप्तान स्टिभ स्मिथ, उपकप्तान वार्नर र ब्यानक्रफ्टमाथि कारबाही भएको थियो। क्रिकेट अस्ट्रेलियाले स्मिथ र वार्नरलाई एक वर्ष तथा ब्यानक्रफ्टलाई नौ महिनाका लागि प्रतिबन्ध लगाएको थियो।",
+      "published": "2026-11-09T10:54:58+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "5fbb83b985c33f68",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 82.2,
       "story_size": 1
     },
     {
@@ -2008,7 +2097,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.8,
+      "score": 81.9,
       "story_size": 1
     },
     {
@@ -2026,7 +2115,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.4,
+      "score": 81.5,
       "story_size": 1
     },
     {
@@ -2044,7 +2133,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.9,
+      "score": 81.0,
       "story_size": 1
     },
     {
@@ -2062,7 +2151,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.6,
+      "score": 80.7,
       "story_size": 1
     },
     {
@@ -2080,7 +2169,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.3,
+      "score": 80.4,
       "story_size": 1
     },
     {
@@ -2098,7 +2187,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.0,
+      "score": 80.1,
       "story_size": 1
     },
     {
@@ -2116,7 +2205,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.5,
+      "score": 79.7,
       "story_size": 1
     },
     {
@@ -2134,7 +2223,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.2,
+      "score": 78.3,
       "story_size": 1
     },
     {
@@ -2152,7 +2241,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.4,
+      "score": 77.5,
       "story_size": 1
     },
     {
@@ -2170,7 +2259,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.4,
+      "score": 77.5,
       "story_size": 1
     },
     {
@@ -2188,7 +2277,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.9,
+      "score": 76.0,
       "story_size": 1
     },
     {
@@ -2206,7 +2295,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.5,
+      "score": 75.7,
       "story_size": 1
     },
     {
@@ -2224,7 +2313,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.6,
+      "score": 74.8,
       "story_size": 1
     },
     {
@@ -2242,7 +2331,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.6,
+      "score": 74.7,
       "story_size": 1
     },
     {
@@ -2260,7 +2349,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.5,
+      "score": 74.7,
       "story_size": 1
     },
     {
@@ -2278,7 +2367,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.7,
+      "score": 73.9,
       "story_size": 1
     },
     {
@@ -2296,7 +2385,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.4,
+      "score": 73.5,
       "story_size": 1
     },
     {
@@ -2314,7 +2403,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.1,
+      "score": 73.2,
       "story_size": 1
     },
     {
@@ -2332,61 +2421,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.8,
-      "story_size": 1
-    },
-    {
-      "title": "युवराजको शतक मद्दतमा पोखराले कर्णालीलाई दियो २१८ रनको लक्ष्य",
-      "link": "https://www.onlinekhabar.com/2026/11/2054479/yuvrajs-century-helps-pokhara-set-karnali-a-target-of-218-runs",
-      "description": "क्यानडाका ओपनर समेत रहेका सम्राले एनपीएलमा आफ्नो दोस्रो खेल खेल्दै शतक बनाएका हुन् । यस सिजन एनपीएलमा शतक प्रहार गर्ने युवराज पहिलो खेलाडी हुन् ।",
-      "published": "2026-11-09T08:24:44+00:00",
-      "source": "OnlineKhabar",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "646931ca1d49b83a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 76.1,
-      "story_size": 1
-    },
-    {
-      "title": "पटका पड्काएपछि दिल्लीमा वायु प्रदूषण खतरनाक स्तरमा",
-      "link": "https://www.onlinekhabar.com/2026/11/2054458/air-pollution-in-delhi-reaches-hazardous-levels-after-bursting-firecrackers",
-      "description": "दीपावलीपछि सोमबार बिहान दिल्लीको वायु गुणस्तर खतरनाक अवस्थामा पुगेको छ । आइतबार राति मानिसहरूले ठूलो मात्रामा पटका पड्काएपछि सोमबार बिहान दिल्लीका विभिन्न क्षेत्रमा हुस्सु र धुवाँका कारण भिजिबिलिटी निकै कम भएको थियो । केन्द्रीय प्रदूषण नियन्त्रण बोर्ड (सीपीसीबी) का अनुसार दिल्लीको पटपडगञ्जमा वायु गुणस्तर सूचांक (एक्यूआई) ४१८, आईटीओमा ४०६, राजीव चोकमा ३८१ र साउथ एक्सटेन्सन [&#8230;]",
-      "published": "2026-11-09T08:20:07+00:00",
-      "source": "OnlineKhabar",
-      "category": "tech",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "ab02ee47f7de7ae9",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 75.7,
-      "story_size": 1
-    },
-    {
-      "title": "गुल्मीमा कृत्रिम माला विस्थापित हुँदै, प्राकृतिक फूलप्रति बढ्दै आकर्षण",
-      "link": "https://www.onlinekhabar.com/2026/11/2054441/artificial-garlands-are-being-replaced-in-gulmi-and-natural-flowers-are-gaining-popularity",
-      "description": "तिहारमा गुल्मी सदरमुकाम तम्घास बजारमा चहलपहल बढेको छ । पसलहरूमा तिहारका लागि आवश्यक सामग्री किनमेल गर्नेको भिड देखिन्छ । विगतका वर्षमा तिहारको समयमा बजारका पसलहरूमा प्रशस्त देखिने रंगीविरंगी कृत्रिम फूलका माला भने यस वर्ष निकै कम देखिएका छन् ।",
-      "published": "2026-11-09T08:15:36+00:00",
-      "source": "OnlineKhabar",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "8b2945586631547f",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 75.4,
+      "score": 73.0,
       "story_size": 1
     },
     {
@@ -2404,7 +2439,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 70.0,
+      "score": 66.2,
       "story_size": 1
     },
     {
@@ -2422,7 +2457,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 64.5,
+      "score": 60.7,
       "story_size": 1
     },
     {
@@ -2440,7 +2475,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 52.4,
+      "score": 48.5,
       "story_size": 1
     },
     {
@@ -2458,7 +2493,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 51.7,
+      "score": 47.9,
       "story_size": 1
     },
     {

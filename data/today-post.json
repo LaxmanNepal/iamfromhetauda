@@ -1,28 +1,7 @@
 {
   "date_np": "2026-11-09",
-  "generated_at": "2026-11-09T16:54:21.628732+00:00",
+  "generated_at": "2026-11-09T17:51:56.982316+00:00",
   "items": [
-    {
-      "title": "छ सयभन्दा बढी गाईको सामूहिक पूजा",
-      "link": "https://www.thahakhabar.com/detail/311687",
-      "description": "प्रत्येक वर्ष गाई पूजाको अवसरमा यसरी गौशालामा गाईपूजा गर्ने गरिएको फाउन्डेसनका अध्यक्ष भोलानाथ योगीले बताए। सोही अनुरुप यो वर्ष पनि पूजा गरिएको उनको भनाइ थियो।",
-      "published": "2026-11-09T20:31:26+05:45",
-      "source": "Thaha Khabar",
-      "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/gai-1794235034.jpg",
-      "related_sources": [
-        "Thaha Khabar",
-        "Gorkhapatra Online",
-        "Kendrabindu"
-      ],
-      "id": "dc0caeeaf6de985c",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 138.5,
-      "story_size": 3,
-      "image_local": "images/news_d1eb9dbe55d922319f16.jpg"
-    },
     {
       "title": "सम्झौता अवधिभन्दा १० महिना अगाडि नै बन्यो कटनुखोला पुल",
       "link": "https://www.ratopati.com/story/604330/katanukhola-was-built-10-months-ahead-of-the-contract-period",
@@ -39,7 +18,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 136.0,
+      "score": 132.2,
       "story_size": 2,
       "image_local": "images/news_afbfcb55bda112d4cc6f.jpg"
     },
@@ -59,9 +38,28 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 135.5,
+      "score": 131.6,
       "story_size": 2,
       "image_local": "images/news_d85e86c702df2455e095.jpg"
+    },
+    {
+      "title": "काँकडभिट्टाबाट असोजमा ९८ करोडको अलैँची निर्यात",
+      "link": "https://baahrakhari.com/detail/507004",
+      "description": "",
+      "published": "2026-11-09T22:50:28+05:45",
+      "source": "Baahrakhari",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari",
+        "Thaha Khabar"
+      ],
+      "id": "c28ad3e24af7c760",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 130.9,
+      "story_size": 2
     },
     {
       "title": "चितवन राइनोजविरुद्ध काठमाण्डु गोर्खाजको जित",
@@ -79,7 +77,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 134.2,
+      "score": 130.3,
       "story_size": 2,
       "image_local": "images/news_7cf4b767e3cc5b174ea2.jpg"
     },
@@ -99,67 +97,67 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 132.7,
+      "score": 128.8,
       "story_size": 2
     },
     {
-      "title": "पश्चिमी टर्कीको स्टिल कारखानामा विस्फोट, तीन जनाको मृत्यु",
-      "link": "https://www.ratopati.com/story/604300/explosion-at-steel-factory-in-western-turkey-kills-three",
-      "description": "काठमाडाैँ । पश्चिमी टर्कीको एक फलाम तथा स्टिल कारखानामा सोमबार भएको विस्फोट र त्यसपछिको आगलागीमा परी तीन जनाको मृत्यु भएको छ भने १० जना कामदार बेपत्ता भएका छन् । बेपत्ताहरूको खोजी तथा उद्धार कार्य जारी",
-      "published": "2026-11-09T13:39:12+00:00",
+      "title": "छ सयभन्दा बढी गाईको सामूहिक पूजा",
+      "link": "https://www.thahakhabar.com/detail/311687",
+      "description": "प्रत्येक वर्ष गाई पूजाको अवसरमा यसरी गौशालामा गाईपूजा गर्ने गरिएको फाउन्डेसनका अध्यक्ष भोलानाथ योगीले बताए। सोही अनुरुप यो वर्ष पनि पूजा गरिएको उनको भनाइ थियो।",
+      "published": "2026-11-09T20:31:26+05:45",
+      "source": "Thaha Khabar",
+      "category": "nepal",
+      "image": "https://www.thahakhabar.com/uploads/posts/gai-1794235034.jpg",
+      "related_sources": [
+        "Thaha Khabar",
+        "Kendrabindu"
+      ],
+      "id": "dc0caeeaf6de985c",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 124.6,
+      "story_size": 2,
+      "image_local": "images/news_d1eb9dbe55d922319f16.jpg"
+    },
+    {
+      "title": "पर्सामा साढे तीन लाख मूल्य बराबरका ११ थरिका पटका बरामद",
+      "link": "https://www.ratopati.com/story/604333/eleven-types-of-firecrackers-worth-rs-35-lakh-seized-in-parsa",
+      "description": "वीरगन्ज । पर्सा प्रहरीले जिल्लामा सञ्चालन गरेको पटका नियन्त्रण अभियानअन्तर्गत तीन दिनको अवधिमा करिब साढे तीन लाख रुपैयाँ बराबरको आतिशबाजीजन्य विस्फोटक पदार्थ (पटका) बरामद गरेको छ । यही २१ गतेदेखि सुरु गरिएको विशेष अभियानका क्रममा ठुलो",
+      "published": "2026-11-09T17:21:07+00:00",
       "source": "Ratopati",
       "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/turkey-map_Opp4lB9Hu2.jpg",
+      "image": "https://npcdn.ratopati.com/media/news/parsa-district-map_0ZIfD6x5iq.jpg",
       "related_sources": [
-        "Ratopati",
-        "Khabarhub"
-      ],
-      "id": "ead29fb030c231db",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 124.0,
-      "story_size": 2,
-      "image_local": "images/news_e154c9164f606791e20f.jpg"
-    },
-    {
-      "title": "धान बिक्रीको पर्खाइमा बाँकेका किसान",
-      "link": "https://khabarhub.com/2026/09/1046532/",
-      "description": "राँझा (बाँके), २३ कात्तिकः खाद्य व्यवस्था तथा व्यापार कम्पनी लिमिटेडलाई धान बिक्री गर्न स्थानीय किसान प्रतिक्षारत रहे पनि हालसम्म आवश्यक प्रक्रिया सुरु हुन सकेको छैन । लामो समयदेखि सो कम्पनीलाई धान बिक्री गर्दै आएका नेपालगन्ज–१९ का किसान कल्लुबहादुर वलीले यस वर्ष प्रक्रिया सुरु नभएको बताए । खेतबाट धान भित्र्याइसकेका किसान बिक्रीका लागि पर्खाइमा छन् । [&#8230;]",
-      "published": "2026-11-09T13:53:22+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
         "Ratopati"
       ],
-      "id": "e78ed9d22b532733",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 122.0,
-      "story_size": 2
-    },
-    {
-      "title": "संस्कृति जोगाउन जुट्दै ज्येष्ठ नागरिकदेखि युवापुस्तासम्म [भिडियो]",
-      "link": "https://nepalsamaya.com/detail/147717",
-      "description": "",
-      "published": "2026-11-09T22:27:11+05:45",
-      "source": "Nepal Samaya",
-      "category": "nepal",
-      "image": "https://nepalsamaya.com/uploads/posts/photo-13_0bd2027d-1794242518.jpg",
-      "related_sources": [
-        "Nepal Samaya"
-      ],
-      "id": "73747c73ea3ac7f6",
+      "id": "05881a8874abd0b7",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.2,
+      "score": 111.0,
       "story_size": 1,
-      "image_local": "images/news_5cd675ef107d1f9fc24e.jpg"
+      "image_local": "images/news_3d09985f46097fe41b26.jpg"
+    },
+    {
+      "title": "आपसी सद्भाव र राष्ट्रिय एकतालाई थप सुदृढ बनाउनुपर्छ: मन्त्री श्रेष्ठ",
+      "link": "https://gorkhapatraonline.com/news/228785",
+      "description": "काठमाडौँ, कात्तिक २३ गते । ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्री विराज भक्त श्रेष्ठले नेपाल संवत् ११४७ तथा म्हःपूजाको अवसरमा सम्पूर्ण नेपालीमा सुख, शान्ति, सुस्वास्थ्य, एकता र समृद्धिक...",
+      "published": "2026-11-09T23:01:24+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "politics",
+      "image": "https://gorkhapatraonline.com/storage/media/391081/conversions/d17ea595-7fd0-4b95-9da4-ce199170d15f-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "e5c74828b8186aa6",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.6,
+      "story_size": 1,
+      "image_local": "images/news_1335403cd88c97331abe.jpg"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. छ सयभन्दा बढी गाईको सामूहिक पूजा\nस्रोत: Thaha Khabar, Gorkhapatra Online, Kendrabindu\nhttps://www.thahakhabar.com/detail/311687\n\n2. सम्झौता अवधिभन्दा १० महिना अगाडि नै बन्यो कटनुखोला पुल\nस्रोत: Ratopati, Khabarhub\nhttps://www.ratopati.com/story/604330/katanukhola-was-built-10-months-ahead-of-the-contract-period\n\n3. चाडपर्वमा ट्राफिक व्यवस्थापन प्रभावकारी बनाउन काफ्लेको निर्देशन\nस्रोत: Ratopati, Khabarhub\nhttps://www.ratopati.com/story/604329/traffic-police-chief-kafle-directs-to-make-traffic-management-effective-during-festivals\n\n4. चितवन राइनोजविरुद्ध काठमाण्डु गोर्खाजको जित\nस्रोत: Gorkhapatra Online, Thaha Khabar\nhttps://gorkhapatraonline.com/news/228783\n\n5. खुल्यो पोखरा–बागलुङ सडक\nस्रोत: Baahrakhari, Ratopati\nhttps://baahrakhari.com/detail/507003\n\n6. पश्चिमी टर्कीको स्टिल कारखानामा विस्फोट, तीन जनाको मृत्यु\nस्रोत: Ratopati, Khabarhub\nhttps://www.ratopati.com/story/604300/explosion-at-steel-factory-in-western-turkey-kills-three\n\n7. धान बिक्रीको पर्खाइमा बाँकेका किसान\nस्रोत: Khabarhub, Ratopati\nhttps://khabarhub.com/2026/09/1046532/\n\n8. संस्कृति जोगाउन जुट्दै ज्येष्ठ नागरिकदेखि युवापुस्तासम्म [भिडियो]\nस्रोत: Nepal Samaya\nhttps://nepalsamaya.com/detail/147717\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. सम्झौता अवधिभन्दा १० महिना अगाडि नै बन्यो कटनुखोला पुल\nस्रोत: Ratopati, Khabarhub\nhttps://www.ratopati.com/story/604330/katanukhola-was-built-10-months-ahead-of-the-contract-period\n\n2. चाडपर्वमा ट्राफिक व्यवस्थापन प्रभावकारी बनाउन काफ्लेको निर्देशन\nस्रोत: Ratopati, Khabarhub\nhttps://www.ratopati.com/story/604329/traffic-police-chief-kafle-directs-to-make-traffic-management-effective-during-festivals\n\n3. काँकडभिट्टाबाट असोजमा ९८ करोडको अलैँची निर्यात\nस्रोत: Baahrakhari, Thaha Khabar\nhttps://baahrakhari.com/detail/507004\n\n4. चितवन राइनोजविरुद्ध काठमाण्डु गोर्खाजको जित\nस्रोत: Gorkhapatra Online, Thaha Khabar\nhttps://gorkhapatraonline.com/news/228783\n\n5. खुल्यो पोखरा–बागलुङ सडक\nस्रोत: Baahrakhari, Ratopati\nhttps://baahrakhari.com/detail/507003\n\n6. छ सयभन्दा बढी गाईको सामूहिक पूजा\nस्रोत: Thaha Khabar, Kendrabindu\nhttps://www.thahakhabar.com/detail/311687\n\n7. पर्सामा साढे तीन लाख मूल्य बराबरका ११ थरिका पटका बरामद\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/604333/eleven-types-of-firecrackers-worth-rs-35-lakh-seized-in-parsa\n\n8. आपसी सद्भाव र राष्ट्रिय एकतालाई थप सुदृढ बनाउनुपर्छ: मन्त्री श्रेष्ठ\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/228785\n\n— I Am From Hetauda"
 }
