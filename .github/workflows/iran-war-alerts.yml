@@ -79,7 +79,7 @@ jobs:
                       source = (source_node.text or '').strip() if source_node is not None else 'News source'
                       pub = (node.findtext('pubDate') or '').strip()
                       desc = re.sub(r'<[^>]+>', ' ', node.findtext('description') or '')
-                      desc = re.sub(r'\\s+', ' ', desc).strip()
+                      desc = re.sub(r'\s+, ' ', desc).strip()
                       try: published_dt = parsedate_to_datetime(pub).astimezone(timezone.utc)
                       except Exception: continue
                       if published_dt < cutoff or published_dt > now + timedelta(minutes=10): continue
