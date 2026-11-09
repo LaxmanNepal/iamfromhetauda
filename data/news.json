@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T17:51:56.980200+00:00",
+  "updated_at": "2026-11-09T17:54:40.599208+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -31,7 +31,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 132.2,
+      "score": 132.0,
       "story_size": 2,
       "image_local": "images/news_afbfcb55bda112d4cc6f.jpg"
     },
@@ -51,7 +51,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 131.6,
+      "score": 131.4,
       "story_size": 2,
       "image_local": "images/news_d85e86c702df2455e095.jpg"
     },
@@ -71,7 +71,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 130.9,
+      "score": 130.7,
       "story_size": 2
     },
     {
@@ -90,7 +90,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 130.3,
+      "score": 130.1,
       "story_size": 2,
       "image_local": "images/news_7cf4b767e3cc5b174ea2.jpg"
     },
@@ -110,7 +110,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 128.8,
+      "score": 128.7,
       "story_size": 2
     },
     {
@@ -129,7 +129,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 124.6,
+      "score": 124.5,
       "story_size": 2,
       "image_local": "images/news_d1eb9dbe55d922319f16.jpg"
     },
@@ -148,7 +148,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.0,
+      "score": 110.8,
       "story_size": 1,
       "image_local": "images/news_3d09985f46097fe41b26.jpg"
     },
@@ -167,7 +167,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.6,
+      "score": 110.5,
       "story_size": 1,
       "image_local": "images/news_1335403cd88c97331abe.jpg"
     },
@@ -186,7 +186,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.4,
+      "score": 110.3,
       "story_size": 1,
       "image_local": "images/news_7330b2a7ecd3799479be.webp"
     },
@@ -205,7 +205,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.8,
+      "score": 109.6,
       "story_size": 1,
       "image_local": "images/news_7c7cf9bb30cf2326a1ce.jpg"
     },
@@ -224,7 +224,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.5,
+      "score": 109.3,
       "story_size": 1,
       "image_local": "images/news_f1f91745136e839c17e9.jpg"
     },
@@ -243,7 +243,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.2,
+      "score": 109.0,
       "story_size": 1
     },
     {
@@ -261,7 +261,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.4,
+      "score": 108.2,
       "story_size": 1,
       "image_local": "images/news_5cd675ef107d1f9fc24e.jpg"
     },
@@ -280,7 +280,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.3,
+      "score": 108.1,
       "story_size": 1
     },
     {
@@ -298,7 +298,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.3,
+      "score": 108.1,
       "story_size": 1
     },
     {
@@ -316,7 +316,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.2,
+      "score": 108.0,
       "story_size": 1,
       "image_local": "images/news_aab9bbc068d7e32e12f6.jpg"
     },
@@ -335,7 +335,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.1,
+      "score": 107.9,
       "story_size": 1,
       "image_local": "images/news_330426c59a691403aca4.jpg"
     },
@@ -354,7 +354,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.9,
+      "score": 107.7,
       "story_size": 1,
       "image_local": "images/news_9140c1e6294194eb5d8f.jpg"
     },
@@ -373,7 +373,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.2,
+      "score": 107.1,
       "story_size": 1,
       "image_local": "images/news_34cfd5983c5ee4880b23.webp"
     },
@@ -392,7 +392,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.0,
+      "score": 106.8,
       "story_size": 1
     },
     {
@@ -410,7 +410,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.9,
+      "score": 106.8,
       "story_size": 1
     },
     {
@@ -428,7 +428,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.9,
+      "score": 106.7,
       "story_size": 1
     },
     {
@@ -446,7 +446,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.7,
+      "score": 106.5,
       "story_size": 1,
       "image_local": "images/news_5709a46645bde74bc972.webp"
     },
@@ -465,7 +465,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.5,
+      "score": 106.4,
       "story_size": 1,
       "image_local": "images/news_f08ee501285cbac8b585.webp"
     },
@@ -484,7 +484,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.2,
+      "score": 106.0,
       "story_size": 1,
       "image_local": "images/news_0f755d02c19b675f119a.webp"
     },
@@ -503,7 +503,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.0,
+      "score": 105.8,
       "story_size": 1,
       "image_local": "images/news_42b93bc56931d585048d.webp"
     },
@@ -522,9 +522,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.9,
+      "score": 105.7,
       "story_size": 1,
       "image_local": "images/news_a8b0ddadcf34894afdef.jpg"
+    },
+    {
+      "title": "सुन्दर कीर्तिपुर मैदान (फोटो फिचर)",
+      "link": "https://khabarhub.com/2026/09/1046552/",
+      "description": "काठमाडौँ &#8211; नेपाल प्रिमियर लिग (एनपीएल) क्रिकेटअन्तर्गत कीर्तिपुरस्थित त्रिवि अन्तर्राष्ट्रिय क्रिकेट मैदानमा सोमबार भएको २० औँ खेलमा काठमाडाैँ गोर्खाजले चितवन राइनोजलाई १० रनले पराजित गरेको छ। जितसँगै काठमाडाैँ तालिकाको शीर्ष स्थानमा उक्लिएको छ। एनपीएल तेस्रो संस्करणमा सबै टिमले पाँच खेल खेलिसक्दा तालिका रोचक बनेको छ । काठमाडाैँले ५ खेलबाट ४ जित र १ हारसहित ८ [&#8230;]",
+      "published": "2026-11-09T16:45:03+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "3c5d8809d7336a90",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 105.4,
+      "story_size": 1
     },
     {
       "title": "राम्रो अवस्थामा रहेर पनि विकेट जोगाउन नसक्दा हार बेहोर्नुपर्‍यो : रवि बोपारा",
@@ -541,7 +559,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.6,
+      "score": 105.4,
       "story_size": 2,
       "image_local": "images/news_db6e28de5efe47fd7279.webp"
     },
@@ -560,27 +578,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.6,
+      "score": 105.4,
       "story_size": 1,
       "image_local": "images/news_b5ee6b18ae8800c4d103.jpg"
-    },
-    {
-      "title": "सुन्दर कीर्तिपुर मैदान (फोटो फिचर)",
-      "link": "https://khabarhub.com/2026/09/1046552/",
-      "description": "काठमाडौँ &#8211; नेपाल प्रिमियर लिग (एनपीएल) क्रिकेटअन्तर्गत कीर्तिपुरस्थित त्रिवि अन्तर्राष्ट्रिय क्रिकेट मैदानमा सोमबार भएको २० औँ खेलमा काठमाडाैँ गोर्खाजले चितवन राइनोजलाई १० रनले पराजित गरेको छ। जितसँगै काठमाडाैँ तालिकाको शीर्ष स्थानमा उक्लिएको छ। एनपीएल तेस्रो संस्करणमा सबै टिमले पाँच खेल खेलिसक्दा तालिका रोचक बनेको छ । काठमाडाैँले ५ खेलबाट ४ जित र १ हारसहित ८ [&#8230;]",
-      "published": "2026-11-09T16:45:03+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "3c5d8809d7336a90",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 105.5,
-      "story_size": 1
     },
     {
       "title": "बङ्गलादेशकी निर्वासित पूर्वप्रधानमन्त्री हसिनाले ‘प्रत्यर्पण माग्नुपर्ने'",
@@ -597,7 +597,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.3,
+      "score": 105.2,
       "story_size": 1,
       "image_local": "images/news_f1f9f68e463c497d9de8.jpg"
     },
@@ -616,7 +616,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.2,
+      "score": 105.0,
       "story_size": 1,
       "image_local": "images/news_70ddf8a40fd5fcc4467e.webp"
     },
@@ -635,7 +635,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.1,
+      "score": 104.9,
       "story_size": 1,
       "image_local": "images/news_2e8faf1f8d1036dc7276.jpg"
     },
@@ -654,7 +654,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.8,
+      "score": 104.6,
       "story_size": 1,
       "image_local": "images/news_4e1f247907969ae98f4a.jpg"
     },
@@ -673,7 +673,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.3,
+      "score": 104.1,
       "story_size": 1,
       "image_local": "images/news_5b12c0af6a7417de2f45.jpg"
     },
@@ -692,7 +692,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.4,
+      "score": 103.2,
       "story_size": 1
     },
     {
@@ -710,7 +710,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.8,
+      "score": 102.6,
       "story_size": 1
     },
     {
@@ -728,7 +728,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.8,
+      "score": 102.6,
       "story_size": 1,
       "image_local": "images/news_82fc48d463f732177baf.png"
     },
@@ -747,7 +747,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.4,
+      "score": 102.2,
       "story_size": 1,
       "image_local": "images/news_04abc876083c23286c9d.jpg"
     },
@@ -766,7 +766,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.9,
+      "score": 101.7,
       "story_size": 1
     },
     {
@@ -784,7 +784,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.8,
+      "score": 101.6,
       "story_size": 1
     },
     {
@@ -802,7 +802,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.8,
+      "score": 101.6,
       "story_size": 1
     },
     {
@@ -820,7 +820,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.8,
+      "score": 101.6,
       "story_size": 1
     },
     {
@@ -838,7 +838,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.8,
+      "score": 101.6,
       "story_size": 1,
       "image_local": "images/news_94b915b73fef3cd2dc1a.webp"
     },
@@ -857,7 +857,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.8,
+      "score": 101.6,
       "story_size": 1,
       "image_local": "images/news_81dd2838389abafd11e9.jpg"
     },
@@ -876,7 +876,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.7,
+      "score": 101.5,
       "story_size": 1
     },
     {
@@ -894,7 +894,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.6,
+      "score": 101.5,
       "story_size": 1
     },
     {
@@ -912,7 +912,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.6,
+      "score": 101.4,
       "story_size": 1
     },
     {
@@ -930,27 +930,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.6,
+      "score": 101.4,
       "story_size": 1,
       "image_local": "images/news_89435e1ff213c7e067ce.webp"
-    },
-    {
-      "title": "एनभिडिया काण्डको केन्द्रमा रहेकी चिनियाँ ‘जासुस’ एलिस ह्वाङ को हुन्?",
-      "link": "https://www.onlinekhabar.com/2026/11/2054660/who-is-alice-huang-the-chinese-spy-at-the-center-of-the-nvidia-scandal",
-      "description": "चिनियाँ व्यवसायी एलिस ह्वाङमाथि बेइजिङको गुप्तचर संस्थासँग सम्बन्ध रहेको र एनभिडियाका प्रमुख कार्यकारी अधिकृतजेन्सेन ह्वाङसँग घनिष्ठ सम्बन्ध राखेको आरोप लागेपछि उनी छानबिन र सूक्ष्म निगरानीको घेरामा परेकी छन्।",
-      "published": "2026-11-09T15:44:18+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "ce97d466dd59ef6a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 101.5,
-      "story_size": 1
     },
     {
       "title": "चितवनलाई हराउँदै शीर्षस्थानमा काठमाण्डु",
@@ -967,9 +949,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.5,
+      "score": 101.4,
       "story_size": 1,
       "image_local": "images/news_ba7a1f2f3ecf0a356efc.webp"
+    },
+    {
+      "title": "एनभिडिया काण्डको केन्द्रमा रहेकी चिनियाँ ‘जासुस’ एलिस ह्वाङ को हुन्?",
+      "link": "https://www.onlinekhabar.com/2026/11/2054660/who-is-alice-huang-the-chinese-spy-at-the-center-of-the-nvidia-scandal",
+      "description": "चिनियाँ व्यवसायी एलिस ह्वाङमाथि बेइजिङको गुप्तचर संस्थासँग सम्बन्ध रहेको र एनभिडियाका प्रमुख कार्यकारी अधिकृतजेन्सेन ह्वाङसँग घनिष्ठ सम्बन्ध राखेको आरोप लागेपछि उनी छानबिन र सूक्ष्म निगरानीको घेरामा परेकी छन्।",
+      "published": "2026-11-09T15:44:18+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "ce97d466dd59ef6a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 101.3,
+      "story_size": 1
     },
     {
       "title": "संघले खुम्च्याउँदैछ अधिकार, स्थानीय र प्रदेशलाई दिँदैछ सर्वोच्चले साथ",
@@ -986,7 +986,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.4,
+      "score": 101.2,
       "story_size": 1
     },
     {
@@ -1004,7 +1004,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.4,
+      "score": 101.2,
       "story_size": 1
     },
     {
@@ -1022,7 +1022,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.3,
+      "score": 101.1,
       "story_size": 1
     },
     {
@@ -1040,7 +1040,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.2,
+      "score": 101.0,
       "story_size": 1,
       "image_local": "images/news_97dfe34b312d3ccbb8fb.webp"
     },
@@ -1059,7 +1059,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.7,
+      "score": 100.5,
       "story_size": 1
     },
     {
@@ -1077,7 +1077,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.6,
+      "score": 100.4,
       "story_size": 1,
       "image_local": "images/news_671d00f6b31622173c6a.webp"
     },
@@ -1096,7 +1096,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.4,
+      "score": 100.2,
       "story_size": 1
     },
     {
@@ -1114,7 +1114,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.4,
+      "score": 100.2,
       "story_size": 1,
       "image_local": "images/news_b2667f4fdb9938b6ac0f.webp"
     },
@@ -1133,7 +1133,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.8,
+      "score": 99.6,
       "story_size": 1,
       "image_local": "images/news_d0ceeb3498ee9f9ad19e.webp"
     },
@@ -1152,7 +1152,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.7,
+      "score": 99.5,
       "story_size": 1
     },
     {
@@ -1170,7 +1170,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.7,
+      "score": 99.5,
       "story_size": 1
     },
     {
@@ -1188,7 +1188,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.5,
+      "score": 99.4,
       "story_size": 1,
       "image_local": "images/news_6a94cbd8bef2589f67ea.webp"
     },
@@ -1207,7 +1207,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.4,
+      "score": 99.2,
       "story_size": 1
     },
     {
@@ -1225,7 +1225,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.3,
+      "score": 99.1,
       "story_size": 1
     },
     {
@@ -1243,7 +1243,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.3,
+      "score": 99.1,
       "story_size": 1,
       "image_local": "images/news_cd665fd818d35165ec37.jpg"
     },
@@ -1262,7 +1262,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.2,
+      "score": 99.0,
       "story_size": 1,
       "image_local": "images/news_5136b3322f79fe68438e.webp"
     },
@@ -1281,7 +1281,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.9,
+      "score": 98.8,
       "story_size": 1
     },
     {
@@ -1299,7 +1299,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.9,
+      "score": 98.7,
       "story_size": 1
     },
     {
@@ -1317,7 +1317,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.9,
+      "score": 98.7,
       "story_size": 1,
       "image_local": "images/news_74b85876a6995ca8d4d1.webp"
     },
@@ -1336,7 +1336,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.6,
+      "score": 98.4,
       "story_size": 1
     },
     {
@@ -1354,7 +1354,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.6,
+      "score": 98.4,
       "story_size": 1,
       "image_local": "images/news_572065e7752e72b9a543.webp"
     },
@@ -1373,7 +1373,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.6,
+      "score": 98.4,
       "story_size": 1,
       "image_local": "images/news_b8fed55727229f2e4dec.webp"
     },
@@ -1392,7 +1392,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.1,
+      "score": 97.9,
       "story_size": 1
     },
     {
@@ -1410,7 +1410,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.6,
+      "score": 97.4,
       "story_size": 1,
       "image_local": "images/news_6be3542513480ae5b54e.webp"
     },
@@ -1429,7 +1429,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.5,
+      "score": 96.3,
       "story_size": 1
     },
     {
@@ -1447,7 +1447,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.4,
+      "score": 96.2,
       "story_size": 1,
       "image_local": "images/news_6d544f093e45d9ae3127.jpg"
     },
@@ -1466,7 +1466,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.1,
+      "score": 95.9,
       "story_size": 1,
       "image_local": "images/news_88b0abbaaef39390e612.jpg"
     },
@@ -1485,7 +1485,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.0,
+      "score": 95.8,
       "story_size": 1
     },
     {
@@ -1503,7 +1503,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.5,
+      "score": 95.3,
       "story_size": 1
     },
     {
@@ -1521,7 +1521,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.1,
+      "score": 93.9,
       "story_size": 1
     },
     {
@@ -1539,7 +1539,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.4,
+      "score": 93.2,
       "story_size": 1
     },
     {
@@ -1557,7 +1557,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.7,
+      "score": 92.5,
       "story_size": 1
     },
     {
@@ -1575,7 +1575,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.0,
+      "score": 91.8,
       "story_size": 1
     },
     {
@@ -1593,7 +1593,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.8,
+      "score": 90.6,
       "story_size": 1
     },
     {
@@ -1611,7 +1611,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.7,
+      "score": 90.5,
       "story_size": 1
     },
     {
@@ -1629,7 +1629,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.6,
+      "score": 90.4,
       "story_size": 1
     },
     {
@@ -1647,7 +1647,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.5,
+      "score": 90.3,
       "story_size": 1
     },
     {
@@ -1665,7 +1665,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.7,
+      "score": 89.5,
       "story_size": 1
     },
     {
@@ -1683,7 +1683,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.6,
+      "score": 89.4,
       "story_size": 1
     },
     {
@@ -1701,7 +1701,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.6,
+      "score": 89.4,
       "story_size": 1
     },
     {
@@ -1719,7 +1719,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.4,
+      "score": 89.3,
       "story_size": 1
     },
     {
@@ -1737,7 +1737,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.2,
+      "score": 89.0,
       "story_size": 1
     },
     {
@@ -1755,7 +1755,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.9,
+      "score": 88.7,
       "story_size": 1
     },
     {
@@ -1773,7 +1773,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.9,
+      "score": 88.7,
       "story_size": 1
     },
     {
@@ -1791,7 +1791,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.6,
+      "score": 88.4,
       "story_size": 1
     },
     {
@@ -1809,7 +1809,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.3,
+      "score": 88.2,
       "story_size": 1
     },
     {
@@ -1827,7 +1827,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.2,
+      "score": 88.0,
       "story_size": 1
     },
     {
@@ -1845,7 +1845,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.0,
+      "score": 87.8,
       "story_size": 1
     },
     {
@@ -1863,7 +1863,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.0,
+      "score": 87.8,
       "story_size": 1
     },
     {
@@ -1881,7 +1881,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.2,
+      "score": 87.0,
       "story_size": 1
     },
     {
@@ -1899,7 +1899,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.5,
+      "score": 86.3,
       "story_size": 1
     },
     {
@@ -1917,7 +1917,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.0,
+      "score": 85.8,
       "story_size": 1
     },
     {
@@ -1935,7 +1935,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.8,
+      "score": 85.6,
       "story_size": 1
     },
     {
@@ -1953,7 +1953,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.3,
+      "score": 85.2,
       "story_size": 1
     },
     {
@@ -1971,7 +1971,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.8,
+      "score": 84.6,
       "story_size": 1
     },
     {
@@ -1989,7 +1989,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.1,
+      "score": 83.9,
       "story_size": 1
     },
     {
@@ -2007,7 +2007,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.9,
+      "score": 83.7,
       "story_size": 1
     },
     {
@@ -2025,7 +2025,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.5,
+      "score": 83.4,
       "story_size": 1
     },
     {
@@ -2043,7 +2043,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.4,
+      "score": 82.2,
       "story_size": 1
     },
     {
@@ -2061,7 +2061,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.3,
+      "score": 82.1,
       "story_size": 1
     },
     {
@@ -2079,7 +2079,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.2,
+      "score": 82.0,
       "story_size": 1
     },
     {
@@ -2097,7 +2097,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.9,
+      "score": 81.7,
       "story_size": 1
     },
     {
@@ -2115,7 +2115,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.5,
+      "score": 81.4,
       "story_size": 1
     },
     {
@@ -2133,7 +2133,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.0,
+      "score": 80.8,
       "story_size": 1
     },
     {
@@ -2151,7 +2151,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.7,
+      "score": 80.5,
       "story_size": 1
     },
     {
@@ -2169,7 +2169,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.4,
+      "score": 80.2,
       "story_size": 1
     },
     {
@@ -2187,7 +2187,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.1,
+      "score": 79.9,
       "story_size": 1
     },
     {
@@ -2205,7 +2205,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.7,
+      "score": 79.5,
       "story_size": 1
     },
     {
@@ -2223,7 +2223,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.3,
+      "score": 78.1,
       "story_size": 1
     },
     {
@@ -2241,7 +2241,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.5,
+      "score": 77.3,
       "story_size": 1
     },
     {
@@ -2259,7 +2259,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.5,
+      "score": 77.3,
       "story_size": 1
     },
     {
@@ -2277,7 +2277,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.0,
+      "score": 75.8,
       "story_size": 1
     },
     {
@@ -2295,7 +2295,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.7,
+      "score": 75.5,
       "story_size": 1
     },
     {
@@ -2313,7 +2313,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.8,
+      "score": 74.6,
       "story_size": 1
     },
     {
@@ -2331,7 +2331,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.7,
+      "score": 74.5,
       "story_size": 1
     },
     {
@@ -2349,7 +2349,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.7,
+      "score": 74.5,
       "story_size": 1
     },
     {
@@ -2367,7 +2367,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.9,
+      "score": 73.7,
       "story_size": 1
     },
     {
@@ -2385,7 +2385,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.5,
+      "score": 73.3,
       "story_size": 1
     },
     {
@@ -2403,7 +2403,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.2,
+      "score": 73.0,
       "story_size": 1
     },
     {
@@ -2421,7 +2421,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.0,
+      "score": 72.8,
       "story_size": 1
     },
     {
@@ -2439,7 +2439,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.2,
+      "score": 66.0,
       "story_size": 1
     },
     {
@@ -2457,7 +2457,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 60.7,
+      "score": 60.5,
       "story_size": 1
     },
     {
@@ -2475,7 +2475,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 48.5,
+      "score": 48.4,
       "story_size": 1
     },
     {
@@ -2493,7 +2493,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 47.9,
+      "score": 47.7,
       "story_size": 1
     },
     {
