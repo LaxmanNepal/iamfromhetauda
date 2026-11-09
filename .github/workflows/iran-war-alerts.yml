@@ -55,19 +55,19 @@ jobs:
           items.sort(key=lambda x:x.get('published',''), reverse=True)
           payload = {'updated':datetime.now(timezone.utc).isoformat(),'items':items[:60],
                      'note':'Aggregated Google News RSS headlines. Headlines are not independently verified.'}
-          path=Path('iranwar/alerts.json')
+          path=Path('Iranwar/alerts.json')
           path.parent.mkdir(parents=True,exist_ok=True)
           path.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
           print('Saved',len(payload['items']),'headlines')
           PY
       - name: Publish updated feed
         run: |
-          if git diff --quiet -- iranwar/alerts.json; then
+          if git diff --quiet -- Iranwar/alerts.json; then
             echo "No feed changes."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add iranwar/alerts.json
+          git add Iranwar/alerts.json
           git commit -m "chore: refresh Iran war news alerts"
           git push
