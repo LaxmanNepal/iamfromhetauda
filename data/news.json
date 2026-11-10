@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T16:18:49.513938+00:00",
+  "updated_at": "2026-11-10T21:54:14.944932+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -33,9 +33,30 @@
       "source_count": 4,
       "verified": true,
       "local": false,
-      "score": 153.6,
+      "score": 131.2,
       "story_size": 4,
       "image_local": "images/news_fbf8cc2ae06eec9dfa67.jpg"
+    },
+    {
+      "title": "कोप–३१ः ‘जलवायु उत्थानशील ऊर्जा पूर्वाधार र स्वच्छ ऊर्जा लगानी’बारे छलफल",
+      "link": "https://www.thahakhabar.com/detail/311729",
+      "description": "",
+      "published": "2026-11-10T22:09:07+05:45",
+      "source": "Thaha Khabar",
+      "category": "business",
+      "image": "https://www.thahakhabar.com/uploads/posts/1000206650-(1)-1794327539.jpg",
+      "related_sources": [
+        "Thaha Khabar",
+        "Khabarhub",
+        "Ratopati"
+      ],
+      "id": "c562b47eca26f55d",
+      "source_count": 3,
+      "verified": true,
+      "local": false,
+      "score": 125.0,
+      "story_size": 3,
+      "image_local": "images/news_1bd7e4c2d5f68937d589.jpg"
     },
     {
       "title": "जलवायु अनुकूलन जलवायु न्यायको विषय पनि हो : मन्त्री खनाल",
@@ -54,9 +75,48 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 142.6,
+      "score": 120.2,
       "story_size": 3,
       "image_local": "images/news_34a9c4ec422b3ef2dbe9.jpg"
+    },
+    {
+      "title": "पोखरामा बुधबार भाइटिका महोत्सव",
+      "link": "https://www.ratopati.com/story/604500/bhaitika-festival-in-pokhara-on-wednesday",
+      "description": "कास्की । नेपाली मौलिक संस्कृति र परम्परालाई पर्यटनसँग जोड्दै आएको होटल सङ्घ पोखराको आयोजनामा पोखरामा बुधबार १९औँ संस्करणको भाइटिका महोत्सव आयोजना हुने भएको छ । तिहारको सांस्कृतिक महत्वलाई अन्तर्राष्ट्रियस्तरमा परिचित गराउने र संस्कृतिका माध्यमबाट पर्यटन प्रवर्द्धन",
+      "published": "2026-11-10T17:08:38+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/09-pokhara_nepal-photo-library9_aoa2ECWnmZ.webp",
+      "related_sources": [
+        "Ratopati",
+        "Khabarhub"
+      ],
+      "id": "a4fb6fd20718514c",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 118.0,
+      "story_size": 2,
+      "image_local": "images/news_2bf800ccaffa7e92414f.webp"
+    },
+    {
+      "title": "तनहुँमा स्क्रब टाइफसको जोखिम बढ्दो",
+      "link": "https://baahrakhari.com/detail/507062",
+      "description": "",
+      "published": "2026-11-10T22:53:58+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari",
+        "Ratopati"
+      ],
+      "id": "1a9df075eb3dfa48",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 115.0,
+      "story_size": 2
     },
     {
       "title": "एनपिएलः जनकपुरविरुद्ध सुदूरपश्चिमको सहज जित",
@@ -74,29 +134,28 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 136.6,
+      "score": 114.2,
       "story_size": 2,
       "image_local": "images/news_481a6e37c70d052c10b0.jpg"
     },
     {
-      "title": "वनमन्त्री चौधरी टर्किए प्रस्थान",
-      "link": "https://baahrakhari.com/detail/507058",
+      "title": "भक्तपुरमा हर्षोल्लासका साथ मनाइयो किजा पूजा",
+      "link": "https://baahrakhari.com/detail/507061",
       "description": "",
-      "published": "2026-11-10T19:57:50+05:45",
+      "published": "2026-11-10T22:18:09+05:45",
       "source": "Baahrakhari",
-      "category": "politics",
+      "category": "nepal",
       "image": "",
       "related_sources": [
         "Baahrakhari",
-        "Ratopati",
-        "Khabarhub"
+        "Ratopati"
       ],
-      "id": "ecd3cfef42086cc6",
-      "source_count": 3,
+      "id": "8fcf5966e21d90a3",
+      "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 135.6,
-      "story_size": 3
+      "score": 112.6,
+      "story_size": 2
     },
     {
       "title": "सञ्जय बने चौथो स्टोन स्किपिङ च्याम्पियन",
@@ -114,7 +173,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 132.9,
+      "score": 110.5,
       "story_size": 3
     },
     {
@@ -133,7 +192,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 132.3,
+      "score": 109.9,
       "story_size": 2
     },
     {
@@ -152,46 +211,27 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 126.7,
+      "score": 104.3,
       "story_size": 2
     },
     {
-      "title": "कोप–३१ : जलवायु उत्थानशील ऊर्जा पूर्वाधार र स्वच्छ ऊर्जा लगानीबारे छलफल",
-      "link": "https://khabarhub.com/2026/10/1046739/",
-      "description": "काठमाडौँ- संयुक्त राष्ट्रसङ्घीय जलवायु परिवर्तनसम्बन्धी ३१औँ सम्मेलन (कोप–३१) अन्तर्गत नेपाल पभिलियनमा ‘जलवायु उत्थानशील ऊर्जा पूर्वाधार र स्वच्छ ऊर्जा लगानी’ विषयक साइड इभेन्ट आयोजना गरिएको छ । ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्रालय, वैकल्पिक ऊर्जा प्रवद्र्धन केन्द्र (एईपिसी) र स्वतन्त्र ऊर्जा उत्पादकहरूको संस्था नेपाल (इप्पान) को संयुक्त आयोजनामा आज नेपाल पभिलियनमा सञ्चालन भएको उक्त विशेष अन्तरक्रिया कार्यक्रममा [&#8230;]",
-      "published": "2026-11-10T14:10:35+00:00",
-      "source": "Khabarhub",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
-        "Ratopati"
-      ],
-      "id": "601195847217ee14",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 125.5,
-      "story_size": 2
-    },
-    {
-      "title": "विधिपूर्वक गरियो गोवर्द्धन पूजा",
-      "link": "https://khabarhub.com/2026/10/1046733/",
-      "description": "काठमाडौँ- कार्तिक शुक्ल प्रतिपदा एवं यमपञ्चक अर्थात् तिहारको पाँचौँ दिन आज गोवद्र्धन पूजा गरिएको छ । आँगनमा लिपपोत गरी गाईको गोबरको पर्वत बनाई त्यसलाई गोवद्र्धन पर्वत मानी पूजा गरिएको हो । द्वापर युगमा भगवान् श्रीकृष्णले हत्केलाले गोवद्र्धन पर्वत उचाली गोकुलवासीलाई मुसलधारे वर्षाबाट बचाएको सम्झनामा गोवद्र्धन पर्वतको पूजा गर्ने चलन छ । कार्तिक शुक्ल प्रतिपदाका दिन [&#8230;]",
-      "published": "2026-11-10T13:51:20+00:00",
-      "source": "Khabarhub",
+      "title": "१२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार",
+      "link": "https://www.ratopati.com/story/604502/12-news-at-12-these-are-todays-top-news-stories",
+      "description": "काठमाडौँ । आज दिनभरका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति रातोपाटी ब्रिफिङमा १२ बजे १२ समाचार लिएर आएका छौँ–",
+      "published": "2026-11-10T18:15:00+00:00",
+      "source": "Ratopati",
       "category": "nepal",
-      "image": "",
+      "image": "https://npcdn.ratopati.com/media/news/collage-1_65kpm9ufsl.webp",
       "related_sources": [
-        "Khabarhub",
         "Ratopati"
       ],
-      "id": "e9fe282b26a926d0",
-      "source_count": 2,
-      "verified": true,
+      "id": "a6eabad21969a1e9",
+      "source_count": 1,
+      "verified": false,
       "local": false,
-      "score": 124.2,
-      "story_size": 2
+      "score": 98.4,
+      "story_size": 1,
+      "image_local": "images/news_650f3f45dca8d238074c.webp"
     },
     {
       "title": "सुदूरपश्चिमले जनकपुरलाई दियो १२१ रनको लक्ष्य",
@@ -209,8 +249,46 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 120.6,
+      "score": 98.2,
       "story_size": 2
+    },
+    {
+      "title": "ट्रिनिडाड एन्ड टोबागोमा समलिंगी यौनसम्बन्धमाथिको प्रतिबन्ध खारेज",
+      "link": "https://www.ratopati.com/story/604503/trinidad-and-tobago-lifts-ban-on-same-sex-marriage",
+      "description": "काठमाडाैँ । क्यारिबियन मुलुक ट्रिनिडाड एन्ड टोबागोमा समलिंगी यौनसम्बन्धलाई अपराध मान्ने कानुन खारेज भएको छ । बेलायतको सर्वोच्च पुनरावेदन अदालतका रूपमा रहेको ‘जुडिसियल कमिटी अफ द प्रिभी काउन्सिल’ले मंगलबार एक शताब्दीभन्दा पुरानो कानुन असंवैधानिक ठहर",
+      "published": "2026-11-10T18:08:49+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/lgbtq_GJHL4qyrhd.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "85e01a77f4b95352",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 98.0,
+      "story_size": 1,
+      "image_local": "images/news_a627289fc6dc077ae356.webp"
+    },
+    {
+      "title": "भक्तपुरमा परम्परागत विधिअनुसार किजापूजा मनाइयो",
+      "link": "https://www.ratopati.com/story/604501/kija-puja-celebrated-according-to-traditional-rituals-in-bhaktapur",
+      "description": "भक्तपुर । नेवार समुदायमा दाजुभाइ तथा दिदीबहिनीबिचको प्रेम, सद्भाव र आत्मीयताको प्रतीकका रूपमा मनाइने किजापूजा (भाइटीका) मंगलबार भक्तपुरलगायत नेवार समुदायको बसोबास रहेका विभिन्न स्थानमा हर्षोल्लासका साथ मनाइएको छ । स्वन्ति नखाःअन्तर्गत लक्ष्मीपूजा, म्हःपूजा र किजापूजा क्रमशः",
+      "published": "2026-11-10T17:32:31+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/pRKaTB94iQ.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "a2fdd363d12e0cca",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 95.6,
+      "story_size": 1,
+      "image_local": "images/news_e812c7aa1bc7e92814b3.jpg"
     },
     {
       "title": "एआई कम्पनीको नियमन गर्न अस्ट्रेलियाले छुट्टै निकाय स्थापना गर्ने",
@@ -228,27 +306,62 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 118.0,
+      "score": 95.6,
       "story_size": 2
     },
     {
-      "title": "तनहुँमा स्क्रब टाइफसको जोखिम बढ्दो",
-      "link": "https://www.ratopati.com/story/604499/the-risk-of-scrub-typhus-is-increasing-in-tanahun",
-      "description": "तनहुँ। तनहुँमा स्क्रब टाइफस सङ्क्रमणको जोखिम देखिएको छ । चालु आर्थिक वर्षको असोज महिनामा मात्रै जिल्लाका सात स्थानीय तहका एक सय ५५ जनामा स्क्रब टाइफस सङ्क्रमण पुष्टि भएको छ । प्रदेश जनस्वास्थ्य कार्यालयका सूचना अधिकारी सुदीप",
-      "published": "2026-11-10T16:14:51+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/scrub-typhus_7Qjewssszu.jpg",
+      "title": "प्रेमदेखि प्रधानमन्त्री पद अस्वीकारसम्म, सोनियाले पुस्तकमा खुलाइन् यी प्रसंग",
+      "link": "https://baahrakhari.com/detail/507056",
+      "description": "",
+      "published": "2026-11-10T23:25:40+05:45",
+      "source": "Baahrakhari",
+      "category": "politics",
+      "image": "",
       "related_sources": [
-        "Ratopati"
+        "Baahrakhari"
       ],
-      "id": "df79fc179b4ab90e",
+      "id": "2172bba4adb3ba45",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.8,
-      "story_size": 1,
-      "image_local": "images/news_4dd876671f3eb9b6e649.jpg"
+      "score": 93.1,
+      "story_size": 1
+    },
+    {
+      "title": "एनपीएलको लिग चरणमा सात खेल बाँकी, प्लेअफ पुग्न कसलाई के चाहिन्छ ?",
+      "link": "https://www.onlinekhabar.com/2026/11/2055452/with-seven-games-remaining-in-the-npl-league-stage-who-needs-what-to-reach-the-playoffs",
+      "description": "हालको अवस्थामा काठमान्डु र सुदूरपश्चिम एकआपसमा खेल्न बाँकी रहेको र एक टोलीको १० अंक पुग्ने पक्का रहेकाले दुई मध्ये एक टोली प्लेअफ पुग्ने निश्चित छ । काठमान्डुले सुदूरपछि पोखरासँग पनि खेल्न बाँकी छ ।",
+      "published": "2026-11-10T17:02:10+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "13a7fc55a4d883ac",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 90.5,
+      "story_size": 1
+    },
+    {
+      "title": "मनाइयो नेपाल संवतको नयाँ वर्ष",
+      "link": "https://khabarhub.com/2026/10/1046774/",
+      "description": "काठमाडौँ – चान्द्रमास अनुसार प्रचलनमा रहेको मौलिक नेपाल संवत्को नयाँ वर्ष ११४७ आज विभिन्न कार्यक्रम गरी विभिन्न ठाउँमा मनाइएको छ । नेपाल संवत् अनुसार नयाँ वर्ष लागेसँगै काठमाडौँ उपत्यकाका कतिपय स्थानमा आजैदेखि नयाँ बही खाता सुरु गरिएको छ । कार्तिक कृष्ण औँसीका दिन पुरानो बही खाता बन्द गरिएको थियो । राजधानीमा बिहान सूर्योदयसँगै नयाँ वर्षलाई [&#8230;]",
+      "published": "2026-11-10T16:44:51+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "5baec32e8890d552",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 89.4,
+      "story_size": 1
     },
     {
       "title": "सुडानको दक्षिणपूर्वी क्षेत्रमा ड्रोन आक्रमण, ९ जनाको मृत्यु",
@@ -265,7 +378,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.6,
+      "score": 89.2,
       "story_size": 1,
       "image_local": "images/news_47dd2a5676808c31c537.jpg"
     },
@@ -284,7 +397,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.1,
+      "score": 88.7,
       "story_size": 1,
       "image_local": "images/news_88ab2c783bfa5d97d552.webp"
     },
@@ -303,9 +416,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.9,
+      "score": 88.5,
       "story_size": 1,
       "image_local": "images/news_a347e2947f5c49c62f3c.jpg"
+    },
+    {
+      "title": "तनहुँमा स्क्रब टाइफसको जोखिम बढ्यो",
+      "link": "https://khabarhub.com/2026/10/1046772/",
+      "description": "तनहुँ &#8211; तनहुँमा स्क्रब टाइफस सङ्क्रमणको जोखिम देखिएको छ । चालु आर्थिक वर्षको असोज महिनामा मात्रै जिल्लाका सात स्थानीय तहका एक सय ५५ जनामा स्क्रब टाइफस सङ्क्रमण पुष्टि भएको छ । प्रदेश जनस्वास्थ्य कार्यालयका सूचना अधिकारी सुदीप कँडेलका अनुसार असोज महिनामा सबैभन्दा बढी आँबुखैरेनी गाउँपालिकामा ५४ जनामा स्क्रब टाइफस पुष्टि भएको छ । त्यसैगरी बन्दीपुर [&#8230;]",
+      "published": "2026-11-10T16:30:47+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "32b43d4cc7794016",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 88.4,
+      "story_size": 1
     },
     {
       "title": "एकता र मैदानको ऊर्जाले जित सम्भव भयो : म्याकमलेन",
@@ -322,7 +453,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.9,
+      "score": 87.5,
       "story_size": 1,
       "image_local": "images/news_1f95da4968419d5e7741.webp"
     },
@@ -341,7 +472,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.7,
+      "score": 87.3,
       "story_size": 1,
       "image_local": "images/news_66ead8bab10d5b107f5e.webp"
     },
@@ -360,7 +491,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.4,
+      "score": 87.0,
       "story_size": 1
     },
     {
@@ -378,7 +509,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.4,
+      "score": 87.0,
       "story_size": 1,
       "image_local": "images/news_04403e2ed809c5be3f1c.jpg"
     },
@@ -397,7 +528,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.3,
+      "score": 86.9,
       "story_size": 1,
       "image_local": "images/news_318bee425d3c53192f88.jpg"
     },
@@ -416,28 +547,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.1,
+      "score": 86.7,
       "story_size": 1,
       "image_local": "images/news_ce70ab985c1e72176e26.png"
-    },
-    {
-      "title": "भक्तपुरमा हर्षोल्लासका साथ किजा पूजा मनाइयो",
-      "link": "https://www.ratopati.com/story/604491/kija-puja-celebrated-with-joy-in-bhaktapur",
-      "description": "भक्तपुर। नेवार समुदायमा दाजुभाइ तथा दिदीबहिनीबीचको प्रेम, सद्भाव र आत्मियताको प्रतीकका रूपमा मनाइने किजा पूजा अर्थात् भाइटीका आज भक्तपुरलगायत नेवार समुदायको बसोबास रहेका विभिन्न स्थानमा हर्षोल्लासका साथ मनाइएको छ। स्वन्ति नखाःअन्तर्गत लक्ष्मी पूजा, म्हः पूजा",
-      "published": "2026-11-10T15:17:12+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/y9YWJdddN6.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "4a99823d0e1d61ee",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 108.9,
-      "story_size": 1,
-      "image_local": "images/news_fec5ca2288591a006073.jpg"
     },
     {
       "title": "मुगुमा भैलो खेल्ने टोली सवार बोलेरो दुर्घटना, पाँच जना घाइते",
@@ -454,7 +566,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.9,
+      "score": 86.5,
       "story_size": 1,
       "image_local": "images/news_18cb0b63960911b7113b.jpg"
     },
@@ -473,7 +585,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.8,
+      "score": 86.4,
       "story_size": 1,
       "image_local": "images/news_1489949d229b06d2d204.jpg"
     },
@@ -492,7 +604,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.4,
+      "score": 86.1,
       "story_size": 1,
       "image_local": "images/news_ee6df3a880fb2ff6991c.jpeg"
     },
@@ -511,7 +623,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.7,
+      "score": 85.3,
       "story_size": 1
     },
     {
@@ -529,7 +641,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.6,
+      "score": 85.2,
       "story_size": 1,
       "image_local": "images/news_0dca9e4f33fa8de67177.jpg"
     },
@@ -548,7 +660,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.3,
+      "score": 84.9,
       "story_size": 1,
       "image_local": "images/news_88ab2c783bfa5d97d552.webp"
     },
@@ -567,7 +679,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.0,
+      "score": 84.6,
       "story_size": 1,
       "image_local": "images/news_89dd43244057248b9e9f.webp"
     },
@@ -586,7 +698,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.8,
+      "score": 84.5,
       "story_size": 1
     },
     {
@@ -604,7 +716,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.8,
+      "score": 84.4,
       "story_size": 1
     },
     {
@@ -622,7 +734,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.7,
+      "score": 84.4,
       "story_size": 1
     },
     {
@@ -640,7 +752,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.7,
+      "score": 84.3,
       "story_size": 1
     },
     {
@@ -658,7 +770,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.7,
+      "score": 84.3,
       "story_size": 1
     },
     {
@@ -676,11 +788,11 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.6,
+      "score": 84.2,
       "story_size": 1
     },
     {
-      "title": "लो स्कोरिङ खेलमा जनकपुरमाथि सुदूरपश्चिमको रोमाञ्चक जित",
+      "title": "लो स्कोरिङ खेलमा जनकपुरमाथि सुदूरपश्चिमको शानदार जित",
       "link": "https://www.onlinekhabar.com/2026/11/2055443/sudurpaschims-thrilling-win-over-janakpur-in-a-low-scoring-match",
       "description": "६ खेलमा चौथो जित हात पारेको सुदूरपश्चिम ८ अंक जोड्दै दोस्रो स्थानमा उक्लेको छ र प्लेअफ पुग्ने सम्भावना बलियो बनाएको छ । शीर्ष स्थानको काठमान्डु गोर्खाज समान अंक जोडेपनि सुदूरपश्चिम रनरेटमा पछि छ ।",
       "published": "2026-11-10T15:25:50+00:00",
@@ -690,11 +802,11 @@
       "related_sources": [
         "OnlineKhabar"
       ],
-      "id": "eceb980acaf8d4bb",
+      "id": "ca96b7c2da0ba5b4",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.5,
+      "score": 84.1,
       "story_size": 1
     },
     {
@@ -712,7 +824,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.4,
+      "score": 84.1,
       "story_size": 1
     },
     {
@@ -730,7 +842,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.4,
+      "score": 84.0,
       "story_size": 1
     },
     {
@@ -748,7 +860,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.2,
+      "score": 83.8,
       "story_size": 1
     },
     {
@@ -766,7 +878,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.1,
+      "score": 83.7,
       "story_size": 1
     },
     {
@@ -784,7 +896,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.1,
+      "score": 83.7,
       "story_size": 1
     },
     {
@@ -802,7 +914,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.8,
+      "score": 83.4,
       "story_size": 1,
       "image_local": "images/news_09a1a7564a6b30aaeb85.webp"
     },
@@ -821,7 +933,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.8,
+      "score": 83.4,
       "story_size": 1,
       "image_local": "images/news_e39e8974659dadaab757.webp"
     },
@@ -840,7 +952,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.4,
+      "score": 83.1,
       "story_size": 1,
       "image_local": "images/news_06952d0c33cf9aca4db6.webp"
     },
@@ -859,7 +971,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.4,
+      "score": 83.0,
       "story_size": 1,
       "image_local": "images/news_7eff0e551d45757ac694.jpg"
     },
@@ -878,7 +990,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.2,
+      "score": 82.8,
       "story_size": 1
     },
     {
@@ -896,7 +1008,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.1,
+      "score": 82.7,
       "story_size": 1,
       "image_local": "images/news_c83563caf12e81600be4.webp"
     },
@@ -915,7 +1027,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.9,
+      "score": 82.5,
       "story_size": 1,
       "image_local": "images/news_25f873dc168d8f018862.webp"
     },
@@ -934,7 +1046,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.5,
+      "score": 82.1,
       "story_size": 1,
       "image_local": "images/news_eada17435b4a3883c35c.jpg"
     },
@@ -953,7 +1065,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.4,
+      "score": 82.0,
       "story_size": 1,
       "image_local": "images/news_4d915b568ecddb9fbfb8.webp"
     },
@@ -972,7 +1084,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.3,
+      "score": 81.9,
       "story_size": 1
     },
     {
@@ -990,7 +1102,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.2,
+      "score": 81.8,
       "story_size": 1
     },
     {
@@ -1008,7 +1120,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.9,
+      "score": 81.6,
       "story_size": 1,
       "image_local": "images/news_06952d0c33cf9aca4db6.webp"
     },
@@ -1027,27 +1139,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.8,
+      "score": 81.4,
       "story_size": 1,
       "image_local": "images/news_f8797d7d1c8f192a5717.webp"
-    },
-    {
-      "title": "प्रदर्शनबारे फ्रान्सको आन्तरिक मूल्यांकन- बाह्य शक्तिले शत्रुतापूर्ण भाष्य फैलाए",
-      "link": "https://baahrakhari.com/detail/507051",
-      "description": "",
-      "published": "2026-11-10T20:28:18+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "70a092564465883b",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 103.7,
-      "story_size": 1
     },
     {
       "title": "कृषिमन्त्री चौधरी टर्की प्रस्थान",
@@ -1064,28 +1158,28 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.4,
+      "score": 81.0,
       "story_size": 1,
       "image_local": "images/news_c3e953f530b11e7c3893.jpg"
     },
     {
-      "title": "प्रचण्डलाई गुहारेकी एक बालिकाले अन्ततः आफ्नै प्रयासमा पुल बनाएपछि भाइरल",
-      "link": "https://www.thahakhabar.com/detail/311724",
-      "description": "",
-      "published": "2026-11-10T19:37:00+05:45",
-      "source": "Thaha Khabar",
-      "category": "tech",
-      "image": "https://www.thahakhabar.com/uploads/posts/sadikshya-1794318712.jpg",
+      "title": "वनमन्त्री चौधरी टर्किए प्रस्थान",
+      "link": "https://www.ratopati.com/story/604481/forest-minister-chaudhary-departs-for-turkey",
+      "description": "काठमाडौँ। कृषि, वन तथा पर्यावरणमन्त्री गिता चौधरी टर्कीएको अन्ताल्यामा नोभेम्बर ९ देखि २० सम्म आयोजना भइरहेको जलवायु परिवर्तनसम्बन्धी संयुक्त राष्ट्रसंघीय सम्मेलन (कोप–३१) मा नेपालको प्रतिनिधित्व गर्दै सहभागी हुन त्यसतर्फ प्रस्थान गरेकी छन्। सम्मेलनको दोस्रो सातामा मन्त्री",
+      "published": "2026-11-10T13:47:47+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/GiI1U1IeC1.jpg",
       "related_sources": [
-        "Thaha Khabar"
+        "Ratopati"
       ],
-      "id": "4c8a5c7e1118036e",
+      "id": "571b0ffb46197c81",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.2,
+      "score": 80.6,
       "story_size": 1,
-      "image_local": "images/news_97e94711f7014df93e07.jpg"
+      "image_local": "images/news_c401c5ed97f99d56461d.jpg"
     },
     {
       "title": "‘पहिचानको मुद्दा रास्वपाले बोक्छ, कोशीमा बहुमत आउँछ’",
@@ -1102,7 +1196,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.8,
+      "score": 80.4,
       "story_size": 1,
       "image_local": "images/news_3fc0a9fac599bdef562c.webp"
     },
@@ -1121,7 +1215,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.6,
+      "score": 80.3,
       "story_size": 1,
       "image_local": "images/news_9b21b0926a66e6192119.png"
     },
@@ -1140,7 +1234,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.3,
+      "score": 79.9,
       "story_size": 1,
       "image_local": "images/news_a06292f38497cdd941e9.webp"
     },
@@ -1159,65 +1253,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.0,
+      "score": 79.6,
       "story_size": 1,
       "image_local": "images/news_ba879304e7fb50fd2842.webp"
-    },
-    {
-      "title": "एनपीएल चलिरहँदा समर्थकबिच लफडा",
-      "link": "https://www.ratopati.com/story/604476/clashes-between-supporters-during-npl",
-      "description": "काठमाडौँ। तेस्रो संस्करणको नेपाल प्रिमियर लिग (एनपीएल) क्रिकेट मैदानमा मगंलबार जारी जनकपुर बोल्ट्स र सुदूरपश्चिमबिचको खेलमा लफडा भएको छ । उनीहरुबचि आ–आफ्नो टोलीलाई समर्थन गर्ने क्रममा विवाद भएपछि प्रहरीले लफडा गर्नेलाई मैदान बाहिर निकालेको छ ।",
-      "published": "2026-11-10T13:26:19+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/ss_q5kbnhOIAM.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "00699bdb4d3fa8e7",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 101.5,
-      "story_size": 1,
-      "image_local": "images/news_5f22be87eeea2254e19e.webp"
-    },
-    {
-      "title": "पेरिसमा जी–७ को ध्यान युक्रेनतर्फ, अबु धाबीमा त्रिपक्षीय वार्ता सुरु",
-      "link": "https://khabarhub.com/2026/10/1046736/",
-      "description": "पेरिस- अमेरिकी विदेशमन्त्री मार्को रुबियो र जी–७ का सदस्य राष्ट्रका विदेशमन्त्रीहरूले युक्रेनलाई रुसी आक्रमणबाट जोगाउन आवश्यक सहयोगबारे छलफल गरेका छन् । संयुक्त अरब इमिरेट्स (यूएई) को अबु धाबीमा रुस, युक्रेन र अमेरिकाबीच त्रिपक्षीय वार्ता सुरु भइरहेका बेला पेरिसमा जी–७ का विदेशमन्त्रीहरूले युक्रेनी समकक्षीसँग छलफल गरेका हुन् । युक्रेनी विदेशमन्त्री आन्द्री सिबिहाले सोमबार रुबियोसँग भेट गरेपछि [&#8230;]",
-      "published": "2026-11-10T14:06:34+00:00",
-      "source": "Khabarhub",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "304a95018c96efd8",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 101.2,
-      "story_size": 1
-    },
-    {
-      "title": "पार्टी एकताको जिम्मेवारी गगन र विश्वप्रकाशकै काँधमा छ : डा. सुनील शर्मा",
-      "link": "https://www.ratopati.com/story/604475/the-responsibility-for-party-unity-lies-with-gagan-and-bishwaprakash-dr-sunil-sharma",
-      "description": "झापा। नेपाली कांग्रेसका नेता डा. सुनील शर्माले पार्टीभित्र देखिएको मतभेद अन्त्य गरी एकताबद्ध भएर अघि बढ्न पार्टी सभापति गगन थापा र वरिष्ठ उपसभापति विश्वप्रकाश शर्मालाई आग्रह गरेका छन्। मंगलबार झापा पुगेर नेता शर्माले पार्टीलाई एकताबद्ध बनाउने",
-      "published": "2026-11-10T13:21:33+00:00",
-      "source": "Ratopati",
-      "category": "world",
-      "image": "https://npcdn.ratopati.com/media/news/sunil-sharma_iZAdgLflBp.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "3d68e41ddceb1a98",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 101.2,
-      "story_size": 1,
-      "image_local": "images/news_21be4de149692f10662e.webp"
     },
     {
       "title": "पुस्तान्तरण अभावले सङ्कटमा थारू मौलिक हुर्राहुर्री नाच",
@@ -1234,28 +1272,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.8,
+      "score": 78.4,
       "story_size": 1,
       "image_local": "images/news_f63f421f22791ced3d22.jpg"
-    },
-    {
-      "title": "'प्रेममा परेकी बाघिनी'को अनौठो व्यवहार : सुरुङ खनेर आरक्षबाट फेरि भागी",
-      "link": "https://www.ratopati.com/story/604472/strange-behavior-of-a-tigress-in-love-she-dug-a-tunnel-and-escaped-from-the-reserve-again",
-      "description": "पश्चिम बंगाल । भारतको पश्चिम बंगालस्थित बक्सा बाघ आरक्षमा राखिएकी एक बाघिनीले कङ्क्रिटको पर्खालमुनि सुरुङ खनेर पुनः भागेकी छन् । पाँच दिनअघि मात्रै नियन्त्रणमा लिएर आरक्षमा फर्काइएकी बाघिनी फेरि असमतर्फ गएको अनुमान गरिएको छ । ‘बीटीआर टीएफ–१’",
-      "published": "2026-11-10T13:09:51+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/tiger_IfbXSyhleM.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "85e0cb4c4ce10176",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 100.4,
-      "story_size": 1,
-      "image_local": "images/news_bb500204da6507bba1c6.webp"
     },
     {
       "title": "देउसी–भैलोका नाममा हुने अमर्यादित गतिविधि रोक्न प्रतिबद्ध छौं : गृहमन्त्री",
@@ -1272,7 +1291,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.3,
+      "score": 78.0,
       "story_size": 1
     },
     {
@@ -1290,27 +1309,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.3,
+      "score": 77.9,
       "story_size": 1,
       "image_local": "images/news_ac2cb5043f69c07e9da5.jpg"
-    },
-    {
-      "title": "सुदूरपश्चिमविरुद्ध जनकपुरको खराब सुरुआत",
-      "link": "https://baahrakhari.com/detail/507057",
-      "description": "",
-      "published": "2026-11-10T19:34:00+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "6bdbbf924f40efa3",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 100.0,
-      "story_size": 1
     },
     {
       "title": "अर्सा र सेल रोटी बनाउन व्यवसायीलाई भ्याइनभ्याइ",
@@ -1327,7 +1328,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.5,
+      "score": 77.1,
       "story_size": 1,
       "image_local": "images/news_a826e97eb2128ac12047.jpg"
     },
@@ -1346,7 +1347,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.6,
+      "score": 76.2,
       "story_size": 1,
       "image_local": "images/news_02db3ade8205677a2c2f.jpg"
     },
@@ -1365,7 +1366,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.6,
+      "score": 76.2,
       "story_size": 1,
       "image_local": "images/news_7d0c9484bae8ff3987f3.jpg"
     },
@@ -1384,7 +1385,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.4,
+      "score": 76.0,
       "story_size": 1
     },
     {
@@ -1402,7 +1403,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.9,
+      "score": 75.5,
       "story_size": 1
     },
     {
@@ -1420,7 +1421,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.7,
+      "score": 75.3,
       "story_size": 1
     },
     {
@@ -1438,7 +1439,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.2,
+      "score": 74.8,
       "story_size": 1
     },
     {
@@ -1456,7 +1457,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.9,
+      "score": 74.5,
       "story_size": 1
     },
     {
@@ -1474,7 +1475,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.8,
+      "score": 74.4,
       "story_size": 1
     },
     {
@@ -1492,7 +1493,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.8,
+      "score": 74.4,
       "story_size": 1,
       "image_local": "images/news_5e4fdb5231f9cb6b5358.jpg"
     },
@@ -1511,7 +1512,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.5,
+      "score": 74.1,
       "story_size": 1
     },
     {
@@ -1529,7 +1530,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.8,
+      "score": 73.4,
       "story_size": 1
     },
     {
@@ -1547,7 +1548,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.5,
+      "score": 73.1,
       "story_size": 1
     },
     {
@@ -1565,7 +1566,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.5,
+      "score": 72.1,
       "story_size": 1
     },
     {
@@ -1583,7 +1584,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.3,
+      "score": 71.9,
       "story_size": 1
     },
     {
@@ -1601,7 +1602,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.7,
+      "score": 71.3,
       "story_size": 1
     },
     {
@@ -1619,7 +1620,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.6,
+      "score": 71.2,
       "story_size": 1
     },
     {
@@ -1637,7 +1638,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.9,
+      "score": 70.5,
       "story_size": 1
     },
     {
@@ -1655,7 +1656,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.6,
+      "score": 70.3,
       "story_size": 1
     },
     {
@@ -1673,7 +1674,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.6,
+      "score": 70.2,
       "story_size": 1
     },
     {
@@ -1691,7 +1692,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.1,
+      "score": 69.7,
       "story_size": 1
     },
     {
@@ -1709,7 +1710,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.6,
+      "score": 68.2,
       "story_size": 1
     },
     {
@@ -1727,7 +1728,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.6,
+      "score": 68.2,
       "story_size": 1
     },
     {
@@ -1745,7 +1746,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.4,
+      "score": 68.0,
       "story_size": 1
     },
     {
@@ -1763,7 +1764,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.5,
+      "score": 67.1,
       "story_size": 1
     },
     {
@@ -1781,7 +1782,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.2,
+      "score": 66.8,
       "story_size": 1
     },
     {
@@ -1799,7 +1800,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.1,
+      "score": 66.8,
       "story_size": 1
     },
     {
@@ -1817,7 +1818,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.0,
+      "score": 66.7,
       "story_size": 1
     },
     {
@@ -1835,7 +1836,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.0,
+      "score": 66.6,
       "story_size": 1
     },
     {
@@ -1853,7 +1854,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.8,
+      "score": 66.4,
       "story_size": 1
     },
     {
@@ -1871,7 +1872,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.4,
+      "score": 66.0,
       "story_size": 1
     },
     {
@@ -1889,7 +1890,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.3,
+      "score": 65.9,
       "story_size": 1
     },
     {
@@ -1907,7 +1908,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.4,
+      "score": 65.0,
       "story_size": 1
     },
     {
@@ -1925,7 +1926,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.6,
+      "score": 62.2,
       "story_size": 1
     },
     {
@@ -1943,7 +1944,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.5,
+      "score": 62.1,
       "story_size": 1
     },
     {
@@ -1961,7 +1962,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.4,
+      "score": 62.0,
       "story_size": 1
     },
     {
@@ -1979,7 +1980,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.4,
+      "score": 62.0,
       "story_size": 1
     },
     {
@@ -1997,7 +1998,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.8,
+      "score": 61.4,
       "story_size": 1
     },
     {
@@ -2015,7 +2016,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.0,
+      "score": 60.6,
       "story_size": 1
     },
     {
@@ -2033,7 +2034,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.8,
+      "score": 60.4,
       "story_size": 1
     },
     {
@@ -2051,7 +2052,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.6,
+      "score": 60.2,
       "story_size": 1
     },
     {
@@ -2069,7 +2070,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.0,
+      "score": 59.6,
       "story_size": 1
     },
     {
@@ -2087,7 +2088,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.9,
+      "score": 59.5,
       "story_size": 1
     },
     {
@@ -2105,7 +2106,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.8,
+      "score": 58.5,
       "story_size": 1
     },
     {
@@ -2123,7 +2124,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.7,
+      "score": 57.3,
       "story_size": 1
     },
     {
@@ -2141,7 +2142,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.3,
+      "score": 56.9,
       "story_size": 1
     },
     {
@@ -2159,7 +2160,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.5,
+      "score": 56.1,
       "story_size": 1
     },
     {
@@ -2177,7 +2178,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.1,
+      "score": 53.7,
       "story_size": 1
     },
     {
@@ -2195,7 +2196,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.1,
+      "score": 53.7,
       "story_size": 1
     },
     {
@@ -2213,7 +2214,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.5,
+      "score": 53.1,
       "story_size": 1
     },
     {
@@ -2231,7 +2232,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.6,
+      "score": 52.2,
       "story_size": 1
     },
     {
@@ -2249,7 +2250,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.6,
+      "score": 51.2,
       "story_size": 1
     },
     {
@@ -2267,7 +2268,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.5,
+      "score": 51.2,
       "story_size": 1
     },
     {
@@ -2285,25 +2286,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.2,
-      "story_size": 1
-    },
-    {
-      "title": "देशभर १०७ जनप्रतिनिधिको पद रिक्त",
-      "link": "https://www.onlinekhabar.com/2026/11/2055049/107-public-representative-positions-are-vacant-across-the-country",
-      "description": "२४ कात्तिक, काठमाडौं । देशभर १०७ जनप्रतिनिधिको पद रिक्त रहेको पाइएको छ । निर्वाचन आयोगका सूचना अधिकारी सुमन घिमिरेका अनुसार, स्थानीय तहमा ८५, प्रदेशसभामा २० र राष्ट्रिय सभामा दुई पद रिक्त छन् । कार्यकाल नसकिँदै स्थानीय तह र प्रदेशका जनप्रतिनिधिहरू राजीनामा दिएर २०८२ साल फागुन २१ गतेको प्रतिनिधिसभा निर्वाचनमा उम्मेदवार बनेका थिए । २०८२ साल [&#8230;]",
-      "published": "2026-11-10T06:53:49+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "1390a7ec3415cf3f",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 72.4,
+      "score": 50.8,
       "story_size": 1
     },
     {
@@ -2321,7 +2304,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.0,
+      "score": 48.6,
       "story_size": 1
     },
     {
@@ -2339,7 +2322,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 61.7,
+      "score": 39.3,
       "story_size": 1
     },
     {
@@ -2357,7 +2340,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 55.7,
+      "score": 33.3,
       "story_size": 1
     },
     {
@@ -2375,7 +2358,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 53.9,
+      "score": 31.5,
       "story_size": 1
     },
     {
