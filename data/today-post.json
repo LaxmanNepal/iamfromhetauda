@@ -1,167 +1,45 @@
 {
-  "date_np": "2026-11-11",
-  "generated_at": "2026-11-11T17:12:13.789461+00:00",
+  "date_np": "2026-11-12",
+  "generated_at": "2026-11-11T23:29:35.657579+00:00",
   "items": [
     {
-      "title": "खाँदबारीमा चट्याङ लागेर दुई जना घाइते",
-      "link": "https://www.thahakhabar.com/detail/311774",
-      "description": "",
-      "published": "2026-11-11T22:16:12+05:45",
-      "source": "Thaha Khabar",
-      "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/Chatyang-2026-1773992636.jpg",
+      "title": "भोटेकोशी बाढीले थपुवामा तिहारको रमझम खोस्यो",
+      "link": "https://www.ratopati.com/story/604633/bhotekoshi-flood-ruins-tihar-festivities-in-thapuwa",
+      "description": "बाँके । रसुवाको भोटेकोशीमा गत भदौ १० गते आएको बाढीमा परी गाउँका पाँच जना बेपत्ता भएपछि बाँकेको नेपालगन्ज उपमहानगरपालिका–२० स्थित थपुवा गाउँमा यस वर्ष तिहारको रमझम छैन । बाढीमा परी गाउँका पाँच जना बेपत्ता भएपछि स्थानीयवासीले",
+      "published": "2026-11-11T18:30:00+00:00",
+      "source": "Ratopati",
+      "category": "tech",
+      "image": "https://npcdn.ratopati.com/media/news/rasuwa-bhotekoshi-badhi_xJnNFwOg50.webp",
       "related_sources": [
-        "Thaha Khabar",
-        "Baahrakhari",
-        "Gorkhapatra Online",
         "Ratopati"
       ],
-      "id": "dc1b42510b022d8c",
-      "source_count": 4,
-      "verified": true,
-      "local": false,
-      "score": 154.3,
-      "story_size": 4,
-      "image_local": "images/news_d90ba6d06634d5e1b507.jpg"
-    },
-    {
-      "title": "बालगृहका बालबालिकाले सामूहिकरूपमा मनाए भाइटीका",
-      "link": "https://www.thahakhabar.com/detail/311772",
-      "description": "",
-      "published": "2026-11-11T21:29:00+05:45",
-      "source": "Thaha Khabar",
-      "category": "business",
-      "image": "https://www.thahakhabar.com/uploads/posts/att.RHm-CatpJYT804JFVfEFLNrnQ9PBjFxEibPbEmPudmU-1794408396.jpeg",
-      "related_sources": [
-        "Thaha Khabar",
-        "Khabarhub",
-        "Ratopati"
-      ],
-      "id": "7681f4d6dd4b813d",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 141.1,
-      "story_size": 3,
-      "image_local": "images/news_25c5b6fcb333d069e5e6.jpeg"
-    },
-    {
-      "title": "मोटरसाइकल, स्कुटर र साइकल ठोक्किँदा सात वर्षीया बालिकाको मृत्यु, पाँच घाइते",
-      "link": "https://www.thahakhabar.com/detail/311773",
-      "description": "",
-      "published": "2026-11-11T21:53:00+05:45",
-      "source": "Thaha Khabar",
-      "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/death-balbalika--1770902461.jpg",
-      "related_sources": [
-        "Thaha Khabar",
-        "OnlineKhabar"
-      ],
-      "id": "575e89015b88f351",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 132.7,
-      "story_size": 2,
-      "image_local": "images/news_5a6183653836622fef3e.jpg"
-    },
-    {
-      "title": "बन्दीपुर घुम्न आएका १४ चिनियाँ पर्यटकले लगाए भाइटीका",
-      "link": "https://khabarhub.com/2026/11/1046962/",
-      "description": "तनहुँ – पर्यटकीय नगरी बन्दीपुर भ्रमणमा आएका १४ चिनियाँ पर्यटकले नेपाली भाइटीका लगाएर यस वर्षको तिहार मनाएका छन् । बन्दीपुर गाउँपालिका–१ निवासी सिर्जना बरुवाल र विपना छिमालले उनीहरूलाई सप्तरङ्गी टीका र फूलको माला लगाइदिनुभएको हो । नेपाली चाडपर्व, संस्कार र संस्कृतिबारे जानकारी लिन इच्छुक चिनियाँ पर्यटकले भ्रमणकै क्रममा भाइटीका लगाउने अवसर पाउँदा खुसी व्यक्त गरेका [&#8230;]",
-      "published": "2026-11-11T16:32:15+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
-        "Ratopati"
-      ],
-      "id": "cf4137a4d1336edc",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 131.3,
-      "story_size": 2
-    },
-    {
-      "title": "प्रदेशसभा सदस्य खातुनले लिइन् पद तथा गोपनीयताको शपथ",
-      "link": "https://baahrakhari.com/detail/507098",
-      "description": "",
-      "published": "2026-11-11T21:23:26+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari",
-        "Ratopati"
-      ],
-      "id": "9109d041032c4b77",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 127.8,
-      "story_size": 2
-    },
-    {
-      "title": "पटाका पड्काउँदा ऐतिहासिक सम्पदामा जोखिम हुनसक्ने",
-      "link": "https://khabarhub.com/2026/11/1046941/",
-      "description": "ख्वप (भक्तपुर)- विश्वसम्पदा सूचीमा सूचीकृत भक्तपुरको टौमढीस्थित पाँचतल्ले मन्दिर परिसरमा पटाका पड्काउँदा ऐतिहासिक सम्पदा र मानव स्वास्थ्यमा जोखिम बढेको भन्दै स्थानीयले चिन्ता व्यक्त गरेका छन् । न्हुदँया भिन्तुना र्‍याली (नयाँं वर्ष नेपाल सम्वत् ११४७ को शुभकामना र्‍यालीका) सहभागी तथा आन्तरिक पर्यटकले मङ्गलबार राति करिब ८ बजेदेखि मध्यरातिसम्म टौमढी क्षेत्रमा सयौँको सङ्ख्यामा पटाका पड्काएका थिए । [&#8230;]",
-      "published": "2026-11-11T13:05:00+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
-        "Kendrabindu",
-        "Ratopati"
-      ],
-      "id": "698754aab34409be",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 127.5,
-      "story_size": 3
-    },
-    {
-      "title": "मोटरसाइकल दुर्घटनामा चालकको मृत्यु",
-      "link": "https://gorkhapatraonline.com/news/228860",
-      "description": "जनार्जन खत्रीसर्लाही, कात्तिक २५ गते । सर्लाहीको बागमती नगरपालिका–१२, बोटे टोलमा बुधबार अपरान्ह मोटरसाइकल पल्टँदा चालकको मृत्यु भएको छ । पूर्वपश्चिम महेन्द्र राजमार्गस्थित पुतली चो...",
-      "published": "2026-11-11T21:51:06+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "society",
-      "image": "https://gorkhapatraonline.com/storage/media/391190/conversions/Bike-accident-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "aea2a3a378f69e9e",
+      "id": "cfa2573aa831f68b",
       "source_count": 1,
       "verified": false,
-      "local": true,
-      "score": 126.6,
+      "local": false,
+      "score": 93.0,
       "story_size": 1,
-      "image_local": "images/news_4a261a58fd6b7625e636.jpg"
+      "image_local": "images/news_1e51eccf357e1b6429eb.webp"
     },
     {
-      "title": "कोप–३१ मा हिमाली मुद्दा उठाउन शेर्पा पहिरनमा वनमन्त्री चौधरी",
-      "link": "https://www.ratopati.com/story/604619/forest-minister-chaudhary-dons-sherpa-attire-to-raise-himalayan-issues-at-cop-31",
-      "description": "अन्ताल्या (टर्किए) । कृषि, वन तथा पर्यावरणमन्त्री गीता चौधरी जलवायु परिवर्तनसम्बन्धी संयुक्त राष्ट्रसङ्घीय सम्मेलन (कोप–३१) को पहिलो दिन शेर्पा समुदायको परम्परागत पोशाकमा सहभागी भएकी छन् । जलवायु परिवर्तनका कारण गम्भीर असर भोगिरहेका हिमाली क्षेत्र र त्यहाँका",
-      "published": "2026-11-11T14:11:08+00:00",
+      "title": "१२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार",
+      "link": "https://www.ratopati.com/story/604631/12-news-at-12-these-are-todays-top-news-stories",
+      "description": "काठमाडौँ । आज दिनभरका मुख्य–मुख्य घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति ‘रात्रिकालीन ब्रिफिङ’मा प्रस्तुत गरेका छौँ : १. मनाइयो भाइटीका आज यमपञ्चकको अन्तिम अर्थात् पाँचौँ दिन भाइटीका लगाएसँगै यस वर्षको तिहार समापन भएको छ । भाइटीका लगाउनेहरूका लागि आज बिहान ११ः०७",
+      "published": "2026-11-11T18:15:00+00:00",
       "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/wfpz5r3sNV.jpg",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/collage-1_KpLHk2tbsP.webp",
       "related_sources": [
-        "Ratopati",
-        "Thaha Khabar"
+        "Ratopati"
       ],
-      "id": "80ccd669d07b66e1",
-      "source_count": 2,
-      "verified": true,
+      "id": "6e9603e5b782ee2e",
+      "source_count": 1,
+      "verified": false,
       "local": false,
-      "score": 124.9,
-      "story_size": 3,
-      "image_local": "images/news_865f0ec2e6a8011d9b37.jpg"
+      "score": 92.0,
+      "story_size": 1,
+      "image_local": "images/news_28082eb12b39113bcb68.webp"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. खाँदबारीमा चट्याङ लागेर दुई जना घाइते\nस्रोत: Thaha Khabar, Baahrakhari, Gorkhapatra Online\nhttps://www.thahakhabar.com/detail/311774\n\n2. बालगृहका बालबालिकाले सामूहिकरूपमा मनाए भाइटीका\nस्रोत: Thaha Khabar, Khabarhub, Ratopati\nhttps://www.thahakhabar.com/detail/311772\n\n3. मोटरसाइकल, स्कुटर र साइकल ठोक्किँदा सात वर्षीया बालिकाको मृत्यु, पाँच घाइते\nस्रोत: Thaha Khabar, OnlineKhabar\nhttps://www.thahakhabar.com/detail/311773\n\n4. बन्दीपुर घुम्न आएका १४ चिनियाँ पर्यटकले लगाए भाइटीका\nस्रोत: Khabarhub, Ratopati\nhttps://khabarhub.com/2026/11/1046962/\n\n5. प्रदेशसभा सदस्य खातुनले लिइन् पद तथा गोपनीयताको शपथ\nस्रोत: Baahrakhari, Ratopati\nhttps://baahrakhari.com/detail/507098\n\n6. पटाका पड्काउँदा ऐतिहासिक सम्पदामा जोखिम हुनसक्ने\nस्रोत: Khabarhub, Kendrabindu, Ratopati\nhttps://khabarhub.com/2026/11/1046941/\n\n7. मोटरसाइकल दुर्घटनामा चालकको मृत्यु\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/228860\n\n8. कोप–३१ मा हिमाली मुद्दा उठाउन शेर्पा पहिरनमा वनमन्त्री चौधरी\nस्रोत: Ratopati, Thaha Khabar\nhttps://www.ratopati.com/story/604619/forest-minister-chaudhary-dons-sherpa-attire-to-raise-himalayan-issues-at-cop-31\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. भोटेकोशी बाढीले थपुवामा तिहारको रमझम खोस्यो\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/604633/bhotekoshi-flood-ruins-tihar-festivities-in-thapuwa\n\n2. १२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/604631/12-news-at-12-these-are-todays-top-news-stories\n\n— I Am From Hetauda"
 }
