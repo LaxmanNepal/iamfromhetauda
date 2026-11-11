@@ -1,26 +1,161 @@
 {
   "date_np": "2026-11-11",
-  "generated_at": "2026-11-10T21:54:14.947372+00:00",
+  "generated_at": "2026-11-11T01:47:24.374345+00:00",
   "items": [
     {
-      "title": "१२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार",
-      "link": "https://www.ratopati.com/story/604502/12-news-at-12-these-are-todays-top-news-stories",
-      "description": "काठमाडौँ । आज दिनभरका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति रातोपाटी ब्रिफिङमा १२ बजे १२ समाचार लिएर आएका छौँ–",
-      "published": "2026-11-10T18:15:00+00:00",
-      "source": "Ratopati",
+      "title": "जलविद्युत आयोजनाको सहयोगमा बालौटेमा सडक मर्मत सुरु",
+      "link": "https://www.thahakhabar.com/detail/311734",
+      "description": "",
+      "published": "2026-11-11T07:16:50+05:45",
+      "source": "Thaha Khabar",
       "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/collage-1_65kpm9ufsl.webp",
+      "image": "https://www.thahakhabar.com/uploads/posts/ROAD-1794360701.jpg",
       "related_sources": [
+        "Thaha Khabar",
+        "Khabarhub",
         "Ratopati"
       ],
-      "id": "a6eabad21969a1e9",
+      "id": "fa71c994a2410f5f",
+      "source_count": 3,
+      "verified": true,
+      "local": false,
+      "score": 146.0,
+      "story_size": 3,
+      "image_local": "images/news_4f537d0b1d473b346b0e.jpg"
+    },
+    {
+      "title": "थानीमाई मन्दिरमा एकै दिन भित्रिए ९१ डोली",
+      "link": "https://www.thahakhabar.com/detail/311733",
+      "description": "",
+      "published": "2026-11-11T07:13:50+05:45",
+      "source": "Thaha Khabar",
+      "category": "nepal",
+      "image": "https://www.thahakhabar.com/uploads/posts/91--1794360521.jpg",
+      "related_sources": [
+        "Thaha Khabar",
+        "Kendrabindu"
+      ],
+      "id": "f4ca1a67d8f602c2",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 135.8,
+      "story_size": 2,
+      "image_local": "images/news_78c8991df63d81c0ad36.jpg"
+    },
+    {
+      "title": "भैयादुज मनाउँदै मैथिल, दाजुभाइको दीर्घायु र कल्याणको कामना",
+      "link": "https://kendrabindu.com/social-affairs/571266/",
+      "description": "महोत्तरी । मिथिला क्षेत्रमा आज कात्तिक शुक्ल द्वितीयाका दिन दाजुभाइको दीर्घायु, सुख र समृद्धिको कामना गर्दै भैयादुज पर्व मनाइँदै छ । दीपावली पर्वको अन्तिम दिन मनाइने भैयादुजसँगै यस वर्षको दीपावली पर्व सम्पन्न हुँदैछ । कात्तिक कृष्ण त्रयोदशीका दिन धनतेरसबाट सुरु भएको दीपावली पर्व तिथिको घटबढका कारण यस वर्ष छ दिनसम्म मनाइएको हो । सामान्यतया पाँच [&#8230;]",
+      "published": "2026-11-11T00:57:53+00:00",
+      "source": "Kendrabindu",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu",
+        "Ratopati"
+      ],
+      "id": "68a2d2efdd73012d",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 130.7,
+      "story_size": 2
+    },
+    {
+      "title": "आज भाइटीका, उत्तम साइत बिहान ११ः०७ बजे",
+      "link": "https://www.onlinekhabar.com/2026/11/2055459/today-is-bhai-tika-best-time-at-1107-am",
+      "description": "२५ कात्तिक । यमपञ्चक अर्थात् तिहारको अन्तिम दिन आज दाजुभाइले दिदीबहिनीबाट टीका ग्रहण गरी भाइटीका पर्व मनाउँदैछन् । प्रत्येक वर्ष कात्तिक शुक्ल द्वितीयाका दिन मनाइने भाइटीका नेपालीको दोस्रो ठूलो चाड तिहारको मुख्य पर्व हो। यस दिन दिदीबहिनीले आफ्ना दाजुभाइको दीर्घायु, आरोग्य र समृद्धिको कामना गर्दै परम्पराअनुसार सप्तरङ्गी वा पञ्चरङ्गी टीका लगाइदिने चलन छ । यस [&#8230;]",
+      "published": "2026-11-11T00:52:35+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar",
+        "Khabarhub"
+      ],
+      "id": "07748533da679b0f",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 130.3,
+      "story_size": 2
+    },
+    {
+      "title": "आज भाइटीकामा दिदीबहिनी तथा दाजुभाइ नहुनेका लागि बालगोपालेश्वर मन्दिर खुला",
+      "link": "https://kendrabindu.com/social-affairs/571263/",
+      "description": "&#160;काठमाडौं ।&#160;&#160;दिदीबहिनी नहुनेका लागि भाइटीकाका दिन काठमाडौँको रानीपोखरीको बीचमा रहेको बालगोपालेश्वर मन्दिर खुला गर्ने प्रचलन छ। वर्षमा एकपटक भाइटीकाका दिन मात्र खुल्ने यस मन्दिरमा दिदीबहिनी वा दाजुभाइ नहुनेले पूजा, दर्शन गरी टीका लगाउने गर्छन्। बुधबार बिहानैदेखि भक्तजनका लागि बालगोपालेश्वर मन्दिर खुला गर्न आवश्यक तयारी पूरा भएको काठमाडौँ महानगरपालिकाका प्रवक्ता नवीन मानन्धरले जानकारी दिए । यसैगरी, [&#8230;]",
+      "published": "2026-11-11T00:48:34+00:00",
+      "source": "Kendrabindu",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu",
+        "Ratopati"
+      ],
+      "id": "108503771de76070",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 130.1,
+      "story_size": 2
+    },
+    {
+      "title": "आज बागमतीसहित केही प्रदेशमा वर्षाको सम्भावना",
+      "link": "https://www.thahakhabar.com/detail/311732",
+      "description": "",
+      "published": "2026-11-11T06:47:42+05:45",
+      "source": "Thaha Khabar",
+      "category": "nepal",
+      "image": "https://www.thahakhabar.com/uploads/posts/mausam-1776905523.jpg",
+      "related_sources": [
+        "Thaha Khabar"
+      ],
+      "id": "75e8fa163b7cbd06",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 128.0,
+      "story_size": 1,
+      "image_local": "images/news_c7f9f25db1535205658b.jpg"
+    },
+    {
+      "title": "आज दिनभरको मौसम कस्तो रहला ?",
+      "link": "https://khabarhub.com/2026/11/1046785/",
+      "description": "काठमाडौँ– जल तथा मौसम विज्ञान विभाग मौसम पूर्वानुमान महाशाखाले हाल नेपालमा पश्चिमी वायुको आंशिक प्रभाव रहेको जनाएको छ । महाशाखाका अनुसार अहिले गण्डकी, लुम्बिनी, कर्णाली र सुदूरपश्चिम प्रदेशको हिमाली भूभागमा आंशिक बदली छ भने बाँकी भूभागमा मौसम मुख्यतया सफा रहेको छ । आज दिउँसो कोशी, बागमती र गण्डकी प्रदेशको हिमाली भूभागमा साधारणतया बदली रहनेछ । [&#8230;]",
+      "published": "2026-11-11T00:40:15+00:00",
+      "source": "Khabarhub",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "101396f9cd32af35",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 123.5,
+      "story_size": 1
+    },
+    {
+      "title": "आजका लागि सशस्त्र प्रहरीको निःशुल्क बससेवा",
+      "link": "https://www.thahakhabar.com/detail/311735",
+      "description": "",
+      "published": "2026-11-11T07:22:38+05:45",
+      "source": "Thaha Khabar",
+      "category": "society",
+      "image": "https://www.thahakhabar.com/uploads/posts/apf-1794361050.jpg",
+      "related_sources": [
+        "Thaha Khabar"
+      ],
+      "id": "0700c6f8400d4525",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.4,
+      "score": 112.4,
       "story_size": 1,
-      "image_local": "images/news_650f3f45dca8d238074c.webp"
+      "image_local": "images/news_477b91cd5566289bfd93.jpg"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. १२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/604502/12-news-at-12-these-are-todays-top-news-stories\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. जलविद्युत आयोजनाको सहयोगमा बालौटेमा सडक मर्मत सुरु\nस्रोत: Thaha Khabar, Khabarhub, Ratopati\nhttps://www.thahakhabar.com/detail/311734\n\n2. थानीमाई मन्दिरमा एकै दिन भित्रिए ९१ डोली\nस्रोत: Thaha Khabar, Kendrabindu\nhttps://www.thahakhabar.com/detail/311733\n\n3. भैयादुज मनाउँदै मैथिल, दाजुभाइको दीर्घायु र कल्याणको कामना\nस्रोत: Kendrabindu, Ratopati\nhttps://kendrabindu.com/social-affairs/571266/\n\n4. आज भाइटीका, उत्तम साइत बिहान ११ः०७ बजे\nस्रोत: OnlineKhabar, Khabarhub\nhttps://www.onlinekhabar.com/2026/11/2055459/today-is-bhai-tika-best-time-at-1107-am\n\n5. आज भाइटीकामा दिदीबहिनी तथा दाजुभाइ नहुनेका लागि बालगोपालेश्वर मन्दिर खुला\nस्रोत: Kendrabindu, Ratopati\nhttps://kendrabindu.com/social-affairs/571263/\n\n6. आज बागमतीसहित केही प्रदेशमा वर्षाको सम्भावना\nस्रोत: Thaha Khabar\nhttps://www.thahakhabar.com/detail/311732\n\n7. आज दिनभरको मौसम कस्तो रहला ?\nस्रोत: Khabarhub\nhttps://khabarhub.com/2026/11/1046785/\n\n8. आजका लागि सशस्त्र प्रहरीको निःशुल्क बससेवा\nस्रोत: Thaha Khabar\nhttps://www.thahakhabar.com/detail/311735\n\n— I Am From Hetauda"
 }
