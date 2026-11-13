@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T16:47:20.846399+00:00",
+  "updated_at": "2026-11-13T22:26:06.914473+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -16,23 +16,86 @@
   ],
   "items": [
     {
-      "title": "बसको ठक्करबाट भक्तपुरमा एक बालिकाको मृत्यु",
-      "link": "https://www.onlinekhabar.com/2026/11/2057253/a-girl-dies-after-being-hit-by-a-bus-in-bhaktapur",
-      "description": "२७ कात्तिक, भक्तपुर । बसको ठक्करबाट एक बालिकाको मृत्यु भएको छ । काभ्रेबाट भक्तपुरतर्फ आउँदै गरेको बा०१–००५ख ९६९७ नम्बरको बसले सोही दिशाबाट आउँदै गरेको बागमती प्रदेशको ०२–००१–२३६६ नम्बरको सरकारी नम्बर प्लेटको मोटरसाइकललाई ठक्कर दिँद उनको मृत्यु भएको हो । बसको ठक्करबाट मोटरसाइकलको पछाडि सवार १४ वर्षीया भूमिका राईको मृत्यु भएको जिल्ला प्रहरी कार्यालयका प्रहरी नायब [&#8230;]",
-      "published": "2026-11-13T15:25:44+00:00",
-      "source": "OnlineKhabar",
+      "title": "वन्यजन्तु संरक्षणमा चुनौती बन्दै छाडा कुकुर",
+      "link": "https://www.thahakhabar.com/detail/311862",
+      "description": "",
+      "published": "2026-11-13T20:31:56+05:45",
+      "source": "Thaha Khabar",
+      "category": "nepal",
+      "image": "https://www.thahakhabar.com/uploads/posts/chhada-kukur-1794581210.jpg",
+      "related_sources": [
+        "Thaha Khabar",
+        "Ratopati",
+        "Khabarhub",
+        "Kendrabindu"
+      ],
+      "id": "a8225c7be92ab84b",
+      "source_count": 4,
+      "verified": true,
+      "local": false,
+      "score": 126.4,
+      "story_size": 4,
+      "image_local": "images/news_7417eee5f0126cce16cf.jpg"
+    },
+    {
+      "title": "बसको ठक्करबाट बालिकाको मृत्यु",
+      "link": "https://baahrakhari.com/detail/507262",
+      "description": "",
+      "published": "2026-11-13T23:39:21+05:45",
+      "source": "Baahrakhari",
       "category": "business",
       "image": "",
       "related_sources": [
+        "Baahrakhari",
         "OnlineKhabar",
-        "Ratopati",
-        "Gorkhapatra Online"
+        "Kendrabindu"
       ],
-      "id": "664546f75bf7b97d",
+      "id": "46edd71fb2b1f15e",
       "source_count": 3,
       "verified": true,
-      "local": true,
-      "score": 156.6,
+      "local": false,
+      "score": 125.9,
+      "story_size": 3
+    },
+    {
+      "title": "डिडिसी विराटनगर आयोजना प्रमुख शर्मा पक्राउ",
+      "link": "https://gorkhapatraonline.com/news/228989",
+      "description": "काठमाडौँ, कात्तिक २७ गते । नेपाल प्रहरीले दुग्ध विकास संस्थान (डिडिसी) मा भएको आर्थिक अनियमितता प्रकरणमा थप एक जनालाई पक्राउ गरेको छ ।प्रहरीको केन्द्रीय अनुसन्धान ब्युरो (सिआइबी) ल...",
+      "published": "2026-11-13T22:39:14+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/391356/conversions/Arrest1-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online",
+        "Thaha Khabar",
+        "OnlineKhabar"
+      ],
+      "id": "82321c17c65dca5d",
+      "source_count": 3,
+      "verified": true,
+      "local": false,
+      "score": 124.9,
+      "story_size": 3,
+      "image_local": "images/news_b6fd77686084c6a088ee.jpg"
+    },
+    {
+      "title": "कौडा खेलिरहेको अवस्थामा गागलफेदीबाट ३७ जना पक्राउ",
+      "link": "https://baahrakhari.com/detail/507261",
+      "description": "",
+      "published": "2026-11-13T23:23:15+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari",
+        "Gorkhapatra Online",
+        "Ratopati"
+      ],
+      "id": "20e05c32afb8e5fe",
+      "source_count": 3,
+      "verified": true,
+      "local": false,
+      "score": 124.8,
       "story_size": 3
     },
     {
@@ -52,51 +115,28 @@
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 146.7,
+      "score": 124.1,
       "story_size": 3,
       "image_local": "images/news_58cf1259eaa5cff038e5.jpg"
     },
     {
-      "title": "डिडिसी विराटनगर आयोजना प्रमुख शर्मा पक्राउ",
-      "link": "https://www.thahakhabar.com/detail/311864",
+      "title": "राष्ट्रिय खेलकुदका लागि मधेसमा खेलाडी छनोट प्रतियोगिता",
+      "link": "https://baahrakhari.com/detail/507263",
       "description": "",
-      "published": "2026-11-13T21:46:16+05:45",
-      "source": "Thaha Khabar",
-      "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/Arrest-Pakrau-1766553595.jpg",
+      "published": "2026-11-13T23:50:36+05:45",
+      "source": "Baahrakhari",
+      "category": "sports",
+      "image": "",
       "related_sources": [
-        "Thaha Khabar",
         "Baahrakhari",
-        "OnlineKhabar"
+        "Ratopati"
       ],
-      "id": "e46e9601f3ea277f",
-      "source_count": 3,
+      "id": "6f5ca1a0efeaf253",
+      "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 144.0,
-      "story_size": 3,
-      "image_local": "images/news_658e0066d28ced62dbfe.jpg"
-    },
-    {
-      "title": "वन्यजन्तु संरक्षणमा चुनौती बन्दै छाडा कुकुर",
-      "link": "https://www.thahakhabar.com/detail/311862",
-      "description": "",
-      "published": "2026-11-13T20:31:56+05:45",
-      "source": "Thaha Khabar",
-      "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/chhada-kukur-1794581210.jpg",
-      "related_sources": [
-        "Thaha Khabar",
-        "Ratopati",
-        "Khabarhub"
-      ],
-      "id": "a8225c7be92ab84b",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 139.0,
-      "story_size": 3,
-      "image_local": "images/news_7417eee5f0126cce16cf.jpg"
+      "score": 116.6,
+      "story_size": 2
     },
     {
       "title": "विश्व प्रहरी शिखर सम्मेलनमा सहभागी हुन गृहमन्त्री गुरुङ यूएई प्रस्थान",
@@ -114,7 +154,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.4,
+      "score": 110.8,
       "story_size": 2
     },
     {
@@ -133,9 +173,29 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 126.7,
+      "score": 104.1,
       "story_size": 2,
       "image_local": "images/news_dbc685bca6ffa94b2d6a.jpg"
+    },
+    {
+      "title": "पर्यटकले भरियो सिक्लेस, भ्रमणअघि अग्रिम जानकारी दिन आग्रह",
+      "link": "https://www.ratopati.com/story/605031/tourists-flock-to-sikles-request-for-advance-information-before-visiting",
+      "description": "पोखरा। कास्कीको मादी गाउँपालिका–१ स्थित पर्यटकीय गाउँ सिक्लेसमा पर्यटकको चाप बढेपछि भ्रमणमा जानुअघि अग्रिम जानकारी गराउन आग्रह गरिएको छ। तिहारको भोलिपल्ट कात्तिक २६ गते एकैदिन एक हजार ३२४ जना पर्यटक सिक्लेस पुगेका छन्। मादी गाउँपालिका–१ का",
+      "published": "2026-11-13T13:59:22+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/tourist_VESmmhswgy.webp",
+      "related_sources": [
+        "Ratopati",
+        "Kendrabindu"
+      ],
+      "id": "5990924ce866b223",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 103.2,
+      "story_size": 2,
+      "image_local": "images/news_d52606f74e9cc78158e1.webp"
     },
     {
       "title": "भीमफेदी दुर्घटनाः तेह्र शव आफन्तले बुझे",
@@ -152,7 +212,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 122.8,
+      "score": 100.2,
       "story_size": 1,
       "image_local": "images/news_9e02939d7de676b149ed.jpg"
     },
@@ -171,8 +231,27 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 122.2,
+      "score": 99.6,
       "story_size": 1
+    },
+    {
+      "title": "गृहमन्त्री गुरुङ यूएई प्रस्थान",
+      "link": "https://kendrabindu.com/politics/572149/",
+      "description": "काठमाडौं । गृहमन्त्री सुधन गुरुङ तीन दिने भ्रमणका लागि संयुक्त अरब इमिरेट्स (यूएई) प्रस्थान गरेका छन् । विश्व प्रहरी शिखर सम्मेलनमा सहभागी हुन उनी शुक्रबार यूएईतर्फ प्रस्थान गरेका हुन् । सम्मेलनमा सहभागी भएर गृहमन्त्री गुरुङ मंसिर २ गते स्वदेश फर्किने कार्यक्रम रहेको छ ।",
+      "published": "2026-11-13T13:32:22+00:00",
+      "source": "Kendrabindu",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu",
+        "OnlineKhabar"
+      ],
+      "id": "568c3459493a45d9",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 98.4,
+      "story_size": 2
     },
     {
       "title": "न मापदण्ड, न पूर्वाधार : सडकमा अनियन्त्रित ईभीको रफ्तार",
@@ -189,7 +268,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 120.9,
+      "score": 98.3,
       "story_size": 1,
       "image_local": "images/news_c24b31e8cf2fa7f6b981.webp"
     },
@@ -208,9 +287,28 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 120.7,
+      "score": 98.1,
       "story_size": 1,
       "image_local": "images/news_ef2fb998e647a61f01ad.jpg"
+    },
+    {
+      "title": "१२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार",
+      "link": "https://www.ratopati.com/story/605059/12-news-at-12-these-are-todays-top-news-stories",
+      "description": "काठमाडौँ ।आज दिनभरका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति ‘रातोपाटी ब्रिफिङ’ मा ‘१२ बजे १२’ समाचार लिएर हाजिर भएका छौँ– १.पीडित पीडामै गत भदौ १० गते भोटेकोशी नदीमा आएको विनाशकारी बाढीको ८० दिन बितिसक्दा पनि पीडितहरूले सरकारी राहत",
+      "published": "2026-11-13T18:15:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/12-am-final_viqawbfig2-(1)_fam6WtIhIE.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "a3d238f51cf94385",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 96.3,
+      "story_size": 1,
+      "image_local": "images/news_e6051b04792cc7059ae6.jpg"
     },
     {
       "title": "बल्खु–दक्षिणकाली–हेटौंडा सडकमा सवारीलाई तोकियो नयाँ समय",
@@ -227,7 +325,80 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 115.1,
+      "score": 92.5,
+      "story_size": 1
+    },
+    {
+      "title": "भीमफेदी दुर्घटनामा मृत्यु भएका १३ जनाको शव आफन्तले बुझे, के-के भयाे सहमति ?",
+      "link": "https://kendrabindu.com/news/572138/",
+      "description": "हेटौँडा । मकवानपुरको भीमफेदीमा भएको विद्युतीय माइक्रोबस दुर्घटनामा ज्यान गुमाएका १३ जनाको शव आफन्तले बुझेका छन् । हेटौँडा अस्पतालमा राखिएका शवको पोस्टमार्टमपछि शुक्रबार आफन्तलाई हस्तान्तरण गरिएको हो । जिल्ला प्रशासन कार्यालय मकवानपुरका सहायक प्रमुख जिल्ला अधिकारी एवं दुर्घटना छानबिन समितिका संयोजक शेषकान्त पौडेलसँग शुक्रबार भएको छलफलपछि मृतकका परिवार शव बुझ्न सहमत भएका हुन् । दुर्घटनामा [&#8230;]",
+      "published": "2026-11-13T13:12:11+00:00",
+      "source": "Kendrabindu",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "e9f496dc0814592a",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 91.1,
+      "story_size": 1
+    },
+    {
+      "title": "शेर्पा पोसाक अन्तर्राष्ट्रिय मञ्चमा चिनाउन बख्खु लगाएँ : मन्त्री चौधरी",
+      "link": "https://gorkhapatraonline.com/news/228988",
+      "description": "गोरखापत्र अनलाइनकाठमाडौं, कात्तिक २७ गते । कृषि, वन तथा पर्यावरणमन्त्री गीता चौधरीले जलवायु परिवर्तनसम्बन्धी टर्कीको अन्ताल्यामा आयोजित संयुक्त राष्ट्रसंघीय सम्मेलन (कोप –३१) को पह...",
+      "published": "2026-11-13T22:38:53+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "politics",
+      "image": "https://gorkhapatraonline.com/storage/media/391357/conversions/Ban-mantri-Gita-chaudhary-Sherpa-dress-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "aa1eb180a8469e64",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 90.9,
+      "story_size": 1,
+      "image_local": "images/news_625a1e3a5a0d1a9be924.jpg"
+    },
+    {
+      "title": "टीयू ग्राउन्डको पिचबारे जिमी नीशमको असन्तुष्टि",
+      "link": "https://www.onlinekhabar.com/2026/11/2057265/jimmy-neeshams-dissatisfaction-with-the-pitch-at-tu-ground",
+      "description": "२८ कात्तिक, काठमाडौं । न्युजिल्यान्डका अलराउन्डर जिमी नीशमले नेपाल प्रिमियर लिग (एनपीएल) को पिचबारे असन्तुष्टि जनाएका छन्। नीशमले सामाजिक सञ्जालमार्फत एनपीएलमा पिच सुधार गर्नुपर्ने बताएका हुन्। उनले नेपाल र एनपीएलप्रति आफ्नो माया रहेको उल्लेख गर्दै पूरै प्रतियोगितामा १२० रन नै जितका लागि पर्याप्त हुने अवस्था उचित नभएको टिप्पणी गरेका छन्। ‘म नेपाल र एनपीएललाई निकै [&#8230;]",
+      "published": "2026-11-13T17:34:17+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "4b6a94ae996daef0",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 90.5,
+      "story_size": 1
+    },
+    {
+      "title": "विराटनगरमा सुरु भयो प्रदेशस्तरीय क्रिकेट छनोट, पहिलोपटक ९ जिल्ला सहभागी",
+      "link": "https://www.onlinekhabar.com/2026/11/2057261/provincial-level-cricket-selection-begins-in-biratnagar-9-districts-participate-for-the-first-time",
+      "description": "२७ कात्तिक, काठमाडौं । १०औं राष्ट्रिय खेलकुद प्रतियोगिताका लागि कोशी प्रदेशस्तरीय पुरुष क्रिकेट छनोट प्रतियोगिता विराटनगरमा सुरु भएको छ। पहिलोपटक प्रदेशका ९ जिल्लाको सहभागिता रहेको प्रतियोगिता शुक्रबारदेखि विराटनगरस्थित मेर्लीबन क्रिकेट मैदानमा सुरु भएको हो। कार्तिक २७ देखि मंसिर १ गतेसम्म सञ्चालन हुने प्रतियोगिताको पहिलो दिन दुई खेल भएका छन्। पहिलो खेलमा मोरङले धनकुटालाई ९ विकेटले [&#8230;]",
+      "published": "2026-11-13T17:25:10+00:00",
+      "source": "OnlineKhabar",
+      "category": "sports",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "87df2f53bb00f06c",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 89.9,
       "story_size": 1
     },
     {
@@ -245,28 +416,45 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.3,
+      "score": 89.7,
       "story_size": 1,
       "image_local": "images/news_7ec8f328dc4a912f13e8.jpg"
     },
     {
-      "title": "राष्ट्रिय खेलकुदका लागि मधेसमा खेलाडी छनोट प्रतियोगिता",
-      "link": "https://www.ratopati.com/story/605057/player-selection-competition-in-madhesh-for-national-games",
-      "description": "जनकपुर । कर्णाली प्रदेशमा आगामी मङ्सिरमा आयोजना हुने १०औँ राष्ट्रिय खेलकुद प्रतियोगितामा मधेस प्रदेशको प्रतिनिधित्व गर्ने खेलाडी छनोटका लागि प्रदेशस्तरीय खेलकुद प्रतियोगिता सुरु भएको छ । मधेस खेलकुद परिषद्को दोस्रो वार्षिकोत्सवको अवसर पारेर आजदेखि जनकपुरधाममा सुरु",
-      "published": "2026-11-13T16:29:48+00:00",
-      "source": "Ratopati",
-      "category": "sports",
-      "image": "https://npcdn.ratopati.com/media/news/madhes-khelkud_OhoHNACYbW.webp",
+      "title": "विदेशी विद्यार्थीको रोजाइमा जर्मनीको आकर्षण, अमेरिका र क्यानडामा ठूलो गिरावट",
+      "link": "https://baahrakhari.com/detail/507260",
+      "description": "",
+      "published": "2026-11-13T23:00:09+05:45",
+      "source": "Baahrakhari",
+      "category": "business",
+      "image": "",
       "related_sources": [
-        "Ratopati"
+        "Baahrakhari"
       ],
-      "id": "2106f76670f3ae9c",
+      "id": "96ff79b0e19d28f4",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.9,
-      "story_size": 1,
-      "image_local": "images/news_a1226691b535efeb94df.webp"
+      "score": 89.3,
+      "story_size": 1
+    },
+    {
+      "title": "ब्याटिङका लागि किन चुनौतीपूर्ण बनिरहेको छ टीयू ग्राउन्डको पिच ?",
+      "link": "https://www.onlinekhabar.com/2026/11/2057257/why-is-the-pitch-at-tu-ground-becoming-challenging-for-batting",
+      "description": "शुक्रबार भएका दुवै खेलमा बनेका कम योगफल र त्यसलाई पछ्याउने क्रममा देखिएको संघर्षले प्रतियोगिताको पिचबारे प्रश्न उठाएको छ।",
+      "published": "2026-11-13T17:14:51+00:00",
+      "source": "OnlineKhabar",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "51062424dab286aa",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 89.3,
+      "story_size": 1
     },
     {
       "title": "मंसिर ३ गतेसम्म तराईमा हुस्सु, पहाडी र हिमाली भेगमा वर्षा तथा हिमपातको सम्भावना",
@@ -283,7 +471,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.5,
+      "score": 88.9,
       "story_size": 1,
       "image_local": "images/news_4381c1831520f519f16e.jpg"
     },
@@ -302,7 +490,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.5,
+      "score": 88.9,
       "story_size": 1,
       "image_local": "images/news_4dd4f3ae06e8ee1614f0.webp"
     },
@@ -321,7 +509,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.2,
+      "score": 88.6,
       "story_size": 1,
       "image_local": "images/news_c7a19b8545d1a0b222d9.jpg"
     },
@@ -340,7 +528,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.1,
+      "score": 88.5,
       "story_size": 1,
       "image_local": "images/news_c63afae7312c16d7027a.png"
     },
@@ -359,7 +547,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.1,
+      "score": 88.5,
       "story_size": 1,
       "image_local": "images/news_ec66038704d365fcf451.jpg"
     },
@@ -378,7 +566,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.0,
+      "score": 88.4,
       "story_size": 1,
       "image_local": "images/news_321241839041e460f600.jpg"
     },
@@ -397,7 +585,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.0,
+      "score": 88.4,
       "story_size": 1,
       "image_local": "images/news_4623dec6aef9e6653381.webp"
     },
@@ -416,9 +604,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.9,
+      "score": 88.3,
       "story_size": 1,
       "image_local": "images/news_8644e069619f5393857e.jpg"
+    },
+    {
+      "title": "नेपालका दुवै टोलीले एसिया रग्बी यू–२० सेभेन्स खेल्ने",
+      "link": "https://baahrakhari.com/detail/507259",
+      "description": "नेपालको कप्तानी मनोज ताम्राकारले गर्नेछन् । त्यसैगरी महिलातर्फ नेपालसहित चार राष्ट्र सहभागी छन् । जसमा नेपाल, भारत, श्रीलंका र सिंगापुर छन् ।",
+      "published": "2026-11-13T22:40:00+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "8fec8c6ada95e96f",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 87.9,
+      "story_size": 1
     },
     {
       "title": "एनपीएलमा आज : सुस्त पिचमा रनको खडेरी, जनकपुर–कर्णालीको यात्रा समाप्त",
@@ -435,7 +641,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.2,
+      "score": 87.6,
       "story_size": 1,
       "image_local": "images/news_3ef0af97fe33bb58d88c.webp"
     },
@@ -454,7 +660,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.1,
+      "score": 87.5,
       "story_size": 1,
       "image_local": "images/news_a54a05ba504243353d8c.jpg"
     },
@@ -473,7 +679,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.5,
+      "score": 86.9,
       "story_size": 1,
       "image_local": "images/news_dede53a05fd361f4232b.png"
     },
@@ -492,46 +698,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.3,
+      "score": 86.7,
       "story_size": 1,
       "image_local": "images/news_8a7a3c499fa841559648.jpg"
-    },
-    {
-      "title": "दर्जनौँ जलविद्युत् आयोजनादेखि अस्पताल र विमानस्थलसम्मका ईआईए थन्किए",
-      "link": "https://baahrakhari.com/detail/507258",
-      "description": "",
-      "published": "2026-11-13T22:16:47+05:45",
-      "source": "Baahrakhari",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "76cb1c7d2f35a22f",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.0,
-      "story_size": 1
-    },
-    {
-      "title": "कौडा खेलिरहेको अवस्थामा गागलफेदीबाट ३७ जना पक्राउ",
-      "link": "https://www.ratopati.com/story/605050/37-people-arrested-from-gagalpedi-while-playing-kauda",
-      "description": "काठमाडौँ। कागेश्वरी मनोहरा नगरपालिका–१ गागलफेदीमा कौडा खेलिरहेको अवस्थामा ३७ जना पक्राउ परेका छन् । गागलफेदीस्थित कुशुम छयाम्बा हाउस र होमस्टेमा जुवातास खेलिरहेको भन्ने सूचनाका आधारमा प्रहरी वृत्त बौद्धबाट खटिएको प्रहरी टोलीले कौडा खेलिरहेको अवस्थामा उनीहरूलाई पक्राउ",
-      "published": "2026-11-13T15:41:14+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/large-group-arrest-jail_rtGCODXQ5L.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "72bf8116f1557553",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 108.6,
-      "story_size": 1,
-      "image_local": "images/news_582bbd1148e0c1df78e2.jpg"
     },
     {
       "title": "१३ जनाको शव सुन्दरपुर आइपुग्यो, राति नै सामूहिक अन्त्येष्टि गरिँदै",
@@ -548,7 +717,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.5,
+      "score": 85.9,
       "story_size": 1,
       "image_local": "images/news_31f6926f95a6c0a19586.jpg"
     },
@@ -567,7 +736,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.3,
+      "score": 85.7,
       "story_size": 1
     },
     {
@@ -585,7 +754,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.3,
+      "score": 85.7,
       "story_size": 1,
       "image_local": "images/news_c1027cd8ce6d4903c351.webp"
     },
@@ -604,7 +773,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.2,
+      "score": 85.6,
       "story_size": 1,
       "image_local": "images/news_cb480d650e5086515639.jpg"
     },
@@ -623,7 +792,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.9,
+      "score": 85.3,
       "story_size": 1,
       "image_local": "images/news_765200dc4c65f96ab912.webp"
     },
@@ -642,7 +811,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.8,
+      "score": 85.2,
       "story_size": 1,
       "image_local": "images/news_1b35d758c3867b1c0c8f.webp"
     },
@@ -661,7 +830,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.7,
+      "score": 85.1,
       "story_size": 1
     },
     {
@@ -679,7 +848,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.6,
+      "score": 85.0,
       "story_size": 1,
       "image_local": "images/news_37c7d603f9ab32a20464.webp"
     },
@@ -698,27 +867,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.3,
+      "score": 84.7,
       "story_size": 1,
       "image_local": "images/news_1497bdf0c1cd63284552.jpg"
-    },
-    {
-      "title": "काठमाडौंबाट हेटौँडा जाने यात्रुवाहक सवारी बेलुका ८ बजे फर्पिङ कटिसक्नुपर्ने",
-      "link": "https://baahrakhari.com/detail/507257",
-      "description": "",
-      "published": "2026-11-13T21:50:14+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "1a7f69d4b28670c5",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 107.2,
-      "story_size": 1
     },
     {
       "title": "कार्तिक नाच सुरु, तस्बिरहरू",
@@ -735,7 +886,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.2,
+      "score": 84.6,
       "story_size": 1,
       "image_local": "images/news_fa0571907df5242dfb01.webp"
     },
@@ -754,25 +905,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.8,
-      "story_size": 1
-    },
-    {
-      "title": "परराष्ट्रमन्त्री खनाल र बंगलादेशका प्रधानमन्त्रीबीच कोप–३१ को साइडलाइनमा भेटवार्ता",
-      "link": "https://baahrakhari.com/detail/507255",
-      "description": "",
-      "published": "2026-11-13T21:32:11+05:45",
-      "source": "Baahrakhari",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "95f80462352a71b8",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 106.0,
+      "score": 84.2,
       "story_size": 1
     },
     {
@@ -790,7 +923,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.5,
+      "score": 82.9,
       "story_size": 1,
       "image_local": "images/news_dfbf5043b0365017070a.webp"
     },
@@ -809,7 +942,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.2,
+      "score": 82.6,
       "story_size": 1
     },
     {
@@ -827,7 +960,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.2,
+      "score": 82.6,
       "story_size": 1
     },
     {
@@ -845,7 +978,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.1,
+      "score": 82.5,
       "story_size": 1
     },
     {
@@ -863,7 +996,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.1,
+      "score": 82.5,
       "story_size": 1
     },
     {
@@ -881,7 +1014,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.1,
+      "score": 82.4,
       "story_size": 1
     },
     {
@@ -899,7 +1032,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.0,
+      "score": 82.4,
       "story_size": 1,
       "image_local": "images/news_eb1e48055aa65ca1a05c.jpg"
     },
@@ -918,7 +1051,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.9,
+      "score": 82.3,
       "story_size": 1
     },
     {
@@ -936,7 +1069,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.9,
+      "score": 82.3,
       "story_size": 1
     },
     {
@@ -954,7 +1087,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.8,
+      "score": 82.2,
       "story_size": 1
     },
     {
@@ -972,7 +1105,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.7,
+      "score": 82.1,
       "story_size": 1
     },
     {
@@ -990,25 +1123,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.7,
-      "story_size": 1
-    },
-    {
-      "title": "प्रेस काउन्सिल अध्यादेश : राष्ट्रपतिलाई ब्रिफिङ हुनै बाँकी, जारी होला कि फिर्ता ?",
-      "link": "https://baahrakhari.com/detail/507254",
-      "description": "",
-      "published": "2026-11-13T21:12:00+05:45",
-      "source": "Baahrakhari",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "89a8f4f055d9fef1",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 104.7,
+      "score": 82.1,
       "story_size": 1
     },
     {
@@ -1026,7 +1141,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.7,
+      "score": 82.1,
       "story_size": 1
     },
     {
@@ -1044,7 +1159,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.6,
+      "score": 82.0,
       "story_size": 1
     },
     {
@@ -1062,7 +1177,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.6,
+      "score": 82.0,
       "story_size": 1,
       "image_local": "images/news_d51281766dad42d91ea2.webp"
     },
@@ -1081,7 +1196,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.5,
+      "score": 81.9,
       "story_size": 1
     },
     {
@@ -1099,7 +1214,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.5,
+      "score": 81.9,
       "story_size": 1
     },
     {
@@ -1117,7 +1232,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.2,
+      "score": 81.6,
       "story_size": 1,
       "image_local": "images/news_02ebd82c23c40cd46d4b.webp"
     },
@@ -1136,7 +1251,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.9,
+      "score": 81.3,
       "story_size": 1,
       "image_local": "images/news_7ca6654669a3c4b1ba78.webp"
     },
@@ -1155,7 +1270,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.8,
+      "score": 81.2,
       "story_size": 1,
       "image_local": "images/news_0fea4dd76aad525ec0d4.jpg"
     },
@@ -1174,7 +1289,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.7,
+      "score": 81.1,
       "story_size": 1,
       "image_local": "images/news_0831d99d16c2e090c3aa.jpg"
     },
@@ -1193,7 +1308,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.6,
+      "score": 81.0,
       "story_size": 1
     },
     {
@@ -1211,7 +1326,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.4,
+      "score": 80.8,
       "story_size": 1,
       "image_local": "images/news_f3809459c90f04b377cf.jpg"
     },
@@ -1230,7 +1345,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.3,
+      "score": 80.7,
       "story_size": 1
     },
     {
@@ -1248,7 +1363,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.1,
+      "score": 80.5,
       "story_size": 1,
       "image_local": "images/news_360a5efecf473f564f2d.webp"
     },
@@ -1267,7 +1382,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.0,
+      "score": 80.4,
       "story_size": 1,
       "image_local": "images/news_1de3cec136b03639337a.jpg"
     },
@@ -1286,7 +1401,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.9,
+      "score": 80.3,
       "story_size": 1
     },
     {
@@ -1304,7 +1419,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.9,
+      "score": 80.3,
       "story_size": 1,
       "image_local": "images/news_9aec864ab6a3f5d8ade1.webp"
     },
@@ -1323,7 +1438,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 102.8,
+      "score": 80.2,
       "story_size": 1
     },
     {
@@ -1341,7 +1456,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.2,
+      "score": 79.6,
       "story_size": 1,
       "image_local": "images/news_994398c0babe936feccf.jpg"
     },
@@ -1360,7 +1475,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.1,
+      "score": 79.5,
       "story_size": 1
     },
     {
@@ -1378,7 +1493,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.0,
+      "score": 79.4,
       "story_size": 1
     },
     {
@@ -1396,7 +1511,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.0,
+      "score": 79.4,
       "story_size": 1,
       "image_local": "images/news_7854ee87bed92cd22757.jpg"
     },
@@ -1415,27 +1530,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.9,
+      "score": 79.3,
       "story_size": 1
-    },
-    {
-      "title": "पर्यटकले भरियो सिक्लेस, भ्रमणअघि अग्रिम जानकारी दिन आग्रह",
-      "link": "https://www.ratopati.com/story/605031/tourists-flock-to-sikles-request-for-advance-information-before-visiting",
-      "description": "पोखरा। कास्कीको मादी गाउँपालिका–१ स्थित पर्यटकीय गाउँ सिक्लेसमा पर्यटकको चाप बढेपछि भ्रमणमा जानुअघि अग्रिम जानकारी गराउन आग्रह गरिएको छ। तिहारको भोलिपल्ट कात्तिक २६ गते एकैदिन एक हजार ३२४ जना पर्यटक सिक्लेस पुगेका छन्। मादी गाउँपालिका–१ का",
-      "published": "2026-11-13T13:59:22+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/tourist_VESmmhswgy.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "5990924ce866b223",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 101.8,
-      "story_size": 1,
-      "image_local": "images/news_d52606f74e9cc78158e1.webp"
     },
     {
       "title": "प्रकृति र सामाजिक सद्भावको अनुपम उत्सव छठ पर्व",
@@ -1452,47 +1548,62 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.8,
-      "story_size": 1,
-      "image_local": "images/news_b67d24b7bd89bd3ae3f0.jpg"
+      "score": 79.2,
+      "story_size": 1
     },
     {
-      "title": "नवनियुक्त चार न्यायाधीशद्वारा पदवहाली",
-      "link": "https://gorkhapatraonline.com/news/228980",
-      "description": "काठमाडौँ, कात्तिक २७ गते । सर्वोच्च अदालतका नवनियुक्त चार न्यायाधीशहरूले पदवहाली गर्नुभएको छ । राष्ट्रपति रामचन्द्र पौडेलको समुपस्थितिमा प्रधानन्यायाधीश डा. मनोजकुमार शर्माबाट पद त...",
-      "published": "2026-11-13T19:40:40+05:45",
-      "source": "Gorkhapatra Online",
+      "title": "जनकपुरविरुद्ध चितवनको सुरुवाती ५ विकेट पतन",
+      "link": "https://kendrabindu.com/sports/572162/",
+      "description": "काठमाडाैं । नेपाल प्रिमियर लिग (एनपीएल) अन्तर्गत जारी खेलमा जनकपुर बोल्ट्सले दिएको ८९ रनको सामान्य लक्ष्य पछ्याउने क्रममा चितवन राइनोजले पावरप्लेको समाप्तिमा ५ विकेट गुमाएर ४१ रन बनाएको छ। चितवनलाई जितका लागि अब ८० बलमा ४८ रनको आवश्यकता छ। चितवनको ब्याटिङतर्फ रवि बोपाराले १६ बलमा ३ चौकासहित १३ रन जोडे भने कमिंद मिश्राले ६ बलमा [&#8230;]",
+      "published": "2026-11-13T13:46:22+00:00",
+      "source": "Kendrabindu",
       "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/391346/conversions/Nyayadhis-original.jpg",
+      "image": "",
       "related_sources": [
-        "Gorkhapatra Online"
+        "Kendrabindu"
       ],
-      "id": "c3dc4b719f376df4",
+      "id": "ac5e2165f09fbe22",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.6,
-      "story_size": 1,
-      "image_local": "images/news_bdb6bf489f636c076d80.jpg"
+      "score": 75.4,
+      "story_size": 1
     },
     {
-      "title": "प्रथम गोल्ड कपको फाईनलमा सिम ब्वाईज र ठेहे फुटबल क्लब भिड्ने",
-      "link": "https://gorkhapatraonline.com/news/228978",
-      "description": "हुम्ला समाचारदाताहुम्ला कात्तिक २७ गते । हिमाली जिल्ला हुम्लामा प्रथम गोल्ड कप जिल्ला स्तरीय पुरुष फुटबल प्रतियोगिताको फाईनलमा सिम ब्वाईज र ठेहे फुटबल क्लव भिड्ने भएका छन् । शुक्रब...",
-      "published": "2026-11-13T19:24:49+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "sports",
-      "image": "https://gorkhapatraonline.com/storage/media/391341/conversions/904000238_2188570521748928_2560955455564715645_n-original.jpg",
+      "title": "दुर्घटना बढेपछि बल्खु–हेटौँडा रुटमा सवारी सञ्चालनको समय तोकियो",
+      "link": "https://kendrabindu.com/social-affairs/572153/",
+      "description": "काठमाडौं । काठमाडौंको बल्खु हुँदै दक्षिणकाली मार्ग भएर हेटौँडा जाने यात्रुवाहक सवारीसाधनका लागि जिल्ला प्रशासन कार्यालयले नयाँ समयसीमा तोकेको छ । अब यस रुटमा चल्ने यात्रुवाहक सवारीसाधन बेलुका ८ बजेसम्ममा फर्पिङस्थित प्रहरी चेकपोस्ट पुगिसक्नुपर्नेछ भने बिहान ५ बजेपछि मात्रै बल्खुबाट छुट्न पाउनेछन् । जिल्ला सुरक्षा समिति काठमाडौंको निर्णयअनुसार यात्रु, चालक र सवारीसाधनको सुरक्षालाई ध्यानमा राखेर [&#8230;]",
+      "published": "2026-11-13T13:37:38+00:00",
+      "source": "Kendrabindu",
+      "category": "society",
+      "image": "",
       "related_sources": [
-        "Gorkhapatra Online"
+        "Kendrabindu"
       ],
-      "id": "9b8b177d7b9473bf",
+      "id": "310be6b0d4cd9e11",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.5,
-      "story_size": 1,
-      "image_local": "images/news_162ec63aefe0e2a6d144.jpg"
+      "score": 74.8,
+      "story_size": 1
+    },
+    {
+      "title": "युक्रेनलाई ड्रोन आपूर्ति गर्ने जर्मन कम्पनीमाथि साइबर आक्रमण",
+      "link": "https://kendrabindu.com/world/572154/",
+      "description": "फ्रान्कफर्ट । जर्मन रक्षा सामग्री उत्पादक कम्पनी क्वान्टम सिस्टम्सले गत महिना साइबर आक्रमणको सामना गर्नुपरेको जनाएको छ । उक्त आक्रमणपछि जर्मन सेनाले सावधानीस्वरूप कम्पनीद्वारा निर्मित आफ्ना ड्रोन केही समयका लागि उडानमा प्रयोग गर्न रोक्नुपरेको थियो । यस आक्रमणमा रुसको संलग्नता रहेको आशङ्का गरिएको स्रोतहरूले शुक्रबार बताएका छन् । रुसविरुद्धको युद्धमा युक्रेनलाई सैन्य सामग्री आपूर्ति गर्ने [&#8230;]",
+      "published": "2026-11-13T13:34:09+00:00",
+      "source": "Kendrabindu",
+      "category": "tech",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "cc4dc9c19af75010",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 74.5,
+      "story_size": 1
     },
     {
       "title": "जलवायु न्यायको माग गर्दै टर्किएमा प्रदर्शन",
@@ -1509,7 +1620,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.1,
+      "score": 72.5,
       "story_size": 1
     },
     {
@@ -1527,7 +1638,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.0,
+      "score": 72.4,
       "story_size": 1
     },
     {
@@ -1545,7 +1656,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.9,
+      "score": 72.3,
       "story_size": 1
     },
     {
@@ -1563,7 +1674,43 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.7,
+      "score": 72.1,
+      "story_size": 1
+    },
+    {
+      "title": "जनकपुरको लज्जास्पद ब्याटिङ, चितवनसँग ८८ रनमै समेटियाे",
+      "link": "https://kendrabindu.com/sports/572126/",
+      "description": "काठमाडौं । सिद्धार्थ बैंक नेपाल प्रिमियर लिग (एनपीएल ) चितवन राइनोजविरुद्ध टस जितेर पहिले ब्याटिङ रोजेको जनकपुर बोल्ट्सले लज्जास्पद ब्याटिङ गरेकाे छ । कीर्तिपुरस्थित त्रिवि अन्तर्राष्ट्रिय क्रिकेट मैदानमा चितवनका बलरहरूको घातक बलिङसामू जनकपुरले २० ओभरको समाप्तिमा ९ विकेट गुमाएर मात्र ८८ रन जोड्याे । जनकपुरका लागि कप्तान हर्मित सिंहले २५ बलमा २ चौका र १ [&#8230;]",
+      "published": "2026-11-13T12:51:13+00:00",
+      "source": "Kendrabindu",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "598bec39300fe1c5",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 71.7,
+      "story_size": 1
+    },
+    {
+      "title": "भारतले लोकतन्त्र सम्मेलनमा सहभागी हुन आउने ११५ जनालाई दिएन प्रवेश अनुमति",
+      "link": "https://kendrabindu.com/world/572123/",
+      "description": "नयाँदिल्ली । भारतले विपक्षी काङ्ग्रेस पार्टीद्वारा आयोजित लोकतन्त्र सम्मेलनमा सहभागी हुन आउने ११५ जना अन्तरराष्ट्रिय वक्तालाई प्रवेश अनुमति दिएको छैन । काङ्ग्रेसका एक वरिष्ठ नेताले शुक्रबार यसबारे जानकारी दिएका हुन् । प्रवेश अनुमति नपाउनेमा नर्वेकी एक पत्रकार पनि हुन् । उनले यसअघि प्रधानमन्त्री नरेन्द्र मोदीलाई प्रेस स्वतन्त्रताका विषयमा प्रश्न गरेका थिए । काङ्ग्रेसका सांसद तथा [&#8230;]",
+      "published": "2026-11-13T12:44:31+00:00",
+      "source": "Kendrabindu",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu"
+      ],
+      "id": "d305e94b6cce6b48",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 71.2,
       "story_size": 1
     },
     {
@@ -1581,7 +1728,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.8,
+      "score": 71.2,
       "story_size": 1
     },
     {
@@ -1599,25 +1746,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.1,
-      "story_size": 1
-    },
-    {
-      "title": "गृहमन्त्री गुरुङ यूएई प्रस्थान",
-      "link": "https://www.onlinekhabar.com/2026/11/2057151/home-minister-gurung-departs-for-uae",
-      "description": "२७ कात्तिक, काठमाडौं । गृहमन्त्री सुधन गुरुङ संयुक्त अरब इमिरेट्स (यूएई) प्रस्थान गरेका छन् । यूएई सरकारको औपचारिक निमन्त्रणामा दुबईमा आयोजना हुन लागेको विश्व प्रहरी शिखर सम्मेलनमा सहभागी हुन शुक्रबार साँझ ७ बजे त्यसतर्फ प्रस्थान गरेका हुन् । उक्त सम्मेलनमा अन्तर्राष्ट्रिय प्रहरी सहकार्य, सुरक्षा प्रविधिको विकास तथा अपराध नियन्त्रणका नवीनतम अभ्यास आदानप्रदान प्राथमिकतामा रहने गृहमन्त्री [&#8230;]",
-      "published": "2026-11-13T12:29:20+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "7fad104eaffd69dd",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 92.8,
+      "score": 70.5,
       "story_size": 1
     },
     {
@@ -1635,7 +1764,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.0,
+      "score": 69.4,
       "story_size": 1
     },
     {
@@ -1653,7 +1782,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.4,
+      "score": 68.8,
       "story_size": 1
     },
     {
@@ -1671,7 +1800,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.0,
+      "score": 68.4,
       "story_size": 1
     },
     {
@@ -1689,7 +1818,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.7,
+      "score": 68.1,
       "story_size": 1
     },
     {
@@ -1707,7 +1836,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.4,
+      "score": 67.8,
       "story_size": 1
     },
     {
@@ -1725,7 +1854,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.0,
+      "score": 66.4,
       "story_size": 1
     },
     {
@@ -1743,7 +1872,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.7,
+      "score": 66.1,
       "story_size": 1
     },
     {
@@ -1761,7 +1890,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.4,
+      "score": 65.8,
       "story_size": 1
     },
     {
@@ -1779,7 +1908,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.0,
+      "score": 65.4,
       "story_size": 1
     },
     {
@@ -1797,7 +1926,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.0,
+      "score": 65.3,
       "story_size": 1
     },
     {
@@ -1815,7 +1944,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.6,
+      "score": 64.0,
       "story_size": 1
     },
     {
@@ -1833,7 +1962,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.2,
+      "score": 63.6,
       "story_size": 1
     },
     {
@@ -1851,7 +1980,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.5,
+      "score": 62.9,
       "story_size": 1
     },
     {
@@ -1869,7 +1998,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.1,
+      "score": 62.4,
       "story_size": 1
     },
     {
@@ -1887,7 +2016,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.6,
+      "score": 62.0,
       "story_size": 1
     },
     {
@@ -1905,7 +2034,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.6,
+      "score": 62.0,
       "story_size": 1
     },
     {
@@ -1923,7 +2052,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.5,
+      "score": 61.9,
       "story_size": 1
     },
     {
@@ -1941,7 +2070,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.3,
+      "score": 61.7,
       "story_size": 1
     },
     {
@@ -1959,7 +2088,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.1,
+      "score": 60.4,
       "story_size": 1
     },
     {
@@ -1977,7 +2106,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.4,
+      "score": 59.8,
       "story_size": 1
     },
     {
@@ -1995,7 +2124,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.3,
+      "score": 59.7,
       "story_size": 1
     },
     {
@@ -2013,7 +2142,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.4,
+      "score": 58.8,
       "story_size": 1
     },
     {
@@ -2031,7 +2160,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.1,
+      "score": 58.4,
       "story_size": 1
     },
     {
@@ -2049,7 +2178,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.9,
+      "score": 58.3,
       "story_size": 1
     },
     {
@@ -2067,7 +2196,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.6,
+      "score": 58.0,
       "story_size": 1
     },
     {
@@ -2085,7 +2214,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.3,
+      "score": 57.7,
       "story_size": 1
     },
     {
@@ -2103,7 +2232,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.1,
+      "score": 57.5,
       "story_size": 1
     },
     {
@@ -2121,7 +2250,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.9,
+      "score": 57.3,
       "story_size": 1
     },
     {
@@ -2139,7 +2268,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.7,
+      "score": 57.0,
       "story_size": 1
     },
     {
@@ -2157,7 +2286,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.3,
+      "score": 56.7,
       "story_size": 1
     },
     {
@@ -2175,61 +2304,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.2,
-      "story_size": 1
-    },
-    {
-      "title": "सांसद केसीको आरोप– मूल्यवृद्धि र दिशाहीन राजनीतिले नागरिकमा आक्रोश थप्यो",
-      "link": "https://www.onlinekhabar.com/2026/11/2056926/mp-kc-alleges-that-price-hikes-and-directionless-politics-have-increased-anger-among-citizens",
-      "description": "२७ कात्तिक, काठमाडौं । नेपाली कांग्रेसका सांसद अर्जुननरसिंह केसीले आकासिंदो मूल्यवृद्धि र दिशाहीन राजनीतिले नागरिकमा आक्रोश थपेको आरोप लगाएका छन् । ‘सरकारको नांगो अकर्मण्यता’ भनेर सामाजिक सञ्जालमा लेख्दै उनले सरकारको आलोचना गरेका हुन् । विजयादशमी र तिहारपछि तराई–मधेशमा छठ पर्वको माहोल घरआँगनमा भित्रिइसकेको उल्लेख गर्दै उनले यसपटकका चाडपर्वहरू उल्लासपूर्ण हुन नसकेको बरू लाखौं नेपालीका ओठमा [&#8230;]",
-      "published": "2026-11-13T09:00:57+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "5dbb101d3c674134",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 78.9,
-      "story_size": 1
-    },
-    {
-      "title": "कोप–३१ मा ग्रीन हाइड्रोजनमा आधारित रासायनिक मल कारखाना स्थापनाका लागि लगानी आह्वान",
-      "link": "https://www.onlinekhabar.com/2026/11/2056908/investment-call-for-establishment-of-green-hydrogen-based-chemical-fertilizer-factory-at-cop-31",
-      "description": "२७ कात्तिक, काठमाडौं । नेपालले कोप–३१ मा ग्रीन हाइड्रोजनमा आधारित रासायनिक मल कारखाना स्थापनाका लागि लगानी आह्वान गरेको छ । नेपालले आफ्नै जलविद्युत् र स्वच्छ ऊर्जाको उपयोग गरी ग्रीन हाइड्रोजनमा आधारित रासायनिक मल उद्योग स्थापना गर्ने महत्वाकांक्षी योजना अघि सार्दै लगानी आह्वान गरेको हो । आगामी पाँच वर्षभित्र स्वदेशमै ग्रीन मल उत्पादन गरी नेपाली बजारमा [&#8230;]",
-      "published": "2026-11-13T08:55:25+00:00",
-      "source": "OnlineKhabar",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "a0d8f3230129dc9b",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 78.6,
-      "story_size": 1
-    },
-    {
-      "title": "छठ पर्वका अवसरमा सोमबार सार्वजनिक बिदा",
-      "link": "https://www.onlinekhabar.com/2026/11/2056895/monday-is-a-public-holiday-2",
-      "description": "सरकारले छठ पर्वको अवसरमा बिदा दिएको हो।",
-      "published": "2026-11-13T08:51:18+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "141f15dbf8d39f05",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 78.3,
+      "score": 56.6,
       "story_size": 1
     },
     {
@@ -2247,7 +2322,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 59.2,
+      "score": 36.6,
       "story_size": 1
     },
     {
@@ -2265,7 +2340,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 51.8,
+      "score": 29.2,
       "story_size": 1
     },
     {
