@@ -1,83 +1,157 @@
 {
   "date_np": "2026-11-15",
-  "generated_at": "2026-11-14T20:44:52.900273+00:00",
+  "generated_at": "2026-11-15T00:25:02.240170+00:00",
   "items": [
     {
-      "title": "फुटबल एकेडेमी चलाउन सहाराको देउसीभैलो, साढे ११ लाख जुट्यो",
-      "link": "https://www.ratopati.com/story/605249/saharas-deusivhailo-raises-rs-115-million-to-run-a-football-academy",
-      "description": "कास्की । सहारा क्लब पोखराले यस वर्ष तिहारका अवसरमा खेलेको देउसीभैलोबाट रु ११ लाख ६८ हजार ६१३ जम्मा गरेको छ । विपन्न तथा कठिन परिस्थितिमा रहेका बालकहरूलाई आवासीय सुविधासहित फुटबल प्रशिक्षण प्रदान गर्ने उद्देश्यले क्लबले पोखरा–१७",
-      "published": "2026-11-14T19:16:48+00:00",
-      "source": "Ratopati",
-      "category": "sports",
-      "image": "https://npcdn.ratopati.com/media/news/deusi-bhailodsc06974_dm1dWTPGGs.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "7c1f36c54141ab8b",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 107.1,
-      "story_size": 1,
-      "image_local": "images/news_16002160f2fd3f0bfdc2.jpg"
-    },
-    {
-      "title": "महिला अन्तर्राष्ट्रिय गोल्डकपः अक्वा एफसीलाई हराउँदै एपिएफ सेमिफाइनलमा",
-      "link": "https://www.ratopati.com/story/605247/womens-international-gold-cup-apf-defeats-aqua-fc-to-reach-semifinals",
-      "description": "सुनसरी । भारतको अक्वा एफसी झारखण्डलाई ७–० गोलअन्तरले पराजित गर्दै विभागीय टोली सशस्त्र प्रहरी बल (एपिएफ) फुटबल क्लब प्रथम धरान अन्तर्राष्ट्रिय महिला गोल्डकप फुटबल प्रतियोगिताको सेमिफाइनलमा प्रवेश गरेको छ । धरानमा शनिबारदेखि सुरु भएको रात्रिकालीन प्रतियोगिताको",
-      "published": "2026-11-14T18:30:21+00:00",
-      "source": "Ratopati",
-      "category": "tech",
-      "image": "https://rpcdn.ratopati.com/media/albums/Football-in-goal_sLruBmXUNl.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "daf5d3d251609f04",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 104.1,
-      "story_size": 1,
-      "image_local": "images/news_8bcdf7627c00ccef5dea.jpg"
-    },
-    {
-      "title": "छठको तयारी: गुह्येश्वरीबाट गौरीघाटसम्मको वाग्मती सफाइ",
-      "link": "https://www.ratopati.com/story/605246/preparations-for-chhath-cleaning-of-bagmati-river-from-guhyeshwori-to-gaurighat",
-      "description": "काठमाडौँ । छठ पर्वको मुख्य दिनको तयारीका लागि गुह्येश्वरीबाट गौरीघाटसम्मको वाग्मती नदी एवं किनार आसपास क्षेत्र सफाइ गरिएको छ । छठ पूजा समिति गुह्येश्वरीले छठ घाट निर्माण अन्तिम चरणमा पुर्याएका बेला राष्ट्रको लागि हप्ताको दुई घण्टा",
-      "published": "2026-11-14T18:24:42+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://rpcdn.ratopati.com/media/albums/DSC_2208_copy_1024x683_tQXZWBFU6O.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "287055c78186222d",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 103.7,
-      "story_size": 1,
-      "image_local": "images/news_08814c7b9cb5a9329d18.jpg"
-    },
-    {
-      "title": "१२ बजे १२ समाचार : रसुवागढी नाका तीन महिनादेखि ठप्प, एनपीएल प्लेअफ समीकरण पूरा",
-      "link": "https://www.ratopati.com/story/605245/12-oclock-12-news-rasuwagadhi-border-crossing-has-been-closed-for-three-months-npl-playoff-equation-complete",
-      "description": "काठमाडौँ । आज दिनभरका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति ‘रातोपाटी ब्रिफिङ’ मा ‘१२ बजे १२’ समाचार लिएर हाजिर भएका छौँ– १. राप्रपा महाधिवेशन राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) को केन्द्रीय महाधिवेशनका लागि महाधिवेशन प्रतिनिधि छनोट प्रक्रिया मंसिर ४",
-      "published": "2026-11-14T18:15:00+00:00",
+      "title": "आइतबार यस्तो छ विदेशी मुद्राको विनिमय दर",
+      "link": "https://www.ratopati.com/story/605259/this-is-the-foreign-exchange-rate-on-sunday",
+      "description": "काठमाडौँ । नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमय दर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५० रुपैयाँ ४९ पैसा र बिक्रीदर १५१ रुपैयाँ ०९ पैसा निर्धारण गरिएको छ",
+      "published": "2026-11-15T00:02:16+00:00",
       "source": "Ratopati",
       "category": "business",
-      "image": "https://npcdn.ratopati.com/media/news/12-1_vBtXTZ3QuP.webp",
+      "image": "https://npcdn.ratopati.com/media/news/forex_g5zWyL63Qc.webp",
       "related_sources": [
         "Ratopati"
       ],
-      "id": "5288b0c689564f01",
+      "id": "79d9509540b43951",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.0,
+      "score": 111.5,
       "story_size": 1,
-      "image_local": "images/news_a41e308eaf2b88ce28ad.webp"
+      "image_local": "images/news_f2c6dcc1e8de2c3cb7a1.webp"
+    },
+    {
+      "title": "सांस्कृतिक एकताको प्रतीक बन्दै छठ",
+      "link": "https://gorkhapatraonline.com/news/229087",
+      "description": "काठमाडौँ, कात्तिक २९ गते । तराई मधेशको नदी र तलाउबाट सुरु भएको छठपर्व अहिले पहाडका नदी र हिमालका तालसम्म फैलिँदै छ । छठले राज्यस्तरमा समेत सम्मान र मान्यता पाउन थालेपछि यसको सामाजि...",
+      "published": "2026-11-15T05:39:50+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/391497/conversions/Kamal-Pokhari--3598-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "9c0edbe730ce6d5b",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.0,
+      "story_size": 1,
+      "image_local": "images/news_5dbfd71b59709c4fe7e4.jpg"
+    },
+    {
+      "title": "बाँदरको हैरानीले किसान अदुवा खेतीतर्फ आकर्षित",
+      "link": "https://www.ratopati.com/story/605258/monkey-nuisance-attracts-farmers-to-ginger-farming",
+      "description": "भोजपुर । भोजपुरमा बाँदरको समस्याका कारण परम्परागत खाद्यबाली खेती गर्न कठिन भएपछि किसान अदुवा खेतीतर्फ आकर्षित हुन थालेका छन् । बाँदरले मकै, कोदोलगायतका बालीमा क्षति पुर्‍याउने समस्या बढ्दै गएपछि किसानले अदुवा खेतीलाई वैकल्पिक आयआर्जनको माध्यम",
+      "published": "2026-11-14T23:39:28+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://npcdn.ratopati.com/media/news/Igo5xna52U.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "525a9722ee4ee6f4",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.0,
+      "story_size": 1,
+      "image_local": "images/news_a390ee946c4ffd4cb596.jpg"
+    },
+    {
+      "title": "छठको मुख्य दिन आज, अस्ताउँदो सूर्यलाई अर्घ्य दिइँदै",
+      "link": "https://baahrakhari.com/detail/507322",
+      "description": "",
+      "published": "2026-11-15T06:09:12+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "1597ed16c92d0f4d",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.9,
+      "story_size": 1
+    },
+    {
+      "title": "एनपिएलको मैदानमा चम्किएका चार हिरा",
+      "link": "https://www.ratopati.com/story/605257/four-nepali-cricketers-in-form-in-npl-3",
+      "description": "एनपिएल–३ मा लयमा देखिएका चार नेपाली क्रिकेटर काठमाडौँ । तेस्रो संस्करणको नेपाल प्रिमियर लिग (एनपिएल) क्रिकेट प्रतियोगितामा प्लेअफ पुग्ने चार टोलीको टुङ्गो लागिसकेको छ । यसपालि लुम्बिनी लायन्स, सुदूरपश्चिम रोयल्स, काठमाण्डु गोर्खाज र चितवन राइनोजले प्लेअफमा",
+      "published": "2026-11-14T23:36:25+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/4-player_CPVxkraUt0.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "c95473ebb1a57e14",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.8,
+      "story_size": 1,
+      "image_local": "images/news_fa879ad7ca8e9e80cc64.webp"
+    },
+    {
+      "title": "यस्तो छ विदेशी मुद्राको विनिमयदर",
+      "link": "https://baahrakhari.com/detail/507321",
+      "description": "युरोपियन युरो एकको खरिददर १६६ रुपैयाँ ४३ पैसा र बिक्रीदर १६७ रुपैयाँ १० पैसा, यूके पाउन्ड स्ट्रलिङ एकको खरिददर १९९ रुपैयाँ १६ पैसा र बिक्रीदर १९९ रुपैयाँ ९५ पैसा, स्वीस फ्र्यांक एकको खरिददर १७९ रुपैयाँ ७९ पैसा र बिक्रीदर १८० रुपैयाँ ५० पैसा कायम गरिएको छ ।",
+      "published": "2026-11-15T05:50:18+05:45",
+      "source": "Baahrakhari",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "fa7783e25126c758",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.7,
+      "story_size": 1
+    },
+    {
+      "title": "छठी गीतको गुञ्जनमा भक्तिमय मिथिला",
+      "link": "https://www.ratopati.com/story/605256/devotional-mithila-in-the-echo-of-the-chhathi-geet",
+      "description": "महोत्तरी । मौलिक लोकपरम्परा, समुन्नत संस्कृति र प्रत्येक चाडवाडसँग सम्बन्धित गीत मिथिला क्षेत्रका वैभव मानिन्छन् । मधेसको प्राचीन मिथिला क्षेत्रमा सामूहिक रूपमा मनाइने पर्व होउन् वा घरमा आयोजना गरिने शुभकार्य, प्रत्येक अनुष्ठानका लोकपरम्परामा स्थापित गीत",
+      "published": "2026-11-14T23:19:36+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/chhath_EVIsxaNguo.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "7b2a255d392b056b",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.6,
+      "story_size": 1,
+      "image_local": "images/news_8247d161e7246acb2338.webp"
+    },
+    {
+      "title": "कस्तो रहला तपाईँको दिन ? हेर्नुहोस् आजकाे राशिफल",
+      "link": "https://www.ratopati.com/story/605254/how-was-your-day-check-out-todays-horoscope",
+      "description": "आजको पञ्चाङ्ग वि.सं.२०८३ साल कार्तिक २९ गते । आइतबार । इस्वी सन् २०२६ नोभेम्बर १५ तारिख । नेपाल संवत् ११४७ । रौद्र संवत्सर । दक्षिणायन । शरद ऋतु । श्रीशाके १९४८ । कार्तिक शुक्लपक्ष । तिथि–षष्ठी,",
+      "published": "2026-11-14T23:15:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/horoscope_XkWmpVM1yU.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "826a105b46b81f64",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 108.3,
+      "story_size": 1,
+      "image_local": "images/news_3f09ac2e5e6c89788b01.jpg"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. फुटबल एकेडेमी चलाउन सहाराको देउसीभैलो, साढे ११ लाख जुट्यो\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/605249/saharas-deusivhailo-raises-rs-115-million-to-run-a-football-academy\n\n2. महिला अन्तर्राष्ट्रिय गोल्डकपः अक्वा एफसीलाई हराउँदै एपिएफ सेमिफाइनलमा\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/605247/womens-international-gold-cup-apf-defeats-aqua-fc-to-reach-semifinals\n\n3. छठको तयारी: गुह्येश्वरीबाट गौरीघाटसम्मको वाग्मती सफाइ\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/605246/preparations-for-chhath-cleaning-of-bagmati-river-from-guhyeshwori-to-gaurighat\n\n4. १२ बजे १२ समाचार : रसुवागढी नाका तीन महिनादेखि ठप्प, एनपीएल प्लेअफ समीकरण पूरा\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/605245/12-oclock-12-news-rasuwagadhi-border-crossing-has-been-closed-for-three-months-npl-playoff-equation-complete\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. आइतबार यस्तो छ विदेशी मुद्राको विनिमय दर\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/605259/this-is-the-foreign-exchange-rate-on-sunday\n\n2. सांस्कृतिक एकताको प्रतीक बन्दै छठ\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/229087\n\n3. बाँदरको हैरानीले किसान अदुवा खेतीतर्फ आकर्षित\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/605258/monkey-nuisance-attracts-farmers-to-ginger-farming\n\n4. छठको मुख्य दिन आज, अस्ताउँदो सूर्यलाई अर्घ्य दिइँदै\nस्रोत: Baahrakhari\nhttps://baahrakhari.com/detail/507322\n\n5. एनपिएलको मैदानमा चम्किएका चार हिरा\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/605257/four-nepali-cricketers-in-form-in-npl-3\n\n6. यस्तो छ विदेशी मुद्राको विनिमयदर\nस्रोत: Baahrakhari\nhttps://baahrakhari.com/detail/507321\n\n7. छठी गीतको गुञ्जनमा भक्तिमय मिथिला\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/605256/devotional-mithila-in-the-echo-of-the-chhathi-geet\n\n8. कस्तो रहला तपाईँको दिन ? हेर्नुहोस् आजकाे राशिफल\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/605254/how-was-your-day-check-out-todays-horoscope\n\n— I Am From Hetauda"
 }
