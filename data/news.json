@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T20:16:07.421344+00:00",
+  "updated_at": "2026-11-16T00:14:27.487673+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -26,16 +26,219 @@
       "related_sources": [
         "Baahrakhari",
         "Khabarhub",
-        "Ratopati",
-        "OnlineKhabar",
-        "Gorkhapatra Online"
+        "OnlineKhabar"
       ],
       "id": "b1aede99c5b224f1",
-      "source_count": 5,
+      "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 151.9,
-      "story_size": 5
+      "score": 116.0,
+      "story_size": 3
+    },
+    {
+      "title": "सुनसरीको हरिनगरमा छठ पूजास्थल तोडफोड गर्ने दुई युवक पक्राउ",
+      "link": "https://www.ratopati.com/story/605460/two-youths-arrested-for-vandalizing-chhath-puja-site-in-harinagar-sunsari",
+      "description": "सुनसरी। सुनसरीको हरिनगर गाउँपालिकामा छठ पूजास्थल तोडफोड गरेको आरोपमा प्रहरीले दुई जनालाई पक्राउ गरेको छ। हरिनगर गाउँपालिका वडा नम्बर ६ स्थित टपरा अर्नमा घाटमा रहेको पूजास्थल तोडफोडमा संलग्न सोही ठाउँका १९ वर्षीय रिजवान मन्सुरी र २१ वर्षीय",
+      "published": "2026-11-16T00:06:33+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/912709957_1837744800595059_7167753493400841418_n_Beq3W3N96W.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "d788dc9a606f160f",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.5,
+      "story_size": 1,
+      "image_local": "images/news_fbab13f9dec7f645fff0.webp"
+    },
+    {
+      "title": "पश्चिमी न्यूनचापीय प्रणालीको प्रभाव : आज यी प्रदेशमा हल्का वर्षा र हिमपातको सम्भावना",
+      "link": "https://www.ratopati.com/story/605459/impact-of-western-low-pressure-system-light-rain-and-snowfall-likely-in-these-provinces-today",
+      "description": "काठमाडौँ। हाल नेपालमा पश्चिमी न्यूनचापीय प्रणालीको आंशिक प्रभाव रहेको जल तथा मौसम पूर्वानुमान महाशाखाले जनाएको छ। यस प्रणालीका कारण मुलुकका हिमाली तथा पहाडी भू-भागमा बादल लाग्नुका साथै तराई क्षेत्रमा तुवाँलो देखिएको छ। महाशाखाका अनुसार हाल कर्णाली प्रदेशसहित बाँकी",
+      "published": "2026-11-15T23:57:33+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/kathmandu-weather_npl-(4)_bwmLIOJRof.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "c556dd816b9a3e9e",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.9,
+      "story_size": 1,
+      "image_local": "images/news_b446798dff369c54c157.jpg"
+    },
+    {
+      "title": "बढ्दै छ औषधी प्रतिरोधको जोखिम",
+      "link": "https://gorkhapatraonline.com/news/229190",
+      "description": "काठमाडौँ, कात्तिक ३० गते । सामान्य रुघाखोकी, घाँटी दुख्ने र ज्वरो आउनेबित्तिकै चिकित्सकको परामर्शबिना एन्टिबायोटिक सेवन गर्ने प्रवृत्तिले औषधी प्रतिरोधको जोखिम बढाएको छ । आवश्यकताब...",
+      "published": "2026-11-16T05:33:37+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/391641/conversions/Untitled-1-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "9978f42109af6eff",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.3,
+      "story_size": 1,
+      "image_local": "images/news_d233c368e31223686f5f.jpg"
+    },
+    {
+      "title": "धान काट्न व्यस्त छन् इलामका किसान",
+      "link": "https://www.ratopati.com/story/605458/farmers-of-ilam-are-busy-harvesting-rice",
+      "description": "इलाम । इलामका तल्लो क्षेत्रमा धान काट्ने सिजन सुरु भएको छ । तिहार सकिएसँगै यहाँका किसान धान काट्न व्यस्त छन् । यस वर्ष समयमा वर्षा भएकाले धान उत्पादन राम्रो हुनुका साथै भित्र्याउने समयमा मौसमले साथ",
+      "published": "2026-11-15T23:44:18+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/gLGkydkiXl.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "1f8084cd7054cc85",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.0,
+      "story_size": 1,
+      "image_local": "images/news_653a03bf873f4bd142fb.jpg"
+    },
+    {
+      "title": "बजारमा माग बढेपछि ‘थारु आलुखेती’ विस्तार गर्दै किसान",
+      "link": "https://www.ratopati.com/story/605457/farmers-expanding-tharu-potato-farming-as-market-demand-increases",
+      "description": "बर्दिया । स्वादिलो, लामो समयसम्म भण्डारण गर्न सकिने र बजारमा राम्रो मूल्य पाउने भएपछि बर्दियाका किसान रैथाने आलुखेतीतर्फ आकर्षित हुन थालेका छन् । स्थानीय तहले बीउमा अनुदान दिन थालेपछि यसको खेती विस्तार हुँदै गएको छ",
+      "published": "2026-11-15T23:37:38+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://npcdn.ratopati.com/media/news/UzeHOkuk7g.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "52c52da99cdc6d58",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.5,
+      "story_size": 1,
+      "image_local": "images/news_97c6f4ebd5ad5412b9c1.jpg"
+    },
+    {
+      "title": "अमेरिकी डलरदेखि कतारी रियालसम्म : यस्तो छ आजको विनिमय दर",
+      "link": "https://www.ratopati.com/story/605456/us-dollar-to-qatari-riyal-here-is-todays-exchange-rate",
+      "description": "काठमाडौँ । नेपाल राष्ट्र बैंकले आज (सोमबार) का लागि विदेशी मुद्राको विनिमय दर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५० रुपैयाँ ४९ पैसा र बिक्रीदर १५१ रुपैयाँ ०९ पैसा निर्धारण",
+      "published": "2026-11-15T23:33:03+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/forex_g5zWyL63Qc.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "33960b8a89688bbe",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.2,
+      "story_size": 1,
+      "image_local": "images/news_f2c6dcc1e8de2c3cb7a1.webp"
+    },
+    {
+      "title": "यस्तो छ विदेशी मुद्राको विनिमयदर",
+      "link": "https://khabarhub.com/2026/16/1048111/",
+      "description": "काठमाडौँ&#8211; नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५० रुपैयाँ ४९ पैसा र बिक्रीदर १५१ रुपैयाँ ०९ पैसा निर्धारण गरिएको छ । युरोपियन युरो एकको खरिददर १६५ रुपैयाँ ८८ पैसा र बिक्रीदर १६६ रुपैयाँ ५४ पैसा, युके पाउन्ड स्ट्रलिङ एकको खरिददर १९८ रुपैयाँ ९० पैसा [&#8230;]",
+      "published": "2026-11-16T00:14:08+00:00",
+      "source": "Khabarhub",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "14536523f94f05c5",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 110.0,
+      "story_size": 1
+    },
+    {
+      "title": "वाग्मतीसहित यी प्रदेशमा छ वर्षाको सम्भावना",
+      "link": "https://baahrakhari.com/detail/507404",
+      "description": "",
+      "published": "2026-11-16T05:57:20+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "432cca2c26a044c4",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.9,
+      "story_size": 1
+    },
+    {
+      "title": "आज २०८३ साल कात्तिक ३० गते सोमबार राशिफल",
+      "link": "https://khabarhub.com/2026/16/1048103/",
+      "description": "काठमाडौँ – २०८३ साल कात्तिक ३० गते सोमबार सन् २०२६ नोभेम्बर १६ तारिख। कार्तिक शुक्ल पक्षको सप्तमी तिथि। अन्तर्राष्ट्रिय सहनशीलता दिवस । नक्षत्र अनुसार १२ वटा राशि हुन्छन्। चन्द्रमा अनुसार राशि र नक्षत्रका पद अनुसार नाम राखिन्छ। त्यही आधारमा व्यक्तिको दैनिकीको विषयमा भविष्यवाणी हुन्छ। खबरहबका लागि ज्योतिष पण्डित सूर्यनाथ लुइटेलले तयार पार्नुभएको आजको फलादेशः मेष [&#8230;]",
+      "published": "2026-11-16T00:07:09+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "889fa91a10976b64",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.5,
+      "story_size": 1
+    },
+    {
+      "title": "मलेसियन रिंगेटको मूल्य कति छ ?",
+      "link": "https://baahrakhari.com/detail/507403",
+      "description": "राष्ट्र बैंकले हङकङ डलर एकको खरिददर १९ रुपैयाँ १८ पैसा र बिक्रीदर १९ रुपैयाँ २६ पैसा, कुवेती दिनार एकको खरिददर ४८७ रुपैयाँ ६५ पैसा र बिक्रीदर ४८९ रुपैयाँ ६० पैसा कायम गरेको छ ।",
+      "published": "2026-11-16T05:44:16+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "e6d139d7d6a95955",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.0,
+      "story_size": 1
+    },
+    {
+      "title": "कुन राशिका लागि शुभ छ आजको दिन ? हेर्नुहोस् राशिफल",
+      "link": "https://www.ratopati.com/story/605454/which-zodiac-sign-is-auspicious-today-see-horoscope",
+      "description": "आजको पञ्चाङ्ग वि.सं.२०८३ साल कार्तिक ३० गते । सोमबार । इस्वी सन् २०२६ नोभेम्बर १६ तारिख । नेपाल संवत् ११४७ । रौद्र संवत्सर । दक्षिणायन । शरद ऋतु । श्रीशाके १९४८ । कार्तिक शुक्लपक्ष । तिथि–सप्तमी,",
+      "published": "2026-11-15T23:15:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/horoscope_wraKHnbZ5T.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "ffa4f836fdf62053",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.0,
+      "story_size": 1,
+      "image_local": "images/news_7b0780cf69e0d44470de.jpg"
     },
     {
       "title": "गेस्ट हाउसमा एक व्यक्ति मृत फेला",
@@ -53,7 +256,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 125.0,
+      "score": 109.0,
       "story_size": 2,
       "image_local": "images/news_62058019c86111b3197c.jpg"
     },
@@ -73,9 +276,28 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 124.6,
+      "score": 108.7,
       "story_size": 2,
       "image_local": "images/news_303416fabc54ccdacf2c.jpg"
+    },
+    {
+      "title": "पूर्वाधार निर्माणसँगै पर्यटकीय गन्तव्य बन्दै कपासे भञ्ज्याङ",
+      "link": "https://www.ratopati.com/story/605455/kapase-bhanjyang-is-becoming-a-tourist-destination-with-the-construction-of-infrastructure",
+      "description": "भोजपुर । पूर्वाधार निर्माणसँगै भोजपुर र खोटाङ जिल्लाको सिमानामा अवस्थित कपासे भञ्ज्याङ पर्यटकको आकर्षक गन्तव्य बन्दै गएको छ । यस क्षेत्रको प्रवर्द्धन गर्ने उद्देश्यले पदमार्ग, प्रवेशद्वार तथा सुम्निमा–पारुहाङको सालिकलगायतका संरचना निर्माण गरिएपछि पर्यटकको आवागमन बढ्न",
+      "published": "2026-11-15T22:57:25+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/Tf62nt00Be.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "4028f46869adb6bb",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 107.9,
+      "story_size": 1,
+      "image_local": "images/news_c44d94cc00a675099cf0.jpg"
     },
     {
       "title": "इजाजत नभएका बन्दुक बरामद",
@@ -93,28 +315,104 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 123.6,
+      "score": 107.7,
       "story_size": 2,
       "image_local": "images/news_cb9183e69e6ccc2e4e38.jpg"
     },
     {
-      "title": "बेमौसमी वर्षाले पोखरामा काटेको धान खेतमै भिज्यो, कृषक चिन्तित",
-      "link": "https://khabarhub.com/2026/15/1048109/",
-      "description": "कास्की – धान भित्र्याउने तयारीमा रहेका पोखराका किसानलाई आज साँझ परेको बेमौसमी वर्षाले समस्यामा पारेको छ । खेतमा काटेर सुकाउन राखिएको धान वर्षाका कारण जलमग्न भएपछि किसान चिन्तित बनेका छन् । पोखरामा आज साँझ परेको ठूलो वर्षाले काटेर खेतमै राखिएको धान भिजाएको हो । घाम लागिरहेका बेला एक्कासी वर्षा भएपछि धान भिजेर नोक्सान हुने चिन्तामा [&#8230;]",
-      "published": "2026-11-15T16:31:35+00:00",
-      "source": "Khabarhub",
-      "category": "tech",
-      "image": "",
+      "title": "उदाउँदो सूर्यलाई अर्घ्य दिएर आज छठ सम्पन्न गरिँदै",
+      "link": "https://www.ratopati.com/story/605453/chhath-is-being-celebrated-today-by-offering-arghya-to-the-rising-sun",
+      "description": "काठमाडौँ । सूर्य उपासनाको महापर्व छठको अन्तिम दिन आज (सप्तमी) बिहान उदाउँदो सूर्यलाई विधिपूर्वक पूजा–आराधना गरी अर्घ्य दिइँदै छ । यससँगै चार दिनसम्म विभिन्न विधिपूर्वक मनाइने छठ पर्वको आज औपचारिक समापन हुँदैछ । कात्तिक शुक्ल षष्ठीका",
+      "published": "2026-11-15T22:43:22+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/chhat-samapan-(21)_lyGXrW714C.jpg",
       "related_sources": [
-        "Khabarhub",
         "Ratopati"
       ],
-      "id": "c479f453331f76d1",
-      "source_count": 2,
-      "verified": true,
+      "id": "8190910cab57e596",
+      "source_count": 1,
+      "verified": false,
       "local": false,
-      "score": 119.1,
-      "story_size": 2
+      "score": 106.9,
+      "story_size": 1,
+      "image_local": "images/news_314dc57fd072eb32f90c.jpg"
+    },
+    {
+      "title": "शुक्लागण्डकी फूल बिक्रीमा अग्रणी बन्दै",
+      "link": "https://www.ratopati.com/story/605452/shuklagandaki-becoming-a-leader-in-flower-sales",
+      "description": "तनहुँ । तिहारको अवसरमा तनहुँको शुक्लागण्डकी नगरपालिकाका किसानले सयपत्री फूल बिक्री गरेर रु नौ लाख ५३ हजार आम्दानी गर्न सफल भएका छन् । यस वर्ष तिहारमा नगरपालिकाभित्रका किसानले दुई हजार ७६० किलोग्राम फूल बिक्री गरेका",
+      "published": "2026-11-15T22:34:39+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/12-kamala-thapa-flower-business-photo-story_npl-5_QIJReIwNLP.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "0a59417fd7335e4f",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 106.3,
+      "story_size": 1,
+      "image_local": "images/news_02287f5d99e43c988657.webp"
+    },
+    {
+      "title": "एक गोलले पछि परेको स्थिति उल्टाउँदै इटालीमाथि बेल्जियमको ४-१ को सानदार जित",
+      "link": "https://www.ratopati.com/story/605451/belgium-overturns-one-goal-deficit-to-win-4-1-over-italy",
+      "description": "काठमाडौँ । युइएफए नेसन्स लिगअन्तर्गत समूह चरणको अन्तिम खेलमा बेल्जियमले इटालीमाथि ४-१ गोल अन्तरको फराकिलो पुनरागमन जित दर्ता गरेको छ । समूह ‘ए’ को छैटौँ खेलमा सुरुआती अग्रता भने इटालीले लिएको थियो। खेलको ११औँ मिनेटमै पियो",
+      "published": "2026-11-15T21:57:15+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/belguim_PaIzBULf0M.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "e1dddad52854e4f7",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 103.9,
+      "story_size": 1,
+      "image_local": "images/news_0e61c24c03e3bb3d860e.webp"
+    },
+    {
+      "title": "१० खेलाडीमा समेटिएको इंग्ल्याण्डद्वारा स्पेन ३-२ ले पराजित",
+      "link": "https://www.ratopati.com/story/605450/england-beat-spain-3-2-with-10-players",
+      "description": "काठमाडौँ । युइएफए नेसन्स लिगअन्तर्गत समूह चरणको अन्तिम खेलमा इंग्ल्याण्डले स्पेनविरुद्ध ३-२ गोलको रोमाञ्चक जित हात पारेको छ । नेपाली समय अनुसार सोमबार बिहान भएको समूह ‘सी’ को छैटौँ खेलमा भएको प्रतिस्पर्धात्मक खेलमा इंग्ल्याण्डले ३ गोलको",
+      "published": "2026-11-15T21:52:23+00:00",
+      "source": "Ratopati",
+      "category": "sports",
+      "image": "https://npcdn.ratopati.com/media/news/spain-vs-england_Vz8b3Hgzi0.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "4f36852181be881e",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 103.5,
+      "story_size": 1,
+      "image_local": "images/news_1565baac7e8c2b366cec.webp"
+    },
+    {
+      "title": "टर्किएलाई २–१ ले हराउँदै फ्रान्स शीर्ष स्थानमा",
+      "link": "https://www.ratopati.com/story/605449/france-beats-turkey-2-1-to-move-to-top-spot",
+      "description": "काठमाडौँ । युइएफए नेसन्स लिग फुटबलअन्तर्गत समूह चरणको अन्तिम खेलमा फ्रान्सले टर्किएमाथि २–१ गोल अन्तरको रोमाञ्चक जित दर्ता गरेको छ । समूह ‘ए’ को छैटौँ खेलमा फ्रान्सलाई जित दिलाउन एली जुनियर क्रुपीले एक गोल गरे भने फ्रान्सले",
+      "published": "2026-11-15T21:44:53+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/france_SMhpW7Ukma.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "84be05623c4e5fc5",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 103.0,
+      "story_size": 1,
+      "image_local": "images/news_021646de7731825a2459.webp"
     },
     {
       "title": "राइजिङ स्टार्स एसिया कप खेल्ने नेपालको टोली घोषणा",
@@ -132,8 +430,27 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 113.9,
+      "score": 98.0,
       "story_size": 2
+    },
+    {
+      "title": "बेनीमा डेढ महिनापछि खानेपानी आपूर्ति",
+      "link": "https://www.ratopati.com/story/605448/drinking-water-supply-restored-in-beni-after-one-and-a-half-months",
+      "description": "म्याग्दी । म्याग्दीको सदरमुकाम बेनीबजारमा डाँडाखर्कको मुहानबाट डेढ महिनापछि खानेपानी आपूर्ति हुन थालेको छ । बेनी खानेपानी तथा सरसफाइ उपभोक्ता संस्थाले अन्नपूर्ण गाउँपालिका–८ रिठाखर्क र डाँडाखर्कको मुहानबाट बेनी बजारमा अस्थायी पाइप लाइन बनाएर खानेपानी आपूर्ति",
+      "published": "2026-11-15T20:21:52+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/yWmR7UVkXk.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "428bd3e59a48b1e3",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 97.5,
+      "story_size": 1,
+      "image_local": "images/news_ae61a42ec576e2a05677.jpg"
     },
     {
       "title": "छठ : बागमतीमा अस्ताउँदो सूर्यलाई अर्घ्य (फोटो फिचर)",
@@ -150,46 +467,8 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 112.1,
+      "score": 96.2,
       "story_size": 1
-    },
-    {
-      "title": "आगामी मंसिर १ गते राप्ती नदी दिवस मनाइँदै",
-      "link": "https://www.ratopati.com/story/605426/rapti-river-day-being-celebrated-on-mangsir-1",
-      "description": "चितवन । राप्ती नदीको संरक्षण र स्वच्छता प्रवर्द्धन गर्ने उद्देश्यले आगामी मंसिर १ गते राप्ती नदी दिवस मनाइँदैछ । चितवन उपत्यकामार्फत पूर्वदेखि पश्चिमसम्म बग्ने राप्ती दिवसका अवसरमा मकवानपुरको भीमफेदीबाट चितवनको गोलाघाटसम्म नदी किनारका विभिन्न स्थानमा",
-      "published": "2026-11-15T15:25:30+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/chitwan_map_hQtNsfDIYC.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "3f2fc40d2ef9ffe3",
-      "source_count": 1,
-      "verified": false,
-      "local": true,
-      "score": 111.7,
-      "story_size": 1,
-      "image_local": "images/news_32ad6bc46001c323f953.jpg"
-    },
-    {
-      "title": "राप्तीतटमा भक्तजनद्वारा अस्ताउँदो सूर्यलाई अर्घ्य दिई छठ मनाइयो",
-      "link": "https://www.ratopati.com/story/605424/devotees-celebrate-chhath-by-offering-argha-to-the-setting-sun-at-rapti-tat",
-      "description": "बागमती । हेटौँडाको राप्ती तटमा आज हजारौँ भक्तजनले अस्ताउँदो सूर्यलाई अर्घ्य चढाएका छन्। हेटौँडास्थित राप्ती नदी किनारको दायाँतर्फ निर्माण गरिएको पूजास्थलमा पुगी भक्तजनले अर्घ चढाएका हुन्। राप्ती तटमा आयोजित छठ विशेष कार्यक्रममा मकवानपुरका प्रमुख जिल्ला अधिकारी",
-      "published": "2026-11-15T15:17:46+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/chhath-festival-sirah--3638_mehYlygjOc.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "fda2fb26e69b051a",
-      "source_count": 1,
-      "verified": false,
-      "local": true,
-      "score": 111.1,
-      "story_size": 1,
-      "image_local": "images/news_096d7bea95b57ed8d512.webp"
     },
     {
       "title": "किसानको बाली जोगाउन प्रहरी खेतमा",
@@ -206,7 +485,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.0,
+      "score": 95.0,
       "story_size": 1,
       "image_local": "images/news_b7116bb1446547306dad.jpg"
     },
@@ -225,7 +504,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.4,
+      "score": 93.5,
       "story_size": 1,
       "image_local": "images/news_4c68a54660a24f360397.jpg"
     },
@@ -244,7 +523,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.1,
+      "score": 92.2,
       "story_size": 1,
       "image_local": "images/news_3bd4162a588ad005c712.jpg"
     },
@@ -263,7 +542,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.0,
+      "score": 89.0,
       "story_size": 1,
       "image_local": "images/news_c3d89be438b34df3bd75.webp"
     },
@@ -282,7 +561,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.0,
+      "score": 88.1,
       "story_size": 1,
       "image_local": "images/news_756b0aabbe793f576af0.jpg"
     },
@@ -302,7 +581,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 103.9,
+      "score": 88.0,
       "story_size": 2
     },
     {
@@ -320,7 +599,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.6,
+      "score": 87.6,
       "story_size": 1,
       "image_local": "images/news_d2e2f7b77946a11c996f.jpg"
     },
@@ -339,7 +618,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.2,
+      "score": 87.3,
       "story_size": 1,
       "image_local": "images/news_3d09985f46097fe41b26.jpg"
     },
@@ -359,7 +638,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 102.7,
+      "score": 86.8,
       "story_size": 2
     },
     {
@@ -377,7 +656,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.6,
+      "score": 86.7,
       "story_size": 1,
       "image_local": "images/news_9be40d7e88183c4f17e1.webp"
     },
@@ -396,7 +675,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.9,
+      "score": 85.0,
       "story_size": 1,
       "image_local": "images/news_830351bbe878af39f48a.webp"
     },
@@ -415,7 +694,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.8,
+      "score": 84.9,
       "story_size": 1
     },
     {
@@ -433,7 +712,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.3,
+      "score": 83.4,
       "story_size": 1,
       "image_local": "images/news_3dda22f398f8ef8b4daf.jpg"
     },
@@ -452,7 +731,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.3,
+      "score": 83.4,
       "story_size": 1,
       "image_local": "images/news_ba8519bdaf201c68ad99.webp"
     },
@@ -471,7 +750,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.2,
+      "score": 83.3,
       "story_size": 1
     },
     {
@@ -489,7 +768,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.2,
+      "score": 83.3,
       "story_size": 1,
       "image_local": "images/news_516839a5a693c4d61ac1.jpg"
     },
@@ -508,7 +787,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.2,
+      "score": 83.2,
       "story_size": 1,
       "image_local": "images/news_8b6e03115f0ce07ee788.jpg"
     },
@@ -527,7 +806,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.1,
+      "score": 83.2,
       "story_size": 1,
       "image_local": "images/news_8341f9582b9bc1f858ed.jpg"
     },
@@ -546,7 +825,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.7,
+      "score": 82.8,
       "story_size": 1,
       "image_local": "images/news_d13eb612e000dfc734e1.webp"
     },
@@ -565,7 +844,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.1,
+      "score": 82.2,
       "story_size": 1,
       "image_local": "images/news_3b43b9d3e0051c05447c.jpg"
     },
@@ -584,7 +863,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.1,
+      "score": 82.2,
       "story_size": 1,
       "image_local": "images/news_d38f17f07f96149a10c4.webp"
     },
@@ -603,7 +882,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.0,
+      "score": 82.1,
       "story_size": 1,
       "image_local": "images/news_c2cdf21e268315f7b9ff.jpg"
     },
@@ -622,7 +901,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.9,
+      "score": 82.0,
       "story_size": 1,
       "image_local": "images/news_d6d1084a77e37ab79c82.webp"
     },
@@ -641,7 +920,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.9,
+      "score": 82.0,
       "story_size": 1,
       "image_local": "images/news_af045a66000d775f33a3.jpg"
     },
@@ -660,27 +939,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.0,
+      "score": 81.0,
       "story_size": 1,
       "image_local": "images/news_0a337352f482d5d00dfc.webp"
-    },
-    {
-      "title": "छठ पर्व",
-      "link": "https://baahrakhari.com/detail/507399",
-      "description": "",
-      "published": "2026-11-15T22:36:47+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "986a4395ade3163f",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 96.4,
-      "story_size": 1
     },
     {
       "title": "बाचा पूरा नगरेको भन्दै मलंगवाका मेयर छठघाटबाटै लखेटिए",
@@ -697,7 +958,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.1,
+      "score": 80.2,
       "story_size": 1,
       "image_local": "images/news_cebbf72d856ee000d292.webp"
     },
@@ -716,7 +977,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.0,
+      "score": 80.1,
       "story_size": 1,
       "image_local": "images/news_3b694641e30c4de7e5bc.jpg"
     },
@@ -735,7 +996,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.8,
+      "score": 79.9,
       "story_size": 1,
       "image_local": "images/news_b502739734d96b69d9a1.webp"
     },
@@ -754,7 +1015,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.8,
+      "score": 79.9,
       "story_size": 1,
       "image_local": "images/news_0c75b6fc27a35bba1b2c.jpg"
     },
@@ -773,7 +1034,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 95.7,
+      "score": 79.8,
       "story_size": 1
     },
     {
@@ -791,46 +1052,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.6,
+      "score": 79.7,
       "story_size": 1,
       "image_local": "images/news_9b8a1c19ea487a7d41f4.jpg"
-    },
-    {
-      "title": "झापामा उल्लासमय बन्यो सामूहिक छठ पूजा",
-      "link": "https://www.ratopati.com/story/605430/mass-chhath-puja-becomes-festive-in-jhapa",
-      "description": "झापा । परिवारको सुख, शान्ति, समृद्धि र सुस्वास्थ्यको कामनासहित अस्ताउँदो सूर्यलाई अघ्र्य दिएर झापामा आइतबार सामूहिक छठ पर्व श्रद्धा र उल्लासका साथ मनाइएको छ। जिल्लाका मुख्य तथा सहायक नदी र पोखरीहरूमा साँझ श्रद्धालुहरूको उल्लेख्य घुइँचो",
-      "published": "2026-11-15T15:54:21+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/chhath-festival-sirah--3643_6waM2KKuDo.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "92be5cb82d57db10",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 95.6,
-      "story_size": 1,
-      "image_local": "images/news_fad3b28903006e606fb5.webp"
-    },
-    {
-      "title": "उत्तर कोरियाले ७८ वर्षपछि बदल्यो राष्ट्रिय झण्डाको आकार",
-      "link": "https://baahrakhari.com/detail/507398",
-      "description": "",
-      "published": "2026-11-15T22:21:37+05:45",
-      "source": "Baahrakhari",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "5463171db1436cc1",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 95.4,
-      "story_size": 1
     },
     {
       "title": "डडेल्धुरामा ट्याक्टर दुर्घटना, चालक र सहचालक घाइते",
@@ -847,47 +1071,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.4,
+      "score": 79.5,
       "story_size": 1,
       "image_local": "images/news_32c479089c6f26e4d293.jpg"
     },
     {
-      "title": "छठ पर्वमा नेशनल मेडिकल कलेजको स्वास्थ्य सेवा अभियान",
-      "link": "https://www.ratopati.com/story/605428/national-medical-colleges-health-service-campaign-during-chhath-festival",
-      "description": "वीरगञ्ज । छठ पर्वको अवसरमा नेशनल मेडिकल कलेज तथा शिक्षण अस्पताल, वीरगञ्ज ले श्रद्धालुहरूको स्वास्थ्य सुरक्षा तथा आकस्मिक स्वास्थ्य आवश्यकतालाई मध्यनजर गर्दै वीरगञ्जका पाँच प्रमुख छठ घाटमा मेडिकल पार्टनरका रूपमा स्वास्थ्य सेवा उपलब्ध गराएको छ। कलेजले",
-      "published": "2026-11-15T15:50:05+00:00",
-      "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/chhath_YzqTZcXjUp.webp",
+      "title": "बेमौसमी वर्षाले पोखरामा काटेको धान खेतमै भिज्यो, कृषक चिन्तित",
+      "link": "https://khabarhub.com/2026/15/1048109/",
+      "description": "कास्की – धान भित्र्याउने तयारीमा रहेका पोखराका किसानलाई आज साँझ परेको बेमौसमी वर्षाले समस्यामा पारेको छ । खेतमा काटेर सुकाउन राखिएको धान वर्षाका कारण जलमग्न भएपछि किसान चिन्तित बनेका छन् । पोखरामा आज साँझ परेको ठूलो वर्षाले काटेर खेतमै राखिएको धान भिजाएको हो । घाम लागिरहेका बेला एक्कासी वर्षा भएपछि धान भिजेर नोक्सान हुने चिन्तामा [&#8230;]",
+      "published": "2026-11-15T16:31:35+00:00",
+      "source": "Khabarhub",
+      "category": "tech",
+      "image": "",
       "related_sources": [
-        "Ratopati"
+        "Khabarhub"
       ],
-      "id": "6e4f169b5cb17235",
+      "id": "c479f453331f76d1",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.3,
-      "story_size": 1,
-      "image_local": "images/news_385300d48a7030eb1b37.webp"
-    },
-    {
-      "title": "एनपीएल : क्वालिफायरमा लुम्बिनी र सुदूरपश्चिम भिड्ने",
-      "link": "https://www.ratopati.com/story/605427/npl-lumbini-and-sudurpaschim-to-clash-in-qualifiers",
-      "description": "काठमाडौँ। नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करण अन्तर्गत लुम्बिनी लायन्स र सुदूरपश्चिम राेयल्स क्वालिफायरमा भिड्ने भएका छन्। आइतबार लिग चरणका सबै २८ खेल सकिएसँगै प्लेअफ समीकरण समेत तय भएकाे हाे। लिग चरणको अन्तिम खेलमा पोखरा",
-      "published": "2026-11-15T15:42:31+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/rohit-and-dipendra_H28289owOd.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "4c5d7ee015904561",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 94.8,
-      "story_size": 1,
-      "image_local": "images/news_6ff054ca2a21e9db8ee8.jpg"
+      "score": 79.1,
+      "story_size": 1
     },
     {
       "title": "भारतले पनि माग्यो बागडोग्रा एयरपोर्टका लागि नेपाली आकाश",
@@ -904,7 +1108,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.0,
+      "score": 78.0,
       "story_size": 1
     },
     {
@@ -922,7 +1126,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.0,
+      "score": 78.0,
       "story_size": 1
     },
     {
@@ -940,7 +1144,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.8,
+      "score": 77.9,
       "story_size": 1
     },
     {
@@ -958,7 +1162,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.8,
+      "score": 77.9,
       "story_size": 1
     },
     {
@@ -976,7 +1180,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.8,
+      "score": 77.9,
       "story_size": 1,
       "image_local": "images/news_0a8c01635b79eeb4f5de.jpg"
     },
@@ -995,7 +1199,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.7,
+      "score": 77.8,
       "story_size": 1
     },
     {
@@ -1013,7 +1217,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.7,
+      "score": 77.8,
       "story_size": 1
     },
     {
@@ -1031,7 +1235,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.6,
+      "score": 77.7,
       "story_size": 1
     },
     {
@@ -1049,7 +1253,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.6,
+      "score": 77.6,
       "story_size": 1
     },
     {
@@ -1067,7 +1271,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.5,
+      "score": 77.6,
       "story_size": 1
     },
     {
@@ -1085,7 +1289,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.4,
+      "score": 77.5,
       "story_size": 1
     },
     {
@@ -1103,27 +1307,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.4,
+      "score": 77.5,
       "story_size": 1
-    },
-    {
-      "title": "जोर्डनमा चर्चमाथि आक्रमण गर्ने तीन जनालाई मृत्युदण्ड",
-      "link": "https://www.ratopati.com/story/605425/three-sentenced-to-death-for-church-attack-in-jordan",
-      "description": "अम्मान । जोर्डनको एक अदालतले चर्चमा भएको घातक गोलीकाण्डमा संलग्न तीन जनालाई आइतबार मृत्युदण्डको सजाय सुनाएको छ । आक्रमणमा मारिएकाहरूप्रति शोक तथा पीडित परिवारसँग ऐक्यबद्धता जनाउँदै देशभरका क्रिसमस उत्सवसमेत रद्द गरिएको छ । गत अक्टोबर २३ मा",
-      "published": "2026-11-15T15:21:18+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/jordan-flag_uAdF2yFPDu.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "783efaed4188a320",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 93.4,
-      "story_size": 1,
-      "image_local": "images/news_8451209662b8cb47abd0.jpg"
     },
     {
       "title": "तीन दिनअघि गृहमन्त्री एक्लै गए, अहिले प्रहरी थपिए",
@@ -1140,7 +1325,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.3,
+      "score": 77.4,
       "story_size": 1
     },
     {
@@ -1158,7 +1343,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.3,
+      "score": 77.4,
       "story_size": 1
     },
     {
@@ -1176,7 +1361,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.3,
+      "score": 77.4,
       "story_size": 1
     },
     {
@@ -1194,7 +1379,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 93.3,
+      "score": 77.4,
       "story_size": 1
     },
     {
@@ -1212,7 +1397,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.2,
+      "score": 77.3,
       "story_size": 1
     },
     {
@@ -1230,27 +1415,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.1,
+      "score": 77.2,
       "story_size": 1
-    },
-    {
-      "title": "कोशी प्रदेशस्तरीय फुटबल : खोटाङ र झापा फाइनलमा",
-      "link": "https://www.ratopati.com/story/605423/koshi-province-level-football-khotang-and-jhapa-in-the-finals",
-      "description": "खोटाङ। दशौँ राष्ट्रिय खेलकुद प्रतियोगिता–२०८३ अन्तर्गत कोशी प्रदेशस्तरीय पुरुष फुटबल छनोट प्रतियोगितामा खोटाङ र झापा फाइनलमा प्रवेश गरेका छन्। सुनसरीको धरानमा आइतबार आयोजित पहिलो सेमिफाइनल खेलमा धनकुटालाई ट्राइबेकरमा ३–२ गोल अन्तरले पराजित गर्दै खोटाङ फाइनलमा प्रवेश",
-      "published": "2026-11-15T15:15:50+00:00",
-      "source": "Ratopati",
-      "category": "sports",
-      "image": "https://npcdn.ratopati.com/media/news/football_maa7Bb6qrE.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "2997a89182129765",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 93.0,
-      "story_size": 1,
-      "image_local": "images/news_dad56c25f19c58b41dde.jpg"
     },
     {
       "title": "सानो लक्ष्य पनि रक्षा गर्ने आत्मविश्वास छ : सुदूरपश्चिमका बलर हेमन्त धामी",
@@ -1267,7 +1433,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.9,
+      "score": 77.0,
       "story_size": 1,
       "image_local": "images/news_064357303e0d8cccee73.jpg"
     },
@@ -1286,46 +1452,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.8,
+      "score": 76.8,
       "story_size": 1
-    },
-    {
-      "title": "सन्दीपको कप्तानीमा १५ सदस्यीय नेपाली टोली घोषणा",
-      "link": "https://www.ratopati.com/story/605421/15-member-nepali-team-announced-under-sandeeps-captaincy",
-      "description": "काठमाडौँ । कतारमा आयोजना हुने एसीसी मेन्स एसिया कप राइजिङ स्टार्स २०२६ का लागि नेपालले १५ सदस्यीय टोली घोषणा गरेको छ । नेपाल क्रिकेट सङ्घ (क्यान) ले सार्वजनिक गरेको टोलीको कप्तानी राष्ट्रिय टोलीका लेग स्पिनर सन्दीप",
-      "published": "2026-11-15T15:08:43+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/sandip-lamichhane_PSCqIacuP5.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "3f3be0663ec9cf25",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 92.5,
-      "story_size": 1,
-      "image_local": "images/news_617fbb2ea054c6f31ea8.webp"
-    },
-    {
-      "title": "पोखराले काठमाण्डुलाई हराएसँगै सुदूरपश्चिम क्वालिफायरमा",
-      "link": "https://www.ratopati.com/story/605420/pokhara-advances-to-the-distant-qualifiers-after-defeating-kathmandu",
-      "description": "काठमाडौँ । तेस्रो संस्करणअन्तर्गत नेपाल प्रिमियर लिग (एनपीएल) क्रिकेटमा पोखरा एभेन्जर्सले काठमाण्डुलाई हराएसँगै सुदूरपश्चिम रोयल्स क्वालिफायरमा पुगेको छ । आइतबारको दोस्रो खेलमा पोखराले काठमाण्डुलाई ५५ रनले हरायो । पोखराले दिएको २२५ रनको कीर्तिमानी लक्ष्य पछ्याएको काठमाण्डु",
-      "published": "2026-11-15T14:54:42+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/ktm-pokhara_sOApz39zQY.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "fd5558a170b068ce",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 91.6,
-      "story_size": 1,
-      "image_local": "images/news_5db759a31b13761c5ac2.webp"
     },
     {
       "title": "शिक्षामन्त्री भन्छन्– जलवायु शिक्षालाई विद्यालयको पाठ्यक्रममा समावेश गर्दैछौं",
@@ -1342,27 +1470,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.5,
+      "score": 75.6,
       "story_size": 1
-    },
-    {
-      "title": "कालीगण्डकी करिडोर सडक पुन:अवरुद्ध",
-      "link": "https://www.ratopati.com/story/605419/kaligandaki-corridor-road-blocked-again",
-      "description": "गुल्मी । सुक्खा पहिरो गएपछि कालीगण्डकी करिडोर सडक पुनः अवरुद्ध बनेको छ । उक्त सडकअन्तर्गत गुल्मीको कालीगण्डकी गाउँपालिका–२ राक्से खण्डमा सडक माथिबाट सुक्खा पहिरो खसेपछि आज बेलुकादेखि सडक पूर्ण रूपमा अवरुद्ध बनेको हो । सडक सञ्चालन",
-      "published": "2026-11-15T14:53:34+00:00",
-      "source": "Ratopati",
-      "category": "business",
-      "image": "https://npcdn.ratopati.com/media/news/tcHIwneU0Q.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "1194675653934e1f",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 91.5,
-      "story_size": 1,
-      "image_local": "images/news_79e40cc81febbc2e505a.jpg"
     },
     {
       "title": "सूर्योदयको पर्खाइमा छठघाटमा जाग्राम बर्तालु",
@@ -1379,27 +1488,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.4,
+      "score": 75.5,
       "story_size": 1
-    },
-    {
-      "title": "बार्सिलोना स्टारलाई भित्र्याउन प्रिमियर लिग क्लबहरूको होडबाजी",
-      "link": "https://www.ratopati.com/story/605418/premier-league-clubs-vying-to-sign-barcelona-star",
-      "description": "बार्सिलोना । स्पेनिस क्लब बार्सिलोनाका मिडफिल्डर फर्मिन लोपेजको प्राविधिक क्षमतामा आएको उल्लेखनीय सुधार र पछिल्ला खेलहरूमा देखिएको सानदार प्रदर्शनसँगै उनलाई अनुबन्ध गर्न चाहने क्लबहरूको संख्या बढ्दै गएको छ । उनको उत्कृष्ट खेल र गोलले विश्वभरका थुप्रै",
-      "published": "2026-11-15T14:51:31+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/fermin-lopez_32fOQEdnd7.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "6026e4b8980add63",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 91.4,
-      "story_size": 1,
-      "image_local": "images/news_7dd70c9ead3c30100d40.webp"
     },
     {
       "title": "छठघाटमा सम्भावित दुर्घटना रोक्न सशस्त्र प्रहरी परिचालन",
@@ -1416,7 +1506,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.5,
+      "score": 74.6,
       "story_size": 1,
       "image_local": "images/news_4c2428bcb199ec52941e.jpg"
     },
@@ -1435,7 +1525,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.8,
+      "score": 73.9,
       "story_size": 1
     },
     {
@@ -1453,7 +1543,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.2,
+      "score": 73.3,
       "story_size": 1
     },
     {
@@ -1471,7 +1561,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.2,
+      "score": 73.2,
       "story_size": 1
     },
     {
@@ -1489,7 +1579,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.7,
+      "score": 72.8,
       "story_size": 1
     },
     {
@@ -1507,7 +1597,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.2,
+      "score": 72.3,
       "story_size": 1
     },
     {
@@ -1525,7 +1615,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.8,
+      "score": 71.9,
       "story_size": 1
     },
     {
@@ -1543,7 +1633,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.8,
+      "score": 70.8,
       "story_size": 1
     },
     {
@@ -1561,7 +1651,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.1,
+      "score": 70.2,
       "story_size": 1
     },
     {
@@ -1579,7 +1669,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.5,
+      "score": 69.6,
       "story_size": 1
     },
     {
@@ -1597,7 +1687,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.5,
+      "score": 69.6,
       "story_size": 1
     },
     {
@@ -1615,7 +1705,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.3,
+      "score": 68.4,
       "story_size": 1
     },
     {
@@ -1633,7 +1723,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.1,
+      "score": 68.2,
       "story_size": 1
     },
     {
@@ -1651,25 +1741,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.9,
-      "story_size": 1
-    },
-    {
-      "title": "कर्मवादमार्फत देशलाई समृद्धिको बाटोमा लैजानुपर्छ : अध्यक्ष दाहाल",
-      "link": "https://khabarhub.com/2026/15/1048083/",
-      "description": "काठमाडौँ&#8211; राष्ट्रियसभाका अध्यक्ष नारायणप्रसाद दाहालले कर्मवादमार्फत देशलाई समृद्धिको बाटोमा लैजानुपर्ने बताएका छन् । पत्रकार कृष्ण अधिकारीद्वारा लिखित ‘कर्मवाद, चिन्तन र अभ्यास’ पुस्तकको आज विमोचन गर्दै अध्यक्ष दाहालले अतिवाद त्यागेर कर्मवादमार्फत देशलाई समृद्धिको बाटोमा लैजानुपर्ने बताएका हुन् ।&#160; उनले ‘कर्मवाद, चिन्तन र अभ्यास’ पुस्तकले मानव जीवनमा कर्म, श्रम, नैतिकता, अनुशासन तथा सामाजिक उत्तरदायित्वको महत्वलाई दार्शनिक र [&#8230;]",
-      "published": "2026-11-15T13:37:16+00:00",
-      "source": "Khabarhub",
-      "category": "business",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "e0e61066dfe27721",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 83.4,
+      "score": 68.0,
       "story_size": 1
     },
     {
@@ -1687,7 +1759,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.4,
+      "score": 67.5,
       "story_size": 1
     },
     {
@@ -1705,7 +1777,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.9,
+      "score": 67.0,
       "story_size": 1
     },
     {
@@ -1723,25 +1795,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 82.9,
-      "story_size": 1
-    },
-    {
-      "title": "सौराहामा हात्ती सफारी गर्नेको सङ्ख्या बढ्यो",
-      "link": "https://khabarhub.com/2026/15/1048079/",
-      "description": "चितवन&#8211; सौराहामा हात्ती सफारी गर्ने पर्यटकको सङ्ख्या पछिल्लो समय बढिरहेको छ । एउटा हात्तीले दैनिक चार पटकसम्म पर्यटकलाई वन क्षेत्रमा घुमाउने गरेको छ । कोभिडपछि हात्ती चढ्न आउने पर्यटकको सङ्ख्या यस वर्ष बढी भएको पर्यटन व्यवसायीले जनाएका छन् । सौराहा आएका पर्यटक हात्ती चढेर बाघमारा, चित्रसेन र कुमरोज मध्यवर्ती सामुदायिक वन घुम्ने गर्दछन् । हात्तीबाट [&#8230;]",
-      "published": "2026-11-15T13:15:34+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "6dfb2e38428b5177",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 82.0,
+      "score": 67.0,
       "story_size": 1
     },
     {
@@ -1759,7 +1813,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.7,
+      "score": 65.8,
       "story_size": 1
     },
     {
@@ -1777,7 +1831,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.6,
+      "score": 65.7,
       "story_size": 1
     },
     {
@@ -1795,7 +1849,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.5,
+      "score": 65.6,
       "story_size": 1
     },
     {
@@ -1813,7 +1867,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 81.3,
+      "score": 65.3,
       "story_size": 1
     },
     {
@@ -1831,7 +1885,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.7,
+      "score": 64.8,
       "story_size": 1
     },
     {
@@ -1849,7 +1903,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.5,
+      "score": 64.6,
       "story_size": 1
     },
     {
@@ -1867,7 +1921,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 80.2,
+      "score": 64.3,
       "story_size": 1
     },
     {
@@ -1885,7 +1939,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.6,
+      "score": 63.6,
       "story_size": 1
     },
     {
@@ -1903,7 +1957,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.5,
+      "score": 63.6,
       "story_size": 1
     },
     {
@@ -1921,7 +1975,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 79.3,
+      "score": 63.3,
       "story_size": 1
     },
     {
@@ -1939,7 +1993,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.9,
+      "score": 63.0,
       "story_size": 1
     },
     {
@@ -1957,7 +2011,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.0,
+      "score": 62.1,
       "story_size": 1
     },
     {
@@ -1975,7 +2029,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 78.0,
+      "score": 62.0,
       "story_size": 1
     },
     {
@@ -1993,7 +2047,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.7,
+      "score": 61.8,
       "story_size": 1
     },
     {
@@ -2011,7 +2065,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.3,
+      "score": 61.4,
       "story_size": 1
     },
     {
@@ -2029,7 +2083,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 77.2,
+      "score": 61.3,
       "story_size": 1
     },
     {
@@ -2047,7 +2101,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 76.4,
+      "score": 60.5,
       "story_size": 1
     },
     {
@@ -2065,7 +2119,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.9,
+      "score": 60.0,
       "story_size": 1
     },
     {
@@ -2083,7 +2137,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 75.0,
+      "score": 59.1,
       "story_size": 1
     },
     {
@@ -2101,7 +2155,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.9,
+      "score": 59.0,
       "story_size": 1
     },
     {
@@ -2119,7 +2173,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.7,
+      "score": 58.8,
       "story_size": 1
     },
     {
@@ -2137,7 +2191,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.6,
+      "score": 57.6,
       "story_size": 1
     },
     {
@@ -2155,7 +2209,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 73.4,
+      "score": 57.5,
       "story_size": 1
     },
     {
@@ -2173,7 +2227,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 72.5,
+      "score": 56.6,
       "story_size": 1
     },
     {
@@ -2191,7 +2245,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 71.3,
+      "score": 55.4,
       "story_size": 1
     },
     {
@@ -2209,7 +2263,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 69.3,
+      "score": 53.4,
       "story_size": 1
     },
     {
@@ -2227,7 +2281,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.0,
+      "score": 52.1,
       "story_size": 1
     },
     {
@@ -2245,7 +2299,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 68.0,
+      "score": 52.1,
       "story_size": 1
     },
     {
@@ -2263,7 +2317,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.9,
+      "score": 52.0,
       "story_size": 1
     },
     {
@@ -2281,7 +2335,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.6,
+      "score": 51.7,
       "story_size": 1
     },
     {
@@ -2299,7 +2353,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.4,
+      "score": 51.5,
       "story_size": 1
     },
     {
@@ -2317,7 +2371,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 67.1,
+      "score": 51.2,
       "story_size": 1
     },
     {
@@ -2335,7 +2389,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 55.4,
+      "score": 39.5,
       "story_size": 1
     },
     {
@@ -2353,7 +2407,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 45.0,
+      "score": 29.0,
       "story_size": 1
     },
     {
@@ -2371,7 +2425,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 42.8,
+      "score": 26.9,
       "story_size": 1
     },
     {
@@ -2389,7 +2443,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 41.7,
+      "score": 25.8,
       "story_size": 1
     },
     {
