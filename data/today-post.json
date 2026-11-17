@@ -1,159 +1,161 @@
 {
   "date_np": "2026-11-17",
-  "generated_at": "2026-11-17T00:42:52.994400+00:00",
+  "generated_at": "2026-11-17T08:33:07.832612+00:00",
   "items": [
     {
-      "title": "आज यी प्रदेश र स्थानमा हुनेछ वर्षा र हिमपात",
-      "link": "https://kendrabindu.com/news/573303/",
-      "description": "काठमाडौं । देशका केही भूभागमा आज वर्षा र हिमपातको सम्भावना छ । कोसी र गण्डकी प्रदेशका केही स्थानमा वर्षा र हिमपातको पूर्वानुमान रहेको छ । नेपाल मौसम विज्ञान विभागका अनुसार दिउँसो कोसी, वाग्मती, गण्डकी र लुम्बिनी प्रदेशको हिमाली र पहाडी भूभागमा आंशिक बादल लाग्नेछ । बाँकी भूभागमा मौसम मुख्यतया सफा रहनेछ । कोसी प्रदेशको हिमाली [&#8230;]",
-      "published": "2026-11-17T00:36:08+00:00",
-      "source": "Kendrabindu",
-      "category": "nepal",
-      "image": "",
+      "title": "अन्तर्राष्ट्रिय शैक्षिक सहकार्य विस्तार गर्न त्रिविद्वारा ‘कन्ट्री फोकल पर्सन’ को आह्वान",
+      "link": "https://www.ratopati.com/story/605779/tu-calls-for-country-focal-person-to-expand-international-academic-collaboration",
+      "description": "काठमाडौँ । त्रिभुवन विश्वविद्यालय (त्रिवि) ले विश्वका विभिन्न मुलुकका विश्वविद्यालय तथा अनुसन्धान संस्थाहरूसँग शैक्षिक सहकार्य विस्तार गर्न ‘कन्ट्री फोकल पर्सन’ नियुक्तिका लागि आवेदन माग गरेको छ । सो विश्वविद्यालयको उपकुलपतिबाट नियुक्त हुने प्रावधानसहित अन्तरराष्ट्रिय सम्बन्ध केन्द्रले",
+      "published": "2026-11-17T08:30:15+00:00",
+      "source": "Ratopati",
+      "category": "world",
+      "image": "https://npcdn.ratopati.com/media/news/tribhuwan-university_wy1rk50crt_67nnt3rrft_xhrukeuukk_8vupetmw6k_2ISwH5xZcV.jpg",
       "related_sources": [
-        "Kendrabindu",
-        "Baahrakhari"
+        "Ratopati",
+        "OnlineKhabar"
       ],
-      "id": "bb73937876331c4e",
+      "id": "f7caf68372f43650",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.6,
+      "score": 136.8,
+      "story_size": 2,
+      "image_local": "images/news_608b25f6ed3e0631fff3.jpg"
+    },
+    {
+      "title": "उपत्यकामा स्वस्थ मासुमा छाप लगाउन थालियो",
+      "link": "https://www.ratopati.com/story/605774/healthy-meat-begins-to-be-stamped-in-the-valley",
+      "description": "काठमाडौं । काठमाडौं उपत्यकामा स्वस्थ मासुमा छाप लगाउने कार्य सुरु गरिएको छ । उपभोक्ताले स्वच्छ, सुरक्षित र गुणस्तरीय मासु उपभोग गर्न पाउने व्यवस्था सुनिश्चित गर्ने उद्देश्यले कृषि, वन तथा पर्यावरण मन्त्रालयले पशु बधशाला तथा मासु जाँच",
+      "published": "2026-11-17T08:17:28+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/masu-chhap_1ZVfakqlel.webp",
+      "related_sources": [
+        "Ratopati",
+        "Baahrakhari"
+      ],
+      "id": "f68b28793a2d387a",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 136.0,
+      "story_size": 2,
+      "image_local": "images/news_b96f886625bcc646138b.webp"
+    },
+    {
+      "title": "शक्तिशाली एल निनोले विश्वभर खडेरी, आगलागी र खाद्य सङ्कटको जोखिम",
+      "link": "https://www.ratopati.com/story/605767/strong-el-nino-raises-risk-of-drought-fires-and-food-shortages-worldwide",
+      "description": "काठमाडौँ । यस वर्ष विकसित शक्तिशाली एल निनोका कारण ब्राजिलमा जङ्गलमा आगलागी, इन्डोनेसियामा वन विनाश र पश्चिम अफ्रिकामा कृषि उत्पादन घट्ने जोखिम बढेको छ । यसले विश्वभर खाद्य सुरक्षामा समेत गम्भीर चुनौती थप्ने संयुक्त राष्ट्रसङ्घका",
+      "published": "2026-11-17T07:50:51+00:00",
+      "source": "Ratopati",
+      "category": "world",
+      "image": "https://npcdn.ratopati.com/media/news/khaderi-(19)_fjmgjrlinx_3nsOLt5xpc.jpg",
+      "related_sources": [
+        "Ratopati",
+        "Kendrabindu"
+      ],
+      "id": "95103e95094fe3f9",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 134.2,
+      "story_size": 2,
+      "image_local": "images/news_c7d786f412fdd7bb4534.jpg"
+    },
+    {
+      "title": "एमालेको स्थायी कमिटी बैठक सुरू (तस्बिरहरू)",
+      "link": "https://khabarhub.com/2026/17/1048570/",
+      "description": "काठमाडौं&#8211; नेकपा (एमाले)को स्थायी कमिटी बैठक च्यासलस्थित केन्द्रीय पार्टी कार्यालयमा सुरू भएको छ । एमालेले बुधबार र बिहीबार काठमाडौंमा आयोजना गरेको राष्ट्रिय भेलाको व्यवस्थापन र एजेण्डाका विषयमा आजको बैठकमा छलफल हुनेछ ।&#160; तस्बिर : नेपाल फोटो लाइब्रेरी",
+      "published": "2026-11-17T08:32:16+00:00",
+      "source": "Khabarhub",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Khabarhub",
+        "Setopati"
+      ],
+      "id": "59bc8050ca23a831",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 134.0,
       "story_size": 2
     },
     {
-      "title": "सर्वोच्चको अध्ययन प्रतिवेदन: क्षेत्राधिकार पुनरवलोकनको सुझाव",
-      "link": "https://gorkhapatraonline.com/news/229299",
-      "description": "काठमाडौँ, मङ्सिर १ गते । अदालतहरूमा मुद्दाको कार्यबोझ न्यूनीकरण तथा छिटो न्याय सम्पादनका लागि तीनै तहका अदालतको मौजुदा अधिकारक्षेत्र पुनरवलोकनको सुझाव न्याय प्रशासन सुधारसम्बन्धी अ...",
-      "published": "2026-11-17T06:26:23+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/391780/conversions/suprime_court1-original.jpg",
+      "title": "कर तिर्नु असल नागरिकको पहिचान",
+      "link": "https://khabarhub.com/2026/17/1048564/",
+      "description": "दाङ&#8211; उद्योग वाणिज्य सङ्घ, दाङका अध्यक्ष विनील केसीले कर तिर्नु असल नागरिकको पहिचान भएको बताएका छन् । उनले पन्ध्रौँ राष्ट्रिय कर दिवस–२०८३ का अवसरमा&#160; तुलसीपुरमा आज आयोजित सभामा धारणा राख्दै नागरिकबाट प्राप्त करले नै मुलुकको समृद्धि हुने जानकारी दिए ।&#160;&#160; आज आन्तरिक राजश्व कार्यालय, तुलसीपुरले १५औँ राष्ट्रिय कर दिवसका अवसरमा सचेतनाका लागि प्रभातफेरि कार्यक्रम गरी [&#8230;]",
+      "published": "2026-11-17T08:24:37+00:00",
+      "source": "Khabarhub",
+      "category": "business",
+      "image": "",
       "related_sources": [
+        "Khabarhub",
         "Gorkhapatra Online"
       ],
-      "id": "53d63ffafbbbe5c7",
-      "source_count": 1,
-      "verified": false,
+      "id": "aab95c4800033d58",
+      "source_count": 2,
+      "verified": true,
       "local": false,
-      "score": 112.9,
-      "story_size": 1,
-      "image_local": "images/news_1ba0c6d21950da844e96.jpg"
+      "score": 133.5,
+      "story_size": 2
     },
     {
-      "title": "प्राकृतिक सौन्दर्यले भरिपूर्ण डिल्पु कुण्ड ओझेलमा",
-      "link": "https://gorkhapatraonline.com/news/229298",
-      "description": "रसुवा, मङ्सिर १ गते । हिमाली जिल्ला रसुवा प्राकृतिक सौन्दर्य, धार्मिक आस्था र जैविक विविधतामा धनी रहेको छ । यहाँको गोसाइँकुण्ड र पार्वतीकुण्डजस्ता गन्तव्य स्वदेश तथा विदेशमा परिचित...",
-      "published": "2026-11-17T06:21:10+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/391779/conversions/1000122682-(1)-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "aff7646e984a7c60",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 112.6,
-      "story_size": 1,
-      "image_local": "images/news_e7af25a7400b2dad234f.jpg"
-    },
-    {
-      "title": "स्थानीय तह निर्वाचनको तयारी : दलहरूसँग छलफल गर्दै आयोग",
-      "link": "https://gorkhapatraonline.com/news/229297",
-      "description": "काठमाडौँ, मङ्सिर १ गते । निर्वाचन आयोगले आगामी स्थानीय तह निर्वाचनको आवश्यक तयारी र व्यवस्थापनबारे छलफल गर्न राष्ट्रिय मान्यता प्राप्त छ राजनीतिक दलहरूलाई छलफलका लागि बोलाएको छ । य...",
-      "published": "2026-11-17T06:20:59+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "politics",
-      "image": "https://gorkhapatraonline.com/storage/media/391778/conversions/345-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "80d0e74920f8e076",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 112.6,
-      "story_size": 1,
-      "image_local": "images/news_1ed5625b81c25dfef7ba.jpg"
-    },
-    {
-      "title": "नीतिगत व्यवस्थाले सहज बन्दै कार्बन व्यापार",
-      "link": "https://gorkhapatraonline.com/news/229296",
-      "description": "काठमाडौँ, मङ्सिर १ गते । नेपालले नीतिगत आधारहरू बलियो बनाएसँगै विश्वव्यापी कार्बन व्यापारमा जाने मार्ग थप सहज भएको छ । नेपालको नीतिगत सहजताकै कारण टर्किएको एनताल्यामा जारी जलवायु प...",
-      "published": "2026-11-17T06:15:54+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/391777/conversions/carbon-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "b819e09d499dd864",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 112.2,
-      "story_size": 1,
-      "image_local": "images/news_a712436291a4a84893d4.jpg"
-    },
-    {
-      "title": "पश्चिमी वायुको आंशिक प्रभाव कायमै, आज यी दुई प्रदेशमा हल्का वर्षाको सम्भावना",
-      "link": "https://www.ratopati.com/story/605675/partial-influence-of-westerly-winds-persists-light-rain-likely-in-these-two-provinces-today",
-      "description": "काठमाडौँ । हाल नेपालमा पश्चिमी वायुको आंशिक प्रभाव रहेको मौसम पूर्वानुमान महाशाखाले जनाएको छ । जसको प्रभावले देशको हिमाली भूभाग र कोशी प्रदेशको पहाडी भूभागमा आंशिक बादल लागेको छ । तराई भूभागका केही स्थानमा तुवाँलो लागेको",
-      "published": "2026-11-17T00:29:36+00:00",
+      "title": "दयाराम कार्कीले छाडे नेपाली कम्युनिस्ट पार्टी",
+      "link": "https://www.ratopati.com/story/605760/dayaram-karki-leaves-nepali-communist-party",
+      "description": "काठमाडौं । नेपाली कम्युनिस्ट पार्टीका बागमती प्रदेश कमिटी सदस्य तथा धादिङको थाक्रे गाउँपालिका पार्टी संयोजक दयाराम कार्कीले पार्टीको साधारण सदस्यतासमेत त्यागेका छन् । कार्कीले मंगलबार प्रदेश र जिल्ला कमिटीलाई राजीनामा पत्र बुझाउँदै पार्टीका सबै जिम्मेवारी र",
+      "published": "2026-11-17T07:31:48+00:00",
       "source": "Ratopati",
       "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/rain_rDpXgxB6yl.webp",
+      "image": "https://npcdn.ratopati.com/media/news/dayaram-karki_ZFQOaerD3N.webp",
       "related_sources": [
         "Ratopati"
       ],
-      "id": "98d39d74f06d2e96",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 112.1,
-      "story_size": 1,
-      "image_local": "images/news_ea7fe3d42f0a698b612a.webp"
-    },
-    {
-      "title": "प्रश्नको कठघरामा जनप्रतिनिधि: निकुञ्जदेखि विद्यालयसम्मका गुनासा",
-      "link": "https://www.ratopati.com/story/605662/public-representatives-under-questioning-complaints-from-parks-to-schools",
-      "description": "मकवानपुर । सभाहलमा स्थानीयको भीड थियो । कसैको हातमा प्रश्न थियो, कसैको मनमा वर्षौँदेखिको गुनासो । अगाडि जनप्रतिनिधि थिए । छेउमा कर्मचारी । त्यसको बीचमा थियो–सार्वजनिक सुनुवाइको खुला मञ्च । हेटौँडा उपमहानगरपालिका–१३ का नागरिकले सोमबार यही",
-      "published": "2026-11-16T19:48:14+00:00",
-      "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/makwanpur-district-map_0bibmupn5n_jWBM8R97zw.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "0485aad930f86308",
+      "id": "1495165a2977cdd4",
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 111.4,
+      "score": 126.9,
       "story_size": 1,
-      "image_local": "images/news_6d450e239a41fdd51edd.webp"
+      "image_local": "images/news_fa7e28011167bc7c96e9.webp"
     },
     {
-      "title": "सामूहिक फूलखेतीले दिलाएको सफलता...",
-      "link": "https://www.ratopati.com/story/605674/the-success-of-collective-flower-farming",
-      "description": "तनहुँ । तिहारमा सयपत्री फूलको माग बढेसँगै तनहुँको आँबुखैरेनीका किसानले रु ११ लाख बराबरको फूल बिक्री गरेका छन् । स्थानीयस्तरमै उत्पादन भएको सयपत्री फूलले बजार पाएपछि व्यावसायिक फूलखेतीमा आबद्ध किसान उत्साहित भएका छन् । आँबुखैरेनी गाउँपालिका–१",
-      "published": "2026-11-16T23:57:59+00:00",
+      "title": "मानव बेचबिखन विधेयक थप परिमार्जन गर्न सांसदहरूको माग, ‘वेश्यागमन’ शब्द हटाउन सुझाव",
+      "link": "https://www.ratopati.com/story/605778/mps-demand-further-amendments-to-the-human-trafficking-bill-suggest-removing-the-word-prostitution",
+      "description": "काठमाडौँ । संसद्को महिला तथा सामाजिक मामिला समितिमा ‘मानव बेचबिखन तथा ओसारपसार (नियन्त्रण) (पहिलो संशोधन) विधेयक, २०८३’ माथि भएको सैद्धान्तिक छलफलमा सांसदहरूले यसलाई थप परिमार्जन गरी पीडितमैत्री बनाउनुपर्नेमा जोड दिएका छन्। वैदेशिक रोजगारीको आवरणमा हुने मानव",
+      "published": "2026-11-17T08:29:08+00:00",
       "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/04-kamala-thapa-flower-business-photo-story_npl-13_QGK6syWTEU.webp",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/gd_ktm_dg_9841_gYxNDaOZ5p.webp",
       "related_sources": [
         "Ratopati"
       ],
-      "id": "58bfe730f1728bb5",
+      "id": "132447427a4cfc6f",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.0,
+      "score": 112.8,
+      "story_size": 1
+    },
+    {
+      "title": "एमाले स्थायी कमिटी बैठक सुरु, तस्बिरमा हेर्नुहोस्",
+      "link": "https://www.ratopati.com/story/605777/uml-standing-committee-meeting-begins-see-photos",
+      "description": "काठमाडौं । नेकपा एमालेको स्थायी कमिटीको दोस्रो बैठक सुरु भएको छ । पार्टी केन्द्रीय कार्यालय च्यासलमा मंगलबार दिउँसो २ बजेदेखि बैठक सुरु भएको हो । भोलिदेखि सुरु हुने राष्ट्रिय कार्यकर्ता भेलाको तयारीस्वरूप एमालेले स्थायी कमिटी बैठक",
+      "published": "2026-11-17T08:26:36+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/oli-bidhya_53fpcidHps.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "71d896ad669ca801",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.6,
       "story_size": 1,
-      "image_local": "images/news_d60b5cc083fad61c6b2d.webp"
+      "image_local": "images/news_16313faf0460efdb7b71.webp"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. आज यी प्रदेश र स्थानमा हुनेछ वर्षा र हिमपात\nस्रोत: Kendrabindu, Baahrakhari\nhttps://kendrabindu.com/news/573303/\n\n2. सर्वोच्चको अध्ययन प्रतिवेदन: क्षेत्राधिकार पुनरवलोकनको सुझाव\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/229299\n\n3. प्राकृतिक सौन्दर्यले भरिपूर्ण डिल्पु कुण्ड ओझेलमा\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/229298\n\n4. स्थानीय तह निर्वाचनको तयारी : दलहरूसँग छलफल गर्दै आयोग\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/229297\n\n5. नीतिगत व्यवस्थाले सहज बन्दै कार्बन व्यापार\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/229296\n\n6. पश्चिमी वायुको आंशिक प्रभाव कायमै, आज यी दुई प्रदेशमा हल्का वर्षाको सम्भावना\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/605675/partial-influence-of-westerly-winds-persists-light-rain-likely-in-these-two-provinces-today\n\n7. प्रश्नको कठघरामा जनप्रतिनिधि: निकुञ्जदेखि विद्यालयसम्मका गुनासा\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/605662/public-representatives-under-questioning-complaints-from-parks-to-schools\n\n8. सामूहिक फूलखेतीले दिलाएको सफलता...\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/605674/the-success-of-collective-flower-farming\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. अन्तर्राष्ट्रिय शैक्षिक सहकार्य विस्तार गर्न त्रिविद्वारा ‘कन्ट्री फोकल पर्सन’ को आह्वान\nस्रोत: Ratopati, OnlineKhabar\nhttps://www.ratopati.com/story/605779/tu-calls-for-country-focal-person-to-expand-international-academic-collaboration\n\n2. उपत्यकामा स्वस्थ मासुमा छाप लगाउन थालियो\nस्रोत: Ratopati, Baahrakhari\nhttps://www.ratopati.com/story/605774/healthy-meat-begins-to-be-stamped-in-the-valley\n\n3. शक्तिशाली एल निनोले विश्वभर खडेरी, आगलागी र खाद्य सङ्कटको जोखिम\nस्रोत: Ratopati, Kendrabindu\nhttps://www.ratopati.com/story/605767/strong-el-nino-raises-risk-of-drought-fires-and-food-shortages-worldwide\n\n4. एमालेको स्थायी कमिटी बैठक सुरू (तस्बिरहरू)\nस्रोत: Khabarhub, Setopati\nhttps://khabarhub.com/2026/17/1048570/\n\n5. कर तिर्नु असल नागरिकको पहिचान\nस्रोत: Khabarhub, Gorkhapatra Online\nhttps://khabarhub.com/2026/17/1048564/\n\n6. दयाराम कार्कीले छाडे नेपाली कम्युनिस्ट पार्टी\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/605760/dayaram-karki-leaves-nepali-communist-party\n\n7. मानव बेचबिखन विधेयक थप परिमार्जन गर्न सांसदहरूको माग, ‘वेश्यागमन’ शब्द हटाउन सुझाव\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/605778/mps-demand-further-amendments-to-the-human-trafficking-bill-suggest-removing-the-word-prostitution\n\n8. एमाले स्थायी कमिटी बैठक सुरु, तस्बिरमा हेर्नुहोस्\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/605777/uml-standing-committee-meeting-begins-see-photos\n\n— I Am From Hetauda"
 }
