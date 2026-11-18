@@ -1,165 +1,159 @@
 {
-  "date_np": "2026-11-17",
-  "generated_at": "2026-11-17T17:55:15.300086+00:00",
+  "date_np": "2026-11-18",
+  "generated_at": "2026-11-18T00:49:30.452982+00:00",
   "items": [
     {
-      "title": "मन्त्री मेहताद्वारा स्वास्थ्य संस्थाको अनुगमन",
-      "link": "https://www.thahakhabar.com/detail/312072",
+      "title": "फोहर बिक्रीबाट व्यास नगरपालिकालाई नौ लाख आम्दानी",
+      "link": "https://www.thahakhabar.com/detail/312073",
       "description": "",
-      "published": "2026-11-17T22:29:49+05:45",
-      "source": "Thaha Khabar",
-      "category": "politics",
-      "image": "https://www.thahakhabar.com/uploads/posts/nisha-mehata-1786017299.jpg",
-      "related_sources": [
-        "Thaha Khabar",
-        "Khabarhub",
-        "Ratopati"
-      ],
-      "id": "7f06b286579ea983",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 142.3,
-      "story_size": 3,
-      "image_local": "images/news_c34164a8588b18d1ba0e.jpg"
-    },
-    {
-      "title": "चिया उद्योगमा आगलागीबाट ३० लाखको क्षति",
-      "link": "https://www.thahakhabar.com/detail/312071",
-      "description": "",
-      "published": "2026-11-17T22:18:04+05:45",
+      "published": "2026-11-18T05:50:47+05:45",
       "source": "Thaha Khabar",
       "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/aaglagi-ago-1767347396.jpg",
-      "related_sources": [
-        "Thaha Khabar",
-        "Khabarhub",
-        "Ratopati"
-      ],
-      "id": "d357a29afb1a8e95",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 141.6,
-      "story_size": 3,
-      "image_local": "images/news_e6bd23cf844063df0b16.jpg"
-    },
-    {
-      "title": "सभामुख अर्यालसंग फ्रान्स–नेपाल संसदीय समूहका अध्यक्ष पिरोनको शिष्टाचार भेट",
-      "link": "https://khabarhub.com/2026/17/1048788/",
-      "description": "काठमाडौं – सभामुख डोलप्रसाद (डीपी) अर्यालसँग फ्रान्सेली संसद्को प्रतिनिधि सभाअन्तर्गत फ्रान्स–नेपाल संसदीय समूहकी अध्यक्ष महामहिम बियाट्रिस पिरोनले शिष्टाचार भेटवार्ता गरेकी छन् । भेटका क्रममा सभामुख अर्यालले नेपाल र फ्रान्सबीच सन् १९४९ अप्रिल २० मा कूटनीतिक सम्बन्ध स्थापना भएयता द्विपक्षीय सम्बन्ध सुमधुर रहँदै आएको उल्लेख गर्दै फ्रान्ससँगको सम्बन्धलाई नेपालले उच्च महत्त्व प्रदान गर्ने बताए । उनले [&#8230;]",
-      "published": "2026-11-17T15:53:35+00:00",
-      "source": "Khabarhub",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
-        "Thaha Khabar",
-        "Gorkhapatra Online"
-      ],
-      "id": "091faddaf59d0211",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 135.9,
-      "story_size": 3
-    },
-    {
-      "title": "बाल विवाहलाई पुनःपरिभाषित गर्न माग",
-      "link": "https://khabarhub.com/2026/17/1048804/",
-      "description": "काठमाडाैं &#8211; मुलुकी अपराध संहिता, २०७४ लाई संशोधन गर्न बनेको प्रस्तावित विधेयकमा विवाहको उमेर १८ वर्ष कायम गर्न र बालविवाहलाई पुनः परिभाषित गर्न सुझाव दिइएको छ । संविधानको मर्मअनुरूप कानुन निर्माण गर्न विवाहको उमेरसम्बन्धी व्यवस्था स्पष्ट बनाउनुपर्नेमा सरोकारवालाले जोड दिएका हुन् । महिला, कानुन र विकास मञ्च र इक्विलिटी नाउले मंगलबार संयुक्त रूपमा आयोजना गरेको [&#8230;]",
-      "published": "2026-11-17T16:58:32+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
-        "Ratopati"
-      ],
-      "id": "c6b28a6b81f86f0c",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 130.3,
-      "story_size": 2
-    },
-    {
-      "title": "इरानद्वारा बहराइनमा पुनः ड्रोन आक्रमण, खाडी क्षेत्रमा तनाव चुलियो",
-      "link": "https://khabarhub.com/2026/17/1048795/",
-      "description": "तेहरान – इरानले मंगलबार बहराइनमाथि पुनः ड्रोन आक्रमण गरेको छ । पाँच दिनभित्र बहराइनमाथि तीन पटक आक्रमण भएपछि खाडी क्षेत्रमा तनाव बढेको छ । यसैबीच, अमेरिकाविरुद्ध ‘डर्टी बम’ प्रयोग गर्ने योजना बनाएको भन्ने आरोपलाई इरानले अस्वीकार गरेको छ । सीएनएनले सात जना अमेरिकी अधिकारीलाई उद्धृत गर्दै इरानले अमेरिकी प्रशासनका वरिष्ठ अधिकारीलाई लक्षित गरी रासायनिक वा [&#8230;]",
-      "published": "2026-11-17T16:20:42+00:00",
-      "source": "Khabarhub",
-      "category": "world",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
-        "Ratopati"
-      ],
-      "id": "423972aa957bd5f3",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 127.7,
-      "story_size": 2
-    },
-    {
-      "title": "विपद्पछि होइन, नीतिमै विज्ञान जोड्न नेपालको आग्रह",
-      "link": "https://www.thahakhabar.com/detail/312069",
-      "description": "",
-      "published": "2026-11-17T21:20:10+05:45",
-      "source": "Thaha Khabar",
-      "category": "society",
-      "image": "https://www.thahakhabar.com/uploads/posts/1000227616-1794929687.jpg",
+      "image": "https://www.thahakhabar.com/uploads/posts/Vyas-fohor-1794960337.png",
       "related_sources": [
         "Thaha Khabar",
         "Ratopati"
       ],
-      "id": "b6722a07b422909e",
+      "id": "6df055c37da41a46",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 127.7,
+      "score": 134.1,
       "story_size": 2,
-      "image_local": "images/news_86fad3a9e9c0634f1d4d.jpg"
+      "image_local": "images/news_5eae656ac8b28da099d7.png"
     },
     {
-      "title": "प्रधानमन्त्रीको भारत भ्रमण : नेपालगञ्ज दिल्ली सिधा हवाई उडानका लागि ध्यानाकर्षण",
-      "link": "https://khabarhub.com/2026/17/1048791/",
-      "description": "बाँके – प्रधानमन्त्री बालेन्द्र शाहको आसन्न भारत भ्रमणका क्रममा नेपालगञ्ज – दिल्ली सिधा हवाई उडानको व्यवस्था मिलाउन ध्यानाकर्षण गराइएको छ । नेपालगञ्ज उद्योग वाणिज्य सङ्घको नेतृत्वमा बाँकेका सबै राजनीतिक दल, नागरिक समाजका अगुवाले प्रमुख जिल्ला अधिकारी दिलकुमार तामाङलाई मंगलबार नेपालगञ्जमा ज्ञापनपत्र बुझाउँदै सो ध्यानाकर्षण गराइएको हो । राजनीतिक दलसहितका व्यवसायीहरुले ध्यानाकर्षण पत्रमा नेपालगञ्ज दिल्ली सिधा [&#8230;]",
-      "published": "2026-11-17T16:09:17+00:00",
-      "source": "Khabarhub",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
-        "Ratopati"
-      ],
-      "id": "811838f59157e945",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 127.0,
-      "story_size": 2
-    },
-    {
-      "title": "विपद् सूचना प्रणालीलाई स्थानीय तहसम्म विस्तार गरिँदै",
-      "link": "https://www.onlinekhabar.com/2026/11/2059916/disaster-information-system-being-expanded-to-the-local-level",
-      "description": "१ मंसिर, काठमाडौं । राष्ट्रिय विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरणले एकीकृत विपद् सूचना प्रणालीलाई स्थानीय तह र जिल्लासम्म विस्तार गर्ने योजना अघि बढाएको छ । टर्किएमा जारी जलवायु परिवर्तनसम्बन्धी संयुक्त राष्ट्रसङ्घीय पक्ष राष्ट्रको ३१औँ सम्मेलन (कोप–३१) अन्तर्गत आज आयोजित एक प्यानल छलफलमा प्राधिकरणका कार्यकारी प्रमुख डा. धर्मराज उप्रेतीले प्राधिकरणले व्यवस्थापन गरिरहेको एकीकृत डाटा पोर्टलमा [&#8230;]",
-      "published": "2026-11-17T15:43:16+00:00",
+      "title": "सन् २०२७ देखि पर्वतीय जलवायु कार्यक्रम सञ्चालन गर्न नेपालको प्रस्ताव",
+      "link": "https://www.onlinekhabar.com/2026/11/2059938/nepal-proposes-to-operate-a-mountain-climate-program-from-2027",
+      "description": "२ मंसिर, टर्किए । नेपालले पर्वतीय क्षेत्र र जलवायु परिवर्तनसम्बन्धी छुट्टै कार्यक्रम सन् २०२७ देखि सञ्चालन गर्न तथा त्यसको कार्यक्षेत्र र कार्यान्वयन विधि स्पष्ट पार्न कोप–३१ को निर्णय मस्यौदामा तीन बुँदे प्रस्ताव पेस गर्ने भएको छ । जलवायु परिवर्तनका कारण पर्वतीय क्षेत्र र हिमनदीमा निर्भर समुदायले भोगिरहेका जोखिम सम्बोधन गर्ने उद्देश्यले कोप–३१ को अध्यक्षताको परामर्शमा [&#8230;]",
+      "published": "2026-11-18T00:45:35+00:00",
       "source": "OnlineKhabar",
-      "category": "society",
+      "category": "nepal",
       "image": "",
       "related_sources": [
         "OnlineKhabar",
         "Ratopati"
       ],
-      "id": "e6a8e2c8e42697d9",
+      "id": "000a04607d93cf2c",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 125.2,
+      "score": 133.8,
       "story_size": 2
+    },
+    {
+      "title": "कोसी र गण्डकी प्रदेशका केही स्थानमा वर्षाको सम्भावना",
+      "link": "https://kendrabindu.com/news/573703/",
+      "description": "काठमाडौं । देशका केही स्थानमा आज वर्षाको सम्भावना छ । केही भूभागमा हिमपातको पनि सम्भावना छ । नेपाल मौसम विज्ञान विभागका अनुसार दिउँसो कोसी, वाग्मती, गण्डकी र लुम्बिनी प्रदेशको हिमाली र पहाडी भूभागमा आंशिक बादल लाग्नेछ । बाँकी भूभागमा मौसम मुख्यतया सफा रहनेछ । कोसी र गण्डकी प्रदेशको हिमाली भूभागको एकदुई स्थानमा हल्का वर्षा/हिमपातको सम्भावना [&#8230;]",
+      "published": "2026-11-18T00:43:35+00:00",
+      "source": "Kendrabindu",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu",
+        "Baahrakhari"
+      ],
+      "id": "ff34f6d597693a4e",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 133.6,
+      "story_size": 2
+    },
+    {
+      "title": "विदेशको रोजगारी छाडेर गाउँमै भैँसीपालन, घिउ बेचेर वार्षिक तीन लाख बचत",
+      "link": "https://www.onlinekhabar.com/2026/11/2059933/leaving-foreign-employment-raising-buffaloes-in-the-village-and-selling-ghee-to-save-rs-3-lakh-annually",
+      "description": "विदेशमा लामो समय काम गर्दा परिवारबाट टाढा बस्नुपरेको अनुभवले उनलाई स्वदेशमै केही गर्ने प्रेरणा मिल्यो । अहिले परिवारसँगै बसेर आफ्नै पेसा गर्न पाउँदा उनी सन्तुष्ट छन् । उनको गोठमा अहिले १६ वटा भैँसी छन् । तीमध्ये पाँचवटा दुहुना छन् ।",
+      "published": "2026-11-18T00:36:40+00:00",
+      "source": "OnlineKhabar",
+      "category": "world",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar",
+        "Ratopati"
+      ],
+      "id": "badad0b811aef891",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 133.2,
+      "story_size": 2
+    },
+    {
+      "title": "हुलाकी सडकले फेरिँदै दुर्गम गाउँको मुहार",
+      "link": "https://khabarhub.com/2026/18/1048813/",
+      "description": "राँझा– हुलाकी सडक निर्माणसँगै बाँकेका दुर्गम गाउँको आवागमन सहज भएको छ । सडक सञ्जाल विस्तार भएपछि राप्ती सोनारी गाउँपालिकाका बैजापुर, बिनौना र फत्तेपुर तथा नरैनापुर क्षेत्रका बासिन्दालाई सदरमुकाम नेपालगञ्ज आउजाउ गर्न सहज भएको छ । हुलाकी सडकले राप्ती सोनारीको बैजापुरदेखि नरैनापुरको सुइया बघौडासम्मका क्षेत्रलाई नेपालगञ्जसँग सिधा जोडेको छ । विगतमा दुर्गम मानिने नरैनापुरबाट अहिले आधा [&#8230;]",
+      "published": "2026-11-18T00:30:20+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub",
+        "Ratopati"
+      ],
+      "id": "23e30838a722f167",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 132.7,
+      "story_size": 2
+    },
+    {
+      "title": "पश्चिमी वायुको आंशिक प्रभाव कायमै, आज यी दुई प्रदेशमा हल्का वर्षाको सम्भावना",
+      "link": "https://www.ratopati.com/story/605919/partial-influence-of-westerly-winds-persists-light-rain-likely-in-these-two-provinces-today",
+      "description": "काठमाडौँ । हाल नेपालमा पश्चिमी वायुको आंशिक प्रभाव रहेको मौसम पूर्वानुमान महाशाखाले जनाएको छ । जसको प्रभावले कोशी, बागमती र गण्डकी प्रदेशको हिमाली र पहाडी भूभागमा साधरणतया बादल लागेको छ । लुम्बिनी प्रदेशको पहाडी भूभागमा",
+      "published": "2026-11-18T00:31:27+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/rain_rDpXgxB6yl.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "f49537505e28b65e",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 129.8,
+      "story_size": 1,
+      "image_local": "images/news_ea7fe3d42f0a698b612a.webp"
+    },
+    {
+      "title": "पहाडी तथा हिमाली क्षेत्रमा आंशिक बदली",
+      "link": "https://gorkhapatraonline.com/news/229418",
+      "description": "काठमाडौँ, मङ्सिर २ गते । हाल मुलुकमा पश्चिमी वायुको आंशिक प्रभाव रहेको तथा त्यसका प्रभावले कोशी, बागमती र गण्डकी प्रदेशका हिमाली तथा पहाडी भूभागमा साधारणतया बादल लागेको छ भने लुम्ब...",
+      "published": "2026-11-18T06:12:38+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "politics",
+      "image": "https://gorkhapatraonline.com/storage/media/391956/conversions/day_2_1794913450046-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "da00bfa73661e192",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 129.6,
+      "story_size": 1,
+      "image_local": "images/news_3db6ee62d433ba1e9f4c.jpg"
+    },
+    {
+      "title": "कस्तो रहला आजको मौसम ?",
+      "link": "https://www.onlinekhabar.com/2026/11/2059925/how-was-the-weather-today-3",
+      "description": "२ मंसिर, काठमाडौं । हाल नेपालमा पश्चिमी वायुको आंशिक प्रभाव रहेको छ । त्यसको प्रभावले कोशी, बागमती र गण्डकी प्रदेशका हिमाली तथा पहाडी भूभागमा साधारणतया बादल लागेको छ । लुम्बिनी प्रदेशको पहाडी भागमा आंशिक बदली भएको छ । तराईका केही स्थानमा तुवाँलो लागेको छ भने बाँकी भागको मौसम सफा छ । मौसम पूर्वानुमान महाशाखाका अनुसार [&#8230;]",
+      "published": "2026-11-18T00:21:15+00:00",
+      "source": "OnlineKhabar",
+      "category": "society",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "581d9253ec130d0e",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 126.1,
+      "story_size": 1
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. मन्त्री मेहताद्वारा स्वास्थ्य संस्थाको अनुगमन\nस्रोत: Thaha Khabar, Khabarhub, Ratopati\nhttps://www.thahakhabar.com/detail/312072\n\n2. चिया उद्योगमा आगलागीबाट ३० लाखको क्षति\nस्रोत: Thaha Khabar, Khabarhub, Ratopati\nhttps://www.thahakhabar.com/detail/312071\n\n3. सभामुख अर्यालसंग फ्रान्स–नेपाल संसदीय समूहका अध्यक्ष पिरोनको शिष्टाचार भेट\nस्रोत: Khabarhub, Thaha Khabar, Gorkhapatra Online\nhttps://khabarhub.com/2026/17/1048788/\n\n4. बाल विवाहलाई पुनःपरिभाषित गर्न माग\nस्रोत: Khabarhub, Ratopati\nhttps://khabarhub.com/2026/17/1048804/\n\n5. इरानद्वारा बहराइनमा पुनः ड्रोन आक्रमण, खाडी क्षेत्रमा तनाव चुलियो\nस्रोत: Khabarhub, Ratopati\nhttps://khabarhub.com/2026/17/1048795/\n\n6. विपद्पछि होइन, नीतिमै विज्ञान जोड्न नेपालको आग्रह\nस्रोत: Thaha Khabar, Ratopati\nhttps://www.thahakhabar.com/detail/312069\n\n7. प्रधानमन्त्रीको भारत भ्रमण : नेपालगञ्ज दिल्ली सिधा हवाई उडानका लागि ध्यानाकर्षण\nस्रोत: Khabarhub, Ratopati\nhttps://khabarhub.com/2026/17/1048791/\n\n8. विपद् सूचना प्रणालीलाई स्थानीय तहसम्म विस्तार गरिँदै\nस्रोत: OnlineKhabar, Ratopati\nhttps://www.onlinekhabar.com/2026/11/2059916/disaster-information-system-being-expanded-to-the-local-level\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. फोहर बिक्रीबाट व्यास नगरपालिकालाई नौ लाख आम्दानी\nस्रोत: Thaha Khabar, Ratopati\nhttps://www.thahakhabar.com/detail/312073\n\n2. सन् २०२७ देखि पर्वतीय जलवायु कार्यक्रम सञ्चालन गर्न नेपालको प्रस्ताव\nस्रोत: OnlineKhabar, Ratopati\nhttps://www.onlinekhabar.com/2026/11/2059938/nepal-proposes-to-operate-a-mountain-climate-program-from-2027\n\n3. कोसी र गण्डकी प्रदेशका केही स्थानमा वर्षाको सम्भावना\nस्रोत: Kendrabindu, Baahrakhari\nhttps://kendrabindu.com/news/573703/\n\n4. विदेशको रोजगारी छाडेर गाउँमै भैँसीपालन, घिउ बेचेर वार्षिक तीन लाख बचत\nस्रोत: OnlineKhabar, Ratopati\nhttps://www.onlinekhabar.com/2026/11/2059933/leaving-foreign-employment-raising-buffaloes-in-the-village-and-selling-ghee-to-save-rs-3-lakh-annually\n\n5. हुलाकी सडकले फेरिँदै दुर्गम गाउँको मुहार\nस्रोत: Khabarhub, Ratopati\nhttps://khabarhub.com/2026/18/1048813/\n\n6. पश्चिमी वायुको आंशिक प्रभाव कायमै, आज यी दुई प्रदेशमा हल्का वर्षाको सम्भावना\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/605919/partial-influence-of-westerly-winds-persists-light-rain-likely-in-these-two-provinces-today\n\n7. पहाडी तथा हिमाली क्षेत्रमा आंशिक बदली\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/229418\n\n8. कस्तो रहला आजको मौसम ?\nस्रोत: OnlineKhabar\nhttps://www.onlinekhabar.com/2026/11/2059925/how-was-the-weather-today-3\n\n— I Am From Hetauda"
 }
