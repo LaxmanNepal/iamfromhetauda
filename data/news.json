@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T17:29:26.940586+00:00",
+  "updated_at": "2026-11-18T23:32:17.039818+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -16,44 +16,156 @@
   ],
   "items": [
     {
-      "title": "एआई प्रयोगमा व्यवसायलाई जिम्मेवार बनाउँदै न्युजिल्यान्ड",
-      "link": "https://www.ratopati.com/story/606117/new-zealand-holding-businesses-accountable-for-ai-use",
-      "description": "न्युजिल्यान्डको कमर्स कमिसनले व्यवसायमा कृत्रिम बुद्धिमत्ता (एआई) को प्रयोग गर्दा प्रतिस्पर्धा तथा उपभोक्ता संरक्षणसम्बन्धी कानुनी व्यवस्था कसरी लागू हुन्छ भन्ने विषयमा नयाँ निर्देशिका जारी गरेको छ । कमर्स कमिसनकी उपाध्यक्ष एनी क्यालिननले बुधबार जारी गरेको विज्ञप्तिमा",
-      "published": "2026-11-18T14:15:27+00:00",
-      "source": "Ratopati",
-      "category": "tech",
-      "image": "https://npcdn.ratopati.com/media/news/ai-chip_AFayAhQ4Y8.webp",
-      "related_sources": [
-        "Ratopati",
-        "OnlineKhabar",
-        "Kendrabindu"
-      ],
-      "id": "1f281b589126b175",
-      "source_count": 3,
-      "verified": true,
-      "local": false,
-      "score": 134.1,
-      "story_size": 3,
-      "image_local": "images/news_b482b5330d5a46fd7e77.webp"
-    },
-    {
-      "title": "युक्रेनको ओडेसामा रुसी आक्रमण, चारजनाको मृत्यु",
-      "link": "https://baahrakhari.com/detail/507681",
+      "title": "मुस्ताङमा पहिलो चौमासिकमा एक लाख १२ हजार पर्यटक",
+      "link": "https://baahrakhari.com/detail/507685",
       "description": "",
-      "published": "2026-11-18T23:10:20+05:45",
+      "published": "2026-11-18T23:45:09+05:45",
       "source": "Baahrakhari",
-      "category": "world",
+      "category": "nepal",
       "image": "",
       "related_sources": [
         "Baahrakhari",
+        "Khabarhub",
+        "Thaha Khabar"
+      ],
+      "id": "32bd4f1f58f9b736",
+      "source_count": 3,
+      "verified": true,
+      "local": false,
+      "score": 121.9,
+      "story_size": 3
+    },
+    {
+      "title": "बिहीबार यस्तो छ विदेशी मुद्राको विनिमय दर",
+      "link": "https://www.ratopati.com/story/606158/this-is-the-foreign-exchange-rate-on-thursday",
+      "description": "काठमाडौँ । नेपाल राष्ट्र बैङ्कले आजका लागि विदेशी मुद्राको विनिमय दर निर्धारण गरेको छ । राष्ट्र बैङ्कका अनुसार अमेरिकी डलर एकको खरिददर १४९ रुपैयाँ २१ पैसा र बिक्रीदर १४९ रुपैयाँ ८१ पैसा निर्धारण गरिएको छ",
+      "published": "2026-11-18T23:30:00+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://npcdn.ratopati.com/media/news/forex_g5zWyL63Qc.webp",
+      "related_sources": [
         "Ratopati"
       ],
-      "id": "ece5d146b0c4eab6",
+      "id": "8e2cc5f746c96feb",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.9,
+      "story_size": 1,
+      "image_local": "images/news_f2c6dcc1e8de2c3cb7a1.webp"
+    },
+    {
+      "title": "कस्तो रहला तपाईँको दिन ? हेर्नुहोस् आजकाे राशिफल",
+      "link": "https://www.ratopati.com/story/606154/how-was-your-day-check-out-todays-horoscope",
+      "description": "आजको पञ्चाङ्ग वि.सं.२०८३ साल मंसिर ३ गते । बिहीबार । इस्वी सन् २०२६ नोभेम्बर १९ तारिख । नेपाल संवत् ११४७ । रौद्र संवत्सर । दक्षिणायन । हेमन्त ऋतु । श्रीशाके १९४८ । कार्तिक शुक्लपक्ष । तिथि–दशमी,",
+      "published": "2026-11-18T23:15:00+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/horoscope_yWVgb1BJAO.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "30001dcea6c8bd15",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 111.9,
+      "story_size": 1,
+      "image_local": "images/news_2650b0a7cbeed83b26dd.jpg"
+    },
+    {
+      "title": "चोरीका गरगहना र नगदसहित पक्राउ",
+      "link": "https://baahrakhari.com/detail/507683",
+      "description": "",
+      "published": "2026-11-18T23:29:52+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari",
+        "Khabarhub"
+      ],
+      "id": "c1eb36a873495484",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.8,
+      "score": 110.8,
       "story_size": 2
+    },
+    {
+      "title": "म्याग्दी प्रहरीको ‘ब्राबोसेरा’ अभियान",
+      "link": "https://www.ratopati.com/story/606161/myagdi-polices-brabocera-campaign",
+      "description": "म्याग्दी । वन्यजन्तुको अवैध चोरीसिकार तथा आपराधिक गतिविधि नियन्त्रण गर्ने उद्देश्यले म्याग्दी प्रहरीले सञ्चालन गरेको ‘ब्राबोसेरा’ अभियान प्रभावकारी बन्दै गएको छ । अभियानमार्फत हालसम्म जिल्लाका विभिन्न स्थानबाट इजाजतबिना लुकाईछिपाई राखिएका १७२ थान भरुवा बन्दुक बरामद भएका",
+      "published": "2026-11-18T22:45:00+00:00",
+      "source": "Ratopati",
+      "category": "society",
+      "image": "https://rpcdn.ratopati.com/media/albums/myagdi_Yxx1IewRfU.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "895284f8e91fc53a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.9,
+      "story_size": 1,
+      "image_local": "images/news_dbce385863c9420be26d.jpg"
+    },
+    {
+      "title": "आज यस्तो छ विदेशी मुद्राको विनिमयदर",
+      "link": "https://www.onlinekhabar.com/2026/11/2060685/todays-foreign-exchange-rate-is-52",
+      "description": "३ मंसिर, काठमाडौं । नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १४९ रुपैयाँ २१ पैसा र बिक्रीदर १४९ रुपैयाँ ८१ पैसा निर्धारण गरिएको छ । युरोपियन युरो एकको खरिददर १६३ रुपैयाँ ७५ पैसा र बिक्रीदर १६४ रुपैयाँ ४१ पैसा छ । युके पाउन्ड [&#8230;]",
+      "published": "2026-11-18T23:23:44+00:00",
+      "source": "OnlineKhabar",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "a12f5477930677d0",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 109.4,
+      "story_size": 1
+    },
+    {
+      "title": "परम्परागत खेतीभन्दा उखु खेतीमा दोब्बर आम्दानी",
+      "link": "https://www.ratopati.com/story/606159/sugarcane-farming-yields-double-the-income-compared-to-traditional-farming",
+      "description": "कञ्चनपुर । परम्परागत रूपमा धान, गहुँलगायतका खाद्यान्न बाली लगाउँदै आएका कञ्चनपुरका किसान उखु खेतीतर्फ आकर्षित भएका छन् । अन्य बालीको तुलनामा दोब्बर आम्दानी हुने भएपछि किसान उखु खेतीमा आकर्षित भएका हुन । कञ्चनपुरको भीमदत्त नगरपालिका–७ का",
+      "published": "2026-11-18T22:10:09+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/10-sugarcane-ksheti_npl_suresh-ray-(11)_R3pvGQigqs.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "11cba22853222d1e",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 107.5,
+      "story_size": 1,
+      "image_local": "images/news_ece8f81d911f7bc07cb8.webp"
+    },
+    {
+      "title": "एपिएफ महिला गोल्डकपको फाइनलमा",
+      "link": "https://www.ratopati.com/story/606160/into-the-finals-of-the-apf-womens-gold-cup",
+      "description": "सुनसरी । नेपाल आर्मी फुटबल क्लबलाई २–० गोलले पराजित गर्दै सशस्त्र प्रहरी बल (एपिएफ) क्लब प्रथम धरान अन्तर्राष्ट्रिय आमन्त्रण महिला गोल्डकप फुटबल प्रतियोगिताको फाइनलमा प्रवेश गरेको छ । धरान उपमहानगरपालिका–१६ स्थित धरान रङ्गशालामा बुधबार राति सम्पन्न",
+      "published": "2026-11-18T21:50:59+00:00",
+      "source": "Ratopati",
+      "category": "tech",
+      "image": "https://rpcdn.ratopati.com/media/albums/Football-in-goal_sLruBmXUNl.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "e3ba6d27b52c4f64",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 106.3,
+      "story_size": 1,
+      "image_local": "images/news_8bcdf7627c00ccef5dea.jpg"
     },
     {
       "title": "मलेसिया श्रमिक ठगी प्रकरण : दुई पूर्वमन्त्रीसहित ६ जना पक्राउ",
@@ -71,47 +183,27 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 129.6,
+      "score": 105.4,
       "story_size": 2
     },
     {
-      "title": "मुस्ताङमा पहिलो चौमासिकमा एक लाख १२ हजार पर्यटक",
-      "link": "https://khabarhub.com/2026/18/1049158/",
-      "description": "मुस्ताङ – चालु आर्थिक वर्षको पहिलो चौमासिकमा एक लाख १२ हजार ४८ पर्यटक मुस्ताङ भित्रिएका छन् । साउनदेखि कात्तिकसम्म मुस्ताङ भित्रिने पर्यटकमध्ये ५७ हजार ८३१ नेपाली र ५४ हजार २१७ विदेशी रहेका जिल्ला प्रहरी कार्यालय मुस्ताङले जनाएको छ । जिल्ला प्रहरी कार्यालयका प्रहरी निरीक्षक एवं सूचना अधिकारी सन्तोष बस्यालका अनुसार उक्त अवधिमा बेनी–जोमसोम सडकमार्ग हुँदै [&#8230;]",
-      "published": "2026-11-18T15:55:47+00:00",
-      "source": "Khabarhub",
+      "title": "भौगर्भिक सम्मेलन आजदेखि",
+      "link": "https://www.ratopati.com/story/606157/geological-conference-from-today",
+      "description": "काठमाडौँ । नेपाल भौगर्भिक समाजको आयोजनामा १२औँ नेपाल भौगर्भिक सम्मेलन आजदेखि यहाँ सुरु हुँदै छ । समाजका महासचिव शिवकुमार बाँस्कोटाले आज मङ्सिर ३ देखि ५ गतेसम्म सम्मेलनको आयोजना गरिएको जानकारी दिए । अन्तर्राष्ट्रिय सम्मेलनमा विभिन्न २७",
+      "published": "2026-11-18T21:24:38+00:00",
+      "source": "Ratopati",
       "category": "nepal",
-      "image": "",
+      "image": "https://npcdn.ratopati.com/media/setting/banner-image_sPOGzj8QHe.jpg",
       "related_sources": [
-        "Khabarhub",
-        "Thaha Khabar"
-      ],
-      "id": "408b233caaa1edaf",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 127.8,
-      "story_size": 2
-    },
-    {
-      "title": "काठमान्डुलाई ६१ रनले हराउँदै चितवन दोस्रो क्वालिफायरमा",
-      "link": "https://gorkhapatraonline.com/news/229507",
-      "description": "काठमाडौँ, मङ्सिर २ गते । कमिल मिसराको कीर्तिमानी शतक र बलरहरूको कसिलो प्रदर्शनमा काठमान्डु गोर्खाजलाई ६१ रनले पराजित गर्दै चितवन राइनोज नेपाल प्रिमियर लिग (एनपिएल) को दोस्रो क्वालि...",
-      "published": "2026-11-18T20:56:35+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/392073/conversions/63e648eb-29c8-4cf3-bc1a-6beeefb13e86-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online",
         "Ratopati"
       ],
-      "id": "029d6e436ab31a9c",
-      "source_count": 2,
-      "verified": true,
+      "id": "8c8f20d273e8b5c7",
+      "source_count": 1,
+      "verified": false,
       "local": false,
-      "score": 127.8,
-      "story_size": 2,
-      "image_local": "images/news_5126e2d1d3c476fee6eb.jpg"
+      "score": 104.5,
+      "story_size": 1,
+      "image_local": "images/news_31088225b6e74eec8103.jpg"
     },
     {
       "title": "सर्वोच्च अदालतबाट पशुपति गौशाला धर्मशालासम्बन्धी फैसला सदर, स्वामित्व कोषकै मातहत",
@@ -129,8 +221,65 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 127.0,
+      "score": 102.8,
       "story_size": 2
+    },
+    {
+      "title": "कोपमा २७ करोड डलरको जलवायु वित्त प्रतिबद्धता, थप दाताको प्रतीक्षा",
+      "link": "https://www.ratopati.com/story/606156/270-million-climate-finance-commitment-at-cop-more-donors-awaited",
+      "description": "काठमाडौँ । टर्किएको अन्ताल्यामा जारी संयुक्त राष्ट्रसङ्घीय जलवायु सम्मेलन (कोप–३१) मा ११ वटा देश तथा सम्बद्ध पक्षले जलवायु वित्तका लागि करिब २७ करोड ३० लाख अमेरिकी डलर बराबरको सहयोग उपलब्ध गराउने प्रतिबद्धता जनाएका छन् । जलवायु",
+      "published": "2026-11-18T20:52:45+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://npcdn.ratopati.com/media/news/cope-31_wuW353EtE9.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "560bc6d42f4f05f3",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 102.4,
+      "story_size": 1,
+      "image_local": "images/news_606efcab2f61d707da61.webp"
+    },
+    {
+      "title": "पूजाआजाका सामग्री शुद्ध हुनुपर्नेमा जोड",
+      "link": "https://www.ratopati.com/story/606155/emphasis-on-purity-of-worship-materials",
+      "description": "काठमाडौँ । धार्मिक एवं सांस्कृतिक कर्ममा प्रयोग गरिने पूजा सामग्री शुद्ध हुनुपर्नेमा सरोकारवालाले जोड दिएका छन् । गुरु मञ्जरी अष्ट्रेलियाले बुधबार राजधानीमा आयोजना गरेको शुद्ध पूजा सामग्री उत्पादनका लागि गुरु पुरोहितसँगको अन्तरक्रियामा नेपाल पञ्चाङ्ग निर्णायक विकास",
+      "published": "2026-11-18T20:42:57+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/15-mha-puja-1076_RRLt2fbqUM.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "94b8babf2cb409db",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 101.7,
+      "story_size": 1,
+      "image_local": "images/news_63527a3e31d9608c700e.webp"
+    },
+    {
+      "title": "यौनजन्य हिंसाविरुद्ध सचेतना कक्षा",
+      "link": "https://www.ratopati.com/story/606153/awareness-class-against-sexual-violence",
+      "description": "पर्सा । यौनजन्य हिंसा न्यूनीकरणका लागि पर्साका चार विद्यालयका ३०२ विद्यार्थीलाई सचेतनामूलक कक्षा सञ्चालन गरिएको छ । अपराध अनुसन्धान विभागको ७१औँ स्थापना दिवसका अवसरमा जिल्ला प्रहरी कार्यालयले सञ्चालन गरेको तीन दिने अभियानअन्तर्गत बुधबार दोस्रो दिन विद्यार्थीलाई",
+      "published": "2026-11-18T20:29:15+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/parsa_2glcmyd7j0_2aMfxmuNuL.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "33692e5fc250c078",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 100.8,
+      "story_size": 1,
+      "image_local": "images/news_106d400740d78f6b9960.jpg"
     },
     {
       "title": "काठमान्डुलाई हराउँदै चितवन दोस्रो क्वालिफायरमा, फाइनल पुग्न सुदूरपश्चिमसँग खेल्ने",
@@ -148,27 +297,27 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 124.0,
+      "score": 99.8,
       "story_size": 2
     },
     {
-      "title": "नापजाँचको १२ वर्षपछि सर्लाहीका २७५ परिवारले पाए लालपुर्जा",
-      "link": "https://khabarhub.com/2026/18/1049143/",
-      "description": "काठमाडौं – सर्लाहीको विष्णु गाउँपालिका–५ र ६ का २७५ स्ववासी परिवारले जग्गाको नापजाँच सम्पन्न भएको करिब १२ वर्षपछि जग्गाधनी प्रमाणपुर्जा (लालपुर्जा) प्राप्त गरेका छन् । साविक सिमरा गाविसका वडा नं १ देखि ७ सम्मका ती परिवारले लामो समयदेखि भोगचलन गर्दै आएको जग्गाको कानुनी स्वामित्व पाएका हुन् । नापी कार्यालय सर्लाहीले आवश्यक कानुनी प्रक्रिया पूरा गरी [&#8230;]",
-      "published": "2026-11-18T14:27:13+00:00",
-      "source": "Khabarhub",
+      "title": "कोप–३३ सम्म जलवायु लक्ष्य कार्यान्वयनमा तीव्रता दिन आग्रह",
+      "link": "https://www.ratopati.com/story/606152/urges-to-accelerate-implementation-of-climate-goals-by-cop-33",
+      "description": "काठमाडौँ । संयुक्त राष्ट्रसङ्घीय जलवायु परिवर्तनसम्बन्धी महासन्धि (युएनएफसिसिसी) का कार्यकारी सचिव साइमन स्टिलले जलवायु परिवर्तनसम्बन्धी विश्वव्यापी लक्ष्य कार्यान्वयनका लागि आगामी दुई वर्ष निर्णायक हुने बताएका छन् । कोप–३१ अन्तर्गत बुधबार दोस्रो विश्वव्यापी जलवायु समीक्षा (ग्लोबल स्टकटक)",
+      "published": "2026-11-18T19:37:27+00:00",
+      "source": "Ratopati",
       "category": "nepal",
-      "image": "",
+      "image": "https://npcdn.ratopati.com/media/news/rast_Xkb1X2yzZr.webp",
       "related_sources": [
-        "Khabarhub",
         "Ratopati"
       ],
-      "id": "d6671cd990caa0c4",
-      "source_count": 2,
-      "verified": true,
+      "id": "a2c8e576da1f1b27",
+      "source_count": 1,
+      "verified": false,
       "local": false,
-      "score": 121.9,
-      "story_size": 2
+      "score": 97.3,
+      "story_size": 1,
+      "image_local": "images/news_1a29131c336b3bb27390.webp"
     },
     {
       "title": "जलवायु विपद् र असुरक्षाका कारण सोमालियामा विस्थापन बढ्दै : संयुक्त राष्ट्रसङ्घ",
@@ -186,7 +335,26 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 120.9,
+      "score": 96.7,
+      "story_size": 2
+    },
+    {
+      "title": "एआई प्रयोगमा व्यवसायलाई जिम्मेवार बनाउँदै न्युजिल्यान्ड",
+      "link": "https://www.onlinekhabar.com/2026/11/2060587/new-zealand-holding-businesses-accountable-for-ai-use",
+      "description": "कमर्स कमिसनकी उपाध्यक्ष एनी क्यालिननले बुधबार जारी गरेको विज्ञप्तिमा एआईले व्यवसाय सञ्चालनको शैलीमा परिवर्तन ल्याए पनि यसले व्यवसायको कानुनी दायित्वमा कुनै परिवर्तन नगर्ने बताएका छन् ।",
+      "published": "2026-11-18T13:54:08+00:00",
+      "source": "OnlineKhabar",
+      "category": "tech",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar",
+        "Kendrabindu"
+      ],
+      "id": "0d5b9a12aa96cd0b",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 95.5,
       "story_size": 2
     },
     {
@@ -205,9 +373,141 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 119.6,
+      "score": 95.4,
       "story_size": 2,
       "image_local": "images/news_da42e95d977dcc69dd1f.jpg"
+    },
+    {
+      "title": "लक्ष्यभन्दा बढी राजस्व सङ्कलन",
+      "link": "https://www.ratopati.com/story/606151/revenue-collection-exceeding-target",
+      "description": "पर्सा । वीरगन्ज भन्सार कार्यालयले चालु आर्थिक वर्षको कात्तिक महिनामा लक्ष्यभन्दा बढी राजस्व सङ्कलन गरेको छ । कार्यालयका अनुसार गत कात्तिकमा रु १७ अर्ब ७९ करोड राजस्व सङ्कलन भएको छ । सो महिनामा रु १७ अर्ब",
+      "published": "2026-11-18T19:00:21+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://npcdn.ratopati.com/media/news/birgunj-bhansar-karyalaya-birgunj-custam_uvWQdfwQ7r.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "6443cac2e4e6b2aa",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 94.9,
+      "story_size": 1,
+      "image_local": "images/news_4ee737336e2381030a76.jpg"
+    },
+    {
+      "title": "धनगढीमा खाना महोत्सव आयोजना हुने",
+      "link": "https://www.ratopati.com/story/606150/food-festival-to-be-held-in-dhangadhi",
+      "description": "सुदूरपश्चिम । स्थानीय मौलिक खानाका परिकारको संरक्षण, प्रवर्द्धनमार्फत सुदूरपश्चिमको पर्यटन विकासमा टेवा पुर्‍याउने उद्देश्यले कैलालीको धनगढीमा खाना महोत्सव आयोजना गरिने भएको छ । बुधबार आयोजित पत्रकार सम्मेलनमा धनगढी उपमहानगरपालिका र होटल व्यवसायी सङ्घ कैलालीको संयुक्त आयोजनामा",
+      "published": "2026-11-18T18:45:09+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://rpcdn.ratopati.com/media/albums/dhangadhi_dSJfRqwSQi.JPG",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "4f49410b88d98ba9",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 93.9,
+      "story_size": 1,
+      "image_local": "images/news_72feb55757c8404855ab.jpg"
+    },
+    {
+      "title": "डिसेम्बर ३ मा रिलिज हुँदै वेब सिरिज ‘पञ्चायत सिजन ५’",
+      "link": "https://www.ratopati.com/story/606149/web-series-panchayat-season-5-to-be-released-on-december-3",
+      "description": "काठमाडौँ । लोकप्रिय हिन्दी वेब सिरिज ‘पञ्चायत’ को बहुप्रतीक्षित पाँचौँ सिजन आगामी डिसेम्बर ३ देखि प्रसारण हुने भएको छ । डिजिटल प्लेटफर्म ‘प्राइम भिडियो’ ले बुधबार सिरिजको आधिकारिक रिलिज मिति घोषणा गरेको हो । ‘द भाइरल",
+      "published": "2026-11-18T18:39:51+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/panchayat-5_8fMBNNDLxt.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "e17001d3394b4e54",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 93.5,
+      "story_size": 1,
+      "image_local": "images/news_54877ad89d8404b67c6c.webp"
+    },
+    {
+      "title": "भारतीय टिमलाई आईसीसीको जरिवाना, म्याच फिको ३५ प्रतिशत काटिने",
+      "link": "https://www.ratopati.com/story/606148/icc-fines-indian-team-deducts-35-percent-of-match-fee",
+      "description": "काठमाडौँ । न्युजिल्यान्डविरुद्धको पाँचौँ एक दिवसीय खेलमा तोकिएको समयभित्र बलिङ पूरा गर्न नसकेपछि अन्तर्राष्ट्रिय क्रिकेट परिषद् (आईसीसी) ले भारतीय टोलीलाई म्याच फिको ३५ प्रतिशत जरिवाना तिराएको छ । भारत र न्युजिल्यान्डबिच आज (बिहीबार) देखि दुई खेलको",
+      "published": "2026-11-18T18:30:24+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/india-vs-nz_0CTbOHcfNa.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "cf457bf24b7fefda",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 92.9,
+      "story_size": 1,
+      "image_local": "images/news_908d265ef5a5fd97c3b0.webp"
+    },
+    {
+      "title": "१२ बजे १२ समाचार : पूर्वमन्त्री मुछिएको ठगी प्रकरणको फेहरिस्तदेखि ओलीमा अहंकार घटेनसम्म",
+      "link": "https://www.ratopati.com/story/606147/12-oclock-12-news-from-the-list-of-fraud-cases-involving-former-ministers-to-olis-arrogance",
+      "description": "काठमाडौँ । आज दिनभरका मुख्य–मुख्य घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति ‘१२ बजे १२ समाचार’मा प्रस्तुत गरेका छौँ– १. पूर्वमन्त्रीसहित ६ जना पक्राउ ठगी तथा संगठित अपराधसम्बन्धी कसुरमा नेपाल प्रहरीले पूर्वमन्त्रीसहित ६ जनालाई पक्राउ गरेको छ । नेपाल प्रहरीको",
+      "published": "2026-11-18T18:15:00+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/12-news-cover_mIcKWxPovl.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "1d570886f2f1cfdf",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 91.9,
+      "story_size": 1,
+      "image_local": "images/news_cfcec0face459eb09e22.webp"
+    },
+    {
+      "title": "अमेरिकी प्रतिनिधि सभाको सभामुख पदका लागि डेमोक्र्याट्सद्वारा हकिम जेफ्रिज मनोनीत",
+      "link": "https://www.ratopati.com/story/606146/democrats-nominate-hakeem-jeffries-for-speaker-of-the-us-house-of-representatives",
+      "description": "काठमाडौँ । अमेरिकी प्रतिनिधि सभाका डेमोक्रेटिक पार्टीका सांसदहरूले हकिम जेफ्रिजलाई आधिकारिक रूपमा सभामुख (स्पिकर) पदका लागि मनोनीत गरेका छन् । यस निर्णयसँगै उनी अमेरिकी प्रतिनिधि सभाको नेतृत्व गर्ने पहिलो अश्वेत सांसद बन्ने बाटो खुलेको छ",
+      "published": "2026-11-18T17:45:01+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/hakim-jhprej_USU08yf4EN.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "a50f1c4d154e212a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 89.9,
+      "story_size": 1,
+      "image_local": "images/news_07f896a5e5c4ef6f2853.webp"
+    },
+    {
+      "title": "लागुऔषध र गोलीसहित दुई भारतीय नागरिक पक्राउ",
+      "link": "https://baahrakhari.com/detail/507686",
+      "description": "",
+      "published": "2026-11-18T23:55:04+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "63bdc67011158933",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 88.5,
+      "story_size": 1
     },
     {
       "title": "मधेस प्रदेशमा उल्लेख्य बजेट विनियोजन भएको छ: मन्त्री लम्साल",
@@ -224,7 +524,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.2,
+      "score": 88.0,
       "story_size": 1,
       "image_local": "images/news_39735e32f4398100cff1.webp"
     },
@@ -243,9 +543,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.0,
+      "score": 87.8,
       "story_size": 1,
       "image_local": "images/news_935b1e7a2df13c180687.jpg"
+    },
+    {
+      "title": "हुम्लामा पहिलोपटक ३९ किलोमिटर सडक कालोपत्रे हुँदै, दुई अर्बको ठेक्का सम्झौता",
+      "link": "https://baahrakhari.com/detail/507684",
+      "description": "",
+      "published": "2026-11-18T23:36:27+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "27273a924ba2a09a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 87.3,
+      "story_size": 1
     },
     {
       "title": "मलेसिया जाने कामदारको स्वास्थ्य परीक्षण : दुई पूर्वमन्त्रीको कसुर के हो ?",
@@ -262,9 +580,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.6,
+      "score": 86.4,
       "story_size": 1,
       "image_local": "images/news_186e135edf5f631a7b78.webp"
+    },
+    {
+      "title": "नाम्पा हिमाल",
+      "link": "https://baahrakhari.com/detail/507682",
+      "description": "",
+      "published": "2026-11-18T23:22:25+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "fa99ef350f4e4b4c",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 86.3,
+      "story_size": 1
     },
     {
       "title": "मिशाराको कीर्तिमानी शतकमा चितवन दोस्रो क्वालिफायरमा, काठमाण्डु बाहिरियो",
@@ -281,7 +617,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.8,
+      "score": 85.6,
       "story_size": 1,
       "image_local": "images/news_e8545023c46d95c252c5.webp"
     },
@@ -300,7 +636,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.6,
+      "score": 85.3,
       "story_size": 1,
       "image_local": "images/news_6779d88444431e971c6a.webp"
     },
@@ -319,7 +655,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.4,
+      "score": 85.1,
       "story_size": 1,
       "image_local": "images/news_0eee7747c75e55fdbf47.jpg"
     },
@@ -338,7 +674,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.3,
+      "score": 85.1,
       "story_size": 1,
       "image_local": "images/news_c24d92a6951bd2579f5d.jpg"
     },
@@ -357,27 +693,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.2,
+      "score": 85.0,
       "story_size": 1,
       "image_local": "images/news_e7d00eb951178a6ab709.jpg"
-    },
-    {
-      "title": "जुम्लाबाट ब्राउन सुगरजस्तो पदार्थसहित दुई युवक पक्राउ",
-      "link": "https://baahrakhari.com/detail/507680",
-      "description": "",
-      "published": "2026-11-18T23:00:50+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "81ad054e6ada07cf",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.1,
-      "story_size": 1
     },
     {
       "title": "नेपाली सफ्टवेयरको प्रवद्र्धन गर्न सरकारी नीतिमै परिवर्तन आवश्यक : दिपेन चापागाईँ [भिडियो]",
@@ -394,7 +712,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.1,
+      "score": 84.9,
       "story_size": 1,
       "image_local": "images/news_0b6531f863a1ce88f391.jpg"
     },
@@ -413,7 +731,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.0,
+      "score": 84.8,
       "story_size": 1,
       "image_local": "images/news_dac09ea66fec61215966.jpg"
     },
@@ -432,7 +750,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.9,
+      "score": 84.7,
       "story_size": 1,
       "image_local": "images/news_dcb530d79922bac34013.webp"
     },
@@ -451,7 +769,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.9,
+      "score": 84.7,
       "story_size": 1
     },
     {
@@ -469,45 +787,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.7,
+      "score": 84.5,
       "story_size": 1,
       "image_local": "images/news_2a574c29ecd92c6c9bfc.jpg"
-    },
-    {
-      "title": "चोरीका गरगहना र नगदसहित पक्राउ",
-      "link": "https://khabarhub.com/2026/18/1049165/",
-      "description": "काठमाडौं – काठमाडौंको जयबागेश्वरीस्थित एक घरबाट सुनचाँदीका गरगहना चोरी गरेको आरोपमा प्रहरीले एक जनालाई पक्राउ गरेको छ । पक्राउ पर्नेमा काठमाडौँका दीपेश डङ्गोल रहेका छन् । जिल्ला प्रहरी परिसर काठमाडौँका अनुसार घरमा चोरी भएको सूचना प्राप्त भएपछि प्रहरी वृत्त गौशालाबाट खटिएको टोलीले उनलाई पक्राउ गरेको हो । प्रहरीले स्कुटरमा सवार भइरहेको अवस्थामा डङ्गोललाई नियन्त्रणमा लिएको [&#8230;]",
-      "published": "2026-11-18T17:08:39+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub"
-      ],
-      "id": "12fd35bae99563d2",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 108.6,
-      "story_size": 1
-    },
-    {
-      "title": "जोर्डनमा सैन्य अभ्यासका क्रममा हेलिकोप्टर दुर्घटना, पाँच सैनिक घाइते",
-      "link": "https://baahrakhari.com/detail/507679",
-      "description": "",
-      "published": "2026-11-18T22:52:46+05:45",
-      "source": "Baahrakhari",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "aaa6d1852b346a52",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 108.6,
-      "story_size": 1
     },
     {
       "title": "पहिलो विदेशीका रूपमा पाकिस्तानी अन्तरिक्षयात्रीलाई आफ्नो अन्तरिक्ष केन्द्रमा लैजाने तयारीमा चीन",
@@ -524,7 +806,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.4,
+      "score": 84.2,
       "story_size": 1,
       "image_local": "images/news_9d5a287d7708338f3b18.webp"
     },
@@ -543,7 +825,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.4,
+      "score": 84.2,
       "story_size": 1,
       "image_local": "images/news_62c1d3f3549fc993bdd7.webp"
     },
@@ -562,7 +844,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.1,
+      "score": 83.9,
       "story_size": 1,
       "image_local": "images/news_33b4ec77e98e23cc17ae.webp"
     },
@@ -581,7 +863,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.7,
+      "score": 83.5,
       "story_size": 1,
       "image_local": "images/news_ceea0d747050b22fc77a.webp"
     },
@@ -600,7 +882,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.6,
+      "score": 83.4,
       "story_size": 1,
       "image_local": "images/news_31cd4a343981ebeedfb7.webp"
     },
@@ -619,27 +901,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.6,
+      "score": 83.4,
       "story_size": 1,
       "image_local": "images/news_f91034166edf1826619c.jpg"
-    },
-    {
-      "title": "चितवन राष्ट्रिय निकुञ्ज घुम्ने पर्यटक बढे",
-      "link": "https://baahrakhari.com/detail/507678",
-      "description": "",
-      "published": "2026-11-18T22:35:42+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "ca48308b9f7afab7",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 107.4,
-      "story_size": 1
     },
     {
       "title": "दुई पूर्वमन्त्रीसमेत फन्दामा परेको मलेसिया जाने श्रमिक ठगी प्रकरण के हो ?",
@@ -656,7 +920,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.1,
+      "score": 82.9,
       "story_size": 1,
       "image_local": "images/news_186e135edf5f631a7b78.webp"
     },
@@ -675,27 +939,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.8,
+      "score": 82.6,
       "story_size": 1,
       "image_local": "images/news_0f07b770433a29db1efa.webp"
-    },
-    {
-      "title": "अपि हिमाल",
-      "link": "https://baahrakhari.com/detail/507677",
-      "description": "",
-      "published": "2026-11-18T22:19:45+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "37e02a5607d898fa",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 106.4,
-      "story_size": 1
     },
     {
       "title": "शतकपछि मिसराको लक्ष्य : पहिलोपटक चितवनलाई एनपिएल फाइनल पुर्‍याउने",
@@ -712,7 +958,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.3,
+      "score": 82.1,
       "story_size": 1
     },
     {
@@ -730,7 +976,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.3,
+      "score": 82.1,
       "story_size": 1,
       "image_local": "images/news_f017290a9d64ea9c436f.webp"
     },
@@ -749,7 +995,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.2,
+      "score": 82.0,
       "story_size": 1,
       "image_local": "images/news_d2ff4921bd161deb7c05.webp"
     },
@@ -768,46 +1014,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.8,
+      "score": 81.6,
       "story_size": 1
-    },
-    {
-      "title": "चार महिनामा एक लाख १२ हजारभन्दा बढी पर्यटक मुस्ताङ भित्रिए",
-      "link": "https://www.ratopati.com/story/606132/more-than-112000-tourists-entered-mustang-in-four-months",
-      "description": "मुस्ताङ । चालु आर्थिक वर्षको पहिलो चौमासिकमा एक लाख १२ हजार ४८ जना पर्यटक मुस्ताङ भित्रिएका छन् । जिल्ला प्रहरी कार्यालय मुस्ताङका अनुसार साउनदेखि कात्तिक मसान्तसम्म भित्रिने कुल पर्यटकमध्ये ५७ हजार ८३१ नेपाली र ५४ हजार",
-      "published": "2026-11-18T15:39:24+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/sIrLiDWWcO.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "becad77d4d2cf9ce",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 105.7,
-      "story_size": 1,
-      "image_local": "images/news_89806c91c216905c5ec1.jpg"
-    },
-    {
-      "title": "क्वालिफायरमा विपक्षी को छ भन्ने कुराले खासै फरक पार्दैन : कामिल मिशारा",
-      "link": "https://www.ratopati.com/story/606131/it-doesnt-really-matter-who-the-opponent-is-in-the-qualifiers-kamil-mishra",
-      "description": "काठमाडौँ । चितवन राइनोजका ब्याटर कामिल मिशाराले व्यक्तिगत कीर्तिमानभन्दा टोलीको जित महत्त्वपूर्ण रहेको बताएका छन् । तेस्रो संस्करणको नेपाल प्रिमियर लिग (एनपीएल) को इलिमिनेटरमा काठमाण्डु गोर्खाजलाई ६१ रनले हराउँदै चितवन दोस्रो क्वालिफायरमा पुगेपछि उनले आफ्नो लक्ष्य",
-      "published": "2026-11-18T15:35:43+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/mishara_nFOSAPqqRS.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "c2cdc0ef04bf4459",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 105.4,
-      "story_size": 1,
-      "image_local": "images/news_17b1cb6250a4c1459844.webp"
     },
     {
       "title": "‘राष्ट्रिय भेलाले एमालेलाई एकताबद्ध बनाउँछ’",
@@ -824,7 +1032,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.0,
+      "score": 80.8,
       "story_size": 1
     },
     {
@@ -842,7 +1050,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.0,
+      "score": 80.8,
       "story_size": 1
     },
     {
@@ -860,7 +1068,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.9,
+      "score": 80.7,
       "story_size": 1
     },
     {
@@ -878,7 +1086,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.9,
+      "score": 80.7,
       "story_size": 1
     },
     {
@@ -896,7 +1104,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.8,
+      "score": 80.6,
       "story_size": 1
     },
     {
@@ -914,7 +1122,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.7,
+      "score": 80.5,
       "story_size": 1
     },
     {
@@ -932,7 +1140,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.7,
+      "score": 80.5,
       "story_size": 1
     },
     {
@@ -950,7 +1158,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.6,
+      "score": 80.4,
       "story_size": 1
     },
     {
@@ -968,7 +1176,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.6,
+      "score": 80.4,
       "story_size": 1
     },
     {
@@ -986,7 +1194,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.4,
+      "score": 80.2,
       "story_size": 1
     },
     {
@@ -1004,46 +1212,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.3,
+      "score": 80.1,
       "story_size": 1
-    },
-    {
-      "title": "ठगी तथा संगठित अपराधको कसुरमा पूर्वमन्त्रीसहित ६ जना पक्राउ",
-      "link": "https://www.ratopati.com/story/606130/six-people-including-former-minister-arrested-for-fraud-and-organized-crime",
-      "description": "काठमाडौँ । ठगी तथा संगठित अपराधसम्बन्धी कसुरमा नेपाल प्रहरीले पूर्वमन्त्रीसहित ६ जनालाई पक्राउ गरेको छ । नेपाल प्रहरीको केन्द्रीय अनुसन्धान ब्युरो (सीआईबी) ले वैदेशिक रोजगारीका नाममा ठगी गरी गैरकानुनी रूपमा रकम संकलन गरेर मलेसिया पठाउने कार्यमा",
-      "published": "2026-11-18T15:19:11+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/sher-bahadur-kunwar-rameshwor-ray_0sho3TLmU2.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "78a5cc30d15ff17b",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 104.3,
-      "story_size": 1,
-      "image_local": "images/news_186e135edf5f631a7b78.webp"
-    },
-    {
-      "title": "भारततर्फ थप ६१५.०२ मेगावाट विद्युत् निर्यात गर्न स्वीकृति",
-      "link": "https://www.ratopati.com/story/606129/approval-to-export-an-additional-61502-mw-of-electricity-to-india",
-      "description": "काठमाडौँ। प्रधानमन्त्री वालेन्द्र शाहको भारत भ्रमणको पूर्वसन्ध्या भारत सरकारले नेपालबाट थप ६ सय १५ दशमलव ०२ मेगावाट विद्युत् निर्यातका लागि स्वीकृति प्रदान गरेको छ। नेपाल विद्युत् प्राधिकरणका प्रवक्ता अच्युत घिमिरेका अनुसार प्राधिकरणले गत जुन–जुलाईतिरै पठाएको अनुरोधमाथि",
-      "published": "2026-11-18T15:14:46+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/nepal-india-handshake_25RmrimvJI.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "52cba9251b626645",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 104.0,
-      "story_size": 1,
-      "image_local": "images/news_9366e6b6d375c77e7c29.jpg"
     },
     {
       "title": "दुई पूर्वमन्त्रीसहित ६ जना पक्राउ",
@@ -1060,7 +1230,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.9,
+      "score": 79.7,
       "story_size": 1
     },
     {
@@ -1078,8 +1248,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.8,
+      "score": 79.6,
       "story_size": 1
+    },
+    {
+      "title": "काठमान्डुलाई ६१ रनले हराउँदै चितवन दोस्रो क्वालिफायरमा",
+      "link": "https://gorkhapatraonline.com/news/229507",
+      "description": "काठमाडौँ, मङ्सिर २ गते । कमिल मिसराको कीर्तिमानी शतक र बलरहरूको कसिलो प्रदर्शनमा काठमान्डु गोर्खाजलाई ६१ रनले पराजित गर्दै चितवन राइनोज नेपाल प्रिमियर लिग (एनपिएल) को दोस्रो क्वालि...",
+      "published": "2026-11-18T20:56:35+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/392073/conversions/63e648eb-29c8-4cf3-bc1a-6beeefb13e86-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "029d6e436ab31a9c",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 79.6,
+      "story_size": 1,
+      "image_local": "images/news_5126e2d1d3c476fee6eb.jpg"
     },
     {
       "title": "दानबहादुरको रिटमा ‘कारण देखाऊ’ आदेश, ओलीले दिए बालेनलाई चेतावनी, ट्रम्पलाई सीको न्यानो अंकमाल",
@@ -1096,7 +1285,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.7,
+      "score": 79.5,
       "story_size": 1,
       "image_local": "images/news_bccdb5b83d15c9d577a2.jpg"
     },
@@ -1115,7 +1304,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.3,
+      "score": 79.1,
       "story_size": 1
     },
     {
@@ -1133,27 +1322,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.0,
+      "score": 78.8,
       "story_size": 1
-    },
-    {
-      "title": "काठमाडौँको जयवागेश्वरीमा चोरी गर्ने युवक पक्राउ",
-      "link": "https://www.ratopati.com/story/606127/youth-arrested-for-theft-in-jayabageshwori-kathmandu",
-      "description": "काठमाडौँ। काठमाडौँको जयवागेश्वरीस्थित एक घरबाट चोरी भएका ठुलो परिमाणका सुनचाँदीका गरगहना तथा नगदसहित प्रहरीले एक जनालाई पक्राउ गरेको छ। पक्राउ पर्नेमा काठमाडौँ महानगरपालिका–८ जयवागेश्वरी बस्ने ३२ वर्षीय दीपेश डंगोल रहेका छन्। जिल्ला प्रहरी परिसर काठमाडौँका अनुसार गत",
-      "published": "2026-11-18T14:58:10+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/915549728_1105377549036676_1287169822745983736_n_nO9bFlUESQ.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "45dc55ae94c019c3",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 102.9,
-      "story_size": 1,
-      "image_local": "images/news_a27c68df6f29a789311e.webp"
     },
     {
       "title": "चितवनले सुदूरपश्चिमसँग क्वालिफायर खेल्ने, काठमाडौं बाहिरियो, रिजनको चार विकेट",
@@ -1170,47 +1340,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.9,
+      "score": 78.7,
       "story_size": 1,
       "image_local": "images/news_28dfe568a6885d81316c.jpg"
-    },
-    {
-      "title": "अस्ट्रेलियामा लैङ्गिक पारिश्रमिक असमानता घट्दै",
-      "link": "https://www.ratopati.com/story/606125/mbbs-entrance-exam-results-announced-with-results",
-      "description": "",
-      "published": "2026-11-18T14:54:11+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://rpcdn.ratopati.com/archived-media/AustralianFlag.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "bf1f5d8efdb19903",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 102.7,
-      "story_size": 1,
-      "image_local": "images/news_8dd2eef5ace052892064.jpg"
-    },
-    {
-      "title": "एमबीबीएस एकीकृत प्रवेश परीक्षाको नतिजा सार्वजनिक (नतिजासहित)",
-      "link": "https://www.ratopati.com/story/606124/mbbs-integrated-entrance-exam-results-published",
-      "description": "काठमाडौँ । चिकित्सा शिक्षा आयोगले शैक्षिक सत्र २०८३/८४ का लागि चिकित्सा शिक्षा स्नातक तह एकीकृत प्रवेश परीक्षाअन्तर्गत एमबीबीएस शैक्षिक कार्यक्रमको नतिजा प्रकाशन गरेको छ । गत २०८३ साल कात्तिक १४ गते सञ्चालित उक्त परीक्षामा सम्मिलित उम्मेदवारहरूमध्ये",
-      "published": "2026-11-18T14:51:53+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/chikitsha_wzbaoozdvc_lZTx5zANdy.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "a66859cb5a816e86",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 102.5,
-      "story_size": 1,
-      "image_local": "images/news_015d851392032aef22e6.jpg"
     },
     {
       "title": "राष्ट्रिय भेलामा ओलीको सन्देश : एमाले फेरि उठ्छ, सरकारमा फर्कन्छ",
@@ -1227,27 +1359,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.7,
+      "score": 77.5,
       "story_size": 1
-    },
-    {
-      "title": "'कन्काई पुल अलपत्र पार्नु हुँदैन, सदनमा आवाज उठाउनेछौँ'",
-      "link": "https://www.ratopati.com/story/606123/kankai-bridge-should-not-be-abandoned-we-will-raise-our-voice-in-the-house",
-      "description": "भद्रपुर (झापा), २ मङ्सिरः हुलाकी राजमार्गअन्तर्गत झापा गाउँपालिका र गौरीगञ्ज गाउँपालिका जोड्ने कन्काई पुलको निर्माण कार्य शीघ्र अघि बढाउन स्थानीय जनप्रतिनिधि तथा सरोकारवालाले सरकारसँग माग गरेका छन् । चौध वर्षदेखि अलपत्र पुल परिसरमा हुलाकी सङ्घर्ष समितिले",
-      "published": "2026-11-18T14:38:21+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/amresh-padyatra_Er6BKYjPDE.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "e4523f58c3b944c4",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 101.6,
-      "story_size": 1,
-      "image_local": "images/news_197f5266fa0d315eea6a.webp"
     },
     {
       "title": "एक समयको विश्वकै द्रुत गतिको पानीजहाजको अंश फेला पर्‍यो",
@@ -1264,7 +1377,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.3,
+      "score": 77.1,
       "story_size": 1,
       "image_local": "images/news_d64b94ec2ad049c45dde.png"
     },
@@ -1283,27 +1396,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.2,
+      "score": 77.0,
       "story_size": 1
-    },
-    {
-      "title": "कास्कीले जित्यो गण्डकी ‘पीएम कप महिला’ क्रिकेटको उपाधि",
-      "link": "https://www.ratopati.com/story/606121/kaski-wins-gandaki-pm-cup-womens-cricket-title",
-      "description": "कास्की । पोखरामा सञ्चालन भएको गण्डकी प्रदेशस्तरीय ‘पीएम कप’ महिला टी–२० छनोट क्रिकेट प्रतियोगिताको उपाधि घरेलु टोली कास्कीले जितेको छ । पोखरा रङ्गशालास्थित क्रिकेट मैदानमा आज सम्पन्न अन्तिम खेलमा स्याङ्जा माथि पाँच विकेटले जित निकाल्दै",
-      "published": "2026-11-18T14:22:30+00:00",
-      "source": "Ratopati",
-      "category": "sports",
-      "image": "https://rpcdn.ratopati.com/media/albums/Cricket-image-810x421_k68DlnrkxL.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "21df7c55a9d479a1",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 100.6,
-      "story_size": 1,
-      "image_local": "images/news_f537b89d170b20780917.jpg"
     },
     {
       "title": "मिसराको कीर्तिमानी शतकमा चितवनको शानदार जित, फाइनल प्रवेशका लागि सुदूरपश्चिमसँग भिड्ने",
@@ -1320,7 +1414,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.3,
+      "score": 76.1,
       "story_size": 1
     },
     {
@@ -1338,65 +1432,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.2,
+      "score": 76.0,
       "story_size": 1
-    },
-    {
-      "title": "गेटा स्वास्थ्य विज्ञान विश्वविद्यालय सञ्चालनमा बहाना स्वीकार्य छैन : मुख्यमन्त्री भट्ट",
-      "link": "https://www.ratopati.com/story/606119/excuses-are-not-acceptable-in-the-operation-of-geta-health-sciences-university-chief-minister-bhatta",
-      "description": "कैलाली । सुदूरपश्चिम प्रदेशका मुख्यमन्त्री खगराज भट्टले कैलालीको गेटास्थित दशरथचन्द स्वास्थ्य विज्ञान विश्वविद्यालय सञ्चालनमा कुनै पनि बहाना स्वीकार्य नभएको बताएका छन् । सुदूरपश्चिम प्रदेश चेम्बर अफ कमर्सको अगुवाइमा कैलालीको अत्तरियामा आयोजित स्वास्थ्य युवा महोत्सवको आज उद्घाटन",
-      "published": "2026-11-18T14:17:43+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/QQ9KyojcPb.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "b5985a15cba1f589",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 100.2,
-      "story_size": 1,
-      "image_local": "images/news_b9d640fc809b8dc2f2a8.jpg"
-    },
-    {
-      "title": "बर्दियाका ग्रामीण क्षेत्रमा सडक तथा पुल निर्माणको तयारी",
-      "link": "https://www.ratopati.com/story/606118/preparations-for-construction-of-roads-and-bridges-in-rural-areas-of-bardiya",
-      "description": "बर्दिया । वर्षौंदेखि सडक तथा पुलको अभावमा सास्ती भोग्दै आएका बर्दियाका ग्रामीण बस्तीमा पूर्वाधार निर्माणका योजना अघि बढाउने तयारी गरिएको छ । चालु आर्थिक वर्ष २०८३/८४ मा कार्यान्वयन गर्ने गरी प्रस्ताव गरिएका सडक तथा पुल",
-      "published": "2026-11-18T14:16:38+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/Gf3yU2k4CX.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "5060c2ed06d2e72d",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 100.2,
-      "story_size": 1,
-      "image_local": "images/news_b67275de0704db1c57f0.jpg"
-    },
-    {
-      "title": "साइप्रसमा नेपाली वाणिज्य दूतावास अनिवार्य भइसक्यो",
-      "link": "https://www.ratopati.com/story/606084/nepali-consulate-in-cyprus-has-become-mandatory",
-      "description": "नेपाली राजदूतावासको सहयोग तथा समन्वयमा जसोतसो अवैतनिक वाणिज्यदूतको कार्यालयले अस्थायी कन्सुलर सेवा दिँदै आएको साइप्रसमा अहिले सो कार्यालय खारेज भएपछि विविध जटिलताहरू देखा परेका छन् । खारेजी शून्यतासँगै दक्षिण साइप्रसमा रहे–बसेका २१ हजार भन्दा बढी",
-      "published": "2026-11-18T14:15:00+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/banijya-dutabas_5GsJVrfVYc.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "ef5ac4de4cd1b6e9",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 100.1,
-      "story_size": 1,
-      "image_local": "images/news_b4166fb5631ecf564ce2.webp"
     },
     {
       "title": "एनपीएलमा पाँचौ शतक, मिशाराको व्यक्तिगत उच्च स्कोर",
@@ -1413,7 +1450,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.8,
+      "score": 75.6,
       "story_size": 1
     },
     {
@@ -1431,7 +1468,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.0,
+      "score": 74.8,
+      "story_size": 1
+    },
+    {
+      "title": "नापजाँचको १२ वर्षपछि सर्लाहीका २७५ परिवारले पाए लालपुर्जा",
+      "link": "https://khabarhub.com/2026/18/1049143/",
+      "description": "काठमाडौं – सर्लाहीको विष्णु गाउँपालिका–५ र ६ का २७५ स्ववासी परिवारले जग्गाको नापजाँच सम्पन्न भएको करिब १२ वर्षपछि जग्गाधनी प्रमाणपुर्जा (लालपुर्जा) प्राप्त गरेका छन् । साविक सिमरा गाविसका वडा नं १ देखि ७ सम्मका ती परिवारले लामो समयदेखि भोगचलन गर्दै आएको जग्गाको कानुनी स्वामित्व पाएका हुन् । नापी कार्यालय सर्लाहीले आवश्यक कानुनी प्रक्रिया पूरा गरी [&#8230;]",
+      "published": "2026-11-18T14:27:13+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub"
+      ],
+      "id": "d6671cd990caa0c4",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 73.7,
       "story_size": 1
     },
     {
@@ -1449,7 +1504,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.7,
+      "score": 73.5,
       "story_size": 1,
       "image_local": "images/news_21cde464bb8999ade03f.jpg"
     },
@@ -1468,7 +1523,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.5,
+      "score": 73.3,
       "story_size": 1
     },
     {
@@ -1486,9 +1541,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.5,
-      "story_size": 1,
-      "image_local": "images/news_bdce2a3c4dee647502f8.jpg"
+      "score": 73.3,
+      "story_size": 1
     },
     {
       "title": "शिशुको मृत्यु भएपछि अस्पतालमा तनाव",
@@ -1505,9 +1559,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.5,
-      "story_size": 1,
-      "image_local": "images/news_97df30203af5ffbd550c.jpg"
+      "score": 73.3,
+      "story_size": 1
     },
     {
       "title": "आज दिनभर कहाँ, के भयो ? पढ्नुहोस्, मुख्य समाचार",
@@ -1524,7 +1577,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.4,
+      "score": 73.2,
       "story_size": 1
     },
     {
@@ -1542,7 +1595,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.0,
+      "score": 72.8,
       "story_size": 1
     },
     {
@@ -1560,7 +1613,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.7,
+      "score": 72.5,
       "story_size": 1
     },
     {
@@ -1578,7 +1631,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.1,
+      "score": 71.9,
       "story_size": 1
     },
     {
@@ -1596,7 +1649,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.0,
+      "score": 71.8,
       "story_size": 1
     },
     {
@@ -1614,7 +1667,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.4,
+      "score": 71.2,
       "story_size": 1
     },
     {
@@ -1632,7 +1685,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.3,
+      "score": 71.1,
       "story_size": 1
     },
     {
@@ -1650,7 +1703,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.2,
+      "score": 71.0,
       "story_size": 1
     },
     {
@@ -1668,7 +1721,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.1,
+      "score": 70.9,
       "story_size": 1
     },
     {
@@ -1686,7 +1739,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.8,
+      "score": 70.6,
       "story_size": 1
     },
     {
@@ -1704,7 +1757,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.3,
+      "score": 70.1,
       "story_size": 1
     },
     {
@@ -1722,7 +1775,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.2,
+      "score": 70.0,
       "story_size": 1
     },
     {
@@ -1740,7 +1793,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.9,
+      "score": 69.7,
       "story_size": 1
     },
     {
@@ -1758,7 +1811,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.9,
+      "score": 69.7,
       "story_size": 1
     },
     {
@@ -1776,7 +1829,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.7,
+      "score": 69.5,
       "story_size": 1
     },
     {
@@ -1794,7 +1847,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.5,
+      "score": 69.3,
       "story_size": 1
     },
     {
@@ -1812,7 +1865,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.2,
+      "score": 69.0,
       "story_size": 1
     },
     {
@@ -1830,7 +1883,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.7,
+      "score": 68.5,
       "story_size": 1
     },
     {
@@ -1848,7 +1901,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.5,
+      "score": 68.3,
       "story_size": 1
     },
     {
@@ -1866,7 +1919,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.3,
+      "score": 68.1,
       "story_size": 1
     },
     {
@@ -1884,7 +1937,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.1,
+      "score": 67.9,
       "story_size": 1
     },
     {
@@ -1902,7 +1955,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.0,
+      "score": 67.7,
       "story_size": 1
     },
     {
@@ -1920,7 +1973,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.9,
+      "score": 67.7,
       "story_size": 1
     },
     {
@@ -1938,7 +1991,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.7,
+      "score": 67.5,
       "story_size": 1
     },
     {
@@ -1956,7 +2009,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.5,
+      "score": 67.3,
       "story_size": 1
     },
     {
@@ -1974,7 +2027,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.2,
+      "score": 67.0,
       "story_size": 1
     },
     {
@@ -1992,7 +2045,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.7,
+      "score": 66.5,
       "story_size": 1
     },
     {
@@ -2010,7 +2063,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.5,
+      "score": 66.3,
       "story_size": 1
     },
     {
@@ -2028,7 +2081,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.5,
+      "score": 66.3,
       "story_size": 1
     },
     {
@@ -2046,7 +2099,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.1,
+      "score": 65.9,
       "story_size": 1
     },
     {
@@ -2064,7 +2117,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.9,
+      "score": 65.6,
       "story_size": 1
     },
     {
@@ -2082,7 +2135,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.4,
+      "score": 65.2,
       "story_size": 1
     },
     {
@@ -2100,7 +2153,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.3,
+      "score": 65.1,
       "story_size": 1
     },
     {
@@ -2118,7 +2171,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.7,
+      "score": 63.5,
       "story_size": 1
     },
     {
@@ -2136,7 +2189,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.6,
+      "score": 63.4,
       "story_size": 1
     },
     {
@@ -2154,7 +2207,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.6,
+      "score": 63.3,
       "story_size": 1
     },
     {
@@ -2172,7 +2225,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.4,
+      "score": 63.2,
       "story_size": 1
     },
     {
@@ -2190,7 +2243,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.1,
+      "score": 62.9,
       "story_size": 1
     },
     {
@@ -2208,7 +2261,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.7,
+      "score": 61.5,
       "story_size": 1
     },
     {
@@ -2226,7 +2279,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.5,
+      "score": 61.3,
       "story_size": 1
     },
     {
@@ -2244,7 +2297,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.3,
+      "score": 61.1,
       "story_size": 1
     },
     {
@@ -2262,7 +2315,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.1,
+      "score": 60.9,
       "story_size": 1
     },
     {
@@ -2280,7 +2333,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.0,
+      "score": 60.8,
       "story_size": 1
     },
     {
@@ -2298,7 +2351,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.5,
+      "score": 60.3,
       "story_size": 1
     },
     {
@@ -2316,7 +2369,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.8,
+      "score": 59.6,
       "story_size": 1
     },
     {
@@ -2334,7 +2387,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.7,
+      "score": 59.5,
       "story_size": 1
     },
     {
@@ -2352,7 +2405,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.1,
+      "score": 58.9,
       "story_size": 1
     },
     {
@@ -2370,25 +2423,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.1,
-      "story_size": 1
-    },
-    {
-      "title": "माइनस ७ डिग्री तापक्रम, १४ हजार फिट उचाइमा सलमानको ३ टेक",
-      "link": "https://www.onlinekhabar.com/2026/11/2060279/salmans-3-takes-at-14000-feet-in-minus-7-degree-temperature",
-      "description": "सलमान खानको आगामी फिल्म ‘मातृभूमि : मे वार रेस्ट इन पिस’ को छायांकन निकै कठिन परिस्थितिमा गरिएको थियो । फिल्मका निर्देशक अपूर्व लाखियाले हालै छायांकनका क्रममा भोग्नुपरेका कठिनाइबारे अनुभव सुनाएका छन् । सीमामा खटिएका सैनिकको वास्तविक संघर्ष पर्दामा उतार्न निर्माण पक्षले स्टुडियोमा कृत्रिम सेट बनाउनुको सट्टा १४ हजार फिट उचाइमा पुगेर वास्तविक स्थानमै छायांकन गरेको [&#8230;]",
-      "published": "2026-11-18T10:33:07+00:00",
-      "source": "OnlineKhabar",
-      "category": "tech",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "6b0eba3217970560",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 82.3,
+      "score": 58.9,
       "story_size": 1
     },
     {
@@ -2406,7 +2441,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 74.3,
+      "score": 50.1,
       "story_size": 1
     },
     {
@@ -2424,7 +2459,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 57.4,
+      "score": 33.2,
       "story_size": 1
     },
     {
@@ -2442,7 +2477,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 52.1,
+      "score": 27.9,
       "story_size": 1
     },
     {
@@ -2460,7 +2495,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 49.0,
+      "score": 24.7,
       "story_size": 1
     },
     {
