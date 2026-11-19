@@ -1,160 +1,162 @@
 {
   "date_np": "2026-11-19",
-  "generated_at": "2026-11-19T04:33:37.608564+00:00",
+  "generated_at": "2026-11-19T13:57:05.042691+00:00",
   "items": [
     {
-      "title": "भीमफेदीमा सुमो दुर्घटना, २ जनाको मृत्यु, ७ जना घाइते",
-      "link": "https://kendrabindu.com/news/574175/",
-      "description": "मकवानपुर । मकवानपुरको भीमफेदीमा सुमो दुर्घटना हुँदा दुई जनाको मृत्यु भएको छ भने ७ जना घाइते भएका छन् । आज बिहान ८ : ३० बजे हेटौंडाबाट काठमाडौं जाँदै गरेको ना.१ ज २१४३ नम्बरको सुमो त्रिभुवन राजपथबाट राप्ती खोलामा खसेर दुर्घटना भएको हो । सुमोमा चालकसहित १० जना सवार रहेकामा ७ जना घाइते भएका छन् । [&#8230;]",
-      "published": "2026-11-19T04:04:41+00:00",
-      "source": "Kendrabindu",
-      "category": "society",
-      "image": "",
-      "related_sources": [
-        "Kendrabindu",
-        "Thaha Khabar"
-      ],
-      "id": "54eac28ba065511a",
-      "source_count": 2,
-      "verified": true,
-      "local": true,
-      "score": 150.1,
-      "story_size": 2
-    },
-    {
-      "title": "धान काट्ने मेसिनमा मोटरसाइकल ठोक्किँदा दुई युवकको मृत्यु",
-      "link": "https://khabarhub.com/2026/19/1049223/",
-      "description": "झापा-&#160;झापाको बाह्रदशी गाउँपालिकामा धान काट्ने मेसिनमा मोटरसाइकल ठोक्किँदा दुई युवकको मृत्यु भएको छ। बाह्रदशी गाउँपालिका–५ स्थित चारपाने–राजगढ सडकखण्डमा गएराति भएको दुर्घटनामा मोटरसाइकलमा सवार दुई जनाको ज्यान गएको हो। मृत्यु हुनेमा बाह्रदशी–५ चकचकीका गोपाल ताजपुरिया र सोही पालिकाको बुट्टावारीका अशोक राजवंशी रहेका छन्। दुवै जनाको घटनास्थलमै मृत्यु भएको प्रहरीले जनाएको छ। इलाका प्रहरी कार्यालय बिर्तामोडका प्रमुख [&#8230;]",
-      "published": "2026-11-19T04:21:31+00:00",
-      "source": "Khabarhub",
+      "title": "डाविड मलानको अर्धशतकमा चितवनले सुदूरपश्चिमलाई दियो १३४ रनको लक्ष्य",
+      "link": "https://gorkhapatraonline.com/news/229606",
+      "description": "काठमाडौँ, मङ्सिर ३ गते । डाविड मलानले अविजित अर्धशतक बनाएपछि नेपाल प्रिमियर लिग (एनपिएल) सिजन ३ को दोस्रो क्वालिफायरमा चितवन राइनोजले सुदूरपश्चिम रोयल्सलाई १३४ रनको लक्ष्य दिएको छ...",
+      "published": "2026-11-19T18:59:30+05:45",
+      "source": "Gorkhapatra Online",
       "category": "nepal",
-      "image": "",
+      "image": "https://gorkhapatraonline.com/storage/media/392206/conversions/909410989_122216936822455690_4383868609636243121_n(1)-original.jpg",
       "related_sources": [
-        "Khabarhub",
-        "Baahrakhari",
+        "Gorkhapatra Online",
+        "OnlineKhabar",
         "Ratopati"
       ],
-      "id": "fd88fe79ad6465c4",
+      "id": "209376c87673c854",
       "source_count": 3,
       "verified": true,
       "local": false,
-      "score": 143.2,
+      "score": 144.2,
+      "story_size": 3,
+      "image_local": "images/news_4a3daf7c8fcbb966f7b1.jpg"
+    },
+    {
+      "title": "चीन, अमेरिका र रुसद्वारा ‘शान्ति घोषणापत्र’ जारी",
+      "link": "https://baahrakhari.com/detail/507772",
+      "description": "",
+      "published": "2026-11-19T19:11:27+05:45",
+      "source": "Baahrakhari",
+      "category": "world",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari",
+        "Kendrabindu",
+        "Ratopati"
+      ],
+      "id": "dfe36896e8162f72",
+      "source_count": 3,
+      "verified": true,
+      "local": false,
+      "score": 142.0,
       "story_size": 3
     },
     {
-      "title": "काठमाडौँका सार्वजनिक शौचालयको बेहाल, छिर्नै मुस्किल (तस्बिरहरु)",
-      "link": "https://www.thahakhabar.com/detail/312153",
-      "description": "काठमाडौँको टेकु दोभान, कालिमाटी तरकारी बजार, नयाँ बसपार्क, कंकेश्वरीलगायतका विभिन्न सार्वजनिक स्थानमा रहेका शौचालयको अवस्था । सर्वसाधारणको सहजताका लागि निर्माण गरिएका अधिकांश सार्वजनिक शौचालयमा नियमित सरसफाइ नहुँदा दुर्गन्ध फैलिएको छ र पस्नै नसकिने अवस्था छ । पर्याप्त सार्वजनिक शौचालय नहुँदा उपत्यकामा सडक पुल र खोला किनारमा पिसाब फेर्ने गरेको पनि भेटिन्छ ।",
-      "published": "2026-11-19T09:26:44+05:45",
+      "title": "इनम सापकोटासहित तीन जनाविरुद्ध सात दिन म्याद थप",
+      "link": "https://www.thahakhabar.com/detail/312193",
+      "description": "",
+      "published": "2026-11-19T19:08:36+05:45",
       "source": "Thaha Khabar",
       "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/K13-1795059485.jpg",
+      "image": "https://www.thahakhabar.com/uploads/posts/police-1766570639.jpg",
       "related_sources": [
         "Thaha Khabar",
-        "Ratopati"
+        "OnlineKhabar"
       ],
-      "id": "d26b2416f5740b68",
+      "id": "55e3e8d698800712",
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.6,
+      "score": 134.8,
       "story_size": 2,
-      "image_local": "images/news_6df9235c4b23af8b04a8.jpg"
+      "image_local": "images/news_8d61f1a19babea5f4f2d.jpg"
     },
     {
-      "title": "आज चितवन र सुदूरपश्चिमको भिडन्त, जित्ने टोली लुम्बिनीसँग फाइनलमा भिड्ने",
-      "link": "https://kendrabindu.com/sports/574167/",
-      "description": "काठमाडौं । नेपाल प्रिमियर लिग (एनपीएल) क्रिकेटको दोस्रो क्वालिफायरमा चितवन राइनोज र सुदूरपश्चिम रोयल्सबीच प्रतिस्पर्धा हुँदैछ । कीर्तिपुरस्थित त्रिवि अन्तर्राष्ट्रिय क्रिकेट मैदानमा आज दिउँसो साढे ४ बजे यी दुई टीमबीच फाइनल प्रवेशका लागि प्रतिस्पर्धा हुन लागेको हो । पहिलो क्वालिफायरमा लुम्बिनी लायन्ससँग सुदूरपश्चिम रोयल्स ६ विकेटले पराजित भएको थियो । सुदूरपश्चिमले दिएको १०६ रनको लक्ष्य [&#8230;]",
-      "published": "2026-11-19T03:54:17+00:00",
-      "source": "Kendrabindu",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Kendrabindu",
-        "OnlineKhabar"
-      ],
-      "id": "1478657d0742914c",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 131.4,
-      "story_size": 2
-    },
-    {
-      "title": "२९ इन्टरनेट तथा दूरसञ्चार सेवा प्रदायकलाई बक्यौता तिर्न १५ दिने अल्टिमेटम",
-      "link": "https://kendrabindu.com/economy/574163/",
-      "description": "काठमाडौं । नेपाल दूरसञ्चार प्राधिकरणले बक्यौता रकम नतिरेका तथा अनुमतिपत्र नवीकरण नगरेका २९ दूरसञ्चार तथा इन्टरनेट सेवा प्रदायकलाई १५ दिनभित्र बक्यौता बुझाउन र अनुमतिपत्र नवीकरण प्रक्रिया पूरा गर्न निर्देशन दिएको छ । प्राधिकरणले आज सार्वजनिक सूचना जारी गर्दै नौ सेवा प्रदायकलाई बक्यौता रकम दाखिला गर्न र २० सेवा प्रदायकलाई दूरसञ्चार सेवाको सञ्चालन तथा प्रयोगसम्बन्धी व्यवस्था [&#8230;]",
-      "published": "2026-11-19T03:41:10+00:00",
-      "source": "Kendrabindu",
-      "category": "tech",
-      "image": "",
-      "related_sources": [
-        "Kendrabindu",
-        "OnlineKhabar"
-      ],
-      "id": "1ca7f11b18b6fd0a",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 130.5,
-      "story_size": 2
-    },
-    {
-      "title": "भीमफेदीमा जिप दुर्घटना हुँदा तीन जनाको मृत्यु, ७ जना घाइते",
-      "link": "https://gorkhapatraonline.com/news/229554",
-      "description": "काठमाडौँ, मङ्सिर ३ गते । मकवानपुरको भीमफेदी गाउँपालिका–१ भैँसेस्थित हेटौँडा–भैँसे सडकखण्डमा जिप दुर्घटना हुँदा तीन जनाको मृत्यु भएको छ भने ७ जना घाइते भएका छन् ।रौतहटको चन्द्रनिगाह...",
-      "published": "2026-11-19T10:09:29+05:45",
+      "title": "जङ्गली जनावरले पशु मार्न थालेपछि स्थानीय त्रसित",
+      "link": "https://gorkhapatraonline.com/news/229607",
+      "description": "मकवानपुर समाचारदातामकवानपुर, मङ्सिर ३ गते । पूर्वी मकवानपुरको बकैया गाउँपालिकामा जङ्गली जनावरले घरपालुवा पशु मार्न थालेपछि स्थानीय बासिन्दा त्रसित भएका छन् । तिहारअघि बकैया गाउँपाल...",
+      "published": "2026-11-19T19:07:39+05:45",
       "source": "Gorkhapatra Online",
-      "category": "society",
-      "image": "https://gorkhapatraonline.com/storage/media/392129/conversions/accident-original.jpg",
+      "category": "nepal",
+      "image": "https://gorkhapatraonline.com/storage/media/392209/conversions/tiger_lay_marayko-original.jpg",
       "related_sources": [
         "Gorkhapatra Online"
       ],
-      "id": "60c85664a5ce91aa",
+      "id": "ff47d9ce17290719",
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 130.4,
+      "score": 128.7,
       "story_size": 1,
-      "image_local": "images/news_82c1f26b248d7c347875.jpg"
+      "image_local": "images/news_023c5e3b85debb0912df.jpg"
     },
     {
-      "title": "भैंसेमा दुर्घटना भएको सुमोका चालकले भने– झ्याप्प आँखा बन्द भयो, केही देखिनँ",
-      "link": "https://www.ratopati.com/story/606189/sumo-driver-who-crashed-in-buffalo-says-his-eyes-suddenly-closed-he-couldnt-see-anything",
-      "description": "हेटौँडा । मकवानपुरको भीमफेदी गाउँपालिका, भैंसेमा बिहीबार बिहान भएको सुमो दुर्घटनामा तीन जनाको मृत्यु भएको छ । दुर्घटनामा चालकसहित अन्य सात जना घाइते भएका छन् । सर्लाहीबाट काठमाडौँ जाँदै गरेको उक्त सुमोका चालक कालुमान लोप्चनका अनुसार",
-      "published": "2026-11-19T04:18:54+00:00",
+      "title": "बारामा भ्यानको ठक्करबाट स्कुटर चालकको मृत्यु, श्रीमती घाइते",
+      "link": "https://www.onlinekhabar.com/2026/11/2061145/scooter-driver-dies-wife-injured-after-being-hit-by-ev-in-bara",
+      "description": "३ मंसिर, हेटौंडा । बाराको जितपुर सिमरा उपमहानगरपालिका–२२ स्थित ४ नम्बर पुलमा ईभी भ्यानले ठक्कर दिँदा स्कुटर चालकको मृत्यु भएको छ । स्कुटरमा पछाडि सवार चालकको श्रीमती घाइते भएकी छन् । पूर्व–पश्चिम राजमार्गमा आज बिहीबार वीरगन्जबाट काठमाडौं जाँदै गरेको बा. ०१–००६ ख ९८३६ नम्बरको ईभीले विपरीत दिशाबाट आउँदै गरेको बा. ०२–०३७ प ८५९८ नम्बरको स्कुटरलाई [&#8230;]",
+      "published": "2026-11-19T11:15:45+00:00",
+      "source": "OnlineKhabar",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "d65a727401e1d53e",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 117.3,
+      "story_size": 1
+    },
+    {
+      "title": "सुदूरपश्चिमले गुमायो तेस्रो विकेट, इसन पाण्डे १० रनमा आउट",
+      "link": "https://www.ratopati.com/story/606355/sudurpaschim-lost-their-third-wicket-ishan-pandey-was-out-for-10-runs",
+      "description": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपीएल) को दोस्रो क्वालिफायरमा सुदूरपश्चिम रोयल्सले तेस्रो विकेट गुमाएको छ । इसन पाण्डे ९ बलमा १० रन बनाएर आउट भएका छन् । उनलाई रन्जित कुमारले आउट गरेका हुन् । रन्जितको यो",
+      "published": "2026-11-19T13:54:26+00:00",
       "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/acc_HQcs1JNomz.webp",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/sudur_vwFdjqo5Bg.webp",
       "related_sources": [
         "Ratopati"
       ],
-      "id": "4efb6bdfe43e9744",
+      "id": "6fbbcefb160208b3",
       "source_count": 1,
       "verified": false,
-      "local": true,
-      "score": 130.0,
+      "local": false,
+      "score": 112.8,
       "story_size": 1,
-      "image_local": "images/news_2a9f8e1a35b25377c1d8.webp"
+      "image_local": "images/news_4678e0569b9232e4e575.webp"
     },
     {
-      "title": "गाँजासहित कार बरामद, चालक फरार",
-      "link": "https://kendrabindu.com/news/574183/",
-      "description": "मकवानपुर । मकवानपुरको भीमफेदीबाट १ सय १७ किलो ९१० ग्राम गाँजासहित एउटा कार प्रहरीले नियन्त्रणमा लिएको छ। प्रहरी चेकजाँचका क्रममा कार छाडेर चालक फरार भएका छन्। बुधबार राति करिब १:४० बजे भीमफेदी गाउँपालिका–२ भैंसेस्थित प्रहरी चेकपोस्टमा नियमित चेकजाँच गर्ने क्रममा पालुङबाट भैंसेतर्फ आउँदै गरेको बा.अ.ब. ४४३१ नम्बरको कारलाई प्रहरीले रोकेको थियो। कार जाँच गर्ने क्रममा [&#8230;]",
-      "published": "2026-11-19T04:32:37+00:00",
-      "source": "Kendrabindu",
-      "category": "nepal",
-      "image": "",
+      "title": "कर्णालीलाई गरिबीको भाष्यबाट मुक्त गर्नुपर्छ : मुख्यमन्त्री",
+      "link": "https://www.thahakhabar.com/detail/312195",
+      "description": "",
+      "published": "2026-11-19T19:38:52+05:45",
+      "source": "Thaha Khabar",
+      "category": "politics",
+      "image": "https://www.thahakhabar.com/uploads/posts/Karnali-Pustak-1795096413.jpg",
       "related_sources": [
-        "Kendrabindu"
+        "Thaha Khabar"
       ],
-      "id": "098d110e6407e85b",
+      "id": "3c653f06c7cb3dec",
       "source_count": 1,
       "verified": false,
-      "local": true,
-      "score": 128.0,
-      "story_size": 1
+      "local": false,
+      "score": 112.8,
+      "story_size": 1,
+      "image_local": "images/news_a7103a87a77096712815.jpg"
+    },
+    {
+      "title": "कुलेखानी हुँदै काठमाडौँ आवतजावत गर्ने सवारीसाधनलाई भोलि कान्ति लोकपथ प्रयोग गर्न प्रशासनको आग्रह",
+      "link": "https://www.thahakhabar.com/detail/312194",
+      "description": "",
+      "published": "2026-11-19T19:37:29+05:45",
+      "source": "Thaha Khabar",
+      "category": "nepal",
+      "image": "https://www.thahakhabar.com/uploads/posts/kantilokpath-1777773443.jpg",
+      "related_sources": [
+        "Thaha Khabar"
+      ],
+      "id": "1f136b05316818b0",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 112.7,
+      "story_size": 1,
+      "image_local": "images/news_64ce3212d46505affa62.jpg"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. भीमफेदीमा सुमो दुर्घटना, २ जनाको मृत्यु, ७ जना घाइते\nस्रोत: Kendrabindu, Thaha Khabar\nhttps://kendrabindu.com/news/574175/\n\n2. धान काट्ने मेसिनमा मोटरसाइकल ठोक्किँदा दुई युवकको मृत्यु\nस्रोत: Khabarhub, Baahrakhari, Ratopati\nhttps://khabarhub.com/2026/19/1049223/\n\n3. काठमाडौँका सार्वजनिक शौचालयको बेहाल, छिर्नै मुस्किल (तस्बिरहरु)\nस्रोत: Thaha Khabar, Ratopati\nhttps://www.thahakhabar.com/detail/312153\n\n4. आज चितवन र सुदूरपश्चिमको भिडन्त, जित्ने टोली लुम्बिनीसँग फाइनलमा भिड्ने\nस्रोत: Kendrabindu, OnlineKhabar\nhttps://kendrabindu.com/sports/574167/\n\n5. २९ इन्टरनेट तथा दूरसञ्चार सेवा प्रदायकलाई बक्यौता तिर्न १५ दिने अल्टिमेटम\nस्रोत: Kendrabindu, OnlineKhabar\nhttps://kendrabindu.com/economy/574163/\n\n6. भीमफेदीमा जिप दुर्घटना हुँदा तीन जनाको मृत्यु, ७ जना घाइते\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/229554\n\n7. भैंसेमा दुर्घटना भएको सुमोका चालकले भने– झ्याप्प आँखा बन्द भयो, केही देखिनँ\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/606189/sumo-driver-who-crashed-in-buffalo-says-his-eyes-suddenly-closed-he-couldnt-see-anything\n\n8. गाँजासहित कार बरामद, चालक फरार\nस्रोत: Kendrabindu\nhttps://kendrabindu.com/news/574183/\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. डाविड मलानको अर्धशतकमा चितवनले सुदूरपश्चिमलाई दियो १३४ रनको लक्ष्य\nस्रोत: Gorkhapatra Online, OnlineKhabar, Ratopati\nhttps://gorkhapatraonline.com/news/229606\n\n2. चीन, अमेरिका र रुसद्वारा ‘शान्ति घोषणापत्र’ जारी\nस्रोत: Baahrakhari, Kendrabindu, Ratopati\nhttps://baahrakhari.com/detail/507772\n\n3. इनम सापकोटासहित तीन जनाविरुद्ध सात दिन म्याद थप\nस्रोत: Thaha Khabar, OnlineKhabar\nhttps://www.thahakhabar.com/detail/312193\n\n4. जङ्गली जनावरले पशु मार्न थालेपछि स्थानीय त्रसित\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/229607\n\n5. बारामा भ्यानको ठक्करबाट स्कुटर चालकको मृत्यु, श्रीमती घाइते\nस्रोत: OnlineKhabar\nhttps://www.onlinekhabar.com/2026/11/2061145/scooter-driver-dies-wife-injured-after-being-hit-by-ev-in-bara\n\n6. सुदूरपश्चिमले गुमायो तेस्रो विकेट, इसन पाण्डे १० रनमा आउट\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/606355/sudurpaschim-lost-their-third-wicket-ishan-pandey-was-out-for-10-runs\n\n7. कर्णालीलाई गरिबीको भाष्यबाट मुक्त गर्नुपर्छ : मुख्यमन्त्री\nस्रोत: Thaha Khabar\nhttps://www.thahakhabar.com/detail/312195\n\n8. कुलेखानी हुँदै काठमाडौँ आवतजावत गर्ने सवारीसाधनलाई भोलि कान्ति लोकपथ प्रयोग गर्न प्रशासनको आग्रह\nस्रोत: Thaha Khabar\nhttps://www.thahakhabar.com/detail/312194\n\n— I Am From Hetauda"
 }
