@@ -1,26 +1,165 @@
 {
   "date_np": "2026-11-20",
-  "generated_at": "2026-11-19T22:04:49.788452+00:00",
+  "generated_at": "2026-11-20T03:21:51.538018+00:00",
   "items": [
     {
-      "title": "१२ बजे १२ समाचार : भ्रष्टाचार प्रकरणमा तानिँदै नेकपाका नेताहरू, सुनको मूल्य निरन्तर ओरालो",
-      "link": "https://www.ratopati.com/story/606375/12-oclock-12-news-ncp-leaders-being-dragged-into-corruption-cases-gold-prices-continue-to-fall",
-      "description": "काठमाडौँ । रातोपाटीको नियमित प्रस्तुति १२ बजे १२ समाचारमा पाठकवृन्दलाई स्वागत छ । १. सुदूरपश्चिम एनपीएलको फाइनलमा नेपाल प्रिमियर लिग (एनपीएल) को दोस्रो क्वालिफायरमा चितवन राइनोजलाई तीन विकेटले पराजित गर्दै सुदूरपश्चिम रोयल्स फाइनलमा प्रवेश गरेको छ ।",
-      "published": "2026-11-19T18:15:00+00:00",
-      "source": "Ratopati",
-      "category": "business",
-      "image": "https://npcdn.ratopati.com/media/news/12-baje-template--final_pU1qQsnrxU.jpg",
+      "title": "आयोगले थाल्यो स्थानीय निर्वाचनको तयारी, आज दलहरुसँग छलफल",
+      "link": "https://kendrabindu.com/news/574544/",
+      "description": "काठमाडौं । निर्वाचन आयोग स्थानीय तहको चुनावको तयारीमा जुटेको छ । निर्वाचनको तयारीस्वरुप आयोगले राजनीतिक दलहरुसँग छलफल एवं परामर्श सुरु गरेको हो । आयोगले आज नै विभिन्न राजनीतिक दलहरुसँग छलफल सुरु गर्ने भएको जनाएको छ । सो प्रयोजनका लागि राष्ट्रिय राजनीतिक दलका प्रतिनिधिहरुलाई आज आयोगले छलफलका लागि आमन्त्रण गरेको छ । आयोगले आज बिहान ११: [&#8230;]",
+      "published": "2026-11-20T02:40:03+00:00",
+      "source": "Kendrabindu",
+      "category": "politics",
+      "image": "",
       "related_sources": [
+        "Kendrabindu",
+        "Thaha Khabar",
+        "Gorkhapatra Online",
+        "Khabarhub",
         "Ratopati"
       ],
-      "id": "02455d4d4b003287",
-      "source_count": 1,
-      "verified": false,
+      "id": "ab1f1980ecc6ad23",
+      "source_count": 5,
+      "verified": true,
       "local": false,
-      "score": 97.7,
-      "story_size": 1,
-      "image_local": "images/news_044302a44a7db4c8d91a.jpg"
+      "score": 161.2,
+      "story_size": 5
+    },
+    {
+      "title": "दसौं राष्ट्रिय खेलकुदका चार खेल लुम्बिनीमा, प्रतियोगिता कुर्दै बाँके र बर्दिया",
+      "link": "https://www.setopati.com/sports/anya-khelkud/402970",
+      "description": "पौडी पोखरीको निरीक्षणका लागि शनिबार प्राविधिक टोली नेपालगन्ज आउने तयारी रहेको प्रमुख चन्दले बताए।",
+      "published": "2026-11-20T08:12:04+05:45",
+      "source": "Setopati",
+      "category": "sports",
+      "image": "",
+      "related_sources": [
+        "Setopati",
+        "Ratopati",
+        "OnlineKhabar"
+      ],
+      "id": "369cf9ed438ad56a",
+      "source_count": 3,
+      "verified": true,
+      "local": false,
+      "score": 140.4,
+      "story_size": 3
+    },
+    {
+      "title": "प्यारापाइलट उत्पादन गर्न माछापुच्छ्रेमा खुल्यो प्याराग्लाइडिङ स्कुल",
+      "link": "https://www.thahakhabar.com/detail/312220",
+      "description": "",
+      "published": "2026-11-20T08:37:49+05:45",
+      "source": "Thaha Khabar",
+      "category": "nepal",
+      "image": "https://www.thahakhabar.com/uploads/posts/para1-1795143159.png",
+      "related_sources": [
+        "Thaha Khabar",
+        "Ratopati"
+      ],
+      "id": "0a33c5c5b3f9249c",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 135.1,
+      "story_size": 2,
+      "image_local": "images/news_600fc416dcd8f1b82d19.png"
+    },
+    {
+      "title": "सर्लाहीमा एक युवा मृत फेला, युवती पक्राउ",
+      "link": "https://www.thahakhabar.com/detail/312218",
+      "description": "",
+      "published": "2026-11-20T08:28:13+05:45",
+      "source": "Thaha Khabar",
+      "category": "nepal",
+      "image": "https://www.thahakhabar.com/uploads/posts/death-1779520981.jpg",
+      "related_sources": [
+        "Thaha Khabar",
+        "OnlineKhabar"
+      ],
+      "id": "e7b1151a6027d1e5",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 134.5,
+      "story_size": 2,
+      "image_local": "images/news_1497bdf0c1cd63284552.jpg"
+    },
+    {
+      "title": "भोटेकोशी विपद्लाई विश्वका लागि चेतावनीका रूपमा प्रस्तुत",
+      "link": "https://khabarhub.com/2026/20/1049625/",
+      "description": "काठमाडौँ&#8211; नेपालले जलवायु परिवर्तनबाट प्रभावित हिमाली तथा पर्वतीय क्षेत्रका सवाललाई अन्तर्राष्ट्रिय जलवायु वार्ताको केन्द्रमा स्थापित गर्न कोप–३१ मा विशेष पहल गरेको छ । पर्वतीय क्षेत्रको जलवायु जोखिम, भोटेकोशी बाढीको क्षति, जलवायु न्याय र अनुकूलनका सवाललाई नेपालले यस सम्मेलनमा प्राथमिकताका साथ उठाएको हो ।&#160; कृषि, वन तथा पर्यावरणमन्त्री गीता चौधरीले कोप–३१ सम्मेलनमा अवस्थित नेपाल पेभिलियनको बिहीबार [&#8230;]",
+      "published": "2026-11-20T03:07:56+00:00",
+      "source": "Khabarhub",
+      "category": "tech",
+      "image": "",
+      "related_sources": [
+        "Khabarhub",
+        "Ratopati"
+      ],
+      "id": "bee0f05984ef30fe",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 133.1,
+      "story_size": 2
+    },
+    {
+      "title": "युक्रेन युद्ध अन्त्यका लागि रुससँग वार्ता गर्ने युरोपेली नेताहरूको घोषणा",
+      "link": "https://kendrabindu.com/world/574547/",
+      "description": "काठमाडौं । युक्रेनमाथि रुसले गरिरहेको आक्रमण अन्त्य गर्ने उद्देश्यले रुससँग वार्ता गर्न तयार रहेको युरोपेली नेताहरूले बताएका छन् । जर्मनीको राजधानी बर्लिनमा युक्रेनका सहयोगी राष्ट्रहरूको समूह ‘कोलिसन अफ द विलिङ’ को शिखर सम्मेलनमा उनीहरूले सो घोषणा गरेको बीबीसीले जनाएको छ । युरोपेली नेताहरुले युक्रेनको पक्षमा एकजुट समर्थन जनाउँदै वार्ताका लागि युरोपको स्पष्ट र साझा धारणा [&#8230;]",
+      "published": "2026-11-20T02:52:15+00:00",
+      "source": "Kendrabindu",
+      "category": "world",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu",
+        "OnlineKhabar"
+      ],
+      "id": "4ac27bfee28605aa",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 132.1,
+      "story_size": 2
+    },
+    {
+      "title": "मन्त्रिपरिषद् बैठक बस्दै",
+      "link": "https://www.setopati.com/politics/402971",
+      "description": "बैठक सिंहदरबारस्थित प्रधानमन्त्री एवम् मन्त्रिपरिषदको कार्यालयमा बस्नेछ।",
+      "published": "2026-11-20T08:23:58+05:45",
+      "source": "Setopati",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "Setopati",
+        "Baahrakhari"
+      ],
+      "id": "d1f5c58471db406f",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 131.2,
+      "story_size": 2
+    },
+    {
+      "title": "हरिबोधिनी एकादशी : देशभरका नारायण मन्दिरमा भक्तजनको लाम",
+      "link": "https://khabarhub.com/2026/20/1049602/",
+      "description": "काठमाडौँ&#8211; कार्तिक शुक्ल एकादशी अर्थात् हरिबोधिनी एकादशीका दिन आज बिहानैदेखि उपत्यकाका चार नारायण, बूढानीलकण्ठ नारायणस्थानसहित देशभरका नारायण मन्दिरमा भक्तजनको लामो लाम लागेको छ । आषाढ शुक्ल एकादशी अर्थात् हरिशयनी एकादशीका दिन क्षीरसागरमा सुतेका भगवान् विष्णु आज जागा हुने धार्मिक विश्वास छ । आज जागा हुने भगवान् विष्णुलाई पूजाआजासहित आराधना गर्न बिहानैदेखि नारायण मन्दिरमा भक्तजनको लाम लागेको हो [&#8230;]",
+      "published": "2026-11-20T02:09:13+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub",
+        "Ratopati"
+      ],
+      "id": "5991919ace3d9f4a",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 129.2,
+      "story_size": 2
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. १२ बजे १२ समाचार : भ्रष्टाचार प्रकरणमा तानिँदै नेकपाका नेताहरू, सुनको मूल्य निरन्तर ओरालो\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/606375/12-oclock-12-news-ncp-leaders-being-dragged-into-corruption-cases-gold-prices-continue-to-fall\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. आयोगले थाल्यो स्थानीय निर्वाचनको तयारी, आज दलहरुसँग छलफल\nस्रोत: Kendrabindu, Thaha Khabar, Gorkhapatra Online\nhttps://kendrabindu.com/news/574544/\n\n2. दसौं राष्ट्रिय खेलकुदका चार खेल लुम्बिनीमा, प्रतियोगिता कुर्दै बाँके र बर्दिया\nस्रोत: Setopati, Ratopati, OnlineKhabar\nhttps://www.setopati.com/sports/anya-khelkud/402970\n\n3. प्यारापाइलट उत्पादन गर्न माछापुच्छ्रेमा खुल्यो प्याराग्लाइडिङ स्कुल\nस्रोत: Thaha Khabar, Ratopati\nhttps://www.thahakhabar.com/detail/312220\n\n4. सर्लाहीमा एक युवा मृत फेला, युवती पक्राउ\nस्रोत: Thaha Khabar, OnlineKhabar\nhttps://www.thahakhabar.com/detail/312218\n\n5. भोटेकोशी विपद्लाई विश्वका लागि चेतावनीका रूपमा प्रस्तुत\nस्रोत: Khabarhub, Ratopati\nhttps://khabarhub.com/2026/20/1049625/\n\n6. युक्रेन युद्ध अन्त्यका लागि रुससँग वार्ता गर्ने युरोपेली नेताहरूको घोषणा\nस्रोत: Kendrabindu, OnlineKhabar\nhttps://kendrabindu.com/world/574547/\n\n7. मन्त्रिपरिषद् बैठक बस्दै\nस्रोत: Setopati, Baahrakhari\nhttps://www.setopati.com/politics/402971\n\n8. हरिबोधिनी एकादशी : देशभरका नारायण मन्दिरमा भक्तजनको लाम\nस्रोत: Khabarhub, Ratopati\nhttps://khabarhub.com/2026/20/1049602/\n\n— I Am From Hetauda"
 }
