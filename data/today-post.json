@@ -1,159 +1,102 @@
 {
-  "date_np": "2026-11-21",
-  "generated_at": "2026-11-21T16:41:45.745283+00:00",
+  "date_np": "2026-11-22",
+  "generated_at": "2026-11-21T21:55:31.744518+00:00",
   "items": [
     {
-      "title": "अबको जीवन जनता र लोकतन्त्रका लागि समर्पित गर्छु : देउवा",
-      "link": "https://khabarhub.com/2026/21/1050122/",
-      "description": "पोखरा – पूर्वप्रधानमन्त्री एवं नेपाली कांग्रेसका नेता शेरबहादुर देउवाले आफ्नो बाँकी जीवन जनता र लोकतन्त्रको सुदृढीकरणका लागि समर्पित गर्ने बताएका छन् । पोखरामा आज आयोजित नेपाली कांग्रेस देउवा समूह गण्डकी प्रदेशको दोस्रो नियमित प्रदेश अधिवेशनलाई सम्बोधन गर्दै उनले सिङ्गापुर र हङकङमा उपचार गराएर पूर्ण रूपमा स्वस्थ भई फर्किएको बताए । आफूलाई साथीभाइ तथा नेपाली दाजुभाइ [&#8230;]",
-      "published": "2026-11-21T16:33:28+00:00",
-      "source": "Khabarhub",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Khabarhub",
-        "Thaha Khabar"
-      ],
-      "id": "ab6ccae8c8a95b69",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 133.5,
-      "story_size": 2
-    },
-    {
-      "title": "एनपीएल फाइनल : लुम्बिनीले सुदूरपश्चिमलाई दियो १५६ रनको लक्ष्य",
-      "link": "https://www.onlinekhabar.com/2026/11/2062608/npl-final-lumbini-sets-sudurpaschim-a-target-of-156-runs",
-      "description": "टीयू अन्तर्राष्ट्रिय क्रिकेट मैदान टस हहारेपछि पहिला ब्याटिङ गरेको लुम्बिनीले निर्धारित २० ओभरमा ६ विकेट गुमाएर १५५ रन बनाएको हो ।",
-      "published": "2026-11-21T13:02:42+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar",
-        "Kendrabindu"
-      ],
-      "id": "cfb806421bead422",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 119.4,
-      "story_size": 2
-    },
-    {
-      "title": "बागमतीको यातायात मन्त्रालयका ३२२ कर्मचारीको सरुवा",
-      "link": "https://www.ratopati.com/story/606772/322-employees-of-bagmatis-ministry-of-transport-transferred",
-      "description": "मकवानपुर । बागमती प्रदेशको उद्योग, पर्यटन, श्रम तथा यातायात मन्त्रालयले विभिन्न सेवा, समूह र तहका कुल ३२२ जना कर्मचारीहरूको एकै पटक सरुवा तथा पदस्थापन गरेको छ । मन्त्रालयको मङ्सिर ३ गतेको सचिव स्तरको निर्णय अनुसार",
-      "published": "2026-11-21T13:30:26+00:00",
+      "title": "भोटेकोशी बाढीपीडितद्वारा पुनः स्थापनाको माग",
+      "link": "https://www.ratopati.com/story/606805/bhotekoshi-flood-victims-demand-restoration",
+      "description": "रसुवा । गत भदौ १० गते भोटेकोशी नदीमा आएको बाढीका कारण विस्थापित भई हाल काठमाडौँको गोसोक गुम्बास्थित अस्थायी आश्रयस्थलमा बसोबास गर्दै आएका स्याफ्रुबेँसीका नागरिकले आफ्नो जीविकोपार्जन पुनः स्थापना र सुरक्षित पुनर्वासका लागि सामूहिक पहल सुरु",
+      "published": "2026-11-21T19:16:13+00:00",
       "source": "Ratopati",
-      "category": "business",
-      "image": "https://npcdn.ratopati.com/media/news/karmachari_0Pir7QnIjy.webp",
+      "category": "tech",
+      "image": "https://npcdn.ratopati.com/media/news/rasuwa-bhotekoshi-badhi_xJnNFwOg50.webp",
       "related_sources": [
         "Ratopati"
       ],
-      "id": "378eae51e4018d1d",
-      "source_count": 1,
-      "verified": false,
-      "local": true,
-      "score": 118.3,
-      "story_size": 1,
-      "image_local": "images/news_514054c2c06c594d29ff.webp"
-    },
-    {
-      "title": "नर्सिङ प्रवेश परीक्षाको नतिजा सार्वजनिक : १० हजार ८०५ विद्यार्थी योग्य",
-      "link": "https://gorkhapatraonline.com/news/229865",
-      "description": "काठमाडौँ, मङ्सिर ५ गते । चिकित्सा शिक्षा आयोगले शैक्षिक सत्र २०८३/०८४ का लागि सञ्चालन गरेको एकीकृत प्रवेश परीक्षा अन्तर्गत बीएस्सी नर्सिङको नतिजा सार्वजनिक गरेको छ ।आयोगले सार्वजनि...",
-      "published": "2026-11-21T22:23:57+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/392595/conversions/1581da82-45cf-400d-a0f6-5afa7308b6ac-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "292556393874163d",
+      "id": "fb597c13f461a7a7",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.8,
+      "score": 102.4,
       "story_size": 1,
-      "image_local": "images/news_f18f15e76286e2ba6580.jpg"
+      "image_local": "images/news_1e51eccf357e1b6429eb.webp"
     },
     {
-      "title": "मुन्सेको शतकमा सुदूरपश्चिमको ऐतिहासिक उपाधि, लुम्बिनीको उपाधि रक्षा गर्ने सपना अधुरै",
-      "link": "https://www.ratopati.com/story/606796/munseys-century-secures-sudurpaschims-historic-title-lumbinis-dream-of-defending-the-title-remains-unfulfilled",
-      "description": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करणको उपाधि सुदूरपश्चिम रोयल्सले जितेको छ । शनिबार कीर्तिपुरस्थित त्रिवि अन्तर्राष्ट्रिय क्रिकेट मैदानमा भएको फाइनलमा साबिक विजेता लुम्बिनी लायन्सलाई १० विकेटले पराजित गर्दै सुदूरपश्चिम पहिलो पटक च्याम्पियन",
-      "published": "2026-11-21T16:35:52+00:00",
+      "title": "प्रथम धरान महिला गोल्डकपको उपाधि एपीएफ क्लबलाई",
+      "link": "https://www.ratopati.com/story/606804/apf-club-wins-first-dharan-womens-gold-cup-title",
+      "description": "सुनसरी । विभागीय टोली सशस्त्र प्रहरी बल (एपिएफ) फुटबल क्लबले प्रथम धरान अन्तर्राष्ट्रिय आमन्त्रण महिला गोल्डकप फुटबल प्रतियोगिताको उपाधि जितेको छ । धरान रङ्गशालामा शनिबार राति सम्पन्न फाइनलमा नेपाल पुलिस क्लबलाई २–० गोलअन्तरले पराजित गर्दै एपिएफले",
+      "published": "2026-11-21T19:12:06+00:00",
       "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/george-munsi_ryifimideq_lI9QPCsVHc.webp",
+      "category": "tech",
+      "image": "https://npcdn.ratopati.com/media/news/FKNxJiU64m.jpg",
       "related_sources": [
         "Ratopati"
       ],
-      "id": "5e5b9cf90410d8e5",
+      "id": "e2ec3b0b4c745897",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.6,
+      "score": 102.1,
       "story_size": 1,
-      "image_local": "images/news_f76e2520e09d19e614e9.webp"
+      "image_local": "images/news_e6536ab315ecf6d971ab.jpg"
     },
     {
-      "title": "देश समृद्ध बनाउँदै भ्रष्टाचार अन्त्य गर्ने अभियान छु : सभामुख",
-      "link": "https://www.thahakhabar.com/detail/312326",
-      "description": "",
-      "published": "2026-11-21T22:20:07+05:45",
-      "source": "Thaha Khabar",
-      "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/Dol-Prasad-Aryal-Photo-1795278335.jpg",
-      "related_sources": [
-        "Thaha Khabar"
-      ],
-      "id": "29006e3039acddb2",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 112.6,
-      "story_size": 1,
-      "image_local": "images/news_1b21ad1db2f751715870.jpg"
-    },
-    {
-      "title": "सुदूरपश्चिमको स्वभाव नै फाइनल पुग्नु हो, उपाधि जित्ने समय यस पटक आयो : मुन्से",
-      "link": "https://www.ratopati.com/story/606795/it-is-the-nature-of-sudurpaschim-to-reach-the-final-the-time-has-come-to-win-the-title-munse",
-      "description": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करणको उपाधि सुदूरपश्चिम रोयल्सले जितेपछि टोलीका ओपनर जर्ज मुन्सेले यो सफलता आफ्नो लागि निकै विशेष रहेको बताएका छन् । शनिबार कीर्तिपुरस्थित त्रिवि अन्तर्राष्ट्रिय क्रिकेट मैदानमा लुम्बिनी लायन्सलाई पराजित",
-      "published": "2026-11-21T16:26:15+00:00",
+      "title": "राप्तीसोनारीको नेचर रनको उपाधि शाही र डाँगीलाई",
+      "link": "https://www.ratopati.com/story/606803/shahi-and-dangi-win-rapti-sonari-nature-run-title",
+      "description": "बाँके । बाँकेको राप्तीसोनारी गाउँपालिकामा शनिबार भएको तेस्रो संस्करणको राप्तीसोनारी नेचर रनको उपाधि स्वस्तिका शाही र टेकेन्द्र डाँगीले जितेका छन् । जिल्लाको राप्तीसोनारीस्थित मदुवामा भएको १० किलोमिटर दौडमा खुला महिलातर्फ शाहीले प्रथम स्थान हासिल गर्दा रीता",
+      "published": "2026-11-21T19:10:20+00:00",
       "source": "Ratopati",
       "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/921138086_3792539994227491_1072349603333170632_n_FEL6afFft9.webp",
+      "image": "https://npcdn.ratopati.com/media/news/banke-district-map_buY1dHpxrb.jpg",
       "related_sources": [
         "Ratopati"
       ],
-      "id": "6968c85fb902e8e1",
+      "id": "295f5f1c028983b2",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.0,
+      "score": 102.0,
       "story_size": 1,
-      "image_local": "images/news_8b23176be3e6cc8cd11e.webp"
+      "image_local": "images/news_f1294488164050056e9d.jpg"
     },
     {
-      "title": "प्रधानमन्त्री वालेन्द्र शाहलाई राज्यमन्त्री जितिन प्रसादले स्वागत गर्ने",
-      "link": "https://www.thahakhabar.com/detail/312325",
-      "description": "",
-      "published": "2026-11-21T22:06:20+05:45",
-      "source": "Thaha Khabar",
-      "category": "politics",
-      "image": "https://www.thahakhabar.com/uploads/posts/1-1795278052.jpg",
+      "title": "बिएस्सी नर्सिङ सहितका चार कार्यक्रमको प्रवेश परीक्षाको नतिजा सार्वजनिक",
+      "link": "https://www.ratopati.com/story/606802/entrance-exam-results-for-four-programs-including-bsc-nursing-made-public",
+      "description": "काठमाडौं । ​नेपाल सरकारको चिकित्सा शिक्षा आयोगले शैक्षिक सत्र २०८३/८४ का लागि बिएस्सी नर्सिङ, बिएस्सी मिडवाइफ्री, बिएएसएलपी र ब्यास्लर इन परफ्युजन टेक्नोलोजी शैक्षिक कार्यक्रमको एकीकृत प्रवेश परीक्षाको नतिजा सार्वजनिक गरेको छ । आयोगको परीक्षा निर्देशनालयले गत",
+      "published": "2026-11-21T18:45:39+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/chikitsha_wzbaoozdvc_lZTx5zANdy.jpg",
       "related_sources": [
-        "Thaha Khabar"
+        "Ratopati"
       ],
-      "id": "fca7cf42a4958a40",
+      "id": "a7abfd1055ebe311",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.7,
+      "score": 100.4,
       "story_size": 1,
-      "image_local": "images/news_167591418d63b63b4d88.jpg"
+      "image_local": "images/news_015d851392032aef22e6.jpg"
+    },
+    {
+      "title": "१२ बजे १२ समाचार : यस्तो छ आजको प्रमुख समाचार",
+      "link": "https://www.ratopati.com/story/606801/12-news-at-12-here-are-todays-top-news-stories",
+      "description": "काठमाडौँ । आज दिनभरका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति रातोपाटी ब्रिफिङमा १२ बजे १२ समाचार लिएर हाजिर भएका छौँ– १. प्रधानमन्त्रीको भारत भ्रमणको तयारी पूरा प्रधानमन्त्री बालेन्द्र शाहको आइतबार हुने भारत भ्रमणको सम्पूर्ण तयारी पूरा भएको छ।",
+      "published": "2026-11-21T18:17:28+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/12-am-final_viqawbfig2-(1)_fam6WtIhIE.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "e2d97b1fda38f7f3",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 98.5,
+      "story_size": 1,
+      "image_local": "images/news_e6051b04792cc7059ae6.jpg"
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. अबको जीवन जनता र लोकतन्त्रका लागि समर्पित गर्छु : देउवा\nस्रोत: Khabarhub, Thaha Khabar\nhttps://khabarhub.com/2026/21/1050122/\n\n2. एनपीएल फाइनल : लुम्बिनीले सुदूरपश्चिमलाई दियो १५६ रनको लक्ष्य\nस्रोत: OnlineKhabar, Kendrabindu\nhttps://www.onlinekhabar.com/2026/11/2062608/npl-final-lumbini-sets-sudurpaschim-a-target-of-156-runs\n\n3. बागमतीको यातायात मन्त्रालयका ३२२ कर्मचारीको सरुवा\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/606772/322-employees-of-bagmatis-ministry-of-transport-transferred\n\n4. नर्सिङ प्रवेश परीक्षाको नतिजा सार्वजनिक : १० हजार ८०५ विद्यार्थी योग्य\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/229865\n\n5. मुन्सेको शतकमा सुदूरपश्चिमको ऐतिहासिक उपाधि, लुम्बिनीको उपाधि रक्षा गर्ने सपना अधुरै\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/606796/munseys-century-secures-sudurpaschims-historic-title-lumbinis-dream-of-defending-the-title-remains-unfulfilled\n\n6. देश समृद्ध बनाउँदै भ्रष्टाचार अन्त्य गर्ने अभियान छु : सभामुख\nस्रोत: Thaha Khabar\nhttps://www.thahakhabar.com/detail/312326\n\n7. सुदूरपश्चिमको स्वभाव नै फाइनल पुग्नु हो, उपाधि जित्ने समय यस पटक आयो : मुन्से\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/606795/it-is-the-nature-of-sudurpaschim-to-reach-the-final-the-time-has-come-to-win-the-title-munse\n\n8. प्रधानमन्त्री वालेन्द्र शाहलाई राज्यमन्त्री जितिन प्रसादले स्वागत गर्ने\nस्रोत: Thaha Khabar\nhttps://www.thahakhabar.com/detail/312325\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. भोटेकोशी बाढीपीडितद्वारा पुनः स्थापनाको माग\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/606805/bhotekoshi-flood-victims-demand-restoration\n\n2. प्रथम धरान महिला गोल्डकपको उपाधि एपीएफ क्लबलाई\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/606804/apf-club-wins-first-dharan-womens-gold-cup-title\n\n3. राप्तीसोनारीको नेचर रनको उपाधि शाही र डाँगीलाई\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/606803/shahi-and-dangi-win-rapti-sonari-nature-run-title\n\n4. बिएस्सी नर्सिङ सहितका चार कार्यक्रमको प्रवेश परीक्षाको नतिजा सार्वजनिक\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/606802/entrance-exam-results-for-four-programs-including-bsc-nursing-made-public\n\n5. १२ बजे १२ समाचार : यस्तो छ आजको प्रमुख समाचार\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/606801/12-news-at-12-here-are-todays-top-news-stories\n\n— I Am From Hetauda"
 }
