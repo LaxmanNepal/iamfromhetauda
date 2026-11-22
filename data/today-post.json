@@ -1,102 +1,165 @@
 {
   "date_np": "2026-11-22",
-  "generated_at": "2026-11-21T21:55:31.744518+00:00",
+  "generated_at": "2026-11-22T02:00:00.188032+00:00",
   "items": [
     {
-      "title": "भोटेकोशी बाढीपीडितद्वारा पुनः स्थापनाको माग",
-      "link": "https://www.ratopati.com/story/606805/bhotekoshi-flood-victims-demand-restoration",
-      "description": "रसुवा । गत भदौ १० गते भोटेकोशी नदीमा आएको बाढीका कारण विस्थापित भई हाल काठमाडौँको गोसोक गुम्बास्थित अस्थायी आश्रयस्थलमा बसोबास गर्दै आएका स्याफ्रुबेँसीका नागरिकले आफ्नो जीविकोपार्जन पुनः स्थापना र सुरक्षित पुनर्वासका लागि सामूहिक पहल सुरु",
-      "published": "2026-11-21T19:16:13+00:00",
-      "source": "Ratopati",
-      "category": "tech",
-      "image": "https://npcdn.ratopati.com/media/news/rasuwa-bhotekoshi-badhi_xJnNFwOg50.webp",
+      "title": "दसौं राष्ट्रिय खेलकुदको खेलस्थल तालिका सार्वजनिक",
+      "link": "https://www.setopati.com/sports/anya-khelkud/403096",
+      "description": "उनका अनुसार, टेनिस, महिला तथा पुरुष खो–खो (बर्दिया), पौडी र सुटिङ (नेपालगञ्ज) हुनेछ।",
+      "published": "2026-11-22T07:42:57+05:45",
+      "source": "Setopati",
+      "category": "sports",
+      "image": "",
       "related_sources": [
+        "Setopati",
+        "Ratopati",
+        "Baahrakhari",
+        "Khabarhub"
+      ],
+      "id": "570249d709364b77",
+      "source_count": 4,
+      "verified": true,
+      "local": false,
+      "score": 153.9,
+      "story_size": 4
+    },
+    {
+      "title": "प्रधानमन्त्री बालेन आज भारतको राजकीय भ्रमणमा जाँदै",
+      "link": "https://nepalsamaya.com/detail/147954",
+      "description": "",
+      "published": "2026-11-22T07:33:22+05:45",
+      "source": "Nepal Samaya",
+      "category": "politics",
+      "image": "https://nepalsamaya.com/uploads/posts/Balen_131778761606-(1)-1787114428.jpg",
+      "related_sources": [
+        "Nepal Samaya",
+        "Kendrabindu",
+        "Setopati"
+      ],
+      "id": "d36a57c4f25cdd96",
+      "source_count": 3,
+      "verified": true,
+      "local": false,
+      "score": 146.3,
+      "story_size": 3,
+      "image_local": "images/news_19c3da5631dc95c262f4.jpg"
+    },
+    {
+      "title": "गोसाइँकुण्ड बाह्रै महिना पदयात्राका लागि आकर्षक गन्तव्य बन्दै",
+      "link": "https://www.setopati.com/social/403094",
+      "description": "धार्मिक, ऐतिहासिक तथा प्राकृतिक विविधता समेटिएको गोसाइँकुण्ड पदयात्रा र भ्रमणका लागि महत्त्वपूर्ण गन्तव्यका रूपमा परिचित छ।",
+      "published": "2026-11-22T07:06:28+05:45",
+      "source": "Setopati",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Setopati",
+        "Khabarhub",
         "Ratopati"
       ],
-      "id": "fb597c13f461a7a7",
-      "source_count": 1,
-      "verified": false,
+      "id": "607cb2b4177185f6",
+      "source_count": 3,
+      "verified": true,
       "local": false,
-      "score": 102.4,
-      "story_size": 1,
-      "image_local": "images/news_1e51eccf357e1b6429eb.webp"
+      "score": 141.5,
+      "story_size": 3
+    },
+    {
+      "title": "फिनल्यान्डको खाडीमा रुसी मालवाहक पानीजहाजमाथि ड्रोन आक्रमण",
+      "link": "https://www.thahakhabar.com/detail/312338",
+      "description": "",
+      "published": "2026-11-22T07:43:52+05:45",
+      "source": "Thaha Khabar",
+      "category": "world",
+      "image": "https://www.thahakhabar.com/uploads/posts/FINLAND-1795312722.jpg",
+      "related_sources": [
+        "Thaha Khabar",
+        "Baahrakhari"
+      ],
+      "id": "696038510a72a118",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 137.0,
+      "story_size": 2,
+      "image_local": "images/news_f83c532584e2078321d5.jpg"
+    },
+    {
+      "title": "पर्सा–बाराका चार पालिकामा नगर बस सञ्चालनको तयारी",
+      "link": "https://khabarhub.com/2026/22/1050145/",
+      "description": "वीरगन्ज&#8211; वीरगन्ज महानगरपालिकासहित पर्सा र बाराका चार पालिकालाई जोडेर नगर बस सञ्चालन गर्ने तयारी गरिएको छ । महानगरपालिकाले मङ्सिरभित्रै सेवा सञ्चालन गर्ने लक्ष्यसहित आवश्यक प्रक्रिया अघि बढाएको जनाएको छ । सहायक सडक तथा ग्रामीण बस्तीलाई मुख्य सडक सञ्जालसँग जोड्दै अन्तरपालिका आवागमन सहज र सुलभ बनाउने उद्देश्यले नगर बस सञ्चालन गर्न लागिएको वीरगन्ज महानगरपालिकाका प्रमुख राजेशमान [&#8230;]",
+      "published": "2026-11-22T01:07:07+00:00",
+      "source": "Khabarhub",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Khabarhub",
+        "OnlineKhabar"
+      ],
+      "id": "4e47763f0cc82a15",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 130.5,
+      "story_size": 2
     },
     {
       "title": "प्रथम धरान महिला गोल्डकपको उपाधि एपीएफ क्लबलाई",
-      "link": "https://www.ratopati.com/story/606804/apf-club-wins-first-dharan-womens-gold-cup-title",
-      "description": "सुनसरी । विभागीय टोली सशस्त्र प्रहरी बल (एपिएफ) फुटबल क्लबले प्रथम धरान अन्तर्राष्ट्रिय आमन्त्रण महिला गोल्डकप फुटबल प्रतियोगिताको उपाधि जितेको छ । धरान रङ्गशालामा शनिबार राति सम्पन्न फाइनलमा नेपाल पुलिस क्लबलाई २–० गोलअन्तरले पराजित गर्दै एपिएफले",
-      "published": "2026-11-21T19:12:06+00:00",
-      "source": "Ratopati",
+      "link": "https://khabarhub.com/2026/22/1050142/",
+      "description": "सुनसरी&#8211; विभागीय टोली सशस्त्र प्रहरी बल (एपिएफ) फुटबल क्लबले प्रथम धरान अन्तरराष्ट्रिय आमन्त्रण महिला गोल्डकप फुटबल प्रतियोगिताको उपाधि जितेको छ । धरान रङ्गशालामा शनिबार राति सम्पन्न फाइनलमा नेपाल पुलिस क्लबलाई २–० गोलअन्तरले पराजित गर्दै एपिएफले उपाधि जितेको हो । निर्धारित ९० मिनेटको खेल गोलरहित बराबरीमा सकिएपछि खेल अतिरिक्त समयमा पुगेको थियो । अतिरिक्त समयको चौथो [&#8230;]",
+      "published": "2026-11-22T01:04:14+00:00",
+      "source": "Khabarhub",
       "category": "tech",
-      "image": "https://npcdn.ratopati.com/media/news/FKNxJiU64m.jpg",
+      "image": "",
       "related_sources": [
+        "Khabarhub",
         "Ratopati"
       ],
-      "id": "e2ec3b0b4c745897",
-      "source_count": 1,
-      "verified": false,
+      "id": "e80c859277028bbf",
+      "source_count": 2,
+      "verified": true,
       "local": false,
-      "score": 102.1,
-      "story_size": 1,
-      "image_local": "images/news_e6536ab315ecf6d971ab.jpg"
+      "score": 130.3,
+      "story_size": 2
     },
     {
-      "title": "राप्तीसोनारीको नेचर रनको उपाधि शाही र डाँगीलाई",
-      "link": "https://www.ratopati.com/story/606803/shahi-and-dangi-win-rapti-sonari-nature-run-title",
-      "description": "बाँके । बाँकेको राप्तीसोनारी गाउँपालिकामा शनिबार भएको तेस्रो संस्करणको राप्तीसोनारी नेचर रनको उपाधि स्वस्तिका शाही र टेकेन्द्र डाँगीले जितेका छन् । जिल्लाको राप्तीसोनारीस्थित मदुवामा भएको १० किलोमिटर दौडमा खुला महिलातर्फ शाहीले प्रथम स्थान हासिल गर्दा रीता",
-      "published": "2026-11-21T19:10:20+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/banke-district-map_buY1dHpxrb.jpg",
+      "title": "आज यस्तो छ विदेशी मुद्राको विनिमयदर",
+      "link": "https://khabarhub.com/2026/22/1050135/",
+      "description": "काठमाडौँ&#8211; नेपाल राष्ट्र बैङ्कले आजका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैङ्कका अनुसार अमेरिकी डलर एकको खरिददर १४७ रुपैयाँ ९८ पैसा र बिक्रीदर १४८ रुपैयाँ ५८ पैसा निर्धारण गरिएको छ । युरोपियन युरो एकको खरिददर १६२ रुपैयाँ ४१ पैसा र बिक्रीदर १६३ रुपैयाँ ०७ पैसा, युके पाउन्ड स्ट्रलिङ एकको खरिददर १९३ रुपैयाँ [&#8230;]",
+      "published": "2026-11-22T00:54:02+00:00",
+      "source": "Khabarhub",
+      "category": "business",
+      "image": "",
       "related_sources": [
-        "Ratopati"
+        "Khabarhub",
+        "OnlineKhabar"
       ],
-      "id": "295f5f1c028983b2",
-      "source_count": 1,
-      "verified": false,
+      "id": "10831bbc0818225a",
+      "source_count": 2,
+      "verified": true,
       "local": false,
-      "score": 102.0,
-      "story_size": 1,
-      "image_local": "images/news_f1294488164050056e9d.jpg"
+      "score": 129.6,
+      "story_size": 2
     },
     {
-      "title": "बिएस्सी नर्सिङ सहितका चार कार्यक्रमको प्रवेश परीक्षाको नतिजा सार्वजनिक",
-      "link": "https://www.ratopati.com/story/606802/entrance-exam-results-for-four-programs-including-bsc-nursing-made-public",
-      "description": "काठमाडौं । ​नेपाल सरकारको चिकित्सा शिक्षा आयोगले शैक्षिक सत्र २०८३/८४ का लागि बिएस्सी नर्सिङ, बिएस्सी मिडवाइफ्री, बिएएसएलपी र ब्यास्लर इन परफ्युजन टेक्नोलोजी शैक्षिक कार्यक्रमको एकीकृत प्रवेश परीक्षाको नतिजा सार्वजनिक गरेको छ । आयोगको परीक्षा निर्देशनालयले गत",
-      "published": "2026-11-21T18:45:39+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/chikitsha_wzbaoozdvc_lZTx5zANdy.jpg",
+      "title": "प्रधानमन्त्री बालेन आज भारत भ्रमणमा जाँदै, मोदीलाई भोलि भेट्ने",
+      "link": "https://khabarhub.com/2026/22/1050133/",
+      "description": "काठमाडौँ&#8211; प्रधानमन्त्री वालेन्द्र शाह भारतीय प्रधानमन्त्री नरेन्द्र मोदीको मैत्रीपूर्ण निमन्त्रणामा भारतको दुईदिने राजकीय भ्रमणका लागि आज दिउँसो नयाँ दिल्ली प्रस्थान गर्दै छन् । उनी प्रधानमन्त्री भइसकेपछि पहिलो पटक छिमेकी मुलुकको राजकीय भ्रमणमा जान लागेका हुन् । भ्रमणका क्रममा प्रधानमन्त्री शाहले भारतका राष्ट्रपति&#160; द्रोपदी मुर्मूसँग शिष्टाचार भेट गर्नेछन् ।&#160; उनले भारतीय समकक्षी नरेन्द्र मोदीसँग भोलि सोमबार [&#8230;]",
+      "published": "2026-11-22T00:47:58+00:00",
+      "source": "Khabarhub",
+      "category": "politics",
+      "image": "",
       "related_sources": [
-        "Ratopati"
+        "Khabarhub",
+        "OnlineKhabar"
       ],
-      "id": "a7abfd1055ebe311",
-      "source_count": 1,
-      "verified": false,
+      "id": "ff55f1ff01b50335",
+      "source_count": 2,
+      "verified": true,
       "local": false,
-      "score": 100.4,
-      "story_size": 1,
-      "image_local": "images/news_015d851392032aef22e6.jpg"
-    },
-    {
-      "title": "१२ बजे १२ समाचार : यस्तो छ आजको प्रमुख समाचार",
-      "link": "https://www.ratopati.com/story/606801/12-news-at-12-here-are-todays-top-news-stories",
-      "description": "काठमाडौँ । आज दिनभरका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति रातोपाटी ब्रिफिङमा १२ बजे १२ समाचार लिएर हाजिर भएका छौँ– १. प्रधानमन्त्रीको भारत भ्रमणको तयारी पूरा प्रधानमन्त्री बालेन्द्र शाहको आइतबार हुने भारत भ्रमणको सम्पूर्ण तयारी पूरा भएको छ।",
-      "published": "2026-11-21T18:17:28+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/12-am-final_viqawbfig2-(1)_fam6WtIhIE.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "e2d97b1fda38f7f3",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 98.5,
-      "story_size": 1,
-      "image_local": "images/news_e6051b04792cc7059ae6.jpg"
+      "score": 129.2,
+      "story_size": 2
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. भोटेकोशी बाढीपीडितद्वारा पुनः स्थापनाको माग\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/606805/bhotekoshi-flood-victims-demand-restoration\n\n2. प्रथम धरान महिला गोल्डकपको उपाधि एपीएफ क्लबलाई\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/606804/apf-club-wins-first-dharan-womens-gold-cup-title\n\n3. राप्तीसोनारीको नेचर रनको उपाधि शाही र डाँगीलाई\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/606803/shahi-and-dangi-win-rapti-sonari-nature-run-title\n\n4. बिएस्सी नर्सिङ सहितका चार कार्यक्रमको प्रवेश परीक्षाको नतिजा सार्वजनिक\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/606802/entrance-exam-results-for-four-programs-including-bsc-nursing-made-public\n\n5. १२ बजे १२ समाचार : यस्तो छ आजको प्रमुख समाचार\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/606801/12-news-at-12-here-are-todays-top-news-stories\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. दसौं राष्ट्रिय खेलकुदको खेलस्थल तालिका सार्वजनिक\nस्रोत: Setopati, Ratopati, Baahrakhari\nhttps://www.setopati.com/sports/anya-khelkud/403096\n\n2. प्रधानमन्त्री बालेन आज भारतको राजकीय भ्रमणमा जाँदै\nस्रोत: Nepal Samaya, Kendrabindu, Setopati\nhttps://nepalsamaya.com/detail/147954\n\n3. गोसाइँकुण्ड बाह्रै महिना पदयात्राका लागि आकर्षक गन्तव्य बन्दै\nस्रोत: Setopati, Khabarhub, Ratopati\nhttps://www.setopati.com/social/403094\n\n4. फिनल्यान्डको खाडीमा रुसी मालवाहक पानीजहाजमाथि ड्रोन आक्रमण\nस्रोत: Thaha Khabar, Baahrakhari\nhttps://www.thahakhabar.com/detail/312338\n\n5. पर्सा–बाराका चार पालिकामा नगर बस सञ्चालनको तयारी\nस्रोत: Khabarhub, OnlineKhabar\nhttps://khabarhub.com/2026/22/1050145/\n\n6. प्रथम धरान महिला गोल्डकपको उपाधि एपीएफ क्लबलाई\nस्रोत: Khabarhub, Ratopati\nhttps://khabarhub.com/2026/22/1050142/\n\n7. आज यस्तो छ विदेशी मुद्राको विनिमयदर\nस्रोत: Khabarhub, OnlineKhabar\nhttps://khabarhub.com/2026/22/1050135/\n\n8. प्रधानमन्त्री बालेन आज भारत भ्रमणमा जाँदै, मोदीलाई भोलि भेट्ने\nस्रोत: Khabarhub, OnlineKhabar\nhttps://khabarhub.com/2026/22/1050133/\n\n— I Am From Hetauda"
 }
