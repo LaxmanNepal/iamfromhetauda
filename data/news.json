@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T17:26:01.656026+00:00",
+  "updated_at": "2026-11-22T22:43:10.763660+00:00",
   "sources": [
     "OnlineKhabar",
     "Setopati",
@@ -16,26 +16,6 @@
   ],
   "items": [
     {
-      "title": "भारतीय उद्योगी व्यवसायीलाई अर्थमन्त्रीको आह्वान, निर्धक्क भएर नेपालमा लगानी गर्नुहोस्",
-      "link": "https://gorkhapatraonline.com/news/230014",
-      "description": "नयाँदिल्ली, मङ्सिर ६ गते । प्रधानमन्त्री वालेन्द्र शाहसँगै दुईदिने राजकीय भारत भ्रमणमा रहनुभएका अर्थमन्त्री डा स्वर्णिम वाग्लेले आज नयाँदिल्लीमा नेपाल र भारतका निजी क्षेत्रलाई संयु...",
-      "published": "2026-11-22T23:07:43+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "politics",
-      "image": "https://gorkhapatraonline.com/storage/media/392832/conversions/Dr.-Sworim-Bagle-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online",
-        "Baahrakhari"
-      ],
-      "id": "529d9de773cf7f80",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 136.8,
-      "story_size": 2,
-      "image_local": "images/news_a6772d3067c721f99be0.jpg"
-    },
-    {
       "title": "दक्षिण सुडानमा विद्रोहीकाे आक्रमण, १५ जनाको मृत्यु",
       "link": "https://www.ratopati.com/story/606958/rebel-attack-in-south-sudan-15-killed",
       "description": "सुडान । दक्षिण सुडानको उत्तरपश्चिमी क्षेत्रमा आइतबार विद्रोही लडाकूले गरेको आक्रमणमा कम्तीमा १५ जना सर्वसाधारणको मृत्यु भएको स्थानीय अधिकारीहरूले बताएका छन् । आक्रमणमा संलग्न भएको आरोप राष्ट्रपति साल्भा किरका लामो समयदेखिका राजनीतिक प्रतिद्वन्द्वी तथा पूर्व",
@@ -51,7 +31,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 134.1,
+      "score": 113.0,
       "story_size": 2,
       "image_local": "images/news_b1bec6e7112fe6c19c67.png"
     },
@@ -71,7 +51,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 133.8,
+      "score": 112.6,
       "story_size": 2,
       "image_local": "images/news_a8f5d30c02057859ce7a.jpg"
     },
@@ -91,7 +71,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 132.0,
+      "score": 110.9,
       "story_size": 2
     },
     {
@@ -110,7 +90,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 126.0,
+      "score": 104.8,
       "story_size": 2
     },
     {
@@ -129,7 +109,7 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 124.4,
+      "score": 103.2,
       "story_size": 2
     },
     {
@@ -148,8 +128,46 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 123.1,
+      "score": 102.0,
       "story_size": 2
+    },
+    {
+      "title": "सिरियाद्वारा ४० करोड क्याप्टागन गोली नष्ट",
+      "link": "https://www.ratopati.com/story/606965/syria-destroys-400-million-captagon-pills",
+      "description": "काठमाडौँ । सिरियाली अधिकारीहरूले सुरक्षा निकायका विभिन्न कारबाहीका क्रममा जफत गरिएका ४० करोड क्याप्टागन गोलीसहित ठुलो परिमाणको लागुऔषध नष्ट गरेको घोषणा गरेका छन् । लागुऔषध नियन्त्रण विभागले आइतबार विभिन्न सुरक्षा कारबाहीमा बरामद गरिएका लागुऔषध तथा मनोप्रभावकारी पदार्थ",
+      "published": "2026-11-22T19:00:00+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://rpcdn.ratopati.com/media/albums/siriya_01j3bAT1xX_nYGZUgaul7.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "a32901a3f44c3c87",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 98.1,
+      "story_size": 1,
+      "image_local": "images/news_bf9d6f9604a269b15b46.jpg"
+    },
+    {
+      "title": "नेपाल–भारतका धार्मिकस्थल जोडी बनाएका परिपथमार्फत धार्मिक पर्यटन प्रवर्द्धनको माग",
+      "link": "https://www.ratopati.com/story/606967/demand-for-promotion-of-religious-tourism-through-a-circuit-linking-religious-sites-in-nepal-and-india",
+      "description": "काठमाडौँ । नेपाल र भारतका धार्मिक, सांस्कृतिक एवं पुरातात्विकस्थललाई जोडेर धार्मिक पर्यटन प्रवर्द्धनका लागि परिपथ बनाउनुपर्नेमा दुवै देशका अधिकारीहरूले जोड दिएका छन् । नीति अनुसन्धान प्रतिष्ठान (नेनाप)ले आइतबार आयोजना गरेको नेपाल र भारत नीति बहस कार्यक्रमलाई",
+      "published": "2026-11-22T18:44:55+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/setting/banner-image_sPOGzj8QHe.jpg",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "05709b7de90fa214",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 97.1,
+      "story_size": 1,
+      "image_local": "images/news_31088225b6e74eec8103.jpg"
     },
     {
       "title": "बागमती मन्त्रिपरिषद्लाई पूर्णता दिनेबारे मुख्यमन्त्री थापा र नेकपाका नेता जम्कट्टेल आमने सामने",
@@ -166,7 +184,7 @@
       "source_count": 1,
       "verified": false,
       "local": true,
-      "score": 118.3,
+      "score": 97.1,
       "story_size": 1,
       "image_local": "images/news_8479ec6e802994a106f8.webp"
     },
@@ -186,8 +204,122 @@
       "source_count": 2,
       "verified": true,
       "local": false,
-      "score": 118.2,
+      "score": 97.0,
       "story_size": 2
+    },
+    {
+      "title": "म्यानचेस्टर युनाइटेडमाथि लिभरपुलको ४-० को फराकिलो जित",
+      "link": "https://www.ratopati.com/story/606966/liverpools-4-0-win-over-manchester-united",
+      "description": "काठमाडौँ । इङ्लिस प्रिमियर लिगअन्तर्गत सम्पन्न खेलमा लिभरपुलले म्यानचेस्टर युनाइटेडमाथि ४-० गोलको शानदार जित हात पारेको छ । खेलको सुरुआतमै म्यानचेस्टर युनाइटेडले ठूलो धक्का व्यहोरेको थियो । आठौँ मिनेटमा लेनी योरोले रातो कार्ड खाँदै मैदान छाडेपछि",
+      "published": "2026-11-22T18:39:31+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/news/liverpool_m7jbuqogWM.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "9018dd49e7001d0a",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 96.8,
+      "story_size": 1,
+      "image_local": "images/news_356af5c36ab684a60b5c.webp"
+    },
+    {
+      "title": "नेपाल–भारत सम्बन्धलाई ‘खरिद–बिक्री’ बाट लगानी र उत्पादन साझेदारीमा बदल्नुपर्छ : भवानी राणा",
+      "link": "https://www.ratopati.com/story/606964/nepal-india-relations-should-be-transformed-from-buy-sell-to-investment-and-production-partnership-bhawani-rana",
+      "description": "काठमाडौँ ।नेपाल उद्योग वाणिज्य महासंघकी पूर्वअध्यक्ष भवानी राणाले नेपाल र भारतबीचको आर्थिक सम्बन्धलाई परम्परागत क्रेता–विक्रेताको दायराबाट माथि उठाएर लगानी, उत्पादन, उद्यमशीलता र नवप्रवर्तनको साझेदारीमा रूपान्तरण गर्नुपर्ने बताएकी छन् । प्रधानमन्त्री बालेन्द्र शाहको दुई दिने भारत भ्रमणका",
+      "published": "2026-11-22T18:30:20+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/nepal-india-byapar_VDeihpKy1X.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "cedf7d819ebabbfe",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 96.1,
+      "story_size": 1,
+      "image_local": "images/news_625f99a09e58bd035206.webp"
+    },
+    {
+      "title": "१२ बजे १२ समाचार : बालेनबाट संविधान र राष्ट्रपतिको अवमूल्यन, ऊर्जामन्त्रीले अघि बढाए पीपीए",
+      "link": "https://www.ratopati.com/story/606963/12-oclock-12-news-balen-devalues-the-constitution-and-the-president-energy-minister-moves-forward-with-ppa",
+      "description": "काठमाडौँ । आज दिनभरका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति रातोपाटी ब्रिफिङमा १२ बजे १२ समाचार लिएर हाजिर भएका छौँ– १. प्रधानमन्त्रीको भारत भ्रमण प्रधानमन्त्री बालेन शाह भारत भ्रमणमा गएका छन् । आइतबार प्रधानमन्त्री शाह भारत भ्रमणमा गएका",
+      "published": "2026-11-22T18:15:08+00:00",
+      "source": "Ratopati",
+      "category": "politics",
+      "image": "https://npcdn.ratopati.com/media/news/12_mr1sCervWR.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "f6c6def7240570c6",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 95.1,
+      "story_size": 1,
+      "image_local": "images/news_eb366ac0bd4b76e0131d.webp"
+    },
+    {
+      "title": "अफगानिस्तानमा कोइला खानीको सुरक्षा र उत्पादनमा सुधार",
+      "link": "https://www.ratopati.com/story/606962/improving-coal-mine-safety-and-production-in-afghanistan",
+      "description": "काठमाडौँ । अफगानिस्तानका कोइला खानीमा आधुनिक उपकरण र सुरक्षा मापदण्ड लागू गरिएपछि मजदुरको जोखिम घट्नुका साथै उत्पादन र राजस्व बढ्न थालेको छ । सरकारी प्रयासले खानी सञ्चालनलाई व्यवस्थित बनाउँदै काम गर्ने वातावरणमा सुधार ल्याएको अधिकारीहरूले",
+      "published": "2026-11-22T17:41:51+00:00",
+      "source": "Ratopati",
+      "category": "nepal",
+      "image": "https://npcdn.ratopati.com/media/cricket/flag-afghanistan_GmEM6zFMMR.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "358e25a236913d08",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 92.9,
+      "story_size": 1,
+      "image_local": "images/news_a47ada248764a73437bb.webp"
+    },
+    {
+      "title": "बीमाको दाबी रुजु अब छिटो र प्रभावकारी हुने",
+      "link": "https://gorkhapatraonline.com/news/230012",
+      "description": "काठमाडौँ, मङ्सिर ६ गते । स्वास्थ्य बीमा बोर्डले स्वास्थ्य बीमा व्यवस्थापन सूचना प्रणाली (आईएमआईएस) लाई नवीनतम प्रविधिसहित स्तरोन्नति गरी सञ्चालनमा ल्याएको छ । स्वास्थ्य बीमा बोर्डक...",
+      "published": "2026-11-22T23:19:58+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "business",
+      "image": "https://gorkhapatraonline.com/storage/media/392830/conversions/9d91fc7c-9a57-4014-8d30-06a4e02dc5e5-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "f4b11a7bb2c9428c",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 92.5,
+      "story_size": 1,
+      "image_local": "images/news_0eff41f5ca5a8ca6cc31.jpg"
+    },
+    {
+      "title": "भारतीय उद्योगी व्यवसायीलाई अर्थमन्त्रीको आह्वान, निर्धक्क भएर नेपालमा लगानी गर्नुहोस्",
+      "link": "https://gorkhapatraonline.com/news/230014",
+      "description": "नयाँदिल्ली, मङ्सिर ६ गते । प्रधानमन्त्री वालेन्द्र शाहसँगै दुईदिने राजकीय भारत भ्रमणमा रहनुभएका अर्थमन्त्री डा स्वर्णिम वाग्लेले आज नयाँदिल्लीमा नेपाल र भारतका निजी क्षेत्रलाई संयु...",
+      "published": "2026-11-22T23:07:43+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "politics",
+      "image": "https://gorkhapatraonline.com/storage/media/392832/conversions/Dr.-Sworim-Bagle-original.jpg",
+      "related_sources": [
+        "Gorkhapatra Online"
+      ],
+      "id": "529d9de773cf7f80",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 91.6,
+      "story_size": 1,
+      "image_local": "images/news_a6772d3067c721f99be0.jpg"
     },
     {
       "title": "पर्यटक आगमनमा वृद्धि",
@@ -204,7 +336,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 112.1,
+      "score": 91.0,
       "story_size": 1,
       "image_local": "images/news_d52606f74e9cc78158e1.webp"
     },
@@ -223,7 +355,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.9,
+      "score": 90.7,
       "story_size": 1,
       "image_local": "images/news_cdafda6d01027cad767e.jpg"
     },
@@ -242,7 +374,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.4,
+      "score": 90.2,
       "story_size": 1,
       "image_local": "images/news_12d3c2e0649649dc35fc.jpg"
     },
@@ -261,7 +393,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 111.0,
+      "score": 89.8,
       "story_size": 1,
       "image_local": "images/news_87e463dbfba34f82bc03.webp"
     },
@@ -280,7 +412,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.6,
+      "score": 89.4,
+      "story_size": 1
+    },
+    {
+      "title": "दशौँ राष्ट्रिय खेलकुद : पुरुष फुटबलको कार्यतालिका सार्वजनिक",
+      "link": "https://baahrakhari.com/detail/508029",
+      "description": "",
+      "published": "2026-11-22T23:18:00+05:45",
+      "source": "Baahrakhari",
+      "category": "sports",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "00e0ad652b266012",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 89.3,
       "story_size": 1
     },
     {
@@ -298,7 +448,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.5,
+      "score": 89.3,
       "story_size": 1,
       "image_local": "images/news_b91391d94876e6376dd2.jpg"
     },
@@ -317,7 +467,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.5,
+      "score": 89.3,
       "story_size": 1,
       "image_local": "images/news_5ffcbe2cd1312564b1b4.jpg"
     },
@@ -336,7 +486,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.4,
+      "score": 89.2,
       "story_size": 1,
       "image_local": "images/news_b59cf45f89c32f7c9aac.jpg"
     },
@@ -355,9 +505,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 110.3,
+      "score": 89.1,
       "story_size": 1,
       "image_local": "images/news_6b365a5c1b1961408411.jpg"
+    },
+    {
+      "title": "महँगिएको सुन र डलर मूल्य किन निरन्तर घट्यो ?",
+      "link": "https://baahrakhari.com/detail/508028",
+      "description": "",
+      "published": "2026-11-22T23:12:00+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "e99ecfbb87c0fd33",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 88.9,
+      "story_size": 1
     },
     {
       "title": "बालेन भारत भ्रमण : सीमा विवाद र एयर रुटमा सहमति नहुने, के–केमा हुँदैछ सहमति ?",
@@ -374,27 +542,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.7,
+      "score": 88.5,
       "story_size": 1,
       "image_local": "images/news_f4d2b6a2093009c2139d.webp"
-    },
-    {
-      "title": "दोस्रो माछापुच्छ्रे आमन्त्रित गल्फको उपाधि प्रेम तामाङलाई",
-      "link": "https://baahrakhari.com/detail/508027",
-      "description": "",
-      "published": "2026-11-22T23:03:08+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "7df8be44c24bfe4a",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 109.5,
-      "story_size": 1
     },
     {
       "title": "कामपाबाट १० बालबालिका जलवायु परिवर्तन सद्‌भावना दूत बन्दै",
@@ -411,26 +561,26 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.5,
+      "score": 88.4,
       "story_size": 1,
       "image_local": "images/news_e3e07dd06f29ec242f08.jpg"
     },
     {
-      "title": "पोखरामा करिब ५० करोडको लगानीमा ‘क्लब भोल्कानो’ निर्माण हुँदै",
-      "link": "https://baahrakhari.com/detail/508026",
+      "title": "दोस्रो माछापुच्छ्रे आमन्त्रित गल्फको उपाधि प्रेम तामाङलाई",
+      "link": "https://baahrakhari.com/detail/508027",
       "description": "",
-      "published": "2026-11-22T22:56:26+05:45",
+      "published": "2026-11-22T23:03:08+05:45",
       "source": "Baahrakhari",
-      "category": "business",
+      "category": "nepal",
       "image": "",
       "related_sources": [
         "Baahrakhari"
       ],
-      "id": "837ba3b63f7bccde",
+      "id": "7df8be44c24bfe4a",
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.1,
+      "score": 88.3,
       "story_size": 1
     },
     {
@@ -448,9 +598,27 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 109.1,
+      "score": 88.0,
       "story_size": 1,
       "image_local": "images/news_48fe5a4664f00db9b4fe.jpg"
+    },
+    {
+      "title": "पोखरामा करिब ५० करोडको लगानीमा ‘क्लब भोल्कानो’ निर्माण हुँदै",
+      "link": "https://baahrakhari.com/detail/508026",
+      "description": "",
+      "published": "2026-11-22T22:56:26+05:45",
+      "source": "Baahrakhari",
+      "category": "business",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari"
+      ],
+      "id": "837ba3b63f7bccde",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 87.9,
+      "story_size": 1
     },
     {
       "title": "चितवनमा ‘बिल्ड नेपाल एक्स्पो–२०२६’ हुँदै",
@@ -467,7 +635,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.5,
+      "score": 87.4,
       "story_size": 1
     },
     {
@@ -485,7 +653,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.5,
+      "score": 87.3,
       "story_size": 1,
       "image_local": "images/news_694b53c92e9c4628db71.jpg"
     },
@@ -504,7 +672,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.3,
+      "score": 87.1,
       "story_size": 1,
       "image_local": "images/news_94c8e5c1a79aacfa3b40.webp"
     },
@@ -523,7 +691,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.2,
+      "score": 87.1,
       "story_size": 1,
       "image_local": "images/news_31b6263a390900bc2d4f.jpg"
     },
@@ -542,27 +710,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 108.0,
+      "score": 86.8,
       "story_size": 1,
       "image_local": "images/news_8034ae0081612405db65.webp"
-    },
-    {
-      "title": "विपद् प्रभावित क्षेत्र पुगेपछि थापाले भने- सरकारको दाबी र वास्तविकतामा ठूलो अन्तर छ",
-      "link": "https://baahrakhari.com/detail/508023",
-      "description": "",
-      "published": "2026-11-22T22:38:44+05:45",
-      "source": "Baahrakhari",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari"
-      ],
-      "id": "e512d0a34e66eadc",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 107.9,
-      "story_size": 1
     },
     {
       "title": "उच्च जोखिमको प्रसूति शल्यक्रियाबाट पाँच किलोको शिशु जन्माइयो",
@@ -579,7 +729,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.8,
+      "score": 86.6,
       "story_size": 1,
       "image_local": "images/news_e4b2575e852f03352f04.jpg"
     },
@@ -598,7 +748,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.2,
+      "score": 86.0,
       "story_size": 1,
       "image_local": "images/news_053c9ae7c56767fd9ed0.webp"
     },
@@ -617,7 +767,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 107.1,
+      "score": 85.9,
       "story_size": 1,
       "image_local": "images/news_cee6070a22a0d3974b66.jpg"
     },
@@ -636,7 +786,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 106.8,
+      "score": 85.7,
       "story_size": 1,
       "image_local": "images/news_cf92067863387cb5de55.jpg"
     },
@@ -655,7 +805,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.7,
+      "score": 84.5,
       "story_size": 1
     },
     {
@@ -673,7 +823,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 105.4,
+      "score": 84.3,
       "story_size": 1,
       "image_local": "images/news_d0b059dfd368aa310bfb.jpg"
     },
@@ -692,7 +842,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.9,
+      "score": 83.8,
       "story_size": 1,
       "image_local": "images/news_3c088fbbcbd8a77058b1.webp"
     },
@@ -711,7 +861,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.6,
+      "score": 83.4,
       "story_size": 1
     },
     {
@@ -729,7 +879,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 104.4,
+      "score": 83.2,
       "story_size": 1,
       "image_local": "images/news_e7a01d1d958209cf8672.jpg"
     },
@@ -748,7 +898,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.9,
+      "score": 82.8,
       "story_size": 1,
       "image_local": "images/news_7fa56ec583882a804f7c.webp"
     },
@@ -767,7 +917,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.8,
+      "score": 82.6,
       "story_size": 1
     },
     {
@@ -785,7 +935,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.8,
+      "score": 82.6,
       "story_size": 1
     },
     {
@@ -803,7 +953,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.7,
+      "score": 82.5,
       "story_size": 1
     },
     {
@@ -821,7 +971,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.6,
+      "score": 82.5,
       "story_size": 1
     },
     {
@@ -839,7 +989,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.6,
+      "score": 82.5,
       "story_size": 1
     },
     {
@@ -857,7 +1007,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.6,
+      "score": 82.5,
       "story_size": 1
     },
     {
@@ -875,7 +1025,25 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.6,
+      "score": 82.4,
+      "story_size": 1
+    },
+    {
+      "title": "ब्रिफिङ : के-के भयो प्रधानमन्त्री बालेनको दिल्ली भ्रमण पहिलो दिन ?",
+      "link": "https://www.onlinekhabar.com/2026/11/2063411/briefing-what-happened-on-the-first-day-of-prime-minister-balens-visit-to-delhi",
+      "description": "दिल्लीमा बालेनले राख्ने प्राथमिकतामा सामान्य फेरबदल भएको जानकारी हामीले पाएका छौं । भोलि मोदी र बालेनबीचको वार्तापछि सार्वजनिक हुने भनिएको १० बुँदे एजेन्डा सूची पनि अनलाइनखबरले सरकारी पक्षबाट प्राप्त गरेको छ । अन्यथा नभए भोलि त्यसैको वरिपरि शिखर वार्तामा सहमति हुनेछ ।",
+      "published": "2026-11-22T15:48:33+00:00",
+      "source": "OnlineKhabar",
+      "category": "politics",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar"
+      ],
+      "id": "e061eb9aa3825b92",
+      "source_count": 1,
+      "verified": false,
+      "local": false,
+      "score": 82.4,
       "story_size": 1
     },
     {
@@ -893,27 +1061,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.6,
+      "score": 82.4,
       "story_size": 1,
       "image_local": "images/news_c8223f49b50ac5ad8881.jpg"
-    },
-    {
-      "title": "ब्रिफिङ : के-के भयो प्रधानमन्त्री बालेनको दिल्ली भ्रमण पहिलो दिन ?",
-      "link": "https://www.onlinekhabar.com/2026/11/2063411/briefing-what-happened-on-the-first-day-of-prime-minister-balens-visit-to-delhi",
-      "description": "दिल्लीमा बालेनले राख्ने प्राथमिकतामा सामान्य फेरबदल भएको जानकारी हामीले पाएका छौं । भोलि मोदी र बालेनबीचको वार्तापछि सार्वजनिक हुने भनिएको १० बुँदे एजेन्डा सूची पनि अनलाइनखबरले सरकारी पक्षबाट प्राप्त गरेको छ । अन्यथा नभए भोलि त्यसैको वरिपरि शिखर वार्तामा सहमति हुनेछ ।",
-      "published": "2026-11-22T15:48:33+00:00",
-      "source": "OnlineKhabar",
-      "category": "politics",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "e061eb9aa3825b92",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 103.5,
-      "story_size": 1
     },
     {
       "title": "दिल्लीतिर टिठ, पेकिङतिर पिठ नहोस्",
@@ -930,7 +1080,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.5,
+      "score": 82.3,
       "story_size": 1
     },
     {
@@ -948,7 +1098,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.5,
+      "score": 82.3,
       "story_size": 1
     },
     {
@@ -966,7 +1116,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.4,
+      "score": 82.2,
       "story_size": 1
     },
     {
@@ -984,7 +1134,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.4,
+      "score": 82.2,
       "story_size": 1
     },
     {
@@ -1002,7 +1152,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.3,
+      "score": 82.1,
       "story_size": 1
     },
     {
@@ -1020,7 +1170,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.3,
+      "score": 82.1,
       "story_size": 1
     },
     {
@@ -1038,7 +1188,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.2,
+      "score": 82.0,
       "story_size": 1
     },
     {
@@ -1056,7 +1206,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.1,
+      "score": 82.0,
       "story_size": 1
     },
     {
@@ -1074,7 +1224,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.0,
+      "score": 81.9,
       "story_size": 1
     },
     {
@@ -1092,7 +1242,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.0,
+      "score": 81.8,
       "story_size": 1
     },
     {
@@ -1110,7 +1260,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 103.0,
+      "score": 81.8,
       "story_size": 1,
       "image_local": "images/news_6556a982a0eb05c9fbbe.jpg"
     },
@@ -1129,7 +1279,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.8,
+      "score": 81.6,
       "story_size": 1,
       "image_local": "images/news_74b6c6faa3eae85ddda1.webp"
     },
@@ -1148,7 +1298,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 102.1,
+      "score": 80.9,
       "story_size": 1,
       "image_local": "images/news_64a04d23a854a7b723f9.webp"
     },
@@ -1167,7 +1317,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.7,
+      "score": 80.6,
       "story_size": 1,
       "image_local": "images/news_d6aec6b540b37d62b2eb.webp"
     },
@@ -1186,7 +1336,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.5,
+      "score": 80.3,
       "story_size": 1
     },
     {
@@ -1204,7 +1354,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.4,
+      "score": 80.2,
       "story_size": 1,
       "image_local": "images/news_076f7756026064a8bbab.jpg"
     },
@@ -1223,7 +1373,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.0,
+      "score": 79.8,
       "story_size": 1,
       "image_local": "images/news_53be58850936b469b5eb.jpg"
     },
@@ -1242,7 +1392,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 101.0,
+      "score": 79.8,
       "story_size": 1,
       "image_local": "images/news_15df0811674dcd2bcc26.jpg"
     },
@@ -1261,7 +1411,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.5,
+      "score": 79.3,
       "story_size": 1,
       "image_local": "images/news_b502cc29295e8c132aec.webp"
     },
@@ -1280,7 +1430,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 100.1,
+      "score": 78.9,
       "story_size": 1,
       "image_local": "images/news_e95544e16a0562cf8727.jpg"
     },
@@ -1299,7 +1449,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.9,
+      "score": 78.7,
       "story_size": 1,
       "image_local": "images/news_ff3267aaf398091a407b.webp"
     },
@@ -1318,7 +1468,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.7,
+      "score": 78.6,
       "story_size": 1,
       "image_local": "images/news_d8254941d7a3a822259a.jpg"
     },
@@ -1337,28 +1487,9 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 99.4,
+      "score": 78.2,
       "story_size": 1,
       "image_local": "images/news_8034ae0081612405db65.webp"
-    },
-    {
-      "title": "झापा महिला गोल्डकप : त्रिभुवन आर्मी क्लब सेमिफाइनलमा प्रवेश",
-      "link": "https://www.ratopati.com/story/606938/jhapa-womens-gold-cup-tribhuvan-army-club-advances-to-semifinals",
-      "description": "झापा । त्रिभुवन आर्मी फुटबल क्लबले भारतीय टोली गयेसपुर महिला फुटबल एकेडेमीलाई १०–० गोलले पराजित गर्दै दोस्रो झापा महिला गोल्डकपको सेमिफाइनलमा प्रवेश गरेको छ । शिवसताक्षीस्थित दुधे रङ्गशालामा आज भएको खेलमा आर्मीको जितमा चन्द्रा भण्डारी र",
-      "published": "2026-11-22T14:00:57+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://rpcdn.ratopati.com/media/albums/Football_fcUyyci2kr.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "73cfbffdac338030",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 99.4,
-      "story_size": 1,
-      "image_local": "images/news_167d9110df9ace439317.jpg"
     },
     {
       "title": "बालेन–मोदीले उद्घाटन गर्ने रेलको १६ वर्ष पुरानो कथा, अझै अधुरै छन् थुप्रै वाचा",
@@ -1375,46 +1506,8 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.8,
+      "score": 77.6,
       "story_size": 1
-    },
-    {
-      "title": "एनपीएलमा चम्किएका रिजनलाई हेटौँडामा भव्य स्वागत (तस्बिरहरू)",
-      "link": "https://www.ratopati.com/story/606937/region-shines-in-npl-receives-grand-welcome-in-hetauda-photos",
-      "description": "हेटौँडा । नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करणमा उत्कृष्ट प्रदर्शन गरेका क्रिकेट खेलाडी रिजन ढकाललाई गृह नगर हेटौँडामा भव्य स्वागत गरिएको छ । एनपीएल सकेर हेटौँडा पुगेका ढकाललाई स्थानीय तथा जनप्रतिनिधिले फूलमाला र खादा",
-      "published": "2026-11-22T13:45:48+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/rijan-dhakal_LQvDnEcf0S.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "a50e3ec4252056da",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 98.4,
-      "story_size": 1,
-      "image_local": "images/news_2af73691fb884cc91cf6.webp"
-    },
-    {
-      "title": "लागु औषधसहित एक जना पक्राउ",
-      "link": "https://gorkhapatraonline.com/news/230002",
-      "description": "इमान सिं राना रामपुर (पाल्पा), मंसिर ६ गते । सिद्धार्थ राजमार्गअन्तर्गत पाल्पाको तिनाउ गाउँपालिका–३ पैठेडाँडाबाट प्रहरीले लागु औषधसहित एक जनालाई पक्राउ गरेको छ ।बागलुङ नगरपालिका–२,...",
-      "published": "2026-11-22T19:27:21+05:45",
-      "source": "Gorkhapatra Online",
-      "category": "nepal",
-      "image": "https://gorkhapatraonline.com/storage/media/392815/conversions/IMG_20261122_144106-original.jpg",
-      "related_sources": [
-        "Gorkhapatra Online"
-      ],
-      "id": "5a398c9db00ad0f7",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 98.1,
-      "story_size": 1,
-      "image_local": "images/news_a4b5d63cbdb4e3d2f89e.jpg"
     },
     {
       "title": "फ्रान्समा अश्रुग्यासको प्रजनन स्वास्थ्यमा असरबारे चिन्ता",
@@ -1431,7 +1524,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 98.0,
+      "score": 76.8,
       "story_size": 1
     },
     {
@@ -1449,7 +1542,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.9,
+      "score": 76.7,
       "story_size": 1
     },
     {
@@ -1467,7 +1560,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 97.1,
+      "score": 76.0,
       "story_size": 1
     },
     {
@@ -1485,7 +1578,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.8,
+      "score": 75.7,
       "story_size": 1
     },
     {
@@ -1503,25 +1596,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.7,
-      "story_size": 1
-    },
-    {
-      "title": "क्यासिनो सञ्चालकको पुनरावेदन फाइल दुई वर्षदेखि महान्यायाधिवक्ताको कार्यालयमा",
-      "link": "https://www.ratopati.com/story/606936/why-has-the-appeal-file-against-the-casino-operator-been-stuck-in-the-attorney-generals-office-for-two-years",
-      "description": "काठमाडौँ । विशेष अदालतबाट सफाइ पाएका क्यासिनो सञ्चालक सुरेन्द्रबहादुर सिंहविरुद्ध सर्वोच्च अदालतमा पुनरावेदनका लागि तयार भएको फाइल दुई वर्षदेखि महान्यायाधिवक्ताको कार्यालयमै थन्किएको छ । नायब महान्यायाधिवक्तासहितका अधिकारीले पुनरावेदन नजाने राय उठाउँदा तत्कालीन महान्यायाधिवक्ता रमेश बडालले पुनरावेदन",
-      "published": "2026-11-22T13:20:20+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/mayanyaya_nRWGrunP77.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "62abf314f7e3aa0c",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 96.7,
+      "score": 75.5,
       "story_size": 1
     },
     {
@@ -1539,7 +1614,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.3,
+      "score": 75.2,
       "story_size": 1
     },
     {
@@ -1557,25 +1632,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 96.3,
-      "story_size": 1
-    },
-    {
-      "title": "प्रधानमन्त्री बालेन्द्र र भारतीय विदेशमन्त्री जयशंकरबिचको वार्ता सकियो",
-      "link": "https://www.ratopati.com/story/606935/talks-between-prime-minister-balendra-and-indian-external-affairs-minister-jaishankar-conclude",
-      "description": "नयाँ दिल्ली । प्रधानमन्त्री बालेन्द्र शाह र भारतीय विदेशमन्त्री डाक्टर एस जयशंकरबिचको भेटवार्ता सकिएको छ । नयाँ दिल्लीस्थित होटल ताजमा साँझ ६ बजेदेखि ६ः३० बजेसम्म उनीहरूबिच भेटवार्ता भएको हो । भेटका क्रममा विदेशमन्त्री जयशंकरले प्रधानमन्त्री शाहको भारत",
-      "published": "2026-11-22T13:10:08+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/balen-sjayashankar_vidkrZXEnu.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "3cea7a240630a6dc",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 96.0,
+      "score": 75.1,
       "story_size": 1
     },
     {
@@ -1593,7 +1650,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.8,
+      "score": 74.7,
       "story_size": 1
     },
     {
@@ -1611,7 +1668,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.4,
+      "score": 74.2,
       "story_size": 1
     },
     {
@@ -1629,25 +1686,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.4,
-      "story_size": 1
-    },
-    {
-      "title": "कार्की नेतृत्वको कोशी सरकार ढाल्ने कसरत फेरि बढ्यो",
-      "link": "https://www.ratopati.com/story/606932/efforts-to-topple-the-karki-led-koshi-government-intensify-again",
-      "description": "विराटनगर । कोशी प्रदेश सरकारका मुख्यमन्त्री हिक्मतकुमार कार्कीको राजीनामा आउने चर्चाले राजनीतिक क्षेत्र तरङ्गित बनेको छ । यद्यपि नेताहरू यसको औपचारिक रूपमा पुष्टि गर्न हिच्किचाइरहेका छन् । मुख्यमन्त्री कार्की र एमाले अध्यक्ष केपी शर्मा ओलीबिच दसैँ",
-      "published": "2026-11-22T13:00:00+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/hikmat-cover_x3pbtwjTkJ.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "663e283bd97f0cef",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 95.3,
+      "score": 74.2,
       "story_size": 1
     },
     {
@@ -1665,7 +1704,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.2,
+      "score": 74.1,
       "story_size": 1
     },
     {
@@ -1683,7 +1722,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.1,
+      "score": 74.0,
       "story_size": 1
     },
     {
@@ -1701,7 +1740,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 95.1,
+      "score": 73.9,
       "story_size": 1
     },
     {
@@ -1719,7 +1758,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.9,
+      "score": 73.7,
       "story_size": 1
     },
     {
@@ -1737,7 +1776,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.9,
+      "score": 73.7,
       "story_size": 1
     },
     {
@@ -1755,7 +1794,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.6,
+      "score": 73.4,
       "story_size": 1
     },
     {
@@ -1773,7 +1812,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.6,
+      "score": 73.4,
       "story_size": 1
     },
     {
@@ -1791,25 +1830,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.5,
-      "story_size": 1
-    },
-    {
-      "title": "कीर्तिपुरमा सिरक–डसना उद्योगमा आगलागी",
-      "link": "https://www.ratopati.com/story/606934/fire-breaks-out-at-sirak-dasna-industry-in-kirtipur",
-      "description": "काठमाडौँ । काठमाडौँको कीर्तिपुर नगरपालिका–९ ढल्पामा रहेको सिरक–डसना उद्योगमा आगलागी हुँदा लाखौँ रुपैयाँको क्षति भएको छ। विकास चौधरीले सञ्चालन गर्दै आएको उद्योगमा आज दिउँसो करिब २ः ३० बजे आगलागी भएको हो। विद्युत् सर्ट भएर आगलागी भएको",
-      "published": "2026-11-22T12:45:19+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/dhalpa-fire_-4485_6TRKnkCaHG.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "fcb9944f29be2198",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 94.3,
+      "score": 73.3,
       "story_size": 1
     },
     {
@@ -1827,7 +1848,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 94.1,
+      "score": 72.9,
       "story_size": 1
     },
     {
@@ -1845,7 +1866,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.8,
+      "score": 72.6,
       "story_size": 1
     },
     {
@@ -1863,7 +1884,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.8,
+      "score": 72.6,
       "story_size": 1
     },
     {
@@ -1881,7 +1902,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.7,
+      "score": 72.5,
       "story_size": 1
     },
     {
@@ -1899,7 +1920,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.6,
+      "score": 72.4,
       "story_size": 1
     },
     {
@@ -1917,7 +1938,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 93.3,
+      "score": 72.1,
       "story_size": 1
     },
     {
@@ -1935,7 +1956,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.6,
+      "score": 71.5,
       "story_size": 1
     },
     {
@@ -1953,7 +1974,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 92.0,
+      "score": 70.8,
       "story_size": 1
     },
     {
@@ -1971,7 +1992,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 91.3,
+      "score": 70.1,
       "story_size": 1
     },
     {
@@ -1989,7 +2010,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.8,
+      "score": 69.7,
       "story_size": 1
     },
     {
@@ -2007,7 +2028,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.1,
+      "score": 68.9,
       "story_size": 1
     },
     {
@@ -2025,7 +2046,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 90.0,
+      "score": 68.8,
       "story_size": 1
     },
     {
@@ -2043,7 +2064,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.7,
+      "score": 68.5,
       "story_size": 1
     },
     {
@@ -2061,7 +2082,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.7,
+      "score": 68.5,
       "story_size": 1
     },
     {
@@ -2079,7 +2100,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.5,
+      "score": 68.3,
       "story_size": 1
     },
     {
@@ -2097,7 +2118,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.4,
+      "score": 68.3,
       "story_size": 1
     },
     {
@@ -2115,7 +2136,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 89.1,
+      "score": 67.9,
       "story_size": 1
     },
     {
@@ -2133,7 +2154,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 88.9,
+      "score": 67.7,
       "story_size": 1
     },
     {
@@ -2151,7 +2172,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.8,
+      "score": 66.6,
       "story_size": 1
     },
     {
@@ -2169,7 +2190,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.2,
+      "score": 66.0,
       "story_size": 1
     },
     {
@@ -2187,7 +2208,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 87.1,
+      "score": 66.0,
       "story_size": 1
     },
     {
@@ -2205,7 +2226,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 86.4,
+      "score": 65.2,
       "story_size": 1
     },
     {
@@ -2223,7 +2244,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.7,
+      "score": 64.6,
       "story_size": 1
     },
     {
@@ -2241,7 +2262,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.2,
+      "score": 64.0,
       "story_size": 1
     },
     {
@@ -2259,7 +2280,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.1,
+      "score": 63.9,
       "story_size": 1
     },
     {
@@ -2277,7 +2298,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 85.0,
+      "score": 63.9,
       "story_size": 1
     },
     {
@@ -2295,7 +2316,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.9,
+      "score": 63.7,
       "story_size": 1
     },
     {
@@ -2313,7 +2334,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.6,
+      "score": 63.4,
       "story_size": 1
     },
     {
@@ -2331,7 +2352,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.5,
+      "score": 63.3,
       "story_size": 1
     },
     {
@@ -2349,7 +2370,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 84.5,
+      "score": 63.3,
       "story_size": 1
     },
     {
@@ -2367,7 +2388,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 83.6,
+      "score": 62.5,
       "story_size": 1
     },
     {
@@ -2385,7 +2406,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 66.3,
+      "score": 45.1,
       "story_size": 1
     },
     {
@@ -2403,7 +2424,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 63.3,
+      "score": 42.1,
       "story_size": 1
     },
     {
@@ -2421,7 +2442,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 60.5,
+      "score": 39.3,
       "story_size": 1
     },
     {
@@ -2439,7 +2460,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 54.1,
+      "score": 32.9,
       "story_size": 1
     },
     {
@@ -2457,7 +2478,7 @@
       "source_count": 1,
       "verified": false,
       "local": false,
-      "score": 52.5,
+      "score": 31.3,
       "story_size": 1
     },
     {
