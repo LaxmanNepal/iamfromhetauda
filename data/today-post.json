@@ -1,83 +1,162 @@
 {
   "date_np": "2026-11-25",
-  "generated_at": "2026-11-24T21:02:56.484458+00:00",
+  "generated_at": "2026-11-25T04:15:32.376822+00:00",
   "items": [
     {
+      "title": "हात्तीको आक्रमणबाट सप्तरीमा एकजनाको मृत्यु",
+      "link": "https://baahrakhari.com/detail/508236",
+      "description": "",
+      "published": "2026-11-25T09:34:45+05:45",
+      "source": "Baahrakhari",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Baahrakhari",
+        "Khabarhub",
+        "Ratopati"
+      ],
+      "id": "adeab111ffd39991",
+      "source_count": 3,
+      "verified": true,
+      "local": false,
+      "score": 142.3,
+      "story_size": 3
+    },
+    {
+      "title": "चौथो कर्णाली अन्तर्राष्ट्रिय चलचित्र महोत्सव फागुन २३ देखि",
+      "link": "https://www.ratopati.com/story/607449/the-4th-karnali-international-film-festival-will-begin-from-falgun-23",
+      "description": "काठमाडौँ। चौथो संस्करणको कर्णाली अन्तर्राष्ट्रिय चलचित्र महोत्सव (किफ) २०८३ फागुन २३ गतेदेखि सुरु हुने जानकारी गराइएको छ। काठमाडौँमा पत्रकार सम्मेलन गर्दै दैलेखको गुराँसमा आयोजना हुने गुराँस पर्यटन महोत्सवसँगै याे महोत्सवको शुभारम्भ हुने बताइएको छ। फागुन २४",
+      "published": "2026-11-25T03:28:32+00:00",
+      "source": "Ratopati",
+      "category": "business",
+      "image": "https://npcdn.ratopati.com/media/news/1000188591_ZbtBmAp4YW.webp",
+      "related_sources": [
+        "Ratopati",
+        "OnlineKhabar"
+      ],
+      "id": "219f18996ce54648",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 133.9,
+      "story_size": 2,
+      "image_local": "images/news_3ae6fb6ceac1c9c477e3.webp"
+    },
+    {
+      "title": "दानबहादुर कार्कीको रिट न्यायाधीशद्वय निरौला र पौडेलको संयुक्त इजलासमा",
+      "link": "https://kendrabindu.com/news/576413/",
+      "description": "काठमाडौं । नेपाल प्रहरीकाे महानिरीक्षक पदबाट हटाइएका दानबहादुर कार्कीले दायर गरेको रिटमाथि आज सुनुवाइ हुने भएको छ । सर्वोच्च अदालतमा न्यायाधीशद्वय नृपध्वज निरौला र श्रीकान्त पौडेलको संयुक्त इजलासमा मुद्दाको सुनुवाइका लागि दोस्रो नम्बरमा पेसी तोकिएको छ । यसअघि प्रहरी प्रधान कार्यालयका तर्फबाट प्रतिनिधित्व गर्ने कानुन व्यवसायीले वर्तमान आईजीपी मनोज केसीलाई म्याद तामेल नभएको जानकारी गराएपछि [&#8230;]",
+      "published": "2026-11-25T04:12:32+00:00",
+      "source": "Kendrabindu",
+      "category": "nepal",
+      "image": "",
+      "related_sources": [
+        "Kendrabindu",
+        "Ratopati"
+      ],
+      "id": "ad25b6b080cd7447",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 133.8,
+      "story_size": 2
+    },
+    {
+      "title": "दशौँ राष्ट्रिय खेलकुद : पहिलो दिन पदक तालिकामा बागमतीको अग्रता",
+      "link": "https://www.ratopati.com/story/607457/10th-national-games-bagmati-leads-in-medal-table-on-first-day",
+      "description": "काठमाडौँ । दशौँ राष्ट्रिय खेलकुद प्रतियोगिताअन्तर्गत मंगलबारदेखि सुरु भएका विभिन्न खेलमा पहिलो दिन बागमती प्रदेशले अग्रता लिएको छ । पहिलो दिन ११ स्वर्ण पदकका लागि भएको प्रतिस्पर्धामा बागमतीले ४ स्वर्ण, २ रजत र ३ कांस्य गरी",
+      "published": "2026-11-25T03:51:58+00:00",
+      "source": "Ratopati",
+      "category": "sports",
+      "image": "https://npcdn.ratopati.com/media/news/reastra-khelkud_q4R1QkhMy8.webp",
+      "related_sources": [
+        "Ratopati"
+      ],
+      "id": "abda5fc859415db0",
+      "source_count": 1,
+      "verified": false,
+      "local": true,
+      "score": 129.5,
+      "story_size": 1,
+      "image_local": "images/news_b066dda77fb4768becd4.webp"
+    },
+    {
+      "title": "यस्तो छ आजको मौसम पूर्वानुमान",
+      "link": "https://nepalsamaya.com/detail/147989",
+      "description": "",
+      "published": "2026-11-25T08:06:17+05:45",
+      "source": "Nepal Samaya",
+      "category": "society",
+      "image": "https://nepalsamaya.com/uploads/posts/weather-tomorrow854-1751967901.jpg",
+      "related_sources": [
+        "Nepal Samaya",
+        "Khabarhub"
+      ],
+      "id": "052b68589047d898",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 129.4,
+      "story_size": 2,
+      "image_local": "images/news_24fae20a725050f43f91.jpg"
+    },
+    {
+      "title": "दशौं राष्ट्रिय खेलकुद : आज पनि पाँच खेलमा प्रतिस्पर्धा",
+      "link": "https://www.onlinekhabar.com/2026/11/2064843/10th-national-games-competition-in-five-sports-today-as-well",
+      "description": "९ मंसिर, काठमाडौं । दशौं राष्ट्रिय खेलकुद अन्तर्गत आज बुधबार विभिन्न पाँच खेलको प्रतिस्पर्धाहरू हुने भएका छन्। दशाैंको औपचारिक उद्घाटन मंसिर १६ गते हुने भए पनि केही खेलहरु भने मंगलबारदेखि नै सुरु भइसकेका छन्। पाैडीमा ११ इभेन्टको पदक नै टुङ्गो लागिसकेको छ । पहिलो दिन जस्तै आज बुधबार प्रतिस्पर्धा हुने खेलहरूमा महिला क्रिकेट, पुरुष फुटबल, [&#8230;]",
+      "published": "2026-11-25T02:48:51+00:00",
+      "source": "OnlineKhabar",
+      "category": "sports",
+      "image": "",
+      "related_sources": [
+        "OnlineKhabar",
+        "Nepal Samaya"
+      ],
+      "id": "3141a790e9fbc48d",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 128.3,
+      "story_size": 2
+    },
+    {
+      "title": "भोटेकोशी बाढी प्रभावित ९७० परिवारलाई घरभाडा रकम वितरण सुरु",
+      "link": "https://khabarhub.com/2026/25/1051312/",
+      "description": "नुवाकोट– भोटेकोसी बाढीबाट प्रभावित विदुर नगरपालिकाका परिवारलाई घरभाडाबापतको रकम वितरण सुरु गरिएको छ । सङ्घीय सरकारले बाढी प्रभावित परिवारलाई घरभाडाबापत नगद सहयोग उपलब्ध गराउने घोषणा गरेअनुसार विदुर नगरपालिकाका ९७० परिवारको बैङ्क खातामा रकम पठाउन थालिएको हो । नगरप्रमुख राजन श्रेष्ठका अनुसार बाढीबाट प्रभावित भई लाभग्राही कायम भएका र घरभाडामा बस्दै आएका परिवारलाई उक्त रकम उपलब्ध [&#8230;]",
+      "published": "2026-11-25T02:41:27+00:00",
+      "source": "Khabarhub",
+      "category": "tech",
+      "image": "",
+      "related_sources": [
+        "Khabarhub",
+        "OnlineKhabar"
+      ],
+      "id": "b6c3278afef40391",
+      "source_count": 2,
+      "verified": true,
+      "local": false,
+      "score": 127.8,
+      "story_size": 2
+    },
+    {
       "title": "सिद्धार्थनगरको फोहोर व्यवस्थापन पाँच वर्षका लागि निजी कम्पनीलाई",
-      "link": "https://www.ratopati.com/story/607419/siddharthanagars-waste-management-to-be-handed-over-to-private-company-for-five-years",
-      "description": "रुपन्देही । सिद्धार्थनगर नगरपालिकाले नगर क्षेत्रको फोहोरमैला सङ्कलन, ढुवानी र व्यवस्थापनको जिम्मेवारी पाँच वर्षका लागि निजी कम्पनीलाई दिएको छ । नगरपालिकाले रुपन्देहीको मायादेवी गाउँपालिका–७ स्थित वातावरणीय सुन्दर सरसफाइ तथा कृषि प्रवर्द्धन अफ नेपाल प्रालिसँग फोहोरमैला व्यवस्थापनका",
-      "published": "2026-11-24T19:24:56+00:00",
-      "source": "Ratopati",
+      "link": "https://kendrabindu.com/economy/576389/",
+      "description": "रूपन्देही । सिद्धार्थनगर नगरपालिकाले नगर क्षेत्रको फोहोरमैला सङ्कलन, ढुवानी र व्यवस्थापनको जिम्मेवारी पाँच वर्षका लागि निजी कम्पनीलाई दिएको छ । नगरपालिकाले रुपन्देहीको मायादेवी गाउँपालिका–७ स्थित वातावरणीय सुन्दर सरसफाइ तथा कृषि प्रवद्र्धन अफ नेपाल प्रालिसँग फोहोरमैला व्यवस्थापनका लागि सम्झौता गरेको हो । सोमबार भएको सम्झौताअनुसार कम्पनीले नगर क्षेत्रको फोहोर सङ्कलन, ढुवानी, वर्गीकरण, अन्तिम व्यवस्थापन तथा समग्र [&#8230;]",
+      "published": "2026-11-25T02:35:27+00:00",
+      "source": "Kendrabindu",
       "category": "nepal",
-      "image": "https://npcdn.ratopati.com/media/news/siddharthanagar-nagarpalika_d2QG2ue6BX.jpg",
+      "image": "",
       "related_sources": [
-        "Ratopati"
+        "Kendrabindu",
+        "OnlineKhabar"
       ],
-      "id": "b3985d1903afb5f9",
-      "source_count": 1,
-      "verified": false,
+      "id": "2e6ee501e149da13",
+      "source_count": 2,
+      "verified": true,
       "local": false,
-      "score": 106.5,
-      "story_size": 1,
-      "image_local": "images/news_120b2bac4931cfa393e9.jpg"
-    },
-    {
-      "title": "बाढी प्रभावित ९७० परिवारलाई घरभाडा रकम वितरण सुरु",
-      "link": "https://www.ratopati.com/story/607418/distribution-of-house-rent-money-to-970-flood-affected-families-begins",
-      "description": "नुवाकोट । भोटेकोसी बाढीबाट प्रभावित विदुर नगरपालिकाका परिवारलाई घरभाडाबापतको रकम वितरण सुरु गरिएको छ । सङ्घीय सरकारले बाढी प्रभावित परिवारलाई घर भाडाबापत नगद सहयोग उपलब्ध गराउने घोषणा गरेअनुसार विदुर नगरपालिकाका ९७० परिवारको बैङ्क खातामा रकम पठाउन",
-      "published": "2026-11-24T19:10:45+00:00",
-      "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/rasuwa-bhotekoshi-badhi_xJnNFwOg50.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "1e45423724907dcf",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 105.5,
-      "story_size": 1,
-      "image_local": "images/news_1e51eccf357e1b6429eb.webp"
-    },
-    {
-      "title": "चन्द्रविनायक र भैरवनाथ जात्रा सुरु",
-      "link": "https://www.ratopati.com/story/607417/chandravinayak-and-bhairavnath-jatra-begins",
-      "description": "काठमाडौँ । करिब साढे ३०० वर्ष पुरानो चन्द्रविनायक तथा भैरवनाथ जात्रा मंगलबारदेखि काठमाडौँको चाबहिल क्षेत्रमा सुरु भएको छ । प्रत्येक वर्ष कार्तिक शुक्ल पूर्णिमादेखि मार्गशीर्ष कृष्ण तृतीया चार दिनसम्म पशुपति, जयवागेश्वरी, मित्रपार्क, चाबहिल र चुच्चेपाटी क्षेत्रमा",
-      "published": "2026-11-24T18:49:28+00:00",
-      "source": "Ratopati",
-      "category": "nepal",
-      "image": "https://rpcdn.ratopati.com/media/albums/chandrabinayak-festivle_pbk1gu6j9a.jpg",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "3ff983491b489269",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 104.1,
-      "story_size": 1,
-      "image_local": "images/news_ca0645e4357efaf14afd.jpg"
-    },
-    {
-      "title": "१२ बजे १२ समाचार : चिकित्सा शिक्षा क्षेत्रमा शुल्कको किचलोदेखि चितवनमा कृषि कूटनीतिसम्म",
-      "link": "https://www.ratopati.com/story/607415/12-news-at-12-from-the-fee-crisis-in-the-medical-education-sector-to-agricultural-diplomacy-in-chitwan",
-      "description": "काठमाडौँ । आज दिनभरका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति रातोपाटी ब्रिफिङमा १२ बजे १२ समाचार लिएर हाजिर भएका छौँ– १. गगनका कुरा नेपाली कांग्रेसका सभापति गगन थापाले सर्वोच्च अदालतबाट कांग्रेसको आधिकारिकता र महाधिवेशनबाट आएको नेतृत्व उल्टिने विषय",
-      "published": "2026-11-24T18:15:00+00:00",
-      "source": "Ratopati",
-      "category": "society",
-      "image": "https://npcdn.ratopati.com/media/news/12-1_kaJNbI61Nz.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "2e974012d68a2776",
-      "source_count": 1,
-      "verified": false,
-      "local": false,
-      "score": 101.8,
-      "story_size": 1,
-      "image_local": "images/news_9efb21d1f1512ad1a6c1.webp"
+      "score": 127.4,
+      "story_size": 2
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. सिद्धार्थनगरको फोहोर व्यवस्थापन पाँच वर्षका लागि निजी कम्पनीलाई\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/607419/siddharthanagars-waste-management-to-be-handed-over-to-private-company-for-five-years\n\n2. बाढी प्रभावित ९७० परिवारलाई घरभाडा रकम वितरण सुरु\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/607418/distribution-of-house-rent-money-to-970-flood-affected-families-begins\n\n3. चन्द्रविनायक र भैरवनाथ जात्रा सुरु\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/607417/chandravinayak-and-bhairavnath-jatra-begins\n\n4. १२ बजे १२ समाचार : चिकित्सा शिक्षा क्षेत्रमा शुल्कको किचलोदेखि चितवनमा कृषि कूटनीतिसम्म\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/607415/12-news-at-12-from-the-fee-crisis-in-the-medical-education-sector-to-agricultural-diplomacy-in-chitwan\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. हात्तीको आक्रमणबाट सप्तरीमा एकजनाको मृत्यु\nस्रोत: Baahrakhari, Khabarhub, Ratopati\nhttps://baahrakhari.com/detail/508236\n\n2. चौथो कर्णाली अन्तर्राष्ट्रिय चलचित्र महोत्सव फागुन २३ देखि\nस्रोत: Ratopati, OnlineKhabar\nhttps://www.ratopati.com/story/607449/the-4th-karnali-international-film-festival-will-begin-from-falgun-23\n\n3. दानबहादुर कार्कीको रिट न्यायाधीशद्वय निरौला र पौडेलको संयुक्त इजलासमा\nस्रोत: Kendrabindu, Ratopati\nhttps://kendrabindu.com/news/576413/\n\n4. दशौँ राष्ट्रिय खेलकुद : पहिलो दिन पदक तालिकामा बागमतीको अग्रता\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/607457/10th-national-games-bagmati-leads-in-medal-table-on-first-day\n\n5. यस्तो छ आजको मौसम पूर्वानुमान\nस्रोत: Nepal Samaya, Khabarhub\nhttps://nepalsamaya.com/detail/147989\n\n6. दशौं राष्ट्रिय खेलकुद : आज पनि पाँच खेलमा प्रतिस्पर्धा\nस्रोत: OnlineKhabar, Nepal Samaya\nhttps://www.onlinekhabar.com/2026/11/2064843/10th-national-games-competition-in-five-sports-today-as-well\n\n7. भोटेकोशी बाढी प्रभावित ९७० परिवारलाई घरभाडा रकम वितरण सुरु\nस्रोत: Khabarhub, OnlineKhabar\nhttps://khabarhub.com/2026/25/1051312/\n\n8. सिद्धार्थनगरको फोहोर व्यवस्थापन पाँच वर्षका लागि निजी कम्पनीलाई\nस्रोत: Kendrabindu, OnlineKhabar\nhttps://kendrabindu.com/economy/576389/\n\n— I Am From Hetauda"
 }
