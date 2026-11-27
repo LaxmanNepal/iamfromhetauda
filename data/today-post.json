@@ -1,159 +1,44 @@
 {
-  "date_np": "2026-11-26",
-  "generated_at": "2026-11-26T15:39:29.508576+00:00",
+  "date_np": "2026-11-27",
+  "generated_at": "2026-11-27T00:02:35.198646+00:00",
   "items": [
     {
-      "title": "राष्ट्रिय ऊर्जा नीति निर्माणका लागि उच्चस्तरीय समिति गठन",
-      "link": "https://www.thahakhabar.com/detail/312586",
-      "description": "",
-      "published": "2026-11-26T21:23:00+05:45",
-      "source": "Thaha Khabar",
-      "category": "nepal",
-      "image": "https://www.thahakhabar.com/uploads/posts/birajbhakta-1779431549.jpg",
+      "title": "विपत् प्रभावित शिशुलाई सरकारको संरक्षण",
+      "link": "https://gorkhapatraonline.com/news/230524",
+      "description": "गोरखापत्र समाचारदाता काठमाडौँ, मङ्सिर ११ गते । भोटेकोशी हिमबाढीको विपत्बाट आमा वा बुवा वा दुवै अभिभावक गुमाएका शिशु तथा बालबालिकाका लागि सरकारले राज्यका तर्फबाट अभिभावकत्व दिने कार...",
+      "published": "2026-11-27T05:42:41+05:45",
+      "source": "Gorkhapatra Online",
+      "category": "politics",
+      "image": "https://gorkhapatraonline.com/storage/media/393551/conversions/image_a54296f-original.jpg",
       "related_sources": [
-        "Thaha Khabar",
-        "Kendrabindu"
+        "Gorkhapatra Online"
       ],
-      "id": "cd654b05e7099527",
-      "source_count": 2,
-      "verified": true,
+      "id": "87c0f411aaea36f0",
+      "source_count": 1,
+      "verified": false,
       "local": false,
-      "score": 136.9,
-      "story_size": 2,
-      "image_local": "images/news_fb7e4f8dc4ad396e1001.jpg"
+      "score": 112.7,
+      "story_size": 1,
+      "image_local": "images/news_b1706832544f825976a9.jpg"
     },
     {
-      "title": "पूर्वमुख्यसचिव अर्यालको घरमा सीआईबीको छापा",
-      "link": "https://baahrakhari.com/detail/508378",
-      "description": "",
-      "published": "2026-11-26T21:10:00+05:45",
-      "source": "Baahrakhari",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Baahrakhari",
-        "OnlineKhabar"
-      ],
-      "id": "b5bd0764b7573301",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 133.1,
-      "story_size": 2
-    },
-    {
-      "title": "अमेरिकामा मुद्रास्फीति बढ्यो, ब्याजदर थप वृद्धि हुन सक्ने सङ्केत",
-      "link": "https://khabarhub.com/2026/26/1052052/",
-      "description": "वासिङ्टन – अमेरिकामा अक्टोबर महिनामा मुद्रास्फीति दर बढेर केन्द्रीय बैंक फेडरल रिजर्भ (फेड) को २ प्रतिशतको लक्ष्यभन्दा झन्डै दोब्बर पुगेको छ । यसले आगामी दिनमा ब्याजदर थप वृद्धि हुन सक्ने सम्भावना बढाएको छ । ब्युरो अफ इकोनोमिक एनालिसिसका अनुसार, फेडले प्राथमिकता दिने व्यक्तिगत उपभोग खर्च (पीसीई) मूल्य सूचकांकको वार्षिक वृद्धिदर अक्टोबरमा ३.८ प्रतिशत पुगेको छ [&#8230;]",
-      "published": "2026-11-26T14:49:38+00:00",
-      "source": "Khabarhub",
+      "title": "आज यस्तो छ विदेशी मुद्राको विनिमयदर",
+      "link": "https://www.onlinekhabar.com/2026/11/2066044/todays-foreign-exchange-rate-is-54",
+      "description": "११ मंसिर, काठमाडौं । नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १४७ रुपैयाँ ६२ पैसा र बिक्रीदर १४८ रुपैयाँ २२ पैसा निर्धारण गरिएको छ । युरोपियन युरो एकको खरिददर १६१ रुपैयाँ ९५ पैसा र बिक्रीदर १६२ रुपैयाँ ६१ पैसा, युके पाउन्ड स्ट्रलिङ एकको [&#8230;]",
+      "published": "2026-11-26T23:42:54+00:00",
+      "source": "OnlineKhabar",
       "category": "business",
       "image": "",
       "related_sources": [
-        "Khabarhub",
-        "Ratopati"
-      ],
-      "id": "a062d8ed0ff8f04a",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 130.7,
-      "story_size": 2
-    },
-    {
-      "title": "रास्वपा मकवानपुरका उपसभापति टाकाराज थापा पदमुक्त",
-      "link": "https://www.ratopati.com/story/607840/rashtriya-swayamsevak-sangh-rss-makawanpur-deputy-chairman-takaraj-thapa-resigns",
-      "description": "हेटौँडा । राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) को बागमती प्रदेश समितिले मकवानपुरका जिल्ला उपसभापति टाकाराज थापा (सुरेश) लाई पदबाट हटाएको छ। रास्वपाका बागमती प्रदेश सदस्य राजु सुनारका अनुसार मंसिर १० गतेको निर्णयअनुसार थापालाई पदमुक्त गरिएको हो। गत जेठमा",
-      "published": "2026-11-26T15:13:10+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/takaraj_h9UEml7U5f.webp",
-      "related_sources": [
-        "Ratopati"
-      ],
-      "id": "7145e2efce202eaa",
-      "source_count": 1,
-      "verified": false,
-      "local": true,
-      "score": 129.3,
-      "story_size": 1,
-      "image_local": "images/news_92c9e262975f05f0be3a.webp"
-    },
-    {
-      "title": "होल्डिङ सेन्टरबाट सुकुमबासी हटाउने निर्णय फिर्ता लिन कांग्रेसको माग",
-      "link": "https://www.ratopati.com/story/607822/congress-demands-withdrawal-of-decision-to-evict-squatters-from-holding-center",
-      "description": "काठमाडौँ । नेपाली कांग्रेसले होल्डिङ सेन्टरबाट सुकुमबासीलाई हटाउने सरकारको निर्णयप्रति गम्भीर आपत्ति जनाउँदै तत्काल फिर्ता लिन माग गरेको छ । बिहीबार बसेको पार्टीको केन्द्रीय कार्यसमिति बैठकले वैकल्पिक आवासको सुनिश्चितता नगरी विस्थापित सुकुमबासी परिवारलाई अस्थायी आश्रयस्थलबाट समेत",
-      "published": "2026-11-26T13:20:39+00:00",
-      "source": "Ratopati",
-      "category": "politics",
-      "image": "https://npcdn.ratopati.com/media/news/gagan-thapa-2_qzmaQvCCyS.webp",
-      "related_sources": [
-        "Ratopati",
         "OnlineKhabar"
       ],
-      "id": "17e8281394532822",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 127.8,
-      "story_size": 2,
-      "image_local": "images/news_ac585151fc8d48cbc62b.webp"
-    },
-    {
-      "title": "अनुदानको मल दुरुपयोग गरेपछि…",
-      "link": "https://kendrabindu.com/nigrani/577135/",
-      "description": "झापा । सरकारबाट अनुदानमा प्राप्त रासायनिक मलको बिक्री वितरणमा अनियमितता गरेको पाइएपछि झापाको बुद्धशान्ति गाउँपालिका–३ स्थित संजिवनी कृषि भण्डारलाई जिल्ला प्रशासन कार्यालयले दुई लाख रुपैयाँ जरिवाना गरेको छ । अनुदानित रासायनिक मल अनधिकृत रूपमा बिक्री वितरण भइरहेको भन्ने गोप्य सूचनाका आधारमा आज गरिएको आकस्मिक अनुगमनका क्रममा भण्डारको मल मौज्दात र बिक्री विवरणमा अनियमितता भेटिएको हो [&#8230;]",
-      "published": "2026-11-26T12:50:11+00:00",
-      "source": "Kendrabindu",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "Kendrabindu",
-        "Gorkhapatra Online"
-      ],
-      "id": "3f43633dcaa5cbd1",
-      "source_count": 2,
-      "verified": true,
-      "local": false,
-      "score": 122.7,
-      "story_size": 2
-    },
-    {
-      "title": "चोभार गल्छीमा चराका उडान (तस्वीरहरू)",
-      "link": "https://www.onlinekhabar.com/2026/11/2065440/bird-flight-in-chobhar-gulch-photos",
-      "description": "बागमती नदीको कलकल आवाज, चिसो हावा र वरिपरिको शान्त वातावरणसँगै चराचुरुङ्गीहरूको उडानले चोभार गल्छी पुग्ने जो कोहीलाई केही क्षण भए पनि प्रकृतिसँग रमाउने अवसर प्रदान गर्छ ।",
-      "published": "2026-11-26T14:05:21+00:00",
-      "source": "OnlineKhabar",
-      "category": "nepal",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "9ada2c081929f95c",
+      "id": "b2c7055758c8ce98",
       "source_count": 1,
       "verified": false,
-      "local": true,
-      "score": 121.7,
-      "story_size": 1
-    },
-    {
-      "title": "१०औं राष्ट्रिय खेलकुद : पौडीमा पाँच राष्ट्रिय कीर्तिमान, बागमतीको अग्रता कायमै",
-      "link": "https://www.onlinekhabar.com/2026/11/2065951/10th-national-games-five-national-records-in-swimming-bagmati-maintains-lead",
-      "description": "१० मंसिर, सुर्खेत । १०औं राष्ट्रिय खेलकुद प्रतियोगिताअन्तर्गत पौडीमा बिहीबार पाँच नयाँ राष्ट्रिय कीर्तिमान बनेका छन्। तेस्रो दिनको खेल सकिँदा पदक तालिकामा बागमती प्रदेशले आफ्नो अग्रता कायमै राखेको छ। नेपालगञ्ज रंगशालास्थित पौडी पोखरीमा जारी प्रतियोगितामा बागमतीले १२ स्वर्ण, सात रजत र सात कांस्य गरी कुल २६ पदक जितेको छ। दोस्रो स्थानमा रहेको एनआरएनए टोलीले नौ [&#8230;]",
-      "published": "2026-11-26T13:43:39+00:00",
-      "source": "OnlineKhabar",
-      "category": "sports",
-      "image": "",
-      "related_sources": [
-        "OnlineKhabar"
-      ],
-      "id": "09e42e536cabba20",
-      "source_count": 1,
-      "verified": false,
-      "local": true,
-      "score": 120.3,
+      "local": false,
+      "score": 108.7,
       "story_size": 1
     }
   ],
-  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. राष्ट्रिय ऊर्जा नीति निर्माणका लागि उच्चस्तरीय समिति गठन\nस्रोत: Thaha Khabar, Kendrabindu\nhttps://www.thahakhabar.com/detail/312586\n\n2. पूर्वमुख्यसचिव अर्यालको घरमा सीआईबीको छापा\nस्रोत: Baahrakhari, OnlineKhabar\nhttps://baahrakhari.com/detail/508378\n\n3. अमेरिकामा मुद्रास्फीति बढ्यो, ब्याजदर थप वृद्धि हुन सक्ने सङ्केत\nस्रोत: Khabarhub, Ratopati\nhttps://khabarhub.com/2026/26/1052052/\n\n4. रास्वपा मकवानपुरका उपसभापति टाकाराज थापा पदमुक्त\nस्रोत: Ratopati\nhttps://www.ratopati.com/story/607840/rashtriya-swayamsevak-sangh-rss-makawanpur-deputy-chairman-takaraj-thapa-resigns\n\n5. होल्डिङ सेन्टरबाट सुकुमबासी हटाउने निर्णय फिर्ता लिन कांग्रेसको माग\nस्रोत: Ratopati, OnlineKhabar\nhttps://www.ratopati.com/story/607822/congress-demands-withdrawal-of-decision-to-evict-squatters-from-holding-center\n\n6. अनुदानको मल दुरुपयोग गरेपछि…\nस्रोत: Kendrabindu, Gorkhapatra Online\nhttps://kendrabindu.com/nigrani/577135/\n\n7. चोभार गल्छीमा चराका उडान (तस्वीरहरू)\nस्रोत: OnlineKhabar\nhttps://www.onlinekhabar.com/2026/11/2065440/bird-flight-in-chobhar-gulch-photos\n\n8. १०औं राष्ट्रिय खेलकुद : पौडीमा पाँच राष्ट्रिय कीर्तिमान, बागमतीको अग्रता कायमै\nस्रोत: OnlineKhabar\nhttps://www.onlinekhabar.com/2026/11/2065951/10th-national-games-five-national-records-in-swimming-bagmati-maintains-lead\n\n— I Am From Hetauda"
+  "whatsapp": "🇳🇵 आजका प्रमुख समाचार\n\n1. विपत् प्रभावित शिशुलाई सरकारको संरक्षण\nस्रोत: Gorkhapatra Online\nhttps://gorkhapatraonline.com/news/230524\n\n2. आज यस्तो छ विदेशी मुद्राको विनिमयदर\nस्रोत: OnlineKhabar\nhttps://www.onlinekhabar.com/2026/11/2066044/todays-foreign-exchange-rate-is-54\n\n— I Am From Hetauda"
 }
